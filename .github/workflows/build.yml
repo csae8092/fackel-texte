@@ -1,8 +1,7 @@
 name: Build and publish
 
-on: 
-  push:
-
+on:
+  workflow_dispatch
 jobs:
   build_pages:
     name: Publish Edition as GitHub Pages Website
