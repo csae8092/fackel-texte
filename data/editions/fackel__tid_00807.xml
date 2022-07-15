@@ -1,0 +1,45 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00807.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00806.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00808.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Theaternachricht.), in: Fackel Heft 01, Nr. 033, 1900, S. 27-27</title>
+            <title type="iso-date">1900-02-01</title>
+            <title type="id">tid_00807</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">033</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-033_n0027.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/033,027</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Theaternachricht.)</head>
+            <p ana="pr7626">
+<space/><seg type="sidehead">[<seg type="spc">Theaternachricht</seg>.]</seg> Die Première der »<seg type="spc"><rs type="title">Familie <rs type="pers">Wawroch</rs></rs></seg>«<lb/>
+von <rs type="pers" ana="n_5963" ref="#fk__p_43450">Franz <seg type="spc">Adamus</seg></rs> wurde verschoben. <seg type="insult">Herr <rs type="pers" ana="n_5964" ref="#fk__p_43450">Adamus</rs></seg>, der sich behufs<lb/>
+ Ankaufes alter Kleider von Bergarbeitern in <SPAN cont="Mähr.-Ostrau"><abbr>Mähr.</abbr>-Ostrau</SPAN><lb/>
+befindet, hofft — wenn der Hunger der Arbeiter andauert — noch<lb/>
+einige schätzbare Winke für die Regie seines Stückes gewinnen<lb/>
+zu können.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_43450">
+               <persName>Adamus, Franz</persName>
+               <birth>
+                  <date>1867-10-15</date>
+                  <place>Auschwitz</place>
+               </birth>
+               <death>
+                  <date>1948-6-8</date>
+                  <place>Bad Ischl</place>
+               </death>
+               <occupation>Gymnasiallehrer</occupation>
+               <occupation>Schriftsteller</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

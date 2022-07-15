@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07578.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07577.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07579.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Was heißt »und«?, in: Fackel Heft 18, Nr. 445, 1234, S. 25-25</title>
+            <title type="iso-date">1234-01-01</title>
+            <title type="id">tid_07578</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">18</title><title type="heft">445</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-18-445_n0025.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/445,025</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Was heißt »und«?</head>
+            <p ana="pr101895">
+<space/><seg type="symbol" subtype="3dots"/> Heute waren im <rs type="inst">Hotel Bristol</rs> in Warschau auf Einladung<lb/>
+des Generalgouverneurs <rs type="pers" ana="n_66059" ref="#fk__p_54452"><abbr>v.</abbr> Beseler</rs> und des Chefs der Zivilverwaltung<lb/>
+<rs type="pers" ana="n_66060" ref="#fk__p_54614"><abbr>v.</abbr> Kries</rs> die Vertreter <seg type="insult">der deutschen, verbündeten, neutralen <seg type="spc">und</seg><lb/>
+jüdischen Presse</seg> versammelt <seg type="symbol" subtype="4dots"/><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_54614">
+               <persName>Kries, Wolfgang von</persName>
+               <birth>
+                  <date>1868-11-27</date>
+                  <place>Gut Smarzewo bei Schmentlau/Westpreußen</place>
+               </birth>
+               <death>
+                  <date>1945-10-15</date>
+                  <place>Potsdam</place>
+               </death>
+               <occupation>Beamter</occupation>
+               <occupation>Politiker</occupation>
+               <note type="comment">Chef der Zivilverwaltung in Warschau 1. WK</note>
+            </person>
+            <person xml:id="fk__p_54452">
+               <persName>Beseler, Hans Hartwig Baron von</persName>
+               <birth>
+                  <date>1850-04-27</date>
+                  <place>Greifswald</place>
+               </birth>
+               <death>
+                  <date>1921-12-20</date>
+                  <place>Neubabelsberg</place>
+               </death>
+               <occupation>Offizier</occupation>
+               <note type="comment">Generalgouverneur</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

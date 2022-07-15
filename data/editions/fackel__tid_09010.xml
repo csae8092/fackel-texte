@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_09010.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09009.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09011.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Ein Kriegsliedchen von Alfred Kerr), in: Fackel Heft 23, Nr. 577, 1921, S. 40-40</title>
+            <title type="iso-date">1921-11-01</title>
+            <title type="id">tid_09010</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">23</title><title type="heft">577</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-23-577_n0040.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/577,040</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Ein Kriegsliedchen von Alfred Kerr)</head>
+            <p ana="pr120200">
+<space/><seg type="insult">Dieses Kriegsliedchen</seg>, lange gesucht, habe ich endlich<lb/>
+wiedergefunden:<lb/>
+</p>
+            <lg>
+<l>Wir lachen, wenn der <seg type="insult">Feind</seg> uns droht</l>
+<l>Mit Hungertod.</l>
+<l>Uns nährt (und bläht) Kartoffelbrot.</l>
+</lg>
+            <lg>
+<l>Wir essens, wir gedenken auch</l>
+<l><rs type="pers" ana="n_73776" ref="#fk__p_53349">Sir Edward Grey’s</rs> — mit manchem Hauch.</l>
+<l>Der Donner rollt wie Sturm auf See</l>
+<l>Und grollt den Namen <rs type="pers" ana="n_73777" ref="#fk__p_53349">Edward Grey</rs>.</l>
+</lg>
+            <lg>
+<l>(Doch mancher Hauch sagt flüsternd still:</l>
+<l><rs type="pers" ana="n_73778" ref="#fk__p_55629">Churchill</rs>! <rs type="pers" ana="n_73779" ref="#fk__p_55629">Churchill</rs>!)</l>
+</lg>
+            <p ana="pr120207">
+<space/>Der Name des <seg type="insult">Dichters</seg> ist <rs type="pers" ana="n_73780" ref="#fk__p_38072">Alfred <seg type="spc">Kerr</seg></rs>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_53349">
+               <persName>Grey, Edward Viscount of Fallodon</persName>
+               <birth>
+                  <date>1862-04-25</date>
+                  <place>Fallodon</place>
+               </birth>
+               <death>
+                  <date>1933-09-07</date>
+                  <place>Fallodon</place>
+               </death>
+               <occupation>Politiker</occupation>
+            </person>
+            <person xml:id="fk__p_38072">
+               <persName>Kerr, Alfred</persName>
+               <birth>
+                  <date>1867-12-25</date>
+                  <place>Breslau</place>
+               </birth>
+               <death>
+                  <date>1948-10-12</date>
+                  <place>Hamburg</place>
+               </death>
+               <occupation>Kritiker</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11910</idno></person>
+            <person xml:id="fk__p_55629">
+               <persName>Churchill, Winston Leonard</persName>
+               <birth>
+                  <date>1874-11-30</date>
+                  <place>Blenheim Palace/Woodstock</place>
+               </birth>
+               <death>
+                  <date>1965-01-24</date>
+                  <place>London</place>
+               </death>
+               <occupation>Politiker</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

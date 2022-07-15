@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_04598.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04597.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04599.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Ein Zwischenfall bei einem Interview), in: Fackel Heft 09, Nr. 244, 1908, S. 8-8</title>
+            <title type="iso-date">1908-02-17</title>
+            <title type="id">tid_04598</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">09</title><title type="heft">244</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-09-244_n0008.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/244,008</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Ein Zwischenfall bei einem Interview)</head>
+            <p ana="pr52337">
+<space/><seg type="insult">Ein Vertreter der ‚<rs type="paper" ana="werk_15895">Zeit</rs>‘</seg> hat <rs type="pers" ana="n_41451" ref="#fk__p_37842">Sonnenthal</rs> über den<lb/>
+verstorbenen <rs type="pers" ana="n_41452" ref="#fk__p_43933">Krastel</rs> interviewt. Hiebei ereignete sich<lb/>
+<seg type="insult">der folgende Zwischenfall</seg>:<lb/>
+</p>
+            <p ana="pr52338">
+<space/>»<rs type="pers" ana="n_41453" ref="#fk__p_37842">Sonnenthal</rs> blickt durch das Fenster hinaus<lb/>
+über die Baumwipfel im Garten hinweg in die Ferne<lb/>
+und zurück in die Vergangenheit, da er mit <rs type="pers" ana="n_41454" ref="#fk__p_43933">Krastel</rs><lb/>
+gewirkt.«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_37842">
+               <persName>Sonnenthal, Adolf Ritter von</persName>
+               <birth>
+                  <date>1834-12-21</date>
+                  <place>Pest</place>
+               </birth>
+               <death>
+                  <date>1909-4-4</date>
+                  <place>in der Eisenbahn von Prag nach Wien</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <note type="comment">Schwester: Emma Wertheimer, gest. Wien 04.09.1929, im 86. Lj.</note>
+               <note type="comment">Schwester: Laura Lemberger, gest. Wien 23.04.1907, im 71. Lj.</note>
+               <note type="comment">seit 1856 am Burgtheater</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_20204</idno></person>
+            <person xml:id="fk__p_43933">
+               <persName>Krastel, Fritz</persName>
+               <birth>
+                  <date>1839-4-6</date>
+                  <place>Mannheim</place>
+               </birth>
+               <death>
+                  <date>1908-2-12</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/8330</idno></person>
+            </listPerson></back></text>
+</TEI>

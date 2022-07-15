@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_08327.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08326.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08328.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">In Erwartung, in: Fackel Heft 20, Nr. 484, 1918, S. 21-22</title>
+            <title type="iso-date">1918-10-01</title>
+            <title type="id">tid_08327</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">20</title><title type="heft">484</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-20-484_n0021.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/484,021</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>In Erwartung</head>
+            <p ana="pr109981">
+<space/><seg type="symbol" subtype="3dots"/> Über die Behauptungen <rs type="pers" ana="n_68882" ref="#fk__p_44326">Clemenceaus</rs>, betreffend Briefe des<lb/>
+<rs type="pers" ana="n_68883" ref="#fk__p_47385">Kaisers Karl</rs>, wird auf die heutigen offiziellen Veröffentlichungen<lb/>
+hingewiesen, durch welche diese Briefe als absolut falsch und erfunden<lb/>
+bezeichnet werden. <rs type="pers" ana="n_68884" ref="#fk__p_44326">Clemenceau</rs> gibt ja auch keine weiteren <choice><sic>Einzelnheiten</sic><corr>Einzelheiten</corr></choice><lb/>
+über diese Briefe und erwähnt gar nicht, was sonst in diesen Briefen<lb/>
+enthalten sein soll. Doch wir können in Ruhe <seg type="spc">weitere Enthüllungen</seg><lb/>
+abwarten. <seg type="spc">Eine etwaige Wiedergabe von Facsimiles</seg><lb/>
+wird sich <seg type="spc">zweifellos</seg> als <seg type="insult">Schwindel</seg>, als <seg type="insult">Fälschung</seg> herausstellen.<lb/>
+<seg type="spc">Denn</seg> daß diese Briefe Falsifikate sein <seg type="spc">müssen</seg>, <seg type="spc">steht heute<lb/>
+absolut fest</seg>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_44326">
+               <persName>Clemenceau, Georges</persName>
+               <birth>
+                  <date>1841-9-28</date>
+                  <place>Mouilleron-en-Pareds</place>
+               </birth>
+               <death>
+                  <date>1929-11-24</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Arzt</occupation>
+               <occupation>Politiker</occupation>
+               <note type="comment">25.10.1906-24.07.1909, 16.11.1917-20.01.1920 Ministerpräsident</note>
+               <note type="comment">1906-09, 1917-20 Ministerpräsident</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/4719</idno></person>
+            <person xml:id="fk__p_47385">
+               <persName>Karl I., Kaiser</persName>
+               <birth>
+                  <date>1887-08-17</date>
+                  <place>Persenbeug/NÖ</place>
+               </birth>
+               <death>
+                  <date>1922-04-01</date>
+                  <place>Quinta do Monte/Madeira</place>
+               </death>
+               <occupation>Kaiser</occupation>
+               <note type="comment">Ögg teilt irrt. 561/21 zu, da ist Franz Joseph I. gemeint</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

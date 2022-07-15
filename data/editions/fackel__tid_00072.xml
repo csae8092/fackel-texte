@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00072.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00071.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00073.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Alpha., in: Fackel Heft 01, Nr. 004, 1899, S. 28-28</title>
+            <title type="iso-date">1899-05-01</title>
+            <title type="id">tid_00072</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">004</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-004_n0028.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/004,028</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Alpha.</head>
+            <p ana="pr851">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_732" ref="#fk__p_38027">Alpha</rs></seg>.</seg> Sie schreiben: »Ein Wiener Bankdirector hat sich<lb/>
+über Ihre Abfertigung des Romans »<rs type="title">Götzendienst</rs>« wörtlich geäußert:<lb/>
+Recht geschieht’s dem <rs type="pers" ana="n_733" ref="#fk__p_40395">Dessauer</rs>. Immer will er sich auf <seg type="insult">den <rs type="pers" ana="n_734" ref="#fk__p_39835">Cateau</rs><lb/>
+(<abbr>spr.</abbr> <rs type="pers" ana="n_735" ref="#fk__p_39835">Cató</rs>)</seg> hinausspielen. Was heißt das? Entweder man ist ein<lb/>
+Bankdirector oder man ist keiner; <foreign xml:lang="la">Aut <rs type="pers" ana="n_736" ref="#fk__p_39694">Caesar</rs> aut nihil</foreign> <seg type="symbol" subtype="4dots"/> «<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_38027">
+               <persName>Alpha</persName>
+            </person>
+            <person xml:id="fk__p_39694">
+               <persName>Caesar, Gaius Iulius</persName>
+               <birth>
+                  <date>100-7-13</date>
+               </birth>
+               <death>
+                  <date>44-3-15</date>
+                  <place>Rom</place>
+               </death>
+               <occupation>Feldherr</occupation>
+               <occupation>Politiker</occupation>
+               <occupation>Kaiser</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/14796</idno></person>
+            <person xml:id="fk__p_40395">
+               <persName>Dessauer, Adolf</persName>
+               <birth>
+                  <date>1849-02-12</date>
+                  <place>Frankfurt</place>
+               </birth>
+               <death>
+                  <date>1916-01-02</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Bankier</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/4968</idno></person>
+            <person xml:id="fk__p_39835">
+               <persName>Cato, Marcus Portius</persName>
+               <birth>
+                  <date>234 BC</date>
+                  <place>Tusculum</place>
+               </birth>
+               <death>
+                  <date>149 BC</date>
+               </death>
+               <occupation>Politiker</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/62841</idno></person>
+            </listPerson></back></text>
+</TEI>

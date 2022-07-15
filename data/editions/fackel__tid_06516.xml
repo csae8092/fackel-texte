@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06516.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06515.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06517.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Holofernes oder Grünhut?, in: Fackel Heft 15, Nr. 387, 1913, S. 39-39</title>
+            <title type="iso-date">1913-11-01</title>
+            <title type="id">tid_06516</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">15</title><title type="heft">387</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-15-387_n0039.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/387,039</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Holofernes oder Grünhut?</head>
+            <p ana="pr88093">
+<space/><rs type="pers" ana="n_60512" ref="#fk__p_41389"><abbr>Dr.</abbr> Kolischer</rs>: Er sagt, daß er das <rs type="inst">Abgeordnetenhaus</rs> regiert!<lb/>
+</p>
+            <p ana="pr88094">
+<space/><rs type="pers" ana="n_60513" ref="#fk__p_42035"><abbr>Dr.</abbr> Ellenbogen</rs>: Vielleicht kann man auch herausbringen, welche<lb/>
+Mitglieder des <rs type="inst">Sozialpolitischen Ausschusses</rs> in seiner Gewalt stehen!<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_42035">
+               <persName>Ellenbogen, Wilhelm</persName>
+               <birth>
+                  <date>1863-7-9</date>
+                  <place>Lundenburg</place>
+               </birth>
+               <death>
+                  <date>1951-2-25</date>
+                  <place>New York</place>
+               </death>
+               <occupation>Arzt</occupation>
+               <occupation>Politiker</occupation>
+               <note type="comment">Reichsratsabgeordneter 1901-18</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/52796</idno></person>
+            <person xml:id="fk__p_41389">
+               <persName>Kolischer, Heinrich</persName>
+               <birth>
+                  <date>1853-12-31</date>
+                  <place>Lemberg</place>
+               </birth>
+               <death>
+                  <date>1932-6-10</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Industrieller</occupation>
+               <occupation>Politiker</occupation>
+               <note type="comment">verh. mit Mises (Schwiegermutter)</note>
+               <note type="comment">Reichsratsabgeordneter 1897-1918</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

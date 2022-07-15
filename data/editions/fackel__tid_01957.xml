@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01957.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01956.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01958.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Kleine Sommerchronik, in: Fackel Heft 03, Nr. 082, 1901, S. 23-24</title>
+            <title type="iso-date">1901-10-01</title>
+            <title type="id">tid_01957</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">03</title><title type="heft">082</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-03-082_n0023.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/082,023</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Kleine Sommerchronik</head>
+            <p ana="pr19112">
+<space/><date>29. Juli</date>. Die Direction der Südbahn versendet ein Communiqué<lb/>
+, worin sie mittheilt, dass tagszuvor »sich auf der ganzen<lb/>
+Südbahnlinie <seg type="spc">nicht der geringste Unfall</seg> ereignet hat.«<lb/>
+</p>
+            <p ana="pr19115">
+<space/><date>3. August</date>. »<QUOTE rn="1" sourceID="FK-03-082_n0023_a"><rs type="pers" ana="n_16139" ref="#fk__p_40781"><abbr>Dr.</abbr> Benno Meisels</rs>, der bisher beim <rs type="inst">Bezirksgericht<lb/>
+ Leopoldstadt</rs> als Schriftführer in Verwendung stand, wurde<lb/>
+zum <rs type="inst">Landesgericht in Strafsachen</rs> versetzt.</QUOTE>« (<seg ana="‚Neue Freie Presse‘,&#10;Personal-Nachricht."/>)<lb/>
+</p>
+            <p ana="pr19118">
+<space/><date>30. August</date>. »<QUOTE rn="1" sourceID="FK-03-082_n0023_b"><rs type="pers" ana="n_16140" ref="#fk__p_51731">Prinz Tschun</rs> und sein Gefolge lassen den<lb/>
+Schweizerkäse unberührt.</QUOTE>« (<seg ana="Baseler Telegramm der ‚Neuen Freien&#10;Presse‘"/>.)<lb/>
+</p>
+            <p ana="pr19121">
+<space/><date>1. October</date>. [<seg type="insult">Personal-Nachricht</seg>.] Aus Berlin wird gemeldet,<lb/>
+dass <seg type="insult">der Journalist <rs type="pers" ana="n_16141" key="#fk__p_50896">Oskar Löw</rs>, <seg type="spc">Specialberichterstatter der</seg><lb/>
+‚<rs type="paper" ana="werk_6206"><seg type="spc">Neuen Freien Presse</seg></rs>‘</seg>, aus der Wohnung eines Collegen Silbergeräthe<lb/>
+, Schmuckgegenstände und Papiere im Werte von 12.000 <abbr>Mk.</abbr><lb/>
+entwendet hat.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_40781">
+               <persName>Meisels, Benno Georg</persName>
+               <birth>
+                  <date>1875-11-27</date>
+                  <place>Jassy/Rumänien</place>
+               </birth>
+               <death>
+                  <date>1930-10-1</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Publizist</occupation>
+               <note type="comment">4., Schelleingasse 46; Hg. der "Glossen"</note>
+               <note type="comment">Ögg: Richter</note>
+               <note type="comment">Hrsg. der "Glossen"</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_18050</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/21287</idno></person>
+            <person xml:id="fk__p_51731">
+               <persName>Tschun, Prinz</persName>
+               <birth>
+                  <date>1883-2-12</date>
+               </birth>
+               <death>
+                  <date>1951-2-3</date>
+               </death>
+               <note type="comment">Bruder des letzten chinesischen Kaisers, 1901 Europareise</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

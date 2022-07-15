@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_12166.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_12165.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_12167.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Was hör ich?, in: Fackel Heft 34, Nr. 876, 1932, S. 109-110</title>
+            <title type="iso-date">1932-10-01</title>
+            <title type="id">tid_12166</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">34</title><title type="heft">876</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-34-876_n0109.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/876,109</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Was hör ich?</head>
+            <p ana="pr177135">
+<rs type="pers" ana="n_105591" ref="#fk__p_45443">Liebstoeckl</rs> verrät:<lb/>
+</p>
+            <p ana="pr177137">
+<space/><rs type="pers" ana="n_105592" ref="#fk__p_41761"><abbr>Dr.</abbr> Beers</rs> Direktion lebte von der Überzeugung des <rs type="inst">Volkstheatervereines<lb/>
+</rs>, daß es »keinen Besseren« gebe als ihn, und zum<lb/>
+anderen Teil von der Unentschiedenheit einer Presse, deren <seg type="spc">maßgebende</seg><lb/>
+</p>
+            <p ana="pr177137">
+<seg type="spc"> Kritiker zumeist mit Stücken</seg> oder <seg type="spc">Ambitionen<lb/>
+ anderer Art</seg> am Theater beteiligt sind, statt diesem unbefangen<lb/>
+, gerecht und wahrheitsbeflissen gegenüberzustehen. <rs type="pers" ana="n_105593" ref="#fk__p_41761"><abbr>Dr.</abbr> Beer</rs><lb/>
+nützte dieses Zusammentreffen gleichsam für ihn geschaffener Umstände<lb/>
+in überaus kluger Weise <seg type="symbol" subtype="4dots"/><lb/>
+</p>
+            <p ana="pr177139">
+So sprechen sie über sich? (Und mir glauben sie’s nicht.) Wie<lb/>
+das kommt, verrät gleich ein anderer:<lb/>
+</p>
+            <p ana="pr177141">
+<seg type="symbol" subtype="3dots"/> er mischt der Liebenswürdigkeit des <rs type="pers">Bolz</rs> <seg type="spc">etwas vom <seg type="insult">Zynismus<lb/>
+ des heutigen Journalismus</seg></seg> bei <seg type="symbol" subtype="4dots"/><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_41761">
+               <persName>Beer, Rudolf</persName>
+               <birth>
+                  <date>1885-8-22</date>
+                  <place>Graz</place>
+               </birth>
+               <death>
+                  <date>1938-5-9</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Regisseur</occupation>
+               <occupation>Theaterleiter</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/13920</idno></person>
+            <person xml:id="fk__p_45443">
+               <persName>Liebstöckl, Hans</persName>
+               <birth>
+                  <date>1872-2-26</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1934-4-24</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Kritiker</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/20424</idno></person>
+            </listPerson></back></text>
+</TEI>

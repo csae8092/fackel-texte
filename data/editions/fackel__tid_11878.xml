@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_11878.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11877.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11879.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Druckfehlerberichtigung), in: Fackel Heft 33, Nr. 857, 1931, S. 74-74</title>
+            <title type="iso-date">1931-08-01</title>
+            <title type="id">tid_11878</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">33</title><title type="heft">857</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-33-857_n0074.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/857,074</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Druckfehlerberichtigung)</head>
+            <p ana="pr172037">
+<space/><FCORR href="FK-33-852_n0037.xml" ferrID="fk_04_ferr_30021962" id="fk_04_fcorr_30021962">In <rs type="selfRef" ana="werk_32130"><abbr>Nr.</abbr> 852—856</rs>, <abbr>S.</abbr> 37, <abbr>Z.</abbr> 14 (im zitierten Original) statt »Entstehung<lb/>
+«: <EM href="FK-33-852_n0037.xml" ferrID="fk_04_ferr_30021962" id="fk_04_em_30021965"><seg type="i">Entstellung</seg></EM>;</FCORR> <FCORR href="FK-33-852_n0047.xml" ferrID="fk_04_ferr_30021968" id="fk_04_fcorr_30021968"><abbr>S.</abbr> 47, <abbr>Z.</abbr> 13 <EM href="FK-33-852_n0047.xml" ferrID="fk_04_ferr_30021968" id="fk_04_em_30021970">nach »entledigen« ein Komma</EM>;</FCORR><lb/>
+<FCORR href="FK-33-852_n0052.xml" ferrID="fk_04_ferr_30021973" id="fk_04_fcorr_30021973"><abbr>S.</abbr> 52, <abbr>Z.</abbr> 8 statt »204«: <EM href="FK-33-852_n0052.xml" ferrID="fk_04_ferr_30021973" id="fk_04_em_30021975"><seg type="i">205</seg></EM>.</FCORR><lb/>
+</p>
+            <p ana="pr172038">
+<space/>Diesem <rs type="selfRef" ana="werk_32131">Heft</rs> liegt das Notenblatt bei, das an die Stelle der<lb/>
+auf <abbr>S.</abbr> 7 der Beilage der »<rs type="title">Zeitstrophen</rs>« gedruckten Musik von<lb/>
+<rs type="pers" ana="n_102722" ref="#fk__p_37834">Adolf Müller</rs> gehört (siehe <rs type="selfRef" ana="werk_32132"><abbr>Nr.</abbr> 852—856</rs>, <abbr>S.</abbr> 52).<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_37834">
+               <persName>Müller, Adolf sen.</persName>
+               <birth>
+                  <date>1807-10-7</date>
+                  <place>Tolna/Ungarn</place>
+               </birth>
+               <death>
+                  <date>1886-7-29</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <occupation>Kapellmeister</occupation>
+               <occupation>Komponist</occupation>
+               <note type="comment">Ögg erteilt ihm die Lebensdaten von Adolph Müller jun.</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

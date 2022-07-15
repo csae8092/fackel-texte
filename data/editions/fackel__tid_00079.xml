@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00079.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00078.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00080.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Kielmansegg.), in: Fackel Heft 01, Nr. 005, 1899, S. 16-17</title>
+            <title type="iso-date">1899-05-01</title>
+            <title type="id">tid_00079</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">005</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-005_n0016.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/005,016</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Kielmansegg.)</head>
+            <p ana="pr1012">
+<space/>Endgiltige Lösung des Räthsels, warum <rs type="pers" ana="n_799" ref="#fk__p_44662">Graf<lb/>
+<seg type="spc">Kielmansegg</seg></rs> im <rs type="inst">niederösterreichischen Landtag</rs> kein<lb/>
+Wort zum Schutze der obersten Richter fand, als die<lb/>
+christlichsocialen Abgeordneten gegen die bekannte<lb/>
+Entscheidung des <rs type="inst">Verwaltungsgerichtshofes</rs> Sturm liefen.<lb/>
+</p>
+            <p ana="pr1013">
+<space/>Er war der Meinung, dass sich der Drohruf,<lb/>
+<foreign xml:lang="de-loc">»<seg type="spc">Mir wern kan Richter brauchen</seg>!«</foreign> nur auf den<lb/>
+<rs type="event">Taxameterstreit der Wiener Einspänner</rs> beziehen könne.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_44662">
+               <persName>Kielmansegg, Erich Graf</persName>
+               <birth>
+                  <date>1847-02-13</date>
+                  <place>Hannover</place>
+               </birth>
+               <death>
+                  <date>1923-02-05</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <note type="comment">23 Jahre lang Statthalter von Niederösterreich, 1895 kurzzeitig Ministerpräsident</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

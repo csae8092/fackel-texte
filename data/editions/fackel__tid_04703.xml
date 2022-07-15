@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_04703.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04702.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04704.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Aus einem Feuilleton des Herrn Auernheimer), in: Fackel Heft 10, Nr. 256, 1908, S. 8-8</title>
+            <title type="iso-date">1908-06-5</title>
+            <title type="id">tid_04703</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">10</title><title type="heft">256</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-10-256_n0008.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/256,008</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Aus einem Feuilleton des Herrn Auernheimer)</head>
+            <p ana="pr54859">
+<space/>Die Leser der ‚<rs type="paper" ana="werk_16112">Neuen Freien Presse</rs>‘, die sich in den Zeiten<lb/>
+<rs type="pers" ana="n_42605" ref="#fk__p_49331">Speidels</rs> oft darüber beklagten, daß das Feuilleton in einem unverständlichen<lb/>
+ Deutsch gehalten sei, sind jetzt mit ihrer Lektüre<lb/>
+vollauf zufrieden. Ein Feuilleton <seg type="insult">des Herrn <rs type="pers" ana="n_42606" ref="#fk__p_52017">Auernheimer</rs></seg> brachte<lb/>
+kürzlich schon in seiner ersten Zeile die folgende anheimelnde<lb/>
+Wendung: »<seg type="spc">Man sagt</seg>, <seg type="spc">der Engländer</seg>, <seg type="spc">wenn er nervös<lb/>
+wird</seg>, <seg type="spc">nimmt ein Billet nach Kapstadt und retour</seg>«. Endlich<lb/>
+ wieder einmal ein Satz, den man lesen konnte, ohne sich an<lb/>
+den Kopf zu greifen und zu fragen: Was hat er gesagt?<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_49331">
+               <persName>Speidel, Ludwig</persName>
+               <birth>
+                  <date>1830-4-11</date>
+                  <place>Ulm</place>
+               </birth>
+               <death>
+                  <date>1906-2-3</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Kritiker</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12816</idno></person>
+            <person xml:id="fk__p_52017">
+               <persName>Auernheimer, Raoul</persName>
+               <birth>
+                  <date>1876-4-15</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1948-1-6</date>
+                  <place>Oakland/Kalifornien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Journalist</occupation>
+               <occupation>Kritiker</occupation>
+               <note type="comment">404/13 "vergleichen eine Festung", s. NFP 31.07.1914 (Hinweis Schwarzer)</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10788</idno></person>
+            </listPerson></back></text>
+</TEI>

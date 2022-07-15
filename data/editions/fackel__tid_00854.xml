@@ -1,0 +1,48 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00854.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00853.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00855.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Ein Druckfehler.), in: Fackel Heft 01, Nr. 035, 1900, S. 30-30</title>
+            <title type="iso-date">1900-03-01</title>
+            <title type="id">tid_00854</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">035</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-035_n0030.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/035,030</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Ein Druckfehler.)</head>
+            <p ana="pr8085">
+<space/>In den sonntägigen Bericht der ‚<rs type="paper" ana="werk_2256">Neuen Freien Presse</rs>‘ über<lb/>
+die Aufführung einer Operette in einer <choice><sic>Dilettantenvorstelllung</sic><corr>Dilettantenvorstellung</corr></choice> hat<lb/>
+sich ein bedauerlicher Druckfehler eingeschlichen. Dort stand:<lb/>
+»<rs type="pers" ana="n_6315" ref="#fk__p_39897">Charles Weinberger</rs> hat die Musik zu dem lustigen Text schon vor<lb/>
+Jahren componiert. Inzwischen hat er der Operette mehrere reizende<lb/>
+Melodien aus <seg type="spc">seinen erfolgreichen früheren Werken</seg> hinzugefügt<lb/>
+ und ihr so eine glänzende Aufnahme gesichert.« Richtig soll<lb/>
+es natürlich heißen: »— — — mehrere reizende Melodien aus <seg type="insult"><seg type="spc">feinen</seg>,<lb/>
+erfolgreichen, früheren Werken</seg>.«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_39897">
+               <persName>Weinberger, Charles</persName>
+               <birth>
+                  <date>1861-4-3</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1939-11-1</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Komponist</occupation>
+               <note type="comment">Operette "Pagenstreiche" (1888)</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/26806</idno></person>
+            </listPerson></back></text>
+</TEI>

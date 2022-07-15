@@ -1,0 +1,47 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_08401.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08400.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08402.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Gerichtssaalbericht, in: Fackel Heft 20, Nr. 484, 1918, S. 80-80</title>
+            <title type="iso-date">1918-10-01</title>
+            <title type="id">tid_08401</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">20</title><title type="heft">484</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-20-484_n0080.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/484,080</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Gerichtssaalbericht</head>
+            <p ana="pr110667">
+<space/>— — <DATERANGE>Mitte November</DATERANGE> redete sich Direktor <rs type="pers" ana="n_69122" ref="#fk__p_55207">Wallner</rs> aus, er<lb/>
+könne jetzt nicht zehn Proben abhalten, <seg type="spc">er müsse das Stück<lb/>
+des <RS pers="Ernst von Seidler-Feuchtenegg" globID="name_202803">Ministerpräsidenten</RS> aufführen</seg>, beschwor ihn, von<lb/>
+dem Termin abzustehen und versprach ihm unter Ehrenwort — —<lb/>
+</p>
+            <p ana="pr110669">
+<space/><seg type="insult">Unsere Zeitungen</seg> sollte man wirklich nicht ins Ausland<lb/>
+lassen.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_55207">
+               <persName>Wallner, Karl</persName>
+               <birth>
+                  <date>1857-8-20</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1935-11-24</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Theaterleiter</occupation>
+               <note type="comment">dreimaliger Direktor des Dt. Volkstheaters</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

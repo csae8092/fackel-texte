@@ -1,0 +1,43 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_05041.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05040.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05042.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ein sonderbarer Schwärmer, in: Fackel Heft 11, Nr. 296, 1910, S. 46-46</title>
+            <title type="iso-date">1910-02-18</title>
+            <title type="id">tid_05041</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">11</title><title type="heft">296</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-11-296_n0046.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/296,046</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ein sonderbarer Schwärmer</head>
+            <p ana="pr63628">
+<space/>In einem Brief, den <rs type="pers" ana="n_46922" ref="#fk__p_38372">Anton Tschechow</rs> über einen Aufenthalt<lb/>
+in Wien geschrieben hat, soll der Satz vorkommen: »O, meine<lb/>
+Freunde, wenn ihr nur wüßtet, wie schön Wien ist! <seg type="symbol" subtype="3dots"/> Die<lb/>
+Straßen sind breit, <seg type="spc">schön gepflastert</seg> <seg type="symbol" subtype="3dots"/>«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_38372">
+               <persName>Tschechow, Anton Pawlowitsch</persName>
+               <birth>
+                  <date>1860-1-29</date>
+                  <place>Taganrog</place>
+               </birth>
+               <death>
+                  <date>1904-7-15</date>
+                  <place>Badenweiler</place>
+               </death>
+               <occupation>Arzt</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_20823</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_11874.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11873.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11875.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(»Kinder als Zeitungsleser«), in: Fackel Heft 33, Nr. 857, 1931, S. 71-72</title>
+            <title type="iso-date">1931-08-01</title>
+            <title type="id">tid_11874</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">33</title><title type="heft">857</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-33-857_n0071.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/857,071</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(»Kinder als Zeitungsleser«)</head>
+            <p ana="pr172008">
+Anders als sich die Sozialdemokratie »<rs type="title">Kinder als Zeitungsleser</rs>«<lb/>
+(siehe <rs type="selfRef" ana="werk_32119"><abbr>Nr.</abbr> 852—856</rs>, <abbr>S.</abbr> 1 <abbr>ff.</abbr>) vorstellt:<lb/>
+</p>
+            <p ana="pr172010">
+<space/>Soll in der Welt Toleranz herrschen, so muß die Gewöhnung,<lb/>
+Beweispunkte abzuwägen, und ebenso die Praxis, Lehrsätzen nicht<lb/>
+völlig beizustimmen, deren Wahrheit nicht begründbar ist, unter den<lb/>
+</p>
+            <p ana="pr172010">
+in der Schule gelehrten Materien sich befinden. Zum Beispiel müßte<lb/>
+die Kunst des Zeitungslesens gelehrt werden. Der Lehrer sollte irgendein<lb/>
+ Ereignis auswählen, das eine tüchtige Anzahl Jahre zurückliegt<lb/>
+und seinerzeit die politischen Leidenschaften aufgerührt hat. Er müßte<lb/>
+den Schulkindern vorlesen, was von den Zeitungen auf der einen Seite<lb/>
+und was von denen auf der andern dazu gesagt wurde, und daneben<lb/>
+einen unparteiischen Bericht über den wahren Tatbestand. Er müßte<lb/>
+dartun, wie ein geübter Leser aus dem jeweils einseitigen Bericht sich<lb/>
+das wirkliche Begebnis herausschälen könnte, und er würde ihnen begreiflich<lb/>
+ machen, <seg type="spc">daß in den Zeitungen alles mehr oder<lb/>
+weniger unwahr ist</seg>. Der zynische Skeptizismus, der solchen<lb/>
+Lehren entspringt, würde die Kinder fürs spätere Leben immun machen<lb/>
+gegen den Appell an den Idealismus, an jenen Idealismus nämlich,<lb/>
+durch den <seg type="spc">anständige Leute dazugebracht werden</seg>, <seg type="spc">die<lb/>
+Entwürfe von <seg type="insult">Schurken</seg> zu fördern</seg>.<lb/>
+</p>
+            <p ana="pr172011">
+<rs type="pers" ana="n_102701" ref="#fk__p_39185"><AUCTOR>Bertrand <FERR href="FK-33-864_n0054.xml" fcorrID="fk_04_fcorr_30022497" id="fk_04_ferr_30022497" emID="fk_04_em_30022500"><ERR fcorr="Russell"><seg type="spc">Russel</seg></ERR></FERR></AUCTOR></rs>, »<rs type="title">Wissen und Wahn.<lb/>
+Skeptische Essays</rs>.« Originalverlag: <rs type="inst"><rs type="pers" ana="n2_9191" key="#fk__p_57474">Allen</rs> &amp; <rs type="pers" ana="n2_9192" key="#fk__p_59064">Unwin</rs></rs>.<lb/>
+Deutsch von <rs type="pers" ana="n_102702" ref="#fk__p_47655">Karl Wolfskehl</rs>, <rs type="inst">Drei Masken Verlag</rs>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_47655">
+               <persName>Wolfskehl, Karl</persName>
+               <birth>
+                  <date>1869-9-17</date>
+                  <place>Darmstadt</place>
+               </birth>
+               <death>
+                  <date>1948-6-30</date>
+                  <place>Bayswater/Auckland, Neuseeland</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10602</idno></person>
+            <person xml:id="fk__p_39185">
+               <persName>Russell, Bertrand</persName>
+               <birth>
+                  <date>1872-05-18</date>
+                  <place>Trelleck</place>
+               </birth>
+               <death>
+                  <date>1970-02-2</date>
+                  <place>Plas Penrhyn (bei Penrhyndeudraeth, County Gwynedd</place>
+               </death>
+               <occupation>Philosoph</occupation>
+               <occupation>Schriftsteller</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

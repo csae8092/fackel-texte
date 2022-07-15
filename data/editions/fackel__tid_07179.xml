@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07179.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07178.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07180.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Eine Neuerung, in: Fackel Heft 18, Nr. 426, 1916, S. 18-18</title>
+            <title type="iso-date">1916-06-01</title>
+            <title type="id">tid_07179</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">18</title><title type="heft">426</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-18-426_n0018.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/426,018</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Eine Neuerung</head>
+            <p ana="pr97351">
+<space/>— Dem Oberleutnant <rs type="pers" ana="n_64812" key="#fk__p_46262"><seg type="spc">Horaz</seg> Ritter <abbr>v.</abbr> <SPAN sug="(undefined)">......</SPAN></rs> Inspektionsoffizier<lb/>
+in der <rs type="inst">Rotunde</rs> <seg type="symbol" subtype="3dots"/> zweiter Klasse <seg type="symbol" subtype="3dots"/> Kriegsdekoration <seg type="symbol" subtype="5dots"/><lb/>
+</p>
+            <p ana="pr97353">
+<space/>Wer die <seg type="insult"><rs type="paperRef" ana="werk_41377"><seg type="ELIDASH">Hofnachrichten</seg> und Personalnachrichten</rs></seg> besser als die Oden<lb/>
+und Epoden gelernt hat, kennt nur die unregelmäßige Form »<rs type="pers" ana="n_64813" key="#fk__p_46262">Horace</rs>«.<lb/>
+Die Ehre wird den Franzosen, die es sich selbst zuzuschreiben haben,<lb/>
+jetzt abgesprochen. Warum sie aber den Römern angetan wird und<lb/>
+wodurch es der Liebling des <rs type="pers" ana="n_64814" ref="#fk__p_38600">Augustus</rs> und der Götter verdient<lb/>
+hat, der doch <foreign xml:lang="la">procul negotiis</foreign> leben wollte, also absichtlich<lb/>
+1924 Jahre vor dem <rs type="event">Weltkrieg</rs> starb, ist unerfindlich. Den alten<lb/>
+Adel mögen sie haben — aber um die alten Namen ist’s schade.<lb/>
+Eine Perle aus dem Kronschatz geweihter Vorstellungen brechen,<lb/>
+als ob’s nicht genug schöne jüdische Vornamen gäbe, ist der pure<lb/>
+Mutwille.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_38600">
+               <persName>Augustus</persName>
+               <birth>
+                  <date>63-9-23 BC</date>
+                  <place>Velitrae</place>
+               </birth>
+               <death>
+                  <date>14-8-19</date>
+                  <place>Nola</place>
+               </death>
+               <occupation>Kaiser</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,43 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07706.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07705.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07707.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Der tragische Karneval, in: Fackel Heft 18, Nr. 445, 1234, S. 159-159</title>
+            <title type="iso-date">1234-01-01</title>
+            <title type="id">tid_07706</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">18</title><title type="heft">445</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-18-445_n0159.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/445,159</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Der tragische Karneval</head>
+            <p ana="pr103389">
+<space/>Berlin, <date>10. November</date>. Die <seg type="spc">Tochter</seg> des früheren kommandierenden<lb/>
+ <RS pers="Gustav Hermann von Alvensleben" globID="rs_776">Generals</RS> <rs type="pers" ana="n_66727" ref="#fk__p_50783">Oda <abbr>v.</abbr> Alvensleben</rs> aus Stuttgart hat mit einer<lb/>
+Arbeit »<rs type="title"><seg type="spc">Der Handelskrieg der deutschen Unterseeboote<lb/>
+ nach Völkerrecht</seg></rs>« an der staatswissenschaftlichen<lb/>
+Fakultät der <rs type="inst">Universität Tübingen</rs> den <seg type="spc">Doktorgrad</seg> erworben.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_50783">
+               <persName>Alvensleben, Oda von</persName>
+               <birth>
+                  <date>1889</date>
+               </birth>
+               <death>
+                  <date>1924</date>
+               </death>
+               <occupation>Schriftstellerin</occupation>
+               <note type="comment">verh. mit dem Schweizer Rechtsanwalt Dr. Paul Arni, Tochter von Gustav Hermann v. A.</note>
+               <note type="comment">Der Handelskrieg der deutschen Unterseeboote nach Völkerrecht, 1916</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

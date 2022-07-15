@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_11569.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11568.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11570.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">4. Dezember:, in: Fackel Heft 32, Nr. 845, 1930, S. 18-19</title>
+            <title type="iso-date">1930-12-01</title>
+            <title type="id">tid_11569</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">32</title><title type="heft">845</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-32-845_n0018.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/845,018</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>4. Dezember:</head>
+            <p ana="pr168054">
+<space/><date>4. Dezember</date>:<lb/>
+</p>
+            <p ana="pr168055">
+<space/><rs type="title"><seg type="spc">Das Wintermärchen</seg></rs>.<lb/>
+</p>
+            <p ana="pr168056">
+<space/>Begleitung: <rs type="pers" ana="n_100575" ref="#fk__p_43546">Franz Mittler</rs>.<lb/>
+</p>
+            <p ana="pr168057">
+<space/>Vorrede zu dem ersten Auftreten in Breslau:<lb/>
+</p>
+            <p ana="pr168059">
+<space/>Ich habe kürzlich in Wien die Erwartung der sogenannten<lb/>
+»<rs type="title">Eigenen Schriften</rs>« betrogen, indem ich <seg type="insult">falschen Anhängern</seg> das<lb/>
+Gastmahl des <rs type="pers">Timon</rs> vorsetzte. Ich will diese Erwartung überall<lb/>
+enttäuschen, sei es, daß ich von mir zu <rs type="pers" ana="n_100576" ref="#fk__p_55589">Shakespeare</rs> übergehe,<lb/>
+um die <seg type="insult">Jammerhaftigkeit der Gegenwart</seg> in heroischeren Dimensionen<lb/>
+ bildhaft zu machen, sei es, daß ich, Autor der »<rs type="title">Letzten<lb/>
+Tage der Menschheit</rs>«, in den erlösenden Geistesrausch <rs type="pers" ana="n_100577" ref="#fk__p_46664">Offenbachs<lb/>
+</rs> flüchte, den <seg type="insult">Kommisverstand</seg> zurücklassend, der das verzauberte<lb/>
+ Wort als »albern« agnoszieren mag, mich tröstend, daß<lb/>
+ich zur Not auch so intelligent sein könnte wie die <rs type="paper" ana="werk_40639">Vossische<lb/>
+Zeitung</rs>. Um aber dem <seg type="insult">Kommisverstand</seg>, der ja überall in der<lb/>
+Welt vertreten sein dürfte, doch etwas aus <rs type="title">Eigenen Schriften</rs> zu<lb/>
+bieten, zitiere ich aus der Wiener Rede zum »<rs type="title"><rs type="pers">Timon</rs></rs>« Sätze, die<lb/>
+meinen Widerwillen gegen die <seg type="ELIDASH">Zeitnähe</seg> und Raumnähe des <seg type="insult">Ungeistes</seg><lb/>
+bekunden: — — —<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_55589">
+               <persName>Shakespeare, William</persName>
+               <birth>
+                  <date>1564-4-23?</date>
+                  <place>Stratford-upon-Avon</place>
+               </birth>
+               <death>
+                  <date>1616-4-23</date>
+                  <place>Stratford-upon-Avon</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2412</idno></person>
+            <person xml:id="fk__p_46664">
+               <persName>Offenbach, Jacques</persName>
+               <birth>
+                  <date>1819-06-21</date>
+                  <place>Köln</place>
+               </birth>
+               <death>
+                  <date>1880-10-05</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Komponist</occupation>
+               <note type="comment">Ögg teilt Fortunato F 876/34 Shakespeare zu</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/9131</idno></person>
+            <person xml:id="fk__p_43546">
+               <persName>Mittler, Franz</persName>
+               <birth>
+                  <date>1893-4-14</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1970-12-28</date>
+                  <place>München</place>
+               </death>
+               <occupation>Pianist</occupation>
+               <note type="comment">auch Klavierbegleiter von Karl Kraus</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/8955</idno></person>
+            </listPerson></back></text>
+</TEI>

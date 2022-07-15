@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_04380.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04379.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04381.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ungar. (Eine Polonyi-Notiz), in: Fackel Heft 08, Nr. 218, 1907, S. 21-21</title>
+            <title type="iso-date">1907-02-5</title>
+            <title type="id">tid_04380</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">08</title><title type="heft">218</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-08-218_n0021.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/218,021</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ungar. (Eine Polonyi-Notiz)</head>
+            <p ana="pr47808">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="name_203579" key="#fk__p_60697">Ungar</rs>.</seg></seg></seg> Aus dem <seg ana="‚Temps‘"/> vom <date>25. Jänner</date>: <foreign xml:lang="fr">»<QUOTE rn="1" sourceID="FK-08-218_n0021_a">Parmi les griefs<lb/>
+relevés contre <abbr>M.</abbr> <rs type="pers" ana="n_38675" ref="#fk__p_51604">Polonyi</rs> il y en a un assez inattendu et très amusant:<lb/>
+c’est que, pendant le dernier séjour de la cour à Budapest, il envoyait<lb/>
+tous les jours des fleurs et des bonbons à <abbr>Mme.</abbr> <rs type="pers" ana="n_38676" ref="#fk__p_47718">Schratt</rs>, artiste bien<lb/>
+connue du <rs type="inst">théâtre impérial de la Burg</rs>. Cela était, certes, d’un adroit<lb/>
+courtisan, bien qu’un peu appuyé.</QUOTE>«</foreign><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_51604">
+               <persName>Polonyi, Géza</persName>
+               <birth>
+                  <date>1848-04-03</date>
+                  <place>Zsitvakenesz</place>
+               </birth>
+               <death>
+                  <date>1920-02-01</date>
+                  <place>Budapest</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <occupation>Jurist</occupation>
+            </person>
+            <person xml:id="fk__p_47718">
+               <persName>Schratt, Katharina</persName>
+               <birth>
+                  <date>1853-9-11</date>
+                  <place>Baden</place>
+               </birth>
+               <death>
+                  <date>1940-4-17</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schauspielerin</occupation>
+               <note type="comment">10. 11. 1883 bis 1900 Hofburgth.</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2680</idno></person>
+            </listPerson></back></text>
+</TEI>

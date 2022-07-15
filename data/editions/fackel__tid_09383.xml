@@ -1,0 +1,115 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_09383.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09382.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09384.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Spendenausweis), in: Fackel Heft 25, Nr. 613, 1923, S. 58-59</title>
+            <title type="iso-date">1923-04-01</title>
+            <title type="id">tid_09383</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">25</title><title type="heft">613</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-25-613_n0058.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/613,058</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Spendenausweis)</head>
+            <p ana="pr124915">
+<space/>Der volle Ertrag des <rs type="pers" ana="n_76863" ref="#fk__p_46919">Nestroy-Zyklus</rs>:<lb/>
+K 26,641.050<lb/>
+</p>
+            <p ana="pr124916">
+(darunter zwei Spenden <seg type="symbol" subtype="equals"/> K 20.000; die <rs type="inst">Buchhandlung <rs type="pers" ana="n2_7014" ref="#fk__p_52185"><abbr>R.</abbr> Lányi</rs></rs><lb/>
+hatte auf die Verkaufsprovision, die Druckerei auf die Hälfte der<lb/>
+Programmkosten verzichtet) ist wie folgt verteilt worden:<lb/>
+</p>
+            <p ana="pr124917">
+<space/><rs type="inst">Israelitisches Blindeninstitut</rs>, Wien XIX. Hohe Warte K 5,000.000;<lb/>
+<rs type="inst">Blindenheim für israelitische Mädchen</rs>, Hohe Warte (Direktor <rs type="pers" ana="n_76864" ref="#fk__p_53250">Siegfried<lb/>
+Altmann</rs>) 5,000.000; <rs type="inst">Taubstummblindenheim</rs> XIII. Linzerstraße 478<lb/>
+(Direktor <rs type="pers" ana="n_76865" ref="#fk__p_49875">Matthias Praxmayr</rs>) 5,000.000; <rs type="inst">Haus der Barmherzigkeit<lb/>
+zur Pflege Unheilbarer</rs> 2,000.000; <rs type="inst">Bereitschaft</rs> 2,000.000; <rs type="inst">Kinderasyl<lb/>
+Kahlenbergerdorf</rs> 2,000.000; <rs type="inst">Kinderfreunde, Ortsgruppe Landstraße</rs><lb/>
+1,000.000; <rs type="inst">Blindenerziehungsinstitut</rs> 1,000.000; <rs type="inst">Israelitische Kinderbewahranstalt<lb/>
+</rs> 500.000; <rs type="inst">Wiener Frauenverein zum Schutze armer<lb/>
+verlassener Kinder</rs> 500.000; <rs type="inst"><abbr>Allgem. österr. israel.</abbr> Taubstummeninstitut<lb/>
+</rs> 500.000; Eine Arme 391.050; Die vom <rs type="inst">Bezirksgericht Fünfhaus</rs><lb/>
+freigesprochene hungernde Frau 372.800; <rs type="inst">I. <abbr>österr.</abbr> Blindenverein</rs><lb/>
+313.600; <rs type="inst">Verein zur Errichtung und Erhaltung von Volksspeisehallen<lb/>
+»Einheit«</rs> 313.600; Notleidende Schauspieler 300.000; Zur Errichtung<lb/>
+eines Grabmals für <rs type="pers" ana="n_76866" ref="#fk__p_54239">Georg Trakl</rs> (Sammlung des ‚<rs type="magazine" ana="werk_24749">Brenner</rs>‘, Innsbruck)<lb/>
+300.000; Eine Notleidende 150.000.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_53250">
+               <persName>Altmann, Siegfried</persName>
+               <birth>
+                  <date>1887-7-12</date>
+                  <place>Nikolsburg/Mähren</place>
+               </birth>
+               <death>
+                  <date>1963-9-14</date>
+                  <place>New York</place>
+               </death>
+               <occupation>Institutsleiter</occupation>
+               <note type="comment">Direktor des Blindenheims für isr. Mädchen</note>
+            </person>
+            <person xml:id="fk__p_49875">
+               <persName>Praxmayr, Matthias</persName>
+               <birth>
+                  <date>1871-2-16</date>
+                  <place>Eugendorf/Salzburg</place>
+               </birth>
+               <death>
+                  <date>1946-1-15</date>
+                  <place>Neumarkt am Wallersee</place>
+               </death>
+               <occupation>Seelsorger</occupation>
+               <note type="comment">Leiter eines Taubstummenblindenheims in Wien; Linzerstr. 478</note>
+            </person>
+            <person xml:id="fk__p_52185">
+               <persName>Lányi, Richard</persName>
+               <birth>
+                  <date>1884-12-9</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1942-5-28</date>
+                  <place>Konzentrationslager Auschwitz</place>
+               </death>
+               <occupation>Buchhändler</occupation>
+               <occupation>Verleger</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/20707</idno></person>
+            <person xml:id="fk__p_46919">
+               <persName>Nestroy, Johann Nepomuk</persName>
+               <birth>
+                  <date>1801-12-7</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1862-5-25</date>
+                  <place>Graz</place>
+               </death>
+               <occupation>Sänger</occupation>
+               <occupation>Schauspieler</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12338</idno></person>
+            <person xml:id="fk__p_54239">
+               <persName>Trakl, Georg</persName>
+               <birth>
+                  <date>1887-2-3</date>
+                  <place>Salzburg</place>
+               </birth>
+               <death>
+                  <date>1914-11-3</date>
+                  <place>Krakau</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36113</idno></person>
+            </listPerson></back></text>
+</TEI>

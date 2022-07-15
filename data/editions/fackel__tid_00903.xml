@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00903.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00902.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00904.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Besorgten Eltern. (Der vierte Selbstmord an der Handelsakademie), in: Fackel Heft 02, Nr. 037, 1900, S. 31-32</title>
+            <title type="iso-date">1900-04-01</title>
+            <title type="id">tid_00903</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">037</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-037_n0031.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/037,031</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Besorgten Eltern. (Der vierte Selbstmord an der Handelsakademie)</head>
+            <p ana="pr8528">
+<space/><seg type="sidehead"><seg type="i">Besorgten Eltern.</seg></seg> Am Tage des Erscheinens der <rs type="selfRef" ana="werk_2393"><abbr>Nr.</abbr> 36</rs> der<lb/>
+‚<rs type="self" ana="werk_2394">Fackel</rs>‘, die den Selbstmord eines <rs type="inst">Handelsakademikers</rs> besprach,<lb/>
+meldeten die Tagesblätter kurz und commentarlos, dass abermals ein<lb/>
+Zögling <seg type="insult">des Herrn <rs type="pers" ana="n_6714" ref="#fk__p_41773">Sonndorfer</rs></seg> sich das Leben genommen habe. Es<lb/>
+war der <seg type="spc">Vierte</seg> in der Reihe der Frequentanten der Wiener <rs type="inst">Handelsakademie</rs><lb/>
+</p>
+            <p ana="pr8528">
+<rs type="inst"/>, die seit Beginn dieses Schuljahres in den Tod gegangen<lb/>
+sind. Ich verspreche, dass ich auf die zahllosen Zuschriften, die ich<lb/>
+seither von den bekümmerten Eltern der Ueberlebenden, sowie von<lb/>
+ehemaligen Hörern der Anstalt erhalten habe, in der <rs type="selfRef" ana="werk_40042">nächsten<lb/>
+Nummer</rs> zurückkommen werde.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_41773">
+               <persName>Sonndorfer, Rudolf</persName>
+               <birth>
+                  <date>1839-4-14</date>
+                  <place>Böhmischkrut</place>
+               </birth>
+               <death>
+                  <date>1910-12-04</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Lehrer an d. Wiener Handelsakademie</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

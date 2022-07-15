@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_08482.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08481.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08483.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Unwillkürlich muß er denken, in: Fackel Heft 20, Nr. 484, 1918, S. 169-170</title>
+            <title type="iso-date">1918-10-01</title>
+            <title type="id">tid_08482</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">20</title><title type="heft">484</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-20-484_n0169.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/484,169</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Unwillkürlich muß er denken</head>
+            <p ana="pr111477">
+<space/><seg type="symbol" subtype="3dots"/> So verschiedenartig nun in ihrem Äußern und in ihrem ganzen<lb/>
+Wesen diese beiden Menschen sind, so spürt man doch sehr stark den<lb/>
+verwandtschaftlichen Zug, der sie verbindet. Unwillkürlich muß man<lb/>
+</p>
+            <p ana="pr111477">
+an <rs type="title">die Brüder <rs type="pers">Karamasow</rs></rs> aus dem großen Roman <rs type="pers" ana="n_69492" ref="#fk__p_43055">Dostojewskis</rs><lb/>
+denken, an den wilden, ungestümen <rs type="pers">Mitja</rs> und an den sanften,<lb/>
+knabenhaften <rs type="pers">Aljoscha</rs>.<lb/>
+</p>
+            <p ana="pr111479">
+<space/><seg type="insult">Nämlich Herr <rs type="pers" ana="n_69493" ref="#fk__p_51273">Zifferer</rs>, nämlich über die beiden Raubmörder<lb/>
+vom <rs type="inst">Hotel Bristol</rs>.</seg> Besonders der Vergleich des <rs type="pers" ana="n_69494" ref="#fk__p_48391">Kurt Franke</rs> mit<lb/>
+<rs type="pers">Aljoscha</rs>, der sich einem aufdrängt, hat etwas Bestechendes. In<lb/>
+einem Kulturstaat, dessen <rs type="perRef" ana="werk_21484">größte Zeitung</rs> so etwas gebracht hätte,<lb/>
+würden der Verfasser und der Herausgeber sich bis zum Lebensende<lb/>
+ nicht auf die Straße trauen und hierauf keinen Kadisch<lb/>
+erhalten.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_51273">
+               <persName>Zifferer, Paul</persName>
+               <birth>
+                  <date>1879-3-9</date>
+                  <place>Bistritz, Mähren</place>
+               </birth>
+               <death>
+                  <date>1929-2-14</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Red. der NFP</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/5156</idno></person>
+            <person xml:id="fk__p_43055">
+               <persName>Dostojewski, Fjodor Michailowitsch</persName>
+               <birth>
+                  <date>1821-11-11</date>
+                  <place>Moskau</place>
+               </birth>
+               <death>
+                  <date>1881-2-9</date>
+                  <place>Petersburg</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_14500</idno></person>
+            <person xml:id="fk__p_48391">
+               <persName>Franke, Kurt</persName>
+               <birth>
+                  <date>1901?</date>
+               </birth>
+               <occupation>Mörder</occupation>
+               <note type="comment">7.8.1918 zu 15 Jahren Kerker verurteilt, zugleich Todesurteil gegen Emmo Davit</note>
+               <note type="comment">Bericht über den Mordprozeß ab NFP 4.8.1918, Seite 12</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/4045</idno></person>
+            </listPerson></back></text>
+</TEI>

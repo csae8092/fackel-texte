@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02156.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02155.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02157.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Entarteter. (Also sprach Nordau), in: Fackel Heft 03, Nr. 090, 1902, S. 31-32</title>
+            <title type="iso-date">1902-01-4</title>
+            <title type="id">tid_02156</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">03</title><title type="heft">090</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-03-090_n0031.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/090,031</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Entarteter. (Also sprach Nordau)</head>
+            <p ana="pr20992">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="n_18140" key="#fk__p_42714">Entarteter</rs>.</seg></seg></seg> <seg type="insult">Herr <rs type="pers" ana="n_18141" ref="#fk__p_49957"><seg type="spc">Nordau</seg></rs></seg> versicherte am <date>28. December</date>, dass<lb/>
+<rs type="pers" ana="n_18142" ref="#fk__p_48747"><seg type="spc">Tolstoi</seg></rs> für »Millionen hochgebildeter Russen« nichts sei als ein<lb/>
+»<seg type="insult">absurder Confusionsrath</seg>, der nur lächerlich wäre, wenn sein <seg type="insult">mystisch-anarchistisches<lb/>
+ Geschwätz</seg> <seg type="insult">Schwachköpfen</seg> nicht gefährlich werden könnte«.<lb/>
+Und über <rs type="pers" ana="n_18143" ref="#fk__p_45852"><seg type="spc">Ibsen</seg></rs> meinte er, dass »<seg type="insult">seine symbolistische Philosophie</seg> und<lb/>
+<seg type="insult">seine individualistisch sein sollende Weltanschauung</seg>, die von <seg type="insult">denkunfähigen<lb/>
+ Schönschwätzern</seg> für Tiefsinn ausgegeben werden, von klaren<lb/>
+</p>
+            <p ana="pr20992">
+Köpfen als <seg type="insult">barer Unsinn</seg> erkannt und erbarmungslos verhöhnt« worden<lb/>
+sind. An dem Tage, da das Feuilleton <seg type="insult">des Herrn <rs type="pers" ana="n_18144" ref="#fk__p_49957">Nordau</rs></seg> in der ‚<rs type="paper" ana="werk_6939">Neuen<lb/>
+Freien Presse</rs>‘ erschien, tagte im <rs type="inst">Stadtcasino</rs> zu Basel der <rs type="event">V. Zionistencongress<lb/>
+</rs>. Aber <seg type="insult">das bekannte Programm</seg>, das sich in den Worten ausdrückt<lb/>
+: »Hinaus mit uns!«, hat <seg type="insult">Herr <rs type="pers" ana="n_18145" ref="#fk__p_49957">Nordau</rs></seg> leider noch nicht einmal<lb/>
+für seine eigene Person in That umgesetzt.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_45852">
+               <persName>Ibsen, Henrik</persName>
+               <birth>
+                  <date>1828-3-20</date>
+                  <place>Skien</place>
+               </birth>
+               <death>
+                  <date>1906-5-23</date>
+                  <place>Christiania</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment"/>
+               <note type="comment">Ögg ordnet 368/49 Baumeister Solneß Strindberg zu</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11798</idno></person>
+            <person xml:id="fk__p_49957">
+               <persName>Nordau, Max Simon</persName>
+               <birth>
+                  <date>1849-7-29</date>
+                  <place>Pest</place>
+               </birth>
+               <death>
+                  <date>1923-1-22</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Arzt</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_18472</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12365</idno></person>
+            <person xml:id="fk__p_48747">
+               <persName>Tolstoi, Leo Nikolajewitsch</persName>
+               <birth>
+                  <date>1828-9-9</date>
+                  <place>Jasnaja Poljana (Gouv. Tula)</place>
+               </birth>
+               <death>
+                  <date>1910-11-20</date>
+                  <place>Astapowo (Gouv. Tambow)</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_20772</idno></person>
+            </listPerson></back></text>
+</TEI>

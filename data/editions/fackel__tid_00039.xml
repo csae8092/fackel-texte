@@ -1,0 +1,101 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00039.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00038.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00040.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Noch einmal Perosi.), in: Fackel Heft 01, Nr. 003, 1899, S. 28-29</title>
+            <title type="iso-date">1899-04-01</title>
+            <title type="id">tid_00039</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">003</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-003_n0028.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/003,028</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Noch einmal Perosi.)</head>
+            <p ana="pr518">
+<space/>In der <rs type="pers" ana="n_537" ref="#fk__p_51362"><SPAN cont="Perosi-Woche"><seg type="spc">Perosi-</seg>Woche</SPAN></rs> haben uns einige Blätter genau<lb/>
+geschildert, wie <seg type="insult">der »schlichte Mann im Priesterrock«</seg> isst und trinkt.<lb/>
+Zugleich bezeichneten sie <seg type="insult">den schon lauernden Autogrammjägern</seg> das<lb/>
+Gasthauslocal, in welches sich <rs type="pers" ana="n_538" ref="#fk__p_51362">Perosi</rs>, der, wie sie selbst sagten,<lb/>
+von niemandem behelligt werden wollte, aus dem <seg type="insult">Impresariolärm</seg><lb/>
+mittags zu flüchten liebte. <seg type="insult">Die liberalen Reporter</seg> feierten <seg type="insult">wahre<lb/>
+Orgien der Zudringlichkeit</seg> und schleppten <seg type="insult">ganze Tonnen Weihrauchs</seg><lb/>
+herbei, um <seg type="insult">dem clericalen Musiker</seg> den Wiener Aufenthalt so<lb/>
+angenehm wie möglich zu machen. Zumal die »<rs type="paper" ana="werk_181">Neue Freie Presse</rs>«<lb/>
+ließ nicht ab, in der Beschreibung <seg type="insult">des »seltenen Anblicks«</seg> zu<lb/>
+schwelgen, den »ein in aller Form geweihter Priester, der Schützling<lb/>
+<rs type="pers" ana="n_539" ref="#fk__p_48763">Leos XIII.</rs> und somit des katholischen Clerus der ganzen Welt, als<lb/>
+Capellmeister bot«, und rief begeistert aus: »Wir gestehen, dass <seg type="spc">auch</seg><lb/>
+<seg type="spc">wir</seg> hieraus den größten Genuss des Abends gewonnen haben.«<lb/>
+</p>
+            <p ana="pr518">
+Inzwischen schien <seg type="insult">der Musikalienhändler <rs type="pers" ana="n_540" ref="#fk__p_37924"><seg type="spc">Gutmann</seg></rs></seg> in <seg type="insult">seinen neuerworbenen<lb/>
+ Beziehungen zum Clerus</seg> völlig aufzugehen und nahm<lb/>
+die Gelegenheit wahr, am Schlusse des Concertes <foreign xml:lang="la"><seg type="i">coram publico</seg></foreign> dem<lb/>
+Fürsterzbischof <rs type="pers" ana="n_541" ref="#fk__p_45132"><seg type="spc">Gruscha</seg></rs> die Hand zu <choice><sic>küssen.’</sic><corr>küssen.</corr></choice> »Wir gestehen, dass<lb/>
+auch wir aus <seg type="insult">diesem seltenen Anblick</seg> den größten Genuss des Abends<lb/>
+gewonnen haben.«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_48763">
+               <persName>Leo XIII., Papst</persName>
+               <birth>
+                  <date>1810-3-2</date>
+                  <place>Carpineto/Anagni</place>
+               </birth>
+               <death>
+                  <date>1903-7-20</date>
+                  <place>Rom</place>
+               </death>
+               <occupation>Papst</occupation>
+               <note type="comment">03.03.1878-20.07.1903</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17445</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/20310</idno></person>
+            <person xml:id="fk__p_51362">
+               <persName>Perosi, Lorenzo</persName>
+               <birth>
+                  <date>1872-12-20</date>
+                  <place>Tortona</place>
+               </birth>
+               <death>
+                  <date>1956-10-12</date>
+                  <place>Rom</place>
+               </death>
+               <occupation>Musiker</occupation>
+               <occupation>Komponist</occupation>
+            </person>
+            <person xml:id="fk__p_37924">
+               <persName>Gutmann, Albert Ignaz</persName>
+               <birth>
+                  <date>1851-6-20</date>
+                  <place>Fürth/Nürnberg</place>
+               </birth>
+               <death>
+                  <date>1915-3-7</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Konzertagent</occupation>
+               <occupation>Musikalienhändler</occupation>
+               <note type="comment">1., Elisabethstr. 6 (= Opernring 5)</note>
+               <note type="comment">verh. mit Bertha Sigmann, geb. 1864? oder 1858?</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2185</idno></person>
+            <person xml:id="fk__p_45132">
+               <persName>Gruscha, Anton Josef</persName>
+               <birth>
+                  <date>1820-11-03</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1911-08-05</date>
+                  <place>Kranichberg</place>
+               </death>
+               <occupation>Kardinal</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

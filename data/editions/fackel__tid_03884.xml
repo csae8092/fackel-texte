@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03884.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03883.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03885.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Parlamentarier. (Ein Ort, der besonderen Anstand erfordert), in: Fackel Heft 07, Nr. 179, 1905, S. 21-21</title>
+            <title type="iso-date">1905-02-15</title>
+            <title type="id">tid_03884</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">07</title><title type="heft">179</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-07-179_n0021.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/179,021</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Parlamentarier. (Ein Ort, der besonderen Anstand erfordert)</head>
+            <p ana="pr39105">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="name_203550" ref="#fk__p_51132">Parlamentarier</rs>.</seg></seg></seg> <seg type="insult">Herr <rs type="pers" ana="n_33297" ref="#fk__p_40921"><abbr>Dr.</abbr> Emil Frischauer</rs></seg> belegte als Verteidiger<lb/>
+des <rs type="pers" ana="n_33298" ref="#fk__p_37766">Grafen Sternberg</rs> seine Behauptung, daß die Säulenhalle des<lb/>
+<rs type="inst">Parlaments</rs> kein Ort sei, der »besonderen Anstand erfordert«, mit der<lb/>
+notorischen Tatsache, daß er selbst den Hut auf dem Kopf behalte,<lb/>
+wenn er das Peristyl betrete. Die Beweiskraft dieses Arguments hat<lb/>
+nicht ohneweiters eingeleuchtet. Mit demselben Recht könnte <seg type="insult">der Herr</seg> die<lb/>
+Sitte, mit Messer und Gabel zu essen, durch den Hinweis auf die Tatsache<lb/>
+negieren, daß es auch Leute gibt, die mit den Händen essen, wobei er<lb/>
+bloß die Vorschrift, beim Essen nicht zu reden, infolge <seg type="insult">manueller<lb/>
+Verhinderung der Beteiligten</seg> anerkennen müßte. Hoffentlich leitet er<lb/>
+aus der Tatsache, daß sein Bruder <rs type="pers" ana="n_33299" ref="#fk__p_41607">Otto</rs> erpreßt und verleumdet hat,<lb/>
+nicht die Behauptung ab, daß die Advokatur kein Beruf sei, der<lb/>
+besonderen Anstand erfordert.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_37766">
+               <persName>Sternberg, Adalbert Graf</persName>
+               <birth>
+                  <date>1868-1-14</date>
+                  <place>Pohorelitz</place>
+               </birth>
+               <death>
+                  <date>1930-4-25</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Privatier</occupation>
+               <occupation>Politiker</occupation>
+               <note type="comment">Reichsratsabgeordneter 1904-11</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/47148</idno></person>
+            <person xml:id="fk__p_51132">
+               <persName>Parlamentarier</persName>
+            </person>
+            <person xml:id="fk__p_40921">
+               <persName>Frischauer, Emil</persName>
+               <birth>
+                  <date>1853-1-22</date>
+                  <place>Brünn</place>
+               </birth>
+               <death>
+                  <date>1913-3-9</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Rechtsanwalt</occupation>
+               <occupation>Journalist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/16713</idno></person>
+            <person xml:id="fk__p_41607">
+               <persName>Frischauer, Otto</persName>
+               <birth>
+                  <date>1863-2-5</date>
+                  <place>Brünn</place>
+               </birth>
+               <death>
+                  <date>1942-8-4</date>
+                  <place>Konzentrationslager Theresienstadt</place>
+               </death>
+               <occupation>Rechtsanwalt</occupation>
+               <occupation>Journalist</occupation>
+               <note type="comment">Vater von Paul, Willi, Eduard, Leo und Fritz Frischauer</note>
+               <note type="comment">Chefred. des Wr. Tgbl.</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/16716</idno></person>
+            </listPerson></back></text>
+</TEI>

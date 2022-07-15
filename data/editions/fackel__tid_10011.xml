@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_10011.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10010.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10012.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ja was lacht mir denn da, in: Fackel Heft 26, Nr. 668, 1924, S. 124-125</title>
+            <title type="iso-date">1924-12-01</title>
+            <title type="id">tid_10011</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">26</title><title type="heft">668</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-26-668_n0124.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/668,124</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ja was lacht mir denn da</head>
+            <p ana="pr135904">
+für <seg type="insult">ein altes Notizerl</seg> entgegen?<lb/>
+</p>
+            <p ana="pr135906">
+<space/><seg type="sidehead">(Das <seg ana="»Neue Wiener Journal«"/> im Ausland.)</seg> Obwohl mehr als fünf<lb/>
+Jahre seit dem Ende des <rs type="event">Weltkrieges</rs> verstrichen sind, scheint unser<lb/>
+Postverkehr ins Ausland noch immer mangelhaft zu funktionieren.<lb/>
+<seg type="spc">Unser Vertreter in Punta Arenas an der Magelhaens-Straße<lb/>
+</seg> schreibt uns, daß die Nummer unseres <rs type="paperRef" ana="werk_26400">Blattes</rs> vom <date>25. November<lb/>
+ <abbr>v. J.</abbr></date> <seg type="spc">erst nach mehr als zwei Monaten</seg> dort eintraf<lb/>
+, während eine Reise dorthin <seg type="spc">kaum fünf Wochen</seg> in Anspruch<lb/>
+</p>
+            <p ana="pr135906">
+nimmt. Wir benutzen die Gelegenheit, die Postbehörden darauf aufmerksam<lb/>
+ zu machen, daß auch über die Post nach den angrenzenden<lb/>
+Staaten, wie zum Beispiel Italien, immer wieder Klagen erfolgen.<lb/>
+Generaldirektor <rs type="pers" ana="n_83268" ref="#fk__p_46198"><seg type="spc">Hoheisl</seg></rs>, dessen glänzendes Organisationstalent<lb/>
+bekannt ist, <seg type="spc">sieht sich hier vor eine große Aufgabe<lb/>
+gestellt</seg>, <seg type="spc">um Ordnung zu schaffen</seg>. Wir stehen mit Detailmaterial<lb/>
+ gern zur Verfügung.<lb/>
+</p>
+            <p ana="pr135908">
+Der müßte rein ein Scherenschleifer sein, um der Beschwerde<lb/>
+der Korrespondenten des <rs type="paper" ana="werk_26401">Neuen Wiener Journals</rs> abzuhelfen! Also<lb/>
+selbst an der Magelhaens-Straße sitzt einer? Was macht der nur<lb/>
+den ganzen Tag? Außer auf das <rs type="paperRef" ana="werk_26402">Blatt</rs> warten, das für den<lb/>
+Katzensprung einer Reise von fünf Wochen zwei Monate braucht.<lb/>
+Ein Leben muß das sein! <rs type="pers" ana="n_83269" ref="#fk__p_46698">Lippowitz</rs> ist hart. Er sollte sich<lb/>
+entschließen, den Mann abzuberufen. Das Wichtigste, was sich<lb/>
+an der Magelhaens-Straße ereignet, wird sich zur Not von der<lb/>
+Biberstraße berichten lassen, von der ja auch zum Yellowstone-Park<lb/>
+ näher ist als zum Stadtpark und wo man den Lorenzostrom<lb/>
+mehr bei der Hand hat als den Donaukanal.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46698">
+               <persName>Lippowitz, Jakob (Siegmund)</persName>
+               <birth>
+                  <date>1865-10-9</date>
+                  <place>Leipzig</place>
+               </birth>
+               <death>
+                  <date>1934-7-4</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17583</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/4054</idno></person>
+            <person xml:id="fk__p_46198">
+               <persName>Hoheisel, Konrad</persName>
+               <birth>
+                  <date>1862-11-12</date>
+                  <place>Alt-Rothwasser/Schles.</place>
+               </birth>
+               <death>
+                  <date>1930-09-15</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Generalpostdirektor</occupation>
+               <note type="comment">Döblinger Friedhof 10/6/3 (FD)</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,47 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01909.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01908.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01910.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Aus einer Grabrede des Herrn Bahr.), in: Fackel Heft 03, Nr. 080, 1901, S. 27-27</title>
+            <title type="iso-date">1901-06-01</title>
+            <title type="id">tid_01909</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">03</title><title type="heft">080</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-03-080_n0027.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/080,027</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Aus einer Grabrede des Herrn Bahr.)</head>
+            <p ana="pr18704">
+<space/>»<inciptit>Er</inciptit> hat nie getrachtet, aufzufallen, interessant zu thun und zu<lb/>
+glänzen. Ueber <seg type="insult">solche Eitelkeiten</seg> ist er mit seinem stillen Lächeln<lb/>
+unverwirrt hinweggeschritten.«<lb/>
+</p>
+            <p ana="pr18706">
+<space/>Worte, die neulich <seg type="insult">Herr <rs type="pers" ana="n_15753" ref="#fk__p_45908"><seg type="spc">Bahr</seg></rs></seg> als <seg type="insult">Leichenbitter der »<rs type="inst">Concordia<lb/>
+</rs>«</seg> einem Schriftsteller nachrief.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_45908">
+               <persName>Bahr, Hermann</persName>
+               <birth>
+                  <date>1863-7-19</date>
+                  <place>Linz</place>
+               </birth>
+               <death>
+                  <date>1934-1-15</date>
+                  <place>München</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Kritiker</occupation>
+               <note type="comment">Ögg teilt auch 307/52, 445/49, 800/67 (Rotte Korah) Bahr zu</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10815</idno></person>
+            </listPerson></back></text>
+</TEI>

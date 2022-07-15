@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00292.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00291.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00293.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">L. K., in: Fackel Heft 01, Nr. 012, 1899, S. 27-27</title>
+            <title type="iso-date">1899-07-01</title>
+            <title type="id">tid_00292</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">012</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-012_n0027.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/012,027</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>L. K.</head>
+            <p ana="pr2731">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_1970" key="#fk__p_59290"><abbr>L. K.</abbr></rs></seg></seg> Sie theilen mir mit, dass <seg type="insult">Herr <rs type="pers" ana="n_1971" ref="#fk__p_39122">Buchbinder</rs></seg> durch stetes<lb/>
+Herumrutschen auf dem geschenkten Platze die Sitznachbarn, welche<lb/>
+den Worten <rs type="pers" ana="n_1972" ref="#fk__p_48747">Tolstoi’s</rs> lauschten, irritiert hat. Die <seg type="insult">Wiener Theaterjournalisten<lb/>
+</seg> erregen eben, noch bevor sie die Feder ansetzen, öffentliches<lb/>
+ Aergernis.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_39122">
+               <persName>Buchbinder, Bernhard</persName>
+               <birth>
+                  <date>1849-7-7</date>
+                  <place>Budapest</place>
+               </birth>
+               <death>
+                  <date>1922-6-24</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/6487</idno></person>
+            <person xml:id="fk__p_48747">
+               <persName>Tolstoi, Leo Nikolajewitsch</persName>
+               <birth>
+                  <date>1828-9-9</date>
+                  <place>Jasnaja Poljana (Gouv. Tula)</place>
+               </birth>
+               <death>
+                  <date>1910-11-20</date>
+                  <place>Astapowo (Gouv. Tambow)</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_20772</idno></person>
+            </listPerson></back></text>
+</TEI>

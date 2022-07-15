@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00898.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00897.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00899.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Leser in Prag. (Todte als Verwaltungsräthe), in: Fackel Heft 02, Nr. 037, 1900, S. 30-30</title>
+            <title type="iso-date">1900-04-01</title>
+            <title type="id">tid_00898</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">037</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-037_n0030.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/037,030</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Leser in Prag. (Todte als Verwaltungsräthe)</head>
+            <p ana="pr8513">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_6701" ref="#fk__p_48886">Leser in Prag</rs>.</seg></seg> Sie irren. Herr <rs type="pers" ana="n_6702" ref="#fk__p_55011"><seg type="spc">Nicolaus </seg><abbr><seg type="spc">Th</seg>.</abbr><seg type="spc"> Dumba</seg></rs>, der<lb/>
+in den Verwaltungsrath der <rs type="inst">Länderbank</rs> wiedergewählt wurde, ist<lb/>
+nicht der Verstorbene, sondern dessen Vetter. Es ist aber<lb/>
+charakteristisch, dass viele Leute in dem Glauben waren, es handle<lb/>
+sich um jenen <rs type="pers" ana="n_6703" ref="#fk__p_56061">Dumba</rs>, der einen Tag vor der Generalversammlung<lb/>
+begraben wurde. Man ist es so gewöhnt, dass Verwaltungsräthe zu<lb/>
+schweigen haben, dass der Gedanke naheliegt, Todte müssten<lb/>
+eigentlich <seg type="insult">die besten Verwaltungsräthe</seg> sein.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_55011">
+               <persName>Dumba, Nikolaus Theodor von</persName>
+               <birth>
+                  <date>1854-10-7</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1928-12-19</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Industrieller</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_14548</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/15516</idno></person>
+            <person xml:id="fk__p_48886">
+               <persName>Leser in Prag</persName>
+            </person>
+            <person xml:id="fk__p_56061">
+               <persName>Dumba, Konstantin Theodor</persName>
+               <birth>
+                  <date>1856-06-17</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1947-01-06</date>
+                  <place>Bodensdorf/Kärnten</place>
+               </death>
+               <occupation>Diplomat</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

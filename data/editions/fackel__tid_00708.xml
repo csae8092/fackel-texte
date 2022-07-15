@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00708.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00707.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00709.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ein Wissender. (Einem Wissenden), in: Fackel Heft 01, Nr. 029, 1900, S. 29-30</title>
+            <title type="iso-date">1900-01-01</title>
+            <title type="id">tid_00708</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">029</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-029_n0029.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/029,029</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ein Wissender. (Einem Wissenden)</head>
+            <p ana="pr6708">
+<space/><seg type="i"><seg type="sidehead"><rs type="pers" ana="n_5131" ref="#fk__p_42439">Ein Wissender</rs>.</seg></seg> Dass Herr <rs type="pers" ana="n_5132" ref="#fk__p_51242">Schlenther</rs> dem Director eines<lb/>
+Berliner Theaters, der ihn nach den Qualitäten der Frau <seg type="spc"><rs type="pers" ana="n_5133" ref="#fk__p_47115">Lewinsky</rs></seg><lb/>
+</p>
+            <p ana="pr6708">
+fragte, die Auskunft ertheilt haben soll, die Dame habe sich als<lb/>
+gänzlich unverwendbar und unbrauchbar erwiesen, glaube ich denn<lb/>
+doch nicht. Wie man Künstler beschäftigt, mag Herr <rs type="pers" ana="n_5134" ref="#fk__p_51242">Schlenther</rs> nicht<lb/>
+wissen, wie man sie entlässt, muss ihn doch das primitivste Anstandsgefühl<lb/>
+ lehren. Er weiß, dass man jedem Dienstboten »treu, fleißig<lb/>
+und ehrlich« ins Zeugnis schreibt, um seinem Fortkommen nicht<lb/>
+hinderlich zu sein. Thatsächlich hat aber, wie Sie mir mittheilen,<lb/>
+der Berliner College des Herrn <rs type="pers" ana="n_5135" ref="#fk__p_51242">Schlenther</rs> Frau <rs type="pers" ana="n_5136" ref="#fk__p_47115">Lewinsky</rs> nicht<lb/>
+engagiert <seg type="symbol" subtype="4dots"/> Anlässlich des Abschiedes der Dame sind übrigens<lb/>
+anderweitig <seg type="insult">wahre Orgien der Brutalität</seg> gefeiert worden. Mögen<lb/>
+Härte und Hohn, mit denen man die Gattin eines verdienstvollen<lb/>
+Künstlers durch Jahre behandelt hat, hundertmal gerecht sein,<lb/>
+erbärmlich bleibt die Art, wie einige Recensenten das letzte Auftreten<lb/>
+der endlich Scheidenden glossiert haben. Da ist vor allem <seg type="insult">der Gentleman<lb/>
+im ‚<rs type="paper" ana="werk_1801">Wiener Tagblatt</rs>‘</seg>, der sich nicht geschämt hat, eine unglückliche<lb/>
+Frau, der ein redliches Wollen nicht die bittersten Enttäuschungen<lb/>
+ersparen konnte und die ihre Laufbahn nun beendet sieht, mit <seg type="insult">faulen<lb/>
+Aepfeln und faulen Witzen</seg> zu bewerfen.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_42439">
+               <persName>Ein Wissender</persName>
+            </person>
+            <person xml:id="fk__p_47115">
+               <persName>Lewinsky, Josef</persName>
+               <birth>
+                  <date>1835-9-20</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1907-2-27</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12061</idno></person>
+            <person xml:id="fk__p_51242">
+               <persName>Schlenther, Paul</persName>
+               <birth>
+                  <date>1854-8-20</date>
+                  <place>Insterburg, Ostpreußen</place>
+               </birth>
+               <death>
+                  <date>1916-4-30</date>
+                  <place>Berlin</place>
+               </death>
+               <occupation>Literarhistoriker</occupation>
+               <occupation>Kritiker</occupation>
+               <occupation>Theaterleiter</occupation>
+               <note type="comment">26. 1. 1898 - 28. 2. 1910 Burgtheater</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12671</idno></person>
+            </listPerson></back></text>
+</TEI>

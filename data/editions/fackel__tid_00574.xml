@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00574.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00573.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00575.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Freidenker. (Einem Freidenker), in: Fackel Heft 01, Nr. 023, 1899, S. 29-30</title>
+            <title type="iso-date">1899-11-01</title>
+            <title type="id">tid_00574</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">023</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-023_n0029.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/023,029</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Freidenker. (Einem Freidenker)</head>
+            <p ana="pr5320">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_3988" key="#fk__p_43643">Freidenker</rs>.</seg></seg> Mich wundert es, dass Herr <rs type="pers" ana="n_3989" ref="#fk__p_39562">Bruno <seg type="spc">Wille</seg></rs> meine<lb/>
+Bemerkungen in <rs type="selfRef" ana="werk_1362"><abbr>Nr.</abbr> 14</rs> auf das Freidenkerthum bezogen hat. Sie<lb/>
+galten den ausdrücklich genannten ethischen Gesellschaften, deren<lb/>
+Bestrebungen doch nicht die gleichen sind, wie die des <rs type="inst">Freidenkerbundes<lb/>
+</rs>. Von den Zeitschriften ‚<rs type="magazine" ana="werk_1363">Ethische Cultur</rs>‘ und ‚<rs type="magazine" ana="werk_1364">Ernstes Wollen</rs>‘<lb/>
+erwartete ich also Widerspruch. Warum spricht übrigens Herr <rs type="pers" ana="n_3990" ref="#fk__p_39562">Wille</rs> nicht<lb/>
+von dem Einwand, den ich gegen den Staat als Verkünder ethischer<lb/>
+Lehren an Stelle der Kirchen erhoben habe? Und schließlich, die<lb/>
+</p>
+            <p ana="pr5320">
+Schüler »mit <seg type="insult">Ballast</seg> überhäufen« — ist das immer gar so arg? Professor<lb/>
+ <rs type="pers" ana="n_3991" ref="#fk__p_37807">Adolf Exner</rs> in Wien hat einmal die hübsche Definition aufgestellt<lb/>
+: »Ein gebildeter Mensch ist derjenige, der viel vergessen<lb/>
+hat.« Nochmals: Lasst sie kämpfen! Geistige Arbeit kann ebensowenig<lb/>
+ wie physische geleistet werden, wo es keinen Widerstand gibt.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_39562">
+               <persName>Wille, Bruno</persName>
+               <birth>
+                  <date>1860-2-6</date>
+                  <place>Magdeburg</place>
+               </birth>
+               <death>
+                  <date>1928-8-31</date>
+                  <place>Lindau-Aeschach</place>
+               </death>
+               <occupation>Philosoph</occupation>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Friedrichshagener Kreis</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10543</idno></person>
+            <person xml:id="fk__p_37807">
+               <persName>Exner, Adolf</persName>
+               <birth>
+                  <date>1841-2-5</date>
+                  <place>Prag</place>
+               </birth>
+               <death>
+                  <date>1894-9-10</date>
+                  <place>Kufstein</place>
+               </death>
+               <occupation>Jurist</occupation>
+               <occupation>Politiker</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

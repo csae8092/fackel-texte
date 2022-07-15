@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03422.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03421.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03423.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Scherenschleifer. (Die Schere), in: Fackel Heft 05, Nr. 151, 1904, S. 26-26</title>
+            <title type="iso-date">1904-01-4</title>
+            <title type="id">tid_03422</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">05</title><title type="heft">151</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-05-151_n0026.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/151,026</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Scherenschleifer. (Die Schere)</head>
+            <p ana="pr33947">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="n_29248" ref="#fk__p_52879">Scherenschleifer</rs>.</seg></seg></seg> <seg type="insult">Der dumme Dieb</seg> hat sich schon wieder selbst<lb/>
+verraten. ‚<rs type="paper" ana="werk_12589">Neues Wiener Journal</rs>‘ vom <date>21. Dezember</date>: Ein Londoner Bericht<lb/>
+über »fragwürdige Musikdiplome«. An der Spitze steht: <seg type="insult">»Von <seg type="spc">unserem</seg><lb/>
+Korrespondenten«</seg>, und zum Schluß heißt es: »Da kaum anzunehmen ist,<lb/>
+daß die Gesellschaft trotz ihres Namens (<foreign xml:lang="en"><rs type="inst"><rs type="pers" ana="n2_2262" key="#fk__p_58767">Reis</rs> School of Music of<lb/>
+<seg type="spc">Germany</seg></rs> <seg type="symbol" subtype="3dots"/></foreign>) in <seg type="insult"><seg type="spc">unserem Vaterlande</seg></seg> viele Geschäfte macht! <seg type="symbol" subtype="2dots"/>«<lb/>
+<seg type="insult">Unser Korrespondent oder unser Vaterland?</seg> Eins <seg type="spc">oder</seg> das andere! <seg type="symbol" subtype="2dots"/><lb/>
+Ein paar Tage später herrschte im ‚<rs type="paper" ana="werk_12590">Neuen Wiener Journal</rs>‘ große Aufregung<lb/>
+. Ein <seg type="spc">Manuskript</seg> war eingelaufen! Von einer Hand beschriebenes<lb/>
+ Papier! Es war eine Zuschrift des Burgschauspielers <rs type="pers" ana="n_29249" ref="#fk__p_37919">Heine</rs>,<lb/>
+der für die <seg type="insult">»Weihnachtsnummer«</seg> die Frage beantworten mußte, »wie er<lb/>
+zum Theater kam«. In der freudigen Erregung schickte man das<lb/>
+Manuskript ungelesen in die Druckerei. Es erschien mit allen Bissigkeiten<lb/>
+, mit denen Herr <rs type="pers" ana="n_29250" ref="#fk__p_37919">Heine</rs> die <seg type="insult">Belästigung in der Weihnachtswoche</seg><lb/>
+quittierte, und enthielt die folgende Wendung: »Ich höre Sie unmutig<lb/>
+mit Federhalter <seg type="spc">oder <seg type="insult">Schere</seg></seg> aufschlagen und es klingt wie warnendes<lb/>
+ Geflüster: ‚Zur Sache, wenn’s beliebt <seg type="symbol" subtype="4dots"/>‘«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_52879">
+               <persName>Scherenschleifer</persName>
+            </person>
+            <person xml:id="fk__p_37919">
+               <persName>Heine, Albert</persName>
+               <birth>
+                  <date>1867-11-16</date>
+                  <place>Braunschweig</place>
+               </birth>
+               <death>
+                  <date>1949-4-13</date>
+                  <place>Westerland/Sylt</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <occupation>Regisseur</occupation>
+               <occupation>Theaterleiter</occupation>
+               <note type="comment">seit 1910 Burgtheater, 1936 Ehrenmitglied</note>
+               <note type="comment">1918-21 Dir. des Burgtheaters</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2743</idno></person>
+            </listPerson></back></text>
+</TEI>

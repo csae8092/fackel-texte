@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_10438.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10437.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10439.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Made in Germany, in: Fackel Heft 27, Nr. 717, 1926, S. 68-69</title>
+            <title type="iso-date">1926-04-01</title>
+            <title type="id">tid_10438</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">27</title><title type="heft">717</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-27-717_n0068.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/717,068</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Made in Germany</head>
+            <p ana="pr143552">
+<space/>Die Varianten, die <seg type="insult">das deutsche Gemüt aller möglichen<lb/>
+Couleurs und Berufe</seg> schon zu <rs type="pers" ana="n_87479" ref="#fk__p_46960">Goethes</rs> erhabenen Versen<lb/>
+beigetragen hat, <FERR id="ferr_135" fcorrID="fcorr_135" href="FK-28-726_n0075.xml" emID="em_135"><ERR fcorr="werden">werde</ERR></FERR> nunmehr noch durch die folgende vermehrt<lb/>
+, die sich im <seg ana="Annoncenteil des ‚Prager Tagblatts‘"/> findet:<lb/>
+</p>
+            <lg>
+<l>Mit Schnitten, die <rs type="inst"><rs type="pers" ana="n2_7764" key="#fk__p_59534">Semper</rs></rs> gibt aus,</l>
+<l>Wird Dir das Schneidern im Haus</l>
+<l>Unentbehrlicher Brauch.</l>
+<l>Die Kleider tadellos sitzen!</l>
+<l>Warte nur, bald wirst benützen</l>
+<l><rs type="inst"><rs type="pers" ana="n2_7765" key="#fk__p_59534">Semper-Schnitte</rs></rs> Du auch.</l>
+</lg>
+            <p ana="pr143557">
+Der Finder fragt mit Recht, warum <seg type="insult">diese <rs type="pers" ana="n_87481" ref="#fk__p_46960">Goethe-Nachdichter</rs></seg><lb/>
+eigentlich noch »frei« sind. <seg type="insult">Die Herren Gesetzgeber</seg>, die sich in<lb/>
+den verschiedenen <rs type="inst">Parlamenten</rs> räkeln, haben noch nie daran<lb/>
+gedacht, hier so etwas wie einen Denkmalschutz zu statuieren,<lb/>
+weil vermutlich <seg type="insult">jeder einzelne von ihnen</seg>, dessen <seg type="insult">Geistigkeit</seg><lb/>
+nicht über den <seg type="insult">Humor der ‚<rs type="magazine" ana="werk_27643">Muskete</rs>‘ oder des ‚<rs type="magazine" ana="werk_27644">Götz</rs>‘</seg> emporragt,<lb/>
+<seg type="insult">solche Verdreckung eines Nationalheiligtums</seg> harmlos, wenn nicht<lb/>
+gar belustigend findet. <seg type="insult">Der deutschen Kultur</seg> kann <rs type="pers" ana="n_87482" ref="#fk__p_46960">Goethes</rs> <rs type="title">Nachtlied</rs><lb/>
+gestohlen werden; demnach sie mir.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46960">
+               <persName>Goethe, Johann Wolfgang von</persName>
+               <birth>
+                  <date>1749-8-28</date>
+                  <place>Frankfurt am Main</place>
+               </birth>
+               <death>
+                  <date>1832-3-22</date>
+                  <place>Weimar</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">890/142f.</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11461</idno></person>
+            </listPerson></back></text>
+</TEI>

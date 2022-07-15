@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01669.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01668.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01670.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Der inconsequente Muther.), in: Fackel Heft 02, Nr. 070, 1901, S. 25-26</title>
+            <title type="iso-date">1901-03-01</title>
+            <title type="id">tid_01669</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">070</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-070_n0025.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/070,025</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Der inconsequente Muther.)</head>
+            <p ana="pr16709">
+<space/><inciptit>Der</inciptit> Kunstkritiker <rs type="pers" ana="n_13881" ref="#fk__p_41882"><abbr>Th. v.</abbr> <seg type="spc">Frimmel</seg></rs> hat neulich <seg type="insult">Herrn <rs type="pers" ana="n_13882" ref="#fk__p_52194">Richard<lb/>
+<seg type="spc">Muther</seg></rs></seg> abzuführen vermeint, da er die in der »<rs type="title">Geschichte der<lb/>
+Malerei im <DATERANGE>XIX. Jahrhundert</DATERANGE></rs>« enthaltenen <seg type="spc">Hymnen</seg> mit den heutigen<lb/>
+</p>
+            <p ana="pr16709">
+<seg type="spc">Angriffen</seg> auf <rs type="pers" ana="n_13883" ref="#fk__p_55217">Walter Crane</rs> in der ‚<rs type="magazine" ana="werk_5192">Zeit</rs>‘ verglich. Die Zusammenstellung<lb/>
+ war drastisch; aber Herr <rs type="pers" ana="n_13884" ref="#fk__p_41882"><abbr>v.</abbr> Frimmel</rs> irrt, wenn er wähnt,<lb/>
+dass sich <seg type="insult">der Kunstrichter der ‚<rs type="magazine" ana="werk_5193">Zeit</rs>‘</seg> getroffen fühlt. Was kann<lb/>
+denn <seg type="insult">Herr <rs type="pers" ana="n_13885" ref="#fk__p_52194">Muther</rs></seg>, so werden <seg type="insult">seine neuen Wiener Freunde</seg> fragen,<lb/>
+für die in der »<rs type="title">Geschichte der Malerei im <date>XIX. Jahrhundert</date></rs>« enthaltenen<lb/>
+ Urtheile? Die waren doch nicht von ihm! <seg type="insult">Die Herren</seg> haben<lb/>
+seinerzeit in spaltenlangen Feuilletons über <seg type="insult">die <rs type="pers" ana="n_13886" ref="#fk__p_52194">Muther’schen Plagiate</rs></seg><lb/>
+berichtet und keiner von ihnen wird daher zu behaupten wagen, dass<lb/>
+<rs type="pers" ana="n_13887" ref="#fk__p_52194">Muther</rs> <seg type="spc">sich selbst</seg> widersprochen hat, wenn er heute <rs type="pers" ana="n_13888" ref="#fk__p_55217">Walter Crane</rs><lb/>
+einen <seg type="insult">»Kitschmaler«</seg> nennt <seg type="symbol" subtype="3dots"/><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_52194">
+               <persName>Muther, Richard</persName>
+               <birth>
+                  <date>1860-2-25</date>
+                  <place>Ohrdruf</place>
+               </birth>
+               <death>
+                  <date>1909-6-28</date>
+                  <place>Wölfelsgrund/Habelschwerdt</place>
+               </death>
+               <occupation>Kunsthistoriker</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12319</idno></person>
+            <person xml:id="fk__p_41882">
+               <persName>Frimmel-Traisenau, Theodor von</persName>
+               <birth>
+                  <date>1853-12-15</date>
+                  <place>Amstetten</place>
+               </birth>
+               <death>
+                  <date>1928-12-25</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Kunsthistoriker</occupation>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">1879 Dr. med.</note>
+            </person>
+            <person xml:id="fk__p_55217">
+               <persName>Crane, Walter</persName>
+               <birth>
+                  <date>1845-8-15</date>
+                  <place>Liverpool</place>
+               </birth>
+               <death>
+                  <date>1915-3-15</date>
+                  <place>Horsham</place>
+               </death>
+               <occupation>Maler</occupation>
+               <occupation>Buchillustrator</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

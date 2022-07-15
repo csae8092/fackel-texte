@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_10503.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10502.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10504.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Hinaus aus Wien, in: Fackel Heft 28, Nr. 726, 1926, S. 47-48</title>
+            <title type="iso-date">1926-06-01</title>
+            <title type="id">tid_10503</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">28</title><title type="heft">726</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-28-726_n0047.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/726,047</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Hinaus aus Wien</head>
+            <p ana="pr145874">
+mit <seg type="insult"><RS pers="Imre Békessy">einem</RS></seg>, der trotz Vorerhebungen nach § 98b andauernd gut<lb/>
+gelaunt ist, ziehen seine Leser, und der Tanz unter der Burg<lb/>
+Liechtenstein soll sich in größerem Maßstabe wiederholen:<lb/>
+</p>
+            <p ana="pr145876">
+<space/><OMED>— —</OMED> Nach deren Besichtigung wird zum <rs type="inst">Hotel <rs type="pers" ana="n2_7804" ref="#fk__p_51970">Radetzky</rs></rs>,<lb/>
+dem schönsten Hotel in der näheren Umgebung Wiens, <seg type="spc">marschiert</seg>.<lb/>
+Dort werden die Ausflügler der <seg ana="»Bühne«"/> <seg type="spc">vom Hotelier <rs type="pers" ana="n_88134" key="#fk__p_54362">Ulbing</rs><lb/>
+und dessen Frau begrüßt</seg>, wird das Hotel, das sich nunmehr<lb/>
+nach vollständiger Neuadaptierung in einer bedeutend vergrößerten<lb/>
+und völlig neuen Gestalt präsentiert, besichtigt werden. Dann wird in<lb/>
+<seg type="spc">einem eigens separierten Teil</seg> des herrlichen Gartens an<lb/>
+langen Tischen die gemeinsame Mittagsmahlzeit eingenommen werden.<lb/>
+<seg type="spc">Der Herr Bundesminister für Handel und Verkehr</seg>,<lb/>
+<rs type="pers" ana="n_88135" ref="#fk__p_41809"><abbr>Dr.</abbr> Schürff</rs>, <seg type="spc">hat zugesagt</seg>, <seg type="spc">die Gäste der</seg> »<rs type="magazine" ana="werk_23853"><seg type="spc">Bühne</seg></rs>« <seg type="spc">ebenfalls<lb/>
+ zu begrüßen</seg>. Nach dem Mittagessen ist eine fast einstündige<lb/>
+Ruhepause vorgesehen, während welcher sich die Ausflügler der »<rs type="magazine" ana="werk_23854">Bühne</rs>«<lb/>
+auf der sonnigen Terrasse und in der Liegehalle <seg type="spc">erholen</seg> können.<lb/>
+<OMED>— —</OMED> Nach 8 Uhr abends wird dann durch die Vorderbrühl und<lb/>
+über Mödling wieder zum Bahnhof Mödling <seg type="spc">marschiert</seg>. <OMED>— —</OMED><lb/>
+</p>
+            <p ana="pr145877">
+<space/>Die »<rs type="magazine" ana="werk_23855">Bühne</rs>« ist davon überzeugt, daß <seg type="spc">schon der erste<lb/>
+Ausflug den Lesern volle Erholung</seg>, beste Unterhaltung<lb/>
+und eine bleibende Erinnerung bringen wird. <OMED>— —</OMED><lb/>
+</p>
+            <p ana="pr145879">
+Es ist wohl kaum möglich, sich vorzustellen, daß nebst dem<lb/>
+Hotelier der Bundesminister für Handel und Verkehr bei dieser<lb/>
+Gelegenheit den <seg type="insult">Grüßer</seg> machen wird. Man müßte bei solchem<lb/>
+Verkehr schon auf einen Handel schließen, der den Minister in<lb/>
+<seg type="insult">einem üblen Bunde</seg> zeigt.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_41809">
+               <persName>Schürff, Hans</persName>
+               <birth>
+                  <date>1875-05-12</date>
+                  <place>Mödling/NÖ</place>
+               </birth>
+               <death>
+                  <date>1939-03-27</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Politiker</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38781</idno></person>
+            <person xml:id="fk__p_51970">
+               <persName>Radetzky, Johann Josef Wenzel Graf von Radetz</persName>
+               <birth>
+                  <date>1766-11-02</date>
+                  <place>Trebnitz/Böhmen</place>
+               </birth>
+               <death>
+                  <date>1858-01-05</date>
+                  <place>Mailand</place>
+               </death>
+               <occupation>Feldherr</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

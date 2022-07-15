@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00818.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00817.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00819.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Fritz Eck. (Dienstmann und Akademiker), in: Fackel Heft 01, Nr. 033, 1900, S. 31-32</title>
+            <title type="iso-date">1900-02-01</title>
+            <title type="id">tid_00818</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">033</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-033_n0031.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/033,031</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Fritz Eck. (Dienstmann und Akademiker)</head>
+            <p ana="pr7659">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_6011" ref="#fk__p_43915">Fritz Eck</rs>.</seg></seg> Jawohl, wenn man in Wien vor einem linguistischen<lb/>
+Räthsel steht und sich schon gar keinen Rath mehr weiß, ruft man<lb/>
+einen <seg type="spc">Dienstmann</seg>. Das haben wir aus dem Process gegen die<lb/>
+ungarische Simulantin erfahren. <seg type="insult">Ein Dienstmann als Sachverständiger<lb/>
+für orientalische Sprachen</seg>: — man wird in Zukunft <seg type="insult">gewisse Mitglieder<lb/>
+unserer <rs type="inst">Akademie der Wissenschaften</rs></seg> nur mehr <seg type="insult"><seg type="spc">Gänge</seg></seg> machen<lb/>
+lassen, — freilich nicht bis ins unergiebige Asien, wohin sie öfter<lb/>
+vorgedrungen sind. Dies gilt natürlich nicht für <seg type="insult">Herrn <rs type="pers" ana="n_6012" ref="#fk__p_40283">David Heinrich<lb/>
+Müller</rs>, den kühnen Forscher</seg>, der sich bis in das Innere von<lb/>
+Arabien vorgedrängt hat.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_43915">
+               <persName>Eck, Fritz</persName>
+               <occupation/>
+               <note type="comment">evtl. = Friedrich Eckstein?</note>
+            </person>
+            <person xml:id="fk__p_40283">
+               <persName>Müller, David Heinrich von</persName>
+               <birth>
+                  <date>1846-7-6</date>
+                  <place>Buczacz/Galizien</place>
+               </birth>
+               <death>
+                  <date>1912-12-21</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Semitist</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

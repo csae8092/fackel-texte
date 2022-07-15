@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07084.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07083.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07085.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Zum Aufsatz „Die Judenfrage“ von Dostojewski), in: Fackel Heft 18, Nr. 418, 1916, S. 47-48</title>
+            <title type="iso-date">1916-04-01</title>
+            <title type="id">tid_07084</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">18</title><title type="heft">418</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-18-418_n0047.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/418,047</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Zum Aufsatz „Die Judenfrage“ von Dostojewski)</head>
+            <p ana="pr95969">
+<space/>Der in <rs type="selfRef" ana="werk_20538"><abbr>Nr.</abbr> 413—417</rs> veröffentlichte Aufsatz »<rs type="title">Die Judenfrage<lb/>
+</rs>« von <rs type="pers" ana="n_64337" ref="#fk__p_43055">Dostojewski</rs> ist in den »<rs type="title">Politischen Schriften</rs>« der im<lb/>
+<rs type="inst"><rs type="pers" ana="n2_5639" ref="#fk__p_58843">Piper’schen Verlag</rs></rs> erschienenen Gesamtausgabe enthalten, die<lb/>
+verdienstvoll wäre, auch wenn der Prospekt es nicht nötig fände,<lb/>
+die Größe <rs type="pers" ana="n_64338" ref="#fk__p_43055">Dostojewskis</rs> durch <seg type="insult"><rs type="pers" ana="n_64339" ref="#fk__p_45908">Bahr</rs> und <rs type="pers" ana="n_64340" ref="#fk__p_50974">Bierbaum</rs></seg> beglaubigen<lb/>
+zu lassen. Da die Tatsache eines deutschen <rs type="pers" ana="n_64341" ref="#fk__p_43055">Dostojewski</rs> immerhin<lb/>
+</p>
+            <p ana="pr95969">
+wichtiger ist als die Existenz <seg type="insult">sämtlicher momentan vorrätigen<lb/>
+deutschen Originale</seg>, so wird hier (wie in der freiwilligen Anzeige<lb/>
+auf dem Umschlag) auf diese Gesamtausgabe hingewiesen.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_43055">
+               <persName>Dostojewski, Fjodor Michailowitsch</persName>
+               <birth>
+                  <date>1821-11-11</date>
+                  <place>Moskau</place>
+               </birth>
+               <death>
+                  <date>1881-2-9</date>
+                  <place>Petersburg</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_14500</idno></person>
+            <person xml:id="fk__p_45908">
+               <persName>Bahr, Hermann</persName>
+               <birth>
+                  <date>1863-7-19</date>
+                  <place>Linz</place>
+               </birth>
+               <death>
+                  <date>1934-1-15</date>
+                  <place>München</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Kritiker</occupation>
+               <note type="comment">Ögg teilt auch 307/52, 445/49, 800/67 (Rotte Korah) Bahr zu</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10815</idno></person>
+            <person xml:id="fk__p_50974">
+               <persName>Bierbaum, Otto Julius</persName>
+               <birth>
+                  <date>1865-06-28</date>
+                  <place>Grünberg/Schle.</place>
+               </birth>
+               <death>
+                  <date>1910-02-01</date>
+                  <place>Kötzschenbroda/Dresden</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10928</idno></person>
+            <person xml:id="fk__p_58843">
+               <persName>Piper, R. (R. Piper &amp; Cie., Verlag)</persName>
+               <note type="comment">München</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

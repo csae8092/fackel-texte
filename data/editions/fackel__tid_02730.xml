@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02730.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02729.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02731.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Theilnehmender Leser. (Theilmehmender Leser.), in: Fackel Heft 04, Nr. 119, 1902, S. 35-35</title>
+            <title type="iso-date">1902-10-28</title>
+            <title type="id">tid_02730</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">04</title><title type="heft">119</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-04-119_n0035.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/119,035</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Theilnehmender Leser. (Theilmehmender Leser.)</head>
+            <p ana="pr26654">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_23098" key="#fk__p_53997">Theilnehmender Leser</rs>.</seg></seg> Nein, zu alledem noch die Antwort der<lb/>
+‚<rs type="paper" ana="werk_9345">Zeit</rs>‘! Wie werde ich das aushalten? Ob <seg type="insult">Herr <rs type="pers" ana="n_23099" ref="#fk__p_46524">Isi Singer</rs></seg> allein die<lb/>
+Notiz vom <date>19. October</date> zuwegegebracht oder ob ihm <seg type="insult">das polemische<lb/>
+Genie des Herrn <rs type="pers" ana="n_23100" ref="#fk__p_47448">Kanner</rs></seg> dabei geholfen hat — ich weiß es nicht.<lb/>
+<seg type="insult">»<rs type="pers" ana="n_23101" ref="#fk__p_47565">Karlchen Kraus</rs>«</seg>, <seg type="insult">»Verleumder«</seg>, <seg type="insult">»ohnmächtige Wuth über das Entstehen<lb/>
+ eines <rs type="paperRef" ana="werk_9346"><seg type="spc">unantastbaren</seg> Blattes</rs>«</seg> — wie treffend, wie originell<lb/>
+und wie westeuropäisch ist diese Abwehr des fünfzehn Seiten langen Artikels<lb/>
+, in dem ich mich bemühte, zu beweisen, daß eine Zeitung nicht<lb/>
+immer nur von <seg type="insult">Corruption</seg>, sondern ausnahmsweise auch von <seg type="insult">Langweile</seg><lb/>
+stinken kann! <seg type="symbol" subtype="2dots"/> Wenn nur nicht der unglückliche Schlußsatz wäre! »Auf<lb/>
+eine Auseinandersetzung« mit mir lassen sich <seg type="insult">die Herren <rs type="pers" ana="n_23102" ref="#fk__p_46524">Singer</rs> und<lb/>
+<rs type="pers" ana="n_23103" ref="#fk__p_47448">Kanner</rs></seg> nicht ein. Und warum? Weil sie mich »<seg type="spc">bereits in der<lb/>
+<rs type="magazineRef" ana="werk_9347">Wochenschrift</rs></seg> mehrfach gekennzeichnet« haben. Ihr Publicum kennt<lb/>
+mich also schon? Und so ist es denn trotz allen <seg type="insult">Zufriedenheitsversicherungen</seg>,<lb/>
+die man jeden Tag in der ‚<rs type="paper" ana="werk_9348">Zeit</rs>‘ lesen kann, wahr, daß die Abonnenten<lb/>
+des Tagblattes ‚<rs type="paper" ana="werk_9349">Die Zeit</rs>‘ dieselben sind wie die des <rs type="magazineRef" ana="werk_9350">Wochenblattes</rs>? <seg type="spc"><seg type="insult">Wir</seg><lb/>
+haben also nicht mehr als 1500 Käufer</seg>? <seg type="symbol" subtype="3dots"/> Und das mußte uns<lb/>
+anlässlich einer <seg type="insult">Polemik</seg> gegen einen <seg type="insult">Feind unseres Unternehmens</seg> herausrutschen<lb/>
+!<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_47448">
+               <persName>Kanner, Heinrich</persName>
+               <birth>
+                  <date>1864-11-9</date>
+                  <place>Galatz, Rumänien</place>
+               </birth>
+               <death>
+                  <date>1930-2-15</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Publizist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11867</idno></person>
+            <person xml:id="fk__p_47565">
+               <persName>Kraus, Karl</persName>
+               <birth>
+                  <date>1874-4-28</date>
+                  <place>Jicin, Böhmen</place>
+               </birth>
+               <death>
+                  <date>1936-6-12</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Publizist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11988</idno></person>
+            <person xml:id="fk__p_46524">
+               <persName>Singer, Isidor</persName>
+               <birth>
+                  <date>1857-01-16</date>
+                  <place>Pest</place>
+               </birth>
+               <death>
+                  <date>1927-12-08</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Nationalökonom</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12790</idno></person>
+            </listPerson></back></text>
+</TEI>

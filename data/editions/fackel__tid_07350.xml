@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07350.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07349.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07351.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Iliade, in: Fackel Heft 18, Nr. 431, 1916, S. 98-98</title>
+            <title type="iso-date">1916-08-01</title>
+            <title type="id">tid_07350</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">18</title><title type="heft">431</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-18-431_n0098.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/431,098</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Iliade</head>
+            <p ana="pr99209">
+Wien, <date>21. April</date>.<lb/>
+</p>
+            <p ana="pr99210">
+<space/>Echtes Soldatenblut pulst in den Adern dieses Feldherrn, der <seg type="symbol" subtype="4dots"/><lb/>
+Durch die ganze Monarchie kreuz und quer war <rs type="pers" ana="n_65451" ref="#fk__p_51882">Puhallos</rs> Vater mit<lb/>
+dem Säbel in der Faust <seg type="symbol" subtype="4dots"/><lb/>
+</p>
+            <p ana="pr99212">
+<space/>Das kann schon sein, aber es sollte doch nicht an einem<lb/>
+und demselben Tage gleichlautend in allen Zeitungen stehen.<lb/>
+Es mag schwer sein, wie <seg type="insult">ein Maßgebender</seg> jüngst beklagt hat, heute<lb/>
+einen <rs type="pers" ana="n_65452" ref="#fk__p_46243">Homer</rs> zu finden; aber es sollte noch schwerer sein, ein<lb/>
+Korrespondenzbureau zu finden.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_51882">
+               <persName>Puhallo von Brlog, Paul</persName>
+               <birth>
+                  <date>1856-2-21</date>
+                  <place>Brlog/Kroatien</place>
+               </birth>
+               <death>
+                  <date>1926-10-12</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Offizier</occupation>
+               <note type="comment">Generaloberst, FML</note>
+            </person>
+            <person xml:id="fk__p_46243">
+               <persName>Homer</persName>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2495</idno></person>
+            </listPerson></back></text>
+</TEI>

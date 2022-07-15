@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01441.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01440.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01442.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Gigerl. (Gigerl), in: Fackel Heft 02, Nr. 060, 1900, S. 28-28</title>
+            <title type="iso-date">1900-11-01</title>
+            <title type="id">tid_01441</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">060</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-060_n0028.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/060,028</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Gigerl. (Gigerl)</head>
+            <p ana="pr13632">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="n_11463" ref="#fk__p_44429">Gigerl</rs>.</seg></seg></seg> Dass der »<rs type="inst">Oesterreichische Hutmoden-Verein</rs>« den<lb/>
+neuesten Hutmodellen die Namen von Mitgliedern der Wiener medicinischen<lb/>
+ Facultät gegeben hat, ist ein glücklicher Einfall. Es sollte<lb/>
+damit offenbar in zarter Weise angedeutet werden, dass man <seg type="insult">Reclameärzte<lb/>
+, wie die Herren <rs type="pers" ana="n_11464" ref="#fk__p_50717">Nothnagel</rs> und <rs type="pers" ana="n_11465" ref="#fk__p_41448">Schrötter</rs></seg>, mit Gelehrten, wie<lb/>
+<rs type="pers" ana="n_11466" ref="#fk__p_45171">Gussenbauer</rs> und <rs type="pers" ana="n_11467" ref="#fk__p_52848">Schauta</rs>, nicht unter einen Hut bringen kann.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_52848">
+               <persName>Schauta, Friedrich</persName>
+               <birth>
+                  <date>1849-7-15</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1919-1-10</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Gynäkologe</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12637</idno></person>
+            <person xml:id="fk__p_45171">
+               <persName>Gussenbauer, Karl</persName>
+               <birth>
+                  <date>1843-10-30</date>
+                  <place>Obervellach/Kärnten</place>
+               </birth>
+               <death>
+                  <date>1903-6-18</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Chirurg</occupation>
+            </person>
+            <person xml:id="fk__p_50717">
+               <persName>Nothnagel, Hermann</persName>
+               <birth>
+                  <date>1841-9-28</date>
+                  <place>Alt-Lietze-Göricke, Brandenburg</place>
+               </birth>
+               <death>
+                  <date>1905-7-7</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Internist</occupation>
+               <note type="comment">Prof. Univ. Wien</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/9104</idno></person>
+            <person xml:id="fk__p_44429">
+               <persName>Gigerl</persName>
+            </person>
+            <person xml:id="fk__p_41448">
+               <persName>Schrötter-Kristelli, Leopold Ritter von</persName>
+               <birth>
+                  <date>1837-02-05</date>
+                  <place>Graz</place>
+               </birth>
+               <death>
+                  <date>1908-01-21</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Laryngologe</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

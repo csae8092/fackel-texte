@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03887.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03886.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03888.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Straßenkehrer. (Vom Diebsblatt), in: Fackel Heft 07, Nr. 179, 1905, S. 23-23</title>
+            <title type="iso-date">1905-02-15</title>
+            <title type="id">tid_03887</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">07</title><title type="heft">179</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-07-179_n0023.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/179,023</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Straßenkehrer. (Vom Diebsblatt)</head>
+            <p ana="pr39114">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="name_203546" key="#fk__p_60685">Straßenkehrer</rs>.</seg></seg> Im ‚<rs type="paper" ana="werk_13801">Neuen Wiener Journal</rs><ADD>‘</ADD> erschien ein<lb/>
+»<rs type="title">Eingesendet</rs>«. Der darin Angegriffene schickte eine Berichtigung, die<lb/>
+nicht abgedruckt wurde. In der Gerichtsverhandlung erklärte <seg type="insult">der<lb/>
+»verantwortliche Redakteur«</seg> — man kann die <seg type="insult">Sorte</seg> wirklich nur mehr<lb/>
+zwischen Gänsefüßchen zitieren —, daß die Redaktion des <rs type="paperRef" ana="werk_13802">Blattes</rs> eine<lb/>
+Berichtigung des Klägers gar nicht erhalten habe. Dieser produzierte<lb/>
+hierauf, wie der Gerichtssaalbericht der ‚<rs type="paper" ana="werk_13803">Arbeiter-Zeitung</rs>‘ erzählt, einen<lb/>
+Brief der <seg type="spc">Administration</seg> des ‚<rs type="paper" ana="werk_13804">Neuen Wiener Journals</rs>‘, worin sie<lb/>
+sich bereit erklärt, die Berichtigung zu bringen, <seg type="spc">wenn sie als<lb/>
+Inserat aufgegeben werde</seg>. Die Antwort <seg type="insult">des »verantwortlichen<lb/>
+Redakteurs«</seg> auf diese Enthüllung war ein Lächeln, das den <choice><sic>Richter</sic><corr>Richter,</corr></choice><lb/>
+Landesgerichtsrat <rs type="pers" ana="n_33300" ref="#fk__p_45781"><abbr>v.</abbr> Heidt</rs>, veranlaßte, mit Nachdruck das Folgende zu<lb/>
+sagen: »<seg type="spc">Der Brief hätte von einem Blatte</seg>, <seg type="spc">das etwas auf<lb/>
+sich hält</seg>, <seg type="spc">korrekterweise nicht hinausgegeben werden<lb/>
+dürfen</seg>«. — Das ‚<rs type="paper" ana="werk_13805">Neue Wiener Journal</rs>‘ marschiert natürlich an der<lb/>
+Spitze der Blätter, die dem <seg type="insult">Volksbetrug des Annonceurs »Professor<lb/>
+<rs type="pers" ana="n_33301" key="#fk__p_49990">Maxim</rs>«</seg> Vorschub geleistet haben. Das Geld, das diese Hilfe trug, reichte<lb/>
+zwar höchstens zur Anschaffung von Wagenschmiere für die <seg type="insult">Equipage<lb/>
+des Herrn <rs type="pers" ana="n_33302" ref="#fk__p_46698">Lippowitz</rs></seg>, die in Wien so lange schon öffentliches Ärgernis erregt.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46698">
+               <persName>Lippowitz, Jakob (Siegmund)</persName>
+               <birth>
+                  <date>1865-10-9</date>
+                  <place>Leipzig</place>
+               </birth>
+               <death>
+                  <date>1934-7-4</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17583</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/4054</idno></person>
+            <person xml:id="fk__p_45781">
+               <persName>Heidt, Carl von</persName>
+               <birth>
+                  <date>1858-1-23</date>
+                  <place>Wien</place>
+               </birth>
+               <occupation>Richter</occupation>
+               <note type="comment">1., Freyung 6</note>
+               <note type="comment">Ögg teilt ihm 778/23 zu, zu diesem Zeitpunkt war er aber nicht mehr in Wien</note>
+               <note type="comment">Presserichter, Vizepräs. des Straflandesgerichts</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

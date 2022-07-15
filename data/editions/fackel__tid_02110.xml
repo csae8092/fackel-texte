@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02110.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02109.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02111.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ein vorsichtiges Blatt, in: Fackel Heft 03, Nr. 089, 1901, S. 9-9</title>
+            <title type="iso-date">1901-12-24</title>
+            <title type="id">tid_02110</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">03</title><title type="heft">089</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-03-089_n0009.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/089,009</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ein vorsichtiges Blatt</head>
+            <p ana="pr20683">
+<space/><seg type="insult">Ein vorsichtiges <rs type="perRef" ana="werk_6805">sächsisches Blatt</rs></seg> sucht sich seinen Lesern<lb/>
+gegenüber in der folgenden Weise zu salvieren: <rs type="selfRef" ana="werk_6806"><abbr>Nr.</abbr> 87</rs> der ‚<rs type="self" ana="werk_6807">Fackel</rs>‘<lb/>
+enthalte »beachtenswerthe Auslassungen des bekannten Denkers<lb/>
+<rs type="pers" ana="n_17743" ref="#fk__p_46293">Houston Chamberlain</rs> — <seg type="spc">der übrigens mit <seg type="insult">der berüchtigten<lb/>
+ englischen Familie gleichen Namens</seg> nicht das<lb/>
+Geringste zu thun hat</seg> — über <rs type="pers" ana="n_17744" ref="#fk__p_54040">Mommsen</rs>.«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46293">
+               <persName>Chamberlain, Houston Stewart</persName>
+               <birth>
+                  <date>1855-9-9</date>
+                  <place>Portsmouth</place>
+               </birth>
+               <death>
+                  <date>1927-1-9</date>
+                  <place>Bayreuth</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11086</idno></person>
+            <person xml:id="fk__p_54040">
+               <persName>Mommsen, Theodor</persName>
+               <birth>
+                  <date>1817-11-30</date>
+                  <place>Garding/Schleswig</place>
+               </birth>
+               <death>
+                  <date>1903-11-01</date>
+                  <place>Berlin-Charlottenburg</place>
+               </death>
+               <occupation>Historiker</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12283</idno></person>
+            </listPerson></back></text>
+</TEI>

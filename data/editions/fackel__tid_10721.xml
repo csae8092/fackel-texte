@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_10721.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10720.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10722.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Von Georg Jahoda), in: Fackel Heft 28, Nr. 743, 1926, S. 64-64</title>
+            <title type="iso-date">1926-12-01</title>
+            <title type="id">tid_10721</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">28</title><title type="heft">743</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-28-743_n0064.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/743,064</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Von Georg Jahoda)</head>
+            <p ana="pr149262">
+<space/>Im letzten Heft (<rs type="selfRef" ana="werk_24316"><abbr>Nr.</abbr> 735—742</rs>, <date>Oktober 1926</date>) hätte mitgeteilt<lb/>
+ werden sollen, daß bis zu diesem ein volles Vierteljahrhundert<lb/>
+ erfüllt war seit dem Tage, als der Druck der <rs type="self" ana="werk_24317">Fackel</rs><lb/>
+von der <rs type="inst">Druckerei <seg type="spc"><rs type="pers" ana="n2_7928" ref="#fk__p_44294">Jahoda</rs> &amp; <rs type="pers" ana="n2_7929" ref="#fk__p_58955">Siegel</rs></seg></rs> übernommen wurde.<lb/>
+Das erste Heft, das sie hergestellt hat, war die <rs type="selfRef" ana="werk_24318"><abbr>Nr.</abbr> 82</rs> (<DATERANGE>Anfang<lb/>
+Oktober 1901</DATERANGE>). Es sind somit 661 Nummern aus dieser Druckerei<lb/>
+hervorgegangen, ausnahmslos unter persönlichster Aufsicht und<lb/>
+Mitwirkung <rs type="pers" ana="n_89616" ref="#fk__p_44294"><seg type="spc">Georg Jahodas</seg></rs>. Nach seinem Hingang wird mir<lb/>
+dieses wichtigste Datum in der Geschichte der <rs type="self" ana="werk_24319">Fackel</rs> gegenwärtig<lb/>
+, auf das der stillste aller Wohltäter mich nicht aufmerksam<lb/>
+gemacht hatte, mir so verwehrend, ihm die letzte Freude einer<lb/>
+festlichen Erinnerung zu bereiten.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_44294">
+               <persName>Jahoda, Georg</persName>
+               <birth>
+                  <date>1863-11-28</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1926-11-24</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Drucker</occupation>
+               <note type="comment">Miteigentümer der Druckerei Jahoda &amp; Siegel, in der die Fackel erschien</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/47142</idno></person>
+            <person xml:id="fk__p_58955">
+               <persName>Siegel (Jahoda &amp; Siegel, Druckerei)</persName>
+            </person>
+            </listPerson></back></text>
+</TEI>

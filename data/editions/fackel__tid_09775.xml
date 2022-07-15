@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_09775.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09774.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09776.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">27. Februar:, in: Fackel Heft 26, Nr. 649, 1924, S. 75-75</title>
+            <title type="iso-date">1924-06-01</title>
+            <title type="id">tid_09775</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">26</title><title type="heft">649</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-26-649_n0075.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/649,075</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>27. Februar:</head>
+            <p ana="pr132483">
+<space/><date>27. Februar</date>:<lb/>
+</p>
+            <p ana="pr132484">
+<space/>I. <rs type="title">Brief von <rs type="pers" ana="n2_7259" ref="#fk__p_52456">Rosa Luxemburg</rs> mit Einleitung</rs>. — <rs type="title">Legende</rs> /<lb/>
+<rs type="title">Der Bauer, der Hund und der Soldat</rs> / <rs type="title">Der <rs type="pers">sterbende Soldat</rs></rs> / <rs type="title">Zwei<lb/>
+Soldatenlieder</rs> / <rs type="title">Alle Vögel sind schon da</rs> / <rs type="title">Nächtliche Stunde</rs> /<lb/>
+<rs type="title"><rs type="pers" ana="n2_7260" ref="#fk__p_46664">Offenbach</rs></rs>. — <rs type="pers" ana="n_80967" ref="#fk__p_43227"><seg type="spc">Raimund</seg></rs>: Aus »<rs type="title">Der Alpenkönig und der Menschenfeind</rs>«.<lb/>
+</p>
+            <p ana="pr132485">
+<space/>II. <rs type="pers" ana="n_80968" ref="#fk__p_44354"><seg type="spc">Gerhart Hauptmann</seg></rs>: <rs type="title"><seg type="spc"><rs type="pers">Hannele Matterns</rs><lb/>
+Himmelfahrt</seg></rs> (mit Musik).<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_44354">
+               <persName>Hauptmann, Gerhart</persName>
+               <birth>
+                  <date>1862-11-15</date>
+                  <place>Salzbrunn, Schlesien</place>
+               </birth>
+               <death>
+                  <date>1946-6-6</date>
+                  <place>Agnetendorf</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Ögg teilt die indirekte Stelle 521/64 zu, irrtümlich</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11617</idno></person>
+            <person xml:id="fk__p_46664">
+               <persName>Offenbach, Jacques</persName>
+               <birth>
+                  <date>1819-06-21</date>
+                  <place>Köln</place>
+               </birth>
+               <death>
+                  <date>1880-10-05</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Komponist</occupation>
+               <note type="comment">Ögg teilt Fortunato F 876/34 Shakespeare zu</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/9131</idno></person>
+            <person xml:id="fk__p_52456">
+               <persName>Luxemburg, Rosa</persName>
+               <birth>
+                  <date>1871-3-5</date>
+                  <place>Zamosc, Kreis Lublin</place>
+               </birth>
+               <death>
+                  <date>1919-1-15</date>
+                  <place>Berlin</place>
+               </death>
+               <occupation>Politikerin</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/8736</idno></person>
+            <person xml:id="fk__p_43227">
+               <persName>Raimund, Ferdinand</persName>
+               <birth>
+                  <date>1790-6-1</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1836-9-5</date>
+                  <place>Pottenstein, Niederösterreich</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Ögg teilt die Valentin-Stelle 254/4 Nestroy zu</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12468</idno></person>
+            </listPerson></back></text>
+</TEI>

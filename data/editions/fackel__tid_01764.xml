@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01764.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01763.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01765.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Socius., in: Fackel Heft 03, Nr. 074, 1901, S. 25-25</title>
+            <title type="iso-date">1901-04-01</title>
+            <title type="id">tid_01764</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">03</title><title type="heft">074</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-03-074_n0025.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/074,025</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Socius.</head>
+            <p ana="pr17489">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_14714" ref="#fk__p_53413"><foreign xml:lang="la">Socius</foreign></rs>.</seg></seg> Die <seg type="insult">allgemeine Verblödung</seg> macht <seg type="insult">erfreuliche Fortschritte<lb/>
+</seg>. Gegenwärtig tobt der Streit um die Frage, ob <seg type="insult">Herr <rs type="pers" ana="n_14715" ref="#fk__p_47331">Wolf</rs></seg><lb/>
+in einer Versammlungskeilerei Ohrfeigen bekommen hat oder nicht.<lb/>
+Offenbar ist also die Parteizugehörigkeit des Raubmörders <rs type="pers" ana="n_14716" ref="#fk__p_47104">Kakuschka-Kohn<lb/>
+</rs> schon eine erledigte Sache.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_53413">
+               <persName>Socius</persName>
+            </person>
+            <person xml:id="fk__p_47104">
+               <persName>Kakuschka-Kohn, Josef</persName>
+               <birth>
+                  <date>1859?</date>
+               </birth>
+               <occupation>Totengräber</occupation>
+               <note type="comment">14.4.00 Mordattentat auf den Währinger Bezirksvorsteher Anton Baumann</note>
+               <note type="comment">am 30.10.1900 zum Tod verurteilt; möglicherweise zu Haftstrafe begnadigt</note>
+               <note type="comment">urspr. Selchergehilfe, dann Totengräber; bewarb sich um den Posten des Scharfrichters</note>
+            </person>
+            <person xml:id="fk__p_47331">
+               <persName>Wolf, Karl Hermann</persName>
+               <birth>
+                  <date>1862-1-27</date>
+                  <place>Eger</place>
+               </birth>
+               <death>
+                  <date>1941-6-11</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Publizist</occupation>
+               <occupation>Politiker</occupation>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Trafikant</occupation>
+               <note type="comment">Dr. Stepischnegg sein Schwiegervater F 17/2</note>
+               <note type="comment">ZF 32C/19, Elfriede Wolf, 23.6.1972, 87 J. alt, *1885? (2. Ehefrau)</note>
+               <note type="comment">7., Bandgasse 32</note>
+               <note type="comment">1. Ehe: Ilda Wolf, geb. Stepischnegg, geschieden 1903; 2. Elfriede Frenzel, *Hohenelbe 05.01.1885</note>
+               <note type="comment">Ostdeutsche Rundschau</note>
+               <note type="comment">Reichsratsabg. 1897-1918</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

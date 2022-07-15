@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02047.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02046.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02048.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Als Alles hin war …, in: Fackel Heft 03, Nr. 086, 1901, S. 24-25</title>
+            <title type="iso-date">1901-11-26</title>
+            <title type="id">tid_02047</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">03</title><title type="heft">086</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-03-086_n0024.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/086,024</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Als Alles hin war …</head>
+            <p ana="pr19978">
+<space/>»<QUOTE rn="1" sourceID="FK-03-086_n0024_a">Und da tanzt nun eine<lb/>
+höchst graciöse Person, Fräulein<lb/>
+<rs type="pers" ana="n_17047" ref="#fk__p_50819">Olga <seg type="spc">Sartori</seg></rs>, so leicht, so fein,<lb/>
+mit solcher Anmuth, dass es wie<lb/>
+ein leise vor der Seele schwebender<lb/>
+ Traum an schwülem,<lb/>
+schwülem Sommernachmittage<lb/>
+wirkt.</QUOTE>«<lb/>
+<seg ana="‚Neues Wiener Tagblatt‘"/>, <date>17. <abbr>Nov.</abbr></date><lb/>
+</p>
+            <p ana="pr19981">
+<space/>»<QUOTE rn="1" sourceID="FK-03-086_n0024_b">Dann folgte ein persischer<lb/>
+Tanz, ausgeführt von <seg type="insult">einer<lb/>
+splitternackten, bloss gazeumhüllten<lb/>
+, mageren Jüdin namens<lb/>
+<rs type="pers" ana="n_17048" ref="#fk__p_50819"><seg type="spc">Sartori</seg></rs></seg>.</QUOTE>«<lb/>
+<seg ana="‚Deutsche Zeitung‘"/>, <date>17. <abbr>Nov.</abbr></date><lb/>
+</p>
+            <p ana="pr19987">
+<space/>»<rs type="pers" ana="n_17050" ref="#fk__p_43433">Frank Wedekind</rs> fiel sanft ab. Er trägt <seg type="spc">nicht bestechend<lb/>
+genug</seg> vor.«<lb/>
+</p>
+            <p ana="pr19992">
+<space/>Ein <seg type="insult">Claqueur</seg> zum andern: »Du, da rückwärts zischt Einer!«<lb/>
+»Was? Dem hau’ ich gleich eine auf’s Dach« <seg type="symbol" subtype="4dots"/> Ein Besucher<lb/>
+zum Billeteur: »Ist es bei Ihnen Sitte, dass die Leute, denen ein<lb/>
+Stück missfällt, von den <seg type="insult">Claqueuren</seg> geprügelt werden?« »Ja unsere<lb/>
+<seg type="insult">Claqueure</seg>, die sind allerweil resch!«<lb/>
+</p>
+            <p ana="pr19997">
+<space/>»Da ist <seg type="insult">der <rs type="pers" ana="n_17052" ref="#fk__p_47565">Kraus</rs></seg> daran schuld. Der hat die Zischdemonstration<lb/>
+ insceniert!«<lb/>
+</p>
+            <p ana="pr20002">
+<space/>Dass <seg type="insult">der <rs type="pers" ana="n_17054" ref="#fk__p_47565">Kraus</rs></seg> auch die Kritik in der ‚<rs type="paper" ana="werk_6613">Neuen Freien Presse</rs>‘<lb/>
+geschrieben hat.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_47565">
+               <persName>Kraus, Karl</persName>
+               <birth>
+                  <date>1874-4-28</date>
+                  <place>Jicin, Böhmen</place>
+               </birth>
+               <death>
+                  <date>1936-6-12</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Publizist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11988</idno></person>
+            <person xml:id="fk__p_50819">
+               <persName>Sartori, Olga</persName>
+               <note type="comment">Künstlerin bei Gabor Steiner</note>
+            </person>
+            <person xml:id="fk__p_43433">
+               <persName>Wedekind, Frank</persName>
+               <birth>
+                  <date>1864-7-24</date>
+                  <place>Hannover</place>
+               </birth>
+               <death>
+                  <date>1918-3-9</date>
+                  <place>München</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/13068</idno></person>
+            </listPerson></back></text>
+</TEI>

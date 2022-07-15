@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00469.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00468.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00470.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Herrn Grafen Goluchowski, I. Ballplatz. (Herrn Grafen Goluchowsky, 1., Ballplatz), in: Fackel Heft 01, Nr. 019, 1899, S. 30-31</title>
+            <title type="iso-date">1899-10-01</title>
+            <title type="id">tid_00469</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">019</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-019_n0030.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/019,030</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Herrn Grafen Goluchowski, I. Ballplatz. (Herrn Grafen Goluchowsky, 1., Ballplatz)</head>
+            <p ana="pr4346">
+<space/><seg type="sidehead"><seg type="i">Herrn <rs type="pers" ana="n_3232" ref="#fk__p_44673">Grafen Goluchowski</rs>, I. Ballplatz.</seg></seg> Also wird’s endlich?<lb/>
+Sie wissen doch jetzt ganz genau, was Sie zu thun haben. Deutlicher<lb/>
+kann man es Ihnen doch nicht mehr sagen. Noch einmal: Sie<lb/>
+müssen gegen <seg type="insult">den Schuft <rs type="pers" ana="n_3233" ref="#fk__p_48031">Milan</rs></seg> etwas unternehmen. Haben Sie denn<lb/>
+nicht gelesen, wie sein Sohn jüngst mit <seg type="insult">der civilisatorischen Mission</seg><lb/>
+in Serbien geprahlt hat? Zwei Tage nach dem Urtheil des Standgerichts<lb/>
+! Und jetzt werden die besseren Menschen dort unten einfach<lb/>
+bei Nacht und Nebel in die Save geschmissen. Wenn Sie nach alledem<lb/>
+noch dazu aufgelegt sind, <seg type="insult">Herrn <rs type="pers" ana="n_3234" ref="#fk__p_48031">Milan</rs></seg> vertheidigen zu lassen, so<lb/>
+dürfen Sie sich nur mehr des ‚<rs type="paper" ana="werk_1127">Pester Lloyd</rs>‘ bedienen. Den <seg type="insult">Wiener<lb/>
+Schmierfinken</seg> ist das Geschäft schon zu schmutzig, und den <seg type="insult">Takowa-Orden<lb/>
+ zweiter Classe</seg> haben sie ja ohnehin schon alle.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_48031">
+               <persName>Milan I. Obrenović, König von Serbien</persName>
+               <birth>
+                  <date>1854-8-22</date>
+                  <place>Jassy</place>
+               </birth>
+               <death>
+                  <date>1901-2-11</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>König</occupation>
+            </person>
+            <person xml:id="fk__p_44673">
+               <persName>Goluchowski, Agenor Graf</persName>
+               <birth>
+                  <date>1849-03-25</date>
+                  <place>Lemberg</place>
+               </birth>
+               <death>
+                  <date>1921-03-28</date>
+                  <place>Lemberg</place>
+               </death>
+               <occupation>Diplomat</occupation>
+               <occupation>Politiker</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

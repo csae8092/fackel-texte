@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01910.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01909.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01911.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Aus einem Kriegsbericht der ‚Neuen Freien Presse‘.), in: Fackel Heft 03, Nr. 080, 1901, S. 27-28</title>
+            <title type="iso-date">1901-06-01</title>
+            <title type="id">tid_01910</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">03</title><title type="heft">080</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-03-080_n0027.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/080,027</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Aus einem Kriegsbericht der ‚Neuen Freien Presse‘.)</head>
+            <p ana="pr18709">
+<space/><seg type="insult">Aus einem Kriegsbericht der ‚<seg ana="Neuen Freien Presse"/>‘:</seg><lb/>
+</p>
+            <p ana="pr18711">
+<space/>»<QUOTE rn="1" sourceID="FK-03-080_n0027_b">Man stand mit <seg type="spc">den</seg> Rücken fast an der portugiesischen<lb/>
+Grenze, hatte vor sich keine haltbare Position mehr, erhielt täglich<lb/>
+Meldungen von dem raschen Vorrücken <rs type="pers" ana="n_15754" ref="#fk__p_39600">Bullers</rs> gegen Lydenburg,<lb/>
+<rs type="pers" ana="n_15755" ref="#fk__p_43740">Frenchs</rs> gegen Barberton, deren Colonnen wie die Zähne einer<lb/>
+Zange sich bei Komati-Poort zu schließen drohten, was die Gefangennahme<lb/>
+ der Regierung bedeutet hätte, man sah ein, dass die<lb/>
+Eisenbahn, die einzige Verbindung mit der Welt, die einzige Lebensader<lb/>
+ der Boers, aufgegeben werden müsse, dazu die Sorge für den<lb/>
+Präsidenten, den man seines hohen Alters wegen nicht über Stock<lb/>
+und Stein mitführen konnte — es war eine Stimmung, an der jeder<lb/>
+mit dem gewissen leisen Fieberschauer — <seg type="spc">jedem Haussier nach<lb/>
+einer scharfen Baisse</seg> an einem nasskalten Herbsttage wohlbekannt<lb/>
+ — theilnahm.</QUOTE>« (<date>3. Juni</date>).<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_39600">
+               <persName>Buller, Sir Redvers Henry</persName>
+               <birth>
+                  <date>1839-12-07</date>
+               </birth>
+               <death>
+                  <date>1908-06-02</date>
+                  <place>The Downs/Crediton</place>
+               </death>
+               <occupation>General</occupation>
+            </person>
+            <person xml:id="fk__p_43740">
+               <persName>French, John Denton Pinkstone, 1. Earl of Ypres and High Lake</persName>
+               <birth>
+                  <date>1852-09-28</date>
+                  <place>Ripple/Kent</place>
+               </birth>
+               <death>
+                  <date>1925-05-22</date>
+                  <place>SchloßDeal/Kent</place>
+               </death>
+               <occupation>Feldherr</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

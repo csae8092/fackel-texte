@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06965.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06964.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06966.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Aus der Broschüre „Volk oder Staat?“), in: Fackel Heft 17, Nr. 413, 1915, S. 20-21</title>
+            <title type="iso-date">1915-12-01</title>
+            <title type="id">tid_06965</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">17</title><title type="heft">413</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-17-413_n0020.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/413,020</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Aus der Broschüre „Volk oder Staat?“)</head>
+            <p ana="pr94693">
+<space/>Aus der Broschüre »<rs type="title">Volk oder Staat?</rs>«, 10. Heft der »<rs type="title">Deutschen<lb/>
+Kriegsschriften</rs>«, von <seg type="insult"><rs type="pers" ana="n_63848" ref="#fk__p_41179"><abbr>Dr.</abbr> Heinz Potthoff</rs>, Sozialpolitiker und Führer<lb/>
+der <rs type="inst">fortschrittlichen Volkspartei</rs></seg>:<lb/>
+</p>
+            <p ana="pr94695">
+<space/><choice><sic>, . . .</sic><corr>. . . .</corr></choice> Zweifelt jemand, daß die deutsche Heeresleitung auch zum<lb/>
+äußersten Abwehrmittel greifen wird, ehe sie sich durch Aushungerung<lb/>
+zwingen läßt, die siegreichen Heere aus Frankreich und Rußland zurückzurufen<lb/>
+ und einen Frieden zu schließen, der alle Früchte des schweren<lb/>
+Ringens preisgibt? Nimmermehr! <seg type="spc">Dieses Äußerste aber heißt</seg>:<lb/>
+<seg type="spc">Vertreibung der <choice><sic>MilIionen</sic><corr>Millionen</corr></choice> feindlicher Einwohner aus dem<lb/>
+besetzten Gebiete</seg>, <seg type="spc">Tötung der Hunderttausende Gefangenen</seg>,<lb/>
+<seg type="spc">die an unseren Vorräten mitzehren</seg>. Das wäre furchtbar, aber<lb/>
+unvermeidlich, wenn wir nicht anders durchhalten könnten <seg type="symbol" subtype="4dots"/><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_41179">
+               <persName>Potthoff, Heinz</persName>
+               <birth>
+                  <date>1875-5-9</date>
+                  <place>Bielefeld</place>
+               </birth>
+               <death>
+                  <date>1945-3-4</date>
+                  <place>Berlin</place>
+               </death>
+               <occupation>Jurist</occupation>
+               <note type="comment">Arbeitsrechtler</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

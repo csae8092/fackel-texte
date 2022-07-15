@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_09200.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09199.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09201.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ebenda, 17. Mai, halb 8 Uhr:, in: Fackel Heft 24, Nr. 595, 1922, S. 71-71</title>
+            <title type="iso-date">1922-07-01</title>
+            <title type="id">tid_09200</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">24</title><title type="heft">595</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-24-595_n0071.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/595,071</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ebenda, 17. Mai, halb 8 Uhr:</head>
+            <p ana="pr122382">
+<space/>Ebenda, <date>17. Mai</date>, halb 8 Uhr:<lb/>
+</p>
+            <p ana="pr122383">
+<space/><rs type="title">Vorwort zum 60. Todestag <rs type="pers" ana="n2_6878" ref="#fk__p_46919">Nestroys</rs></rs>. — <rs type="title"><seg type="spc">Der Zerrissene</seg></rs>. —<lb/>
+<rs type="title">Couplets: Dieses <foreign xml:lang="de-loc">G’fühl</foreign></rs> / <rs type="title">Entree des <rs type="pers">Willibald</rs></rs> (wiederholt). —<lb/>
+<rs type="pers" ana="n_74887" ref="#fk__p_43433">Wedekind</rs>: <rs type="title">Die Hunde</rs>. — <rs type="title">Lied von der Chimäre</rs>. Zugaben: <rs type="title">Hobellied<lb/>
+</rs> / <rs type="title">Brüderlein fein</rs>. [Begleitung wie oben]<lb/>
+</p>
+            <p ana="pr122384">
+<space/>Die zwei letzten Vorlesungen waren improvisiert. Die auf den<lb/>
+<date>18. Mai</date> angesetzte (»<rs type="title">Literatur</rs>«) entfiel wegen des Generalstreiks.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46919">
+               <persName>Nestroy, Johann Nepomuk</persName>
+               <birth>
+                  <date>1801-12-7</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1862-5-25</date>
+                  <place>Graz</place>
+               </death>
+               <occupation>Sänger</occupation>
+               <occupation>Schauspieler</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12338</idno></person>
+            <person xml:id="fk__p_43433">
+               <persName>Wedekind, Frank</persName>
+               <birth>
+                  <date>1864-7-24</date>
+                  <place>Hannover</place>
+               </birth>
+               <death>
+                  <date>1918-3-9</date>
+                  <place>München</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/13068</idno></person>
+            </listPerson></back></text>
+</TEI>

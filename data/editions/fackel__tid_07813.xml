@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07813.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07812.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07814.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ich träumte, in: Fackel Heft 19, Nr. 454, 1234, S. 60-60</title>
+            <title type="iso-date">1234-01-01</title>
+            <title type="id">tid_07813</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">19</title><title type="heft">454</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-19-454_n0060.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/454,060</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ich träumte</head>
+            <p ana="pr104376">
+daß <seg type="insult">der Cafetier <rs type="pers" ana="n_67004" ref="#fk__p_49323">Riedl</rs></seg> <seg type="insult">den Dichter <rs type="pers" ana="n_67005" ref="#fk__p_45448">Müller</rs></seg> in Audienz empfangen<lb/>
+und ihm gesagt habe: »<foreign xml:lang="de-loc"><seg type="insult">Mir zwa</seg> san da.</foreign> Jetzt gilt es durchhalten<lb/>
+ <seg type="insult">bis zum siegreichen Ende</seg>!«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_45448">
+               <persName>Müller, Hans</persName>
+               <birth>
+                  <date>1882-10-25</date>
+                  <place>Brünn</place>
+               </birth>
+               <death>
+                  <date>1950-3-8</date>
+                  <place>Einigen/Thunersee</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12327</idno></person>
+            <person xml:id="fk__p_49323">
+               <persName>Riedl, Ludwig</persName>
+               <birth>
+                  <date>1858-12-7</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1919-8-6</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Kaffeehausbesitzer </occupation>
+               <note type="comment">Inh. Café Europe; 1., Stephansplatz 8a (gegenüber dem Riesentor)</note>
+               <note type="comment">Whg.: 18., Ferrogasse 6</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

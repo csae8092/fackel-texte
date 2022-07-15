@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00511.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00510.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00512.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Bediensteter des Deutschen Volkstheaters. (Einem Bediensteten des Deutschen Volkstheaters), in: Fackel Heft 01, Nr. 021, 1899, S. 30-30</title>
+            <title type="iso-date">1899-10-01</title>
+            <title type="id">tid_00511</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">021</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-021_n0030.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/021,030</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Bediensteter des Deutschen Volkstheaters. (Einem Bediensteten des Deutschen Volkstheaters)</head>
+            <p ana="pr4796">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_3646" key="#fk__p_38983">Bediensteter des Deutschen Volkstheaters</rs>.</seg></seg> Sie berichten mir von<lb/>
+dem <seg type="insult">Beweise seltener Hochherzigkeit</seg>, den <seg type="insult">die Herren <rs type="pers" ana="n_3647" ref="#fk__p_44254">Geiringer</rs> und<lb/>
+<rs type="pers" ana="n_3648" ref="#fk__p_42599">Bukovics</rs></seg> anlässlich des zehnjährigen Bestandes ihrer Firma erbracht<lb/>
+haben. Fünf Gulden für jeden Arbeiter, der zehn Jahre dem<lb/>
+<rs type="inst">Deutschen Volkstheater</rs> gedient hat — das ist doch mehr als<lb/>
+selbst Herr <rs type="pers" ana="n_3649" ref="#fk__p_48314">Krupp</rs> in Berndorf an seinem Festtage spendierte. Freilich<lb/>
+hat dieser die Spesen für das <seg type="insult">Journalistenbankett</seg> hereinbringen<lb/>
+müssen, während die Pächter des <rs type="inst">Deutschen Volkstheaters</rs> keinerlei<lb/>
+Auslagen für <seg type="insult">eine hungerige Presse</seg> zu decken hatten. Für sie lag<lb/>
+keine zwingende Veranlassung vor, an dem Dienstpersonale zu sparen;<lb/>
+die <seg type="insult">Wiener Journalisten</seg> hatten ja, »beleidigt« durch die Festbroschüre<lb/>
+eines Vereinsmitglieds, kategorisch erklärt, dass sie ausnahmsweise<lb/>
+einmal <seg type="spc">nicht</seg> essen wollen. Ueberdies haben wir es in Berndorf<lb/>
+mit <seg type="insult">einem ehrlichen Griff nach dem <seg type="spc">Lohne</seg></seg> zu thun, und das schafft<lb/>
+immerhin eine klare Situation. Hier aber wird so etwas wie eine<lb/>
+<seg type="insult">»<seg type="spc">Remuneration</seg>«</seg> beabsichtigt, und <seg type="insult">die satten Theaterpaschas</seg> wagen<lb/>
+mit <seg type="insult">»Noblesse«</seg> zu protzen, weil sie sich nach zehnjähriger dramaturgischer<lb/>
+ Praxis mit einer guten Verdauung ausweisen können.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_44254">
+               <persName>Geiringer, Leo</persName>
+               <birth>
+                  <date>1851-6-27</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1900-5-29</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Dramaturg</occupation>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">seit 1889 Dt. Volkstheater</note>
+            </person>
+            <person xml:id="fk__p_48314">
+               <persName>Krupp, Arthur</persName>
+               <birth>
+                  <date>1856-05-31</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1938-4-21</date>
+                  <place>Berndorf/Niederösterreich</place>
+               </death>
+               <occupation>Industrieller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/3415</idno></person>
+            <person xml:id="fk__p_42599">
+               <persName>Bukovics-Kis-Alacska, Emerich von</persName>
+               <birth>
+                  <date>1844-2-28</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1905-7-4</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Theaterleiter</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

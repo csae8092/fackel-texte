@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02822.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02821.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02823.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Auszug aus einem gerichtlichen Protocoll, in: Fackel Heft 04, Nr. 124, 1902, S. 20-21</title>
+            <title type="iso-date">1902-12-20</title>
+            <title type="id">tid_02822</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">04</title><title type="heft">124</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-04-124_n0020.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/124,020</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Auszug aus einem gerichtlichen Protocoll</head>
+            <p ana="pr27697">
+<space/><inciptit>Von</inciptit> meinem Bruder <rs type="pers" ana="n_23929" ref="#fk__p_52184"><seg type="spc">Richard Kraus</seg></rs> werde ich um die<lb/>
+Veröffentlichung des nachstehenden <seg type="spc">Auszuges aus dem Protocoll<lb/>
+</seg> seiner Schwurgerichts-Verhandlung gegen <rs type="pers" ana="n_23930" ref="#fk__p_53266">Sigmund Bergmann</rs>,<lb/>
+Herausgeber der ‚<rs type="magazine" ana="werk_9904">Extrapost</rs>‘, ersucht:<lb/>
+</p>
+            <p ana="pr27699">
+<space/><rs type="pers" ana="n_23931" ref="#fk__p_53266"><seg type="spc">Sigmund Bergmann</seg></rs> gibt zu, sämmtliche incriminierten<lb/>
+Artikel verfasst, zum Druck befördert und weiter verbreitet zu<lb/>
+haben. »Ich habe jedoch nicht die Absicht gehabt, den Vater<lb/>
+</p>
+            <p ana="pr27699">
+des Privatanklägers zu beleidigen. Wenn in den incriminierten<lb/>
+Artikeln Worte vorkommen, die der Privatankläger als Beleidigung<lb/>
+ seines verstorbenen Vaters ansieht, <seg type="spc">so erkläre ich</seg>,<lb/>
+<seg type="spc"><rs type="pers" ana="n_23932" ref="#fk__p_53266">Sigmund Bergmann</rs></seg>, <seg type="spc">daß ich nicht die Absicht hatte</seg>,<lb/>
+<seg type="spc">den verstorbenen Vater des Privatanklägers</seg>, <seg type="spc">Herrn</seg><lb/>
+<rs type="pers" ana="n_23933" ref="#fk__p_46645"><seg type="spc">Jacob Kraus </seg><abbr><seg type="spc">sen</seg>.</abbr></rs>, <seg type="spc">zu beleidigen</seg>; <seg type="spc">daß ich denselben<lb/>
+gar nicht gekannt und von ihm nie etwas Ehrenrühriges<lb/>
+ gehört habe und deshalb auch gar keine<lb/>
+Veranlassung hatte</seg>, <seg type="spc">seiner Ehre nahezutreten</seg>, <seg type="spc">sowie<lb/>
+daß ich mich schämen würde</seg>, <seg type="spc">einen Todten zu verunglimpfen<lb/>
+</seg>.«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46645">
+               <persName>Kraus, Jacob </persName>
+               <birth>
+                  <date>1833-9-4</date>
+                  <place>Unter-Kralovec</place>
+               </birth>
+               <death>
+                  <date>1900-4-5</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Fabrikant</occupation>
+               <note type="comment">ZF 1. Tor 8/1/15</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38926</idno></person>
+            <person xml:id="fk__p_52184">
+               <persName>Kraus, Richard</persName>
+               <birth>
+                  <date>1861-11-5</date>
+                  <place>Jicin/Mähren</place>
+               </birth>
+               <death>
+                  <date>1909-11-1</date>
+                  <place>Wien</place>
+               </death>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38941</idno></person>
+            <person xml:id="fk__p_53266">
+               <persName>Bergmann, Siegmund</persName>
+               <birth>
+                  <date>1861-10-22</date>
+                  <place>Ausschau</place>
+               </birth>
+               <death>
+                  <date>1929-11-28</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Kaufmann</occupation>
+               <occupation>Druckereibesitzer</occupation>
+               <occupation>Journalist</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

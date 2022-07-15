@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_04062.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04061.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04063.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Nebenmensch. (Faschings-Schwarzbuch), in: Fackel Heft 07, Nr. 194, 1906, S. 26-26</title>
+            <title type="iso-date">1906-01-31</title>
+            <title type="id">tid_04062</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">07</title><title type="heft">194</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-07-194_n0026.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/194,026</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Nebenmensch. (Faschings-Schwarzbuch)</head>
+            <p ana="pr42341">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="name_201287" ref="#fk__p_60354">Nebenmensch</rs>.</seg></seg></seg> <seg type="insult">Aus dem Faschings-Schwarzbuch</seg>: »Haben Sie<lb/>
+heuer schon viel mitgemacht?« »Jetzt, ohne <rs type="pers" ana="n_35009" ref="#fk__p_51963">Rabensteiner</rs>, heißen die Bälle<lb/>
+nichts mehr«. »Ich hab’ die Quadrille nur gern zum Sitzen«. »Ohne<lb/>
+links tanzen zu können, darf man heute auf gar keinen Ball gehen«.<lb/>
+(Mädchen:) »Eingeführt werde ich eigentlich erst nächstes Jahr«. (Alter Herr:)<lb/>
+»Ja, wie wir beim <rs type="inst"><rs type="pers" ana="n2_2802" ref="#fk__p_58976">Sperl</rs></rs> getanzt haben, das war was, aber die heutigen<lb/>
+jungen Leut!«. »Das Schlafen hab’ ich mir schon abgewöhnt; alles Gewohnheit<lb/>
+«. (Auf dem Heimweg:) »Ich schau’ nur noch ins <rs type="inst">Europ’</rs>«.<lb/>
+(Dialog:) »‚Was sagen Sie, wie dieses Café geht? Tag und Nacht voll.‘<lb/>
+‚Eine Goldgrube‘«. »Wenn Du eine Zigarette im Mantel hast, kannst<lb/>
+Du mir eine geben«. (Auf eine Aufforderung, zu »<rs type="inst">Maxim</rs>« mitzukommen:)<lb/>
+»Ich bin zu jeder Schandtat bereit«.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_51963">
+               <persName>Rabensteiner, Eduard</persName>
+               <birth>
+                  <date>1839-7-24</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1905-4-23</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Tanzlehrer</occupation>
+               <note type="comment">Ill. Wr. Extrablatt 2.3.05: Ed. Rabensteiner als Jubilar (66 Jahre alt)!!</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/22976</idno></person>
+            <person xml:id="fk__p_60354">
+               <persName>Nebenmensch</persName>
+               <note type="comment"/>
+            </person>
+            <person xml:id="fk__p_58976">
+               <persName>Sperl (Vergnügungsetablissement)</persName>
+               <note type="comment">"Zum Sperl", 2., Kleine Sperlgasse 2c, ab 29.9.1807 bis zur Schließung 1873</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

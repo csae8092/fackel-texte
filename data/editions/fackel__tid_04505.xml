@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_04505.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04504.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04506.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Sprüche von Ibsen und Lichtenberg), in: Fackel Heft 09, Nr. 230, 1907, S. 33-34</title>
+            <title type="iso-date">1907-07-15</title>
+            <title type="id">tid_04505</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">09</title><title type="heft">230</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-09-230_n0033.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/230,033</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Sprüche von Ibsen und Lichtenberg)</head>
+            <p ana="pr50107">
+<space/>Das Christentum demoralisiert und hemmt auf verschiedene<lb/>
+Weise Männer und Frauen. <rs type="pers" ana="n_39924" ref="#fk__p_45852"><AUCTOR><seg type="spc">Ibsen</seg></AUCTOR></rs>.<lb/>
+</p>
+            <p ana="pr50110">
+<space/>Ein Mädchen, das sich ihrem Freund nach Leib und Seele<lb/>
+entdeckt, entdeckt die Heimlichkeiten des ganzen weiblichen Geschlechts<lb/>
+; ein jedes Mädchen ist die Verwalterin der weiblichen<lb/>
+Mysterien. Es gibt Stellen, wo Bauernmädchen aussehen wie die<lb/>
+Königinnen, das gilt von Leib und Seele.<lb/>
+</p>
+            <p ana="pr50111">
+<rs type="pers" ana="n_39925" ref="#fk__p_44128"><AUCTOR><seg type="spc">Lichtenberg</seg></AUCTOR></rs>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_44128">
+               <persName>Lichtenberg, Georg Christoph</persName>
+               <birth>
+                  <date>1742-7-1</date>
+                  <place>Oberramstadt bei Darmstadt</place>
+               </birth>
+               <death>
+                  <date>1799-2-24</date>
+                  <place>Göttingen</place>
+               </death>
+               <occupation>Physiker</occupation>
+               <occupation>Philosoph</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12064</idno></person>
+            <person xml:id="fk__p_45852">
+               <persName>Ibsen, Henrik</persName>
+               <birth>
+                  <date>1828-3-20</date>
+                  <place>Skien</place>
+               </birth>
+               <death>
+                  <date>1906-5-23</date>
+                  <place>Christiania</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment"/>
+               <note type="comment">Ögg ordnet 368/49 Baumeister Solneß Strindberg zu</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11798</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07826.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07825.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07827.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Münchner Fasching, in: Fackel Heft 19, Nr. 457, 1234, S. 26-27</title>
+            <title type="iso-date">1234-01-01</title>
+            <title type="id">tid_07826</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">19</title><title type="heft">457</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-19-457_n0026.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/457,026</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Münchner Fasching</head>
+            <p ana="pr104780">
+<space/>In der führenden Zeitung der <seg type="insult">Stadt</seg>, in der auffallend gekleidete<lb/>
+ Frauen verhaftet werden, aber <seg type="insult">der Herr <rs type="pers" ana="n_67123" ref="#fk__p_45448">Hans Müller</rs> in<lb/>
+Uniform</seg> geweilt hat, in den <seg ana="Münchner Neuesten Nachrichten"/> —<lb/>
+und zwar nicht in der Faschingsbeilage, die infolge kriegerischer<lb/>
+Umstände abgesagt ist, sondern im <rs type="paperRef" ana="werk_41389">Blatt</rs> selbst — mitten auf<lb/>
+der ersten Seite war zu lesen:<lb/>
+</p>
+            <p ana="pr104783">
+<space/><seg type="sidehead"><rs type="pers" ana="n_67124" key="#fk__p_57245"><AUCTOR notation="abbr"><abbr>—b—</abbr></AUCTOR></rs> Wien, <date>5. April</date>. (<abbr>Eig.</abbr> Drahtbericht.)</seg> Der Verteidiger des<lb/>
+<rs type="pers" ana="n_67125" ref="#fk__p_47110"><abbr>Dr.</abbr> Kranz</rs> hat im <rs type="inst">landesgerichtlichen Depositenamt</rs> die vom <rs type="inst">Gerichtshof<lb/>
+</rs> verlangte Sicherstellung im Betrag von 1 Million Kronen in<lb/>
+Kriegsanleihe hinterlegt.<lb/>
+</p>
+            <p ana="pr104784">
+<B>Unsere Riesengeschütze haben die feindlichen Festungen bezwungen;<lb/>
+Unsere Riesenanleihen müssen den Feind zum Frieden zwingen.</B><lb/>
+</p>
+            <p ana="pr104786">
+<space/><seg type="insult">Die Sicherstellung des <rs type="pers" ana="n_67126" ref="#fk__p_47110"><abbr>Dr.</abbr> Kranz</rs></seg> ist ein Teil von der<lb/>
+Sicherstellung des Friedens, dem wir mit der Verurteilung <seg type="insult">des<lb/>
+<rs type="pers" ana="n_67127" ref="#fk__p_47110"><abbr>Dr.</abbr> Kranz</rs></seg> erheblich nähergerückt sind. Welch ein Beispiel für<lb/>
+<seg type="insult">alle deutschen Männer</seg>, die noch nicht verurteilt sind und dennoch<lb/>
+auf viel weniger freiem Fuß als <seg type="insult">der <rs type="pers" ana="n_67128" ref="#fk__p_47110"><abbr>Dr.</abbr> Kranz</rs></seg>!<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_47110">
+               <persName>Kranz, Josef</persName>
+               <birth>
+                  <date>1862-10-7</date>
+                  <place>Auschwitz</place>
+               </birth>
+               <death>
+                  <date>1934-9-14</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Rechtsanwalt</occupation>
+               <occupation>Industrieller</occupation>
+               <occupation>Bankier</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/3551</idno></person>
+            <person xml:id="fk__p_45448">
+               <persName>Müller, Hans</persName>
+               <birth>
+                  <date>1882-10-25</date>
+                  <place>Brünn</place>
+               </birth>
+               <death>
+                  <date>1950-3-8</date>
+                  <place>Einigen/Thunersee</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12327</idno></person>
+            </listPerson></back></text>
+</TEI>

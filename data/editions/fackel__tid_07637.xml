@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07637.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07636.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07638.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Weltalldarin, in: Fackel Heft 18, Nr. 445, 1234, S. 72-72</title>
+            <title type="iso-date">1234-01-01</title>
+            <title type="id">tid_07637</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">18</title><title type="heft">445</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-18-445_n0072.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/445,072</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Weltalldarin</head>
+            <p ana="pr102587">
+<space/><seg type="sidehead">(<rs type="inst"><rs type="pers" ana="n2_5846" ref="#fk__p_43714"><seg type="spc">Conrad </seg><abbr>v.</abbr> <seg type="spc">Hötzendorf-Kino</seg></rs></rs>,)</seg> 6. Bezirk, Linke Wienzeile<lb/>
+ <abbr>Nr.</abbr> 4 (zwischen <rs type="inst">Sezession</rs> und <rs type="inst">Theater an der Wien</rs>), hat das<lb/>
+Erstaufführungsrecht des Riesensensationsdramas »<rs type="title"><seg type="spc">Das jüngste<lb/>
+Gericht</seg></rs>« erworben. Dieser Fünfakter mit <rs type="pers" ana="n_66333" ref="#fk__p_50805">Olaf Föns</rs> in der Hauptrolle<lb/>
+zeigt im Rahmen einer <seg type="spc">packenden Handlung</seg> Wunder der Kinotechnik<lb/>
+. Die zweite Hauptnummer des Programms bildet das Sensationslustspiel<lb/>
+ »<rs type="title">Die Launen einer Modekönigin</rs>«, ein Film, der Gelegenheit<lb/>
+gibt, <seg type="spc">die bekannte Modekönigin</seg> <rs type="pers" ana="n_66334" key="#fk__p_39208">Betty Darmand</rs> im Film zu<lb/>
+bewundern.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_43714">
+               <persName>Conrad-Hötzendorf, Franz Graf </persName>
+               <birth>
+                  <date>1852-11-11</date>
+                  <place>Penzing bei Wien</place>
+               </birth>
+               <death>
+                  <date>1925-8-25</date>
+                  <place>Bad Mergentheim</place>
+               </death>
+               <occupation>Offizier</occupation>
+               <note type="comment">seit 1906 Chef des Generalstabs</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_14266</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11102</idno></person>
+            <person xml:id="fk__p_50805">
+               <persName>Fönss, Olaf</persName>
+               <birth>
+                  <date>1882-10-17</date>
+                  <place>Arhus</place>
+               </birth>
+               <death>
+                  <date>1949-11-4</date>
+                  <place>Kopenhagen</place>
+               </death>
+               <occupation>Filmschauspieler</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

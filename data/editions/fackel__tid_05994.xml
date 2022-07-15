@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_05994.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05993.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05995.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Am 17. November in Dzieditz (Bielitz), veranstaltet vom, in: Fackel Heft 14, Nr. 363, 1912, S. 29-29</title>
+            <title type="iso-date">1912-12-01</title>
+            <title type="id">tid_05994</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">14</title><title type="heft">363</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-14-363_n0029.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/363,029</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Am 17. November in Dzieditz (Bielitz), veranstaltet vom</head>
+            <p ana="pr81078">
+<space/>Am <date>17. November</date> in Dzieditz (Bielitz), veranstaltet vom<lb/>
+<rs type="inst">Verein »Deutsche Volksschule«</rs>:<lb/>
+</p>
+            <p ana="pr81080">
+<space/>I. <rs type="title">Monologe und Sätze aus <rs type="pers" ana="n2_4980" ref="#fk__p_46919"><seg type="spc">Nestroy</seg></rs></rs> / <rs type="title">Der Biberpelz</rs> II. <rs type="title">Das<lb/>
+Erdbeben</rs> / <rs type="title">Man muß die Leute ausreden lassen</rs>; <rs type="title"><seg type="insult">Stadtverordnete<lb/>
+besuchen Gemeinderäte</seg></rs>; <rs type="title">Ich pfeife auf den Text</rs>; <rs type="title">Als ich wiederkam</rs>;<lb/>
+<rs type="title"><seg type="insult"><foreign xml:lang="fr">Petite chronique scandaleuse</foreign></seg></rs> III. <rs type="title">Angesichts</rs>; <rs type="title"><seg type="insult">Auf der Suche nach<lb/>
+Fremden</seg></rs>; <rs type="title">Ostende, erster Morgen</rs>. Zugaben: <rs type="title"><seg type="insult">Interview mit einem sterbenden<lb/>
+Kind</seg></rs>; <rs type="title">Das ist der Krieg</rs>: Einleitung und Schluß. (Im Programm in<lb/>
+<rs type="selfRef" ana="werk_19088"><abbr>Nr.</abbr> 351/52/53</rs>, <abbr>S.</abbr> 49 nachzutragen: <rs type="title"><seg type="insult">Schlichte Worte</seg></rs>.)<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46919">
+               <persName>Nestroy, Johann Nepomuk</persName>
+               <birth>
+                  <date>1801-12-7</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1862-5-25</date>
+                  <place>Graz</place>
+               </death>
+               <occupation>Sänger</occupation>
+               <occupation>Schauspieler</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12338</idno></person>
+            </listPerson></back></text>
+</TEI>

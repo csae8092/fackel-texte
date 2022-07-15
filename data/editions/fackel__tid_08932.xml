@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_08932.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08931.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08933.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Sprachliche Edelzucht), in: Fackel Heft 22, Nr. 561, 1921, S. 86-86</title>
+            <title type="iso-date">1921-03-01</title>
+            <title type="id">tid_08932</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">22</title><title type="heft">561</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-22-561_n0086.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/561,086</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Sprachliche Edelzucht)</head>
+            <p ana="pr118829">
+<space/>Was ein Blick in die <seg type="insult">Wiener Presse</seg> an <seg type="insult">sprachlicher<lb/>
+Edelzucht</seg> bemerkt, das ist gar nicht zu sagen:<lb/>
+</p>
+            <p ana="pr118831">
+<space/><seg type="spc">Darüber</seg> entstand ungeheure Erregung in den sozialdemokratischen<lb/>
+ Bänken. <seg type="insult">Einige der größten Schreier</seg> wollten auf den<lb/>
+Minister losgehen, wurden <seg type="spc">dabei</seg> von den Christlichsozialen <seg type="spc">daran</seg><lb/>
+gehindert. <seg type="spc">Dadurch</seg> entstand das übliche Gedränge vor der<lb/>
+Ministerbank <seg type="symbol" subtype="4dots"/><lb/>
+</p>
+            <p ana="pr118832">
+<space/><seg type="symbol" subtype="3dots"/> daß der Privatankläger auf hypnotischem Wege versuchte<lb/>
+, eine Dame <seg type="spc">sich ihm</seg> gefügig zu machen <seg type="symbol" subtype="3dots"/> und zeichne hochachtungsvoll<lb/>
+ <rs type="pers" ana="n_73145" ref="#fk__p_41197"><abbr>Dr.</abbr> Herzberg-Fränkel</rs>.<lb/>
+</p>
+            <p ana="pr118834">
+<space/>Und natürlich ist die Untersuchung wegen eines Eisenbahnunglücks<lb/>
+ im Zuge, was gleichzeitig von einer Zollrevision gewünscht<lb/>
+ wird.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_41197">
+               <persName>Herzberg-Fränkel, Ludwig</persName>
+               <birth>
+                  <date>1862-10-5</date>
+                  <place>Brody</place>
+               </birth>
+               <death>
+                  <date>1927-1-15</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Rechtsanwalt</occupation>
+               <note type="comment">Daten durch IKG Wien bestätigt</note>
+               <note type="comment">Verteidiger von Henry und Delvard contra KK</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

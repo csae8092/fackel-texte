@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_12081.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_12080.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_12082.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Die Schreiber, in: Fackel Heft 34, Nr. 876, 1932, S. 52-52</title>
+            <title type="iso-date">1932-10-01</title>
+            <title type="id">tid_12081</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">34</title><title type="heft">876</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-34-876_n0052.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/876,052</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Die Schreiber</head>
+            <p ana="pr176231">
+<space/>Fast alle Erörterungen über das Recht von Umwelt und Nachwelt<lb/>
+<seg type="spc">an einen</seg> großen Mann gehen heute von dem Fall <rs type="pers" ana="n_105073" ref="#fk__p_43855">Nietzsche</rs> aus.<lb/>
+</p>
+            <p ana="pr176233">
+Also sprach <rs type="pers" ana="n_105074" ref="#fk__p_51252">Paul Stefan</rs>. Das mag daher kommen, daß<lb/>
+</p>
+            <p ana="pr176235">
+seit <rs type="pers" ana="n_105075" ref="#fk__p_46960">Goethe</rs> niemand außer <rs type="pers" ana="n_105076" ref="#fk__p_43855">Nietzsche</rs> ein vollendetes Deutsch geschrieben<lb/>
+ hat.<lb/>
+</p>
+            <p ana="pr176237">
+Meint bescheidener Weise <rs type="pers" ana="n_105077" ref="#fk__p_42631">Emil Ludwig</rs>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_43855">
+               <persName>Nietzsche, Friedrich</persName>
+               <birth>
+                  <date>1844-10-15</date>
+                  <place>Röcken/Lützen, Sachsen</place>
+               </birth>
+               <death>
+                  <date>1900-8-25</date>
+                  <place>Weimar</place>
+               </death>
+               <occupation>Philosoph</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12358</idno></person>
+            <person xml:id="fk__p_46960">
+               <persName>Goethe, Johann Wolfgang von</persName>
+               <birth>
+                  <date>1749-8-28</date>
+                  <place>Frankfurt am Main</place>
+               </birth>
+               <death>
+                  <date>1832-3-22</date>
+                  <place>Weimar</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">890/142f.</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11461</idno></person>
+            <person xml:id="fk__p_42631">
+               <persName>Ludwig, Emil</persName>
+               <birth>
+                  <date>1881-1-25</date>
+                  <place>Breslau</place>
+               </birth>
+               <death>
+                  <date>1948-9-17/18</date>
+                  <place>Moscio, Schweiz</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Journalist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12126</idno></person>
+            <person xml:id="fk__p_51252">
+               <persName>Stefan, Paul</persName>
+               <birth>
+                  <date>1879-11-25</date>
+                  <place>Brünn</place>
+               </birth>
+               <death>
+                  <date>1943-11-12</date>
+                  <place>New York</place>
+               </death>
+               <occupation>Musikkritiker</occupation>
+               <occupation>Musikschriftsteller</occupation>
+               <note type="comment">F 13/31 und 14/24 (in Brünn) P. St. Gr. vermutlich Paul Stefan Grünfeld</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12826</idno></person>
+            </listPerson></back></text>
+</TEI>

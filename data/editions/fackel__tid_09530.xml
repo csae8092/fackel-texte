@@ -1,0 +1,42 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_09530.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09529.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09531.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ein Verehrer, in: Fackel Heft 25, Nr. 622, 1923, S. 196-196</title>
+            <title type="iso-date">1923-06-01</title>
+            <title type="id">tid_09530</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">25</title><title type="heft">622</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-25-622_n0196.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/622,196</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ein Verehrer</head>
+            <lg>
+<l>Wie? <rs type="pers" ana="n_78541" ref="#fk__p_52570">Bartsch</rs> ist für mich? <seg type="insult">Ein lustiges <foreign xml:lang="de-loc">Stückel</foreign></seg>,</l>
+<l>möchte ich meinen.</l>
+<l>Er unterschreibt alle meine Artikel?</l>
+<l>Bis auf einen!</l>
+</lg>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_52570">
+               <persName>Bartsch, Rudolf Hans</persName>
+               <birth>
+                  <date>1873-2-11</date>
+                  <place>Graz</place>
+               </birth>
+               <death>
+                  <date>1952-2-7</date>
+                  <place>St. Peter bei Graz</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10836</idno></person>
+            </listPerson></back></text>
+</TEI>

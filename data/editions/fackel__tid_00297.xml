@@ -1,0 +1,48 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00297.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00296.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00298.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">M. H., in: Fackel Heft 01, Nr. 012, 1899, S. 27-28</title>
+            <title type="iso-date">1899-07-01</title>
+            <title type="id">tid_00297</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">012</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-012_n0027.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/012,027</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>M. H.</head>
+            <p ana="pr2746">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_1979" ref="#fk__p_49448"><abbr>M. H.</abbr></rs></seg></seg> Die Lemberger Meldung von dem Kindesmord, die<lb/>
+neulich durch die Blätter gieng, hat in der That eine auffallende<lb/>
+Aehnlichkeit mit dem Stofflichen in <rs type="pers" ana="n_1980" ref="#fk__p_43835">Hebbels</rs> Skizze »<rs type="title">Die Kuh</rs>«, und<lb/>
+<seg type="insult">die sommerlich verschlafenen Reporter</seg> sind möglicherweise <seg type="insult">einem<lb/>
+<rs type="pers" ana="n_1981" ref="#fk__p_43835">hebbelverehrenden Collegen</rs></seg> in die Falle gegangen. Nur fehlt das<lb/>
+Feuer, das in der Skizze mit seinem suggestiven Einfluss doch ein<lb/>
+wichtiges Moment bildet.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_43835">
+               <persName>Hebbel, Friedrich</persName>
+               <birth>
+                  <date>1813-3-18</date>
+                  <place>Wesselburen</place>
+               </birth>
+               <death>
+                  <date>1863-12-13</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2404</idno></person>
+            <person xml:id="fk__p_49448">
+               <persName>H., M.</persName>
+            </person>
+            </listPerson></back></text>
+</TEI>

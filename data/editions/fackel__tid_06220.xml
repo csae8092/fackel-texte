@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06220.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06219.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06221.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Soldaten und Diplomaten, in: Fackel Heft 15, Nr. 374, 1913, S. 3-3</title>
+            <title type="iso-date">1913-05-01</title>
+            <title type="id">tid_06220</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">15</title><title type="heft">374</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-15-374_n0003.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/374,003</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Soldaten und Diplomaten</head>
+            <p ana="pr83879">
+<space/><date>7. April</date>:<lb/>
+</p>
+            <p ana="pr83881">
+<space/><seg type="symbol" subtype="4dots"/> Soldaten haben nicht die Spitzfindigkeit von Diplomaten,<lb/>
+begnügen sich nicht mit Förmlichkeiten, denken einen Gedanken vollständig<lb/>
+ durch und gehen ohne viel Umschweife gerade auf das Ziel<lb/>
+los<seg type="symbol" subtype="4dots"/> Diplomaten mögen es sich gefallen lassen, wenn sie gehänselt<lb/>
+und verspottet werden. Der englische Vizeadmiral <rs type="pers" ana="n_58414" ref="#fk__p_39633">Burney</rs> und die<lb/>
+Offiziere der anderen Großmächte werden sich auf solche Spässe nicht<lb/>
+einlassen.<lb/>
+</p>
+            <p ana="pr83883">
+<space/><date>8. April</date>:<lb/>
+</p>
+            <p ana="pr83885">
+<space/><seg type="symbol" subtype="4dots"/> Vizeadmiral <rs type="pers" ana="n_58415" ref="#fk__p_39633">Burney</rs> muß bei seinen Entschließungen als<lb/>
+Diplomat handeln, und die Maßregeln, welche er zu ergreifen gesonnen<lb/>
+ist, auf Grund diplomatischer Erwägungen treffen.<lb/>
+</p>
+            <p ana="pr83887">
+<space/>Er hat als <seg type="insult">Diplomat</seg> gehandelt.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_39633">
+               <persName>Burney, Sir Cecil</persName>
+               <birth>
+                  <date>1858-5-15</date>
+                  <place>Jersey</place>
+               </birth>
+               <death>
+                  <date>1929-6-5</date>
+                  <place>London</place>
+               </death>
+               <occupation>Marineoffizier</occupation>
+               <note type="comment">Vizeadmiral</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03898.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03897.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03899.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Politiker. (Alldeutsches), in: Fackel Heft 07, Nr. 180, 1905, S. 51-51</title>
+            <title type="iso-date">1905-05-6</title>
+            <title type="id">tid_03898</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">07</title><title type="heft">180</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-07-180_n0051.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/180,051</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Politiker. (Alldeutsches)</head>
+            <p ana="pr39422">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="name_203544" ref="#fk__p_51590">Politiker</rs>.</seg></seg></seg> Manchmal ist’s mir wieder, als ob <seg type="insult">die alldeutsche<lb/>
+Publizistik</seg> die dümmste wäre. In Cilli schrieb neulich einer, <rs type="pers" ana="n_33506" ref="#fk__p_39266">Bismarck</rs><lb/>
+sei »im Guten wie im <seg type="spc">Bösen</seg> groß, treu und <seg type="spc">sittlich hochstehend</seg>«<lb/>
+gewesen. Im Guten wie im Bösen groß — da glaubt man schon, <seg type="insult">ein<lb/>
+teutscher Mann</seg> habe sich einmal zu einem vernünftigen Standpunkt,<lb/>
+dem ästhetischen, aufgerafft. Im Nu muß er uns versichern, daß der<lb/>
+Mann, der auch im Bösen groß sein konnte, »sittlich hochstehend«<lb/>
+war<seg type="symbol" subtype="4dots"/> Wie ich mir <seg type="insult">die bekannte »Lage der Deutschen in Österreich«</seg><lb/>
+vorstelle? Auf den Kopf gefallen.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_39266">
+               <persName>Bismarck, Otto Eduard Leopold Fürst</persName>
+               <birth>
+                  <date>1815-04-01</date>
+                  <place>Schönhausen</place>
+               </birth>
+               <death>
+                  <date>1898-07-30</date>
+                  <place>Friedrichsruh</place>
+               </death>
+               <occupation>Politiker</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13749</idno></person>
+            <person xml:id="fk__p_51590">
+               <persName>Politiker</persName>
+            </person>
+            </listPerson></back></text>
+</TEI>

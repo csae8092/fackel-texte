@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_04163.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04162.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04164.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Onkel Salomon. (Von Heine), in: Fackel Heft 08, Nr. 201, 1906, S. 25-25</title>
+            <title type="iso-date">1906-04-19</title>
+            <title type="id">tid_04163</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">08</title><title type="heft">201</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-08-201_n0025.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/201,025</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Onkel Salomon. (Von Heine)</head>
+            <p ana="pr43854">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="n_35921" ref="#fk__p_52716">Onkel Salomon</rs>.</seg></seg></seg> Die ‚<rs type="paper" ana="werk_14564">Neue Freie Presse</rs>‘ geht in ihrer antisemitischen<lb/>
+ Gleichgültigkeit <rs type="pers" ana="n_35922" ref="#fk__p_45715">Heinrich Heine</rs> gegenüber — sie brachte<lb/>
+bekanntlich eine dreißigzeilige <rs type="pers" ana="n_35923" ref="#fk__p_45715">Heine-Biographie</rs> — entschieden zu weit.<lb/>
+Neulich erzählte sie, in Deutschland werde für ein Denkmal <seg type="insult">»in <seg type="spc">Hamburg</seg>,<lb/>
+<seg type="spc"><rs type="pers" ana="n_35924" ref="#fk__p_45715">Heines</rs> Geburtsstadt</seg>«</seg>, gesammelt. <seg type="insult">Heiliger <rs type="pers" ana="n_35925" ref="#fk__p_47693">Karpeles</rs>!</seg><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_45715">
+               <persName>Heine, Heinrich</persName>
+               <birth>
+                  <date>1797-12-13</date>
+                  <place>Düsseldorf</place>
+               </birth>
+               <death>
+                  <date>1856-2-17</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Journalist</occupation>
+               <note type="comment">Ögg separiert F 24/25 </note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11640</idno></person>
+            <person xml:id="fk__p_47693">
+               <persName>Karpeles, Gustav</persName>
+               <birth>
+                  <date>1848-11-11</date>
+                  <place>Loschitz, Mähren</place>
+               </birth>
+               <death>
+                  <date>1909-7-21</date>
+                  <place>Bad Nauheim</place>
+               </death>
+               <occupation>Literarhistoriker</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/8115</idno></person>
+            <person xml:id="fk__p_52716">
+               <persName>Heine, Salomon</persName>
+               <birth>
+                  <date>1767-10-19</date>
+                  <place>Hannover</place>
+               </birth>
+               <death>
+                  <date>1844-12-23</date>
+                  <place>Hamburg</place>
+               </death>
+               <occupation>Bankier</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

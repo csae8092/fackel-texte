@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_09381.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09380.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09382.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ebenda, 30. Januar, 7 Uhr:, in: Fackel Heft 25, Nr. 613, 1923, S. 57-57</title>
+            <title type="iso-date">1923-04-01</title>
+            <title type="id">tid_09381</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">25</title><title type="heft">613</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-25-613_n0057.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/613,057</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ebenda, 30. Januar, 7 Uhr:</head>
+            <p ana="pr124905">
+<space/>Ebenda, <date>30. Januar</date>, 7 Uhr:<lb/>
+</p>
+            <p ana="pr124906">
+<space/><rs type="title"><seg type="spc">Der böse Geist <rs type="pers">Lumpazivagabundus</rs> oder Das<lb/>
+liederliche Kleeblatt</seg></rs>, Zauberposse mit Gesang in drei Akten.<lb/>
+Musik von <rs type="pers" ana="n_76853" ref="#fk__p_37834">Adolph Müller <abbr>sen.</abbr></rs> [Mit bekannten und neuen Zusatzstrophen.]<lb/>
+</p>
+            <p ana="pr124907">
+<space/>Programm-Notiz wie zum <date>5. November 1922</date> (mit Fußnote<lb/>
+aus <rs type="selfRef" ana="werk_24748"><abbr>Nr.</abbr> 608—612</rs>).<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_37834">
+               <persName>Müller, Adolf sen.</persName>
+               <birth>
+                  <date>1807-10-7</date>
+                  <place>Tolna/Ungarn</place>
+               </birth>
+               <death>
+                  <date>1886-7-29</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <occupation>Kapellmeister</occupation>
+               <occupation>Komponist</occupation>
+               <note type="comment">Ögg erteilt ihm die Lebensdaten von Adolph Müller jun.</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

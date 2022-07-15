@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_04930.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04929.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04931.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Zu der Skizze „Nachts“ von Anton Tschechow in Nr. 279/80), in: Fackel Heft 11, Nr. 285, 1909, S. 50-51</title>
+            <title type="iso-date">1909-07-27</title>
+            <title type="id">tid_04930</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">11</title><title type="heft">285</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-11-285_n0050.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/285,050</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Zu der Skizze „Nachts“ von Anton Tschechow in Nr. 279/80)</head>
+            <p ana="pr61321">
+<space/>Die in <rs type="selfRef" ana="werk_16924"><abbr>Nr.</abbr> 279/80</rs> enthaltene Skizze »<rs type="title">Nachts</rs>« von <rs type="pers" ana="n_45400" ref="#fk__p_38372">Tschechow</rs><lb/>
+war der ‚<rs type="self" ana="werk_16925">Fackel</rs>‘ von dem Übersetzer, einem gewissen <rs type="pers" ana="n_45401" ref="#fk__p_51176">Paul Barchan</rs><lb/>
+in Berlin, mit dem Vermerk »Nachdruck verboten« und mit der<lb/>
+Versicherung übergeben worden, daß sie »in Deutschland wohl<lb/>
+kaum anderswo zum Abdruck gelangen könnte«. Die ‚<rs type="self" ana="werk_16926">Fackel</rs>‘<lb/>
+mußte also an eine erste Übersetzung glauben; eine zweite hätte<lb/>
+sie nicht veröffentlicht. Nachträglich wurde ihr bekannt, daß die<lb/>
+Skizze bereits in der Zeitschrift ‚<rs type="" ana="werk_16927">Das neue Magazin</rs>‘ — im Jahre <date>1904</date> —<lb/>
+erschienen war und daß <seg type="insult">jener Herr</seg>, der vor Nachdruck warnte,<lb/>
+zunächst darum gewußt hat. Denn von eben jener <rs type="perRef" ana="werk_16928">Zeitschrift</rs><lb/>
+wurde ihm seine Übersetzung mit dem Hinweis auf den Vordruck<lb/>
+abgelehnt. Die Veröffentlichung einer Skizze von <rs type="pers" ana="n_45402" ref="#fk__p_38372">Tschechow</rs> muß<lb/>
+die ‚<rs type="self" ana="werk_16929">Fackel</rs>‘ nicht bereuen; aber sie hätte sie nicht erstrebt, wenn<lb/>
+sie über das Vorleben der Übersetzung nur halb so gut informiert<lb/>
+gewesen wäre wie der Übersetzer. Der Verlag der ‚<rs type="self" ana="werk_16930">Fackel</rs>‘ hat ihm<lb/>
+deshalb geraten, sein Honorar den wohltätigen Zwecken des <rs type="inst">Allgemeinen<lb/>
+ Schriftstellervereines</rs> zuzuwenden. Nicht ohne daß ich<lb/>
+</p>
+            <p ana="pr61321">
+ihm zugleich mein Bedauern aussprechen ließ, daß mit der Erschließung<lb/>
+ der russischen Literatur für ein deutsches Publikum<lb/>
+auch der Zuwachs eines <seg type="insult">russisch-deutschen Literatentums</seg> verbunden<lb/>
+ zu sein scheine, dessen ethische Eigenart als ein unübersetzbarer<lb/>
+ Rest sich unserem Verständnis entzieht. Die öffentliche<lb/>
+Feststellung erfolgt nun nicht, um die <seg type="insult">Praktiken des journalistischen<lb/>
+ Handels</seg> an einem Schulbeispiel nachzuweisen, sondern um<lb/>
+dem Vorwurf zu begegnen, daß die ‚<rs type="self" ana="werk_16931">Fackel</rs>‘ in besonderem Fall<lb/>
+mit einem <seg type="insult">erborgten literarischen Wert</seg> geprunkt habe.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_38372">
+               <persName>Tschechow, Anton Pawlowitsch</persName>
+               <birth>
+                  <date>1860-1-29</date>
+                  <place>Taganrog</place>
+               </birth>
+               <death>
+                  <date>1904-7-15</date>
+                  <place>Badenweiler</place>
+               </death>
+               <occupation>Arzt</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_20823</idno></person>
+            <person xml:id="fk__p_51176">
+               <persName>Barchan, Paul</persName>
+               <birth>
+                  <date>1876-03-16</date>
+                  <place>Lunna/Gouv. Grodno</place>
+               </birth>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Übersetzer</occupation>
+               <note type="comment">Erotische Krisen, 1909</note>
+               <note type="comment">lebte in Grodno und St. Petersburg, bevor er 1908 nach Berlin zog</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07884.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07883.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07885.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Eine Mahnung, in: Fackel Heft 19, Nr. 457, 1234, S. 92-92</title>
+            <title type="iso-date">1234-01-01</title>
+            <title type="id">tid_07884</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">19</title><title type="heft">457</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-19-457_n0092.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/457,092</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Eine Mahnung</head>
+            <p ana="pr105445">
+<space/>Als erster Redner sprach Herr <rs type="pers" ana="n_67438" ref="#fk__p_43846">Friedrich Kornblüh</rs> zum Thema<lb/>
+des <seg type="spc">Fremdenverkehrs</seg>. Seine Ausführungen <seg type="spc">gipfelten</seg> in<lb/>
+der <seg type="spc">Mahnung</seg>, daß Wien, <seg type="spc">wenn auch</seg> jetzt Sparsamkeit in der<lb/>
+<seg type="spc">Beleuchtung am Platze</seg> sei, sich doch nach dem Kriege in eine<lb/>
+moderne Stadt mit <seg type="spc">regem Nachtleben</seg> verwandeln müßte, <seg type="spc">soll<lb/>
+sie</seg> ein <seg type="spc">verlockendes Ziel für die Fremden</seg> bilden.<lb/>
+</p>
+            <p ana="pr105447">
+<space/>Also wo <rs type="pers" ana="n_67439" ref="#fk__p_43846">Kornblüh</rs> recht hat, hat er recht. Er mahnt zu einem<lb/>
+regen Nachtleben, wiewohl er <choice><sic>mant</sic><corr>mahnt</corr></choice>, daß jetzt Sparsamkeit in<lb/>
+der Beleuchtung am Platze, vor allem am Stephansplatze sei,<lb/>
+wo doch <seg type="insult">das bekannte Wahrzeichen, der <rs type="pers" ana="n_67440" ref="#fk__p_49323">Riedl</rs></seg>, immer ein verlockendes<lb/>
+ Ziel für die Fremden gebildet hat, die nur momentan<lb/>
+durch den Weltuntergang verhindert sind zu verkehren. <seg type="insult">Der<lb/>
+<rs type="pers" ana="n_67441" ref="#fk__p_43846">Kornblüh</rs></seg>, der dadurch, daß er nicht untergegangen ist, seine<lb/>
+<seg type="insult">Zuständigkeit nach Wien</seg> erhärten konnte, hat eine Menschheit,<lb/>
+die im Verscheiden war, anno <date>1917</date> gemahnt. Wenn wir uns<lb/>
+<seg type="insult">das rege Nachtleben</seg>, das auf den Leichenfeldern herrscht, nicht<lb/>
+nach dem Krieg zum Muster nehmen, haben wir’s uns selbst<lb/>
+zuzuschreiben. <foreign xml:lang="la">Discite moniti!</foreign><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_49323">
+               <persName>Riedl, Ludwig</persName>
+               <birth>
+                  <date>1858-12-7</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1919-8-6</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Kaffeehausbesitzer </occupation>
+               <note type="comment">Inh. Café Europe; 1., Stephansplatz 8a (gegenüber dem Riesentor)</note>
+               <note type="comment">Whg.: 18., Ferrogasse 6</note>
+            </person>
+            <person xml:id="fk__p_43846">
+               <persName>Kornblüh, Friedrich</persName>
+               <birth>
+                  <date>1845-5-25</date>
+                  <place>Prag</place>
+               </birth>
+               <note type="comment">1., Dr. Karl Lueger-Platz 9; 1., Lichtenfelsgasse 1</note>
+               <note type="comment">keine Meldung ermittelt</note>
+               <note type="comment">beeid, Schätzmeister und Sachverst., Gesch.f. der Österr. Metallurgique Auto-Ges.</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

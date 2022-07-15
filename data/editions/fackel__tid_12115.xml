@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_12115.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_12114.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_12116.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Eine Alarmnachricht, in: Fackel Heft 34, Nr. 876, 1932, S. 76-77</title>
+            <title type="iso-date">1932-10-01</title>
+            <title type="id">tid_12115</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">34</title><title type="heft">876</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-34-876_n0076.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/876,076</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Eine Alarmnachricht</head>
+            <p ana="pr176648">
+die sich leider bewahrheitet:<lb/>
+</p>
+            <p ana="pr176650">
+<seg type="spc">Das</seg> »<rs type="paper" ana="werk_33239"><seg type="spc">Neue Wiener Journal</seg></rs>« <seg type="spc">ist das Weltblatt Österreichs</seg>!<lb/>
+In allen Erdteilen <seg type="spc">enorm</seg> gelesen.<lb/>
+</p>
+            <p ana="pr176652">
+Darin erinnert es an die <RS pers="Jacques Offenbach"><rs type="title" ana="name_202436" ref="#fk__p_46664"><rs type="pers">Großherzogin von Gerolstein</rs></rs></RS> des<lb/>
+<rs type="pers" ana="n_105242" ref="#fk__p_55227">Walter Mehring</rs>, welche »enorm liebt«. Die Ähnlichkeit ist umso<lb/>
+größer, als diese Formulierung eine der wenigen originalen<lb/>
+Stellen sowohl <seg type="insult">der Liebenden <rs type="pers" ana="n_105243" ref="#fk__p_55227">Mehrings</rs></seg> wie <seg type="insult">der Gelesenen<lb/>
+<rs type="pers" ana="n_105244" ref="#fk__p_46698">Lippowitzens</rs></seg> bildet.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46664">
+               <persName>Offenbach, Jacques</persName>
+               <birth>
+                  <date>1819-06-21</date>
+                  <place>Köln</place>
+               </birth>
+               <death>
+                  <date>1880-10-05</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Komponist</occupation>
+               <note type="comment">Ögg teilt Fortunato F 876/34 Shakespeare zu</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/9131</idno></person>
+            <person xml:id="fk__p_55227">
+               <persName>Mehring, Walter</persName>
+               <birth>
+                  <date>1896-4-29</date>
+                  <place>Berlin</place>
+               </birth>
+               <death>
+                  <date>1981-10-3</date>
+                  <place>Zürich</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Journalist</occupation>
+            </person>
+            <person xml:id="fk__p_46698">
+               <persName>Lippowitz, Jakob (Siegmund)</persName>
+               <birth>
+                  <date>1865-10-9</date>
+                  <place>Leipzig</place>
+               </birth>
+               <death>
+                  <date>1934-7-4</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17583</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/4054</idno></person>
+            </listPerson></back></text>
+</TEI>

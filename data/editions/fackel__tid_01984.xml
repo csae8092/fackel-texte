@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01984.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01983.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01985.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Auscultant. (Ueber die Zurücksetzung jüdischer Auscultanten), in: Fackel Heft 03, Nr. 083, 1901, S. 28-28</title>
+            <title type="iso-date">1901-10-01</title>
+            <title type="id">tid_01984</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">03</title><title type="heft">083</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-03-083_n0028.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/083,028</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Auscultant. (Ueber die Zurücksetzung jüdischer Auscultanten)</head>
+            <p ana="pr19296">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_16410" key="#fk__p_38609">Auscultant</rs>.</seg></seg> Dass <seg type="insult">die officiöse ‚<rs type="paper" ana="werk_40156">Wiener Allgemeine Zeitung</rs>‘</seg> sich<lb/>
+<seg type="insult">ihrem wahrlich nicht <foreign xml:lang="la">nobile officium</foreign></seg> entzieht, wenn sie ein jüdisches<lb/>
+<choice><sic>lnteresse</sic><corr>Interesse</corr></choice> gefährdet glaubt, ist nichts Neues. Und überdies war der Angriff<lb/>
+ wegen der Abweisung jüdischer Auscultanten nicht gegen das <rs type="inst">Justizministerium<lb/>
+</rs>, sondern nur gegen Herrn <rs type="pers" ana="n_16411" ref="#fk__p_52289"><abbr>v.</abbr> Kallina</rs> gerichtet. <seg type="insult">Herr <rs type="pers" ana="n_16412" ref="#fk__p_53860">Szeps</rs></seg><lb/>
+möchte freilich die <seg type="insult">Affaire der »Zurücksetzung«</seg> so darstellen, als ob der<lb/>
+Präsident des <rs type="inst">Oberlandesgerichts</rs> von den richterlichen Aspiranten den<lb/>
+Nachweis arischer Abkunft gefordert hätte. Das müsste man ihm gewiss<lb/>
+verwehren. Dass aber gerade hier die Zugehörigkeit zu einer christlichen<lb/>
+ Confession verlangt wird, ist leicht erklärlich. Auf dem Land,<lb/>
+inmitten einer frommen katholischen Bevölkerung, können jüdische Richter<lb/>
+nicht judicieren. Ernennt man solche in grösserer Zahl, so muss man<lb/>
+sie bei den Gerichten der grossen Städte verwenden, und sie würden<lb/>
+diese bevorzugten Posten allmählich monopolisieren. Würden aber dadurch<lb/>
+ jüdische und christliche Gerichte gebildet werden, so ist ernstlich<lb/>
+zu fürchten, dass es um <seg type="insult">das »gleiche Recht für Alle«</seg> bald übel stünde.<lb/>
+Lieber das bischen Gleichberechtigung geopfert, um das es sich jetzt handelt!<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_53860">
+               <persName>Szeps, Julius</persName>
+               <birth>
+                  <date>1867</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1924-10-27</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/25793</idno></person>
+            <person xml:id="fk__p_52289">
+               <persName>Kallina-Urbanow, Alois Freiherr von</persName>
+               <birth>
+                  <date>1843-01-11</date>
+                  <place>Brünn</place>
+               </birth>
+               <death>
+                  <date>1920-01-02</date>
+                  <place>St. Gilgen</place>
+               </death>
+               <occupation>Richter</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

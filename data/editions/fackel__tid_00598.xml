@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00598.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00597.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00599.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Personalnachrichten.), in: Fackel Heft 01, Nr. 024, 1899, S. 29-29</title>
+            <title type="iso-date">1899-11-01</title>
+            <title type="id">tid_00598</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">024</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-024_n0029.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/024,029</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Personalnachrichten.)</head>
+            <p ana="pr5534">
+<space/><seg type="sidehead">[<seg type="insult"><seg type="spc">Personal-Nachrichten</seg></seg>.]</seg> <seg type="insult">Der Correspondent des ‚<rs type="paper" ana="werk_1426">Berliner<lb/>
+Börsencourier</rs>‘, Herr <rs type="pers" ana="n_4179" ref="#fk__p_53254">Siegfried <seg type="spc">Löwy</seg></rs></seg>, fühlt sich infolge <seg type="insult">seiner angestrengten<lb/>
+ Thätigkeit in den Vorzimmern der Banken und Theaterkanzleien<lb/>
+</seg> ermüdet und hat als <seg type="insult">Unterläufel</seg> für den Kunsttheil <seg type="insult">den<lb/>
+bekannten Externisten der ‚<rs type="" ana="werk_1427">Vorstadt-Zeitung</rs>‘, Herrn <rs type="pers" ana="n_4180" ref="#fk__p_45908">Hermann <seg type="spc">Bahr</seg></rs></seg>,<lb/>
+bestellt.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_45908">
+               <persName>Bahr, Hermann</persName>
+               <birth>
+                  <date>1863-7-19</date>
+                  <place>Linz</place>
+               </birth>
+               <death>
+                  <date>1934-1-15</date>
+                  <place>München</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Kritiker</occupation>
+               <note type="comment">Ögg teilt auch 307/52, 445/49, 800/67 (Rotte Korah) Bahr zu</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10815</idno></person>
+            <person xml:id="fk__p_53254">
+               <persName>Loewy, Siegfried</persName>
+               <birth>
+                  <date>1857-11-1</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1931-5-8</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Namenskorrektur!</note>
+               <note type="comment">ÖBL</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12101</idno></person>
+            </listPerson></back></text>
+</TEI>

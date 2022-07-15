@@ -1,0 +1,95 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06651.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06650.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06652.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(M. E. delle Grazie über die Gedichte Paul Wilhelms), in: Fackel Heft 15, Nr. 395, 1914, S. 27-28</title>
+            <title type="iso-date">1914-01-01</title>
+            <title type="id">tid_06651</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">15</title><title type="heft">395</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-15-395_n0027.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/395,027</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(M. E. delle Grazie über die Gedichte Paul Wilhelms)</head>
+            <p ana="pr89922">
+<space/><seg type="symbol" subtype="4dots"/> Ein Mensch, der Großes gewollt, setzt sich hier in<lb/>
+erschütternder Weise mit dem Leben auseinander <seg type="symbol" subtype="4dots"/> Ich habe wenig<lb/>
+im letzten Jahre gelesen, das mir die Seele so mächtig ergriffen hätte,<lb/>
+wie die Gedichte <rs type="pers" ana="n_61501" ref="#fk__p_51269"><seg type="spc">Paul Wilhelms</seg></rs> <seg type="symbol" subtype="4dots"/> ein volles, fast übervolles Herz<lb/>
+zittert in jedem Worte mit Adel der Farbe, Schmelz der Sprache und<lb/>
+</p>
+            <p ana="pr89922">
+eine Musik ist ihnen zu eigen, die förmlich nach der Vertonung ruft.<lb/>
+Als Beispiel nur eines:<lb/>
+</p>
+            <lg>
+<l>Einst war mir die Liebe wie Sonnenschein,</l>
+<l>Wie Glanz aus urewigen Höhen —</l>
+<l>Ich hab’ sie erkannt und habe hinein</l>
+<l>Mit geblendetem Auge gesehen.</l>
+</lg>
+            <lg>
+<l>Dann ward das Auge ermüdet vom Glanz,</l>
+<l>Das goldene Licht ist versunken —</l>
+<l>Nur manchmal erhob sich noch glühend ein Kranz</l>
+<l>Von sprühenden, leuchtenden Funken.</l>
+</lg>
+            <lg>
+<l>Nun aber erstrahlt sie ein einziger Stern,</l>
+<l>Ich seh’ ihn leuchten und beben —</l>
+<l>So schimmernd und flimmernd unendlich fern,</l>
+<l>Verzittern — verglühen — verschweben!</l>
+</lg>
+            <p ana="pr89928">
+<space/>Das ist <rs type="pers" ana="n_61502" ref="#fk__p_43574">Schubertsche Musik</rs>! <seg type="symbol" subtype="4dots"/><lb/>
+</p>
+            <p ana="pr89929">
+<rs type="pers" ana="n_61503" ref="#fk__p_49696"><AUCTOR><abbr>M. E.</abbr> <seg type="spc">delle Grazie</seg></AUCTOR></rs>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_49696">
+               <persName>Grazie, Marie Eugenie delle</persName>
+               <birth>
+                  <date>1864-8-14</date>
+                  <place>Bela Crkva</place>
+               </birth>
+               <death>
+                  <date>1931-2-19</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schriftstellerin</occupation>
+            </person>
+            <person xml:id="fk__p_43574">
+               <persName>Schubert, Franz Peter</persName>
+               <birth>
+                  <date>1797-1-31</date>
+                  <place>Wien-Lichtenthal</place>
+               </birth>
+               <death>
+                  <date>1828-11-19</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Komponist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12729</idno></person>
+            <person xml:id="fk__p_51269">
+               <persName>Wilhelm, Paul</persName>
+               <birth>
+                  <date>1873-4-25</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1916-11-25</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/27150</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_05267.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05266.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05268.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Hygiene, in: Fackel Heft 12, Nr. 317, 1911, S. 9-10</title>
+            <title type="iso-date">1911-02-28</title>
+            <title type="id">tid_05267</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">12</title><title type="heft">317</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-12-317_n0009.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/317,009</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Hygiene</head>
+            <p ana="pr68437">
+<space/>»Das Befinden des Hofschauspielers <rs type="pers" ana="n_49579" ref="#fk__p_52080"><seg type="spc">Reimers</seg></rs> erscheint so weit<lb/>
+gebessert, daß der Arzt dem Künstler gestattet hat, den Prolog <rs type="pers" ana="n_49580" ref="#fk__p_49936"><seg type="spc">Max</seg><lb/>
+Kalbecks</rs> im morgigen <rs type="pers" ana="n_49581" ref="#fk__p_44593">Lessing-Konzert</rs> zu sprechen.«<lb/>
+</p>
+            <p ana="pr68439">
+<space/>Das mag ja gehen. Aber sehr besorgt ist man allgemein<lb/>
+</p>
+            <p ana="pr68439">
+wegen des »<RS pers="Johann Wolfgang von Goethe"><rs type="title" ana="name_201635" ref="#fk__p_46960"><rs type="pers">Faust</rs></rs></RS>«. Man hofft, daß die Ärzte hier ein Machtwort<lb/>
+sprechen werden.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46960">
+               <persName>Goethe, Johann Wolfgang von</persName>
+               <birth>
+                  <date>1749-8-28</date>
+                  <place>Frankfurt am Main</place>
+               </birth>
+               <death>
+                  <date>1832-3-22</date>
+                  <place>Weimar</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">890/142f.</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11461</idno></person>
+            <person xml:id="fk__p_49936">
+               <persName>Kalbeck, Max</persName>
+               <birth>
+                  <date>1850-1-4</date>
+                  <place>Breslau</place>
+               </birth>
+               <death>
+                  <date>1921-5-4</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Musikschriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11857</idno></person>
+            <person xml:id="fk__p_44593">
+               <persName>Lessing, Gotthold Ephraim</persName>
+               <birth>
+                  <date>1729-1-22</date>
+                  <place>Kamenz/Oberlausitz</place>
+               </birth>
+               <death>
+                  <date>1781-2-15</date>
+                  <place>Braunschweig</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Bibliothekar</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12053</idno></person>
+            <person xml:id="fk__p_52080">
+               <persName>Reimers, Georg</persName>
+               <birth>
+                  <date>1860-4-4</date>
+                  <place>Altona</place>
+               </birth>
+               <death>
+                  <date>1936-4-15</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <note type="comment">ab 1885 am Burgtheater, 1922 EM</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12498</idno></person>
+            </listPerson></back></text>
+</TEI>

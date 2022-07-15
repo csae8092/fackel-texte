@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01296.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01295.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01297.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Ein Brief der Frau Schratt.), in: Fackel Heft 02, Nr. 055, 1900, S. 27-28</title>
+            <title type="iso-date">1900-10-01</title>
+            <title type="id">tid_01296</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">055</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-055_n0027.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/055,027</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Ein Brief der Frau Schratt.)</head>
+            <p ana="pr12480">
+<space/><inciptit>Am</inciptit> <date>30. September</date> brachte das ‚<rs type="paper" ana="werk_3896">Neue Wiener Tagblatt</rs>‘ ein<lb/>
+angebliches Schreiben der aus dem <rs type="inst">Burgtheater</rs> und ihrem Wiener<lb/>
+Freundeskreise so plötzlich geschiedenen, zur Zeit in Stuttgart<lb/>
+weilenden Frau <rs type="pers" ana="n_10234" ref="#fk__p_47718">Katharina <seg type="spc">Schratt</seg></rs> an <seg type="insult">Herrn <rs type="pers" ana="n_10235" ref="#fk__p_55546">Wilhelm Singer</rs></seg> zum<lb/>
+Abdruck. Die darin gebrauchten Worte <seg type="insult"><foreign xml:lang="fr">»Degout«</foreign></seg>, <seg type="insult"><foreign xml:lang="fr">»Medisance«</foreign></seg>,<lb/>
+<seg type="insult">»mein Wiener Milieu«</seg> sowie die Ansprache <seg type="insult">»Geehrter Freund«</seg> an<lb/>
+<seg type="insult">Herrn <rs type="pers" ana="n_10236" ref="#fk__p_55546">Singer</rs></seg> machten mich sogleich stutzig, und die Ankündigung,<lb/>
+dass Frau <rs type="pers" ana="n_10237" ref="#fk__p_47718">Schratt</rs> »einmal die Geduld verlieren« könnte und dass<lb/>
+dann <seg type="insult">»gewisse hohe oder sich hoch dünkende Kreise«</seg> nichts zu<lb/>
+lachen haben würden, berührte allenthalben peinlich und gab dem ohnehin<lb/>
+ journalistisch geschriebenen Briefe einen <seg type="insult">Stich ins Erpresserische</seg>.<lb/>
+Auch das <seg type="insult">Selbstlob ihres Wohlthätigkeitssinnes</seg> — »ich kann mit<lb/>
+ruhigem Gewissen sagen, dass ich unzähligen Menschen nur Gutes<lb/>
+zu thun bemüht war« — und die spontane Versicherung, dass sie<lb/>
+bei diesen Handlungen »ja nur den Regungen ihres Herzens gefolgt«<lb/>
+sei, wollte der liebenswürdigen und bescheidenen Frau niemand<lb/>
+zutrauen <seg type="symbol" subtype="4dots"/><lb/>
+</p>
+            <p ana="pr12483">
+<space/>Am <date>28. September</date> traf <seg type="insult">Herr <rs type="pers" ana="n_10238" ref="#fk__p_55546">Wilhelm Singer</rs>, Chefredacteur<lb/>
+des ‚<rs type="paper" ana="werk_3897">Neuen Wiener Tagblatt</rs>‘</seg>, persönlich in Stuttgart ein, klopfte an<lb/>
+die Thüre der Frau <rs type="pers" ana="n_10239" ref="#fk__p_47718">Schratt</rs> und drückte ihr ein Schriftstück in die<lb/>
+Hand. Frau <rs type="pers" ana="n_10240" ref="#fk__p_47718">Schratt</rs> aber fragte: <foreign xml:lang="de-loc">»Sagen S’, muss ich das alles<lb/>
+<seg type="spc">lesen</seg>?«</foreign><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_55546">
+               <persName>Singer, Wilhelm (Vilmos, Wolwele)</persName>
+               <birth>
+                  <date>1847-11-26</date>
+                  <place>Bisenz/Mähren</place>
+               </birth>
+               <death>
+                  <date>1917-10-10</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <note type="comment">Ögg gibt 706/56 Sándor Singer</note>
+               <note type="comment">Ögg gibt Wilhelm Singer auch F 25/12</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_20141</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2202</idno></person>
+            <person xml:id="fk__p_47718">
+               <persName>Schratt, Katharina</persName>
+               <birth>
+                  <date>1853-9-11</date>
+                  <place>Baden</place>
+               </birth>
+               <death>
+                  <date>1940-4-17</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schauspielerin</occupation>
+               <note type="comment">10. 11. 1883 bis 1900 Hofburgth.</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2680</idno></person>
+            </listPerson></back></text>
+</TEI>

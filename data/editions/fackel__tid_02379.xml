@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02379.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02378.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02380.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Logiker. (Von Herrn Hevesi), in: Fackel Heft 04, Nr. 101, 1902, S. 23-23</title>
+            <title type="iso-date">1902-04-28</title>
+            <title type="id">tid_02379</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">04</title><title type="heft">101</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-04-101_n0023.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/101,023</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Logiker. (Von Herrn Hevesi)</head>
+            <p ana="pr23151">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_20088" ref="#fk__p_49080">Logiker</rs>.</seg></seg> Sie empfehlen, den in der letzten <rs type="inst">Burgtheaterkritik</rs> des<lb/>
+<seg type="insult">Herrn <rs type="pers" ana="n_20089" ref="#fk__p_49299">Hevesi</rs></seg> enthaltenen Satz zu zergliedern: »Der Verlauf des Abends<lb/>
+hat dem Rothstift theils Recht, theils nicht Unrecht gegeben. Es wäre<lb/>
+zu bedauern, wenn er das ganze Stück gestrichen hätte, aber es war<lb/>
+auch wieder schade um manchen hübschen Zug, der ihm zum Opfer<lb/>
+gefallen ist.« Ueben Sie Nachsicht! Von <seg type="insult">diesem Geist</seg> haben seit<lb/>
+mehreren Jahren Logik und Vernunft <seg type="insult"><rs type="inst"><seg type="spc">Secession</seg></rs></seg> gemacht <seg type="symbol" subtype="4dots"/><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_49299">
+               <persName>Hevesi, Ludwig</persName>
+               <birth>
+                  <date>1843-12-20</date>
+                  <place>Heves, Ungarn</place>
+               </birth>
+               <death>
+                  <date>1910-2-27</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11687</idno></person>
+            <person xml:id="fk__p_49080">
+               <persName>Logiker</persName>
+            </person>
+            </listPerson></back></text>
+</TEI>

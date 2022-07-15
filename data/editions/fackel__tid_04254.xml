@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_04254.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04253.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04255.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Kriminalist. (Beer und Steger), in: Fackel Heft 08, Nr. 208, 1906, S. 21-22</title>
+            <title type="iso-date">1906-10-4</title>
+            <title type="id">tid_04254</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">08</title><title type="heft">208</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-08-208_n0021.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/208,021</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Kriminalist. (Beer und Steger)</head>
+            <p ana="pr45899">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="name_203646" ref="#fk__p_48264">Kriminalist</rs>.</seg></seg></seg> Aus einem Verhandlungsbericht: Prozeß <rs type="pers" ana="n_37088" ref="#fk__p_57263"><seg type="spc">Beer</seg></rs> <seg type="symbol" subtype="3dots"/><lb/>
+»In der heutigen Verhandlung, die geheim durchgeführt wird, kamen<lb/>
+neben der Erörterung sehr pikanter Details auch komplizierte geschäftliche<lb/>
+ und private Verhältnisse des Angeklagten zur Sprache, die auf<lb/>
+</p>
+            <p ana="pr45899">
+Initiative des Verteidigers Regierungsrats <rs type="pers" ana="n_37089" ref="#fk__p_41176">Doktor <seg type="spc">Steger</seg></rs> den Nachweis<lb/>
+liefern sollten, daß <seg type="spc">die Anzeige</seg> gegen den Arzt <seg type="spc">einen <seg type="insult">Racheakt</seg></seg><lb/>
+bedeute.« <seg type="insult">Derselbe <rs type="pers" ana="n_37090" ref="#fk__p_41176">Steger</rs></seg>, aber ein anderer <rs type="pers" ana="n_37091" ref="#fk__p_57263">Beer</rs>. Immerhin erfreulich,<lb/>
+daß <seg type="insult">Herr Regierungsrat <rs type="pers" ana="n_37092" ref="#fk__p_41176">Steger</rs></seg> überhaupt zugibt, daß eine Anzeige einen<lb/>
+<seg type="insult">Racheakt</seg> bedeuten könne <seg type="symbol" subtype="3dots"/> Der Zahnarzt <rs type="pers" ana="n_37093" ref="#fk__p_57263">Beer</rs> wurde freigesprochen.<lb/>
+Warum hat sich der Professor <rs type="pers" ana="n_37094" ref="#fk__p_54024">Beer</rs> nicht <seg type="insult">den Herrn <rs type="pers" ana="n_37095" ref="#fk__p_41176"><abbr>Dr.</abbr> Steger</rs></seg> zum<lb/>
+Verteidiger gewählt!<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_48264">
+               <persName>Kriminalist</persName>
+            </person>
+            <person xml:id="fk__p_41176">
+               <persName>Steger, Heinrich</persName>
+               <birth>
+                  <date>1854-11-14</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1929-12-7</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Rechtsanwalt</occupation>
+               <occupation>Musikkritiker</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/25357</idno></person>
+            <person xml:id="fk__p_54024">
+               <persName>Beer, Theodor</persName>
+               <birth>
+                  <date>1866-3-27</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1919-9-30</date>
+                  <place>Luzern</place>
+               </death>
+               <occupation>Physiologe</occupation>
+               <note type="comment">Theodor Beer-Preis der Kaiserl. Akad. d. Wiss. seit 1.1.1901</note>
+               <note type="comment">Geb. 27.03.1906</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/3050</idno></person>
+            <person xml:id="fk__p_57263">
+               <persName>Beer, Ludwig</persName>
+               <birth>
+                  <date>1872-4-9</date>
+                  <place>Gewitsch/Mähren</place>
+               </birth>
+               <death>
+                  <date>1963-6-13</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Zahnarzt</occupation>
+               <note type="comment">9., Hahngasse 20</note>
+               <note type="comment">Zahnärztl. Atelier, 1. Wipplinger Str. 12</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/13918</idno></person>
+            </listPerson></back></text>
+</TEI>

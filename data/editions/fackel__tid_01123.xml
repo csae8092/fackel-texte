@@ -1,0 +1,47 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01123.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01122.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01124.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Jobber. (Heine-Marken), in: Fackel Heft 02, Nr. 047, 1900, S. 31-31</title>
+            <title type="iso-date">1900-07-01</title>
+            <title type="id">tid_01123</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">047</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-047_n0031.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/047,031</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Jobber. (Heine-Marken)</head>
+            <p ana="pr10714">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="n_8727" ref="#fk__p_46862">Jobber</rs>.</seg></seg></seg> Es ist erfreulich, dass das <seg type="insult"><rs type="pers" ana="n_8728" ref="#fk__p_45715">Heine-Kranz-Comité</rs></seg> endlich den<lb/>
+richtigen Ton für seine noch immer betriebene <seg type="insult">Propaganda</seg> gefunden<lb/>
+hat. Die »<rs type="pers" ana="n_8729" ref="#fk__p_45715">Heine-Marken</rs>« — hieß es in einem der letzten Aufrufe —<lb/>
+sind jetzt »<seg type="spc">stark begehrt</seg>«.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_45715">
+               <persName>Heine, Heinrich</persName>
+               <birth>
+                  <date>1797-12-13</date>
+                  <place>Düsseldorf</place>
+               </birth>
+               <death>
+                  <date>1856-2-17</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Journalist</occupation>
+               <note type="comment">Ögg separiert F 24/25 </note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11640</idno></person>
+            <person xml:id="fk__p_46862">
+               <persName>Jobber</persName>
+            </person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07875.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07874.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07876.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Weg!, in: Fackel Heft 19, Nr. 457, 1234, S. 85-86</title>
+            <title type="iso-date">1234-01-01</title>
+            <title type="id">tid_07875</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">19</title><title type="heft">457</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-19-457_n0085.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/457,085</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Weg!</head>
+            <p ana="pr105355">
+<space/><seg type="symbol" subtype="3dots"/> Mit Innigkeit und Schwung sprach <rs type="pers" ana="n_67426" ref="#fk__p_47637">Karl <abbr>v.</abbr> Zeska</rs> den<lb/>
+dichterischen Gelegenheitsprolog von Frau Sektionschef <rs type="pers" ana="n_67427" ref="#fk__p_53417">Sofie<lb/>
+<seg type="spc">Jarzebecka</seg></rs> <seg type="symbol" subtype="4dots"/><lb/>
+</p>
+            <p ana="pr105357">
+<space/>Und das noch nach dem Prozeß! <seg type="insult">Die Gelegenheitsprologe<lb/>
+ dieser Dichterin</seg> sind jetzt durch drei Jahre, den Liebesgabensendungen<lb/>
+ beigepackt, in die Schützengräben eingedrungen<lb/>
+, ohne von den Unseren wieder hinausgeworfen zu<lb/>
+werden, was sogar zu vielfachen Verwechslungen mit <seg type="insult">der<lb/>
+<rs type="pers" ana="n_67428" ref="#fk__p_46498">Irma <abbr>v.</abbr> Höfer</rs></seg> geführt hat. Nun wär’s aber genug. Der Gemahl<lb/>
+mag <seg type="insult">eine notgedrungene Vereinigung von militärischen und<lb/>
+industriellen Tugenden</seg> vorstellen. <seg type="insult">Die Lyrik der Gattin</seg> wünschen<lb/>
+wir nicht mehr in der Mixtur. Hinaus!<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46498">
+               <persName>Höfer-Feldsturm, Irma von, geb. Sölch</persName>
+               <birth>
+                  <date>1875-08-14</date>
+                  <place>Schloß Kosatek/Böhmen</place>
+               </birth>
+               <death>
+                  <date>1919-2-1</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schriftstellerin</occupation>
+               <note type="comment">seit 1919 verh. mit Franz von Höfer</note>
+            </person>
+            <person xml:id="fk__p_53417">
+               <persName>Jarzebecka, Sofie, geb. Deutsch</persName>
+               <birth>
+                  <date>1865-3-15</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1924-8-21</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schriftstellerin</occupation>
+               <note type="comment">3., Strohgasse 11</note>
+            </person>
+            <person xml:id="fk__p_47637">
+               <persName>Zeska, Karl von</persName>
+               <birth>
+                  <date>1862-10-31</date>
+                  <place>Hamburg</place>
+               </birth>
+               <death>
+                  <date>1938-7-18</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <note type="comment">seit 1892 am Burgtheater, Hofschauspieler</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

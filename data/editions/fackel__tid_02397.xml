@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02397.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02396.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02398.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Politiker. (Hofrath Sieghart), in: Fackel Heft 04, Nr. 102, 1902, S. 23-23</title>
+            <title type="iso-date">1902-05-7</title>
+            <title type="id">tid_02397</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">04</title><title type="heft">102</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-04-102_n0023.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/102,023</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Politiker. (Hofrath Sieghart)</head>
+            <p ana="pr23339">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="n_20265" ref="#fk__p_51590">Politiker</rs>.</seg></seg></seg> <seg type="insult">Herrn <rs type="pers" ana="n_20266" ref="#fk__p_52612"><seg type="spc">Siegharts</seg></rs></seg> Ernennung zum Hofrath ist schon<lb/>
+im Budget des Jahres <date>1901</date> vorhergesehen und in der <rs type="selfRef" ana="werk_7834">Nummer 73</rs><lb/>
+der ‚<rs type="self" ana="werk_7835">Fackel</rs>‘ angekündigt worden. Dafür, dass <seg type="insult">Herr <rs type="pers" ana="n_20267" ref="#fk__p_52612">Sieghart</rs></seg> binnen<lb/>
+vier Jahren vom Ministerialconcipisten zum Hofrath emporgerückt ist,<lb/>
+sind zwar keinerlei fachliche Verdienste massgebend gewesen. Aber<lb/>
+<seg type="insult">Herr <rs type="pers" ana="n_20268" ref="#fk__p_52612">Sieghart</rs></seg> ist bekanntlich <seg type="insult">ein wichtiger Factor in unserer inneren<lb/>
+Politik</seg>; er ist nämlich <seg type="insult">der Factor des Herrn <rs type="pers" ana="n_20269" ref="#fk__p_40952"><abbr>v.</abbr> Koerber</rs></seg>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_51590">
+               <persName>Politiker</persName>
+            </person>
+            <person xml:id="fk__p_52612">
+               <persName>Sieghart, Rudolf</persName>
+               <birth>
+                  <date>1866-3-18</date>
+                  <place>Troppau</place>
+               </birth>
+               <death>
+                  <date>1934-8-4</date>
+                  <place>Luzern</place>
+               </death>
+               <occupation>Bankier</occupation>
+               <occupation>Politiker</occupation>
+               <note type="comment">urspr. Singer? </note>
+               <note type="comment">Präs. d. Allg. oesterr. Bodencreditanstalt</note>
+               <note type="comment">Herrenhausmitglied 1912-18</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12775</idno></person>
+            <person xml:id="fk__p_40952">
+               <persName>Koerber, Ernest von</persName>
+               <birth>
+                  <date>1850-11-6</date>
+                  <place>Trient</place>
+               </birth>
+               <death>
+                  <date>1919-3-4</date>
+                  <place>Baden bei Wien</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <note type="comment">Handels-, Innen-, Justizminister, 1900-04, Okt. bis Dez. 1916 Ministerpräsident</note>
+               <note type="comment">Handels-, Innen-, Justizminister, 1900-04, Okt. bis Dez. 1916 Ministerpräsident</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11955</idno></person>
+            </listPerson></back></text>
+</TEI>

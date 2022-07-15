@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06854.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06853.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06855.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Ein Berliner Kopf über eine Wiener Frisur), in: Fackel Heft 16, Nr. 400, 1914, S. 52-52</title>
+            <title type="iso-date">1914-01-01</title>
+            <title type="id">tid_06854</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">16</title><title type="heft">400</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-16-400_n0052.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/400,052</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Ein Berliner Kopf über eine Wiener Frisur)</head>
+            <p ana="pr92090">
+<seg type="insult">Ein Berliner Kopf über eine Wiener Frisur</seg>:<lb/>
+</p>
+            <p ana="pr92092">
+<space/>Die nächste Errungenschaft <seg type="symbol" subtype="4dotsEditor"/> war <seg type="insult"><seg type="spc">der Mann mit der Ponyfrisur<lb/>
+</seg></seg>. Man merke die tiefere Bedeutung dieser Haartracht. Während<lb/>
+die Talente von gestern nervös die Haare aus dem Gesicht strichen,<lb/>
+wodurch die breite Denkerstirn (<rs type="pers" ana="n_62558" ref="#fk__p_44354">Gerhart Hauptmann</rs>, <rs type="pers" ana="n_62559" ref="#fk__p_52203">Richard Strauß</rs> <abbr>usw.</abbr>)<lb/>
+noch stärker zur Geltung kam, versinnbildlichte der Pionier der Ponyfrisur<lb/>
+das rein Sensitive der Modernen, die einer Krücke der Geistigkeit nicht<lb/>
+mehr bedürfen. Das war wohl der Grund, weshalb er seine Haare<lb/>
+in die Stirn kämmte und oberhalb des Zwickers in gerader Linie<lb/>
+abschneiden ließ. Wenn er nicht die Beachtung fand, die er verdiente,<lb/>
+so liegt das darin, daß man ihn des Plagiats beschuldigte — in Wien habe<lb/>
+schon jemand durch die gleiche Behandlung seines <rs type="pers" ana="n_62560" ref="#fk__p_47565"><SPAN cont="Kraushaares"><seg type="insult"><seg type="spc">Kraush</seg>aares</seg></SPAN></rs> <seg type="spc">endlich<lb/>
+<seg type="insult">die heiß ersehnte Beachtung der Kaffeehauswelt</seg> errungen</seg>.<lb/>
+</p>
+            <p ana="pr92094">
+<space/>Wie das <seg ana="Berliner Tageblatt"/> will, ich halt’ still.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_52203">
+               <persName>Strauss, Richard</persName>
+               <birth>
+                  <date>1864-6-11</date>
+                  <place>München</place>
+               </birth>
+               <death>
+                  <date>1949-9-8</date>
+                  <place>Garmisch-Partenkirchen</place>
+               </death>
+               <occupation>Komponist</occupation>
+               <occupation>Dirigent</occupation>
+               <occupation>Theaterleiter</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12870</idno></person>
+            <person xml:id="fk__p_47565">
+               <persName>Kraus, Karl</persName>
+               <birth>
+                  <date>1874-4-28</date>
+                  <place>Jicin, Böhmen</place>
+               </birth>
+               <death>
+                  <date>1936-6-12</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Publizist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11988</idno></person>
+            <person xml:id="fk__p_44354">
+               <persName>Hauptmann, Gerhart</persName>
+               <birth>
+                  <date>1862-11-15</date>
+                  <place>Salzbrunn, Schlesien</place>
+               </birth>
+               <death>
+                  <date>1946-6-6</date>
+                  <place>Agnetendorf</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Ögg teilt die indirekte Stelle 521/64 zu, irrtümlich</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11617</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_05848.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05847.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05849.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Anzengrubers Beziehung zur Musikwoche, in: Fackel Heft 14, Nr. 354, 1912, S. 22-23</title>
+            <title type="iso-date">1912-01-01</title>
+            <title type="id">tid_05848</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">14</title><title type="heft">354</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-14-354_n0022.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/354,022</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Anzengrubers Beziehung zur Musikwoche</head>
+            <p ana="pr78311">
+wurde angefochten und mußte darum verteidigt werden. Zugegeben<lb/>
+wird, daß ein tieferer Zusammenhang fehlt. Aber erstens heißt<lb/>
+es im »<rs type="title">Pfarrer von Kirchfeld</rs>«: <foreign xml:lang="de-loc">»’s liegt in der Luft, wie a Kirchenlied<lb/>
+ und wie a Schnadahüpfel«</foreign>. Zweitens hat <rs type="pers" ana="n_55567" ref="#fk__p_49273">Anzengruber</rs> ein Gedicht<lb/>
+geschrieben, welches »<rs type="title">Lied vom Leide</rs>« heißt. Drittens »erinnert<lb/>
+man sich noch der klangvollen Strophen des ‚Festliedes‘, das er<lb/>
+zur Feier des fünfundzwanzigjährigen Bestandes der ‚<rs type="inst">Concordia</rs>‘<lb/>
+formte.« Wenn man sich aber auch nicht erinnert, so steht<lb/>
+doch viertens fest, daß »auch seine ernstesten Dramen <rs type="title"><foreign xml:lang="de-loc">Schnadahüpfel</foreign></rs><lb/>
+als heitere, musikalische Ruhepunkte durchziehen«. Fünftens hat er<lb/>
+»die Harmonien des Weltalls so lauter gefühlt und sie seinen<lb/>
+<rs type="pers">Steinklopferhans</rs> in Worten aussprechen lassen, die von so<lb/>
+lauterer, innerlicher Musik des Gedankens widerhallen«. Wem das<lb/>
+aber noch immer nicht laut und lauter genug wäre und wer etwa der<lb/>
+Ansicht sein sollte, daß <seg type="insult">diese ganze gejuchezte Sphärenmusik</seg><lb/>
+ein <seg type="insult">armseliges Geräusch</seg> ist neben den Verstimmungen eines<lb/>
+<rs type="pers" ana="n_55568" ref="#fk__p_46919">Nestroy</rs>, dem wird der <seg type="insult">»<rs type="title">Meineidbauer</rs>«</seg> zwischen <rs type="pers" ana="n_55569" ref="#fk__p_49349">Beethoven</rs> und<lb/>
+<rs type="pers" ana="n_55570" ref="#fk__p_38335">Bruckner</rs> berechtigt erscheinen, wenn er sechstens liest: daß von<lb/>
+der Figur des Hausierers <rs type="pers">Levy</rs> »Jargonanklang gefordert wird«. Aber<lb/>
+gerade den — Pech — hat der Darsteller »diskret behandelt«.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_49349">
+               <persName>Beethoven, Ludwig van</persName>
+               <birth>
+                  <date>1770-12-17</date>
+                  <place>Bonn</place>
+               </birth>
+               <death>
+                  <date>1827-3-26</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Komponist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10866</idno></person>
+            <person xml:id="fk__p_46919">
+               <persName>Nestroy, Johann Nepomuk</persName>
+               <birth>
+                  <date>1801-12-7</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1862-5-25</date>
+                  <place>Graz</place>
+               </death>
+               <occupation>Sänger</occupation>
+               <occupation>Schauspieler</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12338</idno></person>
+            <person xml:id="fk__p_49273">
+               <persName>Anzengruber, Ludwig</persName>
+               <birth>
+                  <date>1839-11-29</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1889-12-10</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10772</idno></person>
+            <person xml:id="fk__p_38335">
+               <persName>Bruckner, Anton</persName>
+               <birth>
+                  <date>1824-9-4</date>
+                  <place>Ansfelden, Oberöst.</place>
+               </birth>
+               <death>
+                  <date>1896-10-11</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Komponist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11024</idno></person>
+            </listPerson></back></text>
+</TEI>

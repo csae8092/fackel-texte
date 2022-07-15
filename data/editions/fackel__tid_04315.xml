@@ -1,0 +1,106 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_04315.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04314.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04316.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lakai. (Eine feudale Meldung), in: Fackel Heft 08, Nr. 213, 1906, S. 18-18</title>
+            <title type="iso-date">1906-12-11</title>
+            <title type="id">tid_04315</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">08</title><title type="heft">213</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-08-213_n0018.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/213,018</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Lakai. (Eine feudale Meldung)</head>
+            <p ana="pr46954">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="name_203614" ref="#fk__p_48545">Lakai</rs>.</seg></seg></seg> <seg type="insult">Die ‚<rs type="paper" ana="werk_14934">Neue Freie Presse</rs>‘, das Organ des deutschen<lb/>
+Bürgertums</seg>, brachte am <date>22. November</date> die folgende Notiz: »(Unfall der<lb/>
+<rs type="pers" ana="n_37852" ref="#fk__p_44114">Fürstin Wilhelmine Schwarzenberg</rs>.) Aus Prag wird uns gemeldet: <rs type="pers" ana="n_37853" ref="#fk__p_44114">Fürstin<lb/>
+Wilhelmine Schwarzenberg, geborene Prinzessin von Oettingen-Oettingen<lb/>
+und Oettingen-Wallerstein</rs>, die Witwe nach dem vor zwei Jahren verstorbenen<lb/>
+ <rs type="pers" ana="n_37854" ref="#fk__p_44068">Fürsten Karl Schwarzenberg</rs> und Mutter des <rs type="pers" ana="n_37855" ref="#fk__p_59494">Fürsten Karl<lb/>
+Schwarzenberg</rs> und des <rs type="inst">Reichsratsabgeordneten</rs> <rs type="pers" ana="n_37856" ref="#fk__p_51745">Prinzen <abbr>Dr.</abbr> Friedrich<lb/>
+Schwarzenberg</rs>, ist heute, wie die ‚<rs type="" ana="werk_41049">Politik</rs>‘ meldet, auf ihrem Schlosse<lb/>
+Tuchowitz von der Stiege gestürzt, wobei sie sich am Fuße eine Verletzung<lb/>
+ zuzog. Die Patientin fuhr noch heute nach Prag, um hier<lb/>
+ärztliche Hilfe zu suchen.« Wie sagt doch <rs type="pers" ana="n_37857" ref="#fk__p_43876">Schiller</rs> in einem Falle, der<lb/>
+sich gleichfalls in einer böhmischen Adelsfamilie ereignet hat, der<lb/>
+aber mehr als eine Verstauchung des Fußes betraf? »Hilfe! Hilfe! —<lb/>
+Was gibt’s? — Das Fräulein! — Weiß sie’s? — Sie will sterben!«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_59494">
+               <persName>Schwarzenberg, Karl Fürst</persName>
+               <birth>
+                  <date>1859-7-1</date>
+                  <place>Cimelic</place>
+               </birth>
+               <death>
+                  <date>1913-10-4</date>
+                  <place>Orlik</place>
+               </death>
+               <note type="comment"/>
+            </person>
+            <person xml:id="fk__p_44068">
+               <persName>Schwarzenberg, Karl Fürst</persName>
+               <birth>
+                  <date>1824-7-5</date>
+                  <place>Prag</place>
+               </birth>
+               <death>
+                  <date>1904-3-29</date>
+                  <place>Prag</place>
+               </death>
+               <occupation>Großgrundbesitzer</occupation>
+               <occupation>Politiker</occupation>
+            </person>
+            <person xml:id="fk__p_48545">
+               <persName>Lakai</persName>
+            </person>
+            <person xml:id="fk__p_51745">
+               <persName>Schwarzenberg, Friedrich Prinz zu</persName>
+               <birth>
+                  <date>1862-10-30</date>
+                  <place>Worlik, Böhmen</place>
+               </birth>
+               <death>
+                  <date>1936-10-2</date>
+                  <place>Tochovice</place>
+               </death>
+               <occupation>Großgrundbesitzer</occupation>
+               <occupation>Politiker</occupation>
+               <note type="comment">Reichsratsabgeordneter</note>
+            </person>
+            <person xml:id="fk__p_43876">
+               <persName>Schiller, Friedrich von</persName>
+               <birth>
+                  <date>1759-11-10</date>
+                  <place>Marbach am Neckar</place>
+               </birth>
+               <death>
+                  <date>1805-5-9</date>
+                  <place>Weimar</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Mortimer 363/9, 679/69, 912/7 und 912/58 ist von Ögg Shakespeare zugeordnet</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12654</idno></person>
+            <person xml:id="fk__p_44114">
+               <persName>Schwarzenberg, Wilhelmine Fürstin, geb. Prinzessin von Oettingen-Wallerstein</persName>
+               <birth>
+                  <date>1833-12-30</date>
+                  <place>Königssaal, Böhmen</place>
+               </birth>
+               <death>
+                  <date>1910-12-18</date>
+                  <place>Prag</place>
+               </death>
+            </person>
+            </listPerson></back></text>
+</TEI>

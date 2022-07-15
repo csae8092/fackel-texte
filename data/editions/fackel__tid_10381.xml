@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_10381.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10380.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10382.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">29. Oktober:, in: Fackel Heft 27, Nr. 706, 1925, S. 91-91</title>
+            <title type="iso-date">1925-12-01</title>
+            <title type="id">tid_10381</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">27</title><title type="heft">706</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-27-706_n0091.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/706,091</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>29. Oktober:</head>
+            <p ana="pr141792">
+<space/><date>29. Oktober</date>:<lb/>
+</p>
+            <p ana="pr141793">
+<space/><rs type="pers" ana="n_86571" ref="#fk__p_50661"><seg type="spc">Gogol</seg></rs>: <rs type="title"><seg type="spc">Der Revisor</seg></rs>, Komödie in fünf Akten. Übersetzt<lb/>
+von <rs type="pers" ana="n_86572" ref="#fk__p_53286">Sigismund von Radecki</rs>, vom Vortragenden eingerichtet.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_53286">
+               <persName>Radecki, Sigismund von</persName>
+               <birth>
+                  <date>1891-11-19</date>
+                  <place>Riga</place>
+               </birth>
+               <death>
+                  <date>1970-03-13</date>
+                  <place>Gladbeck/Westf.</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Übersetzer</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38477</idno></person>
+            <person xml:id="fk__p_50661">
+               <persName>Gogol, Nikolai Wassiljewitsch</persName>
+               <birth>
+                  <date>1809-3-31</date>
+                  <place>Sorotschinzy/Poltawa</place>
+               </birth>
+               <death>
+                  <date>1852-3-4</date>
+                  <place>Moskau</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15510</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/17144</idno></person>
+            </listPerson></back></text>
+</TEI>

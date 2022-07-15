@@ -1,0 +1,47 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01452.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01451.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01453.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Ernennung durch die ‚Neue Freie Presse‘), in: Fackel Heft 02, Nr. 061, 1900, S. 16-16</title>
+            <title type="iso-date">1900-12-01</title>
+            <title type="id">tid_01452</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">061</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-061_n0016.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/061,016</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Ernennung durch die ‚Neue Freie Presse‘)</head>
+            <p ana="pr13786">
+<space/>(<seg type="spc">Ernennung</seg>.) <seg type="insult">Polizeiobercommissär <rs type="pers" ana="n_11602" ref="#fk__p_50392"><seg type="spc">Stukart</seg></rs></seg> ist von der<lb/>
+‚<rs type="paper" ana="werk_4487">Neuen Freien Presse</rs>‘ zum Polizeirath ernannt worden. Die Beförderung<lb/>
+ erfolgte in der <rs type="paperRef" ana="werk_4488">Nummer</rs> vom <date>5. December</date>, in der <seg type="insult">Herr<lb/>
+<rs type="pers" ana="n_11603" ref="#fk__p_50392">Stukart</rs></seg> wieder einmal als <abbr>u. A.</abbr> anwesend erschien, und wird in<lb/>
+<seg type="insult">maßgebenden Kreisen</seg> mit den Unbilden in Zusammenhang gebracht,<lb/>
+denen <seg type="insult">der Polizeiobercommissär <rs type="pers" ana="n_11604" ref="#fk__p_50392">Stukart</rs></seg> seitens der ‚<rs type="self" ana="werk_4489">Fackel</rs>‘ in der<lb/>
+letzten Zeit ausgesetzt war.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_50392">
+               <persName>Stukart, Moriz</persName>
+               <birth>
+                  <date>1856-11-27</date>
+                  <place>Datschitz, Mähren</place>
+               </birth>
+               <death>
+                  <date>1919-11-16</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Polizeipräsident</occupation>
+               <note type="comment">9., Berggasse 41</note>
+               <note type="comment">Wien</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

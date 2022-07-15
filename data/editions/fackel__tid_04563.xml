@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_04563.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04562.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04564.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Die Vertretung des ‚Neuen Wiener Journals‘ im Burgtheater), in: Fackel Heft 09, Nr. 236, 1907, S. 21-21</title>
+            <title type="iso-date">1907-11-18</title>
+            <title type="id">tid_04563</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">09</title><title type="heft">236</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-09-236_n0021.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/236,021</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Die Vertretung des ‚Neuen Wiener Journals‘ im Burgtheater)</head>
+            <p ana="pr50736">
+<space/><seg type="insult">Der <RS pers="Friedrich Elbogen" globID="name_201445">Verteidiger in Strafsachen</RS></seg>, der die Vertretung<lb/>
+ des ‚<rs type="paper" ana="werk_15780">Neuen Wiener Journals</rs>‘ im <rs type="inst">Burgtheater</rs><lb/>
+übernommen hat, sagte von den Versen des <RS pers="Johann Wolfgang von Goethe"><rs type="title" ana="name_203148" ref="#fk__p_46960"><rs type="pers">Faust</rs></rs></RS>,<lb/>
+daß sie »wie eine Verkündigung von oben nach den<lb/>
+Himmelshöhen moderner Kulturwelt weisen«. Das ist<lb/>
+schwer vorstellbar. Als eine <seg type="insult">Verkündigung von oben<lb/>
+nach den Himmelshöhen</seg> wäre höchstens ein <seg type="insult">Erlaß des<lb/>
+<rs type="inst">Justizministeriums</rs> an den <rs type="inst">Disziplinarrat der Advokatenkammer<lb/>
+</rs></seg> aufzufassen. Und auch der ergeht bekanntlich<lb/>
+ nie. Somit bleibt nichts übrig, als darüber<lb/>
+nachzudenken, ob der <rs type="inst">Burgtheaterkritiker</rs> <rs type="pers" ana="n_40524" ref="#fk__p_49331">Ludwig<lb/>
+Speidel</rs>, dem erwiesenermaßen nie eine <seg type="insult">Verteidigerphrase<lb/>
+</seg> eingefallen ist, imstande gewesen wäre, aushilfsweise<lb/>
+ einmal einen Raubmörder zu vertreten.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46960">
+               <persName>Goethe, Johann Wolfgang von</persName>
+               <birth>
+                  <date>1749-8-28</date>
+                  <place>Frankfurt am Main</place>
+               </birth>
+               <death>
+                  <date>1832-3-22</date>
+                  <place>Weimar</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">890/142f.</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11461</idno></person>
+            <person xml:id="fk__p_49331">
+               <persName>Speidel, Ludwig</persName>
+               <birth>
+                  <date>1830-4-11</date>
+                  <place>Ulm</place>
+               </birth>
+               <death>
+                  <date>1906-2-3</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Kritiker</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12816</idno></person>
+            </listPerson></back></text>
+</TEI>

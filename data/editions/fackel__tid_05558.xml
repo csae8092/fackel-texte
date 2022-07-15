@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_05558.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05557.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05559.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Der Historiker, in: Fackel Heft 13, Nr. 338, 1911, S. 4-4</title>
+            <title type="iso-date">1911-12-01</title>
+            <title type="id">tid_05558</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">13</title><title type="heft">338</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-13-338_n0004.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/338,004</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Der Historiker</head>
+            <p ana="pr73018">
+<space/>» <seg type="symbol" subtype="3dots"/> Diese Anschauung ungefähr liegt folgender Äußerung des<lb/>
+berühmten Historikers <rs type="pers" ana="n_52606" ref="#fk__p_41165"><abbr>Dr.</abbr> Heinrich Friedjung</rs> zugrunde, die er in<lb/>
+liebenswürdiger Weise vor einem unserer Mitarbeiter abgab:<lb/>
+</p>
+            <p ana="pr73019">
+<space/>Friedensaussichten ergeben sich in einem Kriege erst, wenn einer<lb/>
+der beiden Teile zur Erkenntnis kommt, der Kampf sei aussichtslos<seg type="symbol" subtype="4dots"/><lb/>
+Dann erst kann in Konstantinopel die Friedenspartei ihr Haupt<lb/>
+erheben<seg type="symbol" subtype="4dots"/> So traurig es auch ist, so muß Europa dem Blutvergießen<lb/>
+vorerst mit verschränkten Armen zusehen<seg type="symbol" subtype="4dots"/> Die Waffen werden die<lb/>
+Entscheidung darüber bringen, ob <seg type="symbol" subtype="3dots"/>«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_41165">
+               <persName>Friedjung, Heinrich</persName>
+               <birth>
+                  <date>1851-1-18</date>
+                  <place>Rostschin</place>
+               </birth>
+               <death>
+                  <date>1920-7-14</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Historiker</occupation>
+               <occupation>Politiker</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11384</idno></person>
+            </listPerson></back></text>
+</TEI>

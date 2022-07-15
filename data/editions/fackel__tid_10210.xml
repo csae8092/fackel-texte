@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_10210.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10209.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10211.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Der melancholische Komiker, in: Fackel Heft 27, Nr. 691, 1925, S. 60-60</title>
+            <title type="iso-date">1925-07-01</title>
+            <title type="id">tid_10210</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">27</title><title type="heft">691</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-27-691_n0060.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/691,060</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Der melancholische Komiker</head>
+            <lg>
+<l>Man stellt <seg type="insult">Herrn <rs type="pers" ana="n_85126" ref="#fk__p_37996">Moissi</rs></seg> meist sich melancholisch vor.</l>
+<l>Er sagte, über alles lieb’ er den Humor.</l>
+<l>Das war nicht wahr, denn bald kam er in der Gestalt</l>
+<l>des <RS persTitle="Nestroy" title="Die schlimmen Buben in der Schule">schlimmen Buben in der Schule</RS> <rs type="pers">Willibald</rs>.</l>
+<l>So leidumflossen war <seg type="insult">Herr <rs type="pers" ana="n_85127" ref="#fk__p_37996">Moissi</rs></seg> nie zuvor.</l>
+<l>Als <RS pers="William Shakespeare"><rs type="pers" ana="name_202927" ref="#fk__p_55589">Hamlet</rs></RS>, heißt es, hat er halt doch mehr Humor.</l>
+</lg>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_55589">
+               <persName>Shakespeare, William</persName>
+               <birth>
+                  <date>1564-4-23?</date>
+                  <place>Stratford-upon-Avon</place>
+               </birth>
+               <death>
+                  <date>1616-4-23</date>
+                  <place>Stratford-upon-Avon</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2412</idno></person>
+            <person xml:id="fk__p_37996">
+               <persName>Moissi, Alexander</persName>
+               <birth>
+                  <date>1879-4-2</date>
+                  <place>Triest</place>
+               </birth>
+               <death>
+                  <date>1935-3-22</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <note type="comment">Mutter Amélie M., geb. Radio von Radiis, gest. Mödling 13.02.1929, im 87. Lj.</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12274</idno></person>
+            </listPerson></back></text>
+</TEI>

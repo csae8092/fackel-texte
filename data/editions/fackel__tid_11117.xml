@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_11117.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11116.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11118.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">4. Juni:, in: Fackel Heft 31, Nr. 811, 1929, S. 64-64</title>
+            <title type="iso-date">1929-08-01</title>
+            <title type="id">tid_11117</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">31</title><title type="heft">811</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-31-811_n0064.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/811,064</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>4. Juni:</head>
+            <p ana="pr160520">
+<space/><date>4. Juni</date>:<lb/>
+</p>
+            <p ana="pr160521">
+<space/><rs type="title"><foreign xml:lang="fr"><seg type="spc">Madame l’Archiduc</seg></foreign></rs>.<lb/>
+</p>
+            <p ana="pr160522">
+<space/>Auf der Rückseite des Programms die Zeichnung <foreign xml:lang="fr">»<rs type="title">Le choeur<lb/>
+des dragons</rs>« par <rs type="pers" ana="n_96294" ref="#fk__p_37657"><abbr>A.</abbr> Grévin</rs></foreign> aus dem <foreign xml:lang="fr"><rs type="magazine" ana="werk_40594">Journal Amusant</rs></foreign> <date>1874</date> mit<lb/>
+der dort erschienenen Notenschrift <rs type="pers" ana="n_96295" ref="#fk__p_46664">Offenbachs</rs> <foreign xml:lang="fr">»<rs type="title">Nous sommes<lb/>
+les Dragoni <seg type="symbol" subtype="3dots"/></rs>«</foreign><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_37657">
+               <persName>Grévin, Alfred</persName>
+               <birth>
+                  <date>1827-1-28</date>
+                  <place>Épineuil/Yonne</place>
+               </birth>
+               <death>
+                  <date>1892-5-5</date>
+                  <place>Saint-Mandé</place>
+               </death>
+               <occupation>Illustrator</occupation>
+            </person>
+            <person xml:id="fk__p_46664">
+               <persName>Offenbach, Jacques</persName>
+               <birth>
+                  <date>1819-06-21</date>
+                  <place>Köln</place>
+               </birth>
+               <death>
+                  <date>1880-10-05</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Komponist</occupation>
+               <note type="comment">Ögg teilt Fortunato F 876/34 Shakespeare zu</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/9131</idno></person>
+            </listPerson></back></text>
+</TEI>

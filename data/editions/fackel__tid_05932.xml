@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_05932.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05931.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05933.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Der Fortschritt, in: Fackel Heft 14, Nr. 357, 1912, S. 62-63</title>
+            <title type="iso-date">1912-10-01</title>
+            <title type="id">tid_05932</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">14</title><title type="heft">357</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-14-357_n0062.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/357,062</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Der Fortschritt</head>
+            <p ana="pr79254">
+schreibt:<lb/>
+</p>
+            <p ana="pr79256">
+<space/>Sie waren eifrige Kaffeehausbesucher <seg type="symbol" subtype="4dots"/> Auf sieben Wiener<lb/>
+Bühnen wurden damals <rs type="pers">Kasperlstücke</rs> gegeben <seg type="symbol" subtype="4dots"/> Begeistert haben die<lb/>
+Wiener sich aber fürs Ballett, namentlich für die <rs type="pers" ana="n_56171" ref="#fk__p_54893">Vigano</rs>, die berühmte<lb/>
+Tänzerin, in die damals ganz Wien verliebt war. So heftig war die<lb/>
+<rs type="pers" ana="name_200422" ref="#fk__p_54893">Viganoschwärmerei</rs>, daß die Wiener darüber beinahe die <rs type="event">französische<lb/>
+Revolution</rs> vergaßen <seg type="symbol" subtype="4dots"/> Man scheint gar keinen Sinn für die Bedeutung<lb/>
+der blutigen Dinge gehabt zu haben und hielt alles nur für <seg type="insult">Pöbelunfug</seg> <seg type="symbol" subtype="4dots"/><lb/>
+<seg type="insult">Die ganze gedankenlose Zeit</seg> spiegelt sich in den ständig wiederkehrenden<lb/>
+Wendungen dieser Briefe: <foreign xml:lang="de-loc">»Die Täg’ hab ich ein Stuck g’seh’n.« »Da<lb/>
+hat ein Stubenmadel einen Witwer g’heirat’.«</foreign> »Neulich ist ein neues<lb/>
+Traktierhaus errichtet worden.«<lb/>
+</p>
+            <p ana="pr79258">
+<space/>Also es war alles wie heute, nur besser, weil es nicht<lb/>
+sagte, daß es anders sei. Das Publikum der sieben <rs type="pers">Kasperltheater</rs><lb/>
+</p>
+            <p ana="pr79258">
+hatte Kultur, da es die <rs type="event">französische Revolution</rs> für <seg type="insult">Pöbelunfug</seg><lb/>
+hielt. <seg type="insult">Das Publikum der sieben Operettentheater</seg> hat keine, wie<lb/>
+immer es zur <rs type="event">französischen Revolution</rs> stehe, der es sich verdankt.<lb/>
+Die <rs type="pers"><seg type="insult">Viganoschwärmerei</seg></rs> war eine Ablenkung vom <seg type="insult">Pöbelunfug</seg>.<lb/>
+Der <seg type="insult">Bürgerunfug</seg> lebt sich in der <rs type="pers" ana="n_56172" ref="#fk__p_49192"><seg type="insult">Treumannschwärmerei</seg></rs> aus, und<lb/>
+nur blutige Dinge werden von ihm ablenken können.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_54893">
+               <persName>Viganò, Maria, geb. Medina</persName>
+               <birth>
+                  <date>1765</date>
+               </birth>
+               <death>
+                  <date>1821</date>
+               </death>
+               <occupation>Tänzerin</occupation>
+               <note type="comment">verh. mit Salvatore Viganò (1769-1821), Choreograph von "Geschöpfe des Prometheus"</note>
+            </person>
+            <person xml:id="fk__p_49192">
+               <persName>Treumann, Louis</persName>
+               <birth>
+                  <date>1872-3-3</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1943-3-5</date>
+                  <place>Konzentrationslager Theresienstadt</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <occupation>Sänger</occupation>
+               <note type="comment">Tenor, Danilo der Urauff. der "Lustigen Witwe"</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10250</idno></person>
+            </listPerson></back></text>
+</TEI>

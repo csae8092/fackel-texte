@@ -1,0 +1,42 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06690.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06689.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06691.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Der kleine Korngold, in: Fackel Heft 15, Nr. 395, 1914, S. 55-55</title>
+            <title type="iso-date">1914-01-01</title>
+            <title type="id">tid_06690</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">15</title><title type="heft">395</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-15-395_n0055.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/395,055</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Der kleine Korngold</head>
+            <p ana="pr90289">
+ist gesund und hat die höchste Weihe erhalten. Daß er ein <seg type="insult">Genie</seg><lb/>
+und ein <seg type="insult">Phänomen</seg> ist, mit solchen Gemeinplätzen geben sich die<lb/>
+<seg type="insult">Kenner</seg> gar nicht mehr ab. Es ist ihm soeben von <seg type="insult">dem Vertreter für<lb/>
+Frankfurt</seg> »ein echt <rs type="pers" ana="n_61655" ref="#fk__p_42772">Korngoldisches Andante</rs>« nachgerühmt worden.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_42772">
+               <persName>Korngold, Erich Wolfgang</persName>
+               <birth>
+                  <date>1897-5-29</date>
+                  <place>Brünn</place>
+               </birth>
+               <death>
+                  <date>1957-11-29</date>
+                  <place>Hollywood</place>
+               </death>
+               <occupation>Komponist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11969</idno></person>
+            </listPerson></back></text>
+</TEI>

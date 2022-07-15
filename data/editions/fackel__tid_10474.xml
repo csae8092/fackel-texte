@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_10474.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10473.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10475.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Für die Schüler des Realgymnasiums (vormals Franzjosephsgymnasium, in: Fackel Heft 27, Nr. 717, 1926, S. 108-108</title>
+            <title type="iso-date">1926-04-01</title>
+            <title type="id">tid_10474</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">27</title><title type="heft">717</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-27-717_n0108.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/717,108</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Für die Schüler des Realgymnasiums (vormals Franzjosephsgymnasium</head>
+            <p ana="pr144175">
+<space/>Für die Schüler des <rs type="inst">Realgymnasiums (vormals Franzjosephsgymnasium<lb/>
+) Wien I. Stubenbastei 6—8</rs>.<lb/>
+</p>
+            <p ana="pr144176">
+<space/><rs type="inst">Festsaal des <abbr>N.-ö.</abbr> Gewerbevereines</rs>, <date>24. Februar</date>, 7 Uhr:<lb/>
+</p>
+            <p ana="pr144177">
+<space/>I. <rs type="pers" ana="n_87699" ref="#fk__p_43227"><seg type="spc">Raimund</seg></rs>: <rs type="title"><seg type="spc">Der Alpenkönig und der Menschenfeind<lb/>
+</seg></rs> I 7, 11 bis 21.<lb/>
+</p>
+            <p ana="pr144178">
+<space/>II. <rs type="pers" ana="n_87700" ref="#fk__p_46919"><seg type="spc">Nestroy</seg></rs>: <rs type="title"><seg type="spc">Das Notwendige und das Überflüssige<lb/>
+</seg></rs>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46919">
+               <persName>Nestroy, Johann Nepomuk</persName>
+               <birth>
+                  <date>1801-12-7</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1862-5-25</date>
+                  <place>Graz</place>
+               </death>
+               <occupation>Sänger</occupation>
+               <occupation>Schauspieler</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12338</idno></person>
+            <person xml:id="fk__p_43227">
+               <persName>Raimund, Ferdinand</persName>
+               <birth>
+                  <date>1790-6-1</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1836-9-5</date>
+                  <place>Pottenstein, Niederösterreich</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Ögg teilt die Valentin-Stelle 254/4 Nestroy zu</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12468</idno></person>
+            </listPerson></back></text>
+</TEI>

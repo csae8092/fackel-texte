@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_04301.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04300.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04302.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Dekorateur. (Ein englisches Urteil über die Wiener Kunstindustrie), in: Fackel Heft 08, Nr. 212, 1906, S. 24-25</title>
+            <title type="iso-date">1906-11-23</title>
+            <title type="id">tid_04301</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">08</title><title type="heft">212</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-08-212_n0024.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/212,024</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Dekorateur. (Ein englisches Urteil über die Wiener Kunstindustrie)</head>
+            <p ana="pr46807">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="name_203627" key="#fk__p_60713">Dekorateur</rs>.</seg></seg></seg> Ein unbezahltes Urteil über <seg type="insult">unsere Kunstindustrie</seg><lb/>
+in England. In der Londoner ‚<rs type="" ana="werk_14912">Tribune</rs>‘ veröffenlichte <rs type="pers" ana="n_37727" ref="#fk__p_55584">William Archer</rs><lb/>
+einige Artikel über Berliner Theaterwesen, die das ‚<rs type="paper" ana="werk_14913">Berliner Tageblatt</rs>‘<lb/>
+</p>
+            <p ana="pr46807">
+übersetzt hat. Über die Darstellung von Werken der <rs type="pers" ana="n_37728" ref="#fk__p_39112">Shaw</rs> und <rs type="pers" ana="n_37729" ref="#fk__p_50868">Wilde</rs><lb/>
+schreibt er: »Beide Stücke waren recht wirksam inszeniert; aber man<lb/>
+scheint sich in Berlin einzubilden, ‚<foreign xml:lang="fr">l’art nouveau</foreign>‘ stehe in England<lb/>
+in üppiger Blüte. Die Dekoration zu <rs type="pers">Lord Gorings</rs> Wohnung <seg type="spc">erinnerte<lb/>
+an die <seg type="insult">Musterzimmer eines Wiener Tapezierers in einer<lb/>
+internationalen Ausstellung</seg></seg>.«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_55584">
+               <persName>Archer, William</persName>
+               <birth>
+                  <date>1856-09-23</date>
+                  <place>Perth/Schottl.</place>
+               </birth>
+               <death>
+                  <date>1924-12-21</date>
+                  <place>London</place>
+               </death>
+               <occupation>Kritiker</occupation>
+            </person>
+            <person xml:id="fk__p_39112">
+               <persName>Shaw, George Bernard</persName>
+               <birth>
+                  <date>1856-7-26</date>
+                  <place>Dublin</place>
+               </birth>
+               <death>
+                  <date>1950-11-2</date>
+                  <place>Ayot St. Lawrence</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">226/21: Tanner, Katechismus des Umstürzlers, zu "Mensch und Übermensch"</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2381</idno></person>
+            <person xml:id="fk__p_50868">
+               <persName>Wilde, Oscar Fingal O'Flaherty Wills</persName>
+               <birth>
+                  <date>1854-10-16</date>
+                  <place>Dublin</place>
+               </birth>
+               <death>
+                  <date>1900-11-30</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Ögg gibt die Salome-Stelle 912/45 Richard Strauss</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_21325</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/13115</idno></person>
+            </listPerson></back></text>
+</TEI>

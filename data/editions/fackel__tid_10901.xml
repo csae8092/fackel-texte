@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_10901.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10900.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10902.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Vor hundert Jahren, in: Fackel Heft 29, Nr. 759, 1927, S. 19-20</title>
+            <title type="iso-date">1927-06-01</title>
+            <title type="id">tid_10901</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">29</title><title type="heft">759</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-29-759_n0019.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/759,019</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Vor hundert Jahren</head>
+            <p ana="pr152146">
+<space/><foreign xml:lang="en">Thursday, <date>April 19, 1827</date></foreign><lb/>
+</p>
+            <p ana="pr152147">
+<space/><foreign xml:lang="en">The file of carriages at the funeral of <rs type="pers" ana="n_90827" ref="#fk__p_49349">Beethoven</rs>, at Vienna, was<lb/>
+said to be endless. A little more attention to him on the part of the<lb/>
+owners, while living, would have been more to the purpose.</foreign><lb/>
+</p>
+            <p ana="pr152149">
+Auf deutsch:<lb/>
+</p>
+            <p ana="pr152151">
+<space/>Donnerstag, <date>19. April 1827</date><lb/>
+</p>
+            <p ana="pr152152">
+<space/>Die Reihe der Wagen beim Begräbnis <rs type="pers" ana="n_90828" ref="#fk__p_49349">Beethovens</rs>, in Wien, soll<lb/>
+endlos gewesen sein. Ein wenig mehr Aufmerksamkeit für ihn von<lb/>
+Seiten der Eigentümer, bei Lebzeiten, wäre entsprechender gewesen.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_49349">
+               <persName>Beethoven, Ludwig van</persName>
+               <birth>
+                  <date>1770-12-17</date>
+                  <place>Bonn</place>
+               </birth>
+               <death>
+                  <date>1827-3-26</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Komponist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10866</idno></person>
+            </listPerson></back></text>
+</TEI>

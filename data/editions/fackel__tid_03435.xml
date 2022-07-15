@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03435.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03434.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03436.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Das Heine-Grab, in: Fackel Heft 05, Nr. 152, 1904, S. 21-22</title>
+            <title type="iso-date">1904-01-16</title>
+            <title type="id">tid_03435</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">05</title><title type="heft">152</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-05-152_n0021.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/152,021</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Das Heine-Grab</head>
+            <p ana="pr34110">
+<space/><inciptit>Der</inciptit> <foreign xml:lang="fr">‚<rs type="paper" ana="werk_12691">Gaulois</rs>‘</foreign> hatte kürzlich die »Vernachlässigung<lb/>
+« von <rs type="pers" ana="n_29410" ref="#fk__p_45715">Heine’s</rs> Grab auf dem Montmartre<lb/>
+beklagt. Die ‚<rs type="paper" ana="werk_12692"><seg type="spc">Frankfurter Zeitung</seg></rs>‘ stellt nun<lb/>
+</p>
+            <p ana="pr34110">
+fest, daß der Blumenschmuck des Grabes regelmäßig<lb/>
+erneuert und gepflegt wird, fügt aber hinzu: »Daß<lb/>
+das Grab selbst heute nicht mehr den rührenden<lb/>
+Eindruck hervorbringt wie früher, — eine von vielen<lb/>
+Besuchern mit Bedauern empfundene Tatsache — ist<lb/>
+die Schuld <seg type="insult">der Wiener ‚Liberalen‘</seg>, die <seg type="insult">unter Führung<lb/>
+ihres Herrn <rs type="pers" ana="n_29411" ref="#fk__p_50712">Noske</rs></seg> eines Tages <rs type="pers" ana="n_29412" ref="#fk__p_45715">Heinrich Heine</rs> aus<lb/>
+politischen Gründen für sich entdecken zu müssen<lb/>
+glaubten und über das wehrlose schmale Dichtergrab<lb/>
+das protzige Marmordenkmal stürzten, mit dem der<lb/>
+Bildhauer Herr <rs type="pers" ana="n_29413" ref="#fk__p_45579">Hasselriis</rs> durch halb Europa, vom<lb/>
+Achilleion bis Paris, lange vergeblich hausieren<lb/>
+gegangen war.«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_45715">
+               <persName>Heine, Heinrich</persName>
+               <birth>
+                  <date>1797-12-13</date>
+                  <place>Düsseldorf</place>
+               </birth>
+               <death>
+                  <date>1856-2-17</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Journalist</occupation>
+               <note type="comment">Ögg separiert F 24/25 </note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11640</idno></person>
+            <person xml:id="fk__p_50712">
+               <persName>Noske, Constantin</persName>
+               <birth>
+                  <date>1848-10-28</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1920-3-10</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Versicherungsbeamter</occupation>
+               <occupation>Journalist</occupation>
+               <occupation>Politiker</occupation>
+               <note type="comment">Gen. Sekretär des Fabriken-Rückversicherungsverbandes, 1., Börsegasse 10</note>
+               <note type="comment">Le Figaro 25.07.1901, Seite 2 schreibt Constantin Doske</note>
+            </person>
+            <person xml:id="fk__p_45579">
+               <persName>Hasselriis, Louis</persName>
+               <birth>
+                  <date>1844-01-12</date>
+                  <place>Hilleröd/Seeland</place>
+               </birth>
+               <death>
+                  <date>1912-05-20</date>
+                  <place>Kopenhagen</place>
+               </death>
+               <occupation>Bildhauer</occupation>
+               <note type="comment">Schöpfer der Heinebüste auf dem Grab Montmartre</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

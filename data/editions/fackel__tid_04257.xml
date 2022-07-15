@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_04257.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04256.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04258.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Dichter. (Aus einem Saar-Nachruf), in: Fackel Heft 08, Nr. 208, 1906, S. 24-25</title>
+            <title type="iso-date">1906-10-4</title>
+            <title type="id">tid_04257</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">08</title><title type="heft">208</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-08-208_n0024.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/208,024</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Dichter. (Aus einem Saar-Nachruf)</head>
+            <p ana="pr45908">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="name_203644" ref="#fk__p_40429">Dichter</rs>.</seg></seg></seg> Das <seg type="insult">‚<rs type="paper" ana="werk_14810">Neue Wiener Journal</rs>‘</seg> <seg type="spc">schrieb</seg> über <rs type="pers" ana="n_37133" ref="#fk__p_43232">Ferdinand<lb/>
+<abbr>v.</abbr> Saar</rs>: »Er war sogar, was noch keinem Dichter widerfahren, ins<lb/>
+<rs type="inst">Herrenhaus</rs> berufen worden«. Da sieht man, wohin der Hang, <seg type="insult">Originalartikel<lb/>
+</seg> zu bringen, führt! Das fremde geistige Eigentum ist in allen<lb/>
+Fällen unanfechtbarer als das eigene. Daß <rs type="pers" ana="n_37134" ref="#fk__p_43482">Grillparzer</rs> <rs type="inst">Herrenhausmitglied</rs><lb/>
+war, das <rs type="pers" ana="n_37135" ref="#fk__p_46761">Vrchlicky</rs> es ist, hätte das ‚<rs type="paper" ana="werk_14811">Neue Wiener Journal</rs>‘ erfahren,<lb/>
+wenn es nicht den <seg type="insult">fatalen Ehrgeiz</seg> gehabt hätte, die <rs type="pers" ana="n_37136" ref="#fk__p_43232">Saar-Nachrufe</rs><lb/>
+<choice><sic>auderer</sic><corr>anderer</corr></choice> Blätter zu ignorieren. Mit Ehrlichkeit kommt man heutzutage<lb/>
+auf keinen grünen Zweig!<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46761">
+               <persName>Vrchlický, Jaroslav</persName>
+               <birth>
+                  <date>1853-2-17</date>
+                  <place>Laun</place>
+               </birth>
+               <death>
+                  <date>1912-9-9</date>
+                  <place>Taus</place>
+               </death>
+               <occupation>Literarhistoriker</occupation>
+               <occupation>Schriftsteller</occupation>
+            </person>
+            <person xml:id="fk__p_40429">
+               <persName>Dichter</persName>
+            </person>
+            <person xml:id="fk__p_43482">
+               <persName>Grillparzer, Franz</persName>
+               <birth>
+                  <date>1791-1-15</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1872-1-21</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Beamter</occupation>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Ögg teilt 912/23 Traum ein Leben Calderon zu</note>
+               <note type="comment">Ögg teilt irrt. 229/2, 305/50 zu</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11518</idno></person>
+            <person xml:id="fk__p_43232">
+               <persName>Saar, Ferdinand von</persName>
+               <birth>
+                  <date>1833-9-30</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1906-7-24</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12602</idno></person>
+            </listPerson></back></text>
+</TEI>

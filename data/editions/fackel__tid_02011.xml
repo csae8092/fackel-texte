@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02011.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02010.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02012.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">»Kaffeehaustratsch«, in: Fackel Heft 03, Nr. 085, 1901, S. 20-21</title>
+            <title type="iso-date">1901-11-16</title>
+            <title type="id">tid_02011</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">03</title><title type="heft">085</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-03-085_n0020.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/085,020</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>»Kaffeehaustratsch«</head>
+            <p ana="pr19684">
+<space/>Im Process <SPAN cont="Kraus-Bukovics"><rs type="pers" ana="n_16821" ref="#fk__p_47565">Kraus</rs>-<rs type="pers" ana="n_16822" ref="#fk__p_42599">Bukovics</rs></SPAN> erklärte der Director des<lb/>
+<rs type="inst">Deutschen Volkstheaters</rs>, von einem Contractbruch könne schon<lb/>
+darum keine Rede sein, weil <seg type="insult">Herrn <rs type="pers" ana="n_16823" ref="#fk__p_52576">Rudolph Holzers</rs></seg> Stück »aufgeführt<lb/>
+ werde«. Privatim versicherte <seg type="insult">Herr <rs type="pers" ana="n_16824" ref="#fk__p_52576">Holzer</rs></seg> (allerdings nur im<lb/>
+<seg type="insult">Kaffeehaustratsch</seg>), dass sein Stück <seg type="spc">ganz bestimmt</seg> für den<lb/>
+</p>
+            <p ana="pr19684">
+<date>27. September 1901</date> angesetzt sei. Was ist’s nun mit der Aufführung?<lb/>
+<seg type="insult">Herr <rs type="pers" ana="n_16825" ref="#fk__p_42599">Bukovics</rs></seg> wird doch nicht <seg type="insult">den im Gerichtssaal geschlossenen<lb/>
+Contract</seg> brechen, dessen Zeuge die ganze Oeffentlichkeit war?<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_52576">
+               <persName>Holzer, Rudolf</persName>
+               <birth>
+                  <date>1875-7-28</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1965-7-17</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Journalist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11771</idno></person>
+            <person xml:id="fk__p_47565">
+               <persName>Kraus, Karl</persName>
+               <birth>
+                  <date>1874-4-28</date>
+                  <place>Jicin, Böhmen</place>
+               </birth>
+               <death>
+                  <date>1936-6-12</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Publizist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11988</idno></person>
+            <person xml:id="fk__p_42599">
+               <persName>Bukovics-Kis-Alacska, Emerich von</persName>
+               <birth>
+                  <date>1844-2-28</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1905-7-4</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Theaterleiter</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

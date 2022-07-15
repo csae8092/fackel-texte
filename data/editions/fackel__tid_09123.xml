@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_09123.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09122.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09124.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Auf dem Programm (zu Claudius)), in: Fackel Heft 23, Nr. 588, 1922, S. 71-72</title>
+            <title type="iso-date">1922-03-01</title>
+            <title type="id">tid_09123</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">23</title><title type="heft">588</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-23-588_n0071.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/588,071</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Auf dem Programm (zu Claudius))</head>
+            <p ana="pr121556">
+<space/>Dieses unbekannte Sinngedicht ist kein Beispiel seiner<lb/>
+Lyrik, aber die Gelegenheit sei benützt, um mitzuteilen, daß bei<lb/>
+<rs type="inst"><rs type="pers" ana="n2_6824" ref="#fk__p_57872">Perthes</rs></rs> in Gotha, <rs type="pers" ana="n_74441" ref="#fk__p_49871">Claudius’</rs> Verwandten und erstem Verleger,<lb/>
+eine schöne Auswahl seiner Gedichte (in der nur leider durch<lb/>
+ein Versehen das im Nachwort gerühmte »<rs type="title">Kriegslied</rs>« fehlt),<lb/>
+mit entzückenden Familienbildern, kürzlich erschienen ist. Keiner<lb/>
+der Hörer sollte es unterlassen, dieses Buch zu erwerben. Eine<lb/>
+kleinere Auswahl aus dem <rs type="title">Wandsbecker Boten</rs> hat der <rs type="inst">Insel-Verlag</rs><lb/>
+herausgegeben; eine ziemlich vollständige Ausgabe — auch mit<lb/>
+Stücken, die in <rs type="pers" ana="n_74442" ref="#fk__p_49871">Claudius’</rs> <FERR id="ferr_48" fcorrID="fcorr_48" href="FK-24-595_n0052.xml" emID="em_48"><ERR fcorr="Sämtliche Werke"><rs type="title">Sämtliche Werke</rs>,</ERR></FERR> nicht aufgenommen<lb/>
+sind — der <rs type="inst">Verlag <rs type="pers" ana="n2_6825" ref="#fk__p_58142">Hesse</rs></rs>. Was könnte <seg type="insult">die deutsche Bildungslüge</seg><lb/>
+grimmiger entblößen als die Notwendigkeit, auf den größten<lb/>
+deutschen Lyriker aller Zeiten erst aufmerksam zu machen, und<lb/>
+die Unmöglichkeit, damit einen Eindruck auf jene zu erzielen,<lb/>
+die <seg type="insult">den <rs type="pers" ana="n_74443" ref="#fk__p_45715">Heinrich Heine</rs></seg> dafür halten — was eine Kultursatire<lb/>
+ergibt, die er auch nicht hätte schreiben können.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_45715">
+               <persName>Heine, Heinrich</persName>
+               <birth>
+                  <date>1797-12-13</date>
+                  <place>Düsseldorf</place>
+               </birth>
+               <death>
+                  <date>1856-2-17</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Journalist</occupation>
+               <note type="comment">Ögg separiert F 24/25 </note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11640</idno></person>
+            <person xml:id="fk__p_58142">
+               <persName>Hesse (Verlag)</persName>
+            </person>
+            <person xml:id="fk__p_49871">
+               <persName>Claudius, Matthias</persName>
+               <birth>
+                  <date>1740-08-15</date>
+                  <place>Rheinfeld/Holstein</place>
+               </birth>
+               <death>
+                  <date>1815-01-21</date>
+                  <place>Hamburg</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Enkel Hermann Claudius 19.10.1878-8.9.1980, Arbeiterlied "Mit uns zieht die neue Zeit"</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/39422</idno></person>
+            <person xml:id="fk__p_57872">
+               <persName>Perthes, F. A. (Verlag)</persName>
+               <note type="comment">Gotha</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

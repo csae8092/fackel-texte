@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_04995.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04994.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04996.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Ein Telegramm), in: Fackel Heft 11, Nr. 291, 1909, S. 21-21</title>
+            <title type="iso-date">1909-11-30</title>
+            <title type="id">tid_04995</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">11</title><title type="heft">291</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-11-291_n0021.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/291,021</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Ein Telegramm)</head>
+            <p ana="pr62610">
+<space/>Man kann schließlich auch die <choice><sic>lnhaltsangabe</sic><corr>Inhaltsangabe</corr></choice> von <rs type="title"><rs type="pers">Richard II.</rs></rs><lb/>
+telegraphieren.<lb/>
+</p>
+            <p ana="pr62612">
+<space/>Berlin, <date>13. November</date>. <rs type="pers" ana="n_46093" ref="#fk__p_47103">Josef Kainz</rs> setzte als <rs type="pers">Richard II.</rs> sein<lb/>
+Gastspiel im <rs type="inst">Königlichen Schauspielhause</rs> fort. Diese Tragödie, in der<lb/>
+<rs type="pers" ana="n_46094" ref="#fk__p_55589">Shakespeare</rs> so eindringlich auf die Hinfälligkeit aller irdischen Größe<lb/>
+hinweist, indem er zeigt, daß ein König, wenn man ihn seiner Macht<lb/>
+entkleidet, ein unglücklicher Mensch ist <seg type="symbol" subtype="3dots"/><lb/>
+</p>
+            <p ana="pr62614">
+<space/>Der Berliner Telegraphenbeamte wird schön gestaunt haben.<lb/>
+Er machte <seg type="insult">Herrn <rs type="pers" ana="n_46095" ref="#fk__p_51209">Paul Goldmann</rs></seg> darauf aufmerksam, daß im<lb/>
+Satz von dem seiner Macht entkleideten König die Pointe fehle,<lb/>
+nämlich die Fortsetzung: »während ein Moderner, selbst wenn<lb/>
+er einen Bettler sich in einen König verwandeln ließe, ihn<lb/>
+damit noch nicht zum glücklichen Menschen machen würde«.<lb/>
+Aber <rs type="pers" ana="n_46096" ref="#fk__p_51209">Paul Goldmann</rs> wehrte ab. Die ‚<rs type="paper" ana="werk_17114">Neue Freie Presse</rs>‘<lb/>
+habe bloß gewünscht, vor allen anderen Blättern den Inhalt von<lb/>
+<rs type="title"><rs type="pers">Richard II.</rs></rs> zu erfahren.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_55589">
+               <persName>Shakespeare, William</persName>
+               <birth>
+                  <date>1564-4-23?</date>
+                  <place>Stratford-upon-Avon</place>
+               </birth>
+               <death>
+                  <date>1616-4-23</date>
+                  <place>Stratford-upon-Avon</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2412</idno></person>
+            <person xml:id="fk__p_47103">
+               <persName>Kainz, Josef Gottfried Ignaz</persName>
+               <birth>
+                  <date>1858-1-2</date>
+                  <place>Wieselburg, Ungarn</place>
+               </birth>
+               <death>
+                  <date>1910-9-20</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <note type="comment"/>
+               <note type="comment">Handbuch österr. Autorinnen und Autoren jüd. Herkunft gibt an: urspr.. Kohn ???</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16646</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11851</idno></person>
+            <person xml:id="fk__p_51209">
+               <persName>Goldmann, Paul</persName>
+               <birth>
+                  <date>1865-1-31</date>
+                  <place>Breslau</place>
+               </birth>
+               <death>
+                  <date>1935-9-25</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11485</idno></person>
+            </listPerson></back></text>
+</TEI>

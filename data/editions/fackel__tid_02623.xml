@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02623.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02622.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02624.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Darwinist. (Die Entwicklung der Unarten), in: Fackel Heft 04, Nr. 113, 1902, S. 25-25</title>
+            <title type="iso-date">1902-08-26</title>
+            <title type="id">tid_02623</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">04</title><title type="heft">113</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-04-113_n0025.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/113,025</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Darwinist. (Die Entwicklung der Unarten)</head>
+            <p ana="pr25521">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="n_22084" ref="#fk__p_40265">Darwinist</rs>.</seg></seg></seg> <seg type="insult">Herr <rs type="pers" ana="n_22085" ref="#fk__p_52589">Lothar-Thomas</rs></seg> — er lebt, er ist da, es behielt<lb/>
+ihn nicht — schrieb neulich: »<seg type="spc">Man</seg> verliert in Tirol sogar die Unarten«.<lb/>
+Ja, <seg type="spc">hat</seg> man denn welche zu verlieren? Was sagt Hofrath <rs type="pers" ana="n_22086" ref="#fk__p_50717">Nothnagel</rs><lb/>
+zu <seg type="insult">solchen Verleugnern des Fundamentalsatzes</seg>? <seg type="symbol" subtype="3dots"/> Ich aber<lb/>
+glaube, daß trotz einem in Karersee oder Madonna di Campiglio<lb/>
+verbrachten <DATERANGE>Sommer</DATERANGE> es noch <seg type="insult">viele Leser der ‚<rs type="paper" ana="werk_8893">Neuen Freien Presse</rs>‘</seg> geben<lb/>
+wird, die sich mit der Serviette den Schweiß der Glatze abtrocknen,<lb/>
+bevor sie zur Mahlzeit übergehen, hierauf das Fleisch mit den Händen,<lb/>
+die Sauce mit dem Messer essen, lippenschmatzend das Ganze verdauen<lb/>
+und zähnezwitschernd den Rest genießen.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_50717">
+               <persName>Nothnagel, Hermann</persName>
+               <birth>
+                  <date>1841-9-28</date>
+                  <place>Alt-Lietze-Göricke, Brandenburg</place>
+               </birth>
+               <death>
+                  <date>1905-7-7</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Internist</occupation>
+               <note type="comment">Prof. Univ. Wien</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/9104</idno></person>
+            <person xml:id="fk__p_52589">
+               <persName>Lothar, Rudolph</persName>
+               <birth>
+                  <date>1865-2-23</date>
+                  <place>Pest</place>
+               </birth>
+               <death>
+                  <date>1943-10-2</date>
+                  <place>Budapest</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Kritiker</occupation>
+               <note type="comment">743/107 Hans Müller ist offenbar für Thomas reserviert</note>
+               <note type="comment">Die Metternich-Pastete. Ein appetitliches Lustspiel in 3 Gängen. Leipzig, 1917. 96 S</note>
+               <note type="comment">fordert einen Offenbach-Querschnitt (F 845/14, 857/114)</note>
+            </person>
+            <person xml:id="fk__p_40265">
+               <persName>Darwinist</persName>
+            </person>
+            </listPerson></back></text>
+</TEI>

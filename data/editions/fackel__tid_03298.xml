@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03298.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03297.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03299.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Antisemit. (Kondolenzen), in: Fackel Heft 05, Nr. 145, 1903, S. 32-32</title>
+            <title type="iso-date">1903-10-28</title>
+            <title type="id">tid_03298</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">05</title><title type="heft">145</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-05-145_n0032.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/145,032</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Antisemit. (Kondolenzen)</head>
+            <p ana="pr32539">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="n_28095" ref="#fk__p_38326">Antisemit</rs>.</seg></seg></seg> Geschäft ist <seg type="insult">Geschäft</seg>! Das ist <seg type="insult">der Lebensweisheit<lb/>
+letzter Schluß</seg>, und auch Nekrologe mögen in <seg type="insult">solch trostreiche Wahrheit<lb/>
+</seg> ausklingen. Das ‚<rs type="paper" ana="werk_12227">Deutsche Volksblatt</rs>‘ trauert um seinen verstorbenen<lb/>
+Administrator. Am <date>15. Oktober</date> sind alle Kondolenzen aufgezählt. Und<lb/>
+da findet man denn mitten unter <seg type="insult">den wütigsten Bezirksantisemiten</seg> die<lb/>
+Namen <rs type="pers" ana="n_28096" ref="#fk__p_56023">Danneberg</rs> und <rs type="pers" ana="n_28097" ref="#fk__p_49438">Dukes</rs>. Und noch dazu ohne Ausrufungszeichen.<lb/>
+<seg type="insult">Die Chefs zweier jüdischer Annoncenfirmen, trauernde Kommittenten<lb/>
+des ‚<rs type="paper" ana="werk_12228">Deutschen Volksblatts</rs>‘</seg> <seg type="symbol" subtype="3dots"/> Das Leben ist ein <seg type="insult">Inseratengeschäft</seg>; der<lb/>
+Tod gleicht alle Rechnung aus.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_49438">
+               <persName>Dukes, Max</persName>
+               <birth>
+                  <date>1850-6-5</date>
+                  <place>Kuchel/Ungarn</place>
+               </birth>
+               <death>
+                  <date>1915-4-7</date>
+                  <place>Wien</place>
+               </death>
+               <note type="comment">1., Wollzeile 9</note>
+               <note type="comment"/>
+            </person>
+            <person xml:id="fk__p_38326">
+               <persName>Antisemit</persName>
+            </person>
+            <person xml:id="fk__p_56023">
+               <persName>Danneberg, Jakob</persName>
+               <birth>
+                  <date>1851-2-23</date>
+                  <place>Budapest</place>
+               </birth>
+               <death>
+                  <date>1913-2-22</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Zeitungsherausgeber</occupation>
+               <note type="comment">1., Wollzeile 19</note>
+               <note type="comment">auch Zeuge im "Viktoria"-Prozeß, NFP 01.06.04 (Abend), Seite 4</note>
+               <note type="comment">Pschütt Karikaturen</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

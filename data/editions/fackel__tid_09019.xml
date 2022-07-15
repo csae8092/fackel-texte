@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_09019.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09018.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09020.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Er, in: Fackel Heft 23, Nr. 577, 1921, S. 66-67</title>
+            <title type="iso-date">1921-11-01</title>
+            <title type="id">tid_09019</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">23</title><title type="heft">577</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-23-577_n0066.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/577,066</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Er</head>
+            <lg>
+<l>Er trug ein Haupt, das ragte himmelan,</l>
+<l>daß es im Götterkreise wohne.</l>
+<l>Und keinem Gotte untertan,</l>
+<l>neigt <rs type="pers" ana="n_73889" ref="#fk__p_46960">Goethe</rs> sich zu einer Fürstenkrone.</l>
+</lg>
+            <lg>
+<l>Der zu den Müttern sich hinabgewagt,</l>
+<l>war auch um Ahnen noch beflissen;</l>
+<l>und was in Weimar blieb der Welt versagt,</l>
+<l>gab Gotha ihrem Genius zu wissen.</l>
+</lg>
+            <lg>
+<l>In seinem Geist konnt’ Höchstes nur geschehn,</l>
+<l>doch mocht’s ihn nach dem <seg type="insult">Allerhöchsten</seg> dürsten.</l>
+<l><rs type="pers" ana="n_73890" ref="#fk__p_49349">Beethoven</rs> ließ er gnädig stehn</l>
+<l>und drehte sich devot zu einem Fürsten.</l>
+</lg>
+            <lg>
+<l>Er war nach oben und nach oben</l>
+<l>ein immer strebender Vollender.</l>
+<l>Wie war die Welt von <rs type="pers" ana="n_73891" ref="#fk__p_46960">Goethes</rs> <rs type="title"><rs type="pers">Faust</rs></rs> erhoben!</l>
+<l>Und er von <rs type="title"><seg type="insult">Gothas Hofkalender</seg></rs>.</l>
+</lg>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_49349">
+               <persName>Beethoven, Ludwig van</persName>
+               <birth>
+                  <date>1770-12-17</date>
+                  <place>Bonn</place>
+               </birth>
+               <death>
+                  <date>1827-3-26</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Komponist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10866</idno></person>
+            <person xml:id="fk__p_46960">
+               <persName>Goethe, Johann Wolfgang von</persName>
+               <birth>
+                  <date>1749-8-28</date>
+                  <place>Frankfurt am Main</place>
+               </birth>
+               <death>
+                  <date>1832-3-22</date>
+                  <place>Weimar</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">890/142f.</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11461</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_08350.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08349.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08351.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Was ist der Unterschied zwischen Kühlmann und Czernin?, in: Fackel Heft 20, Nr. 484, 1918, S. 32-32</title>
+            <title type="iso-date">1918-10-01</title>
+            <title type="id">tid_08350</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">20</title><title type="heft">484</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-20-484_n0032.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/484,032</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Was ist der Unterschied zwischen Kühlmann und Czernin?</head>
+            <p ana="pr110175">
+<space/><seg type="insult"><rs type="pers" ana="n_68936" ref="#fk__p_48345">Kühlmann</rs>, der Inkonsequente</seg>, zieht eine Rede durch eine<lb/>
+andere Rede zurück. <rs type="pers" ana="n_68937" ref="#fk__p_44656">Czernin</rs> durch dieselbe!<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_48345">
+               <persName>Kühlmann, Richard von</persName>
+               <birth>
+                  <date>1873-05-03</date>
+                  <place>Konstantinopel</place>
+               </birth>
+               <death>
+                  <date>1948-02-6</date>
+                  <place>Ohlstadt/Murnau</place>
+               </death>
+               <occupation>Diplomat</occupation>
+               <occupation>Politiker</occupation>
+               <note type="comment">geadelt 1892</note>
+            </person>
+            <person xml:id="fk__p_44656">
+               <persName>Czernin-Chudenitz, Ottokar Theobald Graf </persName>
+               <birth>
+                  <date>1872-09-26</date>
+                  <place>Dimokur/Böhmen</place>
+               </birth>
+               <death>
+                  <date>1932-04-04</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <occupation>Diplomat</occupation>
+               <note type="comment"/>
+               <note type="comment">Sohn Theobald Peter Ottokar (Winař 29.4.1898 - Wien 14.5.1974)</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_14331</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/15184</idno></person>
+            </listPerson></back></text>
+</TEI>

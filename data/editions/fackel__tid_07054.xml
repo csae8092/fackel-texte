@@ -1,0 +1,120 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07054.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07053.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07055.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">1916, in: Fackel Heft 18, Nr. 418, 1916, S. 25-25</title>
+            <title type="iso-date">1916-04-01</title>
+            <title type="id">tid_07054</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">18</title><title type="heft">418</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-18-418_n0025.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/418,025</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>1916</head>
+            <p ana="pr95682">
+<space/>Im <rs type="inst"><rs type="pers" ana="n2_5632" ref="#fk__p_46949">Johann Strauß-Theater</rs></rs> erreichte die »<RS pers="Emmerich Kálmán"><rs type="title" ana="name_201997" ref="#fk__p_47437">Csardasfürstin</rs></RS>« die hundertfünfundzwanzigste<lb/>
+ Aufführung <seg type="symbol" subtype="4dots"/><lb/>
+</p>
+            <p ana="pr95683">
+<space/>Im <rs type="inst"><rs type="pers" ana="n2_5633" ref="#fk__p_57640">Carltheater</rs></rs> brachte es die Operette »<RS pers="Leo Fall"><rs type="title" ana="name_202007" ref="#fk__p_48736">Fürstenliebe</rs></RS>« zur fünfzigsten<lb/>
+ Aufführung <seg type="symbol" subtype="4dots"/><lb/>
+</p>
+            <p ana="pr95684">
+<space/>Im <rs type="inst">Bürgertheater</rs> wurde die <rs type="pers" ana="n_64217" ref="#fk__p_50864">Straus’sche Operette</rs> »<rs type="title">Liebeszauber</rs>«<lb/>
+zum fünfzigsten Male wiederholt <seg type="symbol" subtype="4dots"/><lb/>
+</p>
+            <p ana="pr95685">
+<space/>Das <rs type="inst">Lustspieltheater</rs> feierte die hundertste Aufführung der<lb/>
+»<RS pers="Oskar Steiner"><rs type="title" ana="name_202008" ref="#fk__p_60415">Prinzessin Revue</rs></RS>« <seg type="symbol" subtype="4dots"/><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46949">
+               <persName>Strauß, Johann jun.</persName>
+               <birth>
+                  <date>1825-10-25</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1899-6-3</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Komponist</occupation>
+               <occupation>Dirigent</occupation>
+               <note type="comment">261/15 zweifelhaft</note>
+               <note type="comment">368/22 Johann Strauß-Theater, 4., Favoritenstr. 8, ab 1931 Scala</note>
+            </person>
+            <person xml:id="fk__p_47437">
+               <persName>Kálmán, Emmerich</persName>
+               <birth>
+                  <date>1882-10-24</date>
+                  <place>Siófok am Plattensee</place>
+               </birth>
+               <death>
+                  <date>1953-10-30</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Komponist</occupation>
+               <note type="comment">mehrere Nennungen durch Titel: 418/102; 431/42; 445/64; 454/58</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12015</idno></person>
+            <person xml:id="fk__p_48736">
+               <persName>Fall, Leo</persName>
+               <birth>
+                  <date>1873-2-2</date>
+                  <place>Olmütz</place>
+               </birth>
+               <death>
+                  <date>1925-9-16</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Komponist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/7076</idno></person>
+            <person xml:id="fk__p_57640">
+               <persName>Carl, Carl</persName>
+               <birth>
+                  <date>1789-11-7</date>
+                  <place>Krakau</place>
+               </birth>
+               <death>
+                  <date>1854-8-14</date>
+                  <place>Bad Ischl</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <occupation>Regisseur</occupation>
+               <occupation>Theaterleiter</occupation>
+               <note type="comment">Ögg: Freiherr von Bernbrunn</note>
+            </person>
+            <person xml:id="fk__p_50864">
+               <persName>Straus, Oscar</persName>
+               <birth>
+                  <date>1870-3-6</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1954-1-11</date>
+                  <place>Bad Ischl</place>
+               </death>
+               <occupation>Komponist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12861</idno></person>
+            <person xml:id="fk__p_60415">
+               <persName>Steiner, Oskar</persName>
+               <birth>
+                  <date>1881-12-25</date>
+                  <place>Wien</place>
+               </birth>
+               <occupation>Kapellmeister</occupation>
+               <occupation>Komponist</occupation>
+               <note type="comment">"Prinzessin Revue", Operette, Text von Bruno Hardt</note>
+               <note type="comment">1., Kärntner Ring 2</note>
+               <note type="comment">Bjb 1913 Theater-Cabaret "Fledermaus"</note>
+               <note type="comment">Heute spielt der Uridil (Komp. mit Oskar Virag)</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

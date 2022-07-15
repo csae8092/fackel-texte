@@ -1,0 +1,46 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_10209.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10208.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10210.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Begleitmusik, in: Fackel Heft 27, Nr. 691, 1925, S. 60-60</title>
+            <title type="iso-date">1925-07-01</title>
+            <title type="id">tid_10209</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">27</title><title type="heft">691</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-27-691_n0060.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/691,060</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Begleitmusik</head>
+            <lg>
+<l>Bei »<rs type="title"><rs type="pers">Lumpazi</rs></rs>« im <rs type="inst">Burgtheater</rs> spielt</l>
+<l>das Orchester den <foreign xml:lang="de-loc">»<rs type="title">alten Drahrer</rs>«</foreign>.</l>
+<l>Das habe selbst ich als richtig gefühlt,</l>
+<l>der wahren Werte Bewahrer.</l>
+<l>Es war die Begleitung, ich fand sie gut,</l>
+<l>zu dem, was grad <rs type="pers" ana="n_85125" ref="#fk__p_46919">Nestroy</rs> im Grabe tut.</l>
+</lg>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46919">
+               <persName>Nestroy, Johann Nepomuk</persName>
+               <birth>
+                  <date>1801-12-7</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1862-5-25</date>
+                  <place>Graz</place>
+               </death>
+               <occupation>Sänger</occupation>
+               <occupation>Schauspieler</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12338</idno></person>
+            </listPerson></back></text>
+</TEI>

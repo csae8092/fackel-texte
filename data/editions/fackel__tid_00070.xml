@@ -1,0 +1,45 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00070.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00069.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00071.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">M. R., in: Fackel Heft 01, Nr. 004, 1899, S. 27-28</title>
+            <title type="iso-date">1899-05-01</title>
+            <title type="id">tid_00070</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">004</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-004_n0027.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/004,027</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>M. R.</head>
+            <p ana="pr845">
+<space/><seg type="sidehead"><rs type="pers" ana="n_728" key="#fk__p_59513"><seg type="i"><abbr>M. R.</abbr></seg></rs></seg> Gerne nehme ich zur Kenntnis, dass <seg type="insult">Herr <rs type="pers" ana="n_729" ref="#fk__p_54042"><abbr>v.</abbr> Taussig</rs></seg><lb/>
+die Generalversammlung der <rs type="inst"><abbr>österr.-ungar.</abbr> Staatseisenbahngesellschaft</rs><lb/>
+auch im »<rs type="magazine" ana="werk_225">Kikeriki</rs>« annoncieren lässt. Dazu würde eine Illustration<lb/>
+sehr hübsch passen, aber einer solchen hat <seg type="insult">Herr <rs type="pers" ana="n_730" ref="#fk__p_54042"><abbr>v.</abbr> Taussig</rs></seg> eben<lb/>
+durch das Inserat <seg type="ELIDASH">einmal</seg> für allemal vorgebeugt.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_54042">
+               <persName>Taussig, Theodor Ritter von</persName>
+               <birth>
+                  <date>1849-7-22</date>
+                  <place>Prag</place>
+               </birth>
+               <death>
+                  <date>1909-11-24</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Bankier</occupation>
+               <occupation>Industrieller</occupation>
+               <note type="comment">Gouverneur der Boden-Credit-Anstalt</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_20650</idno></person>
+            </listPerson></back></text>
+</TEI>

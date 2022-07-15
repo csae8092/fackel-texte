@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_08871.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08870.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08872.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Wie Direktor Bernau den König Philipp spielt), in: Fackel Heft 22, Nr. 557, 1921, S. 35-36</title>
+            <title type="iso-date">1921-01-01</title>
+            <title type="id">tid_08871</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">22</title><title type="heft">557</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-22-557_n0035.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/557,035</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Wie Direktor Bernau den König Philipp spielt)</head>
+            <p ana="pr117771">
+<space/><seg type="symbol" subtype="3dots"/> Direktor <rs type="pers" ana="n_72612" ref="#fk__p_39116">Bernau</rs> nimmt den König ganz grau in grau,<lb/>
+indem er die Figur gewissermaßen nur mit Bleistift zeichnet, und<lb/>
+entgeht durch diese Tat eines sehr sicheren künstlerischen Instinkts den<lb/>
+meisten Gefahren, die in dieser Rolle liegen. Er spielt mehr den<lb/>
+geprüften Familienvater als den Beherrscher zweier Weltteile, sein<lb/>
+Zorn und Schmerz ist mehr der eines gestrengen Handelsherrn, der<lb/>
+infolge der Einflüsterungen seines ersten Prokuristen <RS pers="Friedrich von Schiller"><rs type="pers" ana="name_202654" ref="#fk__p_43876">Alba</rs></RS> und seines<lb/>
+Hausarztes <RS pers="Friedrich von Schiller"><rs type="pers" ana="name_202655" ref="#fk__p_43876">Domingo</rs></RS> seiner Frau zu mißtrauen beginnt und dessen<lb/>
+Sohn die »<rs type="self" ana="werk_22582">Fackel</rs>« liest; aber auch diese <seg type="insult">Verbürgerlichung</seg> ließe sich<lb/>
+aus der Dichtung selbst rechtfertigen.<lb/>
+</p>
+            <p ana="pr117773">
+<space/>Und zwar hatte <RS pers="Friedrich von Schiller"><rs type="pers" ana="name_202656" ref="#fk__p_43876">Don Carlos</rs></RS> gerade jenes Heft der <rs type="self" ana="werk_22583">Fackel</rs><lb/>
+in die Hand bekommen, in dem nachgewiesen war, daß <seg type="insult">Herr<lb/>
+<rs type="pers" ana="n_72613" ref="#fk__p_42358">Friedell</rs></seg> auch dann ein <seg type="insult">Humorist</seg> ist, wenn er nicht will.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_39116">
+               <persName>Bernau, Alfred</persName>
+               <birth>
+                  <date>1879-3-6</date>
+                  <place>Engers, Neuwied</place>
+               </birth>
+               <death>
+                  <date>1950-8-20</date>
+                  <place>St. Wolfgang</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <occupation>Theaterleiter</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/4040</idno></person>
+            <person xml:id="fk__p_42358">
+               <persName>Friedell, Egon</persName>
+               <birth>
+                  <date>1878-01-21</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1938-03-16</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Kulturhistoriker</occupation>
+               <occupation>Kabarettist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2771</idno></person>
+            <person xml:id="fk__p_43876">
+               <persName>Schiller, Friedrich von</persName>
+               <birth>
+                  <date>1759-11-10</date>
+                  <place>Marbach am Neckar</place>
+               </birth>
+               <death>
+                  <date>1805-5-9</date>
+                  <place>Weimar</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Mortimer 363/9, 679/69, 912/7 und 912/58 ist von Ögg Shakespeare zugeordnet</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12654</idno></person>
+            </listPerson></back></text>
+</TEI>

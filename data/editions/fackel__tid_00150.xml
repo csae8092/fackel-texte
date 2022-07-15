@@ -1,0 +1,40 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00150.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00149.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00151.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Melanie F., in: Fackel Heft 01, Nr. 007, 1899, S. 20-20</title>
+            <title type="iso-date">1899-06-01</title>
+            <title type="id">tid_00150</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">007</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-007_n0020.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/007,020</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Melanie F.</head>
+            <p ana="pr1530">
+<space/><seg type="sidehead"><rs type="pers" ana="n_1119" key="#fk__p_50059"><seg type="i">Melanie <abbr>F.</abbr></seg></rs></seg> Die <rs type="paper" ana="werk_412">Neue Freie Presse</rs> konnte doch nicht den<lb/>
+Ueberfall auf <rs type="pers" ana="n_1120" ref="#fk__p_42630"><seg type="spc">Loubet</seg></rs> todtschweigen!?<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_42630">
+               <persName>Loubet, Émile</persName>
+               <birth>
+                  <date>1838-12-31</date>
+                  <place>Marsanne</place>
+               </birth>
+               <death>
+                  <date>1929-12-20</date>
+                  <place>Montélimar</place>
+               </death>
+               <occupation>Politiker</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

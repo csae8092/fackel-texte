@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_10031.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10030.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10032.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Zu der Notiz „Die dreifache Zuverlässigkeit des Herrn Robert“, Nr. 668-675, Seite 49), in: Fackel Heft 26, Nr. 676, 1925, S. 41-41</title>
+            <title type="iso-date">1925-01-01</title>
+            <title type="id">tid_10031</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">26</title><title type="heft">676</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-26-676_n0041.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/676,041</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Zu der Notiz „Die dreifache Zuverlässigkeit des Herrn Robert“, Nr. 668-675, Seite 49)</head>
+            <p ana="pr136402">
+<space/>Dem <seg ana="letzten Heft"/> war die folgende Notiz beigeschlossen:<lb/>
+</p>
+            <p ana="pr136404">
+<space/>Zu <abbr>S.</abbr> 49:<lb/>
+</p>
+            <p ana="pr136405">
+<space/>Nach Fertigstellung des <rs type="selfRef" ana="werk_26440">Heftes</rs> wurde der Verlag der <rs type="self" ana="werk_26441">Fackel</rs><lb/>
+vom Vertreter der Klage gegen <seg type="insult">Herrn <rs type="pers" ana="n_83819" ref="#fk__p_40966">Robert</rs></seg> verständigt, daß<lb/>
+dieser nach Einleitung des Exekutionsverfahrens, also unmittelbar<lb/>
+bevor die Pfändung des Pachtschillings seiner beiden Wiener<lb/>
+Unterpächter erfolgt wäre, sich entschlossen hat, den dem Autor<lb/>
+von »<rs type="title">Traumtheater</rs>« und »<rs type="title">Traumstück</rs>« gerichtlich zugesprochenen<lb/>
+Tantiemenbetrag K 9,716.100 nebst den bis zum Zahlungstag<lb/>
+erwachsenen 10% Zinsen (vom <DATERANGE>7. Mai bis 5. Dezember</DATERANGE>) K 579.600<lb/>
+und den Kosten K 1,261.000, die vom Klagevertreter <rs type="pers" ana="n_83820" ref="#fk__p_41596"><abbr>Dr.</abbr> Oskar Samek</rs><lb/>
+dem gleichen wohltätigen Zweck gewidmet sind, zu bezahlen,<lb/>
+insgesamt (außer den advokatorischen Barauslagen) den Betrag<lb/>
+von K 11,556.700, der inzwischen auch erlegt und der Sammelstelle<lb/>
+für die Hinterbliebenen der Opfer des <rs type="event">Gloggnitzer Bergwerkunglücks<lb/>
+</rs> zugeführt wurde.<lb/>
+</p>
+            <p ana="pr136406">
+<space/>Demnach auf <abbr>S.</abbr> 54:<lb/>
+</p>
+            <p ana="pr136407">
+<space/>Gesamtsumme seit <DATERANGE>Mitte Juli 1922</DATERANGE>: K 192,100.207.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_41596">
+               <persName>Samek, Oskar</persName>
+               <birth>
+                  <date>1889-1-31</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1959-1-28</date>
+                  <place>New York</place>
+               </death>
+               <occupation>Rechtsanwalt</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38909</idno></person>
+            <person xml:id="fk__p_40966">
+               <persName>Robert, Eugen</persName>
+               <birth>
+                  <date>1877-7-23</date>
+                  <place>Budapest</place>
+               </birth>
+               <death>
+                  <date>1944-12-21</date>
+                  <place>London</place>
+               </death>
+               <occupation>Kritiker</occupation>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Theaterleiter</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12537</idno></person>
+            </listPerson></back></text>
+</TEI>

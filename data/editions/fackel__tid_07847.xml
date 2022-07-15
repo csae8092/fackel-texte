@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07847.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07846.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07848.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Eine Zuschrift Carl Einsteins), in: Fackel Heft 19, Nr. 457, 1234, S. 61-61</title>
+            <title type="iso-date">1234-01-01</title>
+            <title type="id">tid_07847</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">19</title><title type="heft">457</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-19-457_n0061.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/457,061</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Eine Zuschrift Carl Einsteins)</head>
+            <p ana="pr105142">
+Brüssel. Zivilverwaltung. <date>6. 4. 17.</date><lb/>
+Kolonialverwaltung.<lb/>
+</p>
+            <p ana="pr105143">
+An den Verlag der <rs type="self" ana="werk_21148">Fackel</rs>.<lb/>
+</p>
+            <p ana="pr105144">
+<space/>In <rs type="selfRef" ana="werk_21149"><abbr>Nr.</abbr> 454/456</rs> Ihrer <rs type="selfRef" ana="werk_21150">Druckschrift</rs> vom <date>1. April 1917</date> ist mein<lb/>
+Gedicht »<rs type="title">Tötlicher Baum</rs>« abgedruckt. Der Nachdruck geschah ohne<lb/>
+Quellenangabe und widerrechtlich. Ich fordere Sie hierdurch auf mir<lb/>
+ein Honorar von Mk 40.— zuzusenden innerhalb von 8 Tagen.<lb/>
+</p>
+            <p ana="pr105145">
+Hochachtend<lb/>
+</p>
+            <p ana="pr105146">
+<rs type="pers" ana="n_67297" ref="#fk__p_39741"><AUCTOR>Carl Einstein</AUCTOR></rs>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_39741">
+               <persName>Einstein, Carl</persName>
+               <birth>
+                  <date>1885-4-26</date>
+                  <place>Neuwied</place>
+               </birth>
+               <death>
+                  <date>1940-7-5</date>
+                  <place>Lestelle-Betharram/Pau</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

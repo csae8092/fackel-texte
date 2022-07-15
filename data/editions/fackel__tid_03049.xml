@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03049.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03048.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03050.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Portier. (Ein Meinungsreisender), in: Fackel Heft 04, Nr. 134, 1903, S. 31-32</title>
+            <title type="iso-date">1903-04-6</title>
+            <title type="id">tid_03049</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">04</title><title type="heft">134</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-04-134_n0031.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/134,031</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Portier. (Ein Meinungsreisender)</head>
+            <p ana="pr30031">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_26016" key="#fk__p_51628">Portier</rs>.</seg></seg> <seg type="insult">Der kleine schwarze Herr mit der Actentasche</seg> lässt<lb/>
+sich nicht abweisen? Er habe den in Ihrem Hause wohnenden Archaeologen<lb/>
+</p>
+            <p ana="pr30031">
+ über die Tiara des <rs type="pers" ana="n_26017" ref="#fk__p_52692">Saitaphernes</rs>, die Tänzerin über griechische<lb/>
+Vasen, den Industriellen über den Export nach Japan und den Dichter<lb/>
+über seine Weltanschauung zu befragen? Mit <seg type="insult">Meinungsreisenden</seg> muß<lb/>
+man höflicher sein als mit <seg type="insult">Weinreisenden</seg>, mein Herr! Sie haben es<lb/>
+mit einem <seg type="insult">Manne</seg> zu thun, der nicht nur <seg type="insult">auf dem Wiener Platze</seg> bestens<lb/>
+accreditiert ist, sondern neulich erst in Triest und in Brünn gut abgeschlossen<lb/>
+ hat. <seg type="insult">Das bescheidene Metier des Mannes</seg> darf Sie nicht über<lb/>
+<seg type="insult">seine wahre Bedeutung</seg> täuschen. Gewiss, in Brünn interviewt er Herrn<lb/>
+<rs type="pers" ana="n_26018" key="#fk__p_60278">Löw-Beer</rs>, aber in Italien vergleicht man ihn mit <rs type="pers" ana="n_26019" ref="#fk__p_55589">Shakespeare</rs>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_55589">
+               <persName>Shakespeare, William</persName>
+               <birth>
+                  <date>1564-4-23?</date>
+                  <place>Stratford-upon-Avon</place>
+               </birth>
+               <death>
+                  <date>1616-4-23</date>
+                  <place>Stratford-upon-Avon</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2412</idno></person>
+            <person xml:id="fk__p_52692">
+               <persName>Saitaphernes</persName>
+               <occupation>König</occupation>
+               <note type="comment">die Tiara des Saitaphernes; Fälschungs-Skandal des Louvre März 1903</note>
+               <note type="comment">der Skythen</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

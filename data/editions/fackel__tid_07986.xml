@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07986.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07985.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07987.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Der redigierte Weltkrieg, in: Fackel Heft 19, Nr. 462, 1917, S. 105-105</title>
+            <title type="iso-date">1917-10-01</title>
+            <title type="id">tid_07986</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">19</title><title type="heft">462</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-19-462_n0105.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/462,105</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Der redigierte Weltkrieg</head>
+            <p ana="pr106698">
+<space/>* (<seg type="spc">300,000 Tonnen versenkt</seg>! Meine U-Boot-Fahrten,<lb/>
+von Kapitänleutnant <rs type="pers" ana="n_67904" ref="#fk__p_49982">Max Valentiner</rs>, Kommandant von »U 38«.<lb/>
+<rs type="inst">Verlag <rs type="pers" ana="n2_6012" ref="#fk__p_54369">Ullstein</rs> <abbr>u.</abbr> <abbr>Comp.</abbr></rs> Berlin-Wien.) Kapitänleutnant <rs type="pers" ana="n_67905" ref="#fk__p_49982">Max Valentiner</rs>,<lb/>
+der Führer von »U 38«, hat 300,000 Tonnen versenkt. Als diese<lb/>
+Rekordziffer, die ihm den Orden <foreign xml:lang="fr">»Pour le mérite«</foreign> einbrachte, erreicht<lb/>
+war, wurde ihm eine Pause gegönnt. Er benützte diese wohlverdiente<lb/>
+Rast dazu, um — —<lb/>
+</p>
+            <p ana="pr106702">
+<rs type="event"><seg type="spc">Zehnte Isonzoschlacht</seg></rs>. Wird vom <rs type="inst">Kriegspressequartier</rs><lb/>
+veranstaltet; <choice><sic>vieleicht</sic><corr>vielleicht</corr></choice> wenden Sie sich an dieses oder an den<lb/>
+<rs type="inst">Reichskinoverein</rs>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_54369">
+               <persName>Ullstein (Verlag)</persName>
+            </person>
+            <person xml:id="fk__p_49982">
+               <persName>Valentiner, Max</persName>
+               <birth>
+                  <date>1883-12-15</date>
+                  <place>Tondern/Schleswig-Holstein</place>
+               </birth>
+               <death>
+                  <date>1949-7-19</date>
+                  <place>Sonderborg</place>
+               </death>
+               <occupation>Marineoffizier</occupation>
+               <note type="comment">U-Boot-Kapitän "U 38"</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

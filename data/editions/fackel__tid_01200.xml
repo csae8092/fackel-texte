@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01200.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01199.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01201.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Die Productivität des Herrn Brandes.), in: Fackel Heft 02, Nr. 051, 1900, S. 24-25</title>
+            <title type="iso-date">1900-08-01</title>
+            <title type="id">tid_01200</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">051</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-051_n0024.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/051,024</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Die Productivität des Herrn Brandes.)</head>
+            <p ana="pr11549">
+<space/><inciptit>Vor</inciptit> ungefähr zwei Jahren wurde in Lemberg das<lb/>
+<rs type="pers" ana="n_9418" ref="#fk__p_53405"><choice><sic>Sobiesky-Denkmal</sic><corr>Sobieski-Denkmal</corr></choice></rs> enthüllt, eine Feier, zu der auch<lb/>
+<seg type="insult">Herr <rs type="pers" ana="n_9419" ref="#fk__p_44279">Georg <seg type="spc">Brandes</seg></rs></seg> eingeladen wurde. Dort hielt<lb/>
+er einen Vortrag in französischer Sprache »<rs type="title"><seg type="spc">Ueber<lb/>
+das Lesen</seg></rs>«. Am nächsten Tage las ich »<rs type="title">Ueber das<lb/>
+Lesen</rs>« in den polnischen Blättern. Einige Wochen<lb/>
+später las ich den Vortrag in einer <rs type="magazineRef" ana="werk_41139">Berliner Wochenschrift<lb/>
+</rs> deutsch. Vor einigen Monaten hielt <seg type="insult">Herr <rs type="pers" ana="n_9420" ref="#fk__p_44279">Brandes</rs></seg><lb/>
+in der Wiener »<rs type="inst">Concordia</rs>« einen Vortrag »<rs type="title">Ueber das<lb/>
+Lesen</rs><choice><sic>.</sic><corr>«</corr></choice> Inhalt: derselbe. Am nächsten Tage Auszüge aus<lb/>
+dem »<rs type="title">Lesen</rs>« in allen Wiener Zeitungen. Einige Tage<lb/>
+später hielt <seg type="insult">Herr <rs type="pers" ana="n_9421" ref="#fk__p_44279">Brandes</rs></seg> in Pest einen Vortrag »<rs type="title">über<lb/>
+das Lesen</rs>«. Tags darauf Abdruck in ungarischen und<lb/>
+deutschen Pester Blättern. Dann brachte die ‚<rs type="paper" ana="werk_3523">Neue<lb/>
+Freie Presse</rs>‘ — ich glaube im <date>Februar</date> — ein Feuilleton<lb/>
+von <rs type="pers" ana="n_9422" ref="#fk__p_44279">Georg Brandes</rs> »<rs type="title">Ueber das Lesen</rs>«. Jetzt hatte ich<lb/>
+schon ziemlich oft »<rs type="title">über das Lesen</rs>« gelesen. Die Welt<lb/>
+ist aber groß. Kopenhagen, Stockholm, Paris sind auch<lb/>
+nicht von Pappe. Wahrscheinlich hat <seg type="insult">Herr <rs type="pers" ana="n_9423" ref="#fk__p_44279">Brandes</rs></seg><lb/>
+auch in anderen Städten denselben Vortrag gehalten,<lb/>
+eventuell in Zeitungen veröffentlicht und Entrées und<lb/>
+Honorare x-mal bezogen.<lb/>
+</p>
+            <p ana="pr11550">
+<space/>Als ich am <date>15. August</date> die ‚<rs type="paper" ana="werk_3524">Neue Freie Presse</rs>‘<lb/>
+zur Hand nahm, wollte ich meinen Augen nicht<lb/>
+trauen. Innerhalb eines halben Jahres in einem und<lb/>
+demselben <rs type="paperRef" ana="werk_3525">Blatte</rs> ein und dasselbe Feuilleton <seg type="spc">zweimal<lb/>
+</seg>. Der Titel des Feuilletons lautete: »<rs type="title">Ueber das<lb/>
+Lesen</rs>« von <rs type="pers" ana="n_9424" ref="#fk__p_44279">Georg Brandes</rs>. <rs type="pers" ana="n_9425" ref="#fk__p_42412"><AUCTOR>Ein Leser</AUCTOR></rs>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_53405">
+               <persName>Johann III. Sobieski, König von Polen</persName>
+               <birth>
+                  <date>1629-8-17</date>
+               </birth>
+               <death>
+                  <date>1696-6-17</date>
+                  <place>Wilanów</place>
+               </death>
+               <occupation>König</occupation>
+            </person>
+            <person xml:id="fk__p_42412">
+               <persName>Ein Leser</persName>
+            </person>
+            <person xml:id="fk__p_44279">
+               <persName>Brandes, Georg</persName>
+               <birth>
+                  <date>1842-2-4</date>
+                  <place>Kopenhagen</place>
+               </birth>
+               <death>
+                  <date>1927-2-19</date>
+                  <place>Kopenhagen</place>
+               </death>
+               <occupation>Literarhistoriker</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10992</idno></person>
+            </listPerson></back></text>
+</TEI>

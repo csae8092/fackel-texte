@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07088.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07087.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07089.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Vorlesung), in: Fackel Heft 18, Nr. 418, 1916, S. 53-54</title>
+            <title type="iso-date">1916-04-01</title>
+            <title type="id">tid_07088</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">18</title><title type="heft">418</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-18-418_n0053.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/418,053</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Vorlesung)</head>
+            <p ana="pr96034">
+<space/>Vorlesung im <rs type="inst">Kleinen Musikvereinssaal</rs>, <date>21. Dezember</date>: I. Vorwort<lb/>
+(<rs type="title"><seg type="insult">Ein Irrsinniger auf dem Einspännergaul</seg></rs>) / <rs type="title"><seg type="insult">Schmückedeinheim</seg></rs> / <rs type="title"><seg type="insult">Aus<lb/>
+großer Zeit</seg></rs> / <rs type="title">Aphorismen</rs> / <rs type="title"><seg type="insult">Hopsdoderoh</seg></rs> / <seg type="insult">»<rs type="title">Drückeberger in Frankreich</rs>«</seg><lb/>
+<abbr>u. s. w.</abbr> / <rs type="title"><seg type="insult">Die Freigelassenen</seg></rs> / <rs type="title">Hier wird deutsch gespuckt</rs> / <rs type="title">Aus<lb/>
+<rs type="pers" ana="n2_5640" ref="#fk__p_38501">Schopenhauer</rs></rs> / <rs type="title"><seg type="insult"><rs type="pers">Diana-Kriegs-Schokolade</rs></seg></rs> / <rs type="title">Kinder und Vögel sagen die<lb/>
+Wahrheit</rs> / <rs type="title">Wiese im Park</rs> / <rs type="title">Abschied und Wiederkehr</rs> / <rs type="title"><rs type="pers" ana="n2_5641" ref="#fk__p_37842">Sonnenthal</rs></rs> /<lb/>
+<rs type="title">Elegie auf den Tod eines Lautes</rs>. II. <rs type="title">Dialog der Geschlechter</rs> / <rs type="title"><seg type="insult"><SPAN norm="Extraausgabe">Eeextraausgabeee<lb/>
+</SPAN> —!</seg> — Schweigen, Wort und Tat</rs>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_38501">
+               <persName>Schopenhauer, Arthur</persName>
+               <birth>
+                  <date>1788-2-22</date>
+                  <place>Danzig</place>
+               </birth>
+               <death>
+                  <date>1860-9-21</date>
+                  <place>Frankfurt am Main</place>
+               </death>
+               <occupation>Philosoph</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/5787</idno></person>
+            <person xml:id="fk__p_37842">
+               <persName>Sonnenthal, Adolf Ritter von</persName>
+               <birth>
+                  <date>1834-12-21</date>
+                  <place>Pest</place>
+               </birth>
+               <death>
+                  <date>1909-4-4</date>
+                  <place>in der Eisenbahn von Prag nach Wien</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <note type="comment">Schwester: Emma Wertheimer, gest. Wien 04.09.1929, im 86. Lj.</note>
+               <note type="comment">Schwester: Laura Lemberger, gest. Wien 23.04.1907, im 71. Lj.</note>
+               <note type="comment">seit 1856 am Burgtheater</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_20204</idno></person>
+            </listPerson></back></text>
+</TEI>

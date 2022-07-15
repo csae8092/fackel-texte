@@ -1,0 +1,47 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03213.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03212.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03214.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Commis voyageur. (Herr Löwy beim Großvezier), in: Fackel Heft 05, Nr. 141, 1903, S. 23-23</title>
+            <title type="iso-date">1903-06-20</title>
+            <title type="id">tid_03213</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">05</title><title type="heft">141</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-05-141_n0023.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/141,023</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Commis voyageur. (Herr Löwy beim Großvezier)</head>
+            <p ana="pr31535">
+<space/><seg type="sidehead"><seg type="insult"><foreign xml:lang="fr"><seg type="i"><rs type="pers" ana="n_27326" ref="#fk__p_40055">Commis voyageur</rs>.</seg></foreign></seg></seg> <seg type="insult">Herr <rs type="pers" ana="n_27327" ref="#fk__p_47268">Julius Löwy</rs></seg> hat sich auf <seg type="insult">seiner gefahrvollen<lb/>
+ Tournée</seg> bis nach Konstantinopel vorgedrängt und wurde allsogleich<lb/>
+ vom Großvezier empfangen. Er berichtet darüber (‚<rs type="paper" ana="werk_11876">Neue Freie<lb/>
+Presse</rs>‘, <date>14. Juni</date>): »Der Großvezier erkundigte sich bei mir, wielange<lb/>
+ich im Lande sei und <seg type="spc">wann ich abfahre</seg>«.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_40055">
+               <persName>Commis voyageur</persName>
+            </person>
+            <person xml:id="fk__p_47268">
+               <persName>Löwy, Julius</persName>
+               <birth>
+                  <date>1851-09-14</date>
+                  <place>Eidlitz/Böhm.</place>
+               </birth>
+               <death>
+                  <date>1905-12-27</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/3300</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,41 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_11943.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11942.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11944.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">»Wacker gegen Nicholson«, in: Fackel Heft 33, Nr. 857, 1931, S. 125-125</title>
+            <title type="iso-date">1931-08-01</title>
+            <title type="id">tid_11943</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">33</title><title type="heft">857</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-33-857_n0125.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/857,125</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>»Wacker gegen Nicholson«</head>
+            <p ana="pr172829">
+geht eher als <rs type="pers"><seg type="insult">Wacker</seg></rs> gegen <rs type="pers" ana="n_103190" ref="#fk__p_45823">Henderson</rs>. Doch da <seg type="insult">unsere Fußfaller<lb/>
+</seg> die besten sind, so schaffen wir’s eben.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_45823">
+               <persName>Henderson, Arthur</persName>
+               <birth>
+                  <date>1863-09-13</date>
+                  <place>Glasgow</place>
+               </birth>
+               <death>
+                  <date>1935-10-20</date>
+                  <place>London</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <note type="comment">http://nobelprize.org</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

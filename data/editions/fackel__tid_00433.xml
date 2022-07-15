@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00433.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00432.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00434.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">H. F., in: Fackel Heft 01, Nr. 017, 1899, S. 31-31</title>
+            <title type="iso-date">1899-09-01</title>
+            <title type="id">tid_00433</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">017</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-017_n0031.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/017,031</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>H. F.</head>
+            <p ana="pr3923">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_2842" key="#fk__p_45257"><abbr>H. F.</abbr></rs></seg></seg> Sie theilen mir einige drastische Facten mit, die das in<lb/>
+<rs type="selfRef" ana="werk_1014"><abbr>Nr.</abbr> 16</rs> über den historischen Gymnasialunterricht Gesagte bekräftigen.<lb/>
+Es streift schon an ‚<rs type="magazine" ana="werk_1015">Simplicissimus</rs>‘, wenn <seg type="insult">ein loyaler Geschichtsprofessor<lb/>
+</seg>, der von <seg type="insult">Größenwahn für sich und Oesterreich</seg> erfüllt ist,<lb/>
+ein Wort wie das von Ihnen citierte sich entschlüpfen lässt. »In<lb/>
+einer Geschichtsstunde ist von <rs type="pers" ana="n_2843" ref="#fk__p_43818">Friedrich II.</rs> von Preußen die Rede.<lb/>
+Einer wagt es, ihn ‚den Großen‘ zu nennen. Doch da richtet sich<lb/>
+<seg type="insult">der Herr Professor</seg> kerzengerade auf und spricht mit einer Stimme,<lb/>
+die von <seg type="insult">patriotischem Schmerz</seg> vibriert, die geflügelten Worte: ‚Habe<lb/>
+ich recht gehört? <rs type="pers" ana="n_2844" ref="#fk__p_43818">Friedrich der Große</rs>, wie? <seg type="spc">Den Mann kenne</seg><lb/>
+<seg type="spc">ich nicht</seg>. Sie meinen wohl <seg type="insult"><rs type="pers" ana="n_2845" ref="#fk__p_43818">Friedrich</rs> von Preußen</seg>? Wir Oesterreicher<lb/>
+ haben keinen Grund, ihn den ‚Großen‘ zu nennen. Bedenken<lb/>
+Sie nur, wie viel Thränen er unserer großen Kaiserin <rs type="pers" ana="n_2846" ref="#fk__p_49668">Maria Theresia</rs><lb/>
+<seg type="spc">ausgepresst</seg> hat.‘«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_43818">
+               <persName>Friedrich II., der Große, König von Preußen</persName>
+               <birth>
+                  <date>1712-1-24</date>
+                  <place>Berlin</place>
+               </birth>
+               <death>
+                  <date>1786-8-17</date>
+                  <place>Sanssouci bei Potsdam</place>
+               </death>
+               <occupation>König</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15240</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/16680</idno></person>
+            <person xml:id="fk__p_49668">
+               <persName>Maria Theresia </persName>
+               <death>
+                  <date>1780-11-29</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Königin</occupation>
+               <occupation>Kaiserin</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/4255</idno></person>
+            </listPerson></back></text>
+</TEI>

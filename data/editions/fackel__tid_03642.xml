@@ -1,0 +1,109 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03642.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03641.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03643.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ein Berufswechsel, in: Fackel Heft 06, Nr. 164, 1904, S. 15-16</title>
+            <title type="iso-date">1904-06-11</title>
+            <title type="id">tid_03642</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">06</title><title type="heft">164</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-06-164_n0015.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/164,015</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ein Berufswechsel</head>
+            <p ana="pr36273">
+<space/><inciptit>Aus</inciptit> Berlin wird gemeldet: »Der Berliner Schriftsteller<lb/>
+<rs type="pers" ana="n_31146" ref="#fk__p_52201">Richard Skowronnek</rs>, der sich als dramatischer Autor und als<lb/>
+Verfasser von masurischen Dorfgeschichten einen Namen gemacht<lb/>
+hat, hat seine literarische Tätigkeit aufgegeben und ist als kaufmännischer<lb/>
+ Leiter in eine Wiesbadener Lackfabrik eingetreten.«<lb/>
+</p>
+            <p ana="pr36275">
+<space/>Die <seg type="insult">peinliche Biographenwendung</seg>: »Ursprünglich dem<lb/>
+Kaufmannsstand bestimmt, widmete er sich später der Literatur«<lb/>
+erfährt endlich einmal die erwünschte Umkehrung. Und dieser<lb/>
+<rs type="pers" ana="n_31147" ref="#fk__p_52201">Skowronnek</rs> war gewiß nicht einer der Schlechtesten. Hoffentlich<lb/>
+findet das Beispiel Nachahmer! Es wäre jammerschade, wenn <seg type="insult">die<lb/>
+<rs type="pers" ana="n_31148" ref="#fk__p_52589">Lothar</rs>, <rs type="pers" ana="n_31149" ref="#fk__p_54916">Leon</rs>, <rs type="pers" ana="n_31150" ref="#fk__p_47222">Sternberg</rs> und <rs type="pers" ana="n_31151" ref="#fk__p_51209">Goldmann</rs></seg> noch länger »ihren Beruf<lb/>
+verfehlten«. Es muß ja nicht immer eine Lackfabrik sein, auch die<lb/>
+<seg type="insult">Tuchbranche</seg> hat ihren Wert.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_47222">
+               <persName>Sternberg, Julian</persName>
+               <birth>
+                  <date>1868-11-8</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1945-6-28</date>
+                  <place>Havanna/Kuba</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <note type="comment">Red. der NFP</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_20423</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/3021</idno></person>
+            <person xml:id="fk__p_52201">
+               <persName>Skowronnek, Richard</persName>
+               <birth>
+                  <date>1862-3-12</date>
+                  <place>Schuiken, Kreis Goldap, Ostpreußen</place>
+               </birth>
+               <death>
+                  <date>1932-10-17</date>
+                  <place>Rittergut Hoeckenberg, Pommern</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Bruder von Fritz S.?</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2827</idno></person>
+            <person xml:id="fk__p_52589">
+               <persName>Lothar, Rudolph</persName>
+               <birth>
+                  <date>1865-2-23</date>
+                  <place>Pest</place>
+               </birth>
+               <death>
+                  <date>1943-10-2</date>
+                  <place>Budapest</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Kritiker</occupation>
+               <note type="comment">743/107 Hans Müller ist offenbar für Thomas reserviert</note>
+               <note type="comment">Die Metternich-Pastete. Ein appetitliches Lustspiel in 3 Gängen. Leipzig, 1917. 96 S</note>
+               <note type="comment">fordert einen Offenbach-Querschnitt (F 845/14, 857/114)</note>
+            </person>
+            <person xml:id="fk__p_51209">
+               <persName>Goldmann, Paul</persName>
+               <birth>
+                  <date>1865-1-31</date>
+                  <place>Breslau</place>
+               </birth>
+               <death>
+                  <date>1935-9-25</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11485</idno></person>
+            <person xml:id="fk__p_54916">
+               <persName>Léon, Victor</persName>
+               <birth>
+                  <date>1858-1-2/4</date>
+                  <place>Senica/Ungarn</place>
+               </birth>
+               <death>
+                  <date>1940-2-23</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Dramaturg</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2337</idno></person>
+            </listPerson></back></text>
+</TEI>

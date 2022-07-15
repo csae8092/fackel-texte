@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01034.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01033.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01035.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ein Wisscnder. (Der Freikartenactionär), in: Fackel Heft 02, Nr. 043, 1900, S. 30-30</title>
+            <title type="iso-date">1900-06-01</title>
+            <title type="id">tid_01034</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">043</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-043_n0030.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/043,030</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ein Wisscnder. (Der Freikartenactionär)</head>
+            <p ana="pr9894">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_8060" ref="#fk__p_42439">Ein <choice><sic>Wisscnder</sic><corr>Wissender</corr></choice></rs>.</seg></seg> <seg type="insult">Herr <rs type="pers" ana="n_8061" ref="#fk__p_41040"><abbr>Dr.</abbr> Elbogen</rs></seg> hat sich mit <rs type="pers" ana="n_8062" ref="#fk__p_41607">Frischauer</rs><lb/>
+wieder versöhnt. Der Angriff im <seg type="insult">»volkswirtschaftlichen Theil«</seg> des<lb/>
+‚<rs type="paper" ana="werk_2831">Wiener Tagblatt</rs>‘ hindert ihn weiter nicht an der Mitarbeit. Er sieht<lb/>
+ein, dass <seg type="insult">Staatsnothwendigkeiten</seg> vorangehen, und nimmt seinem<lb/>
+Blatte die Sorge um die <seg type="insult">Einbringung des »Budgets«</seg>, um die<lb/>
+wichtigsten Pauschalien nicht übel. Bezüglich seiner Haltung in<lb/>
+der Generalversammlung der Südbahn, die ihm den scharfen<lb/>
+Tadel des ‚<rs type="paper" ana="werk_2832">Wiener Tagblatt</rs>‘ zuzog, theilen Sie mir noch mit,<lb/>
+dass <seg type="insult">Herr <rs type="pers" ana="n_8063" ref="#fk__p_41040"><abbr>Dr.</abbr> Elbogen</rs></seg> einem Redner gegenüber den Ausruf:<lb/>
+<seg type="insult">»Freikartenactionär!«</seg> machte. In diesem Zwischenruf sollte allerdings<lb/>
+ nicht Hohn, sondern neidvolle Bewunderung liegen. <seg type="insult">Herr<lb/>
+<rs type="pers" ana="n_8064" ref="#fk__p_41040"><abbr>Dr.</abbr> Elbogen</rs></seg> hatte nämlich kurz vorher um eine Freikarte nach<lb/>
+Cormons angesucht und — nur eine halbe erhalten.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_42439">
+               <persName>Ein Wissender</persName>
+            </person>
+            <person xml:id="fk__p_41040">
+               <persName>Elbogen, Friedrich</persName>
+               <birth>
+                  <date>1854-5-20</date>
+                  <place>Prag</place>
+               </birth>
+               <death>
+                  <date>1909-4-16</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Rechtsanwalt</occupation>
+               <occupation>Kritiker</occupation>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">sein Schwiegersohn der kosm. Arzt Leo Friedenthal (gest. 27.01.1929)</note>
+               <note type="comment">sein Stück "Der Phönix" fiel am 1.9.1906 im Dt. Volksth. durch F 209/17</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11243</idno></person>
+            <person xml:id="fk__p_41607">
+               <persName>Frischauer, Otto</persName>
+               <birth>
+                  <date>1863-2-5</date>
+                  <place>Brünn</place>
+               </birth>
+               <death>
+                  <date>1942-8-4</date>
+                  <place>Konzentrationslager Theresienstadt</place>
+               </death>
+               <occupation>Rechtsanwalt</occupation>
+               <occupation>Journalist</occupation>
+               <note type="comment">Vater von Paul, Willi, Eduard, Leo und Fritz Frischauer</note>
+               <note type="comment">Chefred. des Wr. Tgbl.</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/16716</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_08755.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08754.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08756.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Berlin, Bechstein-Saal, 28. Mai, 8 Uhr:, in: Fackel Heft 22, Nr. 546, 1920, S. 3-3</title>
+            <title type="iso-date">1920-07-01</title>
+            <title type="id">tid_08755</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">22</title><title type="heft">546</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-22-546_n0003.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/546,003</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Berlin, Bechstein-Saal, 28. Mai, 8 Uhr:</head>
+            <p ana="pr116100">
+<space/><seg type="spc">Berlin</seg>, <rs type="inst"><rs type="pers" ana="n2_6547" ref="#fk__p_57553">Bechstein-Saal</rs></rs>, <date>28. Mai</date>, 8 Uhr:<lb/>
+</p>
+            <p ana="pr116101">
+<space/>I. <rs type="title">Vorwort</rs>.<FOOTNOTE0_START/>*) — <rs type="title"><seg type="insult">Mit der Uhr in der Hand</seg></rs> / Aus den »<rs type="title">Letzten<lb/>
+Tagen der Menschheit</rs>«: <rs type="title">Militärspital</rs>; <rs type="title"><seg type="insult">Die <rs type="pers">beiden Generale</rs></seg></rs>; <rs type="title"><seg type="insult"><rs type="pers" ana="n2_6548" ref="#fk__p_56128">Erzherzog<lb/>
+Friedrich</rs></seg></rs>; <rs type="title">Der <rs type="pers">blinde Soldat</rs></rs> / <rs type="title">Der <rs type="pers">sterbende Soldat</rs></rs> / <rs type="title">Ich habe einen<lb/>
+Blick gesehn</rs> / <rs type="title">Brief <rs type="pers" ana="n2_6549" ref="#fk__p_52456"><seg type="spc">Rosa Luxemburgs</seg></rs></rs> (mit Vorbemerkung)<lb/>
+/ <rs type="title">Absage</rs>.<lb/>
+</p>
+            <p ana="pr116102">
+<space/>II. Aus den »<rs type="title">Letzten Tagen der Menschheit</rs>«: <rs type="title"><seg type="insult">Kriegsarchiv</seg></rs><lb/>
+(mit Vorbemerkung) / <rs type="title">Inschriften</rs>: <rs type="title"><seg type="insult">Dichterschule</seg></rs>; <rs type="title"><seg type="insult">Das siebente Gebot</seg></rs>;<lb/>
+<rs type="title">Schlechter Tausch</rs>; <rs type="title"><seg type="insult"><foreign xml:lang="la">Felix Austria</foreign></seg></rs>; <rs type="title"><seg type="insult">Mord in Ungarn</seg></rs>; <rs type="title"><seg type="insult">Sprachenpflege</seg></rs> /<lb/>
+<rs type="title">Legende</rs> / <rs type="title">Schnellzug</rs> / <rs type="title">Alle Vögel sind schon da</rs> / <rs type="title">Traum vom Fliegen</rs><lb/>
+/ <rs type="title">Der Bauer, der Hund und der Soldat</rs> / <rs type="title"><seg type="insult"><rs type="pers">Géza von Lakkati de Némesfalva<lb/>
+ et Kutjafelegfaluszég</rs></seg></rs> / <rs type="title">Inschriften</rs>: <rs type="title"><seg type="insult">Umsturz</seg></rs>; <rs type="title"><foreign xml:lang="de-loc">Immer feste druff</foreign></rs>;<lb/>
+<rs type="title"><seg type="insult">Nibelungentreue</seg></rs>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_56128">
+               <persName>Friedrich Maria Albrecht, Erzherzog</persName>
+               <birth>
+                  <date>1856-6-4</date>
+                  <place>Groß-Seelowitz/Böhmen</place>
+               </birth>
+               <death>
+                  <date>1936-12-30</date>
+                  <place>Ung. Altenburg</place>
+               </death>
+               <occupation>Offizier</occupation>
+               <note type="comment">FML, Oberbefehlshaber der k.k. Armee</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15242</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/16687</idno></person>
+            <person xml:id="fk__p_57553">
+               <persName>Bechstein (Klavierfabrik)</persName>
+            </person>
+            <person xml:id="fk__p_52456">
+               <persName>Luxemburg, Rosa</persName>
+               <birth>
+                  <date>1871-3-5</date>
+                  <place>Zamosc, Kreis Lublin</place>
+               </birth>
+               <death>
+                  <date>1919-1-15</date>
+                  <place>Berlin</place>
+               </death>
+               <occupation>Politikerin</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/8736</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00757.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00756.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00758.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Auf zahlreiche Erkundigungen. (Lobreferenten), in: Fackel Heft 01, Nr. 031, 1900, S. 31-31</title>
+            <title type="iso-date">1900-02-01</title>
+            <title type="id">tid_00757</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">031</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-031_n0031.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/031,031</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Auf zahlreiche Erkundigungen. (Lobreferenten)</head>
+            <p ana="pr7189">
+<space/><seg type="sidehead"><seg type="i">Auf zahlreiche Erkundigungen.</seg></seg> <seg type="insult">Der collegiale Lobspender für<lb/>
+<seg type="spc"><rs type="pers" ana="n_5558" ref="#fk__p_41891">Herzls</rs></seg> <foreign xml:lang="en">»<rs type="title">I love you</rs>«</foreign> in der ‚<rs type="paper" ana="werk_1935">Neuen Freien Presse</rs>‘</seg> war nicht <rs type="pers" ana="n_5559" ref="#fk__p_49331">Ludwig<lb/>
+<seg type="spc">Speidel</seg></rs>, sondern <seg type="insult">Herr <seg type="spc"><rs type="pers" ana="n_5560" ref="#fk__p_46357">Wittmann</rs></seg></seg>. <rs type="pers" ana="n_5561" ref="#fk__p_49331">Speidel</rs> hat es, wie man mir<lb/>
+mittheilt, ausdrücklich abgelehnt, über das <seg type="insult">Zeug</seg> zu schreiben. <seg type="insult">Herr<lb/>
+<rs type="pers" ana="n_5562" ref="#fk__p_46357">Wittmann</rs></seg> war noch <seg type="insult">von den Zeiten »<rs type="title"><rs type="pers">Adam</rs> und <rs type="pers">Evas</rs></rs>« her</seg> <seg type="insult">Herrn <rs type="pers" ana="n_5563" ref="#fk__p_41891">Herzl</rs></seg><lb/>
+Revanche schuldig. Für <seg type="insult">die productiven Versuche des Musikkritikers<lb/>
+<seg type="spc"><rs type="pers" ana="n_5564" ref="#fk__p_52178">Heuberger</rs></seg></seg> ist neuestens <seg type="insult">ein eigener Lobreferent</seg> bestellt worden.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_52178">
+               <persName>Heuberger, Richard</persName>
+               <birth>
+                  <date>1850-6-18</date>
+                  <place>Graz</place>
+               </birth>
+               <death>
+                  <date>1914-10-28</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Komponist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11684</idno></person>
+            <person xml:id="fk__p_46357">
+               <persName>Wittmann, Hugo</persName>
+               <birth>
+                  <date>1839-10-16</date>
+                  <place>Ulm</place>
+               </birth>
+               <death>
+                  <date>1923-2-6</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">ZF Gruppe 32C, Nr. 3</note>
+               <note type="comment">Red. der NFP</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2739</idno></person>
+            <person xml:id="fk__p_49331">
+               <persName>Speidel, Ludwig</persName>
+               <birth>
+                  <date>1830-4-11</date>
+                  <place>Ulm</place>
+               </birth>
+               <death>
+                  <date>1906-2-3</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Kritiker</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12816</idno></person>
+            <person xml:id="fk__p_41891">
+               <persName>Herzl, Theodor</persName>
+               <birth>
+                  <date>1860-5-2</date>
+                  <place>Pest</place>
+               </birth>
+               <death>
+                  <date>1904-7-3</date>
+                  <place>Edlach, Niederösterreich</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11673</idno></person>
+            </listPerson></back></text>
+</TEI>

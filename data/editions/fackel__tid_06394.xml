@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06394.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06393.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06395.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Von einem echten Erzbischof gebeten, in: Fackel Heft 15, Nr. 381, 1913, S. 4-5</title>
+            <title type="iso-date">1913-11-01</title>
+            <title type="id">tid_06394</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">15</title><title type="heft">381</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-15-381_n0004.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/381,004</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Von einem echten Erzbischof gebeten</head>
+            <p ana="pr86252">
+<space/>Der Erzbischof ersucht die Redaktion der »<rs type="paper" ana="werk_19638">Neuen Freien Presse</rs>«,<lb/>
+dem Schmerze aller Albanesen darüber Ausdruck zu geben, daß der<lb/>
+englische Admiral <rs type="pers" ana="n_59456" ref="#fk__p_39633">Burney</rs> die Hissung der albanesischen Flagge in<lb/>
+Skutari noch immer nicht gestattet hat.<lb/>
+</p>
+            <p ana="pr86254">
+<space/>Sorgen was sie haben; aber schließlich wenn ein Erzbischof<lb/>
+eine Redaktion bittet und von ihrer Hilfe etwas erhofft, was sonst<lb/>
+Gott nur richten kann, warum soll man ihm nicht den Gefallen<lb/>
+tun? Die Leute in Skutari sollen nicht gar zu begehrlich sein und<lb/>
+der Redaktion danken, daß wenigstens der Gendarmerie-Kommandant<lb/>
+ <rs type="pers" ana="n_59457" ref="#fk__p_48710"><seg type="insult">Lek Mirash Luca</seg></rs> schon ernannt ist.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_48710">
+               <persName>Lek Mirash Luca</persName>
+            </person>
+            <person xml:id="fk__p_39633">
+               <persName>Burney, Sir Cecil</persName>
+               <birth>
+                  <date>1858-5-15</date>
+                  <place>Jersey</place>
+               </birth>
+               <death>
+                  <date>1929-6-5</date>
+                  <place>London</place>
+               </death>
+               <occupation>Marineoffizier</occupation>
+               <note type="comment">Vizeadmiral</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

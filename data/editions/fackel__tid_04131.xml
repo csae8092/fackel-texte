@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_04131.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04130.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04132.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Gebildeter. (Lukian), in: Fackel Heft 07, Nr. 199, 1906, S. 23-23</title>
+            <title type="iso-date">1906-03-23</title>
+            <title type="id">tid_04131</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">07</title><title type="heft">199</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-07-199_n0023.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/199,023</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Gebildeter. (Lukian)</head>
+            <p ana="pr43385">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="name_203461" ref="#fk__p_44243">Gebildeter</rs>.</seg></seg></seg> Sie sind im Irrtum. <rs type="pers" ana="n_35620" ref="#fk__p_49390">Lukian</rs>, dessen Dialog »<rs type="title">Die Fahrt<lb/>
+über den Styx</rs>« das <rs type="inst">Lustspieltheater</rs> aufgeführt hat und der wahrscheinlich<lb/>
+ um das Jahr <date>116</date> geboren wurde, ist mit meinem Mitarbeiter<lb/>
+<rs type="pers" ana="n_35621" ref="#fk__p_47538">Lucianus</rs> nicht identisch. Unrichtig ist auch die Behauptung <seg type="insult">des<lb/>
+Literaturforschers vom ‚<rs type="paper" ana="werk_14485">Neuen Wiener Journal</rs>‘</seg>, daß »man ihn (<rs type="pers" ana="n_35622" ref="#fk__p_49390">Lukian</rs>)<lb/>
+noch in den <seg type="spc">germanistischen Seminaren</seg> kennt« und daß dies<lb/>
+»die einzige Fühlung ist, die er mit der Gegenwart unterhält«. Wenn<lb/>
+<rs type="pers" ana="n_35623" ref="#fk__p_49390">Lukian</rs>, der griechisch schreibende Syrer, auf die germanistischen<lb/>
+Seminare angewiesen wäre, könnte er zusehen, wo er die Fühlung mit<lb/>
+der Gegenwart hernähme. In Wirklichkeit soll er diese einem gewissen<lb/>
+<rs type="pers" ana="n_35624" ref="#fk__p_55446">Wieland</rs> verdanken.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_47538">
+               <persName>Hauer, Karl</persName>
+               <birth>
+                  <date>1875-10-29</date>
+                  <place>Gmunden</place>
+               </birth>
+               <death>
+                  <date>1919-8-17</date>
+                  <place>Hall/Tirol</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Buchhändler</occupation>
+               <note type="comment">Augustenstr. 60</note>
+               <note type="comment">K. Tscheschlog's Nachf.</note>
+               <note type="comment">beigesetzt 25.08.1919 Kommunalfriedhof Gruppe 3, 1939 aufgelassen.</note>
+               <note type="comment">München</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/52647</idno></person>
+            <person xml:id="fk__p_49390">
+               <persName>Lukian von Samosata</persName>
+               <birth>
+                  <date>120?</date>
+                  <place>Samosata</place>
+               </birth>
+               <death>
+                  <date>180/200</date>
+                  <place>Alexandria</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/20643</idno></person>
+            <person xml:id="fk__p_55446">
+               <persName>Wieland, Christoph Martin</persName>
+               <birth>
+                  <date>1733-09-05</date>
+                  <place>Oberholzheim/Biberach</place>
+               </birth>
+               <death>
+                  <date>1813-01-20</date>
+                  <place>Weimar</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Übersetzer</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/64918</idno></person>
+            <person xml:id="fk__p_44243">
+               <persName>Gebildeter</persName>
+            </person>
+            </listPerson></back></text>
+</TEI>

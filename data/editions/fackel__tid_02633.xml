@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02633.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02632.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02634.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Der Fall Löhning und der Fall Scheimpflug, in: Fackel Heft 04, Nr. 114, 1902, S. 8-8</title>
+            <title type="iso-date">1902-09-5</title>
+            <title type="id">tid_02633</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">04</title><title type="heft">114</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-04-114_n0008.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/114,008</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Der Fall Löhning und der Fall Scheimpflug</head>
+            <p ana="pr25638">
+<space/><inciptit>Die</inciptit> Empörung <seg type="insult">unserer freisinnigen Presse</seg> über den »Fall<lb/>
+<rs type="pers" ana="n_22163" ref="#fk__p_49084">Löhning</rs>« dauert fort. Sorgsam wacht sie darüber, daß in Deutschland<lb/>
+ niemandem ein Unrecht widerfahre, und unermüdlich bekämpft<lb/>
+sie die Uebelstände jenseits von Bodenbach. <seg type="spc">Wir</seg> hatten den »Fall<lb/>
+<rs type="pers" ana="n_22164" ref="#fk__p_47614">Scheimpflug</rs>«, der sich hundertmal aufreizender gestaltete, weil<lb/>
+hier nicht ein <seg type="insult">»Standesvorurtheil«</seg>, sondern die Unterdrückung wissenschaftlicher<lb/>
+ Meinungsfreiheit im Spiele war. Kein <seg type="insult">liberaler Hahn</seg><lb/>
+hat nach dem österreichischen Sectionsrath gekräht, der doch auf ungleich<lb/>
+ listigere Art als Herr <rs type="pers" ana="n_22165" ref="#fk__p_49084">Löhning</rs> in die Pension gelockt wurde.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_47614">
+               <persName>Scheimpflug, Karl</persName>
+               <birth>
+                  <date>1856-7-18</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1944-1-7</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <occupation>Schriftsteller</occupation>
+            </person>
+            <person xml:id="fk__p_49084">
+               <persName>Loehning, Ferdinand</persName>
+               <occupation>Finanzbeamter</occupation>
+               <note type="comment">Die Pensionierung des Provinzial-Steuer-Direktors Loehning : eine Kritik ihrer Darstellung durch den Finanzminister Freiherrn v. Rheinbaben / von Ferdinand Loehning, Berlin: Selbstverl. des Verf., 1905</note>
+               <note type="comment">zwangsweise Pensionierung ca. 1905</note>
+               <note type="comment">Provinzial-Steuerdirektor</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

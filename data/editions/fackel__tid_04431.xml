@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_04431.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04430.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04432.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Politiker. (Ein Diktat Bismarcks?), in: Fackel Heft 08, Nr. 222, 1907, S. 12-12</title>
+            <title type="iso-date">1907-03-27</title>
+            <title type="id">tid_04431</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">08</title><title type="heft">222</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-08-222_n0012.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/222,012</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Politiker. (Ein Diktat Bismarcks?)</head>
+            <p ana="pr48491">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="name_203562" ref="#fk__p_51590">Politiker</rs>.</seg></seg></seg> in Berliner Blättern erschien eine Danksagung der<lb/>
+Frau <rs type="pers" ana="n_39080" ref="#fk__p_53422">Sophie von <seg type="spc">Boetticher</seg></rs>, deren Text ihr, wie <seg type="insult">Eingeweihte</seg> behaupten<lb/>
+, direkt von <rs type="pers" ana="n_39081" ref="#fk__p_39266">Bismarck</rs> aus der andern Welt diktiert worden ist, die<lb/>
+nämlich mit einem syntaktischen Witz ohnegleichen <seg type="insult">die irdische Hülle<lb/>
+der politischen Heuchelei</seg> von dem Charakterbild des teuren Verblichenen<lb/>
+ hebt und <seg type="insult">die wunderbare Verwandlung eines treuen <rs type="pers" ana="n_39082" ref="#fk__p_39266">Bismarckianers</rs><lb/>
+vor der Nachwelt</seg> stigmatisiert. Die Witwe <rs type="pers" ana="n_39083" ref="#fk__p_57282">Boettichers</rs> sagt: »Die reiche<lb/>
+Fülle herzbewegender Teilnahme, welche mich und meine Kinder bei<lb/>
+dem Heimgange <seg type="spc">meines geliebten Mannes in verschiedener<lb/>
+Gestalt</seg> begleitet hat, macht es unmöglich, jedem der Freunde ein<lb/>
+Wort des Dankes zu sagen <seg type="symbol" subtype="3dots"/>«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_57282">
+               <persName>Boetticher, Karl Heinrich von</persName>
+               <birth>
+                  <date>1833-1-6</date>
+                  <place>Stettin/Pommern</place>
+               </birth>
+               <death>
+                  <date>1907-3-6</date>
+                  <place>Naumburg/Saale</place>
+               </death>
+               <occupation>Beamter</occupation>
+               <occupation>Politiker</occupation>
+               <note type="comment"/>
+               <note type="comment">dt. Vizekanzler</note>
+            </person>
+            <person xml:id="fk__p_53422">
+               <persName>Boetticher, Sophie von</persName>
+               <birth>
+                  <date>1851</date>
+               </birth>
+               <death>
+                  <date>1939</date>
+               </death>
+               <note type="comment">Vorsitzende des Vaterländischen Frauenvereins der Provinz Sachsen</note>
+            </person>
+            <person xml:id="fk__p_39266">
+               <persName>Bismarck, Otto Eduard Leopold Fürst</persName>
+               <birth>
+                  <date>1815-04-01</date>
+                  <place>Schönhausen</place>
+               </birth>
+               <death>
+                  <date>1898-07-30</date>
+                  <place>Friedrichsruh</place>
+               </death>
+               <occupation>Politiker</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13749</idno></person>
+            <person xml:id="fk__p_51590">
+               <persName>Politiker</persName>
+            </person>
+            </listPerson></back></text>
+</TEI>

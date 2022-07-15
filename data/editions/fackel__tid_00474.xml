@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00474.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00473.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00475.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Rex. (Zionistisches), in: Fackel Heft 01, Nr. 019, 1899, S. 32-32</title>
+            <title type="iso-date">1899-10-01</title>
+            <title type="id">tid_00474</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">019</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-019_n0032.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/019,032</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Rex. (Zionistisches)</head>
+            <p ana="pr4361">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_3251" ref="#fk__p_52150">Rex</rs>.</seg></seg> Vielen Dank. Wenn ein Zionist sich erdreistet, das <seg type="insult">den<lb/>
+Herren</seg> so fatale Citat aus einem <rs type="pers" ana="n_3252" ref="#fk__p_41891">Herzl’schen Feuilleton</rs> (<rs type="selfRef" ana="werk_1138"><abbr>Nr.</abbr> 16</rs> der<lb/>
+‚<rs type="self" ana="werk_1139">Fackel</rs>‘) als <seg type="insult">»<seg type="spc">Erfindung</seg>«</seg> zu bezeichnen, so spendieren Sie sechs<lb/>
+Kreuzer und zeigen Sie <seg type="insult">dem Burschen</seg> die Nummer der ‚<rs type="paper" ana="werk_1140">Neuen<lb/>
+Freien Presse</rs>‘ vom <date>17. October 1894</date>. Vorausgesetzt natürlich, dass<lb/>
+sie noch zu haben ist und <seg type="insult">Herr <rs type="pers" ana="n_3253" ref="#fk__p_41891">Herzl</rs></seg> nicht die Einstampfung der<lb/>
+vorhandenen Exemplare von den Herausgebern erbeten hat.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_41891">
+               <persName>Herzl, Theodor</persName>
+               <birth>
+                  <date>1860-5-2</date>
+                  <place>Pest</place>
+               </birth>
+               <death>
+                  <date>1904-7-3</date>
+                  <place>Edlach, Niederösterreich</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11673</idno></person>
+            <person xml:id="fk__p_52150">
+               <persName>Rex</persName>
+            </person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,95 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06082.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06081.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06083.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ein sympathisches Theater, in: Fackel Heft 14, Nr. 368, 1913, S. 9-9</title>
+            <title type="iso-date">1913-02-01</title>
+            <title type="id">tid_06082</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">14</title><title type="heft">368</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-14-368_n0009.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/368,009</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ein sympathisches Theater</head>
+            <p ana="pr82028">
+<space/>— Im <rs type="inst">Deutschen Volkstheater</rs> wird am Freitag den <date>31. <abbr>d.</abbr></date> die<lb/>
+<rs type="pers" ana="n_57477" ref="#fk__p_46919"><SPAN cont="Nestroysche"><seg type="spc">Nestroys</seg>che</SPAN> Faschingsposse</rs> »<rs type="title">Das Mädel aus der Vorstadt</rs>« zum<lb/>
+erstenmal aufgeführt. Außer den <seg type="spc">Gesangseinlagen von <rs type="pers" ana="n_57478" ref="#fk__p_41054">Beda</rs> und<lb/>
+<rs type="pers" ana="n_57479" ref="#fk__p_48729">Leo Ascher</rs></seg> singt Herr <rs type="pers" ana="n_57480" ref="#fk__p_55581">Thaller</rs> ein <seg type="spc">von <rs type="pers" ana="n_57481" ref="#fk__p_48819">Herrn Kramer</rs> verfaßtes</seg><lb/>
+und komponiertes Couplet.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_48729">
+               <persName>Ascher, Leo</persName>
+               <birth>
+                  <date>1880-8-17</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1942-2-25</date>
+                  <place>New York</place>
+               </death>
+               <occupation>Jurist</occupation>
+               <occupation>Komponist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/6038</idno></person>
+            <person xml:id="fk__p_55581">
+               <persName>Thaller, Wilhelm</persName>
+               <birth>
+                  <date>1854-8-17</date>
+                  <place>Graz</place>
+               </birth>
+               <death>
+                  <date>1941-4-7</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12936</idno></person>
+            <person xml:id="fk__p_41054">
+               <persName>Löhner, Fritz</persName>
+               <birth>
+                  <date>1883-6-24</date>
+                  <place>Wildenschwert/Böhmen</place>
+               </birth>
+               <death>
+                  <date>1942-12-4</date>
+                  <place>Konzentrationslager Auschwitz</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/8748</idno></person>
+            <person xml:id="fk__p_48819">
+               <persName>Kramer, Leopold</persName>
+               <birth>
+                  <date>1869-9-29</date>
+                  <place>Prag</place>
+               </birth>
+               <death>
+                  <date>1942-10-29</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <occupation>Theaterleiter</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11981</idno></person>
+            <person xml:id="fk__p_46919">
+               <persName>Nestroy, Johann Nepomuk</persName>
+               <birth>
+                  <date>1801-12-7</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1862-5-25</date>
+                  <place>Graz</place>
+               </death>
+               <occupation>Sänger</occupation>
+               <occupation>Schauspieler</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12338</idno></person>
+            </listPerson></back></text>
+</TEI>

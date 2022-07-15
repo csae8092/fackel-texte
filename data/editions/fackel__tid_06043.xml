@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06043.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06042.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06044.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Die Künstler, in: Fackel Heft 14, Nr. 366, 1913, S. 8-8</title>
+            <title type="iso-date">1913-01-01</title>
+            <title type="id">tid_06043</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">14</title><title type="heft">366</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-14-366_n0008.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/366,008</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Die Künstler</head>
+            <p ana="pr81665">
+<space/>»— Direktor <rs type="pers" ana="n_57087" ref="#fk__p_55522">Karczag</rs> will den an den Wiener Theatern engagierten<lb/>
+<seg type="spc">Künstlern</seg>, welche durch die Abendbeschäftigung nur selten dazu<lb/>
+kommen, ein anderes, als ihr eigenes Theater zu besuchen, Gelegenheit<lb/>
+geben, die erfolgreichen Novitäten seiner Theater kennen zu lernen. Zu<lb/>
+diesem Zwecke will Direktor <rs type="pers" ana="n_57088" ref="#fk__p_55522">Karczag</rs> eine Vorstellung veranstalten, zu<lb/>
+welcher nur <seg type="spc">Künstler</seg> der Wiener Bühnen zugelassen werden, aber<lb/>
+auch <seg type="spc">Mitglieder anderer Kunststände</seg> (<seg type="spc">bildende Künstler</seg>,<lb/>
+<seg type="spc">Musiker und Schriftsteller</seg>) sollen eingeladen werden, so daß<lb/>
+das ganze Auditorium <seg type="spc">aus Künstlern Wiens</seg> bestehen wird.<lb/>
+Diese interessante Vorstellung soll Donnerstag den <date>5. Dezember</date> um<lb/>
+halb 3 Uhr als <seg type="spc">Künstler-Matinee</seg> im <rs type="inst">Theater an der Wien</rs> stattfinden<lb/>
+und <seg type="spc">hiebei</seg> die Operette »<rs type="title"><seg type="spc">Der kleine König</seg></rs>« von <rs type="pers" ana="n_57089" ref="#fk__p_47437">Emerich Kalman</rs><lb/>
+in erster Besetzung zur Darstellung gelangen. Die Karten werden selbstverständlich<lb/>
+ gratis verteilt <seg type="symbol" subtype="4dots"/><lb/>
+</p>
+            <p ana="pr81667">
+<space/><seg type="insult">Welch ein Parterre von Künstlern!</seg> <seg type="insult">Welch ein Medicäer!</seg><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_55522">
+               <persName>Karczág, Wilhelm</persName>
+               <birth>
+                  <date>1857-8-28</date>
+                  <place>Karczag, Ungarn</place>
+               </birth>
+               <death>
+                  <date>1923-10-11</date>
+                  <place>Baden bei Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Theaterleiter</occupation>
+               <occupation>Musikverleger</occupation>
+               <note type="comment">Hietzing</note>
+            </person>
+            <person xml:id="fk__p_47437">
+               <persName>Kálmán, Emmerich</persName>
+               <birth>
+                  <date>1882-10-24</date>
+                  <place>Siófok am Plattensee</place>
+               </birth>
+               <death>
+                  <date>1953-10-30</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Komponist</occupation>
+               <note type="comment">mehrere Nennungen durch Titel: 418/102; 431/42; 445/64; 454/58</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12015</idno></person>
+            </listPerson></back></text>
+</TEI>

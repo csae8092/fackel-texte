@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06788.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06787.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06789.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">So ist das Leben, in: Fackel Heft 16, Nr. 399, 1914, S. 29-29</title>
+            <title type="iso-date">1914-05-01</title>
+            <title type="id">tid_06788</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">16</title><title type="heft">399</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-16-399_n0029.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/399,029</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>So ist das Leben</head>
+            <p ana="pr91393">
+<space/>— Der <rs type="pers" ana="n_62203" ref="#fk__p_48052">König von Italien</rs> hat der Schriftstellerin <rs type="pers" ana="n_62204" ref="#fk__p_45904">Herma <abbr>v.</abbr> Skoda</rs><lb/>
+in Anerkennung ihrer literarischen Verdienste das italienische Ehrenkreuz<lb/>
+für Literatur und Kunst verliehen. — Fräulein <rs type="pers" ana="n_62205" key="#fk__p_54284">Trudl Vondörfer</rs><lb/>
+hat sich mit Herrn Kommerzialrat <rs type="pers" ana="n_62206" key="#fk__p_46818">Jenö Pick</rs>, Fabrikant in Szeged,<lb/>
+verlobt.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_48052">
+               <persName>Viktor Emanuel III.</persName>
+               <birth>
+                  <date>1869-11-11</date>
+                  <place>Neapel</place>
+               </birth>
+               <death>
+                  <date>1947-12-28</date>
+                  <place>Alexandria</place>
+               </death>
+               <occupation>König</occupation>
+               <note type="comment">Ögg irrt. 399/28</note>
+               <note type="comment">von Italien 1900-1946</note>
+            </person>
+            <person xml:id="fk__p_45904">
+               <persName>Škoda, Herma von</persName>
+               <birth>
+                  <date>1879-4-18</date>
+                  <place>Pilsen</place>
+               </birth>
+               <death>
+                  <date>1966</date>
+                  <place>Kisber/Ungarn</place>
+               </death>
+               <occupation>Schriftstellerin</occupation>
+               <note type="comment">jüngste Tochter des Großindustriellen Emil Ritter von Skoda; verehelichte Lauer</note>
+               <note type="comment">Friedrich C. Heller, Die bunte Welt. Handbuch zum künstlerisch illustr. Kinderbuch, 2008</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

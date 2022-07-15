@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_11596.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11595.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11597.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Er wird zitiert, in: Fackel Heft 32, Nr. 847, 1931, S. 12-13</title>
+            <title type="iso-date">1931-03-01</title>
+            <title type="id">tid_11596</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">32</title><title type="heft">847</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-32-847_n0012.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/847,012</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Er wird zitiert</head>
+            <p ana="pr168493">
+<rs type="pers" ana="n_100848" ref="#fk__p_40177">Curtius</rs><lb/>
+</p>
+            <p ana="pr168495">
+kann nicht anders, als das Wort Herrn <rs type="pers" ana="n_100849" ref="#fk__p_46939"><abbr>Dr.</abbr> Schobers</rs> wiederholen:<lb/>
+Ja, wir sind »ein Volk in zwei Staaten« <seg type="symbol" subtype="3dots"/><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_40177">
+               <persName>Curtius, Julius</persName>
+               <birth>
+                  <date>1877-02-07</date>
+                  <place>Duisburg</place>
+               </birth>
+               <death>
+                  <date>1948-11-10</date>
+                  <place>Heidelberg</place>
+               </death>
+               <occupation>Politiker</occupation>
+            </person>
+            <person xml:id="fk__p_46939">
+               <persName>Schober, Johannes</persName>
+               <birth>
+                  <date>1874-11-14</date>
+                  <place>Perg, Oberösterreich</place>
+               </birth>
+               <death>
+                  <date>1932-8-19</date>
+                  <place>Baden bei Wien</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <note type="comment">Pfarramt Perg: Taufregister: Johannes, Grabstein: Johannes Schober, nicht Johann</note>
+               <note type="comment">Vornamensschreibweise ebenso Czeike, ÖBL</note>
+               <note type="comment">Lebenslauf: NFP 26.9.1929, Seite 4</note>
+               <note type="comment">seit 21.06.1921 Bundeskanzler bis 26.01.1922, von 27.01.1922 bis 24.05.1922, von 26.09.1929 bis 25.09.1930</note>
+               <note type="comment">Polizeipräsident; 1921/22, 1929/30 Bundeskanzler und Außenminister</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/24444</idno></person>
+            </listPerson></back></text>
+</TEI>

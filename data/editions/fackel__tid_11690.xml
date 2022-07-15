@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_11690.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11689.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11691.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lieblings Gepäck, in: Fackel Heft 33, Nr. 852, 1931, S. 6-6</title>
+            <title type="iso-date">1931-05-01</title>
+            <title type="id">tid_11690</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">33</title><title type="heft">852</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-33-852_n0006.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/852,006</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Lieblings Gepäck</head>
+            <p ana="pr169718">
+bringt <seg type="spc"><rs type="pers" ana="n_101508" ref="#fk__p_42624">Jannings</rs> <seg type="insult">Preußenfeind</seg></seg>, <seg type="spc">sein neuer Diener <rs type="pers" ana="n_101509" ref="#fk__p_47540">Martin</rs></seg>,<lb/>
+den <rs type="pers" ana="n_101510" ref="#fk__p_42624">Jannings</rs> nach dem Tode <rs type="pers" ana="n_101511" ref="#fk__p_42297">Edmund Reinhardts</rs> von dem<lb/>
+Verstorbenen übernommen hat und der trotz des Berliner Aufenthalts<lb/>
+immer noch heftig auf die Preußen schimpft und erklärt, daß im Zoo<lb/>
+die <foreign xml:lang="de-loc">Gamsen</foreign> »sehr schäbig« sind.<lb/>
+</p>
+            <p ana="pr169720">
+Aber solange Proletarier derlei setzen anstatt dem <seg type="insult">Plauderer</seg> die<lb/>
+Lettern vor die Füße zu schmeißen, kann mir die Revolution<lb/>
+genau so gestohlen werden wie die <seg type="insult">bürgerliche Welt</seg>, die sichs<lb/>
+vorsetzen läßt.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_42624">
+               <persName>Jannings, Emil</persName>
+               <birth>
+                  <date>1884-7-23</date>
+                  <place>Rorschach am Bodensee</place>
+               </birth>
+               <death>
+                  <date>1950-1-2</date>
+                  <place>Strobl am Wolfgangsee</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11816</idno></person>
+            <person xml:id="fk__p_42297">
+               <persName>Reinhardt, Edmund</persName>
+               <birth>
+                  <date>1875-3-14</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1929-7-18</date>
+                  <place>Baden bei Wien</place>
+               </death>
+               <occupation>Theaterleiter</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2984</idno></person>
+            <person xml:id="fk__p_47540">
+               <persName>Martin, Karl Heinz</persName>
+               <birth>
+                  <date>1886-5-6</date>
+                  <place>Freiburg i. Br.</place>
+               </birth>
+               <death>
+                  <date>1948-1-13</date>
+                  <place>Berlin</place>
+               </death>
+               <occupation>Regisseur</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17945</idno></person>
+            </listPerson></back></text>
+</TEI>

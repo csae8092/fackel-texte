@@ -1,0 +1,45 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01721.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01720.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01722.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Leser in Leipzig. (Leser in Leipzig), in: Fackel Heft 02, Nr. 072, 1901, S. 29-29</title>
+            <title type="iso-date">1901-03-01</title>
+            <title type="id">tid_01721</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">072</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-072_n0029.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/072,029</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Leser in Leipzig. (Leser in Leipzig)</head>
+            <p ana="pr17125">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_14324" key="#fk__p_48885">Leser in Leipzig</rs>.</seg></seg> Besten Dank. Auch für die Mittheilung, dass<lb/>
+bei der Berliner Polizei seit längerer Zeit bereits eine <seg type="spc">Polizeiärztin<lb/>
+</seg> (<abbr>Frl.</abbr> <rs type="pers" ana="n_14325" ref="#fk__p_41126"><abbr>Dr. H.</abbr> Hacker</rs>) fungiert, die in erster Linie in Fällen<lb/>
+wie dem der Französin amtlich zu intervenieren hat.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_41126">
+               <persName>Hacker, Agnes</persName>
+               <birth>
+                  <date>1860</date>
+                  <place>Königsberg</place>
+               </birth>
+               <death>
+                  <date>1909-9-6</date>
+                  <place>Berlin</place>
+               </death>
+               <occupation>Ärztin</occupation>
+               <note type="comment">Vornamenskorrektur!</note>
+               <note type="comment">1897 Prom Schweiz, Chirurgin, seit 1900 Polizeiärztin Berlin</note>
+               <note type="comment">Polizeiärztin Berlin</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

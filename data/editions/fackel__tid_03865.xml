@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03865.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03864.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03866.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Regisseur. (Vor einer Bühnenprobe), in: Fackel Heft 06, Nr. 178, 1905, S. 16-17</title>
+            <title type="iso-date">1905-03-25</title>
+            <title type="id">tid_03865</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">06</title><title type="heft">178</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-06-178_n0016.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/178,016</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Regisseur. (Vor einer Bühnenprobe)</head>
+            <p ana="pr38879">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="name_203452" ref="#fk__p_60658">Regisseur</rs>.</seg></seg></seg> <seg type="insult">Die alten Theaterhasen</seg>, auf die <seg type="insult">die Modernen</seg> Jagd<lb/>
+machten, leben noch und sind unverwüstlich. Zur Zeit behauptet <seg type="insult">Herr<lb/>
+<rs type="pers" ana="n_33148" ref="#fk__p_45194">Kadelburg</rs></seg> das Feld. Das ist, wie man auch hier weiß, der <seg type="insult">Mann</seg>, der<lb/>
+</p>
+            <p ana="pr38879">
+den »<rs type="title">Familientag</rs>« gedichtet hat. Im Berliner »<rs type="inst">Lustspielhaus</rs>« war, so<lb/>
+schreibt man mir, jüngst ein Autor darüber verzweifelt, daß die Schauspieler<lb/>
+ selbst auf der Probe in ganz auffallender Weise chargierten. Ja,<lb/>
+klärte ihn der Direktor auf, das kommt vom »<rs type="title">Familientag</rs>«, den sie<lb/>
+hundertmal spielen mußten, und von <seg type="insult">Herrn <rs type="pers" ana="n_33149" ref="#fk__p_45194">Kadelsburg’s</rs> Regiebefehlen</seg>.<lb/>
+Als bei einer der Proben des »<rs type="title">Familientags</rs>« ein Schauspieler einen Satz,<lb/>
+der seinem Partner galt, zu diesem hingewendet sprach, unterbrach ihn<lb/>
+<seg type="insult">Herr <rs type="pers" ana="n_33150" ref="#fk__p_45194">Kadelburg</rs></seg> mit den Worten: »Das gibt’s nicht! Bei <rs type="pers" ana="n_33151" ref="#fk__p_49517">Maeterlinck</rs><lb/>
+<foreign xml:lang="de-loc">können Se</foreign> meinetwegen so reden — bei <seg type="spc">mir</seg> <foreign xml:lang="de-loc">reden Se</foreign> ins Publikum<lb/>
+runter! <foreign xml:lang="de-loc">Haben Se</foreign> verstanden?«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_49517">
+               <persName>Maeterlinck, Maurice</persName>
+               <birth>
+                  <date>1862-8-29</date>
+                  <place>Gent</place>
+               </birth>
+               <death>
+                  <date>1949-5-6</date>
+                  <place>Orlamonde bei Nizza</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12156</idno></person>
+            <person xml:id="fk__p_60658">
+               <persName>Regisseur</persName>
+               <note type="comment"/>
+            </person>
+            <person xml:id="fk__p_45194">
+               <persName>Kadelburg, Gustav</persName>
+               <birth>
+                  <date>1851-7-26</date>
+                  <place>Pest</place>
+               </birth>
+               <death>
+                  <date>1925-9-11</date>
+                  <place>Berlin</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11845</idno></person>
+            </listPerson></back></text>
+</TEI>

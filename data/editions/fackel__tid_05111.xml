@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_05111.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05110.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05112.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Jeden Früh, in: Fackel Heft 12, Nr. 303, 1910, S. 15-16</title>
+            <title type="iso-date">1910-05-31</title>
+            <title type="id">tid_05111</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">12</title><title type="heft">303</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-12-303_n0015.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/303,015</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Jeden Früh</head>
+            <p ana="pr65464">
+<space/><seg type="insult"><seg ana="‚Der Merker‘"/>, eine neue österreichische Zeitschrift für<lb/>
+Musik und Theater</seg>, welche, von ein paar lobenden Worten über mich<lb/>
+abgesehen, den Beweis ihrer Existenzberechtigung noch nicht erbracht<lb/>
+hat, veröffentlicht ein Gedicht <seg type="insult">des deutschen Lyrikers <rs type="pers" ana="n_47705" ref="#fk__p_46342">Hugo Salus</rs></seg>,<lb/>
+dessen erste Strophen wie folgt lauten:<lb/>
+</p>
+            <lg>
+<l>Auf dem braunen Zweig des kahlen Baumes,</l>
+<l>Der mein Fenster streift, sitzt nun ein Vogel</l>
+<l><seg type="spc">Jeden Früh</seg>.</l>
+<l>Er ist jung und übt mit großem Eifer</l>
+<l>Eine neue, aber gar nicht leichte</l>
+<l>Melodie.</l>
+</lg>
+            <lg>
+<l>Nur zwei Töne; mit gesenktem Köpfchen</l>
+<l>Probt er immer wieder diese neue</l>
+<l>Melodie.</l>
+<l>Wie ein junger Priester bei der Messe</l>
+<l>Beugt er sich zum Zweiglein und ist fleißig</l>
+<l><seg type="spc">Jeden Früh</seg>.</l>
+</lg>
+            <p ana="pr65469">
+<space/><seg type="insult">Herr <rs type="pers" ana="n_47706" ref="#fk__p_46342">Salus</rs></seg> ist <seg type="insult">Prager Heimatkünstler</seg>, und es ist immer<lb/>
+wertvoll, wenn die Dichter die Sprache um Wendungen bereichern,<lb/>
+die dem <seg type="insult">Idiom ihrer besonderen Umgebung</seg> entstammen. In <seg type="insult">Prag</seg>,<lb/>
+wo es sich von selbst versteht, daß <seg type="insult">der besser situierte Einwohner</seg><lb/>
+»<seg type="insult">jeden Früh</seg>, wenn er aufkommt und aufsteht, <seg type="insult">seinen Tee</seg> trinkt<lb/>
+und <seg type="insult">seine Eier</seg> ißt«, berührt es durchaus sympathisch, daß auch der<lb/>
+Priester <seg type="insult">jeden Früh</seg> seine Messe liest, wenn er es nicht vorzieht,<lb/>
+<seg type="insult">seine <rs type="paper" ana="werk_17635">Neue Presse</rs></seg> zu lesen, ja man wundert sich nicht, daß selbst<lb/>
+der Vogel in Prag <seg type="insult">jeden Früh</seg> sein Lied vor dem Fenster des <seg type="insult">Dichters</seg><lb/>
+singt, was diesen wieder derart in <seg type="insult">Stimmung</seg> bringt, daß er <seg type="insult">jeden Früh</seg><lb/>
+sein Gedicht schreibt. In Prag weiß man aber auch, wozu das <rs type="inst">Unterrichtsministerium<lb/>
+</rs> <seg type="insult">seinen ‚<rs type="magazine" ana="werk_17636">Merker</rs>‘</seg> subventioniert<choice><sic>,</sic><corr>.</corr></choice> Nur daß es nicht<lb/>
+<seg type="insult">»sein« Geld</seg> ist, das da hinausgeworfen wird, sondern unser Geld.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46342">
+               <persName>Salus, Hugo</persName>
+               <birth>
+                  <date>1866-8-3</date>
+                  <place>Böhmisch-Leipa</place>
+               </birth>
+               <death>
+                  <date>1929-2-4</date>
+                  <place>Prag</place>
+               </death>
+               <occupation>Arzt</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12611</idno></person>
+            </listPerson></back></text>
+</TEI>

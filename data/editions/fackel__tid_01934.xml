@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01934.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01933.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01935.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Liebe Fackel!, in: Fackel Heft 03, Nr. 081, 1901, S. 17-18</title>
+            <title type="iso-date">1901-06-01</title>
+            <title type="id">tid_01934</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">03</title><title type="heft">081</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-03-081_n0017.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/081,017</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Liebe Fackel!</head>
+            <p ana="pr18906">
+<space/><seg type="insult">Herr <rs type="pers" ana="n_15894" ref="#fk__p_50373">Benedikt</rs></seg> war neulich — am <date>29. Juni</date> — so liebenswürdig<lb/>
+, auf Seite 1 wieder einmal <seg type="insult">Herrn <rs type="pers" ana="n_15895" ref="#fk__p_47583"><abbr>Dr.</abbr> Lueger</rs> und dem Antisemitismus<lb/>
+</seg> den sicheren Untergang zu prophezeien. Wer beschreibt<lb/>
+nun mein Entsetzen, als ich auf <seg ana="Seite 45"/>, unter der Aufschrift:<lb/>
+»Offene Stellen. Männliche«, die folgende Anzeige fand?<lb/>
+</p>
+            <p ana="pr18908">
+»<QUOTE rn="1" sourceID="FK-03-081_n0017_a">Ein Comptoirist für die Expedition wird<lb/>
+sofort angestellt. Schöne flotte Handschrift<lb/>
+und Stenographie Bedingung. Herren, die<lb/>
+Ungarisch können, werden bevorzugt.<lb/>
+<seg type="spc">Juden ausgeschlossen</seg>. Offerten mit<lb/>
+Gehaltsanspruch <seg type="symbol" subtype="4dotsEditor"/></QUOTE> <abbr>etc.</abbr>«<lb/>
+</p>
+            <p ana="pr18910">
+<space/>Erwacht der getödtete <seg type="insult">Antisemitismus</seg> in der ‚<rs type="paper" ana="werk_6132">Neuen Freien<lb/>
+Presse</rs>‘ zu neuem Leben, oder hat bloß <seg type="insult">Herr <rs type="pers" ana="n_15896" ref="#fk__p_41891"><abbr>Dr.</abbr> Herzl</rs></seg> recht, wenn<lb/>
+er in London die seit <rs type="selfRef" ana="werk_6133"><abbr>Nr.</abbr> 80</rs> der ‚<rs type="self" ana="werk_6134">Fackel</rs>‘ geflügelten Worte sprach:<lb/>
+<foreign xml:lang="en">»The <seg type="insult">fulfilment of our ideals</seg> means money«?</foreign><lb/>
+</p>
+            <p ana="pr18911">
+Hochachtungsvoll<lb/>
+</p>
+            <p ana="pr18912">
+<seg type="insult"><rs type="pers" ana="n_15897" key="#fk__p_38200"><AUCTOR><foreign xml:lang="en">An ordinary Jew</foreign></AUCTOR></rs>.</seg><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_47583">
+               <persName>Lueger, Karl</persName>
+               <birth>
+                  <date>1844-10-24</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1910-3-10</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <note type="comment">Rosa Lueger (Schwester) gest. Wien 24.09.1920</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/3561</idno></person>
+            <person xml:id="fk__p_50373">
+               <persName>Benedikt, Moriz</persName>
+               <birth>
+                  <date>1849-5-27</date>
+                  <place>Kwatschitz/Mähren</place>
+               </birth>
+               <death>
+                  <date>1920-3-18</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <note type="comment">Geburtsort Kwatschitz bei Ungarisch Hradisch/Mähren, nicht Kwassitz bei Kremsier</note>
+               <note type="comment">1. Tor, 20/1/1a</note>
+               <note type="comment">Hrsg. der NFP (seit 1908 alleiniger Leiter)</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10875</idno></person>
+            <person xml:id="fk__p_41891">
+               <persName>Herzl, Theodor</persName>
+               <birth>
+                  <date>1860-5-2</date>
+                  <place>Pest</place>
+               </birth>
+               <death>
+                  <date>1904-7-3</date>
+                  <place>Edlach, Niederösterreich</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11673</idno></person>
+            </listPerson></back></text>
+</TEI>

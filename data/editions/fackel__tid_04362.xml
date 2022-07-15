@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_04362.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04361.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04363.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Patriot. (Der Grundgedanke), in: Fackel Heft 08, Nr. 217, 1907, S. 20-21</title>
+            <title type="iso-date">1907-01-23</title>
+            <title type="id">tid_04362</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">08</title><title type="heft">217</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-08-217_n0020.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/217,020</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Patriot. (Der Grundgedanke)</head>
+            <p ana="pr47579">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="name_201508" ref="#fk__p_51164">Patriot</rs>.</seg></seg></seg> Ein sinnstörendes technisches Versehen ist bei der Herstellung<lb/>
+ des <seg ana="Abendblattes der ‚Neuen Freien Presse‘ vom 15. Jänner"/><lb/>
+unterlaufen. Es heißt dort:<lb/>
+</p>
+            <p ana="pr47581">
+<space/>Der <RS pers="Franz Joseph I." globID="name_201509">Kaiser</RS> hat dem Verlagsbuchhändler <rs type="pers" ana="n_38509" ref="#fk__p_49933">Max Herzig</rs> in<lb/>
+Wien aus Anlaß der Herausgabe des Werkes »<rs type="title">An Ehren und<lb/>
+Siegen reich, Bilder aus Österreichs Geschichte</rs>« den Orden der<lb/>
+Eisernen Krone dritter Klasse verliehen.<lb/>
+</p>
+            <p ana="pr47582">
+<B>»Eine nationale <rs type="title">Bibel</rs> für Österreich.«</B><lb/>
+</p>
+            <p ana="pr47583">
+<space/>Das war der Grundgedanke, der dem Wiener Verlagsbuchhändler<lb/>
+ <rs type="pers" ana="n_38510" ref="#fk__p_49933">Max Herzig</rs> vorschwebte, als er vor etwa fünf Jahren den<lb/>
+Plan für die Herausgabe des Werkes »<rs type="title">An Ehren und an Siegen<lb/>
+reich</rs>« entwarf <abbr>u. s. w.</abbr><lb/>
+</p>
+            <p ana="pr47585">
+<space/>Die Zeile <seg type="insult">»Eine nationale <rs type="title">Bibel</rs> für Österreich«</seg> ist irrtümlich in<lb/>
+die Notiz geraten und stört den Zusammenhang. Die Leser haben den<lb/>
+Fehler wohl selbst sofort bemerkt und richtig gestellt.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_51164">
+               <persName>Patriot</persName>
+            </person>
+            <person xml:id="fk__p_49933">
+               <persName>Herzig, Max</persName>
+               <birth>
+                  <date>1863-4-22</date>
+                  <place>Sanok</place>
+               </birth>
+               <death>
+                  <date>1912-12-1</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Buchhändler</occupation>
+               <occupation>Verleger</occupation>
+               <note type="comment"/>
+            </person>
+            </listPerson></back></text>
+</TEI>

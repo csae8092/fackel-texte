@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00496.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00495.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00497.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Herrn Julius Ritt. v. Leon. (Herrn Julius Ritter v. Leon), in: Fackel Heft 01, Nr. 020, 1899, S. 32-32</title>
+            <title type="iso-date">1899-10-01</title>
+            <title type="id">tid_00496</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">020</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-020_n0032.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/020,032</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Herrn Julius Ritt. v. Leon. (Herrn Julius Ritter v. Leon)</head>
+            <p ana="pr4583">
+<space/><seg type="sidehead"><seg type="i">Herrn <rs type="pers" ana="n_3500" ref="#fk__p_47272">Julius <abbr>Ritt. v.</abbr> Leon</rs>.</seg></seg> Sie unterhandeln wegen Ankaufs<lb/>
+ <seg type="insult">des vormals <rs type="pers" ana="n_3501" ref="#fk__p_50393">Szeps’schen ‚<rs type="paper" ana="werk_1201">Wiener Tagblatt</rs>‘</rs></seg> und wollen auf<lb/>
+diesem nicht mehr ungewöhnlichen Wege ins <rs type="inst">Herrenhaus</rs> kommen?<lb/>
+Daraus wird nichts!<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_50393">
+               <persName>Szeps, Moriz</persName>
+               <birth>
+                  <date>1834-11-4</date>
+                  <place>Busk, Galizien</place>
+               </birth>
+               <death>
+                  <date>1902-8-9</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <note type="comment">Taufpate von Friedrich Wolff</note>
+               <note type="comment">Gründer des Neuen Wiener Tagblatt</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/25798</idno></person>
+            <person xml:id="fk__p_47272">
+               <persName>Leon-Wernburg, Julius Ritter von</persName>
+               <birth>
+                  <date>1842-11-9</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1927-2-26</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Großindustrieller</occupation>
+               <note type="comment">6., Linke Wienzeile 36</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

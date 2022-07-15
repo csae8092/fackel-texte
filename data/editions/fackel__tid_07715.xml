@@ -1,0 +1,33 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07715.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07714.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07716.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Aus den Annalen, in: Fackel Heft 18, Nr. 445, 1234, S. 161-162</title>
+            <title type="iso-date">1234-01-01</title>
+            <title type="id">tid_07715</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">18</title><title type="heft">445</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-18-445_n0161.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/445,161</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Aus den Annalen</head>
+            <p ana="pr103455">
+<space/>— Die <rs type="inst">Firma Gebrüder <rs type="pers" ana="n2_5882" ref="#fk__p_44244">Gutmann</rs></rs> hat gestern in der Auskunftei<lb/>
+des <rs type="inst">Kriegsministeriums</rs> zu Handen des Oberleutnants <rs type="pers" ana="n_66730" key="#fk__p_50562"><seg type="spc">Nechradola</seg></rs><lb/>
+den Betrag von hunderttausend Kronen als Spende für die <rs type="inst">Oesterreichische<lb/>
+Gesellschaft vom Roten Kreuz</rs> erlegt.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_44244">
+               <persName>Gutmann, Gebrüder</persName>
+            </person>
+            </listPerson></back></text>
+</TEI>

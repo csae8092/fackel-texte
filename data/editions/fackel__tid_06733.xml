@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06733.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06732.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06734.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ist das nicht ein Druckfehler?, in: Fackel Heft 16, Nr. 398, 1914, S. 13-14</title>
+            <title type="iso-date">1914-04-01</title>
+            <title type="id">tid_06733</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">16</title><title type="heft">398</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-16-398_n0013.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/398,013</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ist das nicht ein Druckfehler?</head>
+            <p ana="pr90802">
+<space/><seg type="sidehead">[<rs type="inst"><seg type="spc">Brünner <rs type="pers" ana="n2_5437" ref="#fk__p_55699">Mozart-Denkmal-Verein</rs></seg></rs>.]</seg> Über Einladung des<lb/>
+<rs type="inst">Brünner <rs type="pers" ana="n2_5438" ref="#fk__p_55699">Mozart-Denkmal-Vereines</rs></rs>, der sich die Errichtung eines<lb/>
+großen —<lb/>
+</p>
+            <p ana="pr90804">
+<space/>Ob das <rs type="pers" ana="n_61835" ref="#fk__p_47262">Korngold</rs> in Salzburg angenehm sein wird?<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_55699">
+               <persName>Mozart, Wolfgang Amadeus</persName>
+               <birth>
+                  <date>1756-1-27</date>
+                  <place>Salzburg</place>
+               </birth>
+               <death>
+                  <date>1791-12-5</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Komponist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12303</idno></person>
+            <person xml:id="fk__p_47262">
+               <persName>Korngold, Julius Leopold</persName>
+               <birth>
+                  <date>1860-12-24</date>
+                  <place>Brünn</place>
+               </birth>
+               <death>
+                  <date>1945-9-25</date>
+                  <place>Hollywood</place>
+               </death>
+               <occupation>Musikkritiker</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17059</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11972</idno></person>
+            </listPerson></back></text>
+</TEI>

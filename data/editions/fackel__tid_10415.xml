@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_10415.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10414.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10416.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Bibliographie), in: Fackel Heft 27, Nr. 712, 1926, S. 50-50</title>
+            <title type="iso-date">1926-01-01</title>
+            <title type="id">tid_10415</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">27</title><title type="heft">712</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-27-712_n0050.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/712,050</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Bibliographie)</head>
+            <p ana="pr142369">
+<space/><foreign xml:lang="en">‚<rs type="" ana="werk_27388">The Chicago Chronicle</rs>‘</foreign>, <foreign xml:lang="en">Magazine Section Part II (Chicago,<lb/>
+<date>November 27, 1925</date>)</foreign>: <foreign xml:lang="en">»<rs type="title"><rs type="pers" ana="n2_7723" ref="#fk__p_47565">Karl Kraus</rs> and the ban of silence</rs>« by<lb/>
+<rs type="pers" ana="name_200109" ref="#fk__p_50915">Oswald Brod</rs>.</foreign> — ‚<rs type="magazine" ana="werk_27389">Vierteljahrsschrift für <seg type="ELIDASH">Sozialgeschichte</seg> und Wirtschaftsgeschichte<lb/>
+</rs>‘ (XVIII. Band, <abbr>S.</abbr> 314, Berlin): in einem Aufsatz<lb/>
+»<rs type="title">Zur Erinnerung an <rs type="pers" ana="n2_7724" ref="#fk__p_49269"><abbr>L. M.</abbr> Hartmann</rs></rs>« von <rs type="pers" ana="n_86850" ref="#fk__p_40951">Ernst Stein</rs>. —<lb/>
+<foreign xml:lang="fr">‚<rs type="magazine" ana="werk_27390">L’Europe Nouvelle</rs>‘</foreign> (<abbr>Nr.</abbr> 412, <date>9. Januar</date>): <foreign xml:lang="fr">»<rs type="title"><rs type="pers" ana="n2_7725" ref="#fk__p_47565">Karl Kraus</rs> et la satire<lb/>
+de l’ancienne société austrohongroise</rs>« par <abbr>Prof.</abbr> <rs type="pers" ana="n_86851" ref="#fk__p_39896">Charles Schweitzer</rs></foreign>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_47565">
+               <persName>Kraus, Karl</persName>
+               <birth>
+                  <date>1874-4-28</date>
+                  <place>Jicin, Böhmen</place>
+               </birth>
+               <death>
+                  <date>1936-6-12</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Publizist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11988</idno></person>
+            <person xml:id="fk__p_49269">
+               <persName>Hartmann, Ludo Moritz</persName>
+               <birth>
+                  <date>1865-3-2</date>
+                  <place>Stuttgart</place>
+               </birth>
+               <death>
+                  <date>1924-11-14</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Historiker</occupation>
+               <occupation>Volksbildner</occupation>
+               <occupation>Politiker</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/7707</idno></person>
+            <person xml:id="fk__p_50915">
+               <persName>Brod, Oswald</persName>
+               <birth>
+                  <date>1892-11-15</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1980-12</date>
+                  <place>Europa</place>
+               </death>
+               <occupation>Buchhändler</occupation>
+               <note type="comment">Vortrag vor dem Chicago Women's Club Nov. 1923</note>
+               <note type="comment">in erster Ehe mit der Lithographin Fritzi Brod (1900-1952) verh.</note>
+            </person>
+            <person xml:id="fk__p_40951">
+               <persName>Stein, Ernst</persName>
+               <birth>
+                  <date>1891-09-19</date>
+                  <place>Jaworzno/Polen</place>
+               </birth>
+               <death>
+                  <date>1945-2-25</date>
+                  <place>Fribourg/Schweiz</place>
+               </death>
+               <occupation>Historiker</occupation>
+            </person>
+            <person xml:id="fk__p_39896">
+               <persName>Schweitzer, Charles</persName>
+               <birth>
+                  <date>1844</date>
+               </birth>
+               <death>
+                  <date>1935</date>
+               </death>
+               <occupation>Lehrer</occupation>
+               <note type="comment">Cousin Albert Schweitzers, Großvater Jean-Paul Sartres</note>
+               <note type="comment">Liste "Theater der Dichtung"</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/52946</idno></person>
+            </listPerson></back></text>
+</TEI>

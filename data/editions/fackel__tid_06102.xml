@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06102.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06101.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06103.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Vorlesung in Prag), in: Fackel Heft 14, Nr. 368, 1913, S. 24-24</title>
+            <title type="iso-date">1913-02-01</title>
+            <title type="id">tid_06102</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">14</title><title type="heft">368</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-14-368_n0024.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/368,024</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Vorlesung in Prag)</head>
+            <p ana="pr82215">
+<space/>Prag, im <rs type="inst">Palace-Saal</rs>, am <date>6. Januar</date>:<lb/>
+</p>
+            <p ana="pr82217">
+<space/>I. <rs type="pers" ana="n_57614" ref="#fk__p_46919">Nestroy</rs>: Szenen aus »<rs type="title">Die beiden Nachtwandler oder: Das<lb/>
+Notwendige und das Überflüssige</rs>« II. <rs type="title">Untergang der Welt durch<lb/>
+<seg type="insult">schwarze Magie</seg></rs> (aus <abbr>S.</abbr> 6—11, 18—23) / <rs type="title">Man muß die Leute ausreden<lb/>
+lassen</rs>; <rs type="title"><seg type="insult">Durch <rs type="pers" ana="n2_5060" ref="#fk__p_45908">Bahr</rs> zur Suffragette geworden</seg></rs>; <rs type="title">Auf der Suche nach<lb/>
+Fremden</rs>; <rs type="title">Ich pfeife auf den Text</rs>; <rs type="title"><seg type="insult"><foreign xml:lang="fr">Petite chronique scandaleuse</foreign></seg></rs><lb/>
+III. <rs type="title"><seg type="insult">Harakiri und Feuilleton</seg></rs> (mit Vorwort). — Zugaben: <rs type="title">Beim Anblick<lb/>
+<seg type="insult">einer sonderbaren Parte</seg></rs>; <rs type="title">Der Deutlichkeit halber</rs>; <rs type="title"><seg type="insult">Interview mit einem<lb/>
+sterbenden Kind</seg></rs>; <rs type="title">Ich rufe die Rettungsgesellschaft</rs>; <rs type="title"><seg type="insult">Wahrung berechtigter<lb/>
+Interessen</seg></rs>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46919">
+               <persName>Nestroy, Johann Nepomuk</persName>
+               <birth>
+                  <date>1801-12-7</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1862-5-25</date>
+                  <place>Graz</place>
+               </death>
+               <occupation>Sänger</occupation>
+               <occupation>Schauspieler</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12338</idno></person>
+            <person xml:id="fk__p_45908">
+               <persName>Bahr, Hermann</persName>
+               <birth>
+                  <date>1863-7-19</date>
+                  <place>Linz</place>
+               </birth>
+               <death>
+                  <date>1934-1-15</date>
+                  <place>München</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Kritiker</occupation>
+               <note type="comment">Ögg teilt auch 307/52, 445/49, 800/67 (Rotte Korah) Bahr zu</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10815</idno></person>
+            </listPerson></back></text>
+</TEI>

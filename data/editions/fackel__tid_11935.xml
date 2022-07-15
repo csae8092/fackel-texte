@@ -1,0 +1,109 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_11935.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11934.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11936.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Da es doch nur ein Traum ist, in: Fackel Heft 33, Nr. 857, 1931, S. 119-119</title>
+            <title type="iso-date">1931-08-01</title>
+            <title type="id">tid_11935</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">33</title><title type="heft">857</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-33-857_n0119.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/857,119</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Da es doch nur ein Traum ist</head>
+            <p ana="pr172718">
+(nämlich <seg type="insult">des <rs type="pers" ana="n_103131" ref="#fk__p_56096">Einstein</rs> vom <seg ana="Berliner Tageblatt"/></seg>), sei der Versuch<lb/>
+gemacht!<lb/>
+</p>
+            <p ana="pr172720">
+<space/>Ich <seg type="spc">träume</seg> freilich von einem andern <rs type="pers" ana="n_103132" ref="#fk__p_49966">Reinhardtschen Versuch<lb/>
+</rs> <seg type="symbol" subtype="3dots"/> Daß er selber ein Gerüst von Einfällen auf dem Boden der<lb/>
+Gegenwart aufstellt, daß er <seg type="spc">einen jungen Dichter beauftragt<lb/>
+</seg>, es <seg type="spc">mit Versen zu bekleiden</seg>, einen jungen Musiker,<lb/>
+<abbr>z. B.</abbr> <rs type="pers" ana="n_103133" ref="#fk__p_42772"><abbr>E. W.</abbr> Korngold</rs>, <seg type="spc">der zum Bearbeiter zu schade ist</seg>,<lb/>
+es <seg type="spc">mit Musik zu behängen</seg> <seg type="symbol" subtype="3dots"/> Aber das ist <seg type="spc">ein Traum</seg>,<lb/>
+viel phantastischer als der der schönen <rs type="pers">Helena</rs><ADD>.</ADD><lb/>
+</p>
+            <p ana="pr172722">
+Gar nicht so phantastisch. Wenn sich die <seg type="insult">Theaterspekulanten</seg> die<lb/>
+Werke von <rs type="pers" ana="n_103134" ref="#fk__p_55589">Shakespeare</rs> und <rs type="pers" ana="n_103135" ref="#fk__p_46664">Offenbach</rs> selbst herstellen anstatt<lb/>
+die Originale zu verschandeln, so ist ja alles in schönster Ordnung.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_49966">
+               <persName>Reinhardt, Max</persName>
+               <birth>
+                  <date>1873-9-9</date>
+                  <place>Baden bei Wien</place>
+               </birth>
+               <death>
+                  <date>1943-10-31</date>
+                  <place>New York</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <occupation>Regisseur</occupation>
+               <occupation>Theaterleiter</occupation>
+               <note type="comment">satirisch: Reinmeier, Steinhardt</note>
+               <note type="comment">Meraner Zeitung 15.3.1912, Nr. 32, S. 2: "Direktor Max Reinhardt, der geniale Leiter des Deutschen Theaters in Berlin, der ebenfalls in Meran weilt, begrüßte den Jubilar gestern vormittags durch ein flottes Ständchen der Bürgerkapelle."</note>
+               <note type="comment">R.s Inszenierung von Prinz Friedrich von Homburg wird 1925 am Staatl. Schasph. wiederaufgeführt</note>
+               <note type="comment">Ögg teilt 834/72 zu - zweifelhaft</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12504</idno></person>
+            <person xml:id="fk__p_55589">
+               <persName>Shakespeare, William</persName>
+               <birth>
+                  <date>1564-4-23?</date>
+                  <place>Stratford-upon-Avon</place>
+               </birth>
+               <death>
+                  <date>1616-4-23</date>
+                  <place>Stratford-upon-Avon</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2412</idno></person>
+            <person xml:id="fk__p_56096">
+               <persName>Einstein, Alfred</persName>
+               <birth>
+                  <date>1880-12-30</date>
+                  <place>München</place>
+               </birth>
+               <death>
+                  <date>1952-02-13</date>
+                  <place>El Cerrito/Kalif.</place>
+               </death>
+               <occupation>Musikwissenschaftler</occupation>
+            </person>
+            <person xml:id="fk__p_46664">
+               <persName>Offenbach, Jacques</persName>
+               <birth>
+                  <date>1819-06-21</date>
+                  <place>Köln</place>
+               </birth>
+               <death>
+                  <date>1880-10-05</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Komponist</occupation>
+               <note type="comment">Ögg teilt Fortunato F 876/34 Shakespeare zu</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/9131</idno></person>
+            <person xml:id="fk__p_42772">
+               <persName>Korngold, Erich Wolfgang</persName>
+               <birth>
+                  <date>1897-5-29</date>
+                  <place>Brünn</place>
+               </birth>
+               <death>
+                  <date>1957-11-29</date>
+                  <place>Hollywood</place>
+               </death>
+               <occupation>Komponist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11969</idno></person>
+            </listPerson></back></text>
+</TEI>

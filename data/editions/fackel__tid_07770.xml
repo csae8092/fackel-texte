@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07770.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07769.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07771.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Berlin, im großen Saal des Architektenhauses, 7. Februar:, in: Fackel Heft 19, Nr. 454, 1234, S. 29-30</title>
+            <title type="iso-date">1234-01-01</title>
+            <title type="id">tid_07770</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">19</title><title type="heft">454</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-19-454_n0029.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/454,029</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Berlin, im großen Saal des Architektenhauses, 7. Februar:</head>
+            <p ana="pr104008">
+<space/><seg type="spc">Berlin</seg>, im <rs type="inst">großen Saal des Architektenhauses</rs>, <date>7. Februar</date>:<lb/>
+</p>
+            <p ana="pr104009">
+<space/>I. <rs type="title"><rs type="pers" ana="n2_5914" ref="#fk__p_53452">Kierkegaard</rs> über die <seg type="insult">Tagespresse</seg></rs> / <rs type="title"><seg type="insult"><seg type="spc">Von einem Mann<lb/>
+namens <rs type="pers" ana="n2_5915" ref="#fk__p_51638">Ernst Posse</rs></seg></seg></rs> / Aus »<rs type="title"><seg type="spc">Nachts</seg></rs>« / <rs type="title"><seg type="insult"><seg type="spc">Diplomaten</seg></seg></rs>.<lb/>
+II. <rs type="title"><seg type="insult">Ein deutsches Plakat</seg></rs> / <rs type="title">Seid ihr alle auch gesund?</rs> / <rs type="title"><seg type="insult">Trophäen</seg></rs> /<lb/>
+<rs type="title"><seg type="insult">Der Untergang der Verité</seg></rs> / <rs type="title"><seg type="insult">Kriegsnamen</seg></rs> / <rs type="title"><seg type="insult">Der Atem der Weltgeschichte<lb/>
+</seg></rs> / <rs type="title">Auf <seg type="insult">Desperanto</seg></rs> / <rs type="title"><seg type="insult"><rs type="pers">Hiobsposten</rs></seg></rs> / <rs type="title">Papierknappheit in<lb/>
+Italien</rs> / <rs type="title"><seg type="insult">Die <rs type="pers" ana="n2_5916" ref="#fk__p_38111">Schalek</rs> und der einfache Mann</seg></rs> / <rs type="title">Er war ein Mann,<lb/>
+nehmt alles nur in allem</rs> / <rs type="title">Ein 2½ jähriges Kind zeichnet Kriegsanleihe<lb/>
+</rs> / <rs type="title"><seg type="insult">Die europäische Melange</seg></rs> / <rs type="title"><seg type="insult">Zur Darnachachtung</seg></rs> / <rs type="title"><seg type="insult">Der ruhmlosere<lb/>
+ Abschluß</seg></rs> / <rs type="title"><seg type="spc">Gebet</seg></rs>. III. <rs type="title">Vor einem Springbrunnen</rs> / <rs type="title">Abenteuer<lb/>
+der Arbeit</rs> / <rs type="title">Der Reim</rs> / <rs type="title">Grabschrift</rs> / <rs type="title">Beim Anblick einer Schwangeren<lb/>
+</rs> / <rs type="title"><seg type="insult">Mit der Uhr in der Hand</seg></rs> / <rs type="title"><seg type="spc">Gebet an die Sonne<lb/>
+von Gibeon</seg></rs>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_53452">
+               <persName>Kierkegaard, Sören</persName>
+               <birth>
+                  <date>1813-5-5</date>
+                  <place>Kopenhagen</place>
+               </birth>
+               <death>
+                  <date>1855-11-11</date>
+                  <place>Kopenhagen</place>
+               </death>
+               <occupation>Philosoph</occupation>
+               <occupation>Theologe</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16839</idno></person>
+            <person xml:id="fk__p_51638">
+               <persName>Posse, Ernst</persName>
+               <birth>
+                  <date>1860-02-14</date>
+                  <place>Elberfeld</place>
+               </birth>
+               <death>
+                  <date>1943-02-6</date>
+                  <place>Berlin</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Chefred. der Kölnischen Zeitung</note>
+            </person>
+            <person xml:id="fk__p_38111">
+               <persName>Schalek, Alice</persName>
+               <birth>
+                  <date>1874-8-21</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1956-11-6</date>
+                  <place>New York</place>
+               </death>
+               <occupation>Journalistin</occupation>
+               <occupation>Schriftstellerin</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/9664</idno></person>
+            </listPerson></back></text>
+</TEI>

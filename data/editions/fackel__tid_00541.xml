@@ -1,0 +1,93 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00541.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00540.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00542.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Advocat. (Einem Advocaten), in: Fackel Heft 01, Nr. 022, 1899, S. 28-29</title>
+            <title type="iso-date">1899-11-01</title>
+            <title type="id">tid_00541</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">022</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-022_n0028.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/022,028</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Advocat. (Einem Advocaten)</head>
+            <p ana="pr5028">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_3814" ref="#fk__p_37858">Advocat</rs>.</seg></seg> Mir scheint doch die Art des Kampfes sattsam dadurch<lb/>
+ gekennzeichnet, dass <seg type="insult">die Herren von der »Opposition«</seg> die<lb/>
+Führung übernommen haben. Man brauchte nur einzelne Namen zu<lb/>
+nennen, um klarzumachen, dass es da Leute gibt, denen es unangenehm<lb/>
+ ist, dasjenige, was sie früher im Dunkel ihrer Schreibstube<lb/>
+thaten, jetzt im hellen Lichte der Oeffentlichkeit üben zu müssen.<lb/>
+<seg type="insult">Die Herren vom Vorstand der <rs type="inst">Advocatenkammer</rs></seg> aber bedienen sich<lb/>
+des Kampfes gegen <seg type="spc"><rs type="pers" ana="n_3815" ref="#fk__p_43519">Klein</rs></seg> als eines erwünschten Mittels, die Angriffe<lb/>
+der Opposition von sich abzulenken. Wie viel vorsichtiger sind diese<lb/>
+älteren Herren übrigens! Herr <rs type="pers" ana="n_3816" ref="#fk__p_42041"><abbr>Dr.</abbr> <seg type="spc">Zucker</seg></rs> hat doch ein zu starkes<lb/>
+</p>
+            <p ana="pr5028">
+Gefühl von Würde, als dass er einen Artikel in der ‚<rs type="paper" ana="werk_1305">Neuen Freien Presse</rs>‘<lb/>
+mit seinem Namen gezeichnet hätte. Und doch musste die Anonymität<lb/>
+in diesem Falle seinen Ausführungen einen großen Theil des Gewichtes<lb/>
+rauben, das sie sonst als die Aeußerung eines angesehenen Mannes<lb/>
+und tüchtigen Juristen gehabt hätten. Uebrigens hat er sich auch nicht<lb/>
+gegen den Sectionschef gewendet, den die anderen zum Sündenbock<lb/>
+erwählt haben. Warum thaten sie das eigentlich? Es gibt doch verantwortliche<lb/>
+ Minister. Allerdings wird behauptet, dass die <seg type="spc">Klagen</seg><lb/>
+der Advocaten nie bis zu Herrn <rs type="pers" ana="n_3817" ref="#fk__p_52529">Ruber</rs>, sondern höchstens bis zu<lb/>
+seiner Frau gedrungen sind <seg type="symbol" subtype="3dots"/><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_43519">
+               <persName>Klein, Franz</persName>
+               <birth>
+                  <date>1854-04-24</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1926-04-06</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Jurist</occupation>
+               <occupation>Politiker</occupation>
+               <note type="comment">Sekt. Chef im Justizministerium, Leiter des Justizmin. (1.1.1905-2.6.1906), Minister</note>
+               <note type="comment">Minister 2.6.1906-15.11.1908, 31.10.1916-20.12.1916</note>
+               <note type="comment">Ögg irrt. anstatt 230/(2): 230/(3-5)</note>
+               <note type="comment">Justizminister 1906-08, 1916</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/8233</idno></person>
+            <person xml:id="fk__p_52529">
+               <persName>Ruber, Ignaz Freiherr von</persName>
+               <birth>
+                  <date>1845-05-05</date>
+                  <place>Brünn</place>
+               </birth>
+               <death>
+                  <date>1933-11-07</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Jurist</occupation>
+               <occupation>Politiker</occupation>
+            </person>
+            <person xml:id="fk__p_42041">
+               <persName>Zucker, Wilhelm</persName>
+               <birth>
+                  <date>1846?</date>
+                  <place>Skyn/Böhm.</place>
+               </birth>
+               <death>
+                  <date>1906-11-24</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Jurist</occupation>
+            </person>
+            <person xml:id="fk__p_37858">
+               <persName>Advocat</persName>
+            </person>
+            </listPerson></back></text>
+</TEI>

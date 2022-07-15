@@ -1,0 +1,47 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_05507.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05506.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05508.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Die Wiener Büchlschreiber, nach dem Leben geschildert von einem Wiener, in: Fackel Heft 13, Nr. 334, 1911, S. 54-54</title>
+            <title type="iso-date">1911-10-31</title>
+            <title type="id">tid_05507</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">13</title><title type="heft">334</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-13-334_n0054.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/334,054</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Die Wiener Büchlschreiber, nach dem Leben geschildert von einem Wiener</head>
+            <p ana="pr72228">
+»<rs type="title"><seg type="spc"><seg type="insult">Die Wiener Büchl-schreiber</seg>, nach dem Leben<lb/>
+geschildert von einem Wiener</seg>, <date>1783</date></rs>«<lb/>
+</p>
+            <p ana="pr72229">
+<rs type="title">Im deutschen Museum</rs>, 2. <abbr>Bd.</abbr>, Leipzig bei <rs type="inst"><rs type="pers" ana="n2_4605" ref="#fk__p_59130">Wiegand</rs></rs>, <date>1783</date>:<lb/>
+</p>
+            <lg>
+<l><seg type="symbol" subtype="3dotsEditor"/>Doch wiederum zu meinem Text!</l>
+<l><seg type="insult">Ihr Wiener</seg>, seid <choice><sic>ihr</sic><corr>Ihr</corr></choice> denn verhext,</l>
+<l>daß <seg type="insult">jeder Wisch</seg> zum Buch getauft,</l>
+<l>von Euch begierig wird gekauft? <seg type="symbol" subtype="3dotsEditor"/></l>
+</lg>
+            <lg>
+<l><seg type="symbol" subtype="3dotsEditor"/>Der Beifall <seg type="insult">so schlechter Schmiererei</seg></l>
+<l>zieht noch <seg type="insult"><foreign xml:lang="de-loc">Scribler</foreign> aus aller Welt</seg> herbei,</l>
+<l>den man aus andern Ländern treibt,</l>
+<l>Bettelt sich bis nach Wien, — und schreibt <seg type="symbol" subtype="3dotsEditor"/></l>
+</lg>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_59130">
+               <persName>Wigand, Georg (Verlag)</persName>
+               <note type="comment">Leipzig</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

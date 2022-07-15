@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06554.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06553.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06555.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ein Bild des Grauens, in: Fackel Heft 15, Nr. 391, 1914, S. 5-6</title>
+            <title type="iso-date">1914-01-01</title>
+            <title type="id">tid_06554</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">15</title><title type="heft">391</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-15-391_n0005.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/391,005</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ein Bild des Grauens</head>
+            <p ana="pr88905">
+<space/>Die <seg ana="Arbeiter-Zeitung"/> hat aus der <rs type="self" ana="werk_19958">Fackel</rs> das Angebot des<lb/>
+<rs type="paper" ana="werk_19959">Deutschen Volksblattes</rs>, seine Textzeile um 4 Kronen zu kaufen,<lb/>
+abgedruckt. Aber es ist vielleicht noch sittlicher, die Textzeile um<lb/>
+4 Kronen mit <seg type="insult">wertlosem Text</seg> zu füllen, als unmittelbar hinter<lb/>
+dem Text, gleich nachdem man von <seg type="insult">»christlich-sozialen Schwindlern<lb/>
+«</seg> berichtet hat, unter »<rs type="title">Mitteilungen aus dem Publikum</rs>«<lb/>
+einem Publikum, dessen kulturelle Erziehung zum Parteiprogramm<lb/>
+gehört, das folgende zu bieten:<lb/>
+</p>
+            <p ana="pr88907">
+<rs type="pers" ana="n_60788" ref="#fk__p_43855">Nietzsche</rs><lb/>
+</p>
+            <p ana="pr88908">
+Das Leben es ist kurz und mieß,<lb/>
+Mit „<rs type="pers" ana="n_60789" ref="#fk__p_57571">Berson</rs>“ wird’s zum Paradies!<lb/>
+</p>
+            <p ana="pr88910">
+<space/>Es ist zweifellos <seg type="insult">das Speiwürdigste</seg>, was der <seg type="insult">Kommerzgeist</seg><lb/>
+bisher vermocht hat. <seg type="insult">Wien</seg>, die »für alles Schöne, Bedeutende und<lb/>
+Große so empfängliche Stadt«, kommt nicht nur <rs type="pers" ana="n_60790" ref="#fk__p_38582">Strindberg</rs>,<lb/>
+sondern auch <rs type="pers" ana="n_60791" ref="#fk__p_43855">Nietzsche</rs> mit offenem Herzen entgegen. In<lb/>
+Deutschland wurde eine Zeitlang Klosettpapier verkauft, auf dem<lb/>
+je ein zur Situation passendes Zitat aus einem Klassiker aufgedruckt<lb/>
+war. <seg type="insult">Dieser Text</seg>, der den Genius in den locus verbannte, war <seg type="insult">eine<lb/>
+deutsche Tat</seg>. Er stinkt bei weitem nicht an <seg type="insult">jenes Bild des Grauens</seg><lb/>
+heran. Wehrlos liegt der Staat, der Leben, Ehre, Gesundheit und<lb/>
+Vermögen schützt, zu Füßen der <seg type="insult">Kanaille</seg>, die die Kultur frißt<lb/>
+wie die <seg type="insult"><foreign xml:lang="la">boa constrictor</foreign></seg> das Kaninchen.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_43855">
+               <persName>Nietzsche, Friedrich</persName>
+               <birth>
+                  <date>1844-10-15</date>
+                  <place>Röcken/Lützen, Sachsen</place>
+               </birth>
+               <death>
+                  <date>1900-8-25</date>
+                  <place>Weimar</place>
+               </death>
+               <occupation>Philosoph</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12358</idno></person>
+            <person xml:id="fk__p_57571">
+               <persName>Berson (Gummisohlen-Fabrik)</persName>
+               <note type="comment">7., Zieglergasse 6; später: 3., Ziehrerplatz 9</note>
+               <note type="comment">Inhaber: Julius und Robert Beer</note>
+            </person>
+            <person xml:id="fk__p_38582">
+               <persName>Strindberg, August</persName>
+               <birth>
+                  <date>1849-1-22</date>
+                  <place>Stockholm</place>
+               </birth>
+               <death>
+                  <date>1912-5-14</date>
+                  <place>Stockholm</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12877</idno></person>
+            </listPerson></back></text>
+</TEI>

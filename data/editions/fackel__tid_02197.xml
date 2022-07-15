@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02197.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02196.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02198.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Eine Verwahrung, in: Fackel Heft 03, Nr. 093, 1902, S. 23-23</title>
+            <title type="iso-date">1902-02-4</title>
+            <title type="id">tid_02197</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">03</title><title type="heft">093</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-03-093_n0023.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/093,023</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Eine Verwahrung</head>
+            <p ana="pr21422">
+<space/>Ich habe mich in der in <rs type="selfRef" ana="werk_7082"><abbr>No.</abbr> 83</rs> der ‚<rs type="self" ana="werk_7083">Fackel</rs>‘<lb/>
+enthaltenen Theater-Revue mit <seg type="insult">der neuen Aera des<lb/>
+<rs type="inst">Theaters an der Wien</rs></seg>, mit dessen gegenwärtigem<lb/>
+Director, <seg type="insult">Herrn <rs type="pers" ana="n_18721" ref="#fk__p_55522">Karczag</rs></seg>, und Frau <rs type="pers" ana="n_18722" ref="#fk__p_48119">Kopacsi-Karczag</rs><lb/>
+beschäftigt. Wie ich zu meinem Bedauern erfahre,<lb/>
+wurden einzelne Stellen dieser Besprechung mehrfach<lb/>
+missverstanden und so gedeutet, als ob ich in das<lb/>
+<seg type="ELIDASH">Privatleben</seg> und Familienleben des genannten Ehepaares<lb/>
+hätte eingreifen wollen. Dies ist schon darum ganz<lb/>
+undenkbar, weil ich <seg type="insult">ähnliche Ausschreitungen der<lb/>
+Presse</seg> unaufhörlich bekämpfe, also gewiss niemals<lb/>
+<seg type="insult">solch unerlaubte und geschmacklose Bräuche</seg> in der<lb/>
+‚<rs type="self" ana="werk_7084">Fackel</rs>‘ einbürgern würde, und nicht minder auch<lb/>
+deshalb, weil ich in jenem Artikel von <seg type="insult">der »unerschütterlichen<lb/>
+ Grundlage eines rührenden Familienlebens<lb/>
+«</seg> schrieb, was die Annahme, als ob ich der Frau<lb/>
+<rs type="pers" ana="n_18723" ref="#fk__p_48119">Kopacsi-Karczag</rs> in ihrer Frauenehre oder ihrem<lb/>
+Gatten in seiner Gattenehre hätte nahetreten wollen,<lb/>
+geradezu ausschliesst. Gegen <seg type="insult">eine solche Zumuthung</seg><lb/>
+muss ich daher in gleicher Weise mich und das Ehepaar<lb/>
+ <rs type="pers" ana="n_18724" ref="#fk__p_55522">Karczag</rs> in Schutz nehmen.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_48119">
+               <persName>Kopacsi-Karczág, Juliska</persName>
+               <birth>
+                  <date>1867-2-13</date>
+                  <place>Komorn</place>
+               </birth>
+               <death>
+                  <date>1957-1-26</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Sängerin</occupation>
+            </person>
+            <person xml:id="fk__p_55522">
+               <persName>Karczág, Wilhelm</persName>
+               <birth>
+                  <date>1857-8-28</date>
+                  <place>Karczag, Ungarn</place>
+               </birth>
+               <death>
+                  <date>1923-10-11</date>
+                  <place>Baden bei Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Theaterleiter</occupation>
+               <occupation>Musikverleger</occupation>
+               <note type="comment">Hietzing</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

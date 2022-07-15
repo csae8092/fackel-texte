@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02713.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02712.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02714.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Goetheforscher. (Aus Goethe), in: Fackel Heft 04, Nr. 118, 1902, S. 30-30</title>
+            <title type="iso-date">1902-10-17</title>
+            <title type="id">tid_02713</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">04</title><title type="heft">118</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-04-118_n0030.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/118,030</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Goetheforscher. (Aus Goethe)</head>
+            <p ana="pr26454">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="n_22927" ref="#fk__p_46960">Goetheforscher</rs>.</seg></seg></seg> Anlässlich der Première der »<rs type="title">Drei Reiherfedern</rs>«<lb/>
+ist zwischen <seg type="insult">dem Kritiker der ‚<rs type="" ana="werk_9242">Ostdeutschen Rundschau</rs>‘ und dem des<lb/>
+‚<rs type="paper" ana="werk_9243">Deutschen Volksblatt</rs>‘</seg> ein <seg type="insult">lebhafter Meinungsstreit</seg> entbrannt. Jener behauptete<lb/>
+, dem Stück liege der Gedanke zugrunde: »<seg type="spc">Wozu denn in<lb/>
+die Ferne</seg> schweifen? — Sieh’, das Gute liegt so nah. — Lerne nur<lb/>
+das Glück <seg type="spc">begreifen</seg>, — <seg type="spc">Und</seg> das Glück ist immer da«. <seg type="insult">Der Herr<lb/>
+vom ‚<rs type="paper" ana="werk_9244">Deutschen Volksblatt</rs>‘</seg> erklärte resolut, das Drama sei eine Umschreibung<lb/>
+ der bekannten Mahnung: »<seg type="spc">Schweife nicht in die Ferne</seg>,<lb/>
+<seg type="spc">denn</seg> das Gute <seg type="spc">ist oft so</seg> nah«. <seg type="insult">Ja, das Gute!</seg> Aber der <rs type="title"><rs type="pers" ana="name_200083" ref="#fk__p_55993">Büchmann</rs></rs><lb/>
+nicht. Auch für <seg type="insult">den gelehrten Herrn <rs type="pers" ana="n_22928" ref="#fk__p_38076">Alfred Klaar</rs></seg> nicht, der am<lb/>
+<date>3. October</date> im Feuilleton des ‚<rs type="paper" ana="werk_9245">Neuen Wiener Tagblatt</rs>‘ »<seg type="spc">wie</seg> <rs type="pers">Faust</rs> ausrufen<lb/>
+ möchte: <seg type="spc">Wie anders muthet mich dies Schauspiel an</seg>!«<lb/>
+Nicht ganz so wie <rs type="pers">Faust</rs>, aber ähnlich. <seg type="insult">Herr <rs type="pers" ana="n_22929" ref="#fk__p_38076">Klaar</rs></seg> hat nämlich, da<lb/>
+er <seg type="insult">bloß acht Feuilletonspalten</seg> zur Verfügung hatte, die Verse: »Welch<lb/>
+Schauspiel! aber ach! ein Schauspiel nur!« und »Wie anders wirkt dies<lb/>
+Zeichen auf mich ein!« zusammengezogen.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_55993">
+               <persName>Büchmann, Georg</persName>
+               <birth>
+                  <date>1822-01-04</date>
+                  <place>Berlin</place>
+               </birth>
+               <death>
+                  <date>1884-02-24</date>
+                  <place>Berlin</place>
+               </death>
+               <occupation>Lexikograph</occupation>
+            </person>
+            <person xml:id="fk__p_46960">
+               <persName>Goethe, Johann Wolfgang von</persName>
+               <birth>
+                  <date>1749-8-28</date>
+                  <place>Frankfurt am Main</place>
+               </birth>
+               <death>
+                  <date>1832-3-22</date>
+                  <place>Weimar</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">890/142f.</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11461</idno></person>
+            <person xml:id="fk__p_38076">
+               <persName>Klaar, Alfred</persName>
+               <birth>
+                  <date>1848-11-7</date>
+                  <place>Prag</place>
+               </birth>
+               <death>
+                  <date>1927-11-4</date>
+                  <place>Berlin</place>
+               </death>
+               <occupation>Literarhistoriker</occupation>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Kritiker</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/8214</idno></person>
+            </listPerson></back></text>
+</TEI>

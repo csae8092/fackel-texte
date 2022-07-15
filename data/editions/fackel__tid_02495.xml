@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02495.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02494.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02496.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ein Frischauer-Stückchen, in: Fackel Heft 04, Nr. 107, 1902, S. 14-14</title>
+            <title type="iso-date">1902-06-27</title>
+            <title type="id">tid_02495</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">04</title><title type="heft">107</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-04-107_n0014.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/107,014</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ein Frischauer-Stückchen</head>
+            <p ana="pr24235">
+<space/>»Präsident <rs type="pers" ana="n_21062" ref="#fk__p_39439">Bourgeois</rs> ruft den Redner zur Sache. Es werde sich,<lb/>
+bemerkt er, Gelegenheit finden, über die Affaire <rs type="pers" ana="n_21063" ref="#fk__p_56484">Humbert</rs> zu<lb/>
+sprechen, wenn die Interpellation auf der Tagesordnung stehen werde.<lb/>
+</p>
+            <p ana="pr24236">
+<space/><rs type="pers" ana="n_21064" ref="#fk__p_48616">Lasies</rs>: <seg type="spc">Gut</seg>, <seg type="spc">werde ich dann reden</seg>.«<lb/>
+</p>
+            <p ana="pr24238">
+<space/>Also drahtete <seg type="insult"><rs type="pers" ana="n_21065" ref="#fk__p_40792">Berthold Frischauer</rs></seg> am <date>12. Juni</date> über die<lb/>
+Pariser Kammerdebatte.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_56484">
+               <persName>Humbert, Thérèse, geb. Daurignac</persName>
+               <birth>
+                  <date>1856</date>
+                  <place>Aussonne/Languedoc</place>
+               </birth>
+               <death>
+                  <date>1918</date>
+                  <place>Chicago</place>
+               </death>
+               <occupation>Betrügerin</occupation>
+               <note type="comment">Betrügerin</note>
+               <note type="comment">"La Grande Therese": Hilary Spurling recherchierte die Geschichte eines Jahrhundertschwindels (Buch: Berenberg Verlag)</note>
+            </person>
+            <person xml:id="fk__p_48616">
+               <persName>Lasies, Marie-Louis-Joseph</persName>
+               <birth>
+                  <date>1862-2-21</date>
+                  <place>Houga/Gers</place>
+               </birth>
+               <death>
+                  <date>1927-2-23</date>
+                  <place>Bordeaux</place>
+               </death>
+               <occupation>Politiker</occupation>
+            </person>
+            <person xml:id="fk__p_39439">
+               <persName>Bourgeois, Léon Victor Auguste</persName>
+               <birth>
+                  <date>1851-05-21</date>
+                  <place>Paris</place>
+               </birth>
+               <death>
+                  <date>1925-09-29</date>
+                  <place>Chateau d'Oger bei Épernay</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <note type="comment">Ögg: Bourgois</note>
+               <note type="comment">1920 Friedensnobelpreis</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/88000</idno></person>
+            <person xml:id="fk__p_40792">
+               <persName>Frischauer, Berthold</persName>
+               <birth>
+                  <date>1851-9-9</date>
+                  <place>Brünn</place>
+               </birth>
+               <death>
+                  <date>1924-2-4</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <note type="comment">6., Linke Wienzeile 36</note>
+               <note type="comment">Ögg teilt ihm auch 56/23 zu, nicht erkennbar, weshalb</note>
+               <note type="comment">Red. der NFP</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/16710</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_10376.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10375.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10377.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">14. Oktober:, in: Fackel Heft 27, Nr. 706, 1925, S. 85-85</title>
+            <title type="iso-date">1925-12-01</title>
+            <title type="id">tid_10376</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">27</title><title type="heft">706</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-27-706_n0085.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/706,085</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>14. Oktober:</head>
+            <p ana="pr141714">
+<space/><date>14. Oktober</date>:<lb/>
+</p>
+            <p ana="pr141715">
+<space/>I. Aus »<rs type="title">Sprachschule</rs>« (<rs type="title">»<rs type="title"><rs type="pers">Pandora</rs></rs>« und die deutsche Literaturgeschichte<lb/>
+</rs>). <rs type="pers" ana="n_86539" ref="#fk__p_46960"><seg type="spc">Goethe</seg></rs>: <rs type="title"><rs type="pers"><seg type="spc">Pandora</seg></rs></rs>. [36 Verse gestrichen.]<lb/>
+</p>
+            <p ana="pr141716">
+<space/>II. <rs type="pers" ana="n_86540" ref="#fk__p_47565"><seg type="spc">Karl Kraus</seg></rs>: <rs type="title"><seg type="spc">Traumtheater</seg></rs>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_47565">
+               <persName>Kraus, Karl</persName>
+               <birth>
+                  <date>1874-4-28</date>
+                  <place>Jicin, Böhmen</place>
+               </birth>
+               <death>
+                  <date>1936-6-12</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Publizist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11988</idno></person>
+            <person xml:id="fk__p_46960">
+               <persName>Goethe, Johann Wolfgang von</persName>
+               <birth>
+                  <date>1749-8-28</date>
+                  <place>Frankfurt am Main</place>
+               </birth>
+               <death>
+                  <date>1832-3-22</date>
+                  <place>Weimar</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">890/142f.</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11461</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_05960.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05959.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05961.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Was ist denn los?, in: Fackel Heft 14, Nr. 360, 1912, S. 29-30</title>
+            <title type="iso-date">1912-11-01</title>
+            <title type="id">tid_05960</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">14</title><title type="heft">360</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-14-360_n0029.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/360,029</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Was ist denn los?</head>
+            <p ana="pr79952">
+<space/>Ein Markstein <seg type="symbol" subtype="3dots"/> Sie sind hiehergekommen, um ernste Fragen<lb/>
+zu beraten, die auch für uns Österreicher von größtem Werte sind <seg type="symbol" subtype="3dots"/><lb/>
+kulturelle Bedeutung <seg type="symbol" subtype="3dots"/> und welche ein Zeugnis sind für die Bedeutung<lb/>
+Ihrer Mission <seg type="symbol" subtype="3dots"/> Wir begrüßen Sie als Kulturträger der zivilisierten<lb/>
+Menschen <seg type="symbol" subtype="3dots"/> wir schätzen die Tatkraft, welche erforderlich ist <seg type="symbol" subtype="3dots"/><lb/>
+und wir setzen unseren Ehrgeiz daran, zu den allerwichtigsten Kulturfaktoren<lb/>
+ gezählt zu werden <seg type="symbol" subtype="3dots"/> pries Wien als das Bollwerk abendländischer<lb/>
+ Kultur und erinnerte an die großen Zeiten der <rs type="pers" ana="n_56409" ref="#fk__p_45327">Habsburger</rs>,<lb/>
+an den <rs type="event">Wiener Kongreß</rs> <seg type="symbol" subtype="3dots"/> würdigte die Bedeutung Wiens als Stätte<lb/>
+der Pflege von Kunst und Wissenschaft <seg type="symbol" subtype="3dots"/> gegen <DATERANGE>Ende des vorigen<lb/>
+Jahrhunderts</DATERANGE> die Sprengung jener Fesseln endlich erreicht <seg type="symbol" subtype="3dots"/><lb/>
+</p>
+            <p ana="pr79952">
+wie ein <rs type="pers">Damoklesschwert</rs> <seg type="symbol" subtype="3dots"/> einer der mächtigsten Hebel <seg type="symbol" subtype="3dots"/> Markstein <seg type="symbol" subtype="3dots"/><lb/>
+<rs type="pers" ana="n_56411" ref="#fk__p_53798">Sukfüll</rs> <seg type="symbol" subtype="3dots"/><lb/>
+</p>
+            <p ana="pr79954">
+<space/>Also, wie man sieht, es handelt sich um einen <seg type="insult">Wiener<lb/>
+Kongreß von Hoteliers</seg>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_45327">
+               <persName>Habsburg</persName>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/17702</idno></person>
+            <person xml:id="fk__p_53798">
+               <persName>Sukfüll, Karl</persName>
+               <birth>
+                  <date>1862-5-16</date>
+                  <place>Baden bei Wien</place>
+               </birth>
+               <death>
+                  <date>1944-2-9</date>
+                  <place>Baden bei Wien</place>
+               </death>
+               <occupation>Hotelier</occupation>
+               <note type="comment">NFP 5.2.1913 (Abend), S. 1. Vermählung von Hansi Sukfüll, Gratulation des Papstes</note>
+               <note type="comment">Baden, Renngasse 2</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

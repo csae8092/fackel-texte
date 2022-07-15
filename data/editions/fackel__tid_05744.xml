@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_05744.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05743.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05745.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Zur Nestroy-Feier, in: Fackel Heft 14, Nr. 347, 1912, S. 27-28</title>
+            <title type="iso-date">1912-01-01</title>
+            <title type="id">tid_05744</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">14</title><title type="heft">347</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-14-347_n0027.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/347,027</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Zur Nestroy-Feier</head>
+            <p ana="pr75928">
+<space/>Daß man die <seg type="insult">Literarhistoriker</seg> zum Krennreiben braucht,<lb/>
+würde eine Köchin entschieden bestreiten. Wozu sie aber auf der<lb/>
+Welt sind, wenn sie nicht einmal wissen, wann ein Dichter gestorben<lb/>
+ ist, wer weiß es? <seg type="insult">Ein gewisser <rs type="pers" ana="n_54359" ref="#fk__p_40978">Hirth</rs></seg>, hervorgegangen aus<lb/>
+</p>
+            <p ana="pr75928">
+der Schule <seg type="insult">des Herrn <rs type="pers" ana="n_54360" ref="#fk__p_46699">Minor</rs></seg> und bekannt aus der <rs type="selfRef" ana="werk_18826"><abbr>Nr.</abbr> 336/37</rs> der<lb/>
+<rs type="self" ana="werk_18827">Fackel</rs>, setzt das Todesdatum <rs type="pers" ana="n_54361" ref="#fk__p_46919">Nestroys</rs> für den <date>23. April</date> fest und<lb/>
+hat deshalb schon den fünfzigsten Todestag im <rs type="paper" ana="werk_18828">Neuen Wiener<lb/>
+Journal</rs> gefeiert. Vielleicht aber wird bloß die <seg type="insult">Unwissenheit des Fachmannes<lb/>
+</seg> von der <seg type="insult">Fixigkeit</seg> ausgenützt, und <rs type="pers" ana="n_54362" ref="#fk__p_46919">Nestroys</rs> Leben abgekürzt,<lb/>
+um einen vollen Monat vor den anderen — <rs type="pers" ana="n_54363" ref="#fk__p_46919">Nestroy</rs> ist am <date>25. Mai</date><lb/>
+gestorben — zu einem Gedenkartikel zu kommen. Freilich würde nach<lb/>
+dem Erscheinen meines Essays <seg type="insult">»<rs type="title"><rs type="pers" ana="n2_4774" ref="#fk__p_46919">Nestroy</rs> und die Nachwelt</rs>«</seg> sich<lb/>
+überhaupt keiner <seg type="insult">der Herren</seg> mehr an die Sache herantrauen. — Zum<lb/>
+Vortrag dieser Gedenkrede am <date>2. Mai</date> ist zu sagen, daß es verfehlt<lb/>
+wäre, manches, was darin über <seg type="insult">die verzehrende Nichtigkeit technischer<lb/>
+ Werte</seg> und über die <seg type="insult">Revolution gegen die Fortdauer des<lb/>
+Geistes</seg>: was über das Ereignis der Zeit gedacht ist, auf das Ereignis<lb/>
+der letzten Tage zurückzuführen, das wohl als Anstoß solcher Betrachtungen<lb/>
+ taugen mag, sie aber nur bestätigt, nicht angeregt hat.<lb/>
+Das muß betont werden, weil sonst in manchen Worten eine reale<lb/>
+Beziehung angedeutet, aber nicht ausgemünzt schiene und dem<lb/>
+abgeschlossenen Gedanken durch solche Verschiebung Eintrag<lb/>
+geschähe. Der Aufsatz ist in den Tagen vor Ostern entstanden und<lb/>
+beendet worden.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_40978">
+               <persName>Hirth, Friedrich Eugen</persName>
+               <birth>
+                  <date>1878-7-25</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1952-12-20</date>
+                  <place>Mainz</place>
+               </death>
+               <occupation>Literarhistoriker</occupation>
+            </person>
+            <person xml:id="fk__p_46919">
+               <persName>Nestroy, Johann Nepomuk</persName>
+               <birth>
+                  <date>1801-12-7</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1862-5-25</date>
+                  <place>Graz</place>
+               </death>
+               <occupation>Sänger</occupation>
+               <occupation>Schauspieler</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12338</idno></person>
+            <person xml:id="fk__p_46699">
+               <persName>Minor, Jakob</persName>
+               <birth>
+                  <date>1855-4-15</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1912-10-7</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Literarhistoriker</occupation>
+               <note type="comment">seit 1888 Prof- Univ. Wien</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12258</idno></person>
+            </listPerson></back></text>
+</TEI>

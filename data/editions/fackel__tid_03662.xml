@@ -1,0 +1,44 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03662.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03661.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03663.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Liebe Fackel!, in: Fackel Heft 06, Nr. 165, 1904, S. 22-23</title>
+            <title type="iso-date">1904-07-8</title>
+            <title type="id">tid_03662</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">06</title><title type="heft">165</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-06-165_n0022.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/165,022</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Liebe Fackel!</head>
+            <p ana="pr36453">
+<space/>Die ‚<rs type="paper" ana="werk_13290">Neue Freie Presse</rs>‘ berichtet in ihrem Morgenblatt vom<lb/>
+<date>29. Juni</date>, daß bei der Rundfahrt <rs type="pers" ana="n_31305" ref="#fk__p_42338">König Eduards</rs> im Hamburger<lb/>
+Hafen »für die Berichterstatter drei <seg type="insult"><seg type="spc">Barkassen</seg></seg> bereit standen«.<lb/>
+Wie wird dieses Wort ausgesprochen?<lb/>
+</p>
+            <p ana="pr36454">
+<rs type="pers" ana="n_31306" key="#fk__p_42413"><AUCTOR>Ein Linguist</AUCTOR></rs>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_42338">
+               <persName>Eduard VII., König von England</persName>
+               <birth>
+                  <date>1841-11-9</date>
+                  <place>London</place>
+               </birth>
+               <death>
+                  <date>1910-5-6</date>
+                  <place>London</place>
+               </death>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_14622</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/15665</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_05723.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05722.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05724.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Aber der Verzweiflung entronnen, lief ich dem Neid in die Arme,, in: Fackel Heft 13, Nr. 345, 1912, S. 56-56</title>
+            <title type="iso-date">1912-04-01</title>
+            <title type="id">tid_05723</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">13</title><title type="heft">345</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-13-345_n0056.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/345,056</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Aber der Verzweiflung entronnen, lief ich dem Neid in die Arme,</head>
+            <p ana="pr75494">
+denn<lb/>
+</p>
+            <p ana="pr75496">
+<space/>Anläßlich der diamantenen Hochzeit des <rs type="pers" ana="n_54245" ref="#fk__p_42919">Erzherzogs Rainer</rs> hat<lb/>
+die Schriftstellerin <rs type="pers" ana="n_54246" ref="#fk__p_41836">Sophie Großmann</rs> einen Glückwunsch gesendet, wofür<lb/>
+ihr vom Obersthofmeister <rs type="pers" ana="n_54247" ref="#fk__p_44872">Grafen Orsini-Rosenberg</rs> der Dank telegraphisch<lb/>
+ausgesprochen wurde.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_44872">
+               <persName>Orsini-Rosenberg, Maximilian Graf</persName>
+               <birth>
+                  <date>1846-3-17</date>
+                  <place>Graz</place>
+               </birth>
+               <death>
+                  <date>1922-8-27</date>
+                  <place>Baden bei Wien</place>
+               </death>
+               <occupation>Offizier</occupation>
+               <occupation>Beamter</occupation>
+               <note type="comment">General</note>
+               <note type="comment">Obersthofmeister</note>
+            </person>
+            <person xml:id="fk__p_42919">
+               <persName>Rainer, Erzherzog</persName>
+               <birth>
+                  <date>1827-01-11</date>
+                  <place>Mailand</place>
+               </birth>
+               <death>
+                  <date>1913-01-27</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <occupation>Wissenschaftsförderer</occupation>
+            </person>
+            <person xml:id="fk__p_41836">
+               <persName>Großmann, Sophie</persName>
+               <birth>
+                  <date>1854-5-16</date>
+                  <place>Brüx/Böhmen</place>
+               </birth>
+               <death>
+                  <date>1933-2-14</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schriftstellerin</occupation>
+               <note type="comment">2., Waschhausgasse 1b</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

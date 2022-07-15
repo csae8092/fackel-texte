@@ -1,0 +1,95 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_09176.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09175.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09177.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ebenda, 5. März, 3 Uhr:, in: Fackel Heft 24, Nr. 595, 1922, S. 64-64</title>
+            <title type="iso-date">1922-07-01</title>
+            <title type="id">tid_09176</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">24</title><title type="heft">595</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-24-595_n0064.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/595,064</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ebenda, 5. März, 3 Uhr:</head>
+            <p ana="pr122280">
+<space/>Ebenda, <date>5. März</date>, 3 Uhr:<lb/>
+</p>
+            <p ana="pr122281">
+<space/>I. Aus: <rs type="title"><seg type="insult">Der Journalismus</seg></rs>. Von <rs type="pers" ana="n_74835" ref="#fk__p_46252">Honoré de Balzac</rs> (<rs type="selfRef" ana="werk_23371"><abbr>Nr.</abbr> 283/84</rs>).<lb/>
+— <rs type="title"><seg type="insult">Die Zeitung</seg></rs>. — <rs type="title">Ostende, erster Morgen</rs>. — <rs type="title">Dorfkirchl schaut<lb/>
+zu</rs>. — <rs type="title"><seg type="insult">Faschingsleben <date>1913</date></seg></rs>. — <RS pers="Gerhart Hauptmann"><rs type="title" ana="name_201876" ref="#fk__p_44354">Der Biberpelz</rs></RS>. — <rs type="title">Alles, nur nicht<lb/>
+die Gobelins!</rs><lb/>
+</p>
+            <p ana="pr122282">
+<space/>II. Monolog des <rs type="pers">Nörglers</rs> (V. Akt; zum 1. Mal vollständig.)<lb/>
+</p>
+            <p ana="pr122283">
+<space/>III. <rs type="title"><seg type="insult">Kärntnerstraße <date>1918</date></seg></rs> / <rs type="title"><seg type="insult">Die Grüngekleideten</seg></rs>. — Szenen:<lb/>
+<rs type="title">Volksschule I. Akt</rs> / <rs type="title">Volksschule V. Akt</rs>. — <rs type="title"><seg type="insult"><rs type="pers" ana="n2_6852" ref="#fk__p_43514">Franz Joseph</rs></seg></rs>. — <rs type="title">Vorbemerkung<lb/>
+</rs>. Szene: <rs type="title">Schönbrunn, Arbeitszimmer</rs>.<lb/>
+</p>
+            <p ana="pr122284">
+<space/>Ein Teil des Ertrags wurde einer Sammlung für die russische<lb/>
+Hilfsaktion des ‚<rs type="paper" ana="werk_23372">Prager Tagblatt</rs>‘ unter der Chiffre »<rs type="pers" ana="n_74836" ref="#fk__p_52456">Rosa Luxemburg</rs>«<lb/>
+zugeführt. — Der Ertrag des Programms fiel der <rs type="inst">Österreichischen<lb/>
+Künstlerhilfe für die Hungernden in Rußland</rs> zu.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46252">
+               <persName>Balzac, Honoré de</persName>
+               <birth>
+                  <date>1799-5-20</date>
+                  <place>Tours</place>
+               </birth>
+               <death>
+                  <date>1850-8-18</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10825</idno></person>
+            <person xml:id="fk__p_43514">
+               <persName>Franz Joseph I., Kaiser</persName>
+               <birth>
+                  <date>1830-8-18</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1916-11-21</date>
+                  <place>Wien</place>
+               </death>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15150</idno></person>
+            <person xml:id="fk__p_52456">
+               <persName>Luxemburg, Rosa</persName>
+               <birth>
+                  <date>1871-3-5</date>
+                  <place>Zamosc, Kreis Lublin</place>
+               </birth>
+               <death>
+                  <date>1919-1-15</date>
+                  <place>Berlin</place>
+               </death>
+               <occupation>Politikerin</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/8736</idno></person>
+            <person xml:id="fk__p_44354">
+               <persName>Hauptmann, Gerhart</persName>
+               <birth>
+                  <date>1862-11-15</date>
+                  <place>Salzbrunn, Schlesien</place>
+               </birth>
+               <death>
+                  <date>1946-6-6</date>
+                  <place>Agnetendorf</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Ögg teilt die indirekte Stelle 521/64 zu, irrtümlich</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11617</idno></person>
+            </listPerson></back></text>
+</TEI>

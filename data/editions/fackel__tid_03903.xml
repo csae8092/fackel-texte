@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03903.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03902.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03904.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Hallstätter Satiriker. (Der Hallstätter Satiriker), in: Fackel Heft 07, Nr. 180, 1905, S. 55-55</title>
+            <title type="iso-date">1905-05-6</title>
+            <title type="id">tid_03903</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">07</title><title type="heft">180</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-07-180_n0055.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/180,055</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Hallstätter Satiriker. (Der Hallstätter Satiriker)</head>
+            <p ana="pr39437">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="name_203538" key="#fk__p_60683">Hallstätter Satiriker</rs>.</seg></seg></seg> Das ‚<rs type="paper" ana="werk_13894">Deutsche Volksblatt</rs>‘ schreibt über<lb/>
+<rs type="pers" ana="n_33538" ref="#fk__p_43615">Franziska Klein</rs>: Sie »annonzierte in <seg type="insult">„hervorragenden“ (?) Judenblättern</seg> <seg type="symbol" subtype="3dots"/>«<lb/>
+Über den Fall <rs type="pers" ana="n_33539" ref="#fk__p_39491">Brenneis</rs>: Die Anklage »wurde vom Verteidiger als eine<lb/>
+— „ungemein komische“ bezeichnet<seg type="symbol" subtype="3dots"/>«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_39491">
+               <persName>Brenneis, Valerie von</persName>
+               <birth>
+                  <date>1883-10-31</date>
+                  <place>Götzendorf, Niederöst.</place>
+               </birth>
+               <death>
+                  <date>1957-4-25</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schauspielerin</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/14519</idno></person>
+            <person xml:id="fk__p_43615">
+               <persName>Klein, Franziska, geb. Braun</persName>
+               <birth>
+                  <date>1869-1-9</date>
+                  <place>Hirschau/Böhmen</place>
+               </birth>
+               <death>
+                  <date>leer</date>
+               </death>
+               <occupation>Mörderin</occupation>
+               <note type="comment">Mordfall Sikora; 30.4.1905 zum Tod verurteilt</note>
+               <note type="comment">zum Tod verurteilt, dann in lebenslänglich begnadigt, Januar 1920 gnadenweise ins Versorgungshaus Lainz</note>
+               <note type="comment">evang. Trauung am 04. 09.1904</note>
+               <note type="comment">NFP 12.11.1924, S. 10: evtl. zur Abschiebung überstellt</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

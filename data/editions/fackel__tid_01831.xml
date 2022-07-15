@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01831.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01830.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01832.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Von Staberls Gedächtnis.), in: Fackel Heft 03, Nr. 077, 1901, S. 20-20</title>
+            <title type="iso-date">1901-05-01</title>
+            <title type="id">tid_01831</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">03</title><title type="heft">077</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-03-077_n0020.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/077,020</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Von Staberls Gedächtnis.)</head>
+            <p ana="pr18029">
+<space/><inciptit>Die</inciptit> ältesten Leute können sich nicht erinnern,<lb/>
+sich je so gut erinnert zu haben wie <seg type="insult">Herr Hofrath <rs type="pers" ana="n_15237" ref="#fk__p_43872">Staberl</rs></seg>.<lb/>
+Jugend ist sonst mit dem Gefühl beschwingter Leichtigkeit<lb/>
+ verbunden; aber angesichts <seg type="insult">jener Fülle von Erlebnissen<lb/>
+ und Erfahrungen</seg>, die eine <seg type="insult"><rs type="pers" ana="n_15238" ref="#fk__p_43872">Uhl’sche Sonntagsplauderei<lb/>
+</rs></seg> bietet, lastet sie wie erdrückendes Schuldbewusstsein<lb/>
+. Die Sicherheit, mit der hier <seg type="insult">der älteste<lb/>
+und dümmste Gesellschaftsklatsch</seg> breitgetreten wird,<lb/>
+hat etwas Imponierendes, und das ist es, was den<lb/>
+Leser immer noch anzieht, wenn ihn das <seg type="insult">Gestammel<lb/>
+der fortwährend durch Punkte unterbrochenen Sätze</seg><lb/>
+abstoßen möchte. Darauf darf <seg type="insult">Herr Hofrath <rs type="pers" ana="n_15239" ref="#fk__p_43872">Uhl</rs></seg> seit<lb/>
+Monaten allsonntäglich sündigen. <RS pers="Jean Paul" globID="rs_230">Seine Erinnerung ist<lb/>
+ein <seg type="insult">Paradies</seg></RS>, aus dem <seg type="insult">die Abonnenten der ‚<rs type="paper" ana="werk_5795">Neuen<lb/>
+Freien Presse</rs><choice><sic>,</sic><corr>‘</corr></choice></seg> nicht vertrieben werden können.<lb/>
+</p>
+            <p ana="pr18032">
+<space/>In einer <seg type="insult">Sonntagsplauderei</seg>, in der er sein <seg type="insult">Gedächtnis</seg> nach<lb/>
+Abbazia spazieren führte, stieß <rs type="pers" ana="n_15240" ref="#fk__p_43872">Staberl</rs> neulich <seg type="insult">den folgenden Jubelruf<lb/>
+</seg> aus: »<rs type="pers" ana="n_15241" ref="#fk__p_53066">Schüler</rs> (der Generaldirector der Südbahn) griff rasch zu,<lb/>
+fasste <rs type="pers" ana="n_15242" ref="#fk__p_50691">Noës</rs> Hand und Feder und stellte ihn und sie in den Dienst<lb/>
+der Südbahn. Frei sein und frei fahren und frei wohnen und was<lb/>
+immer es noch gibt!« <seg type="insult">Das heutige journalistische Geschlecht</seg>, das<lb/>
+höchstens frei fährt, mag vor Neid vergehen. <seg type="insult">Welch eine Fülle der<lb/>
+Freiheiten</seg>, wenn ein Publicist sich <seg type="insult"><foreign xml:lang="de-loc">»als a Ganzer«</foreign></seg> in den Dienst<lb/>
+der Südbahn stellt!<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_50691">
+               <persName>Noë, Heinrich August</persName>
+               <birth>
+                  <date>1835-7-16</date>
+                  <place>München</place>
+               </birth>
+               <death>
+                  <date>1896-8-26</date>
+                  <place>Bozen</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            </person>
+            <person xml:id="fk__p_43872">
+               <persName>Uhl, Friedrich</persName>
+               <birth>
+                  <date>1825-5-14</date>
+                  <place>Teschen</place>
+               </birth>
+               <death>
+                  <date>1906-1-20</date>
+                  <place>Mondsee</place>
+               </death>
+               <occupation>Journalist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12987</idno></person>
+            <person xml:id="fk__p_53066">
+               <persName>Schüler, Oskar</persName>
+               <birth>
+                  <date>1850-12-12</date>
+                  <place>Neunkirchen</place>
+               </birth>
+               <death>
+                  <date>1926-3-4</date>
+                  <place>Lussingrande</place>
+               </death>
+               <occupation>Generaldirektor der Südbahn</occupation>
+               <note type="comment">4., Prinz Eugen-Str. 16</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

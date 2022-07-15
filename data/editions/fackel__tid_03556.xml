@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03556.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03555.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03557.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Originalgenie. (Der Verteidiger des Johann Feigl), in: Fackel Heft 06, Nr. 159, 1904, S. 21-21</title>
+            <title type="iso-date">1904-04-12</title>
+            <title type="id">tid_03556</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">06</title><title type="heft">159</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-06-159_n0021.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/159,021</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Originalgenie. (Der Verteidiger des Johann Feigl)</head>
+            <p ana="pr35369">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="n_30484" key="#fk__p_50847">Originalgenie</rs>.</seg></seg></seg> <seg type="insult">Herr <rs type="pers" ana="n_30485" ref="#fk__p_41040"><abbr>Dr.</abbr> Elbogen</rs>, der Verteidiger des lebenslänglichen<lb/>
+ <rs type="pers" ana="n_30486" ref="#fk__p_46885">Feigl</rs></seg>, hat damals noch in einem zweiten <rs type="perRef" ana="werk_41200">Blatt</rs>, in der<lb/>
+‚<rs type="" ana="werk_13034">Wiener Morgenzeitung</rs>‘ vom <date>24. März</date>, das Wort ergriffen. Er<lb/>
+hätte es nicht tun sollen. Seine Schlüsse waren ja hinreißend. Aber<lb/>
+mit den Tatsachen, aus denen er sie zog, haperte es. Zur Charakterisierung<lb/>
+der <seg type="insult">Wahrheitsliebe des Mannes</seg> diene das Folgende: <seg type="insult">Herr <rs type="pers" ana="n_30487" ref="#fk__p_41040">Elbogen</rs></seg> will<lb/>
+beweisen, daß <rs type="pers" ana="n_30488" ref="#fk__p_38352">Anton Kraft</rs> ein <seg type="insult">»geborener Verbrecher«</seg> ist, und schreibt:<lb/>
+»Dieser selbe <rs type="pers" ana="n_30489" ref="#fk__p_38352">Anton Kraft</rs> ist trotz seiner dreiundzwanzig Jahre vor nicht<lb/>
+langer Zeit wegen Verbrechens der Erpressung, begangen durch gefährliche<lb/>
+Bedrohung <seg type="spc">seiner eigenen Mutter — er drohte ihr mit<lb/>
+Ermordung</seg> — zu acht Monaten schweren Kerkers verurteilt worden<seg type="symbol" subtype="3dots"/><lb/>
+Wie sollte angesichts <seg type="insult">eines solchen Individuums</seg> das Gericht die Anwendung<lb/>
+ des außerordentlichen Milderungsrechtes rechtfertigen?« Es ist<lb/>
+richtig, daß <rs type="pers" ana="n_30490" ref="#fk__p_38352">Kraft</rs> wegen eines Drohbriefes zu acht Monaten Kerkers<lb/>
+verurteilt wurde. Der Brief begann mit den Worten: »Teuerste Mutter!«<lb/>
+und kündigte für den Fall, daß ihm eine Unterstützung versagt würde,<lb/>
+die Ausführung einer Schreckenstat an, die ihn an den Galgen bringen<lb/>
+und von seiner Qual erlösen werde: »Das Opfer wird einer aus unserer<lb/>
+Familie sein, vor allem <seg type="insult">mein sauberer <seg type="spc">Schwager</seg> und Firmgöd</seg>«.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_38352">
+               <persName>Kraft, Anton</persName>
+               <birth>
+                  <date>1880?</date>
+               </birth>
+               <death>
+                  <date>1910?</date>
+               </death>
+               <occupation>Kellner</occupation>
+               <note type="comment">Delinquent, lebenslänglich verurteilt (Urteil am 10. 03. 1904)</note>
+            </person>
+            <person xml:id="fk__p_46885">
+               <persName>Feigl, Johann (Hans)</persName>
+               <birth>
+                  <date>1848-12-6</date>
+                  <place>Niederwalsee/Niederösterreich</place>
+               </birth>
+               <death>
+                  <date>1930-12-14</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Richter</occupation>
+               <note type="comment">Lehmann: Hans, 19., Felix Mottl-Str. 10</note>
+               <note type="comment">Friedhof Gersthof</note>
+               <note type="comment">Landesgerichts-Vizepräsident</note>
+            </person>
+            <person xml:id="fk__p_41040">
+               <persName>Elbogen, Friedrich</persName>
+               <birth>
+                  <date>1854-5-20</date>
+                  <place>Prag</place>
+               </birth>
+               <death>
+                  <date>1909-4-16</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Rechtsanwalt</occupation>
+               <occupation>Kritiker</occupation>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">sein Schwiegersohn der kosm. Arzt Leo Friedenthal (gest. 27.01.1929)</note>
+               <note type="comment">sein Stück "Der Phönix" fiel am 1.9.1906 im Dt. Volksth. durch F 209/17</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11243</idno></person>
+            </listPerson></back></text>
+</TEI>

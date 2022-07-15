@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01144.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01143.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01145.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Die ‚Neue Freie Presse‘ über Liebknecht und Bismarck. (Ein kleines Missverständnis in der Liebknecht-Biographie der ‚Neuen Freien Presse‘.), in: Fackel Heft 02, Nr. 049, 1900, S. 2-3</title>
+            <title type="iso-date">1900-08-01</title>
+            <title type="id">tid_01144</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">049</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-049_n0002.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/049,002</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Die ‚Neue Freie Presse‘ über Liebknecht und Bismarck. (Ein kleines Missverständnis in der Liebknecht-Biographie der ‚Neuen Freien Presse‘.)</head>
+            <p ana="pr11001">
+<space/>»<seg type="insult">Der Junker <rs type="pers" ana="n_8967" ref="#fk__p_39266">Bismarck</rs></seg>, berufen, das preussische Königthum aus<lb/>
+der Bedrängnis durch die bürgerliche Demokratie zu erretten, löste<lb/>
+die ihm gestellte Aufgabe auf doppelte Weise. Er half das preussische<lb/>
+Heer reorganisieren und die schneidige Waffe schaffen, mit der<lb/>
+Preussen seinen weltgeschichtlichen Ruf erfüllen konnte; er organisierte<lb/>
+ im Rücken des unbequemen Bürgerthums die proletarische<lb/>
+Partei, die der Demokratie Saft und Kraft benehmen und sie mit<lb/>
+der Furcht vor <seg type="insult">dem rothen Gespenst</seg> erfüllen sollte. <seg type="symbol" subtype="7dotsEditor"/><lb/>
+Als sich die socialistische Partei bildete, war das Schicksal <rs type="pers" ana="n_8968" ref="#fk__p_55531">Liebknechts<lb/>
+</rs> besiegelt. Den westdeutschen Republikaner befriedigte <seg type="insult">der<lb/>
+preussische »Fortschritt«</seg> nicht, der auch in den Conflictszeiten<lb/>
+</p>
+            <p ana="pr11001">
+monarchisch blieb bis in die Knochen. Er suchte und fand Anschluss<lb/>
+ an den extremsten Radicalismus, der demokratisch, republikanisch<lb/>
+ und allerdings auch socialistisch war. <seg type="spc">So diente der<lb/>
+geschworene und unversöhnlichste Gegner <rs type="pers" ana="n_8969" ref="#fk__p_39266">Bismarcks</rs></seg>,<lb/>
+<seg type="spc">ohne es zu wissen</seg>, <seg type="spc">eine zeitlang dessen Politik</seg>.«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_39266">
+               <persName>Bismarck, Otto Eduard Leopold Fürst</persName>
+               <birth>
+                  <date>1815-04-01</date>
+                  <place>Schönhausen</place>
+               </birth>
+               <death>
+                  <date>1898-07-30</date>
+                  <place>Friedrichsruh</place>
+               </death>
+               <occupation>Politiker</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13749</idno></person>
+            <person xml:id="fk__p_55531">
+               <persName>Liebknecht, Wilhelm</persName>
+               <birth>
+                  <date>1826-03-29</date>
+                  <place>Gießen</place>
+               </birth>
+               <death>
+                  <date>1900-08-07</date>
+                  <place>Charlottenburg</place>
+               </death>
+               <occupation>Sozialist</occupation>
+               <occupation>Journalist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/51864</idno></person>
+            </listPerson></back></text>
+</TEI>

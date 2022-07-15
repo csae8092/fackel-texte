@@ -1,0 +1,99 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_05269.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05268.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05270.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Im Banne des Rosenkavaliers, in: Fackel Heft 12, Nr. 317, 1911, S. 10-11</title>
+            <title type="iso-date">1911-02-28</title>
+            <title type="id">tid_05269</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">12</title><title type="heft">317</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-12-317_n0010.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/317,010</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Im Banne des Rosenkavaliers</head>
+            <p ana="pr68448">
+<space/>»Von der Uraufführung der ‚<rs type="title"><rs type="pers">Salome</rs></rs>‘ her habe ich noch eine<lb/>
+Brillantnadel mit vierzehn Brillanten, die ein Fremder an dem Abend<lb/>
+hier im Parkett verloren hat. Sie ist bis heute noch nicht wieder abgeholt<lb/>
+ worden.«<lb/>
+</p>
+            <p ana="pr68450">
+<space/>Sagte nicht <seg type="insult">der Vertreter der <rs type="paper" ana="werk_18015">Neuen Freien Presse</rs></seg>, sondern<lb/>
+ein Logenschließer der <rs type="inst">Dresdener Oper</rs> zu diesem. Der<lb/>
+<seg type="insult">Vertreter</seg> rät, die Nadel anzustecken.<lb/>
+</p>
+            <p ana="pr68452">
+<space/>»Vielleicht, daß der Verlustträger zufällig auch an diesem Tage<lb/>
+das Parkett der <rs type="inst">Hofoper</rs> besuche und für seine <rs type="pers" ana="n_49589" ref="#fk__p_52203">Strauß-Begeisterung</rs> die<lb/>
+Genugtuung ernte, daß ihm von der grünberockten Brust des königlich<lb/>
+sächsischen Logenschließers das gewiß für immer verloren geglaubte<lb/>
+Kleinod entgegenblitze.«<lb/>
+</p>
+            <p ana="pr68454">
+<space/>Aber er hat bis halb elf Uhr nichts feststellen können<seg type="symbol" subtype="4dots"/><lb/>
+Das ist die <seg type="insult">Stimmung</seg>. Sodann wird das <seg type="insult">Milieu</seg> depeschiert.<lb/>
+</p>
+            <p ana="pr68456">
+<space/>»Es ist <rs type="pers" ana="n_49590" ref="#fk__p_38568"><seg type="spc">August der Starke</seg> von Sachsen</rs> gewesen, der es<lb/>
+verstanden hatte, den russischen und polnischen Adel für Dresden zu<lb/>
+interessieren<seg type="symbol" subtype="4dots"/> Die Nobili aus Osteuropa zeigten den Dresdenern, wie<lb/>
+man Geld mit Elan ausgibt. Sie fuhren in eigenen Karossen jede Woche<lb/>
+ein paarmal zur <rs type="inst">Oper</rs>, wo sie ihre eigenen Logen hatten. Damals wetteiferten<lb/>
+ im ersten Range die Brillanten der polnischen Gräfinnen mit<lb/>
+den Lichtfluten, die die goldenen Kronleuchter von der Decke des<lb/>
+<rs type="inst"><rs type="pers" ana="n2_4345" ref="#fk__p_58949"><seg type="spc">Semper-Baues</seg></rs></rs> ausstrahlten.«<lb/>
+</p>
+            <p ana="pr68458">
+<space/>Immer schreibt er <seg type="insult">Brillanten</seg>. Aber wie <rs type="pers" ana="n_49591" ref="#fk__p_38568">August der Starke</rs><lb/>
+<seg type="insult">elastischen Schrittes</seg> die Hofloge des <rs type="inst"><rs type="pers" ana="n2_4346" ref="#fk__p_58949">Semper-Baues</rs></rs> verließ, hat<lb/>
+<seg type="insult"><rs type="pers">August der Dumme</rs></seg> nicht berichtet.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_52203">
+               <persName>Strauss, Richard</persName>
+               <birth>
+                  <date>1864-6-11</date>
+                  <place>München</place>
+               </birth>
+               <death>
+                  <date>1949-9-8</date>
+                  <place>Garmisch-Partenkirchen</place>
+               </death>
+               <occupation>Komponist</occupation>
+               <occupation>Dirigent</occupation>
+               <occupation>Theaterleiter</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12870</idno></person>
+            <person xml:id="fk__p_38568">
+               <persName>August der Starke, König von Polen</persName>
+               <birth>
+                  <date>1670-05-12</date>
+                  <place>Dresden</place>
+               </birth>
+               <death>
+                  <date>1733-02-01</date>
+                  <place>Warschau</place>
+               </death>
+               <occupation/>
+            </person>
+            <person xml:id="fk__p_58949">
+               <persName>Semper, Gottfried</persName>
+               <birth>
+                  <date>1803-11-29</date>
+                  <place>Hamburg</place>
+               </birth>
+               <death>
+                  <date>1879-5-15</date>
+                  <place>Rom</place>
+               </death>
+               <occupation>Architekt</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

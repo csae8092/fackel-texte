@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03888.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03887.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03889.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Literarhistoriker. (Ein Vorzug), in: Fackel Heft 07, Nr. 179, 1905, S. 23-23</title>
+            <title type="iso-date">1905-02-15</title>
+            <title type="id">tid_03888</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">07</title><title type="heft">179</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-07-179_n0023.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/179,023</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Literarhistoriker. (Ein Vorzug)</head>
+            <p ana="pr39117">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="name_203547" ref="#fk__p_49044">Literarhistoriker</rs>.</seg></seg></seg> Ob <rs type="pers" ana="n_33303" ref="#fk__p_54027">Theodor Fontane</rs>, dessen Briefe kürzlich in der<lb/>
+‚<rs type="paper" ana="werk_13806">Neuen Freien Presse</rs>‘ abgedruckt waren, es ironisch gemeint hat? Er<lb/>
+sah das <rs type="paperRef" ana="werk_13807">Blatt</rs> durch die Vermittlung eines Freundes, »der des Vorzugs<lb/>
+genießt, die ‚<rs type="paper" ana="werk_13808">Neue Freie Presse</rs>‘ in sein Haus kommen zu sehen«. Für<lb/>
+ein paar Mark kann jeder Berliner, jeder Mensch dieses Vorzugs<lb/>
+genießen. Sogar ich.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_54027">
+               <persName>Fontane, Theodor</persName>
+               <birth>
+                  <date>1819-12-30</date>
+                  <place>Neuruppin</place>
+               </birth>
+               <death>
+                  <date>1898-9-20</date>
+                  <place>Berlin</place>
+               </death>
+               <occupation>Apotheker</occupation>
+               <occupation>Kritiker</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11342</idno></person>
+            <person xml:id="fk__p_49044">
+               <persName>Literarhistoriker</persName>
+            </person>
+            </listPerson></back></text>
+</TEI>

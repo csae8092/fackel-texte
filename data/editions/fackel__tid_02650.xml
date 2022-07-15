@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02650.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02649.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02651.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Leser. (»Anträge unter ‚Johannistrieb‘«), in: Fackel Heft 04, Nr. 114, 1902, S. 22-22</title>
+            <title type="iso-date">1902-09-5</title>
+            <title type="id">tid_02650</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">04</title><title type="heft">114</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-04-114_n0022.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/114,022</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Leser. (»Anträge unter ‚Johannistrieb‘«)</head>
+            <p ana="pr25703">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_22260" ref="#fk__p_48877">Leser</rs>.</seg></seg> Was sich <seg type="insult">die Herren <rs type="pers" ana="n_22261" ref="#fk__p_38657">Bacher</rs> und <rs type="pers" ana="n_22262" ref="#fk__p_50373">Benedikt</rs></seg> denken, wenn<lb/>
+sie gleich über ihren Namen in der letzten Spalte der ‚<rs type="paper" ana="werk_8964">Neuen Freien<lb/>
+Presse</rs>‘ das <seg type="insult">Angebot eines »älteren Schriftstellers«</seg> (<date>23. August</date>), der sich<lb/>
+mit einer sympathischen Dame zu verheirathen, »<seg type="spc">eventuell</seg> zu gemeinschaftlichem<lb/>
+ Haushalt zu verbinden« wünscht und <seg type="insult">Anträge unter<lb/>
+»<seg type="spc">Johannistrieb</seg>«</seg> erwartet, lesen? Daß drei Gulden für solche Vermittlung<lb/>
+ ein Betrag ist, der zu dem damit verbundenen strafgesetzlichen<lb/>
+Risico in keinem Verhältnis steht.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_48877">
+               <persName>Leser</persName>
+            </person>
+            <person xml:id="fk__p_38657">
+               <persName>Bacher, Eduard</persName>
+               <birth>
+                  <date>1846-03-07</date>
+                  <place>Postelberg/Böhmen</place>
+               </birth>
+               <death>
+                  <date>1908-01-16</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <note type="comment">Ögg: 177/8 als indirekt gekennzeichnet</note>
+               <note type="comment">Daten stimmen mit Grabstein überein</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10809</idno></person>
+            <person xml:id="fk__p_50373">
+               <persName>Benedikt, Moriz</persName>
+               <birth>
+                  <date>1849-5-27</date>
+                  <place>Kwatschitz/Mähren</place>
+               </birth>
+               <death>
+                  <date>1920-3-18</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <note type="comment">Geburtsort Kwatschitz bei Ungarisch Hradisch/Mähren, nicht Kwassitz bei Kremsier</note>
+               <note type="comment">1. Tor, 20/1/1a</note>
+               <note type="comment">Hrsg. der NFP (seit 1908 alleiniger Leiter)</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10875</idno></person>
+            </listPerson></back></text>
+</TEI>

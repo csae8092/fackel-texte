@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_08400.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08399.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08401.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Es war ein Film, in: Fackel Heft 20, Nr. 484, 1918, S. 79-80</title>
+            <title type="iso-date">1918-10-01</title>
+            <title type="id">tid_08400</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">20</title><title type="heft">484</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-20-484_n0079.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/484,079</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Es war ein Film</head>
+            <p ana="pr110656">
+<seg type="spc">Einladung</seg><lb/>
+zur<lb/>
+<seg type="spc">Preisverteilung</seg><lb/>
+</p>
+            <p ana="pr110657">
+Heute Donnerstag den <date>23. Mai</date>, mittags ½ 1 Uhr<lb/>
+wird auf der Terrasse des <rs type="inst">Kursalons im Stadtpark</rs><lb/>
+</p>
+            <p ana="pr110658">
+<seg type="spc">Herr <rs type="pers" ana="n_69121" ref="#fk__p_46312">Hubert Marischka</rs></seg><lb/>
+vom <rs type="inst">Theater an der Wien</rs><lb/>
+</p>
+            <p ana="pr110659">
+<seg type="spc">jener Dame</seg>, <seg type="spc">welche das größte Opfer für die</seg><lb/>
+<seg type="spc">VIII. Kriegsanleihe bringt</seg>,<lb/>
+</p>
+            <p ana="pr110660">
+<seg type="spc">einen Kuß verabreichen</seg>.<lb/>
+<rs type="inst"><AUCTOR>Das Komitee</AUCTOR></rs>.<lb/>
+</p>
+            <p ana="pr110662">
+<space/>An der Spitze der Kriegszeitungen stand es, den Offensiven<lb/>
+ voran, im vierten Jahr, <seg type="insult">eine Fata morgana auf dem<lb/>
+Wüstenweg</seg>. Es war <seg type="insult">ein Film</seg> <seg type="symbol" subtype="3dots"/><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46312">
+               <persName>Marischka, Hubert</persName>
+               <birth>
+                  <date>1882-8-27</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1959-12-4</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <occupation>Sänger</occupation>
+               <occupation>Regisseur</occupation>
+               <occupation>Theaterleiter</occupation>
+               <note type="comment">Tenor</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/8820</idno></person>
+            </listPerson></back></text>
+</TEI>

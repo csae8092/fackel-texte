@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_04271.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04270.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04272.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Gläubiger. (Die Pflichten des Hauses Krupp), in: Fackel Heft 08, Nr. 209, 1906, S. 19-19</title>
+            <title type="iso-date">1906-10-20</title>
+            <title type="id">tid_04271</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">08</title><title type="heft">209</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-08-209_n0019.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/209,019</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Gläubiger. (Die Pflichten des Hauses Krupp)</head>
+            <p ana="pr46195">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="name_202607" key="#fk__p_60517">Gläubiger</rs>.</seg></seg></seg> In der Sonntagspredigt, die der deutsche Kaiser bei<lb/>
+der <rs type="pers" ana="n_37328" ref="#fk__p_48314">Kruppschen Hochzeit</rs> gehalten hat, kommt das Wort <seg type="insult">»Pflicht«</seg> nicht<lb/>
+weniger als sechsmal vor. »Mit goldenen Buchstaben«, ermahnte der<lb/>
+deutsche Kaiser <rs type="pers" ana="n_37329" ref="#fk__p_48314">Krupps</rs> Schwiegersohn, »stehe das Wort ‚<seg type="spc">Pflicht</seg>‘ über<lb/>
+den Türen <choice><sic>Ihres</sic><corr>ihres</corr></choice> Heims und werde ihre Ausübung durch das hehrste<lb/>
+Gefühl erleichtert, welches es auf Erden gibt <seg type="symbol" subtype="3dots"/>« <rs type="pers" ana="n_37330" ref="#fk__p_55493">Wilhelm II.</rs> erinnerte<lb/>
+ auch an die <seg type="insult">»bewährten Grundsätze«</seg> des Begründers der <rs type="pers" ana="n_37331" ref="#fk__p_48314">Kruppschen<lb/>
+ Werke</rs>. Eingeweihte kommentieren <seg type="insult">den frommen Wunsch</seg> durch den<lb/>
+Hinweis auf die Tatsache, daß es <seg type="insult">eine der schönsten Traditionen des Hauses<lb/>
+<rs type="pers" ana="n_37332" ref="#fk__p_48314">Krupp</rs></seg> war, dem deutschen Kaiser aus Geldverlegenheiten zu helfen. An<lb/>
+diese Tradition möge Herr <rs type="pers" ana="n_37333" ref="#fk__p_55052">Bohlen</rs> anknüpfen! »Ihr Leben sei erfüllt und<lb/>
+beherrscht von dem, was unser größter und klarster Denker, <rs type="pers" ana="n_37334" ref="#fk__p_46454">Kant</rs>,<lb/>
+den kategorischen Imperativ der Pflicht genannt hat«. Auch das Leben<lb/>
+des Mannes, »der die höchste Stellung in der Welt beanspruchen konnte<lb/>
+als Sohn Gottes«, sei ausschließlich der Erfüllung einer Pflicht gewidmet<lb/>
+gewesen. Also gläubig sein genügt nicht; man muß noch <seg type="insult">Gläubiger</seg><lb/>
+sein. Das hätte sich freilich ohne Umschweife sagen lassen können.<lb/>
+Wer wird denn <seg type="insult">Kohl</seg> pflanzen, um Moos zu ziehen?<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_55052">
+               <persName>Krupp von Bohlen und Halbach, Gustav</persName>
+               <birth>
+                  <date>1870-8-7</date>
+                  <place>Den Haag</place>
+               </birth>
+               <death>
+                  <date>1950-1-16</date>
+                  <place>Blühnbach/Salzburg</place>
+               </death>
+               <occupation>Industrieller</occupation>
+            </person>
+            <person xml:id="fk__p_55493">
+               <persName>Wilhelm II., Kaiser</persName>
+               <birth>
+                  <date>1859-1-27</date>
+                  <place>Berlin</place>
+               </birth>
+               <death>
+                  <date>1941-6-4</date>
+                  <place>Doorn/Niederlande</place>
+               </death>
+               <occupation>Kaiser</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_21338</idno></person>
+            <person xml:id="fk__p_46454">
+               <persName>Kant, Immanuel</persName>
+               <birth>
+                  <date>1724-4-22</date>
+                  <place>Königsberg</place>
+               </birth>
+               <death>
+                  <date>1804-2-12</date>
+                  <place>Königsberg</place>
+               </death>
+               <occupation>Philosoph</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11871</idno></person>
+            <person xml:id="fk__p_48314">
+               <persName>Krupp, Arthur</persName>
+               <birth>
+                  <date>1856-05-31</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1938-4-21</date>
+                  <place>Berndorf/Niederösterreich</place>
+               </death>
+               <occupation>Industrieller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/3415</idno></person>
+            </listPerson></back></text>
+</TEI>

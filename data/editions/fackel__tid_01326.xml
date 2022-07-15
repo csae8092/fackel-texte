@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01326.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01325.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01327.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Leser. (Ein ungrammatikalisches Gesetz), in: Fackel Heft 02, Nr. 056, 1900, S. 27-28</title>
+            <title type="iso-date">1900-10-01</title>
+            <title type="id">tid_01326</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">056</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-056_n0027.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/056,027</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Leser. (Ein ungrammatikalisches Gesetz)</head>
+            <p ana="pr12675">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_10480" ref="#fk__p_48877">Leser</rs>.</seg></seg> Im »Gesetz über die Ehe des <rs type="pers" ana="n_10481" ref="#fk__p_43472">Erzherzogs Franz Ferdinand</rs>«<lb/>
+lautet eine Stelle wörtlich: »Er anerkannte und erklärte, dass <seg type="spc">die</seg><lb/>
+</p>
+            <p ana="pr12675">
+aus dieser Ehe stammenden <seg type="spc">Kinder</seg> und deren Nachkommen, nachdem<lb/>
+dieselben nicht Mitglieder des Erzhauses sind, <seg type="spc">ein Recht auf die<lb/>
+Thronfolge</seg> in den im Reichsrathe vertretenen Königreichen und<lb/>
+Ländern und somit auch im Sinne der Gesetzartikel 1 und 2 vom<lb/>
+Jahre <date>1723</date> in den Ländern der ungarischen Krone <seg type="spc">nicht zusteht<lb/>
+und von derselben <choice><sic>ausgeschlosen</sic><corr>ausgeschlossen</corr></choice> sind</seg>.« Sie fragen, ob der<lb/>
+Gesetzentwurf etwa in der ‚<rs type="paper" ana="werk_4051">Neuen Freien Presse</rs>‘ redigiert worden sei.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_48877">
+               <persName>Leser</persName>
+            </person>
+            <person xml:id="fk__p_43472">
+               <persName>Franz Ferdinand von Este</persName>
+               <birth>
+                  <date>1863-12-18</date>
+                  <place>Graz</place>
+               </birth>
+               <death>
+                  <date>1914-6-28</date>
+                  <place>Sarajewo</place>
+               </death>
+               <occupation>Erzherzog</occupation>
+               <occupation>Thronfolger</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15149</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/3287</idno></person>
+            </listPerson></back></text>
+</TEI>

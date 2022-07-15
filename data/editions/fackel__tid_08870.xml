@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_08870.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08869.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08871.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Personalnachricht), in: Fackel Heft 22, Nr. 557, 1921, S. 35-35</title>
+            <title type="iso-date">1921-01-01</title>
+            <title type="id">tid_08870</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">22</title><title type="heft">557</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-22-557_n0035.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/557,035</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Personalnachricht)</head>
+            <p ana="pr117766">
+<seg type="spc">Wien</seg>, <date>18. November</date>.<lb/>
+</p>
+            <p ana="pr117767">
+<space/><seg type="sidehead">[<seg type="spc">Personalnachricht</seg>.]</seg> <rs type="pers" ana="n_72609" ref="#fk__p_43457"><abbr>Dr.</abbr> Franz <seg type="spc">Blei</seg></rs>, der diesjährige<lb/>
+Preisrichter der <rs type="inst"><rs type="pers" ana="n2_6661" ref="#fk__p_54027">Fontane-Stiftung</rs></rs>, hat <rs type="pers" ana="n_72610" ref="#fk__p_44442">Gina <seg type="spc">Kaus</seg></rs> für die Novelle<lb/>
+»<rs type="title">Der Aufstieg</rs>« (<rs type="inst"><rs type="pers" ana="n2_6662" ref="#fk__p_44306">Georg Müller</rs>, Verlag</rs>, München) den <rs type="pers" ana="n_72611" ref="#fk__p_54027">Fontane-Preis<lb/>
+</rs> verliehen. —<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_44442">
+               <persName>Kaus, Gina</persName>
+               <birth>
+                  <date>1893-10-21</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1985-12-23</date>
+                  <place>Los Angeles</place>
+               </death>
+               <occupation>Schriftstellerin</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/8146</idno></person>
+            <person xml:id="fk__p_43457">
+               <persName>Blei, Franz</persName>
+               <birth>
+                  <date>1871-1-18</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1942-7-10</date>
+                  <place>Westbury, NY</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Verwandtschaft zu Culmbacher-Dörmann</note>
+               <note type="comment">Anna, Fanni, Karoline</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10955</idno></person>
+            <person xml:id="fk__p_44306">
+               <persName>Müller, Georg</persName>
+               <birth>
+                  <date>1877-12-20</date>
+                  <place>Mainz</place>
+               </birth>
+               <death>
+                  <date>1917-12-29</date>
+                  <place>München</place>
+               </death>
+               <occupation>Verleger</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/5601</idno></person>
+            <person xml:id="fk__p_54027">
+               <persName>Fontane, Theodor</persName>
+               <birth>
+                  <date>1819-12-30</date>
+                  <place>Neuruppin</place>
+               </birth>
+               <death>
+                  <date>1898-9-20</date>
+                  <place>Berlin</place>
+               </death>
+               <occupation>Apotheker</occupation>
+               <occupation>Kritiker</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11342</idno></person>
+            </listPerson></back></text>
+</TEI>

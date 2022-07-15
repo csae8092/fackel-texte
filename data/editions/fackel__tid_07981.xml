@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07981.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07980.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07982.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Das geht eher, in: Fackel Heft 19, Nr. 462, 1917, S. 101-102</title>
+            <title type="iso-date">1917-10-01</title>
+            <title type="id">tid_07981</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">19</title><title type="heft">462</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-19-462_n0101.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/462,101</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Das geht eher</head>
+            <p ana="pr106656">
+<space/><seg type="insult">»Die <seg type="spc">Sterne</seg> des <rs type="pers" ana="n_67872" ref="#fk__p_55522">Karczagschen Operettenolymps</rs>«</seg> sollen<lb/>
+»<seg type="spc">erobert</seg>« haben. Das schien eine <seg type="insult">Kriegslüge</seg> zu sein. Glaubhafter<lb/>
+ war’s so: »Zürich genießt jetzt das Vergnügen, die<lb/>
+</p>
+            <p ana="pr106656">
+<seg type="spc">Hauptvorkämpfer der Wiener Operette</seg> — —.« Das geht,<lb/>
+das war knapp vor Flandern und bald nachdem <seg type="insult">die Mitglieder<lb/>
+des <rs type="inst">Wiener Männergesangvereines</rs></seg> ihren <seg type="insult">Fronturlaub in der<lb/>
+Schweiz</seg> absolviert hatten. Seltsam ist nur, daß sie den <seg type="insult">Durchbruch<lb/>
+</seg> gestattet hat.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_55522">
+               <persName>Karczág, Wilhelm</persName>
+               <birth>
+                  <date>1857-8-28</date>
+                  <place>Karczag, Ungarn</place>
+               </birth>
+               <death>
+                  <date>1923-10-11</date>
+                  <place>Baden bei Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Theaterleiter</occupation>
+               <occupation>Musikverleger</occupation>
+               <note type="comment">Hietzing</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00374.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00373.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00375.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Dreyfus., in: Fackel Heft 01, Nr. 015, 1899, S. 30-30</title>
+            <title type="iso-date">1899-08-01</title>
+            <title type="id">tid_00374</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">015</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-015_n0030.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/015,030</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Dreyfus.</head>
+            <p ana="pr3435">
+<space/>»<QUOTE rn="2" sourceID="FK-01-015_n0030_a">In der Reihe der Zeugenfauteuils erscheint jetzt General<lb/>
+<rs type="pers" ana="n_2467" ref="#fk__p_60126">Mercier</rs>.</QUOTE>«<lb/>
+</p>
+            <p ana="pr3436">
+<space/>»<QUOTE rn="3" sourceID="FK-01-015_n0030_a">Die allgemein menschlichen Accente, welche dabei sowohl<lb/>
+auf der Estrade als unten vor der Sitzung bei der Ankunft <rs type="pers" ana="n_2468" ref="#fk__p_48503">Laboris</rs><lb/>
+zum Durchbruch kamen, waren eine glückliche Einleitung.</QUOTE>«<lb/>
+</p>
+            <p ana="pr3437">
+<space/>»<QUOTE rn="4" sourceID="FK-01-015_n0030_a">Alles in diesem Processe ist so <seg type="spc">melodramatisch</seg> <seg type="symbol" subtype="4dots"/></QUOTE>«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_48503">
+               <persName>Labori, Fernand-Gustave-Gaston</persName>
+               <birth>
+                  <date>1860-4-18</date>
+                  <place>Reims</place>
+               </birth>
+               <death>
+                  <date>1917-3-14</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Rechtsanwalt</occupation>
+               <note type="comment">Grab auf dem Friedhof Montparnasse</note>
+               <note type="comment">Verteidiger Dreyfus'</note>
+            </person>
+            <person xml:id="fk__p_60126">
+               <persName>Mercier, Auguste</persName>
+               <birth>
+                  <date>1833-12-8</date>
+                  <place>Arras</place>
+               </birth>
+               <death>
+                  <date>1921-3-3</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>General</occupation>
+               <occupation>Politiker</occupation>
+               <note type="comment">in Dreyfus-Affaire involviert</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/42048</idno></person>
+            </listPerson></back></text>
+</TEI>

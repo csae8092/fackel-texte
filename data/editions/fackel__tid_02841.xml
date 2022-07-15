@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02841.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02840.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02842.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ein Usus, in: Fackel Heft 04, Nr. 125, 1902, S. 25-25</title>
+            <title type="iso-date">1902-12-31</title>
+            <title type="id">tid_02841</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">04</title><title type="heft">125</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-04-125_n0025.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/125,025</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ein Usus</head>
+            <p ana="pr28048">
+<space/>»<seg type="spc">In Oesterreich ist es Usus</seg>, <seg type="spc">daß bei großen Unternehmungen<lb/>
+ die Presse mit derartigen Pauschalien bedacht<lb/>
+ wird</seg>.«<lb/>
+</p>
+            <p ana="pr28050">
+<space/>So sagte unter Zeugeneid der im Brüxer Processe einvernommene<lb/>
+ Generalsecretär des Zuckercartells <rs type="pers" ana="n_24081" ref="#fk__p_52292">Ritter <abbr>v.</abbr> <seg type="spc">Kniep</seg></rs>.<lb/>
+Keines <seg type="insult">der führenden Wiener Blätter</seg> hat sich gegen die Behauptung<lb/>
+gewehrt, kein <seg type="insult">Wiener Chefredacteur</seg> an den Präsidenten der Verhandlung<lb/>
+ eine protestierende Zuschrift gerichtet. <seg type="symbol" subtype="3dots"/> Der die<lb/>
+Erkenntnisse des Brüxer Processes wägende Betrachter steht vor<lb/>
+der Rechenaufgabe: Das Zuckercartell hatte ein dringendes Interesse,<lb/>
+die ‚<rs type="" ana="werk_9990">Ostdeutsche Rundschau</rs>‘ — wie man weiß, mit jährlichen 8000<lb/>
+Kronen — zu bestechen. Wieviel bekommt die ‚<rs type="paper" ana="werk_9991">Neue Freie Presse</rs>‘?<lb/>
+Sie hat, als die Affaire <rs type="pers" ana="n_24082" ref="#fk__p_47331">Wolf</rs> reifte, pathetisch die Zumuthung von<lb/>
+Beziehungen zum Zuckercartell abgewiesen. Der Beschuldigte darf<lb/>
+lügen. Herr <rs type="pers" ana="n_24083" ref="#fk__p_52292">von Kniep</rs> sprach unter Zeugeneid vom <seg type="insult"><foreign xml:lang="la">»Usus«</foreign></seg>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_47331">
+               <persName>Wolf, Karl Hermann</persName>
+               <birth>
+                  <date>1862-1-27</date>
+                  <place>Eger</place>
+               </birth>
+               <death>
+                  <date>1941-6-11</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Publizist</occupation>
+               <occupation>Politiker</occupation>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Trafikant</occupation>
+               <note type="comment">Dr. Stepischnegg sein Schwiegervater F 17/2</note>
+               <note type="comment">ZF 32C/19, Elfriede Wolf, 23.6.1972, 87 J. alt, *1885? (2. Ehefrau)</note>
+               <note type="comment">7., Bandgasse 32</note>
+               <note type="comment">1. Ehe: Ilda Wolf, geb. Stepischnegg, geschieden 1903; 2. Elfriede Frenzel, *Hohenelbe 05.01.1885</note>
+               <note type="comment">Ostdeutsche Rundschau</note>
+               <note type="comment">Reichsratsabg. 1897-1918</note>
+            </person>
+            <person xml:id="fk__p_52292">
+               <persName>Kniep, Julius Ritter von</persName>
+               <birth>
+                  <date>1855-06-18</date>
+                  <place>Hannover</place>
+               </birth>
+               <death>
+                  <date>1914-06-30</date>
+                  <place>Hinterbrühl/NÖ</place>
+               </death>
+               <occupation>Industrieller</occupation>
+               <occupation>Bankier</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

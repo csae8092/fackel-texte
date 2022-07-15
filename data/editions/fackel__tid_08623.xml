@@ -1,0 +1,40 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_08623.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08622.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08624.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Brav, in: Fackel Heft 21, Nr. 508, 1919, S. 59-59</title>
+            <title type="iso-date">1919-04-01</title>
+            <title type="id">tid_08623</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">21</title><title type="heft">508</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-21-508_n0059.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/508,059</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Brav</head>
+            <p ana="pr113112">
+<space/>— Der Landespräsident in Kärnten <rs type="pers" ana="n_69929" ref="#fk__p_47528">Karl Graf Lodron-Laterano</rs><lb/>
+hat sich gestern abends auf seinen Posten nach Klagenfurt begeben.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_47528">
+               <persName>Lodron-Laterano, Karl Graf</persName>
+               <birth>
+                  <date>1866-02-15</date>
+                  <place>Graz</place>
+               </birth>
+               <death>
+                  <date>1938-06-01</date>
+                  <place>Lodrone</place>
+               </death>
+               <occupation>Beamter</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

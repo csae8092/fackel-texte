@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_12141.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_12140.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_12142.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Radio Prag (Arbeitersendung), 11. Mai, 18·30:, in: Fackel Heft 34, Nr. 876, 1932, S. 93-94</title>
+            <title type="iso-date">1932-10-01</title>
+            <title type="id">tid_12141</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">34</title><title type="heft">876</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-34-876_n0093.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/876,093</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Radio Prag (Arbeitersendung), 11. Mai, 18·30:</head>
+            <p ana="pr176907">
+<space/><rs type="inst"><seg type="spc">Radio Prag</seg></rs> (Arbeitersendung), <date>11. Mai</date>, 18·30:<lb/>
+</p>
+            <p ana="pr176908">
+<space/>Szenen aus »<RS pers="Ferdinand Raimund"><rs type="title" ana="name_202522" ref="#fk__p_43227"><seg type="spc">Der Alpenkönig und der Menschenfeind<lb/>
+</seg></rs></RS>«.<lb/>
+</p>
+            <p ana="pr176909">
+<space/>Begleitung: <rs type="pers" ana="n_105430" ref="#fk__p_43546">Franz Mittler</rs>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_43546">
+               <persName>Mittler, Franz</persName>
+               <birth>
+                  <date>1893-4-14</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1970-12-28</date>
+                  <place>München</place>
+               </death>
+               <occupation>Pianist</occupation>
+               <note type="comment">auch Klavierbegleiter von Karl Kraus</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/8955</idno></person>
+            <person xml:id="fk__p_43227">
+               <persName>Raimund, Ferdinand</persName>
+               <birth>
+                  <date>1790-6-1</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1836-9-5</date>
+                  <place>Pottenstein, Niederösterreich</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Ögg teilt die Valentin-Stelle 254/4 Nestroy zu</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12468</idno></person>
+            </listPerson></back></text>
+</TEI>

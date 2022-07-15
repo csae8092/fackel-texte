@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00082.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00081.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00083.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Herr Kick.), in: Fackel Heft 01, Nr. 005, 1899, S. 19-19</title>
+            <title type="iso-date">1899-05-01</title>
+            <title type="id">tid_00082</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">005</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-005_n0019.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/005,019</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Herr Kick.)</head>
+            <p ana="pr1026">
+<space/><seg type="insult">Herrn <rs type="pers" ana="n_812" ref="#fk__p_47819"><seg type="spc">Kick</seg></rs></seg> ist die Benützung der »<rs type="paper" ana="werk_308">Neuen Freien<lb/>
+Presse</rs>« hiemit ausdrücklich gestattet. Dem <seg type="insult">Epigonen<lb/>
+des Herrn <rs type="pers" ana="n_813" ref="#fk__p_50712">Noske</rs></seg> würde ohnehin kein anderes Blatt<lb/>
+für die <seg type="insult">Ablagerung seiner schwatzhaften Trivialitäten</seg><lb/>
+zur Verfügung stehen.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_50712">
+               <persName>Noske, Constantin</persName>
+               <birth>
+                  <date>1848-10-28</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1920-3-10</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Versicherungsbeamter</occupation>
+               <occupation>Journalist</occupation>
+               <occupation>Politiker</occupation>
+               <note type="comment">Gen. Sekretär des Fabriken-Rückversicherungsverbandes, 1., Börsegasse 10</note>
+               <note type="comment">Le Figaro 25.07.1901, Seite 2 schreibt Constantin Doske</note>
+            </person>
+            <person xml:id="fk__p_47819">
+               <persName>Kick, Friedrich</persName>
+               <birth>
+                  <date>1840-02-27</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1915-03-13</date>
+                  <place>Baden/NÖ</place>
+               </death>
+               <occupation>Technologe</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

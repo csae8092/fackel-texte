@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_08326.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08325.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08327.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Der Kaiserbrief, in: Fackel Heft 20, Nr. 484, 1918, S. 21-21</title>
+            <title type="iso-date">1918-10-01</title>
+            <title type="id">tid_08326</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">20</title><title type="heft">484</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-20-484_n0021.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/484,021</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Der Kaiserbrief</head>
+            <p ana="pr109974">
+<space/><seg type="symbol" subtype="3dots"/> Wie sich für den <seg type="spc">unbefangenen</seg> Beurteiler ergibt,<lb/>
+steht die Beweiskraft der in der Erklärung gemachten Behauptung<lb/>
+mit der Stärke der Worte in scharfem Widerspruch. <seg type="spc">Wir haben<lb/>
+erwartet</seg>, daß Herr <rs type="pers" ana="n_68880" ref="#fk__p_44326">Clemenceau</rs> uns <seg type="spc">ein Original</seg> oder ein<lb/>
+<seg type="spc">photographisches Schriftstück</seg> vorweisen werde.<lb/>
+</p>
+            <p ana="pr109976">
+<space/>Viel Originale wird <rs type="pers" ana="n_68881" ref="#fk__p_44326">Clemenceau</rs> nicht besessen haben;<lb/>
+aber daß er auch nur eines davon der <rs type="paper" ana="werk_21428">Neuen Freien Presse</rs><lb/>
+vorweisen werde, war zu viel erwartet. Immerhin macht <seg type="insult">der<lb/>
+unbefangene Beurteiler</seg> kein Hehl daraus, daß er so etwas<lb/>
+erwartet hat.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_44326">
+               <persName>Clemenceau, Georges</persName>
+               <birth>
+                  <date>1841-9-28</date>
+                  <place>Mouilleron-en-Pareds</place>
+               </birth>
+               <death>
+                  <date>1929-11-24</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Arzt</occupation>
+               <occupation>Politiker</occupation>
+               <note type="comment">25.10.1906-24.07.1909, 16.11.1917-20.01.1920 Ministerpräsident</note>
+               <note type="comment">1906-09, 1917-20 Ministerpräsident</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/4719</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01543.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01542.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01544.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Artifex. (Servaes über Böcklin), in: Fackel Heft 02, Nr. 065, 1901, S. 32-32</title>
+            <title type="iso-date">1901-01-01</title>
+            <title type="id">tid_01543</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">065</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-065_n0032.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/065,032</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Artifex. (Servaes über Böcklin)</head>
+            <p ana="pr15218">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="n_12651" ref="#fk__p_38469">Artifex</rs>.</seg></seg></seg> <seg type="insult">Herr <rs type="pers" ana="n_12652" ref="#fk__p_43580"><seg type="spc">Servaes</seg></rs></seg> übertrifft sich selbst. Wüstensand für<lb/>
+Schnee, einen Sessel für eine Druckerpresse anzusehen, wäre<lb/>
+ihm glücklich gelungen. Aber er beruhigt sich nicht bei diesen<lb/>
+Erfolgen. Jetzt hat er einen Nachruf für <rs type="pers" ana="n_12653" ref="#fk__p_39373">Böcklin</rs> geschrieben, die<lb/>
+»<rs type="title">Todteninsel</rs>« gewürdigt und dabei von einem »weißen, ernsten<lb/>
+Priester« gesprochen, den der Fährmann zur Ruhe führt. Er hält also<lb/>
+die weiße Gestalt, die im Nachen zur Todteninsel geführt wird, für<lb/>
+einen geistlichen Herrn im weißen Talar und erkennt nicht, dass der<lb/>
+Künstler offenbar die ruhebedürftige Seele im weißen Faltengewande<lb/>
+veranschaulichen wollte. Dafür scheint er aber <rs type="pers" ana="n_12654" ref="#fk__p_39373">Böcklin</rs> mit einem<lb/>
+<seg type="insult">Leinenfabrikanten</seg> zu verwechseln; denn er spricht von der Leinwand,<lb/>
+die <rs type="pers" ana="n_12655" ref="#fk__p_39373">Böcklin</rs> »von sich gegeben« habe.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_38469">
+               <persName>Artifex</persName>
+            </person>
+            <person xml:id="fk__p_43580">
+               <persName>Servaes, Franz Theodor Hubert</persName>
+               <birth>
+                  <date>1862-7-17</date>
+                  <place>Köln</place>
+               </birth>
+               <death>
+                  <date>1947-7-14</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Kritiker</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_20068</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12772</idno></person>
+            <person xml:id="fk__p_39373">
+               <persName>Böcklin, Arnold</persName>
+               <birth>
+                  <date>1827-10-16</date>
+                  <place>Basel</place>
+               </birth>
+               <death>
+                  <date>1901-01-16</date>
+                  <place>S. Domenico/Fiesolo</place>
+               </death>
+               <occupation>Maler</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/4579</idno></person>
+            </listPerson></back></text>
+</TEI>

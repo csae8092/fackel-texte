@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06214.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06213.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06215.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Die Reihenfolge, in: Fackel Heft 15, Nr. 372, 1913, S. 48-48</title>
+            <title type="iso-date">1913-04-01</title>
+            <title type="id">tid_06214</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">15</title><title type="heft">372</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-15-372_n0048.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/372,048</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Die Reihenfolge</head>
+            <p ana="pr83728">
+<space/>»Unter den Anwesenden bemerkte man <seg type="symbol" subtype="4dots"/> Frau <rs type="pers" ana="n_58359" ref="#fk__p_42552">Else Fränkel-Ehrlich<lb/>
+</rs>, die <rs type="pers" ana="n_58360" ref="#fk__p_44100">Fürstin Fugger</rs> <seg type="symbol" subtype="5dots"/><lb/>
+</p>
+            <p ana="pr83729">
+<space/>Sodann folgten Vorträge der Herren <rs type="pers" ana="n_58361" ref="#fk__p_42358"><abbr>Dr.</abbr> Egon Friedell</rs>, <rs type="pers" ana="n_58362" ref="#fk__p_37978">Girardi</rs><seg type="symbol" subtype="4dots"/>«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_44100">
+               <persName>Fugger-Babenhausen, Eleonore Fürstin, geb. Prinzessin zu Hohenlohe-Bartenstein und Jagstberg</persName>
+               <birth>
+                  <date>1864-10-4</date>
+                  <place>Bartenstein</place>
+               </birth>
+               <death>
+                  <date>1945-3-1</date>
+                  <place>Wien</place>
+               </death>
+               <note type="comment">1913 "unter den Anwesenden"</note>
+               <note type="comment">Fürstin Nora Fugger, Salonière, schrieb Autobiographie "Im Glanz der Kaiserzeit" 1932</note>
+            </person>
+            <person xml:id="fk__p_37978">
+               <persName>Girardi, Alexander</persName>
+               <birth>
+                  <date>1850-12-5</date>
+                  <place>Graz</place>
+               </birth>
+               <death>
+                  <date>1918-4-20</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11441</idno></person>
+            <person xml:id="fk__p_42552">
+               <persName>Ehrlich-Fränkel, Elsa</persName>
+               <birth>
+                  <date>1874-3-26</date>
+                  <place>Wien</place>
+               </birth>
+               <occupation>Journalistin</occupation>
+               <note type="comment">9., Porzellangasse 48</note>
+               <note type="comment">Elsa Fränkel heiratet am 28.06.1910 Norbert Ehrlich, Redakteur (*Czernowitz April 1870)</note>
+               <note type="comment">Redakteurin des "Fremden-Blatt"</note>
+            </person>
+            <person xml:id="fk__p_42358">
+               <persName>Friedell, Egon</persName>
+               <birth>
+                  <date>1878-01-21</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1938-03-16</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Kulturhistoriker</occupation>
+               <occupation>Kabarettist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2771</idno></person>
+            </listPerson></back></text>
+</TEI>

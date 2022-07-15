@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01228.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01227.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01229.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Kenner. (Der kühne Neuerer Bahr), in: Fackel Heft 02, Nr. 052, 1900, S. 25-26</title>
+            <title type="iso-date">1900-09-01</title>
+            <title type="id">tid_01228</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">052</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-052_n0025.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/052,025</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Kenner. (Der kühne Neuerer Bahr)</head>
+            <p ana="pr11770">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="n_9607" ref="#fk__p_47779">Kenner</rs>.</seg></seg></seg> <rs type="pers" ana="n_9608" ref="#fk__p_45908">Hermann Bahr</rs> schrieb jüngst über eine Debutantin,<lb/>
+die im <rs type="inst">Deutschen Volkstheater</rs> durchfiel, dass ihr Antlitz »frei, rein und<lb/>
+</p>
+            <p ana="pr11770">
+fast diaphan« sei und ihre Augen, wenn sie sinnt und horcht, stahlblau<lb/>
+, im Zorn aber »gelb entflammt wie Bernstein« seien. Soweit gienge<lb/>
+die Sache. <rs type="pers" ana="n_9609" ref="#fk__p_45908">Bahr</rs> erklärte aber auch, dass man, wenn ein solches Talent<lb/>
+auftauche, nicht »<seg type="spc">mit gesunkenen Händen zuschauen</seg>« dürfe.<lb/>
+Sie fürchten nun, dass diese Bemerkung die Position <rs type="pers" ana="n_9610" ref="#fk__p_45908">Bahr’s</rs> <seg type="spc">im</seg><lb/>
+‚<rs type="paper" ana="werk_3621">Neuen Wiener Tagblatt</rs>‘ erheblich verschlechtern werde. Die <seg type="spc">gesunkenen<lb/>
+</seg> Hände hätten ihm die <seg type="insult">Redactionscollegen</seg>, die auch nicht<lb/>
+besser deutsch schreiben, wohl noch hingehen lassen. Aber, dass er<lb/>
+mit den Händen, die doch ausschließlich zum Reden da sind, von<lb/>
+nun an auch sehen wolle, scheint ihnen eine Neuerung, die sie <seg type="insult">dem<lb/>
+kühnen Stürmer</seg> mit Recht verübeln. <seg type="insult">Herr <rs type="pers" ana="n_9611" ref="#fk__p_55546">Wilhelm Singer</rs></seg>, der fast<lb/>
+zärtlich an <rs type="pers" ana="n_9612" ref="#fk__p_45908">Bahr</rs> hängt, soll <seg type="insult">dem neuen Mitarbeiter</seg> wegen seiner<lb/>
+Verachtung aller <seg type="insult"><rs type="inst"><SPAN cont="Steyrermühl-Traditionen">»Steyrermühl«-Traditionen</SPAN></rs></seg> bereits ernstlich Vorstellungen<lb/>
+ gemacht haben. Er bat ihn, sich in den Rahmen des<lb/>
+<rs type="paperRef" ana="werk_3622">Blattes</rs> zu fügen, und redete ihm mit erhobenen Händen zu. <rs type="pers" ana="n_9613" ref="#fk__p_45908">Bahr</rs> aber<lb/>
+fuhr fort, ihn mit gesunkenen anzuschauen.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_47779">
+               <persName>Kenner</persName>
+            </person>
+            <person xml:id="fk__p_45908">
+               <persName>Bahr, Hermann</persName>
+               <birth>
+                  <date>1863-7-19</date>
+                  <place>Linz</place>
+               </birth>
+               <death>
+                  <date>1934-1-15</date>
+                  <place>München</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Kritiker</occupation>
+               <note type="comment">Ögg teilt auch 307/52, 445/49, 800/67 (Rotte Korah) Bahr zu</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10815</idno></person>
+            <person xml:id="fk__p_55546">
+               <persName>Singer, Wilhelm (Vilmos, Wolwele)</persName>
+               <birth>
+                  <date>1847-11-26</date>
+                  <place>Bisenz/Mähren</place>
+               </birth>
+               <death>
+                  <date>1917-10-10</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <note type="comment">Ögg gibt 706/56 Sándor Singer</note>
+               <note type="comment">Ögg gibt Wilhelm Singer auch F 25/12</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_20141</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2202</idno></person>
+            </listPerson></back></text>
+</TEI>

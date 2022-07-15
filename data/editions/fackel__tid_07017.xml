@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07017.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07016.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07018.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ein Freund unseres Blattes, in: Fackel Heft 17, Nr. 413, 1915, S. 91-92</title>
+            <title type="iso-date">1915-12-01</title>
+            <title type="id">tid_07017</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">17</title><title type="heft">413</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-17-413_n0091.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/413,091</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ein Freund unseres Blattes</head>
+            <p ana="pr95160">
+hat mit einem Erzherzog über Angelegenheiten der Kriegsfürsorge<lb/>
+gesprochen. »Er hatte die Freundlichkeit, uns einige Mitteilungen<lb/>
+über das Gespräch zu machen.« »Der Freund unseres <rs type="perRef" ana="werk_20503">Blattes</rs> erzählt<lb/>
+folgendes über den Empfang <seg type="symbol" subtype="4dots"/>«:<lb/>
+</p>
+            <p ana="pr95162">
+<space/><seg type="symbol" subtype="4dots"/> Auf der Fahrt sprach der Erzherzog mit dem jungen<lb/>
+Manne, <seg type="spc">und</seg> was er sagte, sollte den Unglücklichen mit seinem<lb/>
+Schicksale aussöhnen <seg type="spc">und</seg> die Herbheit des schweren Opfers für das<lb/>
+Vaterland mildern <seg type="spc">und</seg> die Gedanken zu Möglichkeiten hinüberleiten <seg type="symbol" subtype="4dots"/><lb/>
+<seg type="spc">und</seg> mir fällt der Teuerdank ein <seg type="spc">und</seg> ich sehe den Schnitt des<lb/>
+Kopfes, die Ähnlichkeit mit dem Bild des <rs type="pers" ana="n_64037" ref="#fk__p_49995">Kaisers Maximilian</rs> <seg type="symbol" subtype="4dots"/><lb/>
+</p>
+            <p ana="pr95164">
+<space/>Wer mag wohl <seg type="insult">der Freund unseres <rs type="perRef" ana="werk_20504">Blattes</rs></seg> sein? Ein<lb/>
+bißl lebhaft ist er und unberufen viel »und« gebraucht er und<lb/>
+der Erzherzog sagt zu ihm:<lb/>
+</p>
+            <p ana="pr95166">
+<space/><seg type="symbol" subtype="4dots"/> <seg type="spc">und</seg> so ist mein Tag, daß ich beständig Verwundete <seg type="spc">und</seg><lb/>
+Verletzte um mich sehe <seg type="spc">und</seg> die traurigen Eindrücke in mich aufnehme<lb/>
+, <seg type="spc">und</seg> die Arbeitslast braucht alle meine Kräfte, <seg type="spc">und</seg> das ermüdet,<lb/>
+<seg type="spc">und</seg> zuweilen fürchte ich, daß sie nicht zureichen können. Erfreulich<lb/>
+sind jedoch die Ergebnisse der Sammeltätigkeit, <seg type="spc">und</seg> die Ziffern sind<lb/>
+ganz <choice><sic>außerordentlieh</sic><corr>außerordentlich</corr></choice> <seg type="spc">und</seg> das Beispiel sehr wirksam.<lb/>
+</p>
+            <p ana="pr95168">
+<space/>Aber so spricht doch ein Erzherzog in der Regel nicht. So<lb/>
+spricht <seg type="insult">ein Freund unseres <rs type="perRef" ana="werk_20505">Blattes</rs></seg>. Wer mag der wohl sein? Vom<lb/>
+Erzherzog sagt er:<lb/>
+</p>
+            <p ana="pr95170">
+<space/>Er hat den Trieb, dort, wo er eingreifen soll, auch die <seg type="spc">Einzelheiten<lb/>
+</seg> zu verstehen.<lb/>
+</p>
+            <p ana="pr95172">
+<space/>Und die Details sicher auch, und das Gespräch geht auf<lb/>
+»Kontingentspiritus und Exkontingentspiritus« über und ich<lb/>
+glaube, daß <seg type="insult">der Freund unseres <rs type="perRef" ana="werk_20506">Blattes</rs></seg> <seg type="insult">der beste Freund unseres<lb/>
+<rs type="perRef" ana="werk_20507">Blattes</rs></seg> ist und ich sehe den Schnitt des Kopfes und die Ähnlichkeit<lb/>
+ ist groß und der Schnitt ist groß und das Ganze ist ein<lb/>
+Druckfehler und mir fällt der <RS pers="Moriz Benedikt" globID="rs_744">Teuerbank</RS> ein und er heißt nicht<lb/>
+<rs type="pers" ana="name_200398" ref="#fk__p_49995">Max</rs>, sondern <rs type="pers"><seg type="insult">Moriz</seg></rs>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_49995">
+               <persName>Maximilian I.</persName>
+               <birth>
+                  <date>1459-3-22</date>
+                  <place>Wiener Neustadt</place>
+               </birth>
+               <death>
+                  <date>1519-1-12</date>
+                  <place>Wels</place>
+               </death>
+               <occupation>Kaiser</occupation>
+               <note type="comment">Teuerdank</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/21215</idno></person>
+            </listPerson></back></text>
+</TEI>

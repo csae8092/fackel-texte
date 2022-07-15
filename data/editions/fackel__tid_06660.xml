@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06660.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06659.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06661.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Ordinäre Katalogmanieren), in: Fackel Heft 15, Nr. 395, 1914, S. 32-33</title>
+            <title type="iso-date">1914-01-01</title>
+            <title type="id">tid_06660</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">15</title><title type="heft">395</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-15-395_n0032.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/395,032</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Ordinäre Katalogmanieren)</head>
+            <p ana="pr89992">
+<space/>Eine »<rs type="inst">Wiener Buchhandlung für Universitätswissenschaften<lb/>
+und schöne Literatur</rs>« gibt einen Katalog heraus, der die folgende<lb/>
+Anführung enthält:<lb/>
+</p>
+            <p ana="pr89994">
+<rs type="pers" ana="n_61523" ref="#fk__p_47565"><B>Kraus, Karl</B></rs> (<rs type="pers" ana="n_61524" ref="#fk__p_47565"><seg type="insult"><SPAN cont="Fackel-Kraus"><rs type="self" ana="werk_20090">Fackel</rs>-Kraus</SPAN></seg></rs>), <rs type="title">Die chinesische<lb/>
+Mauer.</rs> <abbr>Orgbd.</abbr> K 9.—. — <rs type="title">Sprüche und<lb/>
+Widersprüche.</rs> <rs type="title">Aphorismen.</rs> <abbr>geb.</abbr> K 5.40<lb/>
+</p>
+            <p ana="pr89995">
+<rs type="pers" ana="n_61525" ref="#fk__p_47565"><DITTO cont="Kraus, Karl" rend="—"/></rs> <rs type="title"><seg type="insult"><rs type="pers" ana="n2_5405" ref="#fk__p_45715">Heine</rs> und die Folgen</seg>.</rs> <date>1911</date> K —.96<lb/>
+</p>
+            <p ana="pr89996">
+<rs type="pers" ana="n_61526" ref="#fk__p_47565"><DITTO cont="Kraus, Karl" rend="—"/></rs> <rs type="title"><foreign xml:lang="la">Pro domo et mundo.</foreign></rs> <abbr>geb.</abbr> K 4.80<lb/>
+</p>
+            <p ana="pr89998">
+<space/>Da kann man nichts machen, in Wien haben sogar die<lb/>
+Kataloge <seg type="insult">ordinäre Manieren</seg>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_47565">
+               <persName>Kraus, Karl</persName>
+               <birth>
+                  <date>1874-4-28</date>
+                  <place>Jicin, Böhmen</place>
+               </birth>
+               <death>
+                  <date>1936-6-12</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Publizist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11988</idno></person>
+            <person xml:id="fk__p_45715">
+               <persName>Heine, Heinrich</persName>
+               <birth>
+                  <date>1797-12-13</date>
+                  <place>Düsseldorf</place>
+               </birth>
+               <death>
+                  <date>1856-2-17</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Journalist</occupation>
+               <note type="comment">Ögg separiert F 24/25 </note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11640</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02279.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02278.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02280.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">»Ingenieur-Bureau.« (Die drahtlosen Uebertreibungen), in: Fackel Heft 03, Nr. 096, 1902, S. 23-23</title>
+            <title type="iso-date">1902-03-82</title>
+            <title type="id">tid_02279</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">03</title><title type="heft">096</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-03-096_n0023.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/096,023</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>»Ingenieur-Bureau.« (Die drahtlosen Uebertreibungen)</head>
+            <p ana="pr22230">
+<space/><seg type="sidehead"><seg type="i">»<rs type="pers" ana="n_19307" key="#fk__p_46474">Ingenieur-Bureau</rs>.«</seg></seg> Dank für die Anerkennung, die in der<lb/>
+Angelegenheit <SPAN cont="Marconi-Kareis"><rs type="pers" ana="n_19308" ref="#fk__p_49619">Marconi</rs>-<rs type="pers" ana="n_19309" ref="#fk__p_47469">Kareis</rs></SPAN> durch die hübsch illustrierte Postkarte der<lb/>
+‚<rs type="self" ana="werk_7358">Fackel</rs>‘ zu theil wurde. — Sogar die officielle ‚<rs type="paper" ana="werk_7359">Wiener Zeitung</rs>‘ findet<lb/>
+es für angemessen, den <seg type="insult"><seg type="ELIDASH">masslosen</seg> und drahtlosen Uebertreibungen</seg> entgegenzutreten<lb/>
+, indem sie in ihrer <rs type="paperRef" ana="werk_7360">Nummer</rs> vom <date>15. Februar <abbr>l. J.</abbr></date> über einen Misserfolg<lb/>
+ des Systems <rs type="pers" ana="n_19310" ref="#fk__p_49619">Marconi</rs> berichtet — allerdings über einen Misserfolg<lb/>
+auf den Sandwichinseln. In Europa und den Vereinigten Staaten ist der<lb/>
+<seg type="insult">Pressdienst der <rs type="pers" ana="n_19311" ref="#fk__p_49619">Marconicompagnie</rs></seg> gut organisiert, und nur der ablehnenden<lb/>
+Haltung eines grossen Theiles der deutschen Presse, die an das Gelingen<lb/>
+der transatlantischen drahtlosen Telegraphie, gleich der ‚<rs type="self" ana="werk_7361">Fackel</rs>‘, noch<lb/>
+nicht glauben will, ist es zu danken, dass manche »Aufklärungen« seither<lb/>
+ erfolgt sind.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_47469">
+               <persName>Kareis, Josef</persName>
+               <birth>
+                  <date>1837-02-14</date>
+                  <place>Semitz/Böhmen</place>
+               </birth>
+               <death>
+                  <date>1913-05-21</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Techniker</occupation>
+               <occupation>Politiker</occupation>
+               <note type="comment">Reichsratsabgeordneter</note>
+            </person>
+            <person xml:id="fk__p_49619">
+               <persName>Marconi, Guglielmo</persName>
+               <birth>
+                  <date>1874-4-25</date>
+                  <place>Bologna</place>
+               </birth>
+               <death>
+                  <date>1937-7-20</date>
+                  <place>Rom</place>
+               </death>
+               <occupation>Physiker</occupation>
+               <occupation>Elektroingenieur</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

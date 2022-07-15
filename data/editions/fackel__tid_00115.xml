@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00115.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00114.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00116.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Dina M., in: Fackel Heft 01, Nr. 006, 1899, S. 28-28</title>
+            <title type="iso-date">1899-05-01</title>
+            <title type="id">tid_00115</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">006</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-006_n0028.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/006,028</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Dina M.</head>
+            <p ana="pr1298">
+<space/><seg type="sidehead"><rs type="pers" ana="n_955" ref="#fk__p_50811"><seg type="i">Dina <abbr>M.</abbr></seg></rs></seg> 1. An <rs type="pers" ana="n_956" ref="#fk__p_38500">Schnitzler</rs> habe ich nie »missmuthig herumgezerrt<lb/>
+«. 2. Ich bin bereit, mit Ihnen »schrecklich zu streiten«.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_38500">
+               <persName>Schnitzler, Arthur</persName>
+               <birth>
+                  <date>1862-5-15</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1931-10-21</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Arzt</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2121</idno></person>
+            <person xml:id="fk__p_50811">
+               <persName>Gussmann, Olga</persName>
+               <birth>
+                  <date>1882-1-17</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1970-1-13</date>
+                  <place>Lugano</place>
+               </death>
+               <occupation>Sängerin</occupation>
+               <note type="comment">Im Text steht Dina M.</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

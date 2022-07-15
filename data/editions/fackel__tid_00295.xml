@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00295.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00294.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00296.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">G. G., in: Fackel Heft 01, Nr. 012, 1899, S. 27-27</title>
+            <title type="iso-date">1899-07-01</title>
+            <title type="id">tid_00295</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">012</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-012_n0027.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/012,027</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>G. G.</head>
+            <p ana="pr2740">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_1975" key="#fk__p_44131"><abbr>G. G.</abbr></rs></seg></seg> Ihre Wünsche schon theilweise in <rs type="selfRef" ana="werk_733"><abbr>Nr.</abbr> 11</rs> erfüllt. Auf<lb/>
+den Fall <rs type="pers" ana="n_1976" ref="#fk__p_46781">Rousseau</rs> komme ich wohl noch zurück, vielleicht auch<lb/>
+auf <seg type="insult">die impertinente Ausbeutung <rs type="pers" ana="n_1977" ref="#fk__p_48747">Tolstois</rs> für »liberale« Zwecke</seg>.<lb/>
+Besten Dank!<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46781">
+               <persName>Rousseau, Jean-Jacques</persName>
+               <birth>
+                  <date>1712-6-28</date>
+                  <place>Genf</place>
+               </birth>
+               <death>
+                  <date>1778-7-2</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Philosoph</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12582</idno></person>
+            <person xml:id="fk__p_48747">
+               <persName>Tolstoi, Leo Nikolajewitsch</persName>
+               <birth>
+                  <date>1828-9-9</date>
+                  <place>Jasnaja Poljana (Gouv. Tula)</place>
+               </birth>
+               <death>
+                  <date>1910-11-20</date>
+                  <place>Astapowo (Gouv. Tambow)</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_20772</idno></person>
+            </listPerson></back></text>
+</TEI>

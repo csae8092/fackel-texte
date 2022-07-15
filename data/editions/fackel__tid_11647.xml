@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_11647.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11646.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11648.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Theater, Kunst und Literatur, in: Fackel Heft 32, Nr. 847, 1931, S. 74-75</title>
+            <title type="iso-date">1931-03-01</title>
+            <title type="id">tid_11647</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">32</title><title type="heft">847</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-32-847_n0074.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/847,074</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Theater, Kunst und Literatur</head>
+            <p ana="pr169196">
+<space/>— — Der Name <rs type="pers" ana="n_101315" ref="#fk__p_46852">Jo <seg type="spc">Lherman</seg></rs> wurde zum erstenmal in der Öffentlichkeit<lb/>
+ genannt, als er im <DATERANGE>Sommer des Jahres 1927</DATERANGE> in Berlin verhaftet<lb/>
+ wurde. — — Im ganzen wurde <rs type="pers" ana="n_101316" ref="#fk__p_46852">Lherman</rs> wegen Betruges in<lb/>
+zweiundzwanzig Fällen und wegen Urkundenfälschung in fünf Fällen<lb/>
+angeklagt. — — Schon damals bestanden Zweifel über seine Persönlichkeit<lb/>
+ — — Tatsächlich wurde auch festgestellt, daß er in den Jahren <date>1920</date><lb/>
+und <date>1921</date> fünfmal wegen kleinerer Eigentumsdelikte abgestraft worden<lb/>
+war. — — Bei der Berliner Verhandlung sprach sich übrigens der als<lb/>
+Sachverständiger einvernommene bekannte Berliner Kritiker <rs type="pers" ana="n_101317" ref="#fk__p_38072">Alfred<lb/>
+<seg type="spc">Kerr</seg></rs> sehr günstig über <rs type="pers" ana="n_101318" ref="#fk__p_46852">Lherman</rs> aus und behauptete, dieser sei von<lb/>
+dem Fanatismus besessen, den jüngeren Dramatikern auf die Bühne<lb/>
+zu verhelfen, habe in dieser Beziehung schon sehr viel Ersprießliches<lb/>
+geleistet und besitze alle Talente, um ein machtvoller Theaterdirektor<lb/>
+zu werden. Die Verhandlung schloß damit, daß <rs type="pers" ana="n_101319" ref="#fk__p_46852">Lherman</rs> zu fünfzehn<lb/>
+Monaten Gefängnis verurteilt wurde.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_38072">
+               <persName>Kerr, Alfred</persName>
+               <birth>
+                  <date>1867-12-25</date>
+                  <place>Breslau</place>
+               </birth>
+               <death>
+                  <date>1948-10-12</date>
+                  <place>Hamburg</place>
+               </death>
+               <occupation>Kritiker</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11910</idno></person>
+            <person xml:id="fk__p_46852">
+               <persName>Lherman, Jo</persName>
+               <birth>
+                  <date>1898-1-5</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1949-5-5</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Finanzmann</occupation>
+               <occupation>Regisseur</occupation>
+               <occupation>Journalist</occupation>
+               <note type="comment">inszenierte 3. April 1929 (Theater in der Stadt Berlin) die Uraufführung von Musils "Die Schwärmer"</note>
+               <note type="comment">Dr. Jo Lhermann</note>
+               <note type="comment">Karl Corino nennt ihn Theaterhochstapler</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

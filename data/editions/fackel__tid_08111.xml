@@ -1,0 +1,48 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_08111.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08110.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08112.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Hugo v. Hofmannsthal, in: Fackel Heft 19, Nr. 472, 1917, S. 20-20</title>
+            <title type="iso-date">1917-11-01</title>
+            <title type="id">tid_08111</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">19</title><title type="heft">472</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-19-472_n0020.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/472,020</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Hugo v. Hofmannsthal</head>
+            <lg>
+<l>Daß du in Warschau eingezogen,</l>
+<l>das hat dir <seg type="insult">der <rs type="pers" ana="n_68100" ref="#fk__p_45908">Bahr</rs></seg> nur vorgelogen.</l>
+<l>Denn als du dann nach Warschau gekommen,</l>
+<l>war Warschau längst von andern genommen.</l>
+<l>Um Warschaus Widerstand wieder zu brechen,</l>
+<l>beschlossest du, <seg type="insult">Schulter an Schulter</seg> zu sprechen.</l>
+<l>Und als dann erschien, was du Warschau gesagt,</l>
+<l>hat sich Warschau über den Druck beklagt.</l>
+</lg>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_45908">
+               <persName>Bahr, Hermann</persName>
+               <birth>
+                  <date>1863-7-19</date>
+                  <place>Linz</place>
+               </birth>
+               <death>
+                  <date>1934-1-15</date>
+                  <place>München</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Kritiker</occupation>
+               <note type="comment">Ögg teilt auch 307/52, 445/49, 800/67 (Rotte Korah) Bahr zu</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10815</idno></person>
+            </listPerson></back></text>
+</TEI>

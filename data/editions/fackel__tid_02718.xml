@@ -1,0 +1,46 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02718.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02717.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02719.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Berichtigung, in: Fackel Heft 04, Nr. 118, 1902, S. 32-32</title>
+            <title type="iso-date">1902-10-17</title>
+            <title type="id">tid_02718</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">04</title><title type="heft">118</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-04-118_n0032.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/118,032</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Berichtigung</head>
+            <p ana="pr26471">
+<space/><FCORR href="FK-04-117_n0005.xml" ferrID="fk_04_ferr_27264825" id="fk_04_fcorr_27264825">In <rs type="selfRef" ana="werk_9260"><abbr>Nr.</abbr> 117</rs> lese man auf Seite 5, 14. Zeile von oben, statt<lb/>
+»<rs type="pers" ana="n_22946" ref="#fk__p_51645"><SPAN norm="Potocki"><seg type="spc">Potocky</seg></SPAN></rs>«: <seg type="i"><EM href="FK-04-117_n0005.xml" ferrID="fk_04_ferr_27264825" id="fk_04_em_27264828"><rs type="pers" ana="n_22947" ref="#fk__p_51645">Potocki</rs></EM>;</seg></FCORR> <FCORR href="FK-04-117_n0018.xml" ferrID="fk_04_ferr_27264832" id="fk_04_fcorr_27264832">auf Seite 18, 3. Zeile von oben, statt »<seg type="spc">Oder<lb/>
+man lasse nichts unversucht und rufe an Stelle</seg>«: <EM href="FK-04-117_n0018.xml" ferrID="fk_04_ferr_27264832" id="fk_04_em_27264836"><seg type="i">Will<lb/>
+man aber vom <rs type="inst">Parlamentarismus</rs> überhaupt nicht ablassen, weil die<lb/>
+jeweiligen Regierungen die Verantwortung scheuen, so rufe man<lb/>
+an Stelle</seg></EM>;</FCORR> <FCORR href="FK-04-117_n0029.xml" ferrID="fk_04_ferr_27264839" id="fk_04_fcorr_27264839">auf Seite 29, 12. Zeile von unten, statt »<seg type="spc">Liverno</seg>«:<lb/>
+<EM href="FK-04-117_n0029.xml" ferrID="fk_04_ferr_27264839" id="fk_04_em_27264844"><seg type="i">Livorno</seg></EM>;</FCORR> <FCORR href="FK-04-117_n0031.xml" ferrID="fk_04_ferr_27264847" id="fk_04_fcorr_27264847">auf Seite 31, 20. Zeile von unten, statt »<seg type="spc">gibt’s doch<lb/>
+nur</seg>«: <EM href="FK-04-117_n0031.xml" ferrID="fk_04_ferr_27264847" id="fk_04_em_27264851"><seg type="i">gibt’s doch höchstens</seg></EM>.</FCORR><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_51645">
+               <persName>Potocki, Alfred Józef Graf</persName>
+               <birth>
+                  <date>1817-7-29</date>
+                  <place>Lancut</place>
+               </birth>
+               <death>
+                  <date>1889-05-18</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Politiker</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

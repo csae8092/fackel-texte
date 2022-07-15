@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_09618.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09617.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09619.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Mangel an Übung, in: Fackel Heft 25, Nr. 632, 1923, S. 126-126</title>
+            <title type="iso-date">1923-10-01</title>
+            <title type="id">tid_09618</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">25</title><title type="heft">632</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-25-632_n0126.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/632,126</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Mangel an Übung</head>
+            <p ana="pr129090">
+<space/>Keiner der Mitlebenden wird den <rs type="event">Weltkrieg</rs>, die <rs type="event">Revolution</rs>,<lb/>
+wird <rs type="pers" ana="n_79175" ref="#fk__p_55058">Ludendorff</rs> und <rs type="pers" ana="n_79176" ref="#fk__p_50670"><seg type="spc">Lenau</seg></rs>, <rs type="pers" ana="n_79177" ref="#fk__p_55616">Wilson</rs> oder <rs type="pers" ana="n_79178" ref="#fk__p_47579">Liebknecht</rs> in ihrer<lb/>
+Leiblichkeit zu fassen wagen.<lb/>
+</p>
+            <p ana="pr129092">
+<space/>Das kommt davon, wenn sich die Druckerei des <seg ana="Neuen&#10;Wiener Journals"/> mit Manuskripten einläßt.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_50670">
+               <persName>Lenau, Nikolaus</persName>
+               <birth>
+                  <date>1802-8-13</date>
+                  <place>Tschadat, Banat</place>
+               </birth>
+               <death>
+                  <date>1850-8-22</date>
+                  <place>Oberdöbling bei Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/63259</idno></person>
+            <person xml:id="fk__p_47579">
+               <persName>Liebknecht, Karl</persName>
+               <birth>
+                  <date>1871-8-13</date>
+                  <place>Leipzig</place>
+               </birth>
+               <death>
+                  <date>1919-1-15</date>
+                  <place>Berlin-Charlottenburg</place>
+               </death>
+               <occupation>Politiker</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/8625</idno></person>
+            <person xml:id="fk__p_55616">
+               <persName>Wilson, Thomas Woodrow</persName>
+               <birth>
+                  <date>1856-12-28</date>
+                  <place>Staunton, Va.</place>
+               </birth>
+               <death>
+                  <date>1924-2-3</date>
+                  <place>Washington, D. C.</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <note type="comment">1913-21 der 28. Präs. der USA</note>
+            </person>
+            <person xml:id="fk__p_55058">
+               <persName>Ludendorff, Erich Friedrich Wilhelm</persName>
+               <birth>
+                  <date>1865-4-9</date>
+                  <place>Kruszewnia bei Posen</place>
+               </birth>
+               <death>
+                  <date>1937-12-20</date>
+                  <place>Tutzing</place>
+               </death>
+               <occupation>Offizier</occupation>
+               <occupation>Politiker</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17720</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12122</idno></person>
+            </listPerson></back></text>
+</TEI>

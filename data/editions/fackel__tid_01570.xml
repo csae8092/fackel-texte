@@ -1,0 +1,44 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01570.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01569.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01571.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Leser. (Leser), in: Fackel Heft 02, Nr. 066, 1901, S. 32-32</title>
+            <title type="iso-date">1901-01-01</title>
+            <title type="id">tid_01570</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">066</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-066_n0032.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/066,032</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Leser. (Leser)</head>
+            <p ana="pr15497">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_12926" ref="#fk__p_48877">Leser</rs>.</seg></seg> Sie haben recht. <seg type="insult">Die liberalen Blätter</seg> scheuen sich, zu<lb/>
+melden, <rs type="pers" ana="n_12927" ref="#fk__p_38056">Dreyfus</rs> werde den <seg type="insult">Curort <seg type="spc">Rabbi</seg></seg> aufsuchen, und erfinden<lb/>
+darum in merkwürdiger Uebereinstimmung einen Curort namens <seg type="spc">Rabbl</seg>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_48877">
+               <persName>Leser</persName>
+            </person>
+            <person xml:id="fk__p_38056">
+               <persName>Dreyfus, Alfred</persName>
+               <birth>
+                  <date>1859-10-9</date>
+                  <place>Mühlhausen</place>
+               </birth>
+               <death>
+                  <date>1935-7-12</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Offizier</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/4216</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,113 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_10581.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10580.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10582.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Kunstwelt, in: Fackel Heft 28, Nr. 735, 1926, S. 33-33</title>
+            <title type="iso-date">1926-10-01</title>
+            <title type="id">tid_10581</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">28</title><title type="heft">735</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-28-735_n0033.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/735,033</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Kunstwelt</head>
+            <p ana="pr147144">
+<space/><rs type="pers" ana="n_88675" ref="#fk__p_38066">Alfred Grünwald</rs> schreibt uns aus Karlsbad:<lb/>
+</p>
+            <p ana="pr147145">
+<space/>Wie alljährlich, so befinden sich auch heuer <seg type="insult">einige <seg type="spc">prominente<lb/>
+Persönlichkeiten der Kunstwelt</seg></seg> hier. In erster Linie<lb/>
+<rs type="pers" ana="n_88676" ref="#fk__p_52203">Richard Strauß</rs>, der mit seiner Frau im <rs type="inst">Grand-Hotel <rs type="pers" ana="n2_7870" ref="#fk__p_59492">Pupp</rs></rs> zu längerer<lb/>
+Kur weilt. — —<lb/>
+</p>
+            <p ana="pr147146">
+<space/>— — Ich hörte hier folgenden Wortwechsel: »<seg type="spc">Überlassen<lb/>
+Sie mir</seg> die Reversseite der <rs type="pers" ana="n_88677" key="#fk__p_40597"><foreign xml:lang="en">Dolly Sisters</foreign></rs> und <seg type="spc">Sie bekommen<lb/>
+von mir</seg> den Bauch der <rs type="pers" ana="n_88678" ref="#fk__p_50245">Mistinguette</rs> <seg type="symbol" subtype="3dots"/>«<lb/>
+</p>
+            <p ana="pr147147">
+<space/><rs type="pers" ana="n_88679" ref="#fk__p_52001">Benatzky</rs> <seg type="symbol" subtype="2dots"/> <rs type="pers" ana="n_88680" ref="#fk__p_47186">Selim</rs> — —<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_52001">
+               <persName>Benatzky, Ralph</persName>
+               <birth>
+                  <date>1884-6-5</date>
+                  <place>Budweis</place>
+               </birth>
+               <death>
+                  <date>1957-10-16</date>
+                  <place>Zürich</place>
+               </death>
+               <occupation>Komponist</occupation>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Ögg Tppfehler: Rakph, sowie fälschlich die Stelle 852/50 zugeteilt (Donnay, Die Verliebten)</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/6216</idno></person>
+            <person xml:id="fk__p_52203">
+               <persName>Strauss, Richard</persName>
+               <birth>
+                  <date>1864-6-11</date>
+                  <place>München</place>
+               </birth>
+               <death>
+                  <date>1949-9-8</date>
+                  <place>Garmisch-Partenkirchen</place>
+               </death>
+               <occupation>Komponist</occupation>
+               <occupation>Dirigent</occupation>
+               <occupation>Theaterleiter</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12870</idno></person>
+            <person xml:id="fk__p_38066">
+               <persName>Grünwald, Alfred</persName>
+               <birth>
+                  <date>1884-2-16</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1951-2-25</date>
+                  <place>Forest Hills, N. Y.</place>
+               </death>
+               <occupation>Theateragent</occupation>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Kritiker</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/7587</idno></person>
+            <person xml:id="fk__p_50245">
+               <persName>Mistinguett</persName>
+               <birth>
+                  <date>1875-4-5</date>
+                  <place>Enghien-les-Bains</place>
+               </birth>
+               <death>
+                  <date>1956-1-5</date>
+                  <place>Bougival/Paris</place>
+               </death>
+               <occupation>Chansonette</occupation>
+            </person>
+            <person xml:id="fk__p_47186">
+               <persName>Selim, Josma</persName>
+               <birth>
+                  <date>1886-2-23</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1929-8-25</date>
+                  <place>Berlin</place>
+               </death>
+               <occupation>Sängerin</occupation>
+               <note type="comment">Urnenhain Arkade Nische</note>
+               <note type="comment">Chansonette</note>
+            </person>
+            <person xml:id="fk__p_59492">
+               <persName>Pupp (Hotel)</persName>
+               <note type="comment">Karlsbad</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

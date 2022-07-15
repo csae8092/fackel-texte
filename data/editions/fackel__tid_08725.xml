@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_08725.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08724.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08726.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Material zu „Sonnenthal“), in: Fackel Heft 22, Nr. 544, 1920, S. 14-14</title>
+            <title type="iso-date">1920-06-01</title>
+            <title type="id">tid_08725</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">22</title><title type="heft">544</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-22-544_n0014.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/544,014</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Material zu „Sonnenthal“)</head>
+            <p ana="pr115812">
+<space/>Zu »<rs type="title"><rs type="pers" ana="n2_6519" ref="#fk__p_37842">Sonnenthal</rs></rs>«:<lb/>
+</p>
+            <p ana="pr115813">
+<space/><seg type="insult"><rs type="pers" ana="n_71614" ref="#fk__p_45908">Hermann Bahr</rs>, ein Provinzschauspieler in Salzburg</seg>, hat<lb/>
+kürzlich in der <seg type="insult"><rs type="paper" ana="werk_22183">Neuen Freien Presse</rs></seg>, die ja zu allem was mit<lb/>
+<seg type="insult">Pietät</seg> zusammenhängt fähig ist, <seg type="insult">eine planmäßige Besudelung<lb/>
+des alten <rs type="inst">Burgtheaters</rs></seg> unternommen, deren Duldung ich selbst<lb/>
+<seg type="insult">dem verkommenen Kulturgewissen dieser Stadt</seg> nicht zugetraut<lb/>
+hätte, weil sie eben nur <seg type="insult">der absoluten kulturellen Ehrlosigkeit</seg><lb/>
+möglich ist, welche sich nichts draus macht, auch noch ihre<lb/>
+bessere Vergangenheit prostituieren zu lassen. Damit <seg type="insult">die nichtswürdige<lb/>
+ Tat</seg>, mit <seg type="insult">ihrer nichtswürdigeren Duldung</seg>, nicht unbeachtet<lb/>
+ bleibe, will ich das Gedicht »<rs type="title"><rs type="pers" ana="n2_6520" ref="#fk__p_37842">Sonnenthal</rs></rs>« vortragen, die<lb/>
+Galerie von Stimmen des alten <rs type="inst">Burgtheaters</rs>, in der heute auch die<lb/>
+der erlauchten <choice><sic>Künsterin</sic><corr>Künstlerin</corr></choice> <rs type="pers" ana="n_71615" ref="#fk__p_53643"><seg type="spc">Stella Hohenfels</seg></rs> Platz finden würde,<lb/>
+jene unvergeßliche Stimme, die Flor war im doppelten Sinne,<lb/>
+einer von allen blühenden Dingen und der von allem Geheimnis,<lb/>
+ein Musselin und darunter alle Süßigkeit der Natur. Auch<lb/>
+diese Stimme hat der <seg type="insult">Sudler</seg>, eine Woche bevor ihr Mund an<lb/>
+dem bösesten aller Übel verstummen mußte, dem Gelächter<lb/>
+einer <seg type="insult">Generation</seg> preisgegeben, die überhaupt nicht weiß, was<lb/>
+ein Schauspieler ist, und es ganz gewiß weniger aus der Kritik<lb/>
+als durch <seg type="insult">die Persönlichkeit des <rs type="pers" ana="n_71616" ref="#fk__p_45908">Hermann Bahr</rs></seg> erfährt.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_37842">
+               <persName>Sonnenthal, Adolf Ritter von</persName>
+               <birth>
+                  <date>1834-12-21</date>
+                  <place>Pest</place>
+               </birth>
+               <death>
+                  <date>1909-4-4</date>
+                  <place>in der Eisenbahn von Prag nach Wien</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <note type="comment">Schwester: Emma Wertheimer, gest. Wien 04.09.1929, im 86. Lj.</note>
+               <note type="comment">Schwester: Laura Lemberger, gest. Wien 23.04.1907, im 71. Lj.</note>
+               <note type="comment">seit 1856 am Burgtheater</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_20204</idno></person>
+            <person xml:id="fk__p_45908">
+               <persName>Bahr, Hermann</persName>
+               <birth>
+                  <date>1863-7-19</date>
+                  <place>Linz</place>
+               </birth>
+               <death>
+                  <date>1934-1-15</date>
+                  <place>München</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Kritiker</occupation>
+               <note type="comment">Ögg teilt auch 307/52, 445/49, 800/67 (Rotte Korah) Bahr zu</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10815</idno></person>
+            <person xml:id="fk__p_53643">
+               <persName>Hohenfels, Stella</persName>
+               <birth>
+                  <date>1858-4-16</date>
+                  <place>Florenz</place>
+               </birth>
+               <death>
+                  <date>1920-2-21</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schauspielerin</occupation>
+               <note type="comment">Burgtheater, Hofschauspielerin</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2850</idno></person>
+            </listPerson></back></text>
+</TEI>

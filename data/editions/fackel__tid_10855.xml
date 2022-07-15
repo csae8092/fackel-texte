@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_10855.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10854.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10856.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Aus einem Staunen ins andere, in: Fackel Heft 28, Nr. 751, 1927, S. 107-108</title>
+            <title type="iso-date">1927-02-01</title>
+            <title type="id">tid_10855</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">28</title><title type="heft">751</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-28-751_n0107.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/751,107</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Aus einem Staunen ins andere</head>
+            <p ana="pr151224">
+fiel die <seg ana="Reichspost"/>:<lb/>
+</p>
+            <p ana="pr151226">
+Nun ist auch dieser liebenswürdige Schweizer Dichter unter die Jubilare<lb/>
+gegangen. Am <date>24. <abbr>d.</abbr></date> feierte <rs type="pers" ana="n_90565" ref="#fk__p_42871">Ernst <seg type="spc">Zahn</seg></rs> seinen <seg type="spc">60. Geburtstag</seg> <seg type="symbol" subtype="4dots"/><lb/>
+</p>
+            <p ana="pr151228">
+Während sie aber hier, wo sich der Zahn der Zeit doch eher<lb/>
+fühlbar macht, relativ ruhig blieb, riß es sie — ein paar Seiten<lb/>
+später — vehement:<lb/>
+</p>
+            <p ana="pr151230">
+Es ist eine jener <seg type="spc">Überraschungen</seg>, mit denen uns die unerbittliche<lb/>
+ Zeit <seg type="spc">zuweilen in Erstaunen</seg> versetzt, daß<lb/>
+<rs type="pers" ana="n_90566" ref="#fk__p_40713"><abbr>Dr.</abbr> Alfred <seg type="spc">Möller</seg></rs> in diesen Tagen sein <seg type="spc">50. Lebensjahr</seg> vollendet <seg type="symbol" subtype="4dots"/><lb/>
+</p>
+            <p ana="pr151232">
+Im ersten Fall handelt es sich um einen <seg type="insult">Romanschriftsteller</seg>, der<lb/>
+sich aber auch als Bahnhofrestaurateur von Göschenen große<lb/>
+Verdienste um die Reisenden der Gotthardbahn erworben hat;<lb/>
+die ‚<rs type="paper" ana="werk_24612">Reichspost</rs>‘ erwähnt, er habe, als ihn die <rs type="inst">Universität Genf</rs><lb/>
+zum Ehrendoktor ernannte, »seine Gastwirtschaft aufgegeben, um<lb/>
+ausschließlich der Dichtkunst zu leben«. Im zweiten Fall handelt<lb/>
+es sich um einen Redakteur der Grazer ‚<rs type="paper" ana="werk_24613">Tagespost</rs>‘, dessen Feier<lb/>
+vielleicht eben darum, weil er keine Reiselektüre geschrieben<lb/>
+hat, das Erstaunen rechtfertigt, wie die Zeit vergeht. Nur ob<lb/>
+der Fall geradezu ihre Unerbittlichkeit beweist, möge dahingestellt<lb/>
+bleiben. Wir waren ja alle ein bißchen perplex, als wir es erfuhren,<lb/>
+aber schließlich findet man sich drein, murrt nicht, sondern<lb/>
+trägt es still und gottergeben, wie die <rs type="paper" ana="werk_24614">Reichspost</rs>, als mir vor<lb/>
+ein paar Jahren etwas Ähnliches widerfuhr.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_42871">
+               <persName>Zahn, Ernst</persName>
+               <birth>
+                  <date>1867-01-24</date>
+                  <place>Zürich</place>
+               </birth>
+               <death>
+                  <date>1952-02-12</date>
+                  <place>Meggen/Kanton Luzern</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10639</idno></person>
+            <person xml:id="fk__p_40713">
+               <persName>Möller, Alfred</persName>
+               <birth>
+                  <date>1877-01-22</date>
+                  <place>Cilli</place>
+               </birth>
+               <death>
+                  <date>1957-09-30</date>
+                  <place>Graz</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <occupation>Schriftsteller</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

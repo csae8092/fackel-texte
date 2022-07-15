@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01776.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01775.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01777.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Eine Kundgebung der Reichenberger Handelskammer.), in: Fackel Heft 03, Nr. 075, 1901, S. 9-10</title>
+            <title type="iso-date">1901-04-01</title>
+            <title type="id">tid_01776</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">03</title><title type="heft">075</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-03-075_n0009.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/075,009</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Eine Kundgebung der Reichenberger Handelskammer.)</head>
+            <p ana="pr17605">
+<space/><inciptit>Die</inciptit> <rs type="inst">Reichenberger Handelskammer</rs> hat am<lb/>
+<date>26. April</date> eine Kundgebung zugunsten des Donau-Moldau-Elbe-Canals<lb/>
+ beschlossen. So meldete am <date>27. April</date><lb/>
+die ‚<rs type="paper" ana="werk_5603">Neue Freie Presse</rs>‘, die sich die langathmige<lb/>
+Begründung der Kammerresolution angeblich aus<lb/>
+Reichenberg hatte telegraphieren lassen. Etwas Neues<lb/>
+stand freilich nicht darin; denn der Kammersecretär,<lb/>
+der sich wahrscheinlich wenig um die Wasserstraßenfrage<lb/>
+kümmert, hatte einfach mehrere <choice><sic>Sätz</sic><corr>Sätze</corr></choice> aus einer im<lb/>
+Jahre <date>1897</date> veröffentlichten Broschüre über »Das<lb/>
+<choice><sic>Donau-Moldau-Elbe-Canalproject</sic><corr>Donau-Moldau-Elbe-Canalproject«</corr></choice> (Heft 1, <abbr>Nr.</abbr> V der<lb/>
+<rs type="" ana="werk_5604">Schriften des ‚<rs type="inst">Deutsch-österreichisch-ungarischen Verbandes<lb/>
+ für Binnenschifffahrt</rs>‘</rs>) <seg type="spc">wörtlich</seg> entnommen,<lb/>
+und so figuriert jetzt die in jener Broschüre enthaltene<lb/>
+ Rede des jungczechischen Abgeordneten<lb/>
+<rs type="pers" ana="n_14827" ref="#fk__p_47357">Kaftan</rs> als die Enunciation eines deutschnationalen<lb/>
+Kammerbezirks. Aber der ‚<rs type="paper" ana="werk_5605">Neuen Freien Presse</rs>‘ war<lb/>
+<seg type="insult">das vier Jahre alte Schriftchen</seg> vielleicht just nicht<lb/>
+zugänglich, und so sparte sie keine Telegrammkosten,<lb/>
+um ihren Lesern seinen Inhalt als Neuestes zu bieten.<lb/>
+Bei ferneren Kundgebungen der Reichenberger Kammer<lb/>
+wird es wohl genügen, wenn den Wiener Zeitungen<lb/>
+telegraphisch das Werk und der Artikel genannt werden,<lb/>
+denen sie entnommen sind. Reichen Stoff für <seg type="insult">solche<lb/>
+Kundgebungen</seg> enthalten besonders die Supplemente<lb/>
+zu <rs type="title"><rs type="pers" ana="n2_1187" ref="#fk__p_57616">Brockhaus’</rs></rs> und <rs type="title"><rs type="pers" ana="n2_1188" ref="#fk__p_58581">Meyers</rs> Conversationslexikon</rs><lb/>
+(neueste Auflagen) und das <rs type="title">Zeitlexikon</rs> der <rs type="inst">Deutschen<lb/>
+Verlagsanstalt</rs> in Stuttgart unter den Schlagworten:<lb/>
+Schifffahrt, Canäle, Wasserstraßen, Donau-Oder-Canal,<lb/>
+Donau-Elbe-Canal, Schiffshebewerke (höchst actuell!)<lb/>
+<abbr>etc.</abbr> Aber auch in <rs type="title" ana="name_200094" ref="#fk__p_55995"><rs type="pers" ana="n2_1189" ref="#fk__p_55995"><choice><sic>Baedeckers</sic><corr>Baedekers</corr></choice></rs></rs> Reisebüchern ist manches<lb/>
+Zweckdienliche zu finden.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_47357">
+               <persName>Kaftan, Johann</persName>
+               <birth>
+                  <date>1841-09-11</date>
+                  <place>Prag</place>
+               </birth>
+               <death>
+                  <date>1909-04-22</date>
+                  <place>Prag</place>
+               </death>
+               <occupation>Techniker</occupation>
+               <occupation>Politiker</occupation>
+            </person>
+            <person xml:id="fk__p_57616">
+               <persName>Brockhaus, F. A. (Verlag)</persName>
+               <note type="comment">in Leipzig</note>
+            </person>
+            <person xml:id="fk__p_58581">
+               <persName>Meyer (Konversations-Lexikon)</persName>
+            </person>
+            <person xml:id="fk__p_55995">
+               <persName>Baedeker, Karl</persName>
+               <birth>
+                  <date>1801-11-3</date>
+                  <place>Essen</place>
+               </birth>
+               <death>
+                  <date>1859-10-4</date>
+                  <place>Koblenz</place>
+               </death>
+               <occupation>Verleger</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

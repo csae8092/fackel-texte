@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_05479.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05478.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05480.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Kontraste, in: Fackel Heft 13, Nr. 334, 1911, S. 10-10</title>
+            <title type="iso-date">1911-10-31</title>
+            <title type="id">tid_05479</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">13</title><title type="heft">334</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-13-334_n0010.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/334,010</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Kontraste</head>
+            <p ana="pr71925">
+<space/><choice><sic>«</sic><corr>»</corr></choice>Aus Paris wird gemeldet: Die <foreign xml:lang="fr">‚<rs type="paper" ana="werk_18443">Aurore</rs>‘</foreign> macht die Bemerkung,<lb/>
+daß die menschliche Dankbarkeit auch für die allergrößten geleisteten<lb/>
+Dienste ein Jahrzeit nicht wesentlich überdauere, und stellt über diese<lb/>
+Hinfälligkeit menschlicher Gefühle Betrachtungen an. Den Anlaß gibt<lb/>
+die Tatsache, daß <seg type="insult">der Herr <rs type="pers" ana="n_52060" ref="#fk__p_38056">Alfred Dreyfus</rs></seg>, für den während der Affäre<lb/>
+die <foreign xml:lang="fr">‚<rs type="paper" ana="werk_18444">Aurore</rs>‘</foreign>, damals von Herrn <rs type="pers" ana="n_52061" ref="#fk__p_44326">Clémenceau</rs> geleitet, bekanntlich die<lb/>
+verzweifeltsten und schließlich siegreichen Kämpfe geliefert hat, ihr mitteilt<lb/>
+, daß er von Neujahr ab aufhöre, ihr Abonnent zu sein.«<lb/>
+</p>
+            <p ana="pr71927">
+<space/>Nichts auf der Welt verträgt sich schlechter als eine <seg type="insult">Wahrheit</seg>,<lb/>
+die auf dem Marsch, und ein Abonnement, das abgelaufen ist.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_44326">
+               <persName>Clemenceau, Georges</persName>
+               <birth>
+                  <date>1841-9-28</date>
+                  <place>Mouilleron-en-Pareds</place>
+               </birth>
+               <death>
+                  <date>1929-11-24</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Arzt</occupation>
+               <occupation>Politiker</occupation>
+               <note type="comment">25.10.1906-24.07.1909, 16.11.1917-20.01.1920 Ministerpräsident</note>
+               <note type="comment">1906-09, 1917-20 Ministerpräsident</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/4719</idno></person>
+            <person xml:id="fk__p_38056">
+               <persName>Dreyfus, Alfred</persName>
+               <birth>
+                  <date>1859-10-9</date>
+                  <place>Mühlhausen</place>
+               </birth>
+               <death>
+                  <date>1935-7-12</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Offizier</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/4216</idno></person>
+            </listPerson></back></text>
+</TEI>

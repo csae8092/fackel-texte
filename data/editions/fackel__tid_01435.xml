@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01435.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01434.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01436.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Leserin. (Nordau über Böcklin), in: Fackel Heft 02, Nr. 060, 1900, S. 27-27</title>
+            <title type="iso-date">1900-11-01</title>
+            <title type="id">tid_01435</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">060</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-060_n0027.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/060,027</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Leserin. (Nordau über Böcklin)</head>
+            <p ana="pr13614">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_11426" ref="#fk__p_48890">Leserin</rs>.</seg></seg> Sie bitten mich, diesmal <seg type="insult">Herrn <rs type="pers" ana="n_11427" ref="#fk__p_49957"><seg type="spc">Nordau</seg></rs></seg> nicht zu vergessen<lb/>
+, der im Feuilleton der ‚<rs type="paper" ana="werk_4424">Neuen Freien Presse</rs>‘ die Reiseeindrücke<lb/>
+von seiner Tour nach Basel schildert. Wir beide würden <seg type="insult">Herrn <rs type="pers" ana="n_11428" ref="#fk__p_49957">Nordau</rs></seg><lb/>
+die Fahrt nach Basel, wo er alljährlich als Vicepräsident des <rs type="event">Zionistencongresses<lb/>
+</rs> fungiert, ja selbst <seg type="insult">die endliche Tour nach Palästina</seg> gönnen,<lb/>
+aber wir verübeln ihm die <seg type="insult">Handfertigkeit</seg>, mit der er <seg type="insult">seine zionistische<lb/>
+Mission</seg> zu einem <seg type="insult">abscheulichen Angriff</seg> auf <rs type="pers" ana="n_11429" ref="#fk__p_39373">Böcklin</rs> missbraucht. Wie<lb/>
+lange wird sich das Publicum <seg type="insult">diese regelmäßigen Anpöbelungen</seg> großer<lb/>
+Männer durch einen <seg type="insult">Literaten</seg> gefallen lassen, an dem außer <seg type="insult">seinem<lb/>
+cyklopischen Schmockthum</seg> alles Andere klein ist? <seg type="insult">Herr <rs type="pers" ana="n_11430" ref="#fk__p_49957">Nordau</rs></seg> kann<lb/>
+den urgesunden Schweizer Meister in <seg type="insult">sein Literaturspital</seg> beim besten<lb/>
+Willen nicht aufnehmen. Aber da er schon einmal in Basel ist,<lb/>
+<seg type="spc">muss</seg> er über <rs type="pers" ana="n_11431" ref="#fk__p_39373">Böcklin</rs> schwätzen. So fühlt <seg type="insult">er, der Zionist, der Kernjude<lb/>
+</seg>, sich veranlasst, mindestens zu bezweifeln, ob <rs type="pers" ana="n_11432" ref="#fk__p_39373">Böcklins</rs> Malerei<lb/>
+<seg type="insult">die Empfindung der <seg type="spc">deutschen Volksseele</seg></seg> ausspreche. »Allzu<lb/>
+viel wissen macht Kopfweh« rufen Sie mit Recht <seg type="insult">dem Unermüdlichen</seg><lb/>
+zu, »entweder man kennt die geheimsten Regungen der jüdischen oder<lb/>
+der deutschen Volksseele!«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_48890">
+               <persName>Leserin</persName>
+            </person>
+            <person xml:id="fk__p_39373">
+               <persName>Böcklin, Arnold</persName>
+               <birth>
+                  <date>1827-10-16</date>
+                  <place>Basel</place>
+               </birth>
+               <death>
+                  <date>1901-01-16</date>
+                  <place>S. Domenico/Fiesolo</place>
+               </death>
+               <occupation>Maler</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/4579</idno></person>
+            <person xml:id="fk__p_49957">
+               <persName>Nordau, Max Simon</persName>
+               <birth>
+                  <date>1849-7-29</date>
+                  <place>Pest</place>
+               </birth>
+               <death>
+                  <date>1923-1-22</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Arzt</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_18472</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12365</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,41 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07633.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07632.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07634.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Die Geschichte des Weltkriegs schreibt, in: Fackel Heft 18, Nr. 445, 1234, S. 70-71</title>
+            <title type="iso-date">1234-01-01</title>
+            <title type="id">tid_07633</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">18</title><title type="heft">445</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-18-445_n0070.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/445,070</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Die Geschichte des Weltkriegs schreibt</head>
+            <p ana="pr102559">
+<seg type="insult">der <rs type="pers" ana="n_66331" ref="#fk__p_51252">Paul Stefan</rs></seg>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_51252">
+               <persName>Stefan, Paul</persName>
+               <birth>
+                  <date>1879-11-25</date>
+                  <place>Brünn</place>
+               </birth>
+               <death>
+                  <date>1943-11-12</date>
+                  <place>New York</place>
+               </death>
+               <occupation>Musikkritiker</occupation>
+               <occupation>Musikschriftsteller</occupation>
+               <note type="comment">F 13/31 und 14/24 (in Brünn) P. St. Gr. vermutlich Paul Stefan Grünfeld</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12826</idno></person>
+            </listPerson></back></text>
+</TEI>

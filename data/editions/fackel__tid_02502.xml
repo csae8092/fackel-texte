@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02502.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02501.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02503.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Zwei Unwissenden. (Zwei Unwissenden), in: Fackel Heft 04, Nr. 107, 1902, S. 26-26</title>
+            <title type="iso-date">1902-06-27</title>
+            <title type="id">tid_02502</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">04</title><title type="heft">107</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-04-107_n0026.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/107,026</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Zwei Unwissenden. (Zwei Unwissenden)</head>
+            <p ana="pr24270">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i">Zwei Unwissenden.</seg></seg></seg> Aber, aber! <rs type="pers" ana="n_21125" ref="#fk__p_39723">Canova</rs> hat doch der Gruppe<lb/>
+den Namen gegeben: <rs type="title"><rs type="pers">Theseus</rs> erschlägt den <rs type="pers">Minotaurus</rs></rs>. Was macht<lb/>
+es aus, daß er den <rs type="pers">Minotaurus</rs> anders gebildet, als ihn die Alten sich<lb/>
+dachten? Auch <seg type="insult"><rs type="pers" ana="n_21126" ref="#fk__p_45195">Klimt</rs>, der in der Archäologie Wohlbewanderte</seg>,<lb/>
+hat sich um die griechischen Bildhauer nicht gekümmert, als er seinen<lb/>
+Giganten <rs type="pers">Typhoeus</rs> schuf.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_39723">
+               <persName>Canova, Antonio</persName>
+               <birth>
+                  <date>1757-11-01</date>
+                  <place>Possagno</place>
+               </birth>
+               <death>
+                  <date>1822-10-13</date>
+                  <place>Venedig</place>
+               </death>
+               <occupation>Bildhauer</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/47662</idno></person>
+            <person xml:id="fk__p_45195">
+               <persName>Klimt, Gustav</persName>
+               <birth>
+                  <date>1862-7-14</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1918-2-6</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Maler</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11941</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_04351.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04350.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04352.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Stilist. (Aber, aber!), in: Fackel Heft 08, Nr. 216, 1907, S. 26-27</title>
+            <title type="iso-date">1907-01-9</title>
+            <title type="id">tid_04351</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">08</title><title type="heft">216</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-08-216_n0026.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/216,026</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Stilist. (Aber, aber!)</head>
+            <p ana="pr47429">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="name_203595" ref="#fk__p_53679">Stilist</rs>.</seg></seg></seg> Aus <seg type="insult">einem wirklichen Originalartikel des <seg ana="‚Neuen Wiener&#10;Journals‘"/></seg>: »<QUOTE part="initial" rn="1" sourceID="FK-08-216_n0026_b">Die Sache dauert etwa eine Viertelstunde, ist recht hübsch,<lb/>
+fast könnte man sagen stimmungsvoll. <seg type="spc">Aber</seg> ehe man, wie immer bei<lb/>
+diesen Dingen, in Stimmung kommen will, ist es vorbei. Mit Miß<lb/>
+<rs type="pers" ana="n_38352" ref="#fk__p_38122">Allans</rs> Tanzkunst ist es nicht weit her; <seg type="spc">aber</seg> sie gibt die gewisse bildhafte<lb/>
+ Wirkung, die gewisse künstlerische Linie. <seg type="spc">Aber</seg> der ganze<lb/></QUOTE>
+</p>
+            <p ana="pr47429">
+Apparat, die Inszenierung auf bestimmte Stimmungsmöglichkeiten muß<lb/>
+dabei sein. Dann wäre es <seg type="spc">aber</seg> doch nur <seg type="insult">Mache</seg> und Kunstfertigkeit?<lb/>
+Ganz richtig, wie bei <seg type="insult">allen diesen Spezialitäten</seg>. Das wollen <seg type="spc">aber</seg> die<lb/>
+wenigsten Wort haben «.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_38122">
+               <persName>Allan, Maude</persName>
+               <birth>
+                  <date>1873-4-23</date>
+                  <place>Toronto</place>
+               </birth>
+               <death>
+                  <date>1956-10-7</date>
+                  <place>Los Angeles</place>
+               </death>
+               <occupation>Tänzerin</occupation>
+            </person>
+            <person xml:id="fk__p_53679">
+               <persName>Stilist</persName>
+            </person>
+            </listPerson></back></text>
+</TEI>

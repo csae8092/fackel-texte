@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_09867.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09866.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09868.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Mittlerer Konzerthaussaal, 30. Mai, 7 Uhr:, in: Fackel Heft 26, Nr. 657, 1924, S. 97-97</title>
+            <title type="iso-date">1924-08-01</title>
+            <title type="id">tid_09867</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">26</title><title type="heft">657</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-26-657_n0097.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/657,097</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Mittlerer Konzerthaussaal, 30. Mai, 7 Uhr:</head>
+            <p ana="pr133926">
+<space/><rs type="inst">Mittlerer Konzerthaussaal</rs>, <date>30. Mai</date>, 7 Uhr:<lb/>
+</p>
+            <p ana="pr133927">
+<space/>I <rs type="title">Zitat aus dem Chinesischen</rs> (mit Vorbemerkung) / <rs type="title"><seg type="insult"><foreign xml:lang="fr">Écrasez</foreign><lb/>
+<foreign xml:lang="fr">l’infâme!</foreign></seg></rs><FERR href="FK-26-668_n0071.xml" fcorrID="fk_04_fcorr_29414461" id="fk_04_ferr_29414461" emID="fk_04_em_29414464"><ERR fcorr=" —">. —</ERR></FERR> <rs type="title">An den Staatsanwalt</rs>. — <rs type="title">Couplet des <seg type="insult"><rs type="pers">Schwarz-Drucker</rs></seg></rs> /<lb/>
+<rs type="title"><seg type="insult">Bunte Begebenheiten</seg></rs> / <rs type="title"><seg type="insult">Die Grüngekleideten</seg></rs> / <rs type="title">Hypnagogische Gestalten</rs> /<lb/>
+<rs type="title">Schnellzug</rs> / <rs type="title"><rs type="pers">Eros</rs> und der Dichter</rs> / <rs type="title">Der Grund</rs> / <rs type="title">Nächtliche Stunde</rs> /<lb/>
+<rs type="title">Die Raben</rs> / <rs type="title">Die Lerche</rs>.<lb/>
+</p>
+            <p ana="pr133928">
+<space/>II <rs type="title">Prozeß <rs type="pers" ana="n2_7323" ref="#fk__p_49604">Veith</rs></rs> (gekürzt; mit Vorwort wie am <date>17. April</date>).<lb/>
+</p>
+            <p ana="pr133929">
+<space/>III <rs type="title">Traumstück</rs>. Zum erstenmal mit der vollständigen Musik von<lb/>
+<rs type="pers" ana="n_81827" ref="#fk__p_41168">Heinrich Jalowetz</rs>.<lb/>
+</p>
+            <p ana="pr133930">
+<space/>Begleitung: <rs type="pers" ana="n_81828" ref="#fk__p_54913">Viktor Junk</rs>.<lb/>
+</p>
+            <p ana="pr133931">
+<space/>Ein Teil des Ertrags (<abbr>inkl.</abbr> Programmerlös): K 600.110 für<lb/>
+eine Notleidende.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_54913">
+               <persName>Junk, Viktor</persName>
+               <birth>
+                  <date>1875-4-18</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1948-4-5</date>
+                  <place>Frohnleiten/Steiermark</place>
+               </death>
+               <occupation>Germanist</occupation>
+               <occupation>Musikwissenschaftler</occupation>
+            </person>
+            <person xml:id="fk__p_49604">
+               <persName>Veith, Marcel</persName>
+               <birth>
+                  <date>1862-1-2</date>
+                  <place>Liboch/Böhmen</place>
+               </birth>
+               <death>
+                  <date>1936-3-22</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Agent</occupation>
+               <note type="comment">5., Kriehubergasse 13</note>
+               <note type="comment">verh. 05.02.1898 Dienstmagd Anna Wimmer</note>
+            </person>
+            <person xml:id="fk__p_41168">
+               <persName>Jalowetz, Heinrich</persName>
+               <birth>
+                  <date>1882-12-3</date>
+                  <place>Brünn</place>
+               </birth>
+               <death>
+                  <date>1946-2-2</date>
+                  <place>Black Mountain, N. C.</place>
+               </death>
+               <occupation>Dirigent</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/8005</idno></person>
+            </listPerson></back></text>
+</TEI>

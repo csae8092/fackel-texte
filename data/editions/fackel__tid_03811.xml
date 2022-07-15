@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03811.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03810.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03812.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Spiritist. (Die verstorbenen Leidtragenden), in: Fackel Heft 06, Nr. 175, 1905, S. 24-24</title>
+            <title type="iso-date">1905-02-17</title>
+            <title type="id">tid_03811</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">06</title><title type="heft">175</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-06-175_n0024.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/175,024</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Spiritist. (Die verstorbenen Leidtragenden)</head>
+            <p ana="pr38214">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="name_202342" ref="#fk__p_53498">Spiritist</rs>.</seg></seg></seg> Bisher hat man Verstorbene bloß vor der Wahlurne<lb/>
+erscheinen sehen. Jetzt nehmen sie auch an Leichenbegängnissen teil.<lb/>
+Nicht im, sondern am Grabe. In einem Bericht über das Leichenbegängnis<lb/>
+ des <rs type="pers" ana="n_32690" ref="#fk__p_50793"><abbr>Dr.</abbr> Ritter <abbr>v.</abbr> Ofenheim</rs> — der sicher ein <seg type="insult">Originalbericht</seg><lb/>
+war — schrieb das ‚<rs type="paper" ana="werk_13634">Neue Wiener Journal</rs>‘: »Unter den Anwesenden<lb/>
+sah man <seg type="symbol" subtype="5dots"/> und <seg type="spc">viele verstorbene Freunde</seg> des Verstorbenen<lb/>
+.« Den <seg type="insult">Ehrgeiz, »<abbr>u. a.</abbr>« bei Begräbnissen gesehen zu werden</seg>, haben<lb/>
+die Toten von den Überlebenden geerbt.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_50793">
+               <persName>Ofenheim-Ponteuxin, Adolf Ritter von</persName>
+               <birth>
+                  <date>1857-7-1</date>
+               </birth>
+               <death>
+                  <date>1905-2-4</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Rechtsanwalt</occupation>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Michael Kohlhaas des Unrechts</note>
+               <note type="comment">Das Wesen des Duells und ein Reform-Vorschlag. - Wien, Manz 1887. </note>
+               <note type="comment">Hietzinger Friedhof 18/4/107 (1967 weitervergeben)</note>
+            </person>
+            <person xml:id="fk__p_53498">
+               <persName>Spiritist</persName>
+            </person>
+            </listPerson></back></text>
+</TEI>

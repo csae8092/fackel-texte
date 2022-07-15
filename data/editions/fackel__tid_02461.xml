@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02461.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02460.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02462.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Leser. (Die Mitarbeiter des ‚Neuen Wiener Journal‘), in: Fackel Heft 04, Nr. 105, 1902, S. 24-25</title>
+            <title type="iso-date">1902-06-6</title>
+            <title type="id">tid_02461</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">04</title><title type="heft">105</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-04-105_n0024.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/105,024</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Leser. (Die Mitarbeiter des ‚Neuen Wiener Journal‘)</head>
+            <p ana="pr23885">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_20806" ref="#fk__p_48877">Leser</rs>.</seg></seg> Das ‚<rs type="paper" ana="werk_8101">Neue Wiener Journal</rs>‘ ladet in einem Prospecte zu<lb/>
+einem »Monatsprobeabonnement« ein und macht dem Publicum durch<lb/>
+Aufzählung seiner <seg type="insult">»Mitarbeiter«</seg> den Mund wässerig. An der Spitze wird<lb/>
+<seg type="insult">Herr <rs type="pers" ana="n_20807" ref="#fk__p_39122"><seg type="spc">Buchbinder</seg></rs></seg> genannt. Das kann Niemanden Wunder nehmen.<lb/>
+Aber auch <rs type="pers" ana="n_20808" ref="#fk__p_38040">Alphonse <seg type="spc">Daudet</seg></rs> fungiert unter den Genannten. Der bereits<lb/>
+seit Jahren todte französische Romancier wird sich vielleicht ob<lb/>
+der <seg type="insult">Ehre</seg>, die ihm da angethan wird, im Grabe umdrehen, allein darauf<lb/>
+wird sich auch seine Thätigkeit für das ‚<rs type="paper" ana="werk_8102">Neue Wiener Journal</rs>‘ beschränken<lb/>
+; eine Abfassung von Beiträgen dürfte unter den gegebenen<lb/>
+</p>
+            <p ana="pr23885">
+Umständen gänzlich ausgeschlossen sein. <seg type="insult">Der werthvollste, immer rührige<lb/>
+und eigentlich einzige belletristische Mitarbeiter des ‚<rs type="paper" ana="werk_8103">Neuen Wiener<lb/>
+Journal</rs>‘</seg> fehlt in der Liste: <seg type="insult">Die Schere des Herrn <rs type="pers" ana="n_20809" ref="#fk__p_46698">Lippowitz</rs></seg>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_48877">
+               <persName>Leser</persName>
+            </person>
+            <person xml:id="fk__p_38040">
+               <persName>Daudet, Alphonse</persName>
+               <birth>
+                  <date>1840-5-13</date>
+                  <place>Nîmes</place>
+               </birth>
+               <death>
+                  <date>1897-12-16</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11134</idno></person>
+            <person xml:id="fk__p_39122">
+               <persName>Buchbinder, Bernhard</persName>
+               <birth>
+                  <date>1849-7-7</date>
+                  <place>Budapest</place>
+               </birth>
+               <death>
+                  <date>1922-6-24</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/6487</idno></person>
+            <person xml:id="fk__p_46698">
+               <persName>Lippowitz, Jakob (Siegmund)</persName>
+               <birth>
+                  <date>1865-10-9</date>
+                  <place>Leipzig</place>
+               </birth>
+               <death>
+                  <date>1934-7-4</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17583</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/4054</idno></person>
+            </listPerson></back></text>
+</TEI>

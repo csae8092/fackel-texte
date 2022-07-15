@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06894.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06893.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06895.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Aus einem kleinen Weltblatt, in: Fackel Heft 16, Nr. 400, 1914, S. 84-85</title>
+            <title type="iso-date">1914-01-01</title>
+            <title type="id">tid_06894</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">16</title><title type="heft">400</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-16-400_n0084.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/400,084</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Aus einem kleinen Weltblatt</head>
+            <p ana="pr92441">
+<space/>— Gestern ist in Baden Frau <rs type="pers" ana="n_62790" ref="#fk__p_59546"><SPAN sug="Therese Milchspeiser">....</SPAN></rs> geborne <seg type="symbol" subtype="4dots"/> im 79. Jahre<lb/>
+gestorben. Sie war die Schwiegermutter des Herrn <rs type="pers" ana="n_62791" ref="#fk__p_43290">Philipp Porges</rs>,<lb/>
+Vizepräsidenten des Verwaltungsrates der <rs type="inst">Brünn-Königsfelder und<lb/>
+Simmeringer Maschinenfabrik</rs> <seg type="spc">und die Großmutter der Gattin<lb/>
+des Rabbiners </seg><rs type="pers" ana="n_62792" ref="#fk__p_41450"><abbr><seg type="spc">Dr</seg>.</abbr> <seg type="spc">Levy</seg></rs><seg type="spc"> in Brünn</seg>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_41450">
+               <persName>Levy, Ludwig</persName>
+               <birth>
+                  <date>1881-6-10</date>
+                  <place>Sulz/Ober-Elsaß</place>
+               </birth>
+               <death>
+                  <date>1946-12-26</date>
+                  <place>Epinay-sur-Seine</place>
+               </death>
+               <occupation>Rabbiner</occupation>
+               <note type="comment">Therese Milchspeiser war die Großmutter seiner Gattin</note>
+               <note type="comment">Marcus Brann, Gesch. d. Jüd.-theolog. Seminars </note>
+               <note type="comment">1904 zum Rabbiner in Brünn gewählt</note>
+               <note type="comment">in Brünn</note>
+            </person>
+            <person xml:id="fk__p_59546">
+               <persName>Milchspeiser, Therese, geb. Hamburger</persName>
+               <birth>
+                  <date>1835?</date>
+               </birth>
+               <death>
+                  <date>1914-5-18</date>
+                  <place>Baden bei Wien</place>
+               </death>
+               <occupation/>
+               <note type="comment">Enkelin Grethe Levy</note>
+               <note type="comment">Hamburger aus Prossnitz</note>
+            </person>
+            <person xml:id="fk__p_43290">
+               <persName>Porges, Philipp</persName>
+               <birth>
+                  <date>1856-7-8</date>
+                  <place>Liebeschitz/Böhmen</place>
+               </birth>
+               <death>
+                  <date>1925-11-6</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Industrieller</occupation>
+               <note type="comment">Vizepräsident des Verwaltungsrats der Brünn-Königsfelder und Simmeringer Maschinenfabrik</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

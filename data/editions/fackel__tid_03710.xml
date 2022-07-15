@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03710.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03709.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03711.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Höfling. (Louise von Sachsen in Österreich), in: Fackel Heft 06, Nr. 169, 1904, S. 19-20</title>
+            <title type="iso-date">1904-11-23</title>
+            <title type="id">tid_03710</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">06</title><title type="heft">169</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-06-169_n0019.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/169,019</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Höfling. (Louise von Sachsen in Österreich)</head>
+            <p ana="pr37051">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="name_203415" ref="#fk__p_46184">Höfling</rs>.</seg></seg></seg> <rs type="pers" ana="n_31834" ref="#fk__p_49205">Louise von Sachsen</rs> soll heimlich in Wien gewesen<lb/>
+ und im <rs type="inst">Obersthofmarschallamt</rs> erschienen sein? Nicht möglich.<lb/>
+In einem <rs type="perRef" ana="werk_13430">Berliner Blatt</rs> war kurz zuvor der Brief einer der ehemaligen<lb/>
+Kronprinzessin nahestehenden Persönlichkeit veröffentlicht. Als der jetzige<lb/>
+König mit seinen Kindern nach Bad Schmecks in Ungarn gereist war,<lb/>
+sei von offiziöser Seite die Nachricht verbreitet worden, daß <rs type="pers" ana="n_31835" ref="#fk__p_49205">Louise</rs>,<lb/>
+die auf Schloß Wartegg wohnte, sich das Wiedersehen mit ihren Kindern<lb/>
+</p>
+            <p ana="pr37051">
+gewaltsam erzwingen wollte. Bald darauf habe ihr ein Verwandter berichtet<lb/>
+, bei der Behörde in Bregenz sei ein chiffriertes Telegramm<lb/>
+der Wiener Regierung des Inhalts eingelaufen, »daß die Prinzessin sofort<lb/>
+arretiert und von der Polizei nach Wartegg zurückbefördert werden<lb/>
+würde, wenn sie wagen sollte, in die österreichischen Kaiserstaaten<lb/>
+einzudringen« <seg type="symbol" subtype="3dots"/> Dieser Übereifer sähe <seg type="insult">meinem <rs type="pers" ana="n_31836" ref="#fk__p_40952">Koerber</rs></seg> ähnlich.<lb/>
+Wer nicht gezwungen ist, überlegt sich’s ohnedies hundertmal, bevor<lb/>
+er »in die österreichischen Kaiserstaaten eindringt«. Man muß nicht<lb/>
+von allem haben.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_49205">
+               <persName>Sachsen, Luise von, geb. Erzherzogin von Österreich-Toscana</persName>
+               <birth>
+                  <date>1870-9-2</date>
+                  <place>Salzburg</place>
+               </birth>
+               <death>
+                  <date>1947-3-23</date>
+                  <place>Brüssel</place>
+               </death>
+               <note type="comment">Gräfin Montignoso, starb als Blumenfrau</note>
+               <note type="comment">Affaire mit André Giron</note>
+               <note type="comment">Ögg irrt. statt 126/19: 126/29</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_19511</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/23855</idno></person>
+            <person xml:id="fk__p_40952">
+               <persName>Koerber, Ernest von</persName>
+               <birth>
+                  <date>1850-11-6</date>
+                  <place>Trient</place>
+               </birth>
+               <death>
+                  <date>1919-3-4</date>
+                  <place>Baden bei Wien</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <note type="comment">Handels-, Innen-, Justizminister, 1900-04, Okt. bis Dez. 1916 Ministerpräsident</note>
+               <note type="comment">Handels-, Innen-, Justizminister, 1900-04, Okt. bis Dez. 1916 Ministerpräsident</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11955</idno></person>
+            <person xml:id="fk__p_46184">
+               <persName>Höfling</persName>
+            </person>
+            </listPerson></back></text>
+</TEI>

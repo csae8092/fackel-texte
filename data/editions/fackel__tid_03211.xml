@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03211.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03210.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03212.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Dialectforscher. (Naturlaute), in: Fackel Heft 05, Nr. 141, 1903, S. 22-22</title>
+            <title type="iso-date">1903-06-20</title>
+            <title type="id">tid_03211</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">05</title><title type="heft">141</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-05-141_n0022.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/141,022</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Dialectforscher. (Naturlaute)</head>
+            <p ana="pr31529">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_27307" key="#fk__p_40424">Dialectforscher</rs>.</seg></seg> Unter dem Eindruck großer Ereignisse finden<lb/>
+auch <seg type="insult">Journalisten</seg> <seg type="insult">echte Naturlaute</seg>. Der <seg type="insult"><rs type="paperRef" ana="werk_40796"><rs type="inst">Börsenwöchner</rs></rs></seg> schrie: »Ein<lb/>
+neuer König wird sich auf den blutbefleckten Thron von Belgrad setzen.<lb/>
+Monarchen werden ihn Bruder und Vetter nennen, in der Hofburg, im<lb/>
+Winterpalast und im Berliner Schloss wird er wohnen, von fürstlichen<lb/>
+Tafeln in hohen Prunksälen speisen <seg type="symbol" subtype="3dots"/> Anerkennen werden ihn die<lb/>
+Fürsten und die Staaten <seg type="symbol" subtype="3dots"/> <seg type="spc">Dieser letzte Abend ist einfach großartig<lb/>
+</seg>. <rs type="pers" ana="n_27308" ref="#fk__p_56231">König Alexander</rs> und <rs type="pers" ana="n_27309" ref="#fk__p_42081">Königin Draga</rs> speisen zur Nacht <seg type="symbol" subtype="3dots"/> Niemals<lb/>
+hat irgend eine Dynastie feste Wurzeln in der serbischen Nation schlagen<lb/>
+können. Was sind die <rs type="pers" ana="n_27310" ref="#fk__p_51391">Karageorgiewitsch</rs>? <seg type="symbol" subtype="3dots"/> Er soll ein König der<lb/>
+Armee sein, abhängig und geleitet von militärischen Verschwörern <seg type="symbol" subtype="3dots"/><lb/>
+Man kann in einer serbischen Vesper den König umbringen, aber es<lb/>
+ist unmöglich, sich telegraphisch einen andern zu bestellen <seg type="symbol" subtype="3dots"/> Sie<lb/>
+haben gelacht wie die Pikenmänner von Versailles und die Damen der<lb/>
+Halle vor dem abgeschnittenen Kopfe des französischen Königs <seg type="symbol" subtype="3dots"/>«<lb/>
+Das sind wörtliche Citate aus dem Leitartikel der ‚<rs type="paper" ana="werk_11872">Neuen Freien Presse</rs>‘<lb/>
+vom <date>13. Juni</date>. Der Genfer Correspondent der ‚<rs type="paper" ana="werk_11873">Zeit</rs>‘ berichtete am <date>12. Juni</date>:<lb/>
+»Der Kronprätendent <rs type="pers" ana="n_27311" ref="#fk__p_51391">Peter Karageorgiewitsch</rs> empfieng mich heute auf<lb/>
+das Freundlichste. ‚<seg type="spc">Was soll ich Ihnen sagen</seg>‘, meinte er <seg type="symbol" subtype="3dots"/>«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_56231">
+               <persName>Alexander I. Obrenović, König von Serbien</persName>
+               <birth>
+                  <date>1876-8-14</date>
+                  <place>Belgrad</place>
+               </birth>
+               <death>
+                  <date>1903-6-11</date>
+                  <place>Belgrad</place>
+               </death>
+               <occupation>König</occupation>
+               <note type="comment">seit Abdankung seines Vaters 1889</note>
+            </person>
+            <person xml:id="fk__p_42081">
+               <persName>Draga Maschin, geb. Lunjevic, Königin von Serbien</persName>
+               <birth>
+                  <date>1867-09-23</date>
+                  <place>Gornji Milanovac</place>
+               </birth>
+               <death>
+                  <date>1903-06-11</date>
+                  <place>Belgrad</place>
+               </death>
+               <occupation>Königin</occupation>
+            </person>
+            <person xml:id="fk__p_51391">
+               <persName>Peter I. Karageorgevic, König von Serbien</persName>
+               <birth>
+                  <date>1844-7-1</date>
+                  <place>Belgrad</place>
+               </birth>
+               <death>
+                  <date>1921-8-16</date>
+                  <place>Belgrad</place>
+               </death>
+               <occupation>König</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

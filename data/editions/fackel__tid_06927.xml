@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06927.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06926.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06928.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ein schwerer Fall, in: Fackel Heft 17, Nr. 406, 1915, S. 25-26</title>
+            <title type="iso-date">1915-10-01</title>
+            <title type="id">tid_06927</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">17</title><title type="heft">406</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-17-406_n0025.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/406,025</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ein schwerer Fall</head>
+            <p ana="pr93258">
+<space/>In einem <seg type="insult"><rs type="perRef" ana="werk_20428">Provinzblatt</rs></seg> ist ein Nachdruck erschienen, dessen<lb/>
+Einleitung so aussieht:<lb/>
+</p>
+            <p ana="pr93260">
+<space/>Der Wiener Schriftsteller <rs type="pers" ana="n_63031" ref="#fk__p_41740"><abbr>Dr.</abbr> Robert Kronfeld</rs>, der <ADD>— — —</ADD> in<lb/>
+einem Seuchenlazarett des Ostens ist, hat auf seinen Märschen allerlei<lb/>
+über Militärmusik — — —<lb/>
+</p>
+            <p ana="pr93262">
+<space/>In der <rs type="magazineRef" ana="werk_20429">Wiener Zeitschrift</rs>, der der Artikel entnommen ist,<lb/>
+durfte mitgeteilt werden, was er in dem Seuchenlazarett des Ostens<lb/>
+ist: Oberarzt. Mit Recht verbietet die Behörde den Offizieren<lb/>
+die <seg type="insult">journalistische Tätigkeit</seg>, die ja unter Umständen Oberärzte<lb/>
+dazu verleiten kann, sich statt mit einer Seuche mit Militärmusik<lb/>
+zu befassen. Da hat denn der Provinzzensor den guten Ausweg<lb/>
+gefunden, den Rang zu streichen und den Oberarzt zum Patienten<lb/>
+zu degradieren. Das <seg type="insult">Seuchenlazarett des Ostens</seg>, in dem er jetzt<lb/>
+ist, schlechthin ist, sollte erweitert werden!<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_41740">
+               <persName>Kronfeld, Robert</persName>
+               <birth>
+                  <date>1874-1-10</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1946-8-20</date>
+                  <place>London</place>
+               </death>
+               <occupation>Zahnarzt</occupation>
+               <occupation>Schriftsteller</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

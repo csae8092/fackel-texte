@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02258.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02257.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02259.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">»Technischer Impresario.« (Achtung!), in: Fackel Heft 03, Nr. 095, 1902, S. 26-27</title>
+            <title type="iso-date">1902-02-28</title>
+            <title type="id">tid_02258</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">03</title><title type="heft">095</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-03-095_n0026.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/095,026</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>»Technischer Impresario.« (Achtung!)</head>
+            <p ana="pr22050">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i">»<rs type="pers" ana="n_19175" key="#fk__p_53990">Technischer Impresario</rs>.«</seg></seg></seg> <seg type="insult">Die <rs type="inst"><foreign xml:lang="fr">Société des inventions <rs type="pers" ana="n2_1467" ref="#fk__p_46730">Jan Szczepanik<lb/>
+</rs> &amp; <abbr>Co.</abbr></foreign></rs></seg> beabsichtigt auf Grund eines fragwürdigen Kohle-Sparapparates<lb/>
+»<rs type="inst">Caloridul</rs>« eine Actiengesellschaft (Tochtergesellschaft) zu gründen, deren<lb/>
+Gründungsprospect den Reingewinn sogar bis auf <FRAC>1<seg type="symbol" subtype="hr"/>100</FRAC>% genau feststellt<lb/>
+mit: 41.66%. Achtung! Wenn für die Verwerthung jeder der <seg type="insult">Erfindungen</seg>,<lb/>
+die <seg type="insult">Herr <rs type="pers" ana="n_19176" ref="#fk__p_46730">Szczepanik</rs></seg> bereits gemacht hat, eine Tochtergesellschaft gegründet<lb/>
+ würde, so hätten wir es mit <seg type="insult">einer österreichischen »Treberei«</seg><lb/>
+zu thun. Es ist daher nothwendig, schon schüchterne Anfänge zu begründet<lb/>
+</p>
+            <p ana="pr22050">
+, die solange noch ungefährlich sind, als sich keine <seg type="insult"><rs type="pers" ana="n_19177" ref="#fk__p_50372">Moriz Bauer</rs><lb/>
+und dergleichen Leute</seg> an die Spitze stellen.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46730">
+               <persName>Szczepanik, Jan</persName>
+               <birth>
+                  <date>1872-4-13</date>
+                  <place>Rudniki bei Mostyska/Ukraine</place>
+               </birth>
+               <death>
+                  <date>1926-4-18</date>
+                  <place>Tarnów/Polen</place>
+               </death>
+               <occupation>Erfinder</occupation>
+            </person>
+            <person xml:id="fk__p_50372">
+               <persName>Bauer, Moritz</persName>
+               <birth>
+                  <date>1840-8-20</date>
+                  <place>Buttenwiesen bei Augsburg</place>
+               </birth>
+               <death>
+                  <date>1905-5-2</date>
+                  <place>Meran</place>
+               </death>
+               <occupation>Bankier</occupation>
+               <note type="comment">I., Franzensring 18</note>
+               <note type="comment">Direktor des Wiener Bankvereins</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

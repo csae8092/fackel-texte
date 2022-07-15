@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_04949.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04948.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04950.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Diplodocus Carnegiei), in: Fackel Heft 11, Nr. 288, 1909, S. 16-16</title>
+            <title type="iso-date">1909-10-11</title>
+            <title type="id">tid_04949</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">11</title><title type="heft">288</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-11-288_n0016.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/288,016</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Diplodocus Carnegiei)</head>
+            <p ana="pr61875">
+<space/>Nun haben wir von <seg type="insult">einem amerikanischen Philantropen</seg><lb/>
+das Modell jenes großen fossilen Reptils erhalten, das unter dem<lb/>
+Namen <rs type="pers" ana="n_45613" ref="#fk__p_39779">Diplodocus Carnegiei</rs> bekannt ist. Spät, aber doch. Eine<lb/>
+Anzüglichkeit ist darin nicht zu erblicken; denn London, Paris<lb/>
+und Berlin haben längst ein solches Modell. Der Diplodocus bezieht<lb/>
+ sich also nicht auf <seg type="insult">unsere Rückständigkeit</seg>, vielmehr bezieht<lb/>
+sich <seg type="insult">unsere Rückständigkeit</seg> auf den Diplodocus. Jedenfalls ist es<lb/>
+erfreulich, wenn man ausging, ein Luftschiff zu suchen, und einen<lb/>
+Diplodocus findet. <rs type="pers" ana="n_45614" ref="#fk__p_39779">Carnegie</rs> wußte, wo uns der Schuh gedrückt<lb/>
+hat; »sein Herz«, sagte der Überbringer des Diplodocus einem<lb/>
+Interviewer, »ist stets den Bedürftigen zugewendet«. Er wird mit<lb/>
+Bettelbriefen aus allen Teilen der Welt überschwemmt.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_39779">
+               <persName>Carnegie, Andrew</persName>
+               <birth>
+                  <date>1835-11-25</date>
+                  <place>Dunfermline/Schottl.</place>
+               </birth>
+               <death>
+                  <date>1919-08-11</date>
+                  <place>Lenox/Mass.</place>
+               </death>
+               <occupation>Industrieller</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

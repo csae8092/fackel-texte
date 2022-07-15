@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06436.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06435.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06437.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Zwischen Personalnachrichten, in: Fackel Heft 15, Nr. 381, 1913, S. 60-61</title>
+            <title type="iso-date">1913-11-01</title>
+            <title type="id">tid_06436</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">15</title><title type="heft">381</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-15-381_n0060.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/381,060</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Zwischen Personalnachrichten</head>
+            <p ana="pr86772">
+steht:<lb/>
+</p>
+            <p ana="pr86774">
+<space/><seg type="sidehead">[Die Entbindung der <rs type="pers" ana="n_59829" ref="#fk__p_46053">Herzogin von Berry</rs> im Gefängnis.]</seg> Die<lb/>
+<rs type="pers" ana="n_59830" ref="#fk__p_46053">Herzogin von Berry</rs>, die gegen den <rs type="pers" ana="n_59831" ref="#fk__p_48029">König Louis Philipp</rs> einen Aufstand<lb/>
+in der Vendée hervorrufen sollte, ist durch den Verrat des <rs type="pers" ana="n_59832" ref="#fk__p_40417">Deutz</rs> in die<lb/>
+</p>
+            <p ana="pr86774">
+Hände der Polizei gefallen und wurde in ein Gefängnis gebracht, wo<lb/>
+entdeckt wurde, daß sie schwanger sei, und wo sie auch eines Kindes<lb/>
+entbunden wurde — —<lb/>
+</p>
+            <p ana="pr86776">
+<space/>Scheint schon lange im Übersatz gelegen zu sein.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_48029">
+               <persName>Louis-Philippe, König </persName>
+               <birth>
+                  <date>1773-10-6</date>
+                  <place>Paris</place>
+               </birth>
+               <death>
+                  <date>1850-8-26</date>
+                  <place>Claremont</place>
+               </death>
+               <occupation>König</occupation>
+            </person>
+            <person xml:id="fk__p_40417">
+               <persName>Deutz, Simon</persName>
+               <birth>
+                  <date>1802-1</date>
+                  <place>Koblenz</place>
+               </birth>
+               <death>
+                  <date>1844</date>
+                  <place>Louisiana</place>
+               </death>
+               <occupation>Drucker</occupation>
+            </person>
+            <person xml:id="fk__p_46053">
+               <persName>Berry, Caroline Ferdinande Louise Herzogin von, geb. Prinzessin von Bourbon-Sizilien</persName>
+               <birth>
+                  <date>1798-11-05</date>
+                  <place>Palermo</place>
+               </birth>
+               <death>
+                  <date>1870-04-17</date>
+                  <place>Schloß Brünnsee/Graz</place>
+               </death>
+            </person>
+            </listPerson></back></text>
+</TEI>

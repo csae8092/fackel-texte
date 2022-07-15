@@ -1,0 +1,48 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07648.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07647.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07649.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Zum Kierkegaard-Wort über die vor die Gewehrläufe zu stellenden Journalisten), in: Fackel Heft 18, Nr. 445, 1234, S. 93-94</title>
+            <title type="iso-date">1234-01-01</title>
+            <title type="id">tid_07648</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">18</title><title type="heft">445</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-18-445_n0093.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/445,093</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Zum Kierkegaard-Wort über die vor die Gewehrläufe zu stellenden Journalisten)</head>
+            <p ana="pr102852">
+<space/>Zum <rs type="pers" ana="n_66391" ref="#fk__p_53452">Kierkegaard-Wort</rs> (<date>1846</date>) über die vor die Gewehrläufe<lb/>
+zu stellenden <seg type="insult">Journalisten</seg>:<lb/>
+</p>
+            <p ana="pr102854">
+<space/><seg type="spc">Und ein Justizminister hat</seg>, <seg type="spc"><date>1916</date></seg>, <seg type="spc">gesagt</seg>:<lb/>
+»<seg type="spc">Die Presse ist als Dolmetsch der in der<lb/>
+Bevölkerung verbreiteten Ansichten unentbehrlich<lb/>
+</seg>«!<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_53452">
+               <persName>Kierkegaard, Sören</persName>
+               <birth>
+                  <date>1813-5-5</date>
+                  <place>Kopenhagen</place>
+               </birth>
+               <death>
+                  <date>1855-11-11</date>
+                  <place>Kopenhagen</place>
+               </death>
+               <occupation>Philosoph</occupation>
+               <occupation>Theologe</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16839</idno></person>
+            </listPerson></back></text>
+</TEI>

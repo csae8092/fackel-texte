@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_10890.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10889.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10891.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Spannung und Enttäuschung, in: Fackel Heft 29, Nr. 759, 1927, S. 8-8</title>
+            <title type="iso-date">1927-06-01</title>
+            <title type="id">tid_10890</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">29</title><title type="heft">759</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-29-759_n0008.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/759,008</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Spannung und Enttäuschung</head>
+            <p ana="pr151979">
+<space/><OMED>— —</OMED> Um die <DATERANGE>Wende des 18. und 19. Jahrhunderts</DATERANGE> wirkten<lb/>
+die beiden berühmtesten Abenteurer aller Zeiten, <rs type="pers" ana="n_90787" ref="#fk__p_39697"><seg type="spc">Cagliostro</seg></rs> und<lb/>
+<rs type="pers" ana="n_90788" ref="#fk__p_39804"><seg type="spc">Casanova</seg></rs>. Sie fanden gelehrige Schüler, die bestrebt waren, in die<lb/>
+Fußstapfen ihrer großen Meister zu treten und deren Wahlspruch,<lb/>
+<seg type="spc">die Dummheit der Menschen zu Gold zu machen</seg>,<lb/>
+zu verwirklichen.<lb/>
+</p>
+            <p ana="pr151980">
+Unsere Artikelserie, mit deren Veröffentlichung wir<lb/>
+in der morgigen Nummer der <seg ana="»Stunde«"/> beginnen,<lb/>
+</p>
+            <p ana="pr151981">
+erzählt nun die Tätigkeit der <seg type="spc">Nachfolger</seg> der beiden großen<lb/>
+italienischen Meister auf dem Gebiet der Hochstapelei.<lb/>
+</p>
+            <p ana="pr151983">
+Schade, daß die Artikelserie vor dem <DATERANGE>20. Jahrhundert</DATERANGE>, wo es am<lb/>
+spannendsten würde, abgebrochen wird.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_39804">
+               <persName>Casanova, Giacomo Girolamo</persName>
+               <birth>
+                  <date>1725-4-2</date>
+                  <place>Venedig</place>
+               </birth>
+               <death>
+                  <date>1798-6-4</date>
+                  <place>Dux, Böhmen</place>
+               </death>
+               <occupation/>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/3145</idno></person>
+            <person xml:id="fk__p_39697">
+               <persName>Cagliostro, Alessandro</persName>
+               <birth>
+                  <date>1743-6-2</date>
+                  <place>Palermo</place>
+               </birth>
+               <death>
+                  <date>1795-8-26</date>
+                  <place>San Leo/Pesaro</place>
+               </death>
+               <occupation>Alchemist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/4517</idno></person>
+            </listPerson></back></text>
+</TEI>

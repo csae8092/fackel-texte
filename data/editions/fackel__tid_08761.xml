@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_08761.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08760.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08762.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ebenda, 12. Juni, ½8 Uhr:, in: Fackel Heft 22, Nr. 546, 1920, S. 4-5</title>
+            <title type="iso-date">1920-07-01</title>
+            <title type="id">tid_08761</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">22</title><title type="heft">546</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-22-546_n0004.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/546,004</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ebenda, 12. Juni, ½8 Uhr:</head>
+            <p ana="pr116122">
+<space/>Ebenda, <date>12. Juni</date>, ½8 Uhr:<lb/>
+</p>
+            <p ana="pr116123">
+<space/>I. <rs type="title"><seg type="insult">Mit der Uhr in der Hand</seg></rs> / <rs type="title">Der Bauer, der Hund und der<lb/>
+Soldat</rs> / <rs type="title">Meinem <rs type="pers" ana="n2_6560" ref="#fk__p_43507">Franz Janowitz</rs></rs> / <rs type="title">Legende</rs> / <rs type="title">Kompetenz vor der Sprache</rs><lb/>
+/ <rs type="title">Schnellzug</rs> / <rs type="title">Vallorbe</rs> / <rs type="title">Ich habe einen Blick gesehn</rs> / <rs type="title">Brief <rs type="pers" ana="n2_6561" ref="#fk__p_52456"><seg type="spc">Rosa<lb/>
+Luxemburgs</seg></rs></rs> (mit Vorbemerkung) / <rs type="title">Absage</rs> / <rs type="title">Nach zwanzig Jahren</rs>.<lb/>
+</p>
+            <p ana="pr116124">
+<space/>II. Die Schlußszene des V. Aktes (mit Vorbemerkung).<lb/>
+</p>
+            <p ana="fn549">
+<FN0_TEXT0>
+<space/>*) Siehe <abbr>S.</abbr> 21</FN0_TEXT0><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_52456">
+               <persName>Luxemburg, Rosa</persName>
+               <birth>
+                  <date>1871-3-5</date>
+                  <place>Zamosc, Kreis Lublin</place>
+               </birth>
+               <death>
+                  <date>1919-1-15</date>
+                  <place>Berlin</place>
+               </death>
+               <occupation>Politikerin</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/8736</idno></person>
+            <person xml:id="fk__p_43507">
+               <persName>Janowitz, Franz</persName>
+               <birth>
+                  <date>1892-07-28</date>
+                  <place>Podjebrad/Böhmen</place>
+               </birth>
+               <death>
+                  <date>1917-11-04</date>
+                  <place>Unter-Breth/Küstenland</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38499</idno></person>
+            </listPerson></back></text>
+</TEI>

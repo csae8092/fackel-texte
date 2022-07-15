@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_11413.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11412.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11414.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Aufgewachsen bei Angelus Silesius, in: Fackel Heft 32, Nr. 838, 1930, S. 58-58</title>
+            <title type="iso-date">1930-09-01</title>
+            <title type="id">tid_11413</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">32</title><title type="heft">838</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-32-838_n0058.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/838,058</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Aufgewachsen bei Angelus Silesius</head>
+            <p ana="pr166202">
+<space/>Er ist das, was er will — als er mich vor Jahren zu sich nahm<lb/>
+und ich ihm zum erstenmal in aller Nähe zuschauen durfte, <seg type="spc">da fiel<lb/>
+mir</seg> in meiner <seg type="spc">bestürzten Bewunderung</seg> ein Spruch des<lb/>
+<rs type="pers" ana="n_99763" ref="#fk__p_38259"><abbr>A.</abbr> <seg type="spc">Silesius</seg></rs> ein, der für ihn festgeprägt in mir geblieben ist:<lb/>
+</p>
+            <lg>
+<l>Er ist ein Wunderding; er ist das, was er will,</l>
+<l>Und will das, was er ist, ohn’ alles Maß und Ziel.</l>
+</lg>
+            <p ana="pr166206">
+<rs type="pers" ana="n_99764" ref="#fk__p_47540"><AUCTOR>Karlheinz Martin</AUCTOR></rs>.<lb/>
+</p>
+            <p ana="pr166208">
+Von <rs type="pers" ana="n_99765" ref="#fk__p_38259"><abbr>A.</abbr> Silesius</rs>. Ausgerechnet jenem bei jenem.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_47540">
+               <persName>Martin, Karl Heinz</persName>
+               <birth>
+                  <date>1886-5-6</date>
+                  <place>Freiburg i. Br.</place>
+               </birth>
+               <death>
+                  <date>1948-1-13</date>
+                  <place>Berlin</place>
+               </death>
+               <occupation>Regisseur</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17945</idno></person>
+            <person xml:id="fk__p_38259">
+               <persName>Angelus Silesius</persName>
+               <birth>
+                  <date>1624-12-12</date>
+                  <place>Breslau</place>
+               </birth>
+               <death>
+                  <date>1677-7-9</date>
+                  <place>Breslau</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/28142</idno></person>
+            </listPerson></back></text>
+</TEI>

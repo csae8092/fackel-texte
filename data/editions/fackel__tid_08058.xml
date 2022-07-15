@@ -1,0 +1,45 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_08058.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08057.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08059.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tradition, in: Fackel Heft 19, Nr. 472, 1917, S. 3-3</title>
+            <title type="iso-date">1917-11-01</title>
+            <title type="id">tid_08058</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">19</title><title type="heft">472</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-19-472_n0003.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/472,003</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Tradition</head>
+            <lg>
+<l>Wie? <rs type="pers" ana="n_68090" ref="#fk__p_46893">Herder</rs> schon war dem U-Boot gewogen?</l>
+<l>Die Kunde wurde in Preußen laut.</l>
+<l>Auch <seg type="insult">die älteren deutschen Theologen</seg></l>
+<l>hätten somit auf die Waffe vertraut.</l>
+</lg>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46893">
+               <persName>Herder, Johann Gottfried von</persName>
+               <birth>
+                  <date>1744-08-25</date>
+                  <place>Mohrungen/Ostpreußen</place>
+               </birth>
+               <death>
+                  <date>1803-12-18</date>
+                  <place>Weimar</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Literaturtheoretiker</occupation>
+               <occupation>Theologe</occupation>
+               <note type="comment">geadelt 1802</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/4996</idno></person>
+            </listPerson></back></text>
+</TEI>

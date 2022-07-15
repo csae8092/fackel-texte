@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02599.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02598.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02600.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Gynäkologe. (Eine Geschlechtsbestimmung), in: Fackel Heft 04, Nr. 112, 1902, S. 25-25</title>
+            <title type="iso-date">1902-08-14</title>
+            <title type="id">tid_02599</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">04</title><title type="heft">112</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-04-112_n0025.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/112,025</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Gynäkologe. (Eine Geschlechtsbestimmung)</head>
+            <p ana="pr25309">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_21896" key="#fk__p_45245">Gynäkologe</rs>.</seg></seg> Von der Miss <rs type="pers" ana="n_21897" ref="#fk__p_53703">Stone</rs> und der unter Räubern entbundenen<lb/>
+ Frau <rs type="pers" ana="n_21898" ref="#fk__p_57021">Zilka</rs>, die noch immer nicht zur Ruhe kommen wollen,<lb/>
+ward kürzlich in der ‚<rs type="paper" ana="werk_8780">Neuen Freien Presse</rs>‘ — angeblich nach dem<lb/>
+Englischen — das folgende Geschichtchen erzählt, das Eltern, die von der<lb/>
+<seg type="insult">Theorie <rs type="pers" ana="n_21899" ref="#fk__p_37608">Schenk</rs></seg> <FERR href="FK-04-113_n0028.xml" fcorrID="fk_04_fcorr_27263794" id="fk_04_ferr_27263794" emID="fk_04_em_27263797">enttäuscht <ERR fcorr="wurden">waren</ERR></FERR>, wenigstens nach der Geburt noch die<lb/>
+Möglichkeit willkürlicher Geschlechtsbestimmung offen läßt: »Mit der<lb/>
+Kleinen waren die Räuber geradezu zärtlich. Sie gaben ihr Kosenamen,<lb/>
+am liebsten nannten sie das Kind ‚<rs type="pers" ana="n_21900" key="#fk__p_47844">Kismetsch</rs>‘. Als es ihnen zum ersten<lb/>
+Male gezeigt wurde, fragte der jüngste Räuber: ‚Ist es ein Knabe‘?<lb/>
+— ‚Nein‘, sagte Miß <rs type="pers" ana="n_21901" ref="#fk__p_53703">Stone</rs> in der ihr eigenen decidierten Manier, <seg type="spc">die<lb/>
+keinen Widerspruch duldete</seg> — ‚ein von Gott gesegnetes<lb/>
+Mädchen‘.« Schade, daß Frau <rs type="pers" ana="n_21902" ref="#fk__p_53703">Stone</rs> so intransigent war! <seg type="insult">Der fragende<lb/>
+Räuber</seg> mußte dies umsomehr bedauern, als er selbst im Gespräche<lb/>
+zugab, daß »<foreign xml:lang="de-loc">Mädel</foreign> keine guten <seg type="insult">Räuber</seg> abgeben«.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_57021">
+               <persName>Tsilka, Katarina Stefanova</persName>
+               <birth>
+                  <date>1868-4-23</date>
+                  <place>Bansko, Mazedonien</place>
+               </birth>
+               <death>
+                  <date>1952</date>
+               </death>
+               <note type="comment">Namenskorrektur!</note>
+            </person>
+            <person xml:id="fk__p_53703">
+               <persName>Stone, Ellen Maria</persName>
+               <birth>
+                  <date>1846-7-24</date>
+                  <place>Roxbury/Suffolk, Ma.</place>
+               </birth>
+               <death>
+                  <date>1927-12-13</date>
+                  <place>Chelsea/Suffolk, Ma.</place>
+               </death>
+               <occupation>Missionarin</occupation>
+               <note type="comment">1901 Entführung durch makedonische Freiheitskämpfer in Bulgarien</note>
+            </person>
+            <person xml:id="fk__p_37608">
+               <persName>Schenk, Samuel Leopold</persName>
+               <birth>
+                  <date>1840-08-23</date>
+                  <place>Ürmény/Ung.</place>
+               </birth>
+               <death>
+                  <date>1902-08-17</date>
+                  <place>Schwanberg/Steierm.</place>
+               </death>
+               <occupation>Gynäkologe</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

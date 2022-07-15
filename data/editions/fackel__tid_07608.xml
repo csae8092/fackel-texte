@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07608.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07607.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07609.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Heroisches, in: Fackel Heft 18, Nr. 445, 1234, S. 56-57</title>
+            <title type="iso-date">1234-01-01</title>
+            <title type="id">tid_07608</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">18</title><title type="heft">445</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-18-445_n0056.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/445,056</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Heroisches</head>
+            <p ana="pr102368">
+<space/>Da mag er (<rs type="pers" ana="n_66218" ref="#fk__p_40952">Koerber</rs>) <seg type="spc">stark</seg> mit sich gerungen haben <seg type="symbol" subtype="4dots"/><lb/>
+</p>
+            <p ana="pr102370">
+<space/>Um <seg type="insult">wie <rs type="pers">Holofernes</rs> bei <rs type="pers" ana="n_66219" ref="#fk__p_46919">Nestroy</rs> (oder <rs type="pers" ana="n_66220" ref="#fk__p_45114">Grumbach</rs> bei<lb/>
+<rs type="inst"><rs type="pers" ana="n2_5842" ref="#fk__p_58571">Meißl</rs> &amp; <rs type="pers" ana="n2_5843" ref="#fk__p_58876">Schadn</rs></rs>)</seg> zu sehen, »wer der Stärkere is, ich oder ich«?<lb/>
+Nein, wie jener, von dem der <rs type="pers">Joab</rs> zum <rs type="pers">Jojakim</rs> sagt: »Aber<lb/>
+</p>
+            <p ana="pr102370">
+umbringen tut er sie doch stark.« Dieses »stark« — in Zusammensetzungen<lb/>
+ wie »aufliegen«, »scheinen« <abbr>etc.</abbr> beliebt — ist ein<lb/>
+sogenanntes Übertreibungswort in <seg type="insult">jener Sprache</seg>, die ihre Maßbegriffe<lb/>
+ von <seg type="insult">der heroischen Sphäre</seg> auf eine mehr geistige überträgt<lb/>
+und selbst vor den Realitäten nur in <seg type="insult">Vorstellungen und Ahnungen</seg><lb/>
+denkt, wie etwa: »Mir scheint stark, er verdient dick!«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_40952">
+               <persName>Koerber, Ernest von</persName>
+               <birth>
+                  <date>1850-11-6</date>
+                  <place>Trient</place>
+               </birth>
+               <death>
+                  <date>1919-3-4</date>
+                  <place>Baden bei Wien</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <note type="comment">Handels-, Innen-, Justizminister, 1900-04, Okt. bis Dez. 1916 Ministerpräsident</note>
+               <note type="comment">Handels-, Innen-, Justizminister, 1900-04, Okt. bis Dez. 1916 Ministerpräsident</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11955</idno></person>
+            <person xml:id="fk__p_58876">
+               <persName>Schadn (Meißl &amp; Schadn, Hotel-Restaurant)</persName>
+               <note type="comment">1., Neuer Markt</note>
+            </person>
+            <person xml:id="fk__p_58571">
+               <persName>Meißl (Meißl &amp; Schadn, Hotel-Restaurant, Wien)</persName>
+            </person>
+            <person xml:id="fk__p_46919">
+               <persName>Nestroy, Johann Nepomuk</persName>
+               <birth>
+                  <date>1801-12-7</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1862-5-25</date>
+                  <place>Graz</place>
+               </death>
+               <occupation>Sänger</occupation>
+               <occupation>Schauspieler</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12338</idno></person>
+            <person xml:id="fk__p_45114">
+               <persName>Grumbach, Anton?</persName>
+               <birth>
+                  <date>1880?</date>
+               </birth>
+               <death>
+                  <date>1965-10</date>
+               </death>
+               <occupation>Kellner</occupation>
+               <note type="comment">Meißl &amp; Schadn</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

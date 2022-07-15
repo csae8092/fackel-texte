@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_09595.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09594.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09596.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ebenda, 14. Oktober, halb 3 Uhr:, in: Fackel Heft 25, Nr. 632, 1923, S. 85-85</title>
+            <title type="iso-date">1923-10-01</title>
+            <title type="id">tid_09595</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">25</title><title type="heft">632</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-25-632_n0085.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/632,085</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ebenda, 14. Oktober, halb 3 Uhr:</head>
+            <p ana="pr128499">
+<space/>Ebenda, <date>14. Oktober</date>, halb 3 Uhr:<lb/>
+</p>
+            <p ana="pr128500">
+<space/><rs type="title"><seg type="spc">Liebes Leid und Lust</seg> (Verlorne Liebesmüh’)</rs>, Lustspiel in<lb/>
+fünf Aufzügen von <rs type="pers" ana="n_78926" ref="#fk__p_55589"><seg type="spc">Shakespeare</seg></rs>, übersetzt von Wolf Graf Baudissin.<lb/>
+Mit Benützung der <rs type="pers" ana="n_78927" ref="#fk__p_45763">Heinrich Voss’schen Übersetzung</rs> bearbeitet vom<lb/>
+Vorleser. (Nach dem zweiten und nach dem dritten Aufzug eine Pause.<lb/>
+Als Lied des <rs type="pers">Pagen Motte</rs>: <rs type="pers" ana="n_78928" ref="#fk__p_46664">Offenbachs</rs> <rs type="title">Lied der <rs type="pers">Clementine</rs></rs>, Musik<lb/>
+zum Lied des Frühlings [<rs type="pers">Motte</rs>] und des Winters [<rs type="pers">Schädel</rs>] nach Angabe<lb/>
+des Vorlesers. Ouvertüre, in den Zwischenakten und in der Musikszene<lb/>
+des V. Aufzugs aus <rs type="pers" ana="n_78929" ref="#fk__p_46664"><seg type="spc">Offenbachs</seg></rs> »<rs type="title"><rs type="pers"><seg type="spc">Blaubart</seg></rs></rs>«: <rs type="pers" ana="n_78930" ref="#fk__p_54913"><abbr>Dr.</abbr> Viktor Junk</rs>.)<lb/>
+</p>
+            <p ana="pr128501">
+<space/>Programm-Anmerkung zur 2. Szene des III. Aufzuges wie am<lb/>
+<date>25. November 1917</date> (siehe <rs type="selfRef" ana="werk_25409"><abbr>Nr.</abbr> 474—483</rs>).<lb/>
+</p>
+            <p ana="pr128502">
+<space/>Der volle Ertrag (<abbr>inkl.</abbr> Programmerlös): K 4,009.925 für Notleidende<lb/>
+ in Deutschland.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_55589">
+               <persName>Shakespeare, William</persName>
+               <birth>
+                  <date>1564-4-23?</date>
+                  <place>Stratford-upon-Avon</place>
+               </birth>
+               <death>
+                  <date>1616-4-23</date>
+                  <place>Stratford-upon-Avon</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2412</idno></person>
+            <person xml:id="fk__p_54913">
+               <persName>Junk, Viktor</persName>
+               <birth>
+                  <date>1875-4-18</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1948-4-5</date>
+                  <place>Frohnleiten/Steiermark</place>
+               </death>
+               <occupation>Germanist</occupation>
+               <occupation>Musikwissenschaftler</occupation>
+            </person>
+            <person xml:id="fk__p_45763">
+               <persName>Voß, Heinrich</persName>
+               <birth>
+                  <date>1779-10-29</date>
+                  <place>Otterndorf</place>
+               </birth>
+               <death>
+                  <date>1822-10-20</date>
+                  <place>Heidelberg</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Übersetzer</occupation>
+            </person>
+            <person xml:id="fk__p_46664">
+               <persName>Offenbach, Jacques</persName>
+               <birth>
+                  <date>1819-06-21</date>
+                  <place>Köln</place>
+               </birth>
+               <death>
+                  <date>1880-10-05</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Komponist</occupation>
+               <note type="comment">Ögg teilt Fortunato F 876/34 Shakespeare zu</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/9131</idno></person>
+            </listPerson></back></text>
+</TEI>

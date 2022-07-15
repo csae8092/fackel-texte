@@ -1,0 +1,44 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_12063.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_12062.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_12064.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Derselbe, in: Fackel Heft 34, Nr. 876, 1932, S. 42-43</title>
+            <title type="iso-date">1932-10-01</title>
+            <title type="id">tid_12063</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">34</title><title type="heft">876</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-34-876_n0042.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/876,042</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Derselbe</head>
+            <p ana="pr176071">
+<space/><seg type="spc">Nachdem</seg> wir uns <seg type="spc">entschließen</seg> mußten, Hofrat <rs type="pers" ana="n_105037" ref="#fk__p_38379">Wildgans</rs><lb/>
+nach anerkannt qualitativ wertvoller Tätigkeit <seg type="spc">ungern ziehen zu<lb/>
+lassen</seg>, galt es, einen Nachfolger zu finden <seg type="symbol" subtype="4dots"/><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_38379">
+               <persName>Wildgans, Anton</persName>
+               <birth>
+                  <date>1881-4-17</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1932-5-3</date>
+                  <place>Mödling</place>
+               </death>
+               <occupation>Jurist</occupation>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Theaterleiter</occupation>
+               <note type="comment">1.2.21-31. 7.22, 1.7.30-31.12.31 Burgtheaterdir.</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/13122</idno></person>
+            </listPerson></back></text>
+</TEI>

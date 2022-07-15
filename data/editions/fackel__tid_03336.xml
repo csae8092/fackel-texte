@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03336.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03335.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03337.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">‚Zeit‘-Genosse. (‚Zeit‘-Genössisches), in: Fackel Heft 05, Nr. 147, 1903, S. 26-27</title>
+            <title type="iso-date">1903-11-21</title>
+            <title type="id">tid_03336</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">05</title><title type="heft">147</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-05-147_n0026.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/147,026</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>‚Zeit‘-Genosse. (‚Zeit‘-Genössisches)</head>
+            <p ana="pr32987">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="name_203354" ref="#fk__p_60621"><SPAN cont="Zeit-Genosse">‚<rs type="paper" ana="werk_12358">Zeit</rs>‘-Genosse</SPAN></rs>.</seg></seg></seg> Was? Die ‚<rs type="paper" ana="werk_12359">Zeit</rs>‘ hat <seg type="insult">»schon 15.000 Käufer«</seg><lb/>
+und darunter sogar 10.000 zum vollen Preise? Nicht möglich! Und<lb/>
+doch ist es nicht allzuviel, wenn man bedenkt, daß in Österreich-Ungarn<lb/>
+ auf eine Bevölkerung von 46,335.687 (nach der Schätzung<lb/>
+von <date>1898</date>) reichlich <seg type="insult">eine Million geistig schwächerer Individuen</seg> kommt.<lb/>
+Bei <seg type="insult">der ungeheuren Propaganda des <rs type="paperRef" ana="werk_12360">Blattes</rs></seg>, mit Rücksicht darauf, daß<lb/>
+man in kein Pissoir mehr gehen kann, ohne an die Verpflichtung, die<lb/>
+‚<rs type="paper" ana="werk_12361">Zeit</rs>‘ zu lesen, gemahnt zu werden, ist somit der Abonnentenstand kein<lb/>
+sehr erheblicher. In Österreich-Ungarn leben auf 1 qkm 67 Menschen.<lb/>
+Da es keinen Quadratkilometer des Flächeninhalts der Monarchie gibt,<lb/>
+der nicht durch das bekannte Plakat verschönt wäre, so muß man sich<lb/>
+</p>
+            <p ana="pr32987">
+eigentlich wundern, daß nicht auf jeden wenigstens 1 Leser der ‚<rs type="paper" ana="werk_12362">Zeit</rs>‘<lb/>
+kommt. Und dabei wird die ‚<rs type="paper" ana="werk_12363">Zeit</rs>‘ allen Nationalitäten gerecht. Sie<lb/>
+bringt <abbr>z. B.</abbr> in einer <rs type="paperRef" ana="werk_12364">Sonntagsbeilage</rs> das Bild <seg type="insult">des Tschechenführers<lb/>
+<rs type="pers" ana="n_28533" ref="#fk__p_41195">Herold</rs></seg>, der neulich sein Mandat niedergelegt hat, und siehe, es ist <seg type="insult">der<lb/>
+Wiener Hotelwirt <rs type="pers" ana="n_28534" ref="#fk__p_38031">Herold</rs></seg>, der freilich auch kein Mandat mehr hat. Ein<lb/>
+<seg type="insult"><rs type="paperRef" ana="werk_12365">Kulturblatt</rs></seg> erfüllt eben einen höheren Zweck, als den, die bloße<lb/>
+Neugierde durch <seg type="insult">»Bildeln«</seg> zu befriedigen: jetzt wissen die Prager, wie<lb/>
+der Wiener Gastwirt aussieht, und die Wiener, wie der Prager Advokat<lb/>
+<seg type="spc">nicht</seg> aussieht.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_60621">
+               <persName>‚Zeit‘-Genosse</persName>
+               <note type="comment"/>
+            </person>
+            <person xml:id="fk__p_38031">
+               <persName>Herold, Alfons</persName>
+               <birth>
+                  <date>1847-10-1</date>
+                  <place>Coburg</place>
+               </birth>
+               <death>
+                  <date>1925-11-23</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Hotelier</occupation>
+               <occupation>Politiker</occupation>
+               <note type="comment">1., Franz Josefs Kai 33</note>
+               <note type="comment">Daten bestätigt ZF</note>
+               <note type="comment">Gemeinderat</note>
+            </person>
+            <person xml:id="fk__p_41195">
+               <persName>Herold, Josef</persName>
+               <birth>
+                  <date>1850-10-22</date>
+                  <place>Vršovic/Prag</place>
+               </birth>
+               <death>
+                  <date>1908-05-04</date>
+                  <place>Prag</place>
+               </death>
+               <occupation>Politiker</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

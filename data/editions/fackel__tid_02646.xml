@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02646.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02645.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02647.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Musiker. (Eine Schule für Musikkritiker), in: Fackel Heft 04, Nr. 114, 1902, S. 21-21</title>
+            <title type="iso-date">1902-09-5</title>
+            <title type="id">tid_02646</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">04</title><title type="heft">114</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-04-114_n0021.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/114,021</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Musiker. (Eine Schule für Musikkritiker)</head>
+            <p ana="pr25691">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_22233" ref="#fk__p_50471">Musiker</rs>.</seg></seg> In Boston ist eine Schule für Musikkritiker errichtet<lb/>
+worden. Man hat nämlich, so meldet die ‚<rs type="" ana="werk_8955">Wiener Morgenzeitung</rs>‘, im<lb/>
+dortigen Conservatorium »eine Classe für junge Leute eröffnet, die sich<lb/>
+dem musikalischen Journalismus, der Kritik und der Literatur dieser<lb/>
+Kunst widmen wollen«. Und setzt hinzu: »Hoffentlich macht diese<lb/>
+Schule nicht Schule in deutschen Landen!« Denn dann würde <seg type="insult">Herr<lb/>
+<rs type="pers" ana="n_22234" ref="#fk__p_45747">Reinhardt</rs>, der Musikkritiker der ‚<rs type="" ana="werk_8956">Wiener Morgenzeitung</rs>‘ und Componist<lb/>
+des »<rs type="title">Süßen <foreign xml:lang="de-loc">Mädel</foreign></rs>«</seg>, bei der ersten Prüfung durchfallen.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_45747">
+               <persName>Reinhardt, Heinrich</persName>
+               <birth>
+                  <date>1865-4-13</date>
+                  <place>Pressburg</place>
+               </birth>
+               <death>
+                  <date>1922-1-31</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Komponist</occupation>
+               <occupation>Musikschriftsteller</occupation>
+               <note type="comment">"Das süße Mädel" 118/31</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12501</idno></person>
+            <person xml:id="fk__p_50471">
+               <persName>Musiker</persName>
+            </person>
+            </listPerson></back></text>
+</TEI>

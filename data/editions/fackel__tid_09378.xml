@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_09378.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09377.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09379.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ebenda, 29. Januar, 7 Uhr:, in: Fackel Heft 25, Nr. 613, 1923, S. 54-54</title>
+            <title type="iso-date">1923-04-01</title>
+            <title type="id">tid_09378</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">25</title><title type="heft">613</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-25-613_n0054.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/613,054</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ebenda, 29. Januar, 7 Uhr:</head>
+            <p ana="pr124889">
+<space/>Ebenda, <date>29. Januar</date>, 7 Uhr:<lb/>
+</p>
+            <p ana="pr124890">
+<space/><rs type="title"><seg type="spc">Der Zerrissene</seg></rs>, Posse mit Gesang in drei Akten. Musik<lb/>
+von <rs type="pers" ana="n_76848" ref="#fk__p_50021">Mechtilde Lichnowsky</rs>. Die Handlung ist dem Französischen<lb/>
+(<rs type="title"><foreign xml:lang="fr">L’homme blasé</foreign></rs>) nachgebildet.<lb/>
+</p>
+            <p ana="pr124891">
+<space/>Zu den Couplets <foreign xml:lang="de-loc">»<rs type="title">Sich so zu verstell’n, na da g’hört was dazu</rs>«</foreign><lb/>
+(II. Akt) und <foreign xml:lang="de-loc">»<rs type="title">So gibt es halt allerhand Leut’ auf der Welt</rs>«</foreign> (III. Akt)<lb/>
+die bekannten und neue Zusatzstrophen.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_50021">
+               <persName>Lichnowsky, Mechtilde Fürstin, geb. Gräfin von und zu Arco-Zinneberg</persName>
+               <birth>
+                  <date>1879-3-8</date>
+                  <place>Schloß Schönburg</place>
+               </birth>
+               <death>
+                  <date>1958-6-4</date>
+                  <place>London</place>
+               </death>
+               <occupation>Schriftstellerin</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38988</idno></person>
+            </listPerson></back></text>
+</TEI>

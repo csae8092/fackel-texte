@@ -1,0 +1,42 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07801.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07800.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07802.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Wer? Michelangelo oder er?, in: Fackel Heft 19, Nr. 454, 1234, S. 52-53</title>
+            <title type="iso-date">1234-01-01</title>
+            <title type="id">tid_07801</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">19</title><title type="heft">454</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-19-454_n0052.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/454,052</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Wer? Michelangelo oder er?</head>
+            <p ana="pr104265">
+<space/><seg type="symbol" subtype="3dots"/> Schon <rs type="pers" ana="n_66979" ref="#fk__p_50161">Michelangelo</rs> hat gesagt, nicht zu sehen, nicht<lb/>
+zu hören ist mir ein hoher Gewinn.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_50161">
+               <persName>Michelangelo Buonarroti</persName>
+               <birth>
+                  <date>1475-3-6</date>
+                  <place>Caprese/Casentino</place>
+               </birth>
+               <death>
+                  <date>1564-2-18</date>
+                  <place>Rom</place>
+               </death>
+               <occupation>Bildhauer</occupation>
+               <occupation>Maler</occupation>
+               <occupation>Architekt</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/3155</idno></person>
+            </listPerson></back></text>
+</TEI>

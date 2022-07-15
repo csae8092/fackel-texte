@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07062.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07061.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07063.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Es macht sich, in: Fackel Heft 18, Nr. 418, 1916, S. 29-29</title>
+            <title type="iso-date">1916-04-01</title>
+            <title type="id">tid_07062</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">18</title><title type="heft">418</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-18-418_n0029.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/418,029</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Es macht sich</head>
+            <p ana="pr95735">
+dagegen in umgekehrter Richtung. <seg type="insult">Die <seg ana="»Laubhütte«"/>, eine Art<lb/>
+Amtsblatt in Russisch-Polen</seg>, veröffentlicht die folgenden, in jiddischer<lb/>
+Sprache verfaßten amtlichen Kundmachungen:<lb/>
+</p>
+            <p ana="pr95737">
+<foreign xml:lang="yi"><space/>Der Termin, sich einzumelden in der Gewerberole wert verlengert<lb/>
+bis’n <date>29. Februar 1916</date> <seg type="symbol" subtype="4dots"/> Gesellschaften mussen anmelden seier<lb/>
+Firme, a chuz dem mussen besunder gemeldet werden die beschäftigte<lb/>
+Direktoren und <seg type="insult"><seg type="spc">steierflichtige</seg> Angestellte</seg>.</foreign><lb/>
+</p>
+            <p ana="pr95738">
+<space/>Lodz, <date>28. Januar 1916</date>.<lb/>
+</p>
+            <p ana="pr95739">
+<foreign xml:lang="yi">Der <rs type="inst">Kaiserlich deitsche Polizei-President</rs>:</foreign><lb/>
+</p>
+            <p ana="pr95740">
+<rs type="pers" ana="n_64253" key="#fk__p_54671"><AUCTOR><abbr>v.</abbr> Opem</AUCTOR></rs>.<lb/>
+</p>
+            <p ana="pr95741">
+<space/><foreign xml:lang="yi">Verordnung b’naugea der Einführung von allgemeinem Paß-Zwang<lb/>
+:</foreign><lb/>
+</p>
+            <p ana="pr95742">
+<space/><foreign xml:lang="yi">Alle Personen vun’m General Gouvernement musen alt werdendig<lb/>
+15 Johr hoben a Paß und dem dosigen ständig trogen bei sich. Wegen<lb/>
+Verlieren a Paß muß teikef gemeldet weren der Ausgabeschtel.</foreign><lb/>
+</p>
+            <p ana="pr95743">
+Der Generalgouverneur:<lb/>
+</p>
+            <p ana="pr95744">
+<rs type="pers" ana="n_64254" ref="#fk__p_54452"><AUCTOR><abbr>v.</abbr> Beseler</AUCTOR></rs>,<lb/>
+</p>
+            <p ana="pr95745">
+<foreign xml:lang="yi">General vun Infanterie.</foreign><lb/>
+</p>
+            <p ana="pr95747">
+<space/>Und da beklagt man sich über die geringen Aussichten der<lb/>
+Assimilation!<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_54452">
+               <persName>Beseler, Hans Hartwig Baron von</persName>
+               <birth>
+                  <date>1850-04-27</date>
+                  <place>Greifswald</place>
+               </birth>
+               <death>
+                  <date>1921-12-20</date>
+                  <place>Neubabelsberg</place>
+               </death>
+               <occupation>Offizier</occupation>
+               <note type="comment">Generalgouverneur</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06354.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06353.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06355.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Vom Männergesang, in: Fackel Heft 15, Nr. 378, 1913, S. 21-21</title>
+            <title type="iso-date">1913-07-01</title>
+            <title type="id">tid_06354</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">15</title><title type="heft">378</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-15-378_n0021.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/378,021</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Vom Männergesang</head>
+            <p ana="pr85685">
+<space/>»<seg type="symbol" subtype="3dots"/> Die Erzherzogin und die Herzogin waren besonders erfreut<lb/>
+über den vorgetragenen Chor <foreign xml:lang="de-loc">‚’s Fensterln‘</foreign>.<lb/>
+</p>
+            <p ana="pr85686">
+<space/>Viel bemerkt wurde, daß bei dem Vortrage des Liedes <rs type="pers" ana="n_59105" ref="#fk__p_54182">Koschats</rs>:<lb/>
+<foreign xml:lang="de-loc">‚<rs type="title">Dearndl, dei Bua is da</rs>‘</foreign> <rs type="pers" ana="n_59106" ref="#fk__p_42892">Erzherzog Eugen</rs> kräftig mitsang.«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_54182">
+               <persName>Koschat, Thomas</persName>
+               <birth>
+                  <date>1845-8-8</date>
+                  <place>Viktring bei Klagenfurt</place>
+               </birth>
+               <death>
+                  <date>1914-5-19</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Sänger</occupation>
+               <occupation>Komponist</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/8312</idno></person>
+            <person xml:id="fk__p_42892">
+               <persName>Eugen, Erzherzog</persName>
+               <birth>
+                  <date>1863-05-21</date>
+                  <place>Groß-Seelowitz/Mähren</place>
+               </birth>
+               <death>
+                  <date>1954-12-30</date>
+                  <place>Meran</place>
+               </death>
+            </person>
+            </listPerson></back></text>
+</TEI>

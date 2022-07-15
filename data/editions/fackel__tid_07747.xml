@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07747.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07746.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07748.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Repressalien, in: Fackel Heft 19, Nr. 454, 1234, S. 15-16</title>
+            <title type="iso-date">1234-01-01</title>
+            <title type="id">tid_07747</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">19</title><title type="heft">454</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-19-454_n0015.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/454,015</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Repressalien</head>
+            <p ana="pr103840">
+<space/>Die <seg ana="‚Arbeiter-Zeitung"/>‘ erzählt:<lb/>
+</p>
+            <p ana="pr103842">
+<space/>In einem großen reichsdeutschen Blatte, der ‚<rs type="paper" ana="werk_21055">Kölnischen<lb/>
+Zeitung</rs>‘, wird sehr eindringlich die Umtaufe der Vereinigten Staaten<lb/>
+von Amerika erörtert. Der Name sei zu lang und so wird der Name<lb/>
+<seg type="spc">Usa</seg> (eben aus <foreign xml:lang="en"><SPN cont="United States of America">U nited S tates of A merica</SPN></foreign> gebildet) vorgeschlagen.<lb/>
+Man könne dann auch <seg type="spc">Usaner</seg> und <seg type="spc">usanisch</seg> schreiben.<lb/>
+Ein anderer schlägt die aus »Nordamerika« gebildete Form<lb/>
+<seg type="spc">Norika</seg> (dazu Norikaner und norikanisch) vor. Ein anderer sagt:<lb/>
+»Ich halte die Wortbildungen: Usa, Usaner, usanisch, ebenso<lb/>
+<seg type="spc">Usamerika</seg>, Usamerikaner, usamerikanisch für unschön und <seg type="spc">undeutsch<lb/>
+</seg>. Eine <seg type="spc">für das deutsche Sprachgefühl</seg> und Verständnis<lb/>
+ <seg type="spc">passendere Abkürzung</seg> wäre die von der deutschen<lb/>
+Bezeichnung Vereinigte Staaten von Amerika gebildete <seg type="spc">Verstamerika</seg><lb/>
+</p>
+            <p ana="pr103842">
+<seg type="spc"/>, Verstamerikaner, verstamerikanisch. Diese Wörter sprechen<lb/>
+sich <seg type="spc">ebenso kurz</seg> wie die Wörter Usamerika <abbr>u. s. w.</abbr> <seg type="spc">und<lb/>
+erfordern nur einige Buchstaben mehr</seg> in der Schrift.<lb/>
+Jedenfalls haben sie den Vorzug, daß sich <seg type="spc">jeder Deutsche<lb/>
+gleich einen Vers darauf machen kann</seg>.« Dagegen<lb/>
+empfiehlt ein anderer Reformer <seg type="spc">Verstam</seg> <seg type="symbol" subtype="equals"/> Vereinigte Staaten von<lb/>
+Amerika, <seg type="spc">Verstamer</seg>, <seg type="spc">verstamisch</seg>. Mit dem Grundwort<lb/>
+Verstam lassen sich ferner bilden: <seg type="spc">verstamern</seg> <seg type="symbol" subtype="equals"/> veramerikanern,<lb/>
+<seg type="spc">verstamsen</seg> <seg type="symbol" subtype="equals"/> ein <SPN cont="U. S. A.-Schiff"><abbr>U. S. A.</abbr>-Schiff</SPN> torpedieren. — Das alles<lb/>
+ist höchst <seg type="spc">ernst</seg> gemeint <seg type="symbol" subtype="4dots"/><lb/>
+</p>
+            <p ana="pr103844">
+<space/><seg type="insult">Das</seg> kann in England nicht ohne Eindruck bleiben.<lb/>
+Angesichts dieses neuen Belegs für <seg type="insult">eine längst festgestellte<lb/>
+Geistesverfassung</seg> wird an meiner Entdeckung, daß der Name<lb/>
+des Chefredakteurs der ‚<rs type="paper" ana="werk_21056">Kölnischen Zeitung</rs>‘ <rs type="pers" ana="n_66867" ref="#fk__p_51638"><seg type="insult"><seg type="spc">Ernst Posse</seg></seg></rs><lb/>
+<seg type="insult">die passendste Abkürzung für den tragischen Karneval</seg> sei,<lb/>
+wohl nicht mehr gemäkelt werden können. Vielleicht war es<lb/>
+der letzte Anstoß für den Entschluß Chinas.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_51638">
+               <persName>Posse, Ernst</persName>
+               <birth>
+                  <date>1860-02-14</date>
+                  <place>Elberfeld</place>
+               </birth>
+               <death>
+                  <date>1943-02-6</date>
+                  <place>Berlin</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Chefred. der Kölnischen Zeitung</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

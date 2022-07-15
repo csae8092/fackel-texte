@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_09736.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09735.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09737.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Wie gut es uns geht, in: Fackel Heft 25, Nr. 640, 1924, S. 165-165</title>
+            <title type="iso-date">1924-01-01</title>
+            <title type="id">tid_09736</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">25</title><title type="heft">640</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-25-640_n0165.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/640,165</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Wie gut es uns geht</head>
+            <p ana="pr131481">
+erkennt zum Glück auch <seg type="insult">Herr <rs type="pers" ana="n_80276" ref="#fk__p_45883">Herbert Eulenberg</rs></seg>, er nennt uns<lb/>
+zwar nicht <seg type="insult">Phäaken</seg>, aber findet doch, daß Wien wieder das<lb/>
+Capua der Geister sei, wo schon mehr Bogenlampen brennen<lb/>
+und wo man sich des Abends nach den leichten Anstrengungen<lb/>
+des Tages<lb/>
+</p>
+            <p ana="pr131483">
+wie in den Zeiten <seg type="insult">des <seg type="spc">alten</seg>, <seg type="spc">allweil fidelen <rs type="pers" ana="n_80277" ref="#fk__p_46919">Nestroy</rs></seg></seg><lb/>
+</p>
+            <p ana="pr131485">
+wieder erholt. Offenbar verwechselt er ihn aber mit dem <rs type="pers" ana="n_80278" ref="#fk__p_45169">Guschelbauer</rs>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_45883">
+               <persName>Eulenberg, Herbert</persName>
+               <birth>
+                  <date>1876-1-25</date>
+                  <place>Köln-Mülheim</place>
+               </birth>
+               <death>
+                  <date>1949-9-4</date>
+                  <place>Kaiserswerth</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">234/27, Artikel in der "Zukunft", gez. Eulenburg</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11273</idno></person>
+            <person xml:id="fk__p_46919">
+               <persName>Nestroy, Johann Nepomuk</persName>
+               <birth>
+                  <date>1801-12-7</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1862-5-25</date>
+                  <place>Graz</place>
+               </death>
+               <occupation>Sänger</occupation>
+               <occupation>Schauspieler</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12338</idno></person>
+            <person xml:id="fk__p_45169">
+               <persName>Guschelbauer, Edmund</persName>
+               <birth>
+                  <date>1839-10-16</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1912-2-6</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Volkssänger</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

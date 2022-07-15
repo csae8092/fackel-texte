@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02206.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02205.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02207.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ein Publicist, in: Fackel Heft 03, Nr. 093, 1902, S. 29-30</title>
+            <title type="iso-date">1902-02-4</title>
+            <title type="id">tid_02206</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">03</title><title type="heft">093</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-03-093_n0029.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/093,029</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ein Publicist</head>
+            <p ana="pr21485">
+<space/><seg type="insult">Aus einer Theaterkritik des Herrn <rs type="pers" ana="n_18756" ref="#fk__p_39122">Bernhard <DOUBT sug="Buchbinder:"><seg type="spc">Buchbinder</seg></DOUBT></rs></seg><lb/>
+</p>
+            <p ana="pr21487">
+<space/>»Es war <seg type="insult">eine ernste, ach nur zu ernste Leistung</seg>. Züchtig<lb/>
+und sittsam wie ein <rs type="pers">Gretchen</rs>. In der Entkleidungsscene war sie<lb/>
+(Frau <rs type="pers" ana="n_18757" ref="#fk__p_52797">Saville</rs>) bis an den Hals empor eingemummelt in Stoffen.<lb/>
+<seg type="insult">Eine so fürsorglich eingepackte <rs type="pers">Helena</rs></seg> hat man noch nicht gesehen<lb/>
+. Es gab Leute, welche die Absicht hatten, ihr hohes Eintrittsgeld<lb/>
+ zu reclamieren. Man geht in ‚<rs type="title">Die schöne <rs type="pers">Helena</rs></rs>‘, um etwas<lb/>
+zu sehen.«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_39122">
+               <persName>Buchbinder, Bernhard</persName>
+               <birth>
+                  <date>1849-7-7</date>
+                  <place>Budapest</place>
+               </birth>
+               <death>
+                  <date>1922-6-24</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/6487</idno></person>
+            <person xml:id="fk__p_52797">
+               <persName>Saville, Frances</persName>
+               <birth>
+                  <date>1862-1-6</date>
+                  <place>San Francisco</place>
+               </birth>
+               <death>
+                  <date>1935-11-8</date>
+                  <place>Burlingame/Kalifornien</place>
+               </death>
+               <occupation>Sängerin</occupation>
+               <note type="comment">Sopran</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

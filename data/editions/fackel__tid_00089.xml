@@ -1,0 +1,34 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00089.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00088.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00090.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Nur ein M., in: Fackel Heft 01, Nr. 005, 1899, S. 23-23</title>
+            <title type="iso-date">1899-05-01</title>
+            <title type="id">tid_00089</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">005</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-005_n0023.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/005,023</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Nur ein M.</head>
+            <p ana="pr1056">
+<space/><seg type="sidehead"><seg type="i">Nur ein <rs type="pers" ana="n_828" ref="#fk__p_59184"><abbr>M.</abbr></rs></seg></seg> Für Sie erliegt ein <seg type="spc">dringender</seg> Brief. Wollen<lb/>
+Sie ihn <abbr>gefl.</abbr> zwischen 2 und 3 Uhr bei mir beheben lassen. Ich<lb/>
+bitte Sie darum. Der Bote erhält ihn aber <seg type="spc">nur</seg> gegen Ihre <seg type="spc">handschriftliche<lb/>
+ Anweisung</seg> ausgeliefert.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_59184">
+               <persName>M.</persName>
+               <note type="comment"/>
+            </person>
+            </listPerson></back></text>
+</TEI>

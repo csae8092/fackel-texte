@@ -1,0 +1,109 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02509.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02508.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02510.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Einstellungsbeschluss des k. k. Landesgerichtes in Strafsachen, in: Fackel Heft 04, Nr. 107, 1902, S. 32-32</title>
+            <title type="iso-date">1902-06-27</title>
+            <title type="id">tid_02509</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">04</title><title type="heft">107</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-04-107_n0032.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/107,032</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Einstellungsbeschluss des k. k. Landesgerichtes in Strafsachen</head>
+            <p ana="pr24336">
+<FRAC><abbr>Pr.</abbr> VII. 294/1 <seg type="symbol" subtype="hr"/> 34</FRAC><lb/>
+</p>
+            <p ana="pr24337">
+An<lb/>
+</p>
+            <p ana="pr24338">
+Herrn <rs type="pers" ana="n_21163" ref="#fk__p_41987"><abbr>Dr.</abbr> <seg type="spc">Victor Kienböck</seg></rs><lb/>
+<seg type="ELIDASH">Hof-Advokat</seg> und Gerichts-Advokat<lb/>
+</p>
+            <p ana="pr24339">
+Wien.<lb/>
+</p>
+            <p ana="pr24340">
+<space/>Die Rathskammer des <rs type="inst"><abbr>k. k.</abbr> Landesgerichtes Wien in Strafsachen</rs><lb/>
+findet über Rücktritt des Privatanklägers von der erhobenen Anklage<lb/>
+das <abbr>h. g.</abbr> anhängige Strafverfahren in der Strafsache des <abbr>H.</abbr> <rs type="pers" ana="n_21164" ref="#fk__p_39122">Bernhard<lb/>
+Buchbinder</rs> wider <abbr>H.</abbr> <rs type="pers" ana="n_21165" ref="#fk__p_47565">Karl Kraus</rs> wegen Vergehens der Ehrenbeleidigung<lb/>
+<abbr>Pr.</abbr> VII. 294/1 gemäß § 227 <rs type="title"><abbr>St. P. O.</abbr></rs> einzustellen.<lb/>
+</p>
+            <p ana="pr24341">
+<space/><seg type="spc">Wien</seg>, am <date>20. Juni 1902</date>.<lb/>
+</p>
+            <p ana="pr24342">
+Der <abbr>k. k.</abbr> Präsident:<lb/>
+<rs type="pers" ana="n_21166" ref="#fk__p_53450"><AUCTOR><seg type="spc">Soos</seg></AUCTOR></rs> <foreign xml:lang="la"><abbr>m. p.</abbr></foreign><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_41987">
+               <persName>Kienböck, Victor</persName>
+               <birth>
+                  <date>1873-1-18</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1956-11-23</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Rechtsanwalt</occupation>
+               <occupation>Politiker</occupation>
+               <occupation>Bankdirektor</occupation>
+               <note type="comment">Briefkopf seiner Kanzlei: Dr. Victor Kienböck</note>
+               <note type="comment">Bruder Dr. Robert K., Vater Dr. Karl Kienböck (gest. Wien 23.03.1930, 90.jährig)</note>
+               <note type="comment">Finanzminister 1922-24, 1926-29</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/28479</idno></person>
+            <person xml:id="fk__p_47565">
+               <persName>Kraus, Karl</persName>
+               <birth>
+                  <date>1874-4-28</date>
+                  <place>Jicin, Böhmen</place>
+               </birth>
+               <death>
+                  <date>1936-6-12</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Publizist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11988</idno></person>
+            <person xml:id="fk__p_39122">
+               <persName>Buchbinder, Bernhard</persName>
+               <birth>
+                  <date>1849-7-7</date>
+                  <place>Budapest</place>
+               </birth>
+               <death>
+                  <date>1922-6-24</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/6487</idno></person>
+            <person xml:id="fk__p_53450">
+               <persName>Soos, Julius von</persName>
+               <birth>
+                  <date>1840-3-9</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1925-7-8</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Richter</occupation>
+               <note type="comment">7., Lerchenfelderstraße 21</note>
+               <note type="comment">k. k. Senatspräsident</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

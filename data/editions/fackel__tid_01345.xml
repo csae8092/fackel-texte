@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01345.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01344.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01346.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Eine Belästigung.), in: Fackel Heft 02, Nr. 057, 1900, S. 28-28</title>
+            <title type="iso-date">1900-10-01</title>
+            <title type="id">tid_01345</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">057</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-057_n0028.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/057,028</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Eine Belästigung.)</head>
+            <p ana="pr12864">
+<inciptit>Ich</inciptit> erhalte <seg type="insult">die folgende Belästigung</seg>:<lb/>
+</p>
+            <p ana="pr12866">
+<space/>»Auf Grund des <rs type="title">§ 19</rs> des Pressgesetzes fordere ich die Aufnahme<lb/>
+ der nachstehenden Berichtigung der auf Seite 21 in <rs type="selfRef" ana="werk_4150"><abbr>Nr.</abbr> 53</rs><lb/>
+der ‚<rs type="self" ana="werk_4151">Fackel</rs>‘ von <DATERANGE>Mitte September</DATERANGE> gebrachten unwahren Mittheilung.<lb/>
+Es ist unwahr, dass ich das ‚<rs type="magazine" ana="werk_4152">Jüdische Volksblatt</rs>‘ redigiert habe;<lb/>
+wahr ist, dass ich es niemals redigiert habe. Es ist unwahr, dass<lb/>
+Herr <rs type="pers" ana="n_10672" ref="#fk__p_52020">Rappaport</rs> den Vorschlag machte, mich in den Ausschuss des<lb/>
+<rs type="inst">Jüdischen Handwerkervereins</rs> zu wählen; es ist unwahr, dass der<lb/>
+Verein das ablehnte; wahr ist, dass in einer Vorbesprechung für die<lb/>
+Generalversammlung des Vereines zur Unterstützung jüdischer Kleingewerbetreibender<lb/>
+ von der Seite des Vereinsvorstandes der Vorschlag<lb/>
+gemacht wurde, mich in den Vorstand zu wählen, dass ich sowohl<lb/>
+dort wie auch nachher schriftlich jedwede Wahl ablehnte, so dass<lb/>
+der Vorschlag bei der Generalversammlung nicht erfolgen konnte.<lb/>
+Ich zeichne hochachtungsvoll <rs type="pers" ana="n_10673" ref="#fk__p_53266"><AUCTOR>Siegmund Bergmann</AUCTOR></rs>.«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_52020">
+               <persName>Rappaport, Richard</persName>
+               <birth>
+                  <date>1871-1-2</date>
+                  <place>Brünn</place>
+               </birth>
+               <death>
+                  <date>1942-2-15</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Zeitungsherausgeber</occupation>
+               <note type="comment">1., Opernring 10 (Eig. u. Red. der "Wiener Rundschau")</note>
+               <note type="comment">"Jüdisches Volksblatt"</note>
+            </person>
+            <person xml:id="fk__p_53266">
+               <persName>Bergmann, Siegmund</persName>
+               <birth>
+                  <date>1861-10-22</date>
+                  <place>Ausschau</place>
+               </birth>
+               <death>
+                  <date>1929-11-28</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Kaufmann</occupation>
+               <occupation>Druckereibesitzer</occupation>
+               <occupation>Journalist</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

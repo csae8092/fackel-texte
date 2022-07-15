@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_08862.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08861.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08863.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Festsaal des Ingenieur- und Architekten-Vereines, 28. November,, in: Fackel Heft 22, Nr. 557, 1921, S. 30-30</title>
+            <title type="iso-date">1921-01-01</title>
+            <title type="id">tid_08862</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">22</title><title type="heft">557</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-22-557_n0030.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/557,030</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Festsaal des Ingenieur- und Architekten-Vereines, 28. November,</head>
+            <p ana="pr117702">
+<space/>Festsaal des <seg type="ELIDASH">Ingenieur-Vereines</seg> und Architekten-Vereines, <date>28. November</date>,<lb/>
+halb 7 Uhr:<lb/>
+</p>
+            <p ana="pr117703">
+<space/>I. <rs type="pers" ana="n_72582" ref="#fk__p_46960">Goethe</rs>, <rs type="title"><rs type="pers">Faust</rs> II.</rs> V. Akt (ohne die letzte Szene).<lb/>
+</p>
+            <p ana="pr117704">
+<space/>II. <rs type="pers" ana="n_72583" ref="#fk__p_44354">Gerhart Hauptmann</rs>, <rs type="title"><rs type="pers">Hannele Matterns</rs> Himmelfahrt</rs>.<lb/>
+</p>
+            <p ana="pr117705">
+<space/>Begleitmusik: <rs type="pers" ana="n_72584" ref="#fk__p_41334"><abbr>Dr.</abbr> Karl Meyer</rs>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46960">
+               <persName>Goethe, Johann Wolfgang von</persName>
+               <birth>
+                  <date>1749-8-28</date>
+                  <place>Frankfurt am Main</place>
+               </birth>
+               <death>
+                  <date>1832-3-22</date>
+                  <place>Weimar</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">890/142f.</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11461</idno></person>
+            <person xml:id="fk__p_41334">
+               <persName>Meyer, Karl</persName>
+               <birth>
+                  <date>1891-12-2</date>
+                  <place>Vöslau</place>
+               </birth>
+               <death>
+                  <date>leer</date>
+               </death>
+               <occupation>Komponist</occupation>
+               <note type="comment">mit Baldur von Schirach ein Werk im Zentralverlag der NSDAP, ca. 1935</note>
+               <note type="comment">Dr. Karl Meyer-Frenner</note>
+            </person>
+            <person xml:id="fk__p_44354">
+               <persName>Hauptmann, Gerhart</persName>
+               <birth>
+                  <date>1862-11-15</date>
+                  <place>Salzbrunn, Schlesien</place>
+               </birth>
+               <death>
+                  <date>1946-6-6</date>
+                  <place>Agnetendorf</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Ögg teilt die indirekte Stelle 521/64 zu, irrtümlich</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11617</idno></person>
+            </listPerson></back></text>
+</TEI>

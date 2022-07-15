@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02766.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02765.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02767.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Passant. (Verkehrsstörung), in: Fackel Heft 04, Nr. 121, 1902, S. 26-26</title>
+            <title type="iso-date">1902-11-19</title>
+            <title type="id">tid_02766</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">04</title><title type="heft">121</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-04-121_n0026.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/121,026</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Passant. (Verkehrsstörung)</head>
+            <p ana="pr27128">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="name_203330" ref="#fk__p_51153">Passant</rs>.</seg></seg> Wir dachten immer, der <seg type="insult">»Depeschensaal«</seg> sei <seg type="insult">ein neuer<lb/>
+Hebel des »großstädtischen Verkehrs«</seg>. Und jetzt? »Dort, vor dem<lb/>
+Depeschensaal, durch die Kärntnerstraße zu gehen« — so rühmte die<lb/>
+‚<rs type="paper" ana="werk_9586">Zeit</rs>‘ am <date>9. November</date> —, »war bei der <seg type="spc">colossalen Verkehrsstockung<lb/>
+</seg> unmöglich.« Vom Tage der Wiener <rs type="inst">Landtagswahlen</rs> ist die<lb/>
+Rede und von der Verkehrsstörung, die in der belebtesten Straße der<lb/>
+Inneren Stadt eintrat, als im Schaufenster des Depeschensaales <seg type="insult">die<lb/>
+»cultur-actuellen« Porträts der Herren <rs type="pers" ana="n_23373" ref="#fk__p_42849">Schneider</rs>, <rs type="pers" ana="n_23374" ref="#fk__p_45017">Gregorig</rs> <abbr>u. s. w.</abbr></seg><lb/>
+erschienen. Und nun bleibt die Frage offen: Hemmen <seg type="insult">die Herren<lb/>
+<rs type="pers" ana="n_23375" ref="#fk__p_42849">Schneider</rs> und <rs type="pers" ana="n_23376" ref="#fk__p_45017">Gregorig</rs></seg> die <seg type="insult">Cultur</seg>, oder hemmen ihre Porträts bloß<lb/>
+den Verkehr und fördern die <seg type="insult">Cultur</seg>? Jedenfalls klagt <seg type="insult">Herr <rs type="pers" ana="n_23377" ref="#fk__p_46524">Singer</rs></seg>,<lb/>
+nachdem die Polizei mit Recht dem <seg type="insult">Scandal</seg> ein Ende gemacht hat,<lb/>
+über — <seg type="insult">Reaction</seg>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_42849">
+               <persName>Schneider, Ernst</persName>
+               <birth>
+                  <date>1850-10-19</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1913-7-17</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Mechaniker</occupation>
+               <occupation>Politiker</occupation>
+               <note type="comment">Landesausschuß, Reichsratsabg. 1891-1907</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/29066</idno></person>
+            <person xml:id="fk__p_51153">
+               <persName>Passant</persName>
+            </person>
+            <person xml:id="fk__p_46524">
+               <persName>Singer, Isidor</persName>
+               <birth>
+                  <date>1857-01-16</date>
+                  <place>Pest</place>
+               </birth>
+               <death>
+                  <date>1927-12-08</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Nationalökonom</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12790</idno></person>
+            <person xml:id="fk__p_45017">
+               <persName>Gregorig, Josef</persName>
+               <birth>
+                  <date>1846-4-27</date>
+                  <place>Bisamberg, NÖ.</place>
+               </birth>
+               <death>
+                  <date>1909-7-2</date>
+                  <place>Maria Enzersdorf, NÖ.</place>
+               </death>
+               <occupation>Pfaidler</occupation>
+               <occupation>Politiker</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/4295</idno></person>
+            </listPerson></back></text>
+</TEI>

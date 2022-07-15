@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06016.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06015.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06017.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Der greifbare Goethe, in: Fackel Heft 14, Nr. 363, 1912, S. 52-53</title>
+            <title type="iso-date">1912-12-01</title>
+            <title type="id">tid_06016</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">14</title><title type="heft">363</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-14-363_n0052.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/363,052</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Der greifbare Goethe</head>
+            <p ana="pr81325">
+<space/><seg type="insult">Herr <rs type="pers" ana="n_56839" ref="#fk__p_44279">Brandes</rs></seg> hat also »seiner Skepsis gegenüber dem<lb/>
+Wunderglauben lebhaften, zuweilen spöttischen Ausdruck gegeben«.<lb/>
+Das wird die Wunder verdrießen. Nach der <rs type="title">Jungfrau von Orleans</rs><lb/>
+besprach er <rs type="pers" ana="n_56840" ref="#fk__p_46960">Goethe</rs>. Das ist schon <seg type="insult">etwas Positiveres</seg> für <seg type="insult">gebildete<lb/>
+Leute</seg>, und da <rs type="pers" ana="n_56841" ref="#fk__p_44279">Brandes</rs> <seg type="insult">ein weltmännischer Plauderer</seg> ist, so kann<lb/>
+man sich denken, wie klar einem der Fall wurde. Das Publikum<lb/>
+»erlebte den künstlerischen Genuß, das Leben und Werden <rs type="pers" ana="n_56842" ref="#fk__p_46960">Goethes</rs><lb/>
+greifbar vorüberziehen zu sehen«. Nicht genug. »Man durchlebte<lb/>
+zum Schluß <rs type="pers" ana="n_56843" ref="#fk__p_46960">Goethes</rs> Begegnung mit <rs type="pers" ana="n_56844" ref="#fk__p_50524">Napoleon</rs>, wie zu Beginn<lb/>
+dieses anziehenden Essays sein Zusammentreffen mit <rs type="pers" ana="n_56845" ref="#fk__p_46893">Herder</rs><lb/>
+</p>
+            <p ana="pr81325">
+deutlich vor dem Zuhörer stand.« Alles das begab sich in der<lb/>
+<rs type="inst">Urania</rs>. Es wird wieder <rs type="pers" ana="n_56846" ref="#fk__p_46960">Goethe</rs>, <rs type="pers" ana="n_56847" ref="#fk__p_46893">Herder</rs> und <rs type="pers" ana="n_56848" ref="#fk__p_50524">Napoleon</rs> verdrießen.<lb/>
+Da sind die Wunder doch noch besser dran. Zu ihnen hält<lb/>
+<seg type="insult">Herr <rs type="pers" ana="n_56849" ref="#fk__p_44279">Brandes</rs></seg> Distanz und das Publikum kann sie nicht erleben.<lb/>
+Nicht erleben soll man sie. Ein Wunder schützt sich durch die Skepsis<lb/>
+des Betrachters. <rs type="pers" ana="n_56850" ref="#fk__p_46960">Goethe</rs> ist wehrlos dem <seg type="insult">Genuß</seg> preisgegeben.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46893">
+               <persName>Herder, Johann Gottfried von</persName>
+               <birth>
+                  <date>1744-08-25</date>
+                  <place>Mohrungen/Ostpreußen</place>
+               </birth>
+               <death>
+                  <date>1803-12-18</date>
+                  <place>Weimar</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Literaturtheoretiker</occupation>
+               <occupation>Theologe</occupation>
+               <note type="comment">geadelt 1802</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/4996</idno></person>
+            <person xml:id="fk__p_46960">
+               <persName>Goethe, Johann Wolfgang von</persName>
+               <birth>
+                  <date>1749-8-28</date>
+                  <place>Frankfurt am Main</place>
+               </birth>
+               <death>
+                  <date>1832-3-22</date>
+                  <place>Weimar</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">890/142f.</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11461</idno></person>
+            <person xml:id="fk__p_44279">
+               <persName>Brandes, Georg</persName>
+               <birth>
+                  <date>1842-2-4</date>
+                  <place>Kopenhagen</place>
+               </birth>
+               <death>
+                  <date>1927-2-19</date>
+                  <place>Kopenhagen</place>
+               </death>
+               <occupation>Literarhistoriker</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10992</idno></person>
+            <person xml:id="fk__p_50524">
+               <persName>Napoleon I.</persName>
+               <birth>
+                  <date>1769-8-15</date>
+                  <place>Ajaccio, Korsika</place>
+               </birth>
+               <death>
+                  <date>1821-5-5</date>
+                  <place>Sankt Helena</place>
+               </death>
+               <occupation>Kaiser</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

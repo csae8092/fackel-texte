@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_09708.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09707.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09709.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Mittlerer Konzerthaussaal, 8. Dezember, halb 3 Uhr:, in: Fackel Heft 25, Nr. 640, 1924, S. 111-111</title>
+            <title type="iso-date">1924-01-01</title>
+            <title type="id">tid_09708</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">25</title><title type="heft">640</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-25-640_n0111.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/640,111</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Mittlerer Konzerthaussaal, 8. Dezember, halb 3 Uhr:</head>
+            <p ana="pr130719">
+<space/><rs type="inst">Mittlerer Konzerthaussaal</rs>, <date>8. Dezember</date>, halb 3 Uhr:<lb/>
+</p>
+            <p ana="pr130720">
+<space/><rs type="title"><seg type="insult"><seg type="spc">Wolkenkuckucksheim</seg></seg></rs>. Begleitmusik nach Angabe des<lb/>
+Vortragenden. Ouverture und in den Zwischenakten: <rs type="pers" ana="n_79998" ref="#fk__p_46664">Offenbachs</rs><lb/>
+»<rs type="title"><rs type="pers">Orpheus</rs> in der Unterwelt</rs>« (<rs type="pers" ana="n_79999" ref="#fk__p_54913"><abbr>Dr.</abbr> Viktor Junk</rs>).<lb/>
+</p>
+            <p ana="pr130721">
+<space/>Ein Teil des Ertrags (<abbr>inkl.</abbr> Programm-Erlös): K 798.095 für<lb/>
+Notleidende.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_54913">
+               <persName>Junk, Viktor</persName>
+               <birth>
+                  <date>1875-4-18</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1948-4-5</date>
+                  <place>Frohnleiten/Steiermark</place>
+               </death>
+               <occupation>Germanist</occupation>
+               <occupation>Musikwissenschaftler</occupation>
+            </person>
+            <person xml:id="fk__p_46664">
+               <persName>Offenbach, Jacques</persName>
+               <birth>
+                  <date>1819-06-21</date>
+                  <place>Köln</place>
+               </birth>
+               <death>
+                  <date>1880-10-05</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Komponist</occupation>
+               <note type="comment">Ögg teilt Fortunato F 876/34 Shakespeare zu</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/9131</idno></person>
+            </listPerson></back></text>
+</TEI>

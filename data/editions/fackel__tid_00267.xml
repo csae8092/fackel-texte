@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00267.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00266.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00268.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Mara., in: Fackel Heft 01, Nr. 011, 1899, S. 31-32</title>
+            <title type="iso-date">1899-07-01</title>
+            <title type="id">tid_00267</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">011</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-011_n0031.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/011,031</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Mara.</head>
+            <p ana="pr2507">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_1827" ref="#fk__p_49589">Mara</rs>.</seg></seg> Sie haben die Freundlichkeit, mir Herrn <rs type="pers" ana="n_1828" ref="#fk__p_41891">Herzls</rs> <rs type="perRef" ana="werk_684">Sonntagsfeuilleton<lb/>
+ »Nauheim«</rs> <seg type="spc">corrigiert</seg> einzusenden. Die <seg type="insult">Unterscheidung</seg><lb/>
+</p>
+            <p ana="pr2507">
+<seg type="insult">der Herzkranken nach Capitalskraft</seg> ist in der That anmuthig; die Stelle<lb/>
+lautet: Die Soolenwirkung wird in <seg type="insult">merkwürdigen <seg type="spc">Percentsätzen</seg></seg><lb/>
+ausgeführt und <seg type="symbol" subtype="4dots"/> dargestellt in den medicinischen Schriften, die<lb/>
+<seg type="insult">jeder <seg type="spc">bessere Herzkranke</seg></seg> liest.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_49589">
+               <persName>Mara</persName>
+               <note type="comment">Medizinstudent?</note>
+            </person>
+            <person xml:id="fk__p_41891">
+               <persName>Herzl, Theodor</persName>
+               <birth>
+                  <date>1860-5-2</date>
+                  <place>Pest</place>
+               </birth>
+               <death>
+                  <date>1904-7-3</date>
+                  <place>Edlach, Niederösterreich</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11673</idno></person>
+            </listPerson></back></text>
+</TEI>

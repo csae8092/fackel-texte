@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_09773.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09772.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09774.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">25. Februar:, in: Fackel Heft 26, Nr. 649, 1924, S. 74-74</title>
+            <title type="iso-date">1924-06-01</title>
+            <title type="id">tid_09773</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">26</title><title type="heft">649</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-26-649_n0074.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/649,074</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>25. Februar:</head>
+            <p ana="pr132476">
+<space/><date>25. Februar</date>:<lb/>
+</p>
+            <p ana="pr132477">
+<space/>I. <rs type="pers" ana="n_80959" ref="#fk__p_54177">Carlyle</rs>: <rs type="title"><seg type="insult">Die Monarchisten</seg></rs>. — <rs type="title">Im Untergang</rs> / <rs type="title">Abenteuer<lb/>
+der Arbeit</rs>. — <rs type="title"><seg type="insult">Einstellung und Impuls</seg> oder Wie macht man das?</rs> /<lb/>
+<rs type="title"><seg type="insult">Ein von der <rs type="pers" ana="n2_7256" ref="#fk__p_42497">Duse</rs> hinausgeworfener Interviewer</seg></rs> / <rs type="title"><seg type="insult">Eine <rs type="pers" ana="n2_7257" ref="#fk__p_49728">Ebner-Eschenbachnatur<lb/>
+</rs></seg></rs>. — <rs type="title">Inschriften</rs>: <rs type="title"><seg type="insult">Psychoanalyse</seg></rs>; <rs type="title"><seg type="insult">Literatur</seg></rs>; <rs type="title"><rs type="title">Im 25. Jahr</rs></rs>; <rs type="title">Der<lb/>
+Vorleser</rs>; <rs type="title"><seg type="insult">Wien im Krieg</seg></rs>; <rs type="title"><seg type="insult">Genua</seg></rs>; <rs type="title"><seg type="insult">Der Bericht vom Tag</seg></rs>; <rs type="title"><seg type="insult">Militarismus</seg></rs>;<lb/>
+<rs type="title"><seg type="insult"><foreign xml:lang="fr"><rs type="inst">Entente</rs> bestiale</foreign></seg></rs>. — <rs type="title"><seg type="insult">Reklamefahrten zur Hölle</seg></rs>.<lb/>
+</p>
+            <p ana="pr132478">
+<space/>II. <rs type="title">Das Denkmal eines Schauspielers</rs>.<lb/>
+</p>
+            <p ana="pr132479">
+<space/>III. <rs type="title"><rs type="pers" ana="n2_7258" ref="#fk__p_51379">Peter Altenberg</rs></rs> / <rs type="title">Der Reim</rs> / <rs type="title"><seg type="insult">Bunte Begebenheiten</seg></rs> / <rs type="title">Dein<lb/>
+Fehler</rs> / <rs type="title">Grabschrift</rs> / <rs type="title">Schnellzug</rs> / <rs type="title">Todesfurcht</rs>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_49728">
+               <persName>Ebner-Eschenbach, Marie Freifrau von, geb. Gräfin Dubsky</persName>
+               <birth>
+                  <date>1830-9-13</date>
+                  <place>Zdislawitz, Mähren</place>
+               </birth>
+               <death>
+                  <date>1916-3-12</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schriftstellerin</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11216</idno></person>
+            <person xml:id="fk__p_51379">
+               <persName>Altenberg, Peter</persName>
+               <birth>
+                  <date>1859-3-9</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1919-1-8</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Ögg teilt 531/207 (Nachruf auf Moriz Benedikt) P. A. zu (mit ?)</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2147</idno></person>
+            <person xml:id="fk__p_42497">
+               <persName>Duse, Eleonora</persName>
+               <birth>
+                  <date>1858-10-3</date>
+                  <place>Vigevano/Lombardei</place>
+               </birth>
+               <death>
+                  <date>1924-4-21</date>
+                  <place>Pittsburgh/Pennsylvania</place>
+               </death>
+               <occupation>Schauspielerin</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11201</idno></person>
+            <person xml:id="fk__p_54177">
+               <persName>Carlyle, Thomas</persName>
+               <birth>
+                  <date>1795-12-4</date>
+                  <place>Ecclefechan, Dumfries and Galloway</place>
+               </birth>
+               <death>
+                  <date>1881-2-5</date>
+                  <place>London</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11074</idno></person>
+            </listPerson></back></text>
+</TEI>

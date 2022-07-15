@@ -1,0 +1,93 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03436.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03435.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03437.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lueger und Pollack, in: Fackel Heft 05, Nr. 152, 1904, S. 22-23</title>
+            <title type="iso-date">1904-01-16</title>
+            <title type="id">tid_03436</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">05</title><title type="heft">152</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-05-152_n0022.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/152,022</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Lueger und Pollack</head>
+            <p ana="pr34113">
+<space/><seg type="insult"><inciptit>Herr</inciptit> <rs type="pers" ana="n_29414" ref="#fk__p_47583"><abbr>Dr.</abbr> Lueger</rs></seg> wird jetzt gefrozzelt, weil er<lb/>
+das von <seg type="insult">Herrn <rs type="pers" ana="n_29415" ref="#fk__p_40618">Zifferer’s</rs> Schwiegersohn</seg> erbaute »Haus<lb/>
+der Kaufmannschaft« wegen <seg type="insult">seines <foreign xml:lang="de-loc">»weanerischen<lb/>
+Schan«</foreign></seg> lobte und sich unter <seg type="insult">den Festgästen des geadelten<lb/>
+ Herrn <rs type="pers" ana="n_29416" ref="#fk__p_51134">Pollack</rs></seg> gütlich tat. Vor zwei Jahren noch<lb/>
+habe <seg type="insult">der christlichsoziale Führer</seg> in einer Interpellation<lb/>
+<seg type="insult">jene liberalen Persönlichkeiten</seg> beschimpft, die Gelder<lb/>
+für den <rs type="inst">Landtagswahlfonds</rs> sammelten, um »durch<lb/>
+Stimmenkauf in Masse und großartige Bestechungen<lb/>
+die Wahl von <seg type="insult">solchen Individuen</seg> zu ermöglichen,<lb/>
+welche die <seg type="insult">Interessen des jüdischen Großkapitals</seg><lb/>
+vertreten«. Die Regierung ward damals aufmerksam<lb/>
+gemacht, daß es sich »um Aufbringung ganz außerordentlicher<lb/>
+ Geldmittel handeln müsse«. Und unter den<lb/>
+Angegriffenen habe sich <seg type="insult">Herr <rs type="pers" ana="n_29417" ref="#fk__p_51134">Leopold Pollack</rs></seg> befunden<lb/>
+ <seg type="symbol" subtype="3dots"/> Wo die <seg type="insult">Inkonsequenz des Herrn <rs type="pers" ana="n_29418" ref="#fk__p_47583"><abbr>Dr.</abbr> Lueger</rs></seg><lb/>
+liegen soll, ist nicht einzusehen. Jetzt, da <seg type="insult">Herr <rs type="pers" ana="n_29419" ref="#fk__p_51134">Pollack</rs></seg><lb/>
+geadelt wurde, meldet sich der Bürgermeister wieder<lb/>
+zum Wort, weil es sich eben neuerdings »um<lb/>
+die Aufbringung ganz außerordentlicher Geldmittel<lb/>
+gehandelt haben muß« <seg type="symbol" subtype="3dots"/><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_51134">
+               <persName>Pollack-Parnegg, Leopold Freiherr von</persName>
+               <birth>
+                  <date>1839-10-29</date>
+                  <place>Nikolsburg</place>
+               </birth>
+               <death>
+                  <date>1922-3-28</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Industrieller</occupation>
+               <note type="comment">Bruder Bernhard Pollack von Parnau (1846-27.12.1911)</note>
+               <note type="comment">für 391/4: NFP 15.01.1914, Seite 12</note>
+               <note type="comment">verh. mit Mathilde Pollack von Parnegg, geb. Gerstl (gest. 27.11.1923)</note>
+            </person>
+            <person xml:id="fk__p_47583">
+               <persName>Lueger, Karl</persName>
+               <birth>
+                  <date>1844-10-24</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1910-3-10</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <note type="comment">Rosa Lueger (Schwester) gest. Wien 24.09.1920</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/3561</idno></person>
+            <person xml:id="fk__p_40618">
+               <persName>Zifferer, Donat</persName>
+               <birth>
+                  <date>1845-10-2</date>
+                  <place>Bistritz/Mähren</place>
+               </birth>
+               <death>
+                  <date>1909-9-29</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Architekt</occupation>
+               <occupation>Stadtbaumeister</occupation>
+               <occupation>Politiker</occupation>
+               <note type="comment">9., Maximilianplatz 6</note>
+               <note type="comment">Ögg: Donath</note>
+               <note type="comment">Daten von IKG bestätigt</note>
+               <note type="comment">Gemeinderat</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

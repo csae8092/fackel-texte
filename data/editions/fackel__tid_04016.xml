@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_04016.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04015.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04017.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Dramaturg. (Die italienische Bearbeitung), in: Fackel Heft 07, Nr. 191, 1905, S. 23-23</title>
+            <title type="iso-date">1905-12-21</title>
+            <title type="id">tid_04016</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">07</title><title type="heft">191</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-07-191_n0023.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/191,023</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Dramaturg. (Die italienische Bearbeitung)</head>
+            <p ana="pr41629">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="name_202855" ref="#fk__p_42089">Dramaturg</rs>.</seg></seg></seg> Beim <rs type="pers" ana="n_34671" ref="#fk__p_50720">Novelli-Gastpiel</rs> klagte man über die Verstümmelung<lb/>
+ klassischer Werke zu schauspielerischen Paradestücken. »<RS pers="William Shakespeare"><rs type="title" ana="name_202869" ref="#fk__p_55589">Der<lb/>
+Kaufmann von Venedig</rs></RS>« ward besonders hitzig gegen seinen italienischen<lb/>
+Bearbeiter in Schutz genommen. Daß aber sogar der Titel des Stückes,<lb/>
+den die Direktion des <rs type="inst">Theaters an der Wien</rs> in deutscher Sprache verlautbarte<lb/>
+, in sinniger Weise geändert erschien, hat keiner <seg type="insult">der kritischen<lb/>
+Herren</seg> bemerkt. In der ‚<rs type="paper" ana="werk_14232">Neuen Freien Presse</rs>‘ — vielleicht auch auf den<lb/>
+Plakaten — war am <date>9. Dezember</date> zu lesen: »Gastspiel <rs type="pers" ana="n_34672" ref="#fk__p_50720">Ermete Novelli</rs>.<lb/>
+<seg type="insult"><rs type="title"><rs type="pers"><seg type="spc">Shylock</seg></rs>, <seg type="spc">der Kaufmann von Venedig</seg></rs></seg>«. Daß im <seg type="insult"><rs type="pers">Prokrustesbett</rs></seg><lb/>
+der italienischen Bearbeitung auch zwei Gestalten des Werkes gepaart wurden,<lb/>
+haben wir wohl <seg type="insult">der literarischen Bildung der Leiter des <rs type="inst">Theaters an der Wien</rs></seg><lb/>
+zu danken. <foreign xml:lang="de-loc">»Vergeltsgott!«</foreign>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_55589">
+               <persName>Shakespeare, William</persName>
+               <birth>
+                  <date>1564-4-23?</date>
+                  <place>Stratford-upon-Avon</place>
+               </birth>
+               <death>
+                  <date>1616-4-23</date>
+                  <place>Stratford-upon-Avon</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2412</idno></person>
+            <person xml:id="fk__p_50720">
+               <persName>Novelli, Ermete</persName>
+               <birth>
+                  <date>1851-5-5</date>
+                  <place>Lucca</place>
+               </birth>
+               <death>
+                  <date>1919-1-30</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2189</idno></person>
+            <person xml:id="fk__p_42089">
+               <persName>Dramaturg</persName>
+            </person>
+            </listPerson></back></text>
+</TEI>

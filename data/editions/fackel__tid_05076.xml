@@ -1,0 +1,95 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_05076.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05075.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05077.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ein Gruß von Stanislaw Przybyszewski, in: Fackel Heft 11, Nr. 300, 1910, S. 32-1</title>
+            <title type="iso-date">1910-04-9</title>
+            <title type="id">tid_05076</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">11</title><title type="heft">300</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-11-300_n0032.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/300,032</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ein Gruß von Stanislaw Przybyszewski</head>
+            <p ana="pr64555">
+<space/><seg type="symbol" subtype="3dots"/> Und jetzt nehmen Sie meine herzlichsten<lb/>
+Glückwünsche zu dem Erscheinen des <rs type="selfRef" ana="werk_40825">dreihundertsten<lb/>
+Heftes einer Zeitschrift</rs>, die wie kaum eine in Deutschland<lb/>
+ von staunenswerter Kraft, seltenem Mannesmut<lb/>
+und vor allen Dingen von der Tatsache zeugt, daß in<lb/>
+Ihrem Wort und Ihrem Stilgefühl die deutsche Sprache<lb/>
+eine wirklich männliche, ernste und — für mich<lb/>
+wenigstens das Höchste: eine herbe Renaissance erlebt.<lb/>
+</p>
+            <p ana="pr64556">
+<space/>Und so gebe ich Ihnen nur die Versicherung,<lb/>
+daß ich mich für das <rs type="selfRef" ana="werk_40826">fünfhundertste Heft</rs> mit dem<lb/>
+Besten ausrüsten werde, was meine schwache Kraft<lb/>
+zu schaffen vermag.<lb/>
+</p>
+            <p ana="pr64557">
+<space/>Mit besten Grüßen in tiefer Hochachtung<lb/>
+</p>
+            <p ana="pr64558">
+Ihr<lb/>
+</p>
+            <p ana="pr64559">
+München, <date>4. April 1910</date>. <rs type="pers" ana="n_47407" ref="#fk__p_53555"><AUCTOR>Stanislaw Przybyszewski</AUCTOR></rs><lb/>
+</p>
+            <p ana="pr64563">
+Herausgeber und verantwortlicher Redakteur: <rs type="pers" ana="n_47408" ref="#fk__p_47565"><seg type="spc">Karl Kraus</seg></rs><lb/>
+Druck von <rs type="inst"><rs type="pers" ana="n2_4080" ref="#fk__p_44294">Jahoda</rs> &amp; <rs type="pers" ana="n2_4081" ref="#fk__p_58955">Siegel</rs></rs>, Wien, III. Hintere Zollamtsstraße 3<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_44294">
+               <persName>Jahoda, Georg</persName>
+               <birth>
+                  <date>1863-11-28</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1926-11-24</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Drucker</occupation>
+               <note type="comment">Miteigentümer der Druckerei Jahoda &amp; Siegel, in der die Fackel erschien</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/47142</idno></person>
+            <person xml:id="fk__p_47565">
+               <persName>Kraus, Karl</persName>
+               <birth>
+                  <date>1874-4-28</date>
+                  <place>Jicin, Böhmen</place>
+               </birth>
+               <death>
+                  <date>1936-6-12</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Publizist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11988</idno></person>
+            <person xml:id="fk__p_58955">
+               <persName>Siegel (Jahoda &amp; Siegel, Druckerei)</persName>
+            </person>
+            <person xml:id="fk__p_53555">
+               <persName>Przybyszewski, Stanislaw</persName>
+               <birth>
+                  <date>1868-5-7</date>
+                  <place>Lojewo, Prov. Posen</place>
+               </birth>
+               <death>
+                  <date>1927-11-23</date>
+                  <place>Jaronty</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Journalist</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

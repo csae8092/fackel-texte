@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_11630.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11629.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11631.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Buchausgabe der »Perichole«), in: Fackel Heft 32, Nr. 847, 1931, S. 61-61</title>
+            <title type="iso-date">1931-03-01</title>
+            <title type="id">tid_11630</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">32</title><title type="heft">847</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-32-847_n0061.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/847,061</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Buchausgabe der »Perichole«)</head>
+            <p ana="pr169043">
+<space/>Am <date>31. Dezember</date> ist im <rs type="inst">Verlag der Universal-Edition <abbr>A. G.</abbr></rs><lb/>
+»<rs type="title"><rs type="pers"><seg type="spc">Perichole</seg></rs></rs>«, Operette in drei Akten (fünf Abteilungen) von<lb/>
+<rs type="pers" ana="n_101247" ref="#fk__p_46664">Jacques Offenbach</rs>, neuer Text (nach zwei Fassungen von<lb/>
+<rs type="pers" ana="n_101248" ref="#fk__p_45865">Henry Meilhac</rs> und <rs type="pers" ana="n_101249" ref="#fk__p_49270">Ludovic Halévy</rs>) von <rs type="pers" ana="n_101250" ref="#fk__p_47565">Karl Kraus</rs> erschienen.<lb/>
+(Im <date>Februar</date> ebenda der Klavierauszug.)<lb/>
+</p>
+            <p ana="pr169044">
+<space/>Mit Bewilligung des <rs type="inst">Verlages <rs type="pers" ana="n2_9046" ref="#fk__p_57636">Calman-Lévy</rs></rs> in Paris ist — etwas<lb/>
+verspätet — ein Anhang mit den Versen des Originals erschienen,<lb/>
+der die Vorbemerkung enthält:<lb/>
+</p>
+            <p ana="pr169045">
+<space/>Da einem Musiktext bloß funktioneller Wert zukommt und<lb/>
+die sprachliche Arbeit beträchtlicher zu sein hat als das Resultat,<lb/>
+so läßt sie sich nur durch den Vergleich mit dem Original anschaulich<lb/>
+ machen, dessen Grundverse (aus dem Druck bei <rs type="inst"><rs type="pers" ana="n2_9047" ref="#fk__p_57636">Calman-Lévy<lb/>
+</rs></rs>, mit den Änderungen und Ergänzungen aus dem Text der<lb/>
+Klavierauszüge bei <rs type="inst"><rs type="pers" ana="n2_9048" key="#fk__p_58287">Joubert</rs> und <rs type="pers" ana="n2_9049" key="#fk__p_57606">Brandus</rs></rs>) hier mitgeteilt werden.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_47565">
+               <persName>Kraus, Karl</persName>
+               <birth>
+                  <date>1874-4-28</date>
+                  <place>Jicin, Böhmen</place>
+               </birth>
+               <death>
+                  <date>1936-6-12</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Publizist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11988</idno></person>
+            <person xml:id="fk__p_45865">
+               <persName>Meilhac, Henri</persName>
+               <birth>
+                  <date>1831-2-21</date>
+                  <place>Paris</place>
+               </birth>
+               <death>
+                  <date>1897-7-6</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12222</idno></person>
+            <person xml:id="fk__p_49270">
+               <persName>Halévy, Ludovic</persName>
+               <birth>
+                  <date>1834-1-1</date>
+                  <place>Paris</place>
+               </birth>
+               <death>
+                  <date>1908-5-8</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15864</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/4197</idno></person>
+            <person xml:id="fk__p_57636">
+               <persName>Calmann-Lévy (Verlag)</persName>
+               <note type="comment">in Paris</note>
+            </person>
+            <person xml:id="fk__p_46664">
+               <persName>Offenbach, Jacques</persName>
+               <birth>
+                  <date>1819-06-21</date>
+                  <place>Köln</place>
+               </birth>
+               <death>
+                  <date>1880-10-05</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Komponist</occupation>
+               <note type="comment">Ögg teilt Fortunato F 876/34 Shakespeare zu</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/9131</idno></person>
+            </listPerson></back></text>
+</TEI>

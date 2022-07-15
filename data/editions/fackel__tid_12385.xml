@@ -1,0 +1,45 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_12385.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_12384.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_12386.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Aufhebung eines physikalischen Grundgesetzes, in: Fackel Heft 37, Nr. 917, 1936, S. 91-91</title>
+            <title type="iso-date">1936-02-01</title>
+            <title type="id">tid_12385</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">37</title><title type="heft">917</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-37-917_n0091.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/917,091</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Aufhebung eines physikalischen Grundgesetzes</head>
+            <p ana="pr184117">
+Also sprach <rs type="pers" ana="n_109187" ref="#fk__p_42638">Kubinzky</rs>:<lb/>
+</p>
+            <p ana="pr184119">
+— — Die Vielen, denen aus Raummangel keine Einlaßkarte mehr gegeben<lb/>
+ werden konnte, würden ihr <seg type="spc">Fernsein</seg> sicher noch viel<lb/>
+mehr bedauert haben, <seg type="spc">hätten sie</seg> den Ausführungen des österreichischen<lb/>
+ Regierungschefs lauschen können.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_42638">
+               <persName>Kubinzky, Emil Freiherr von</persName>
+               <birth>
+                  <date>1843-06-21</date>
+                  <place>Prag</place>
+               </birth>
+               <death>
+                  <date>1907-08-26</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Großindustrieller</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

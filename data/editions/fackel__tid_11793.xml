@@ -1,0 +1,43 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_11793.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11792.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11794.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Um Irrtümern vorzubeugen, in: Fackel Heft 33, Nr. 852, 1931, S. 89-90</title>
+            <title type="iso-date">1931-05-01</title>
+            <title type="id">tid_11793</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">33</title><title type="heft">852</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-33-852_n0089.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/852,089</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Um Irrtümern vorzubeugen</head>
+            <p ana="pr170874">
+<space/><DATERANGE>Anfang April</DATERANGE>, genau am <date>diesjährigen Ostermontag</date>, werden es<lb/>
+<seg type="spc">siebzig Jahre</seg>, daß <rs type="pers" ana="n_102172" ref="#fk__p_38594">Auguste Wilbrandt-Baudius</rs> zum erstenmal im<lb/>
+<rs type="inst">Burgtheater</rs>, <seg type="spc">damals selbstverständlich noch im alten<lb/>
+<rs type="inst">Burgtheater</rs></seg>, aufgetreten ist.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_38594">
+               <persName>Wilbrandt-Baudius, Auguste</persName>
+               <birth>
+                  <date>1843-6-1</date>
+                  <place>Zwickau</place>
+               </birth>
+               <death>
+                  <date>1937-3-30</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schauspielerin</occupation>
+               <note type="comment">1861-78, 1898-1937 Burgtheater</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/5320</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,45 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07654.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07653.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07655.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Worte nach Dehmels Strophe von der Pferden), in: Fackel Heft 18, Nr. 445, 1234, S. 96-97</title>
+            <title type="iso-date">1234-01-01</title>
+            <title type="id">tid_07654</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">18</title><title type="heft">445</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-18-445_n0096.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/445,096</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Worte nach Dehmels Strophe von der Pferden)</head>
+            <p ana="pr102881">
+<space/>Nach Vorlesung der Worte über <rs type="pers" ana="n_66409" ref="#fk__p_52173">Dehmels</rs> Strophe von<lb/>
+den Pferden, die nur »deutsche Pferde« sein wollten:<lb/>
+</p>
+            <p ana="pr102883">
+<space/><seg type="spc">Aber den Wunsch</seg>, <seg type="spc"><seg type="insult">deutsche Dichter</seg> zu<lb/>
+sein</seg>, <seg type="spc">haben sie Gott sei Dank noch immer<lb/>
+nicht</seg>!<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_52173">
+               <persName>Dehmel, Richard</persName>
+               <birth>
+                  <date>1863-11-18</date>
+                  <place>Wendisch-Hermsdorf, Brandenburg</place>
+               </birth>
+               <death>
+                  <date>1920-2-8</date>
+                  <place>Blankenese bei Hamburg</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11148</idno></person>
+            </listPerson></back></text>
+</TEI>

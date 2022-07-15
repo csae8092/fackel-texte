@@ -1,0 +1,117 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03999.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03998.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04000.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Deutscher. (Die Lage der Deutschen), in: Fackel Heft 07, Nr. 190, 1905, S. 17-17</title>
+            <title type="iso-date">1905-12-11</title>
+            <title type="id">tid_03999</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">07</title><title type="heft">190</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-07-190_n0017.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/190,017</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Deutscher. (Die Lage der Deutschen)</head>
+            <p ana="pr41426">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="name_202268" ref="#fk__p_60453">Deutscher</rs>.</seg></seg></seg> Zur <seg type="insult">Lage der Deutschen in Österreich</seg> liegt ein<lb/>
+<seg type="insult">Stimmungsbericht</seg> vor: »Nicht um die Menge handelte es sich gestern<lb/>
+abends, als sich die 21 Teilnehmer an dem <seg type="spc">Preis-Sterz-Wettessen</seg><lb/>
+um die Tafel setzten und mit Löffeln rasch in den Sterz fuhren, der in<lb/>
+schöner gelblicher Farbe appetitlich auf den Tellern lag. Nein, die<lb/>
+Schnelligkeit sollte genau festgestellt werden, mit welcher man einen<lb/>
+Sterz verschlingen kann. Der vorjährige Rekord betrug 1 Minute 45 Sekunden.<lb/>
+Ein Küchenchef, Herr <rs type="pers" ana="n_34456" key="#fk__p_37926">Albert Kotzmuth</rs>, hat es zuwege gebracht, den<lb/>
+Sterz in einer Minute und dreißig Sekunden zu verschlingen <seg type="symbol" subtype="3dots"/> Die<lb/>
+Nachfrage nach Karten war eine ziemlich rege. Als die Teller mit Sterz<lb/>
+vor den Teilnehmern standen, nahm Herr <rs type="pers" ana="n_34457" ref="#fk__p_45433">Jauernig</rs> seine Uhr zur<lb/>
+Hand und auf den Ruf ‚Los!‘ wurde zu löffeln begonnen <seg type="symbol" subtype="3dots"/> Bald war<lb/>
+der Teller des Herrn <rs type="pers" ana="n_34458" key="#fk__p_37926">Kotzmuth</rs> leer und Herr <rs type="pers" ana="n_34459" ref="#fk__p_48810">Hacker</rs> und Herr<lb/>
+<rs type="pers" ana="n_34460" ref="#fk__p_47065">Dragoner</rs> waren noch immer nicht fertig. Eine lange Viertelminute verging<lb/>
+, bevor Herr <rs type="pers" ana="n_34461" ref="#fk__p_48810">Hacker</rs> seine Aufgabe gelöst hatte. Er hatte zwar den<lb/>
+Rekord des Vorjahres nicht geschlagen, aber gehalten, denn in 1 Minute<lb/>
+45 Sekunden hatte er den Sterz verzehrt. Nun kam die offizielle Preisverteilung<lb/>
+. Herrn <rs type="pers" ana="n_34462" key="#fk__p_37926">Kotzmuth</rs> wurde der Wanderpreis und eine silberne<lb/>
+Uhr eingehändigt und Herr <rs type="pers" ana="n_34463" ref="#fk__p_48810">Hacker</rs> erhielt eine Rauchgarnitur. Damit war<lb/>
+die Unterhaltung noch lange nicht aus, es folgte das so lustige Hahnenschlagen<lb/>
+, Schuhplattler wurden getanzt und schließlich wurde gesungen und<lb/>
+gejodelt.« Das ist aber nicht etwa ein <seg type="insult">Communiqué der Herren<lb/>
+<rs type="pers" ana="n_34464" ref="#fk__p_41919">Derschatta</rs>, <rs type="pers" ana="n_34465" ref="#fk__p_41647">Pergelt</rs> und <rs type="pers" ana="n_34466" ref="#fk__p_41101">Groß</rs> (Österreich gähnt)</seg>, sondern <seg type="insult">ein viel verläßlicherer<lb/>
+ Bericht des ‚<rs type="paper" ana="werk_14171">Illustrierten Wiener Extrablatts</rs>‘</seg>. Man gratuliere<lb/>
+<seg type="insult">dem deutschen Volk</seg> zu <seg type="insult">Herrn <rs type="pers" ana="n_34467" key="#fk__p_37926">Kotzmuth</rs></seg>, — der mit Recht so heißt.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_47065">
+               <persName>Dragoner, Joseph</persName>
+               <occupation>Uhrmacher</occupation>
+               <note type="comment">Sterz-Wettessen 1904 und 1905</note>
+            </person>
+            <person xml:id="fk__p_45433">
+               <persName>Jauernig, Johann</persName>
+               <birth>
+                  <date>1862-5-9</date>
+                  <place>Scholtitz/Österr. Schlesien</place>
+               </birth>
+               <death>
+                  <date>1918-9</date>
+               </death>
+               <occupation>Schneider</occupation>
+               <note type="comment">Obmann des "Steirischen Zwölferbunds", Sterz-Wettessen</note>
+               <note type="comment">Namenskorrektur!</note>
+               <note type="comment">8., Lerchengase 23</note>
+            </person>
+            <person xml:id="fk__p_48810">
+               <persName>Hacker, Leopold</persName>
+               <note type="comment">Rekordhalter im Sterzessen 1905</note>
+            </person>
+            <person xml:id="fk__p_41647">
+               <persName>Pergelt, Anton</persName>
+               <birth>
+                  <date>1853-1-11</date>
+                  <place>Sophienhain/Warnsdorf</place>
+               </birth>
+               <death>
+                  <date>1910-10-8</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Rechtsanwalt</occupation>
+               <occupation>Politiker</occupation>
+               <note type="comment">Reichsratsabgeordneter</note>
+            </person>
+            <person xml:id="fk__p_41101">
+               <persName>Groß, Gustav</persName>
+               <birth>
+                  <date>1856-6-12</date>
+                  <place>Reichenberg/Böhmen</place>
+               </birth>
+               <death>
+                  <date>1935-2-23</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <note type="comment">Reichsratsabgeordneter</note>
+            </person>
+            <person xml:id="fk__p_60453">
+               <persName>Deutscher</persName>
+               <note type="comment"/>
+            </person>
+            <person xml:id="fk__p_41919">
+               <persName>Derschatta-Standhalt, Julius Edler von </persName>
+               <birth>
+                  <date>1852-9-12</date>
+                  <place>Zara</place>
+               </birth>
+               <death>
+                  <date>1924-2-3</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Politiker</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

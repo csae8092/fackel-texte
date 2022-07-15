@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01321.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01320.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01322.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Herrn von Schießl, Director der kaiserlichen Cabinetskanzlei. (Herrn v. Schiessl), in: Fackel Heft 02, Nr. 056, 1900, S. 25-26</title>
+            <title type="iso-date">1900-10-01</title>
+            <title type="id">tid_01321</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">056</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-056_n0025.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/056,025</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Herrn von Schießl, Director der kaiserlichen Cabinetskanzlei. (Herrn v. Schiessl)</head>
+            <p ana="pr12660">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i">Herrn <rs type="pers" ana="n_10465" ref="#fk__p_55078">von Schießl</rs>, Director der kaiserlichen Cabinetskanzlei.</seg></seg></seg><lb/>
+Wollen Sie endlich dafür sorgen, dass der Artikel in <rs type="selfRef" ana="werk_4025"><abbr>Nr.</abbr> 54</rs> der<lb/>
+‚<rs type="self" ana="werk_4026">Fackel</rs>‘, der die in dem Schreiben an Erzbischof <rs type="pers" ana="n_10466" ref="#fk__p_41847">Stadler</rs> enthaltene<lb/>
+ <seg type="insult">völkerrechtliche Ungeheuerlichkeit</seg> aufdeckt, dem Monarchen<lb/>
+vorgelegt wird. Es ist ein alter Usus, dass täglich im Pressbureau eine<lb/>
+</p>
+            <p ana="pr12660">
+Collection von Zeitungsstimmen, die das in der Politik Wichtigste<lb/>
+und Wesentlichste besprechen, für den Monarchen zusammengestellt<lb/>
+wird, und Sie haben darüber zu wachen, dass diese Sammlung möglichst<lb/>
+übersichtlich und vollständig ausfällt. Zahllose Ausschnitte aus Journalen,<lb/>
+die sich mit der Affaire <rs type="pers" ana="n_10467" ref="#fk__p_41847">Stadler</rs> befassten, sind dem <RS pers="Franz Joseph" globID="rs_163">Kaiser</RS> in diesen<lb/>
+Tagen überreicht worden. Das Pressbureau hat es aber unterlassen, den<lb/>
+Artikel der ‚<rs type="self" ana="werk_4027">Fackel</rs>‘, der eine von keinem anderen Journal berührte<lb/>
+Seite der Angelegenheit behandelt und die Meinung eines hervorragenden<lb/>
+ Völkerrechtslehrers wiedergibt, der für den Monarchen bestimmten<lb/>
+Sammlung einzuverleiben. Da das Pressbureau sich hiebei lediglich<lb/>
+von der Rücksicht auf Ihre Person — der Artikel war <seg type="insult">»Eine Rüge<lb/>
+an Herrn <rs type="pers" ana="n_10468" ref="#fk__p_55078"><abbr>v.</abbr> Schießl</rs>«</seg> betitelt — leiten ließ, so ist es Ihre Pflicht,<lb/>
+den Artikel zu reclamieren, eventuell mit Gewalt dem furchtsamen<lb/>
+Pressbureau zu entreißen und irgend eine Ausrede für die verspätete<lb/>
+Unterbreitung zu ersinnen. Der <RS pers="Franz Joseph" globID="rs_164">Kaiser</RS> wird von dem juristischen<lb/>
+Lapsus, den <seg type="insult">Ihre Rüge an Herrn <rs type="pers" ana="n_10469" ref="#fk__p_41847"><abbr>Dr.</abbr> Stadler</rs></seg> enthält, gewiss peinlich<lb/>
+berührt sein; aber die <seg type="insult">selbstaufopfernde Bereitwilligkeit</seg>, mit der Sie<lb/>
+ihm die <seg type="insult">Rüge an Herrn <rs type="pers" ana="n_10470" ref="#fk__p_55078"><abbr>v.</abbr> Schießl</rs></seg> unterbreiten, dürfte ihn versöhnlich<lb/>
+ stimmen. Nur Muth, nur Muth!<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_41847">
+               <persName>Stadler, Josef</persName>
+               <birth>
+                  <date>1843-01-24</date>
+                  <place>Slawonski Brod/Save</place>
+               </birth>
+               <death>
+                  <date>1918-12-08</date>
+                  <place>Sarajewo</place>
+               </death>
+               <occupation>Bischof</occupation>
+            </person>
+            <person xml:id="fk__p_55078">
+               <persName>Schießl-Perstorff, Franz Freiherr von</persName>
+               <birth>
+                  <date>1844-3-19</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1932-03-10</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Hofbeamter</occupation>
+               <note type="comment">kaiserl. Kabinettsdirektor</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

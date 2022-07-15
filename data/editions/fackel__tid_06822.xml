@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06822.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06821.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06823.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Eine Spezialität, in: Fackel Heft 16, Nr. 400, 1914, S. 13-13</title>
+            <title type="iso-date">1914-01-01</title>
+            <title type="id">tid_06822</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">16</title><title type="heft">400</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-16-400_n0013.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/400,013</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Eine Spezialität</head>
+            <p ana="pr91747">
+<space/><seg type="sidehead">[Ordensauszeichnungen.]</seg> Dem Redakteur des ‚<rs type="paper" ana="werk_20227">Neuen Wiener Tagblatt<lb/>
+</rs>‘ <rs type="pers" ana="n_62274" ref="#fk__p_51185">Paul Busson</rs> wurde der montenegrinische <rs type="pers" ana="n_62275" ref="#fk__p_40249">Danilo-Orden</rs> dritter<lb/>
+Klasse und dem Redakteur des ‚<rs type="paper" ana="werk_20228">Neuen Wiener Tagblatt</rs>‘ <rs type="pers" ana="n_62276" ref="#fk__p_42821">Ernst Klebinder</rs><lb/>
+der montenegrinische <rs type="pers" ana="n_62277" ref="#fk__p_40249">Danilo-Orden</rs> vierter Klasse verliehen.<lb/>
+</p>
+            <p ana="pr91749">
+<space/>Das gibts? Ich würde nicht einmal <seg type="insult">einen montenegrinischen<lb/>
+Orden erster Klasse für Nichtraucher</seg> annehmen.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_51185">
+               <persName>Busson, Paul</persName>
+               <birth>
+                  <date>1873-7-9</date>
+                  <place>Innsbruck</place>
+               </birth>
+               <death>
+                  <date>1924-7-5</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/6543</idno></person>
+            <person xml:id="fk__p_40249">
+               <persName>Danilo I. Petrowitsch Njegosch, Fürst von Montenegro</persName>
+               <birth>
+                  <date>1826-06-02</date>
+                  <place>Njeguši</place>
+               </birth>
+               <death>
+                  <date>1860-08-13</date>
+                  <place>Cattaro</place>
+               </death>
+               <occupation/>
+            </person>
+            <person xml:id="fk__p_42821">
+               <persName>Klebinder, Ernst</persName>
+               <birth>
+                  <date>1878-10-12</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1936-5-7</date>
+                  <place>Susak/Jugoslawien</place>
+               </death>
+               <occupation>Journalist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/19381</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_09028.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09027.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09029.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Wiener Bürgertheater, 16. Oktober, 3 Uhr:, in: Fackel Heft 23, Nr. 577, 1921, S. 71-71</title>
+            <title type="iso-date">1921-11-01</title>
+            <title type="id">tid_09028</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">23</title><title type="heft">577</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-23-577_n0071.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/577,071</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Wiener Bürgertheater, 16. Oktober, 3 Uhr:</head>
+            <p ana="pr120429">
+<space/><rs type="inst">Wiener Bürgertheater</rs>, <date>16. Oktober</date>, 3 Uhr:<lb/>
+</p>
+            <p ana="pr120430">
+<space/>I. <rs type="pers" ana="n_73896" ref="#fk__p_38232">Andreas Gryphius</rs>: <rs type="title">Thränen des Vaterlandes</rs> (im Jahre <date>1636</date>) /<lb/>
+<rs type="title">Monarchie und Republik</rs> / <rs type="title">Der <rs type="pers">sterbende Soldat</rs></rs> / <rs type="title">Gespräch mit dem<lb/>
+Monarchisten</rs> / <rs type="title">Wohnungswechsel</rs> / <rs type="title"><seg type="insult">Die Not in Wien</seg></rs> / Aus: <rs type="title"><seg type="insult">Ein<lb/>
+christlicher Dreh</seg></rs>. — Szenen: <rs type="title">Stadtpark</rs> / <rs type="title"><seg type="insult">im Kriegsministerium</seg></rs> /<lb/>
+<rs type="title"><seg type="insult">Ringstraßencafé</seg></rs>. — <rs type="title">Im Untergang</rs>.<lb/>
+</p>
+            <p ana="pr120431">
+<space/>II. <rs type="title">Jugend</rs> / <rs type="title"><seg type="insult">Überführung eines Plagiators</seg></rs> / <rs type="title">Abenteuer der<lb/>
+Arbeit</rs> / <rs type="title">Schnellzug</rs> / <rs type="title">Du bist sie, die ich nie gekannt</rs> / <rs type="title">Du seit<lb/>
+langem einziges Erlebnis</rs> / <rs type="title"><seg type="insult">Hypnagogische Gestalten</seg></rs> / <rs type="title"><seg type="insult">Das Ehrenkreuz<lb/>
+</seg></rs> / <rs type="title"><seg type="insult"><foreign xml:lang="fr">Petite chronique scandaleuse</foreign></seg></rs> / <rs type="title"><seg type="insult">Aus dem Ungarischen</seg></rs> / <rs type="title">Orgovan</rs>.<lb/>
+Von <rs type="pers" ana="n_73897" ref="#fk__p_38219">Andor Gábor</rs>. / <rs type="title"><seg type="insult">Reklamefahrten zur Hölle</seg></rs>.<lb/>
+</p>
+            <p ana="pr120432">
+<space/>Ein Teil des Ertrags für eine durch Kriegsnot Verarmte. —<lb/>
+Der Erlös des Programms (<rs type="inst">Verlag <rs type="pers" ana="n2_6762" ref="#fk__p_52185">Lányi</rs></rs>) für die <rs type="inst">Freiwillige Rettungsgesellschaft<lb/>
+</rs>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_38232">
+               <persName>Gryphius, Andreas</persName>
+               <birth>
+                  <date>1616-10-02</date>
+                  <place>Glogau/Schles.</place>
+               </birth>
+               <death>
+                  <date>1664-07-16</date>
+                  <place>Glogau/Schles.</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/52645</idno></person>
+            <person xml:id="fk__p_52185">
+               <persName>Lányi, Richard</persName>
+               <birth>
+                  <date>1884-12-9</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1942-5-28</date>
+                  <place>Konzentrationslager Auschwitz</place>
+               </death>
+               <occupation>Buchhändler</occupation>
+               <occupation>Verleger</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/20707</idno></person>
+            <person xml:id="fk__p_38219">
+               <persName>Gábor, Andor</persName>
+               <birth>
+                  <date>1884-1-17</date>
+                  <place>Ujnep (Somogy)</place>
+               </birth>
+               <death>
+                  <date>1953-1-21</date>
+                  <place>Budapest</place>
+               </death>
+               <occupation>Publizist</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,99 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_08921.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08920.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08922.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ebenda, 28. Januar, 7 Uhr:, in: Fackel Heft 22, Nr. 561, 1921, S. 80-80</title>
+            <title type="iso-date">1921-03-01</title>
+            <title type="id">tid_08921</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">22</title><title type="heft">561</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-22-561_n0080.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/561,080</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ebenda, 28. Januar, 7 Uhr:</head>
+            <p ana="pr118753">
+<space/>Ebenda, <date>28. Januar</date>, 7 Uhr:<lb/>
+</p>
+            <p ana="pr118754">
+<space/>I. <rs type="title"><rs type="pers">Faust</rs> II.</rs> V. Akt (ohne die letzte Szene; Begleitmusik wie<lb/>
+in Wien nach Angabe des Vorlesers: <rs type="pers" ana="n_73112" ref="#fk__p_41178"><abbr>Dr.</abbr> Heinrich Zellner</rs>).<lb/>
+</p>
+            <p ana="pr118755">
+<space/>II. <rs type="title">Brief <rs type="pers" ana="n2_6708" ref="#fk__p_52456">Rosa Luxemburgs</rs></rs> (mit Vorbemerkung) / <rs type="title">Antwort an<lb/>
+<rs type="pers" ana="n2_6709" ref="#fk__p_52456">Rosa Luxemburg</rs> von <seg type="insult">einer Unsentimentalen</seg></rs>. — <rs type="title"><seg type="insult">Militarismus</seg></rs> / <rs type="title">Schnellzug<lb/>
+</rs> / <rs type="title"><seg type="insult">Dichterschule</seg></rs> / <rs type="title"><seg type="insult">Monolog des <rs type="pers" ana="n2_6710" ref="#fk__p_38072">Alfred Kerr</rs></seg></rs> / (Zum Gedenken eines<lb/>
+wahren satirischen Geistes) <rs type="title">Der Zoologe von Berlin</rs>. Von <rs type="pers" ana="n_73113" ref="#fk__p_43433">Frank Wedekind</rs>. /<lb/>
+<rs type="title">Immer feste druff</rs> / <rs type="title">Wohnungswechsel</rs> / <rs type="title">Die Republik ist schuld</rs> / <rs type="title"><seg type="insult">Mord in<lb/>
+Ungarn</seg></rs> / <rs type="title"><seg type="insult"><rs type="pers" ana="n2_6711" ref="#fk__p_43514">Franz Joseph</rs></seg></rs>. — Schluß des »<rs type="title">Nachrufs</rs>« (mit Vorbemerkung<FOOTNOTE1/>**).<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_43514">
+               <persName>Franz Joseph I., Kaiser</persName>
+               <birth>
+                  <date>1830-8-18</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1916-11-21</date>
+                  <place>Wien</place>
+               </death>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15150</idno></person>
+            <person xml:id="fk__p_41178">
+               <persName>Zellner, Heinrich</persName>
+               <birth>
+                  <date>1869-4-7</date>
+                  <place>Ostrowo/Posen</place>
+               </birth>
+               <occupation>Pianist</occupation>
+               <occupation>Komponist</occupation>
+               <note type="comment">musikal. Begleiter von KK bei Lesungen in Berlin 31.5.1920 und 24.1.1921</note>
+               <note type="comment">Emigration nach Norwegen</note>
+               <note type="comment">Klavierbegleiter KKs</note>
+            </person>
+            <person xml:id="fk__p_52456">
+               <persName>Luxemburg, Rosa</persName>
+               <birth>
+                  <date>1871-3-5</date>
+                  <place>Zamosc, Kreis Lublin</place>
+               </birth>
+               <death>
+                  <date>1919-1-15</date>
+                  <place>Berlin</place>
+               </death>
+               <occupation>Politikerin</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/8736</idno></person>
+            <person xml:id="fk__p_43433">
+               <persName>Wedekind, Frank</persName>
+               <birth>
+                  <date>1864-7-24</date>
+                  <place>Hannover</place>
+               </birth>
+               <death>
+                  <date>1918-3-9</date>
+                  <place>München</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/13068</idno></person>
+            <person xml:id="fk__p_38072">
+               <persName>Kerr, Alfred</persName>
+               <birth>
+                  <date>1867-12-25</date>
+                  <place>Breslau</place>
+               </birth>
+               <death>
+                  <date>1948-10-12</date>
+                  <place>Hamburg</place>
+               </death>
+               <occupation>Kritiker</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11910</idno></person>
+            </listPerson></back></text>
+</TEI>

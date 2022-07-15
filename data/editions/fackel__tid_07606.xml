@@ -1,0 +1,41 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07606.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07605.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07607.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">So war’s, in: Fackel Heft 18, Nr. 445, 1234, S. 54-55</title>
+            <title type="iso-date">1234-01-01</title>
+            <title type="id">tid_07606</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">18</title><title type="heft">445</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-18-445_n0054.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/445,054</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>So war’s</head>
+            <p ana="pr102350">
+<space/><seg type="symbol" subtype="3dots"/> <rs type="pers" ana="n_66195" ref="#fk__p_41326">Graf Stürgkh</rs> hatte sich eben in eine Zeitung <seg type="spc">vertiefen</seg><lb/>
+wollen, als das Attentat geschah.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_41326">
+               <persName>Stürgkh, Karl Graf </persName>
+               <birth>
+                  <date>1859-10-30</date>
+                  <place>Graz</place>
+               </birth>
+               <death>
+                  <date>1916-10-21</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <note type="comment">1909-11 Unterr.min., 1911-16 Ministerpräsident</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

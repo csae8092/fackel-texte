@@ -1,0 +1,95 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_10736.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10735.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10737.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Kleiner Konzerthaussaal, 1. November:, in: Fackel Heft 28, Nr. 743, 1926, S. 77-77</title>
+            <title type="iso-date">1926-12-01</title>
+            <title type="id">tid_10736</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">28</title><title type="heft">743</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-28-743_n0077.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/743,077</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Kleiner Konzerthaussaal, 1. November:</head>
+            <p ana="pr149450">
+<space/><rs type="inst">Kleiner Konzerthaussaal</rs>, <date>1. November</date>:<lb/>
+</p>
+            <p ana="pr149451">
+<space/><rs type="title">Theater der Dichtung</rs><ADD>.</ADD><lb/>
+</p>
+            <p ana="pr149452">
+<space/>Zum 1. Male: <rs type="title"><rs type="pers"><seg type="spc">Coriolanus</seg></rs></rs>, Tragödie in 5 Akten von<lb/>
+<rs type="pers" ana="n_89691" ref="#fk__p_55589"><seg type="spc">Shakespeare</seg></rs>, nach der Übersetzung von <rs type="pers" ana="n_89692" ref="#fk__p_40642">Dorothea Tieck</rs> bearbeitet<lb/>
+vom Vortragenden.<lb/>
+</p>
+            <p ana="pr149453">
+<space/>Nach dem dritten Akt eine längere, sonst kürzere Pausen.<lb/>
+</p>
+            <p ana="pr149454">
+<space/><rs type="pers" ana="n_89693" ref="#fk__p_49349"><seg type="spc">Beethoven</seg></rs>: <seg type="spc"><rs type="title">Ouvertüre zu <rs type="pers">Coriolanus</rs></rs> — <rs type="pers" ana="n_89694" ref="#fk__p_42327">Eduard<lb/>
+Steuermann</rs></seg>.<lb/>
+</p>
+            <p ana="pr149455">
+<space/>(Eine Vorlesung von Szenen aus dem 2. und dem 3. Akt hat<lb/>
+am <date>9. Juni 1914</date> stattgefunden.)<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_40642">
+               <persName>Tieck, Dorothea</persName>
+               <birth>
+                  <date>1799-3</date>
+                  <place>Berlin</place>
+               </birth>
+               <death>
+                  <date>1841-2-21</date>
+                  <place>Dresden</place>
+               </death>
+               <occupation>Übersetzerin</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/53277</idno></person>
+            <person xml:id="fk__p_55589">
+               <persName>Shakespeare, William</persName>
+               <birth>
+                  <date>1564-4-23?</date>
+                  <place>Stratford-upon-Avon</place>
+               </birth>
+               <death>
+                  <date>1616-4-23</date>
+                  <place>Stratford-upon-Avon</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2412</idno></person>
+            <person xml:id="fk__p_42327">
+               <persName>Steuermann, Eduard</persName>
+               <birth>
+                  <date>1892-6-18</date>
+                  <place>Sambor, Galizien</place>
+               </birth>
+               <death>
+                  <date>1964-11-11</date>
+                  <place>New York</place>
+               </death>
+               <occupation>Pianist</occupation>
+               <occupation>Komponist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/25516</idno></person>
+            <person xml:id="fk__p_49349">
+               <persName>Beethoven, Ludwig van</persName>
+               <birth>
+                  <date>1770-12-17</date>
+                  <place>Bonn</place>
+               </birth>
+               <death>
+                  <date>1827-3-26</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Komponist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10866</idno></person>
+            </listPerson></back></text>
+</TEI>

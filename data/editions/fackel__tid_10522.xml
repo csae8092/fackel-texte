@@ -1,0 +1,125 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_10522.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10521.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10523.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Festsaal des Architektenvereines, 9. April:, in: Fackel Heft 28, Nr. 726, 1926, S. 67-68</title>
+            <title type="iso-date">1926-06-01</title>
+            <title type="id">tid_10522</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">28</title><title type="heft">726</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-28-726_n0067.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/726,067</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Festsaal des Architektenvereines, 9. April:</head>
+            <p ana="pr146166">
+<space/><rs type="inst">Festsaal des Architektenvereines</rs>, <date>9. April</date>:<lb/>
+</p>
+            <p ana="pr146167">
+<space/>Anläßlich der <rs type="event">Feier des 150jährigen Bestandes des <rs type="inst">Burgtheaters</rs></rs>.<lb/>
+</p>
+            <p ana="pr146168">
+<space/>Zum ersten Male:<lb/>
+</p>
+            <p ana="pr146169">
+<space/><rs type="pers" ana="n_88243" ref="#fk__p_55589"><seg type="spc">Shakespeare</seg></rs>: <rs type="title"><rs type="pers"><seg type="spc">Macbeth</seg></rs></rs>.<lb/>
+</p>
+            <p ana="pr146170">
+<space/>Nach <rs type="pers" ana="n_88244" ref="#fk__p_38587">Schlegel</rs> und <rs type="pers" ana="n_88245" ref="#fk__p_40642">Dorothea Tieck</rs> übersetzt von <rs type="pers" ana="n_88246" ref="#fk__p_54337">Tycho<lb/>
+Mommsen</rs>, mit einigen textlichen Veränderungen bearbeitet vom<lb/>
+Vortragenden. Die erste und die zweite Hexenszene neu geschrieben.<lb/>
+</p>
+            <p ana="pr146171">
+<space/>Begleitung: <rs type="pers" ana="n_88247" ref="#fk__p_54913">Victor Junk</rs>.<lb/>
+</p>
+            <p ana="pr146172">
+<space/>Auf dem Programm:<lb/>
+</p>
+            <p ana="pr146174">
+<rs type="pers" ana="n_88248" ref="#fk__p_39911">Charlotte Wolter</rs><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_40642">
+               <persName>Tieck, Dorothea</persName>
+               <birth>
+                  <date>1799-3</date>
+                  <place>Berlin</place>
+               </birth>
+               <death>
+                  <date>1841-2-21</date>
+                  <place>Dresden</place>
+               </death>
+               <occupation>Übersetzerin</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/53277</idno></person>
+            <person xml:id="fk__p_55589">
+               <persName>Shakespeare, William</persName>
+               <birth>
+                  <date>1564-4-23?</date>
+                  <place>Stratford-upon-Avon</place>
+               </birth>
+               <death>
+                  <date>1616-4-23</date>
+                  <place>Stratford-upon-Avon</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2412</idno></person>
+            <person xml:id="fk__p_54913">
+               <persName>Junk, Viktor</persName>
+               <birth>
+                  <date>1875-4-18</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1948-4-5</date>
+                  <place>Frohnleiten/Steiermark</place>
+               </death>
+               <occupation>Germanist</occupation>
+               <occupation>Musikwissenschaftler</occupation>
+            </person>
+            <person xml:id="fk__p_54337">
+               <persName>Mommsen, Tycho</persName>
+               <birth>
+                  <date>1819-05-23</date>
+                  <place>Garding/Schleswig</place>
+               </birth>
+               <death>
+                  <date>1900-11-30</date>
+                  <place>Frankfurt</place>
+               </death>
+               <occupation>Altphilologe</occupation>
+            </person>
+            <person xml:id="fk__p_38587">
+               <persName>Schlegel, August Wilhelm von</persName>
+               <birth>
+                  <date>1767-9-5</date>
+                  <place>Hannover</place>
+               </birth>
+               <death>
+                  <date>1845-5-12</date>
+                  <place>Bonn</place>
+               </death>
+               <occupation>Literarhistoriker</occupation>
+               <occupation>Übersetzer</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/24212</idno></person>
+            <person xml:id="fk__p_39911">
+               <persName>Wolter, Charlotte</persName>
+               <birth>
+                  <date>1834-3-1</date>
+                  <place>Köln</place>
+               </birth>
+               <death>
+                  <date>1897-6-14</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schauspielerin</occupation>
+               <note type="comment">ab 1863 (Debut 1862) am Burgth.</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/13166</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_12169.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_12168.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_12170.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tragisch, in: Fackel Heft 34, Nr. 876, 1932, S. 111-111</title>
+            <title type="iso-date">1932-10-01</title>
+            <title type="id">tid_12169</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">34</title><title type="heft">876</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-34-876_n0111.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/876,111</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Tragisch</head>
+            <p ana="pr177160">
+an dem Wunder des technischen Fortschritts ist nicht der<lb/>
+Umstand, daß es zu spät eintrat; daß Stimme und Schritt<lb/>
+der <rs type="pers" ana="n_105601" ref="#fk__p_39911">Wolter</rs> auf keiner Schallplatte, keiner Leinwand überliefert,<lb/>
+daß <rs type="pers" ana="n_105602" ref="#fk__p_43852">Mitterwurzer</rs> in keinem Tonfilm zu hören und zu schauen<lb/>
+ist. Sondern: daß es noch nach tausend Jahren möglich sein<lb/>
+wird, der Menschheit eine deutliche Vorstellung zu vermitteln,<lb/>
+wie <rs type="pers" ana="n_105603" ref="#fk__p_54845">Verebes</rs> gewesen.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_43852">
+               <persName>Mitterwurzer, Friedrich</persName>
+               <birth>
+                  <date>1844-10-16</date>
+                  <place>Dresden</place>
+               </birth>
+               <death>
+                  <date>1897-2-13</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <occupation>Regisseur</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12265</idno></person>
+            <person xml:id="fk__p_54845">
+               <persName>Verebes, Ernö</persName>
+               <birth>
+                  <date>1902-12-6</date>
+                  <place>New York</place>
+               </birth>
+               <death>
+                  <date>1971-6-13</date>
+                  <place>Woodland Hills, Kalif.</place>
+               </death>
+               <occupation>Filmschauspieler</occupation>
+            </person>
+            <person xml:id="fk__p_39911">
+               <persName>Wolter, Charlotte</persName>
+               <birth>
+                  <date>1834-3-1</date>
+                  <place>Köln</place>
+               </birth>
+               <death>
+                  <date>1897-6-14</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schauspielerin</occupation>
+               <note type="comment">ab 1863 (Debut 1862) am Burgth.</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/13166</idno></person>
+            </listPerson></back></text>
+</TEI>

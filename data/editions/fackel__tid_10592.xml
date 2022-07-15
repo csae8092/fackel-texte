@@ -1,0 +1,41 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_10592.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10591.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10593.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Derselbe, in: Fackel Heft 28, Nr. 735, 1926, S. 49-50</title>
+            <title type="iso-date">1926-10-01</title>
+            <title type="id">tid_10592</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">28</title><title type="heft">735</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-28-735_n0049.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/735,049</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Derselbe</head>
+            <p ana="pr147288">
+<space/>Der vielbewunderte <rs type="pers" ana="n_88769" ref="#fk__p_46454">Kant</rs> hat, weil er gar nichts über das<lb/>
+Wesen des Schönen zu sagen wußte, <seg type="insult">einen unerhört banalen Quatsch</seg><lb/>
+darüber gemeckert.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46454">
+               <persName>Kant, Immanuel</persName>
+               <birth>
+                  <date>1724-4-22</date>
+                  <place>Königsberg</place>
+               </birth>
+               <death>
+                  <date>1804-2-12</date>
+                  <place>Königsberg</place>
+               </death>
+               <occupation>Philosoph</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11871</idno></person>
+            </listPerson></back></text>
+</TEI>

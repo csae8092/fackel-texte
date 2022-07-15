@@ -1,0 +1,43 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06358.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06357.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06359.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Gastspiel mit unterlegtem Kontrakt, in: Fackel Heft 15, Nr. 378, 1913, S. 22-22</title>
+            <title type="iso-date">1913-07-01</title>
+            <title type="id">tid_06358</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">15</title><title type="heft">378</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-15-378_n0022.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/378,022</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Gastspiel mit unterlegtem Kontrakt</head>
+            <p ana="pr85713">
+<space/>»Letzten Samstag hielt <rs type="pers" ana="n_59115" ref="#fk__p_41423"><abbr>Dr.</abbr> <abbr>L.</abbr> Lazarus</rs>, Rabbiner aus Göding,<lb/>
+auf Einladung des Vorstandes der <rs type="inst">israelitischen Kultusgemeinde</rs> im<lb/>
+<rs type="inst">Leopoldstädter Tempel</rs> eine Gastpredigt, <seg type="spc">die von dem zahlreichen<lb/>
+Publikum mit lebhaftem Beifall aufgenommen wurde</seg>.«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_41423">
+               <persName>Lazarus, Leiser</persName>
+               <birth>
+                  <date>1822-4-8</date>
+                  <place>Wielen/Provinz Posen</place>
+               </birth>
+               <death>
+                  <date>1879-4-16</date>
+                  <place>Breslau</place>
+               </death>
+               <occupation>Rabbiner</occupation>
+               <note type="comment">Göding</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

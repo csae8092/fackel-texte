@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_09562.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09561.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09563.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Die Diesbezüglichen, in: Fackel Heft 25, Nr. 632, 1923, S. 37-37</title>
+            <title type="iso-date">1923-10-01</title>
+            <title type="id">tid_09562</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">25</title><title type="heft">632</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-25-632_n0037.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/632,037</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Die Diesbezüglichen</head>
+            <p ana="pr128022">
+<space/>Die <rs type="" ana="werk_40738">Polizeikorrespondenz</rs> meldet:<lb/>
+</p>
+            <p ana="pr128023">
+<space/>Die <seg type="insult"><seg type="spc">Erhebungen</seg></seg> des <rs type="inst">Wiener Sicherheitsbureaus</rs> sind<lb/>
+unter der Leitung des Hofrates <rs type="pers" ana="n_78692" ref="#fk__p_55173">Wahl</rs> und des Polizeikommissärs<lb/>
+<rs type="pers" ana="n_78693" ref="#fk__p_49886">Maurer</rs> nunmehr so weit <seg type="spc">vorgeschritten</seg>, daß gestern abend<lb/>
+die <rs type="inst">Wiener Staatsanwaltschaft</rs> von dem bisherigen Ergebnis <seg type="spc">in<lb/>
+Kenntnis gesetzt</seg> und auch <seg type="spc">bezüglich</seg> eines Teiles der<lb/>
+angehaltenen jugendlichen Personen, die <seg type="spc">bezüglich</seg> des Mordes<lb/>
+des <rs type="pers" ana="n_78694" ref="#fk__p_50723">Nowosat</rs> im Verdachte stehen, von der Verübung des Verbrechens,<lb/>
+<seg type="spc">beziehungsweise</seg> von der Mordabsicht des <rs type="pers" ana="n_78695" ref="#fk__p_50723">Nowosat</rs> genaue<lb/>
+<seg type="spc">Kenntnis</seg> gehabt zu haben, um die Verhängung der ordentlichen<lb/>
+Untersuchungshaft angesucht wurde. Gleichzeitig wurde die <rs type="inst"><abbr>St.</abbr> Pöltener<lb/>
+Staatsanwaltschaft</rs>, in deren Wirkungskreis <seg type="spc">der Tatort fällt</seg>, von<lb/>
+dem Stande der Untersuchung <seg type="spc">in Kenntnis gesetzt</seg>. Die<lb/>
+<seg type="insult"><seg type="spc">Erhebungen</seg></seg> dürften in der kürzesten Zeit ihrem Ende<lb/>
+<seg type="spc">entgegengehen</seg>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_50723">
+               <persName>Nowosat, Rudolf</persName>
+               <birth>
+                  <date>1904?</date>
+               </birth>
+               <occupation>Mörder</occupation>
+               <note type="comment">ermordete Ende Juni 1923 im Haspelwald bei Neulengbach Konrad Karger, seinen Freund</note>
+               <note type="comment">Nowosat gehörte der gleichen nationalsozialist. Strumtruppenabteilung an wie Karger</note>
+            </person>
+            <person xml:id="fk__p_55173">
+               <persName>Wahl, Alexander</persName>
+               <birth>
+                  <date>1872-12-9</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1934-11-1</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Polizeibeamter</occupation>
+               <note type="comment">3., Ungargasse 63</note>
+               <note type="comment">Hofrat der Polizeidirektion</note>
+            </person>
+            <person xml:id="fk__p_49886">
+               <persName>Maurer, Ernst</persName>
+               <birth>
+                  <date>1887-4-23</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1940-4-11</date>
+                  <place>Klosterneuburg</place>
+               </death>
+               <occupation>Polizeibeamter</occupation>
+               <note type="comment">7., Westbahnstr. 18</note>
+               <note type="comment">Kommissär</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

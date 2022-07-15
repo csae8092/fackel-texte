@@ -1,0 +1,40 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_11546.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11545.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11547.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Druckfehler), in: Fackel Heft 32, Nr. 838, 1930, S. 132-132</title>
+            <title type="iso-date">1930-09-01</title>
+            <title type="id">tid_11546</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">32</title><title type="heft">838</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-32-838_n0132.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/838,132</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Druckfehler)</head>
+            <p ana="pr167671">
+<space/><FCORR id="fcorr_202" ferrID="ferr_202" href="FK-30-800_n0058.xml">In <rs type="selfRef" ana="werk_30340"><abbr>Nr.</abbr> 800—805</rs>, <abbr>S.</abbr> 58, <abbr>Z.</abbr> 13 statt »Brunschov«: <rs type="pers" ana="n_100334" ref="#fk__p_39564"><seg type="i"><EM id="em_202" ferrID="ferr_202" href="FK-30-800_n0058.xml">Brunswik</EM></seg></rs>.</FCORR><lb/>
+</p>
+            <p ana="pr167672">
+<space/><FCORR href="FK-32-834_n0012.xml" ferrID="fk_04_ferr_30011068" id="fk_04_fcorr_30011068">In <rs type="selfRef" ana="werk_30341"><abbr>Nr.</abbr> 834—837</rs>, <abbr>S.</abbr> 12, <abbr>Z.</abbr> 7 fehlt <EM href="FK-32-834_n0012.xml" ferrID="fk_04_ferr_30011068" id="fk_04_em_30011071">nach »raten«</EM></FCORR> <FCORR href="FK-32-834_n0014.xml" ferrID="fk_04_ferr_30011073" id="fk_04_fcorr_30011073">und <abbr>S.</abbr> 14, <abbr>Z.</abbr> 4<lb/>
+nach <EM href="FK-32-834_n0014.xml" ferrID="fk_04_ferr_30011073" id="fk_04_em_30011076">»bücken« das Komma</EM>;</FCORR> <FCORR href="FK-32-834_n0028.xml" ferrID="fk_04_ferr_30011079" id="fk_04_fcorr_30011079"><abbr>S.</abbr> 28 <abbr>u.</abbr> 29 zu Hamburg und Prag<lb/>
+<EM href="FK-32-834_n0028.xml" ferrID="fk_04_ferr_30011079" id="fk_04_em_30011081">»<rs type="title">Der Revisor</rs>« die Bemerkung: <seg type="i">Aus den Berliner Vorworten <date>21. <abbr>Nov.</abbr></date><lb/>
+<abbr>u.</abbr> <date>4. <abbr>Dez.</abbr></date></seg></EM>;</FCORR> <FCORR href="FK-32-834_n0030.xml" ferrID="fk_04_ferr_30011084" id="fk_04_fcorr_30011084"><abbr>S.</abbr> 30, <abbr>Z.</abbr> 2 <abbr>v. u.</abbr> statt »<rs type="pers"><SPAN norm="Cornarini">Cornarino</SPAN></rs>«: <EM href="FK-32-834_n0030.xml" ferrID="fk_04_ferr_30011084" id="fk_04_em_30011087"><rs type="pers"><seg type="i">Cornarini</seg></rs></EM>;</FCORR> <FCORR href="FK-32-834_n0037.xml" ferrID="fk_04_ferr_30011089" id="fk_04_fcorr_30011089"><abbr>S.</abbr> 37,<lb/>
+<abbr>Z.</abbr> 4 statt »Chinesische«: <EM href="FK-32-834_n0037.xml" ferrID="fk_04_ferr_30011089" id="fk_04_em_30011092"><seg type="i">Die</seg> Chinesische</EM>.</FCORR><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_39564">
+               <persName>Brunswik, Léon</persName>
+               <occupation>Philosoph</occupation>
+               <note type="comment">Membre de l'Academie des Sciences morales et politiques</note>
+               <note type="comment">Faculté des Lettres de l'Université de Paris 1925</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

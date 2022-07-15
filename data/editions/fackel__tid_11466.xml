@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_11466.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11465.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11467.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Personalien, in: Fackel Heft 32, Nr. 838, 1930, S. 82-82</title>
+            <title type="iso-date">1930-09-01</title>
+            <title type="id">tid_11466</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">32</title><title type="heft">838</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-32-838_n0082.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/838,082</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Personalien</head>
+            <p ana="pr166713">
+<space/><rs type="pers" ana="n_99964" ref="#fk__p_42624">Jannings</rs> geriet bei seiner Ankunft in Wien unter die Füße<lb/>
+von <seg type="insult">Verehrern</seg> und kam mit einer leichten Körperverletzung davon.<lb/>
+</p>
+            <p ana="pr166714">
+<space/><rs type="pers" ana="n_99965" ref="#fk__p_37996">Moissi</rs>, dessen Stern man schon im Sinken geglaubt hat,<lb/>
+geriet bald darauf in ein Handgemenge, wobei ihm von <seg type="insult">Mänaden</seg><lb/>
+der Überzieher zerrissen wurde.<lb/>
+</p>
+            <p ana="pr166715">
+<space/>Theaterhistoriker wissen sich nicht zu erinnern, daß dergleichen<lb/>
+ jemals den Herren <rs type="pers" ana="n_99966" ref="#fk__p_38572">Iffland</rs>, <rs type="pers" ana="n_99967" ref="#fk__p_45693">Anschütz</rs> und <rs type="pers" ana="n_99968" ref="#fk__p_43852">Mitterwurzer</rs><lb/>
+zugestoßen wäre.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_42624">
+               <persName>Jannings, Emil</persName>
+               <birth>
+                  <date>1884-7-23</date>
+                  <place>Rorschach am Bodensee</place>
+               </birth>
+               <death>
+                  <date>1950-1-2</date>
+                  <place>Strobl am Wolfgangsee</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11816</idno></person>
+            <person xml:id="fk__p_38572">
+               <persName>Iffland, August Wilhelm</persName>
+               <birth>
+                  <date>1759-4-19</date>
+                  <place>Hannover</place>
+               </birth>
+               <death>
+                  <date>1814-9-22</date>
+                  <place>Berlin</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Theaterleiter</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/7966</idno></person>
+            <person xml:id="fk__p_45693">
+               <persName>Anschütz, Heinrich Eduard</persName>
+               <birth>
+                  <date>1785-02-08</date>
+                  <place>Luckau/Nieder-Lausitz</place>
+               </birth>
+               <death>
+                  <date>1865-12-29</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+            </person>
+            <person xml:id="fk__p_37996">
+               <persName>Moissi, Alexander</persName>
+               <birth>
+                  <date>1879-4-2</date>
+                  <place>Triest</place>
+               </birth>
+               <death>
+                  <date>1935-3-22</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <note type="comment">Mutter Amélie M., geb. Radio von Radiis, gest. Mödling 13.02.1929, im 87. Lj.</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12274</idno></person>
+            <person xml:id="fk__p_43852">
+               <persName>Mitterwurzer, Friedrich</persName>
+               <birth>
+                  <date>1844-10-16</date>
+                  <place>Dresden</place>
+               </birth>
+               <death>
+                  <date>1897-2-13</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <occupation>Regisseur</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12265</idno></person>
+            </listPerson></back></text>
+</TEI>

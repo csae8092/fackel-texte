@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_11885.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11884.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11886.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Paul Goldmann, in: Fackel Heft 33, Nr. 857, 1931, S. 93-93</title>
+            <title type="iso-date">1931-08-01</title>
+            <title type="id">tid_11885</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">33</title><title type="heft">857</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-33-857_n0093.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/857,093</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Paul Goldmann</head>
+            <p ana="pr172213">
+nimmt Notiz, indem er bei Gelegenheit der »<rs type="title">Schönen <rs type="pers">Helena</rs></rs>«<lb/>
+Musik von <rs type="pers" ana="n_102878" ref="#fk__p_42772">Korngold</rs>, Text von <rs type="pers" ana="n_102879" ref="#fk__p_42358">Friedell</rs> und <rs type="pers" ana="n_102880" ref="#fk__p_45508">Saßmann</rs> feststellt,<lb/>
+</p>
+            <p ana="pr172215">
+daß die Bearbeiter, <seg type="spc">im Gegensatz</seg> zu <seg type="spc">Bearbeitern anderer<lb/>
+Operetten</seg>, die in letzter Zeit auf Berliner Bühnen neu inszeniert<lb/>
+worden sind, doch ihre Aufgabe sehr gut gelöst haben.<lb/>
+</p>
+            <p ana="pr172217">
+Gleichwohl scheint ja ein <seg type="insult">epochaler Mumpitz</seg> herausgekommen<lb/>
+zu sein.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_42772">
+               <persName>Korngold, Erich Wolfgang</persName>
+               <birth>
+                  <date>1897-5-29</date>
+                  <place>Brünn</place>
+               </birth>
+               <death>
+                  <date>1957-11-29</date>
+                  <place>Hollywood</place>
+               </death>
+               <occupation>Komponist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11969</idno></person>
+            <person xml:id="fk__p_42358">
+               <persName>Friedell, Egon</persName>
+               <birth>
+                  <date>1878-01-21</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1938-03-16</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Kulturhistoriker</occupation>
+               <occupation>Kabarettist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2771</idno></person>
+            <person xml:id="fk__p_45508">
+               <persName>Saßmann, Hanns</persName>
+               <birth>
+                  <date>1882-12-17</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1944-5-8</date>
+                  <place>Langkampfen, Tirol</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

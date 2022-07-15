@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02347.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02346.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02348.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Die höheren Abgaben der Actiengesellschaften, in: Fackel Heft 04, Nr. 100, 1902, S. 6-7</title>
+            <title type="iso-date">1902-04-18</title>
+            <title type="id">tid_02347</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">04</title><title type="heft">100</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-04-100_n0006.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/100,006</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Die höheren Abgaben der Actiengesellschaften</head>
+            <p ana="pr22875">
+<space/><seg type="insult"><inciptit>Herr</inciptit> <rs type="pers" ana="n_19843" ref="#fk__p_45214"><abbr>v.</abbr> Mauthner</rs></seg> hat neulich wieder recht beweglich<lb/>
+ über die Höhe der von Actiengesellschaften<lb/>
+zu entrichtenden Steuern geklagt, und er hält es für<lb/>
+höchst ungerecht, dass die <rs type="inst"><rs type="pers" ana="n2_1516" ref="#fk__p_58964">Skoda-Werke</rs></rs>, seitdem sie<lb/>
+in eine Actiengesellschaft umgewandelt wurden, weit<lb/>
+mehr Steuern als vordem, da sie einem Privatmann<lb/>
+gehörten, zahlen müssen. Natürlich gilt <seg type="insult">allen liberalen<lb/>
+Blättern</seg>, was für <seg type="insult">Herrn <rs type="pers" ana="n_19844" ref="#fk__p_45214">Mauthner</rs></seg> unrecht ist, als unbillig<lb/>
+, und natürlich finden sie es absurd, dass der<lb/>
+Staat zwischen Privatfirmen und Actiengesellschaften<lb/>
+einen Unterschied macht, den sie selbst — gleichfalls<lb/>
+machen. Eine Actiengesellschaft hat — man sehe<lb/>
+im Inseratentarif der ‚<rs type="paper" ana="werk_7630">Neuen Freien Presse</rs>‘ (<rs type="inst"><rs type="pers" ana="n2_1517" ref="#fk__p_52596">Mosse’s</rs></rs><lb/>
+Katalog) nach — höhere Inseratengebühren zu zahlen<lb/>
+als eine Privatfirma. Und nun könnte man fragen:<lb/>
+Ist die Forderung grösserer Abgaben nur, wenn sie<lb/>
+der Staat an die Actiengesellschaften stellt, ein Missbrauch<lb/>
+ oder auch, wenn sie von den Zeitungen erhoben<lb/>
+ wird, — <seg type="insult">Corruption</seg>? Die Antwort ist nicht<lb/>
+schwer: Die <seg type="insult">Zeitungsmacht</seg> ist grösser als die Staatsmacht<lb/>
+, und darum haben die Zeitungen auch grössere<lb/>
+Rechte als der Staat. <rs type="pers" ana="n_19845" ref="#fk__p_59604"><AUCTOR notation="symbol"><seg type="symbol" subtype="+"/></AUCTOR></rs><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_52596">
+               <persName>Mosse, Rudolf</persName>
+               <birth>
+                  <date>1843-5-8</date>
+                  <place>Graetz/Posen</place>
+               </birth>
+               <death>
+                  <date>1920-9-8</date>
+                  <place>Schenkendorf bei Berlin</place>
+               </death>
+               <occupation>Zeitungsverleger</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/39183</idno></person>
+            <person xml:id="fk__p_45214">
+               <persName>Mauthner, Gustav Ritter von</persName>
+               <birth>
+                  <date>1848-4-16</date>
+                  <place>Hořitz bei Königgrätz</place>
+               </birth>
+               <death>
+                  <date>1902-5-19</date>
+                  <place>Bad Vöslau</place>
+               </death>
+               <occupation>Bankdirektor</occupation>
+               <occupation>Industrieller</occupation>
+               <note type="comment">verh. (1879) mit Helene Weiß von Weißenhall (geb. Wien 27.11.1855), Tochter Carl Ritter v. W.-W.</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17994</idno></person>
+            <person xml:id="fk__p_58964">
+               <persName>Škoda (Waffen- und Maschinenfabrik)</persName>
+               <note type="comment">Gründung durch Emil von Skoda (Pilsen 18.11.1839 bis Selztal/Amstetten 8.8.1900)</note>
+            </person>
+            <person xml:id="fk__p_59604">
+               <persName>mm</persName>
+               <note type="comment"/>
+            </person>
+            </listPerson></back></text>
+</TEI>

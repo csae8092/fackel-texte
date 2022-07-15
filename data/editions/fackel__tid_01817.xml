@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01817.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01816.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01818.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Leser., in: Fackel Heft 03, Nr. 076, 1901, S. 24-24</title>
+            <title type="iso-date">1901-05-01</title>
+            <title type="id">tid_01817</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">03</title><title type="heft">076</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-03-076_n0024.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/076,024</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Leser.</head>
+            <p ana="pr17888">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_15075" ref="#fk__p_48877">Leser</rs>.</seg></seg> Es war offenbar der <seg type="insult"><rs type="paperRef" ana="werk_40563"><rs type="inst">Börsenwöchner</rs></rs></seg>, der neulich im<lb/>
+Leitartikel der ‚<rs type="paper" ana="werk_5741">Neuen Freien Presse</rs>‘ den Satz niederschrieb: »Schon<lb/>
+als dem <rs type="pers" ana="n_15076" ref="#fk__p_51762">Prinzen Schwarzenberg</rs> landwirtschaftliche Bedenken gegen<lb/>
+das ungelegte Ei der Canäle aufstiegen, war Grund für ihn vorhanden<lb/>
+<abbr>u. s. w.</abbr>« Nun theilen Sie mir ergänzend mit, dass gegenwärtig im<lb/>
+Repertoire der <rs type="inst">Budapester Orpheumgesellschaft</rs> der Vers vorkommt:<lb/>
+»Die Hebamme heißt <rs type="pers">Madame Meier</rs> — und der Dienstmann legt<lb/>
+keine Eier.« Und da wir schon bei diesem Thema sind, verdient auch<lb/>
+der Satz Erwähnung, der am <date>1. Mai</date> in der ‚<rs type="paper" ana="werk_5742">Neuen Freien Presse</rs>‘<lb/>
+zu lesen war: »Man hat Beispiele von <seg type="spc">Beamten</seg> und Frauen aus gesunden<lb/>
+Gegenden, welche, in cretinöse versetzt, <seg type="spc">Kinder gebären</seg>, die<lb/>
+Cretins wurden.« Da hat man’s nun: Unsere Frauen, sie gebären, unsere<lb/>
+Beamten thun es auch. Aber der <seg type="insult">Cretinismus</seg> der Nachkommenschaft<lb/>
+hängt hier nicht immer mit der Gegend zusammen.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_48877">
+               <persName>Leser</persName>
+            </person>
+            <person xml:id="fk__p_51762">
+               <persName>Schwarzenberg, Ferdinand? Fürst zu</persName>
+               <birth>
+                  <date>1652-5-23</date>
+                  <place>Brüssel</place>
+               </birth>
+               <death>
+                  <date>1703-10-22</date>
+                  <place>Wien</place>
+               </death>
+               <note type="comment">"Pestkönig", gehörte der Kommission zur Bekämpfung der Epidemie an</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06741.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06740.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06742.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ein anderer Hirschfeld hat gelebt, in: Fackel Heft 16, Nr. 398, 1914, S. 17-18</title>
+            <title type="iso-date">1914-04-01</title>
+            <title type="id">tid_06741</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">16</title><title type="heft">398</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-16-398_n0017.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/398,017</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ein anderer Hirschfeld hat gelebt</head>
+            <p ana="pr90852">
+außer diesem. Der hier darf sich mit <seg type="insult">seiner sieghaftigen Kommisfröhlichkeit<lb/>
+</seg> auf einem <rs type="perRef" ana="werk_20168">Zeitungsblatt</rs> ausleben, auf dessen Rückseite<lb/>
+die Nachricht vom Tode des andern <rs type="pers" ana="n_61874" ref="#fk__p_49300">Hirschfeld</rs> steht, jenes <rs type="pers" ana="n_61875" ref="#fk__p_52345">Robert<lb/>
+Hirschfeld</rs>, dessen Herz nicht tragfähig war für die <seg type="insult">Schmach</seg>, die<lb/>
+es in <seg type="insult">dieser unfaßbaren Stadt</seg> dem Geist angetan fühlte. Als er zu<lb/>
+<rs type="pers" ana="n_61876" ref="#fk__p_55699">Mozart</rs> wollte, war es schon zu spät. Er starb auf der Flucht aus Wien;<lb/>
+herzkrank wird, wer nicht starren Auges auf <seg type="insult">dieser Versuchsstation<lb/>
+des Weltirrsinns</seg> ausharren kann. Er war ein guter geistiger Mann,<lb/>
+der die <seg type="insult">Schwindler</seg> mehr haßte, als er sagen konnte. Eine <seg type="insult">Jugend</seg>,<lb/>
+die sich absurd gebärdet, um zuletzt doch noch ein Schwein zu<lb/>
+geben, konnte er nicht ausstehen. Für den <RS pers="Arthur Schnitzler"><rs type="title" ana="name_202747" ref="#fk__p_38500">Professor <rs type="pers">Bernhardi</rs></rs></RS><lb/>
+hatte er kein <seg type="insult">Gemüt</seg>. Die <rs type="inst">Concordia</rs> rief ihm die Schmähung<lb/>
+nach, er habe ihr zur <seg type="insult">Zierde</seg> gereicht. Die Redaktion, der er<lb/>
+angehört, nicht gehört hatte, schickte ihm seinen Todfeind ans<lb/>
+Grab. Seine Nachrufe wären günstiger ausgefallen, wenn er bei<lb/>
+Lebzeiten nicht so häufig mit mir gesehen worden wäre. Denn<lb/>
+er hat, wenn er <seg type="insult">Intriganten</seg> nach dem Erfolg langen sah, der<lb/>
+<seg type="insult">Analphabeten</seg> mühelos zufällt, oft die Faust im Sack geballt; aber<lb/>
+die andere Hand hat er mir offen gereicht, und das will ich ihm<lb/>
+gedenken.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_52345">
+               <persName>Hirschfeld, Robert</persName>
+               <birth>
+                  <date>1857-9-17</date>
+                  <place>Großmeseritsch, Mähren</place>
+               </birth>
+               <death>
+                  <date>1914-4-2</date>
+                  <place>Salzburg</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Kritiker</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11707</idno></person>
+            <person xml:id="fk__p_49300">
+               <persName>Hirschfeld, Ludwig</persName>
+               <birth>
+                  <date>1882-5-21</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1945-5-8</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Exzellenz Pompadour (387/7)</note>
+               <note type="comment">Red. der NFP</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11704</idno></person>
+            <person xml:id="fk__p_55699">
+               <persName>Mozart, Wolfgang Amadeus</persName>
+               <birth>
+                  <date>1756-1-27</date>
+                  <place>Salzburg</place>
+               </birth>
+               <death>
+                  <date>1791-12-5</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Komponist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12303</idno></person>
+            <person xml:id="fk__p_38500">
+               <persName>Schnitzler, Arthur</persName>
+               <birth>
+                  <date>1862-5-15</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1931-10-21</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Arzt</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2121</idno></person>
+            </listPerson></back></text>
+</TEI>

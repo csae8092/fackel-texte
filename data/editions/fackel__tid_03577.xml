@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03577.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03576.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03578.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Habitué. (Die Rückkehr zu den Klassikern), in: Fackel Heft 06, Nr. 160, 1904, S. 21-22</title>
+            <title type="iso-date">1904-04-23</title>
+            <title type="id">tid_03577</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">06</title><title type="heft">160</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-06-160_n0021.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/160,021</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Habitué. (Die Rückkehr zu den Klassikern)</head>
+            <p ana="pr35563">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="name_201275" ref="#fk__p_45322">Habitué</rs>.</seg></seg> <seg type="insult">Herr <rs type="pers" ana="n_30590" ref="#fk__p_46357">Hugo Wittmann</rs></seg>, der, ach, nach <rs type="pers" ana="n_30591" ref="#fk__p_49331"><choice><sic>Speidl</sic><corr>Speidel</corr></choice></rs> über<lb/>
+das <rs type="inst">Burgtheater</rs> richtet, schreibt: »Die gestrige <RS pers="Johann Wolfgang von Goethe"><SPAN cont="Faust-Vorstellung"><rs type="title" ana="name_201612" ref="#fk__p_46960"><rs type="pers">‚Faust‘-Vorstellung</rs></rs></SPAN></RS> hat<lb/>
+vor einem übervollen Hause stattgefunden. Sie hatte durchaus keinen<lb/>
+festlichen Charakter, war eben einer von den üblichen klassischen<lb/>
+Abenden des <rs type="inst">Burgtheaters</rs>, vom laufenden Spielplan herbeigebracht, war<lb/>
+leider auch nichts weniger als eine Mustervorstellung, und doch schien<lb/>
+es, als erhöhte sich die Stimmung im Hause von Szene zu Szene, von<lb/>
+Akt zu Akt in sonntäglicher Weise, und neben dem Schauspiel auf der<lb/>
+Bühne konnte man dieses andere herzwärmende Schauspiel genießen,<lb/>
+wie <seg type="spc">eine geistig regsame Zuhörerschaft sich selbst vergessend<lb/>
+ am Munde des Dichters hing</seg> und nicht einmal durch<lb/>
+die Mängel der Aufführung ihre <seg type="spc">festliche Andacht</seg> herabdämpfen<lb/>
+ließ.« Keine der bekannten Applausstellen habe versagt. So <abbr>z. B.</abbr> sei<lb/>
+»nach der Stelle, wo <rs type="pers">Mephisto</rs> den guten Magen der Kirche begutachtet,<lb/>
+von oben herab <seg type="spc">demonstratives</seg> Händeklatschen und <seg type="spc">Bravogelächter<lb/>
+</seg>« laut geworden. <seg type="insult">Welch festliche Andachtstimmung einer<lb/>
+geistig regsamen Zuhörerschaft!</seg> Sie hat durch Jahre auch die Stelle<lb/>
+bejubelt: »Nein, er gefällt mir nicht, der neue Bürgermeister!« <seg type="symbol" subtype="3dots"/> Das ist<lb/>
+die <seg type="insult">»Rückkehr zu den Klassikern«</seg>, wie sie sich die ‚<rs type="paper" ana="werk_13073">Neue Freie Presse</rs>‘<lb/>
+erträumt hat.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46960">
+               <persName>Goethe, Johann Wolfgang von</persName>
+               <birth>
+                  <date>1749-8-28</date>
+                  <place>Frankfurt am Main</place>
+               </birth>
+               <death>
+                  <date>1832-3-22</date>
+                  <place>Weimar</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">890/142f.</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11461</idno></person>
+            <person xml:id="fk__p_45322">
+               <persName>Habitué</persName>
+            </person>
+            <person xml:id="fk__p_49331">
+               <persName>Speidel, Ludwig</persName>
+               <birth>
+                  <date>1830-4-11</date>
+                  <place>Ulm</place>
+               </birth>
+               <death>
+                  <date>1906-2-3</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Kritiker</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12816</idno></person>
+            <person xml:id="fk__p_46357">
+               <persName>Wittmann, Hugo</persName>
+               <birth>
+                  <date>1839-10-16</date>
+                  <place>Ulm</place>
+               </birth>
+               <death>
+                  <date>1923-2-6</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">ZF Gruppe 32C, Nr. 3</note>
+               <note type="comment">Red. der NFP</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2739</idno></person>
+            </listPerson></back></text>
+</TEI>

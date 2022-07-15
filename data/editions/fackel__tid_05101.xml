@@ -1,0 +1,41 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_05101.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05100.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05102.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Zusammenbruch eines angesehenen Klischees, in: Fackel Heft 12, Nr. 301, 1910, S. 60-60</title>
+            <title type="iso-date">1910-05-3</title>
+            <title type="id">tid_05101</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">12</title><title type="heft">301</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-12-301_n0060.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/301,060</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Zusammenbruch eines angesehenen Klischees</head>
+            <p ana="pr65331">
+<space/>»<foreign xml:lang="en">‚<rs type="paper" ana="werk_17584">Daily News</rs>‘</foreign> bringen folgenden keineswegs erfreulichen Bericht<lb/>
+über das Aussehen und das Befinden <rs type="pers" ana="n_47583" ref="#fk__p_42338">König Eduards</rs>: Nach der soeben<lb/>
+überstandenen Influenza <seg type="spc">ist des Königs Schritt nicht mehr<lb/>
+elastisch zu nennen</seg> <seg type="symbol" subtype="4dots"/>«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_42338">
+               <persName>Eduard VII., König von England</persName>
+               <birth>
+                  <date>1841-11-9</date>
+                  <place>London</place>
+               </birth>
+               <death>
+                  <date>1910-5-6</date>
+                  <place>London</place>
+               </death>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_14622</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/15665</idno></person>
+            </listPerson></back></text>
+</TEI>

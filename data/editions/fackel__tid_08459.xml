@@ -1,0 +1,42 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_08459.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08458.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08460.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Schwer nachzusprechen, in: Fackel Heft 20, Nr. 484, 1918, S. 157-157</title>
+            <title type="iso-date">1918-10-01</title>
+            <title type="id">tid_08459</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">20</title><title type="heft">484</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-20-484_n0157.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/484,157</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Schwer nachzusprechen</head>
+            <p ana="pr111273">
+<space/><seg type="sidehead">[<seg type="spc">Auszeichnung des ehrenamtlichen fachmännischen<lb/>
+ Beirates der <rs type="inst">Lebensmittelaktion<lb/>
+der Wiener Zeitungsangestellten</rs></seg>.]</seg> Der Kaiser hat<lb/>
+dem Wiener Großkaufmann Herrn <rs type="pers" ana="n_69435" ref="#fk__p_46348">Hugo Selkes</rs> in seiner Eigenschaft<lb/>
+als ehrenamtlicher fachmännischer Beirat der <rs type="inst">Lebensmittelaktion der<lb/>
+Wiener Zeitungsangestellten</rs> den Titel eines kaiserlichen Rates verliehen.<lb/>
+Kaiserlicher Rat <rs type="pers" ana="n_69436" ref="#fk__p_46348">Hugo Selkes</rs> — —<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46348">
+               <persName>Selkes, Hugo</persName>
+               <birth>
+                  <date>1871-9-14</date>
+                  <place>Wien</place>
+               </birth>
+               <occupation>Kaufmann</occupation>
+               <note type="comment">3., Gärtnergasse 4</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

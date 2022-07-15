@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03437.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03436.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03438.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Regierungskassabuch, in: Fackel Heft 05, Nr. 152, 1904, S. 23-23</title>
+            <title type="iso-date">1904-01-16</title>
+            <title type="id">tid_03437</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">05</title><title type="heft">152</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-05-152_n0023.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/152,023</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Regierungskassabuch</head>
+            <p ana="pr34117">
+<rs type="pers" ana="n_29420" ref="#fk__p_51134">Leopold Pollack</rs>
+</p>
+            <p ana="pr34117_a">
+<abbr>Ritt.</abbr> von
+</p>
+            <p ana="pr34117_b">
+160.000 <abbr>Kr.</abbr> (<seg type="insult">Rabatt!</seg>)
+</p>
+            <p ana="pr34117_c">
+<rs type="pers" ana="n_29421" ref="#fk__p_54459">Biedermann-Turonyi</rs>
+</p>
+            <p ana="pr34117_d">
+Baron
+</p>
+            <p ana="pr34117_e">
+500.000 <abbr>Kr.</abbr>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_51134">
+               <persName>Pollack-Parnegg, Leopold Freiherr von</persName>
+               <birth>
+                  <date>1839-10-29</date>
+                  <place>Nikolsburg</place>
+               </birth>
+               <death>
+                  <date>1922-3-28</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Industrieller</occupation>
+               <note type="comment">Bruder Bernhard Pollack von Parnau (1846-27.12.1911)</note>
+               <note type="comment">für 391/4: NFP 15.01.1914, Seite 12</note>
+               <note type="comment">verh. mit Mathilde Pollack von Parnegg, geb. Gerstl (gest. 27.11.1923)</note>
+            </person>
+            <person xml:id="fk__p_54459">
+               <persName>Biedermann von Turóny, Robert Simon Freiherr</persName>
+               <birth>
+                  <date>1849-6-13</date>
+                  <place>Baden bei Wien</place>
+               </birth>
+               <death>
+                  <date>1920-9-27</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Industrieller</occupation>
+               <occupation>Bankier</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

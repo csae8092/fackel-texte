@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03772.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03771.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03773.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Österreicher. (Die Gefahr Montignoso), in: Fackel Heft 06, Nr. 173, 1905, S. 22-22</title>
+            <title type="iso-date">1905-01-16</title>
+            <title type="id">tid_03772</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">06</title><title type="heft">173</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-06-173_n0022.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/173,022</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Österreicher. (Die Gefahr Montignoso)</head>
+            <p ana="pr37857">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="name_203433" ref="#fk__p_50912">Österreicher</rs>.</seg></seg></seg> »Aus Tetschen-Bodenbach wird geschrieben: Der<lb/>
+Dresdner Weihnachtsbesuch der ehemaligen <rs type="pers" ana="n_32372" ref="#fk__p_49205">Kronprinzessin von Sachsen</rs><lb/>
+hatte auch unsere amtlichen Kreise in <seg type="spc">große Aufregung</seg> versetzt. Auf<lb/>
+dem Bodenbacher Bahnhof hatte die Grenzpolizei <seg type="spc">Permanenzdienst</seg>,<lb/>
+und auf Anordnung der Prager Statthalterei mußten auch die Beamten der<lb/>
+Bezirkshauptmannschaft <seg type="spc">zu nachtschlafender Zeit</seg> auf dem Bahnhof<lb/>
+erscheinen, um das Eintreffen der von Dresden kommenden Nachtschnellzüge<lb/>
+ zu <choice><sic>erwarten</sic><corr>erwarten.</corr></choice> Die Vorbereitungen hatten den Zweck, es unmöglich<lb/>
+ zu machen, daß die <rs type="pers" ana="n_32373" ref="#fk__p_49205">Gräfin Montignoso</rs> österreichischen Boden<lb/>
+betrete. Man <seg type="spc">befürchtete</seg>, die Gräfin werde nach dem Nichtglücken<lb/>
+des Dresdner Weihnachtsbesuches über Bodenbach oder Tetschen zu<lb/>
+ihren Eltern nach Salzburg reisen, und war entschlossen, dies, wenn<lb/>
+nötig, <seg type="spc">mit den schärfsten Mitteln zu verhindern</seg>.« Lieber<lb/>
+<seg type="insult">hundert Defraudanten</seg> hinauslassen, als die eine <seg type="insult">Ehebrecherin</seg> herein! <seg type="symbol" subtype="3dots"/><lb/>
+Von <seg type="insult"><seg type="spc">der</seg> Gefahr</seg> ist Österreich verschont geblieben. Wie unbeliebt<lb/>
+muß <seg type="insult">Herr <rs type="pers" ana="n_32374" ref="#fk__p_40952"><abbr>v.</abbr> Koerber</rs></seg> »oben« gewesen sein, wenn ihn <seg type="insult">dieser letzte<lb/>
+Regierungserfolg</seg> nicht zu halten vermochte!<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_49205">
+               <persName>Sachsen, Luise von, geb. Erzherzogin von Österreich-Toscana</persName>
+               <birth>
+                  <date>1870-9-2</date>
+                  <place>Salzburg</place>
+               </birth>
+               <death>
+                  <date>1947-3-23</date>
+                  <place>Brüssel</place>
+               </death>
+               <note type="comment">Gräfin Montignoso, starb als Blumenfrau</note>
+               <note type="comment">Affaire mit André Giron</note>
+               <note type="comment">Ögg irrt. statt 126/19: 126/29</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_19511</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/23855</idno></person>
+            <person xml:id="fk__p_50912">
+               <persName>Österreicher</persName>
+            </person>
+            <person xml:id="fk__p_40952">
+               <persName>Koerber, Ernest von</persName>
+               <birth>
+                  <date>1850-11-6</date>
+                  <place>Trient</place>
+               </birth>
+               <death>
+                  <date>1919-3-4</date>
+                  <place>Baden bei Wien</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <note type="comment">Handels-, Innen-, Justizminister, 1900-04, Okt. bis Dez. 1916 Ministerpräsident</note>
+               <note type="comment">Handels-, Innen-, Justizminister, 1900-04, Okt. bis Dez. 1916 Ministerpräsident</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11955</idno></person>
+            </listPerson></back></text>
+</TEI>

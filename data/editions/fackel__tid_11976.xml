@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_11976.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11975.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11977.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Druckfehlerberichtigung), in: Fackel Heft 33, Nr. 864, 1931, S. 54-55</title>
+            <title type="iso-date">1931-12-01</title>
+            <title type="id">tid_11976</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">33</title><title type="heft">864</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-33-864_n0054.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/864,054</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Druckfehlerberichtigung)</head>
+            <p ana="pr173435">
+<space/>Druckfehlerberichtigung: <FCORR href="FK-33-852_n0017.xml" ferrID="fk_04_ferr_30022492" id="fk_04_fcorr_30022492"><rs type="selfRef" ana="werk_32389"><abbr>Nr.</abbr> 852—856</rs>, <abbr>S.</abbr> 17, <abbr>Z.</abbr> 13 <abbr>v. u.</abbr> statt<lb/>
+»<rs type="pers" ana="n2_9293" ref="#fk__p_55589">Shakes-peare</rs>«: <EM href="FK-33-852_n0017.xml" ferrID="fk_04_ferr_30022492" id="fk_04_em_30022494"><rs type="pers" ana="n_103583" ref="#fk__p_55589"><seg type="i">Shake-speare</seg></rs></EM>;</FCORR> <FCORR href="FK-33-857_n0072.xml" ferrID="fk_04_ferr_30022497" id="fk_04_fcorr_30022497"><rs type="selfRef" ana="werk_32390"><abbr>Nr.</abbr> 857—863</rs>, <abbr>S.</abbr> 72, <abbr>Z.</abbr> 16 statt<lb/>
+»<rs type="pers" ana="n2_9294" ref="#fk__p_39185"><SPAN norm="Russell">Russel</SPAN></rs>«: <EM href="FK-33-857_n0072.xml" ferrID="fk_04_ferr_30022497" id="fk_04_em_30022500"><rs type="pers" ana="n_103584" ref="#fk__p_39185"><seg type="i">Russell</seg></rs></EM>,</FCORR> <FCORR href="FK-33-857_n0080.xml" ferrID="fk_04_ferr_30022503" id="fk_04_fcorr_30022503"><abbr>S.</abbr> 80, <abbr>Z.</abbr> 17 <abbr>v. u.</abbr> statt »fröhnt«: <EM href="FK-33-857_n0080.xml" ferrID="fk_04_ferr_30022503" id="fk_04_em_30022505"><seg type="i">frönt</seg></EM>;</FCORR> Index zu<lb/>
+</p>
+            <p ana="pr173435">
+Band 84, <abbr>S.</abbr> 3, <abbr>Z.</abbr> 11 <abbr>v. u.</abbr> statt »<rs type="title"><rs type="pers" ana="n2_9295" ref="#fk__p_43433">Frank Wedekind</rs> an einem Hund</rs>«:<lb/>
+— — an <SPAN cont="einen">eine<seg type="i">n</seg></SPAN> Hund.<lb/>
+</p>
+            <p ana="pr173436">
+<space/>Ein Verzeichnis der nachträglichen Änderungen und neuentdeckten<lb/>
+ Druckfehler in <rs type="title"><foreign xml:lang="en"><seg type="spc">Poems by <rs type="pers" ana="n2_9296" ref="#fk__p_47565">Karl Kraus</rs></seg></foreign></rs> von<lb/>
+<rs type="pers" ana="n_103585" ref="#fk__p_37906">Albert <seg type="spc">Bloch</seg></rs> kann vom Verlag der <rs type="self" ana="werk_32391">Fackel</rs> bezogen werden.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_47565">
+               <persName>Kraus, Karl</persName>
+               <birth>
+                  <date>1874-4-28</date>
+                  <place>Jicin, Böhmen</place>
+               </birth>
+               <death>
+                  <date>1936-6-12</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Publizist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11988</idno></person>
+            <person xml:id="fk__p_37906">
+               <persName>Bloch, Albert</persName>
+               <birth>
+                  <date>1882-08-02</date>
+                  <place>St. Louis/Miss.</place>
+               </birth>
+               <death>
+                  <date>1961-12-09</date>
+                  <place>Lawrence/Kans.</place>
+               </death>
+               <occupation>Maler</occupation>
+               <note type="comment">Liste "Theater der Dichtung"</note>
+               <note type="comment">Zeichnung Arthur Schnitzler, München 1913, in: MAL Vol 1, no. 2, 1968, p. 2</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37912</idno></person>
+            <person xml:id="fk__p_39185">
+               <persName>Russell, Bertrand</persName>
+               <birth>
+                  <date>1872-05-18</date>
+                  <place>Trelleck</place>
+               </birth>
+               <death>
+                  <date>1970-02-2</date>
+                  <place>Plas Penrhyn (bei Penrhyndeudraeth, County Gwynedd</place>
+               </death>
+               <occupation>Philosoph</occupation>
+               <occupation>Schriftsteller</occupation>
+            </person>
+            <person xml:id="fk__p_55589">
+               <persName>Shakespeare, William</persName>
+               <birth>
+                  <date>1564-4-23?</date>
+                  <place>Stratford-upon-Avon</place>
+               </birth>
+               <death>
+                  <date>1616-4-23</date>
+                  <place>Stratford-upon-Avon</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2412</idno></person>
+            <person xml:id="fk__p_43433">
+               <persName>Wedekind, Frank</persName>
+               <birth>
+                  <date>1864-7-24</date>
+                  <place>Hannover</place>
+               </birth>
+               <death>
+                  <date>1918-3-9</date>
+                  <place>München</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/13068</idno></person>
+            </listPerson></back></text>
+</TEI>

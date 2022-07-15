@@ -1,0 +1,40 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06683.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06682.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06684.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Den Othello spielt, in: Fackel Heft 15, Nr. 395, 1914, S. 53-53</title>
+            <title type="iso-date">1914-01-01</title>
+            <title type="id">tid_06683</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">15</title><title type="heft">395</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-15-395_n0053.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/395,053</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Den Othello spielt</head>
+            <p ana="pr90234">
+<space/><seg type="insult"><rs type="pers" ana="n_61642" ref="#fk__p_52080">Reimers</rs>.</seg><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_52080">
+               <persName>Reimers, Georg</persName>
+               <birth>
+                  <date>1860-4-4</date>
+                  <place>Altona</place>
+               </birth>
+               <death>
+                  <date>1936-4-15</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <note type="comment">ab 1885 am Burgtheater, 1922 EM</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12498</idno></person>
+            </listPerson></back></text>
+</TEI>

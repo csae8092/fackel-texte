@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_09703.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09702.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09704.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Vorbemerkung zu: „Für den Frieden in Mitteleuropa“), in: Fackel Heft 25, Nr. 640, 1924, S. 107-108</title>
+            <title type="iso-date">1924-01-01</title>
+            <title type="id">tid_09703</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">25</title><title type="heft">640</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-25-640_n0107.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/640,107</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Vorbemerkung zu: „Für den Frieden in Mitteleuropa“)</head>
+            <p ana="pr130657">
+<space/>Vorbemerkung zu <seg type="insult">»<rs type="title">Für den Frieden in Mitteleuropa</rs>«</seg>:<lb/>
+</p>
+            <p ana="pr130659">
+<space/>Eine Glosse, mit der ich zugleich dem <rs type="pers" ana="n_79965" ref="#fk__p_41233"><seg type="insult">Seipeljudentum</seg></rs><lb/>
+meine vorläufige Reverenz bezeige. Geschrieben, bevor <seg type="insult">der gerichtsbekannte<lb/>
+ <rs type="pers" ana="n_79966" ref="#fk__p_42028">Wessely</rs>, Gatte einer Theaterschulinhaberin, Vater einer</seg><lb/>
+</p>
+            <p ana="pr130659">
+<seg type="insult">Schauspielerin und Schwiegervater eines Theaterdirektors, mit<lb/>
+einem Wort ein völlig unbefangener Richter in Preßsachen</seg>, <seg type="insult">Herrn<lb/>
+<rs type="pers" ana="n_79967" ref="#fk__p_42795">Benedikt</rs></seg> die <seg type="insult">Milliardenbeute</seg> gerettet hat.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_42795">
+               <persName>Benedikt, Ernst</persName>
+               <birth>
+                  <date>1882-05-20</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1973-12-28</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10872</idno></person>
+            <person xml:id="fk__p_42028">
+               <persName>Wessely, Rudolf</persName>
+               <birth>
+                  <date>1860-1-29</date>
+                  <place>Bilin/Böhmen</place>
+               </birth>
+               <death>
+                  <date>1932-7-6</date>
+                  <place>Wien-Hacking</place>
+               </death>
+               <occupation>Richter</occupation>
+               <note type="comment">8., Lerchenfelderstraße 138</note>
+               <note type="comment">Oberlandesgerichtsrat</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/43545</idno></person>
+            <person xml:id="fk__p_41233">
+               <persName>Seipel, Ignaz</persName>
+               <birth>
+                  <date>1876-7-18</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1932-8-2</date>
+                  <place>Pernitz, Niederösterreich</place>
+               </death>
+               <occupation>Prälat</occupation>
+               <occupation>Politiker</occupation>
+               <note type="comment">1922-24, 1926-29 Bundeskanzler</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12762</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_04954.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04953.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04955.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Kulturhistorisches aus dem ‚Neuen Wiener Journal‘), in: Fackel Heft 11, Nr. 288, 1909, S. 20-21</title>
+            <title type="iso-date">1909-10-11</title>
+            <title type="id">tid_04954</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">11</title><title type="heft">288</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-11-288_n0020.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/288,020</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Kulturhistorisches aus dem ‚Neuen Wiener Journal‘)</head>
+            <p ana="pr61911">
+<rs type="pers" ana="n_45641" ref="#fk__p_41830"><abbr>Dr.</abbr> Sigwart Graf zu Eulenburg</rs><lb/>
+</p>
+            <p ana="pr61912">
+<rs type="pers" ana="n_45642" ref="#fk__p_45794">Helene Gräfin zu Eulenburg</rs><lb/>
+<abbr>geb.</abbr> <rs type="pers" ana="n_45643" ref="#fk__p_45800">Staegemann</rs>.<lb/>
+</p>
+            <p ana="pr61913">
+Vermählte.<lb/>
+</p>
+            <p ana="pr61914">
+Liebenberg Leipzig<lb/>
+den <date>21. September 1909</date>.<lb/>
+</p>
+            <p ana="pr61916">
+<space/>Dazu bemerkt das <seg ana="‚Neue Wiener Journal‘"/>:<lb/>
+</p>
+            <p ana="pr61918">
+<space/>Wir müssen gestehen, daß Fräulein <rs type="pers" ana="n_45644" ref="#fk__p_45800">Helene Staegemann</rs> ziemlich<lb/>
+vorurteilslos und couragiert ist, wenn sie es riskiert, in <seg type="insult">die etwas anrüchig<lb/>
+ gewordene Familie des <RS pers="Philipp Fürst zu Eulenburg-Hertefeld">Liebenbergers</RS></seg> hineinzuheiraten.<lb/>
+</p>
+            <p ana="pr61920">
+<space/>Künftige Kulturhistoriker werden den Jammer unserer Zeit<lb/>
+</p>
+            <p ana="pr61920">
+vielleicht in die Formel fassen, daß auf <seg type="insult">hundert Federn</seg> kaum eine<lb/>
+Hundspeitsche kam.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_41830">
+               <persName>Eulenburg-Hertefeld, Sigwart Botho Philipp August Graf zu</persName>
+               <birth>
+                  <date>1884-01-10</date>
+                  <place>München</place>
+               </birth>
+               <death>
+                  <date>1915-06-02</date>
+                  <place>Jaslo</place>
+               </death>
+               <occupation>Komponist</occupation>
+            </person>
+            <person xml:id="fk__p_45794">
+               <persName>Eulenburg-Hertefeld, Helene Gräfin zu, geb. Staegemann</persName>
+               <birth>
+                  <date>1877-4-18</date>
+                  <place>Hannover</place>
+               </birth>
+               <death>
+                  <date>1923-8-20</date>
+                  <place>Partenkirchen</place>
+               </death>
+               <occupation>Sängerin</occupation>
+               <note type="comment">Sohn Friedrich 1914-1936</note>
+            </person>
+            <person xml:id="fk__p_45800">
+               <persName>Staegemann, Helene</persName>
+               <birth>
+                  <date>1877-4-18</date>
+                  <place>Hannover</place>
+               </birth>
+               <death>
+                  <date>1923-8-24</date>
+                  <place>Dresden</place>
+               </death>
+               <occupation>Sängerin</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

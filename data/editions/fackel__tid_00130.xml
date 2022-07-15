@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00130.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00129.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00131.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Hermann Bahr über Robert.), in: Fackel Heft 01, Nr. 007, 1899, S. 16-17</title>
+            <title type="iso-date">1899-06-01</title>
+            <title type="id">tid_00130</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">007</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-007_n0016.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/007,016</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Hermann Bahr über Robert.)</head>
+            <p ana="pr1472">
+<space/>Die <seg type="insult">Serie der <rs type="pers" ana="n_1089" ref="#fk__p_42598">Robert-Nekrologe</rs></seg> hat <seg type="insult">Herr <rs type="pers" ana="n_1090" ref="#fk__p_45908"><seg type="spc">Bahr</seg></rs></seg> in seiner Weise<lb/>
+vervollständigt. Er behauptet am <date>3. Juni</date> in der ‚<rs type="magazine" ana="werk_393">Zeit</rs><choice><sic>’</sic><corr>‘</corr></choice>, dass »<seg type="spc">vom</seg><lb/>
+<seg type="spc">Munde <rs type="pers" ana="n_1091" ref="#fk__p_42598">Roberts</rs> ein schwerer zorniger Schmerz herabhieng<lb/>
+</seg>«; jedoch schon wenige Zeilen später will er »<seg type="spc">schwarze</seg><lb/>
+<seg type="spc">Bäche</seg>« entdeckt haben, die »<seg type="spc">von <rs type="pers" ana="n_1092" ref="#fk__p_42598">Roberts</rs> Munde rannen</seg>«. Und<lb/>
+da soll sich der Leser auskennen! <seg type="insult">Herrn <rs type="pers" ana="n_1093" ref="#fk__p_45908">Bahr</rs></seg> scheint die Freude<lb/>
+über seinen bevorstehenden Eintritt in den Redactionsverband des<lb/>
+‚<rs type="paper" ana="werk_394">Neuen Wiener Tagblatt</rs><choice><sic>’</sic><corr>‘</corr></choice> ganz confus gemacht zu haben.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_42598">
+               <persName>Robert, Emerich</persName>
+               <birth>
+                  <date>1847-05-21</date>
+                  <place>Budapest</place>
+               </birth>
+               <death>
+                  <date>1899-05-29</date>
+                  <place>Würzburg</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <note type="comment">Friedhof Hietzing Gr. 19/No. 3</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12534</idno></person>
+            <person xml:id="fk__p_45908">
+               <persName>Bahr, Hermann</persName>
+               <birth>
+                  <date>1863-7-19</date>
+                  <place>Linz</place>
+               </birth>
+               <death>
+                  <date>1934-1-15</date>
+                  <place>München</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Kritiker</occupation>
+               <note type="comment">Ögg teilt auch 307/52, 445/49, 800/67 (Rotte Korah) Bahr zu</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10815</idno></person>
+            </listPerson></back></text>
+</TEI>

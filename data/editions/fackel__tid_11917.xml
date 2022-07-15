@@ -1,0 +1,103 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_11917.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11916.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11918.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Vom Elend der Arbeit, in: Fackel Heft 33, Nr. 857, 1931, S. 112-112</title>
+            <title type="iso-date">1931-08-01</title>
+            <title type="id">tid_11917</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">33</title><title type="heft">857</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-33-857_n0112.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/857,112</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Vom Elend der Arbeit</head>
+            <p ana="pr172569">
+<space/><rs type="pers" ana="n_103066" ref="#fk__p_53581">Großmann</rs>, dem die <rs type="pers" ana="n_103067" ref="#fk__p_42508">Bergner</rs> ein Interview gewährt:<lb/>
+</p>
+            <p ana="pr172571">
+<space/>Aber <seg type="spc">was ist das für ein Leben</seg> einer reizenden jungen<lb/>
+Frau! <seg type="spc">Arbeit</seg>, <seg type="spc">Arbeit</seg>, <seg type="spc">Arbeit</seg>, <seg type="spc">Arbeit</seg> in der Direktionskanzlei,<lb/>
+die schlimmste, <seg type="spc">Arbeit</seg> auf den Proben, die beglückendste, <seg type="spc">Arbeit</seg><lb/>
+am Abend, <seg type="spc">Arbeit</seg> unter den Jupiterlampen.<lb/>
+</p>
+            <p ana="pr172573">
+(<rs type="pers" ana="n_103068" ref="#fk__p_43175">Salten</rs> sagt in solchen Fällen nur: Arbeit, Arbeit, Arbeit. Auch <rs type="pers" ana="n_103069" ref="#fk__p_38072">Kerr</rs><lb/>
+sagt etwas nie öfter als dreimal. Großmann übernimmt sich.) Gleichwohl<lb/>
+ berührt es wie die Klage der <rs type="pers">Mutter Baumert</rs> in den »<rs type="title">Webern</rs>«:<lb/>
+</p>
+            <p ana="pr172575">
+<foreign xml:lang="de-loc">Wie sehn die Mädel aus!? Kee’ Blutt haben se bald nimehr in sich.<lb/>
+An’ Farbe haben se wie de Leintiecher. Das geht doch immer egal<lb/>
+fort mit dem Schemeltreten, ob’s aso an’ Mädel dient oder nich.<lb/>
+<seg type="spc">Was habn die fer a bissl Leben</seg>. ’s ganze Jahr kommen<lb/>
+se nich vom Bänkl ’runter.</foreign><lb/>
+</p>
+            <p ana="pr172577">
+Der Unterschied scheint bloß in einem Hispano Suiza zu liegen.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_42508">
+               <persName>Bergner, Elisabeth</persName>
+               <birth>
+                  <date>1897-8-22</date>
+                  <place>Drohobycz/Galizien</place>
+               </birth>
+               <death>
+                  <date>1986-5-12</date>
+                  <place>London</place>
+               </death>
+               <occupation>Schauspielerin</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10886</idno></person>
+            <person xml:id="fk__p_38072">
+               <persName>Kerr, Alfred</persName>
+               <birth>
+                  <date>1867-12-25</date>
+                  <place>Breslau</place>
+               </birth>
+               <death>
+                  <date>1948-10-12</date>
+                  <place>Hamburg</place>
+               </death>
+               <occupation>Kritiker</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11910</idno></person>
+            <person xml:id="fk__p_53581">
+               <persName>Großmann, Stefan</persName>
+               <birth>
+                  <date>1875-05-18</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1935-01-03</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11527</idno></person>
+            <person xml:id="fk__p_43175">
+               <persName>Salten, Felix</persName>
+               <birth>
+                  <date>1869-9-6</date>
+                  <place>Budapest</place>
+               </birth>
+               <death>
+                  <date>1945-10-8</date>
+                  <place>Zürich</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Zuordnung von 77/9: Saltens Vater stammte aus Miskolcz</note>
+               <note type="comment">Ögg gibt 249/15 sowohl Salten als auch Friedrich Schütz</note>
+               <note type="comment">Bruder Michael Emil Salzmann, gest. Wien 26.06.1908, im 50. Lj.</note>
+               <note type="comment">Der Gemeine, S. 60f. (O du mein Österreich), F 514/23</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2167</idno></person>
+            </listPerson></back></text>
+</TEI>

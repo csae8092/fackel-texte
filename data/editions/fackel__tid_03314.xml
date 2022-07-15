@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03314.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03313.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03315.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Politiker. (Ein Polonius), in: Fackel Heft 05, Nr. 146, 1903, S. 29-29</title>
+            <title type="iso-date">1903-11-11</title>
+            <title type="id">tid_03314</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">05</title><title type="heft">146</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-05-146_n0029.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/146,029</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Politiker. (Ein Polonius)</head>
+            <p ana="pr32768">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="n_28289" ref="#fk__p_51590">Politiker</rs>.</seg></seg></seg> Kann man an dem Recht des Kaisers, die Kommandosprache<lb/>
+ zu bestimmen, noch zweifeln? Sonnenklar hat <seg type="insult">Herr <rs type="pers" ana="n_28290" ref="#fk__p_47975">von Szell</rs></seg> —<lb/>
+siehe Abendblatt der ‚<rs type="paper" ana="werk_12282">Neuen Freien Presse</rs>‘ vom <date>29. Oktober</date> — dargelegt,<lb/>
+warum dieses Recht aufrechterhalten werden mußte: »Es wurde deshalb<lb/>
+aufrecht erhalten, weil das Recht besteht, und weil das Recht besteht,<lb/>
+wird es aufrecht erhalten, und es wird nur deshalb aufrecht erhalten,<lb/>
+weil das Recht besteht, denn wenn dieses Recht nicht bestünde, könnte<lb/>
+es nicht aufrecht erhalten werden.« Weil er ein <seg type="insult">Schwätzer</seg> ist, schwatzt<lb/>
+<RS pers="William Shakespeare"><rs type="pers" ana="name_202846" ref="#fk__p_55589">Polonius</rs></RS>, und weil <rs type="pers">Polonius</rs> schwatzt, ist er ein Schwätzer; denn wenn<lb/>
+<rs type="pers">Polonius</rs> nicht schwatzte, wäre er kein <seg type="insult">Schwätzer</seg>, und wenn <rs type="pers">Polonius</rs><lb/>
+kein <seg type="insult">Schwätzer</seg> wäre, würde er nicht schwatzen.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_55589">
+               <persName>Shakespeare, William</persName>
+               <birth>
+                  <date>1564-4-23?</date>
+                  <place>Stratford-upon-Avon</place>
+               </birth>
+               <death>
+                  <date>1616-4-23</date>
+                  <place>Stratford-upon-Avon</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2412</idno></person>
+            <person xml:id="fk__p_47975">
+               <persName>Széll, Koloman von</persName>
+               <birth>
+                  <date>1843-6-8</date>
+                  <place>Gasztony/Komitat Vas</place>
+               </birth>
+               <death>
+                  <date>1915-8-16</date>
+                  <place>Rátót/Komitat Vas</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <note type="comment">ung. Ministerpräs. 1899-1903</note>
+            </person>
+            <person xml:id="fk__p_51590">
+               <persName>Politiker</persName>
+            </person>
+            </listPerson></back></text>
+</TEI>

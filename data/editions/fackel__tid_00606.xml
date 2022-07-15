@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00606.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00605.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00607.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Herrn Wippchen in Bernau, Kriegsberichterstatter. (Herrn Wippchen in Bernau), in: Fackel Heft 01, Nr. 024, 1899, S. 32-32</title>
+            <title type="iso-date">1899-11-01</title>
+            <title type="id">tid_00606</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">024</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-024_n0032.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/024,032</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Herrn Wippchen in Bernau, Kriegsberichterstatter. (Herrn Wippchen in Bernau)</head>
+            <p ana="pr5560">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i">Herrn <RS pers="Julius Stettenheim"><rs type="pers" ana="name_203290" ref="#fk__p_47277">Wippchen</rs></RS> in Bernau, Kriegsberichterstatter.</seg></seg></seg> Sie beneiden<lb/>
+die ‚<rs type="paper" ana="werk_1435">Neue Freie Presse</rs>‘ um ihre Meldungen aus Transvaal. In Ihren<lb/>
+besten Zeiten haben Sie eine ähnliche Nachricht wie die am <date>25. November<lb/>
+</date> veröffentlichte nicht in die Welt gesetzt: »Während des<lb/>
+Angriffes auf die zweite Hügelkette hissten die Boers die weiße<lb/>
+Flagge. Als sich Lieutenant <rs type="pers" ana="n_4214" ref="#fk__p_55598">Willougby</rs> hinbegeben wollte, wurde<lb/>
+er <seg type="spc">sofort erschossen</seg>. <seg type="spc">Dasselbe wiederholte sich zweimal<lb/>
+</seg>.« — Wie plastisch ist <seg type="insult">dieser Massenmord an dem armen<lb/>
+Lieutenant</seg> geschildert! Sogar <seg type="insult">die Salzgriesstilisten der ‚<rs type="magazine" ana="werk_1436"><seg type="ELIDASH">Sonntags-Zeitung</seg> und<lb/>
+Montags-Zeitung</rs>‘</seg> hatten ihre Freude daran und moquierten sich über<lb/>
+die ‚<rs type="paper" ana="werk_1437">Neue Freie Presse</rs>‘.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_47277">
+               <persName>Stettenheim, Julius</persName>
+               <birth>
+                  <date>1831-11-2</date>
+                  <place>Hamburg</place>
+               </birth>
+               <death>
+                  <date>1916-10-30</date>
+                  <place>Berlin-Lichterfelde</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/25512</idno></person>
+            <person xml:id="fk__p_55598">
+               <persName>Willoughby, Herbert Cecil</persName>
+               <birth>
+                  <date>1865-6-10</date>
+               </birth>
+               <death>
+                  <date>1899-12-15</date>
+                  <place>Wynberg/Kapstad</place>
+               </death>
+               <occupation>Offizier</occupation>
+               <note type="comment">Namenskorrektur!</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

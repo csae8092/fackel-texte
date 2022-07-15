@@ -1,0 +1,99 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01548.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01547.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01549.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Goethe und Wahlverwandtschaften., in: Fackel Heft 02, Nr. 066, 1901, S. 9-10</title>
+            <title type="iso-date">1901-01-01</title>
+            <title type="id">tid_01548</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">066</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-066_n0009.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/066,009</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Goethe und Wahlverwandtschaften.</head>
+            <p ana="pr15336">
+<space/>Festvortrag des Herrn <rs type="pers" ana="n_12745" ref="#fk__p_41515"><abbr>Dr.</abbr> Max <seg type="spc">Grunwald</seg></rs>, gehalten<lb/>
+in einem Hôtel der Leopoldstadt über das Thema:<lb/>
+<rs type="pers" ana="n_12746" ref="#fk__p_46960">Goethe</rs> und die Juden.<lb/>
+</p>
+            <p ana="pr15338">
+<space/>Festvortrag des Genossen <rs type="pers" ana="n_12747" ref="#fk__p_46477"><abbr>Dr.</abbr> <seg type="spc">Ingwer</seg></rs>, gehalten<lb/>
+in einer Versammlung des <rs type="inst">Rudolfsheimer Arbeiterbildungsvereines<lb/>
+</rs> über das Thema: <rs type="pers" ana="n_12748" ref="#fk__p_46960">Goethe</rs> und die<lb/>
+Arbeiter, mit besonderer Berücksichtigung des Einflusses<lb/>
+, den das Judenthum auf <rs type="pers" ana="n_12749" ref="#fk__p_46960">Goethes</rs> Entwicklung<lb/>
+genommen hat. Vom Vater habe <rs type="pers" ana="n_12750" ref="#fk__p_46960">Goethe</rs> die Statur<lb/>
+gehabt, vom Judenthum <seg type="insult">»das ruhige, sichere, <seg type="spc">phrasenlose<lb/>
+</seg> Denken«</seg>. Solches hat <seg type="insult">Herr <rs type="pers" ana="n_12751" ref="#fk__p_46477">Ingwer</rs></seg> einem Publicum<lb/>
+von Lesern der ‚<rs type="paper" ana="werk_4844"><seg type="spc">Arbeiter-Zeitung</seg></rs>‘ erzählt. Er sprach<lb/>
+auch von dem <seg type="insult">»lieblichen Wohlklang«</seg>, den die deutsche<lb/>
+Sprache heute besitze <seg type="symbol" subtype="3dots"/> Aber die Hauptsache war<lb/>
+</p>
+            <p ana="pr15338">
+doch der Nachweis, dass <rs type="pers" ana="n_12752" ref="#fk__p_46960">Goethe</rs> ohne <rs type="pers" ana="n_12753" ref="#fk__p_53496">Spinoza</rs> und<lb/>
+ohne das Judenthum »nicht zu denken« sei. »<seg type="spc">Noch</seg><lb/>
+in einer Beziehung ist uns Socialisten <rs type="pers" ana="n_12754" ref="#fk__p_46960">Goethe</rs> sehr<lb/>
+theuer«, meinte <seg type="insult">Herr <rs type="pers" ana="n_12755" ref="#fk__p_46477"><abbr>Dr.</abbr> Ingwer</rs></seg>, als er vom Judenthum<lb/>
+ zu einem andern Capitel übergieng.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_53496">
+               <persName>Spinoza, Baruch de</persName>
+               <birth>
+                  <date>1632-11-24</date>
+                  <place>Amsterdam</place>
+               </birth>
+               <death>
+                  <date>1677-2-21</date>
+                  <place>Den Haag</place>
+               </death>
+               <occupation>Philosoph</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/25217</idno></person>
+            <person xml:id="fk__p_46960">
+               <persName>Goethe, Johann Wolfgang von</persName>
+               <birth>
+                  <date>1749-8-28</date>
+                  <place>Frankfurt am Main</place>
+               </birth>
+               <death>
+                  <date>1832-3-22</date>
+                  <place>Weimar</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">890/142f.</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11461</idno></person>
+            <person xml:id="fk__p_46477">
+               <persName>Ingwer, Isidor</persName>
+               <birth>
+                  <date>1866-2-1</date>
+                  <place>Tarnopol</place>
+               </birth>
+               <death>
+                  <date>1942-8-19</date>
+                  <place>Konzentrationslager Theresienstadt</place>
+               </death>
+               <occupation>Rechtsanwalt</occupation>
+               <note type="comment">Der Fall Bartmann . Zur Geschichte der Unabhängigkeit der österreichischen Rechtsprechung. Wien. Kommissionsverlag Ignaz Brand</note>
+            </person>
+            <person xml:id="fk__p_41515">
+               <persName>Grunwald, Max</persName>
+               <birth>
+                  <date>1871-10-10</date>
+                  <place>Zabrze/Oberschlesien</place>
+               </birth>
+               <death>
+                  <date>1953-1-24</date>
+                  <place>Jerusalem</place>
+               </death>
+               <occupation>Rabbiner</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

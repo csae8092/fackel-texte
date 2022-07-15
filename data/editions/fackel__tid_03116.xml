@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03116.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03115.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03117.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ein Schulmuseum, in: Fackel Heft 05, Nr. 137, 1903, S. 11-12</title>
+            <title type="iso-date">1903-05-11</title>
+            <title type="id">tid_03116</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">05</title><title type="heft">137</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-05-137_n0011.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/137,011</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ein Schulmuseum</head>
+            <p ana="pr30648">
+<space/><seg type="insult"><inciptit>Herr</inciptit> <rs type="pers" ana="n_26512" ref="#fk__p_54440"><abbr>v.</abbr> Bächlé</rs>, päpstlicher <abbr>geh.</abbr> Kämmerer und Vorstandsmitglied<lb/>
+ des <rs type="inst">Katholischen Schulvereins</rs></seg>, hat in einem alten,<lb/>
+feuchten und baufälligen Schulhaus einen <seg type="insult">Tandelmarkt schlechter<lb/>
+Lehrmittel</seg> zusammengebracht, und <seg type="insult">die gesammte <rs type="inst">Concordiapresse</rs></seg><lb/>
+verkündet das Lob <seg type="insult">dieses »Schulmuseums«</seg>. Die ‚<rs type="paper" ana="werk_11441">Neue Freie Presse</rs>‘<lb/>
+hat nicht bloß ausführlich über die Eröffnungsfeier, bei welcher<lb/>
+<seg type="insult">der unumgängliche Herr <rs type="pers" ana="n_26513" ref="#fk__p_55511"><abbr>v.</abbr> Hartel</rs></seg> eine Rede hielt, berichtet,<lb/>
+sondern auch in <seg type="insult">ihrem <rs type="paperRef" ana="werk_11442">pädagogischen »Fachblatt«</rs></seg> bereits drei<lb/>
+Feuilletons über das Schulmuseum gebracht. Das dritte der<lb/>
+Feuilletons erschien — mit einer Verspätung von zehn Tagen —<lb/>
+am <date>elften April</date> und war betitelt: <seg type="insult">»Die Gruppe der israelitischen<lb/>
+Religion im österreichischen Schulmuseum«</seg>. Da ward es endlich<lb/>
+klar, warum sich die ‚<rs type="paper" ana="werk_11443">Neue Freie Presse</rs>‘ so eifrig für die <seg type="insult">»clericale<lb/>
+Gründung«</seg> einsetzt. Der Verdacht, <seg type="insult">die alte Canaille</seg> sei fromm<lb/>
+geworden, ist gänzlich unbegründet; sie ist nur <seg type="insult">der überlegenen<lb/>
+Schlauheit der Clericalen</seg> ins Garn gegangen. <seg type="insult">Der pfiffige Herr</seg><lb/>
+</p>
+            <p ana="pr30648">
+<seg type="insult"><rs type="pers" ana="n_26514" ref="#fk__p_54440"><abbr>v.</abbr> Bächlé</rs></seg> hat nämlich in seinem Museum einen wirklichen <seg type="spc">hebräischen<lb/>
+ Setzkasten</seg> aufgestellt. Aber es geht die Sage, wenn<lb/>
+christlich-socialer Besuch ins Museum kommt, verhülle <seg type="insult">der streng<lb/>
+katholische Mann</seg> den hebräischen Setzkasten eigenhändig mit einem<lb/>
+Leintuch <seg type="symbol" subtype="3dots"/><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_55511">
+               <persName>Hartel, Wilhelm Ritter von</persName>
+               <birth>
+                  <date>1839-05-28</date>
+                  <place>Hof/Mähren</place>
+               </birth>
+               <death>
+                  <date>1907-01-14</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Altphilologe</occupation>
+               <occupation>Politiker</occupation>
+               <note type="comment">Friedhof Penzing (=Kontrahentenfriedhof) Tel. 985 64 07</note>
+               <note type="comment">Unterrichtsminister 1900-05</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15937</idno></person>
+            <person xml:id="fk__p_54440">
+               <persName>Bächlé, Josef Pius von</persName>
+               <birth>
+                  <date>1868-05-21</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1933-05-11</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <occupation>Schulmann</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

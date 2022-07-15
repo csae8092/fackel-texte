@@ -1,0 +1,42 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00108.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00107.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00109.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Michael Georg C., dzt. Karlsbad., in: Fackel Heft 01, Nr. 006, 1899, S. 27-27</title>
+            <title type="iso-date">1899-05-01</title>
+            <title type="id">tid_00108</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">006</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-006_n0027.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/006,027</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Michael Georg C., dzt. Karlsbad.</head>
+            <p ana="pr1277">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_946" ref="#fk__p_50144">Michael Georg <abbr>C.</abbr></rs>, <abbr>dzt.</abbr> Karlsbad</seg>.</seg> Vielen Dank für das Lebenszeichen<lb/>
+ und die zutreffende Bemerkung, dass »<seg type="spc">so</seg> für das literarische<lb/>
+Wien nach der <seg type="insult">Dekadenz</seg> <seg type="insult">die neue Heldenepoche</seg> anbricht«.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_50144">
+               <persName>Conrad, Michael Georg</persName>
+               <birth>
+                  <date>1846-4-5</date>
+                  <place>Gnodstadt in Franken</place>
+               </birth>
+               <death>
+                  <date>1927-12-20</date>
+                  <place>München</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Kritiker</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11098</idno></person>
+            </listPerson></back></text>
+</TEI>

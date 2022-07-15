@@ -1,0 +1,45 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07105.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07104.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07106.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Es geht in Einem, in: Fackel Heft 18, Nr. 418, 1916, S. 66-66</title>
+            <title type="iso-date">1916-04-01</title>
+            <title type="id">tid_07105</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">18</title><title type="heft">418</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-18-418_n0066.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/418,066</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Es geht in Einem</head>
+            <p ana="pr96162">
+<space/><seg type="symbol" subtype="3dots"/> <RS pers="Hugo Zuckermann" globID="rs_748">Sein</RS> »<rs type="title"><seg type="spc">Reiterlied</seg></rs>«, das an die kernigsten Soldatenweisen<lb/>
+aus »<RS pers="Achim von Arnim"><rs type="title" ana="name_201219" ref="#fk__p_60337">Des Knaben Wunderhorn</rs></RS>« erinnert, war zum deutschen Volkslied<lb/>
+geworden. Auch seinen übrigen Gedichten stand nun der Weg zur<lb/>
+Wirkung offen. — — — — — Aus allen diesen Gedichten, namentlich<lb/>
+aus den »<rs type="title"><seg type="spc">Makkabäer</seg></rs>« überschriebenen entschlossenen Strophen sprach<lb/>
+starkes, ungekünstelt dichterisches Gefühl <seg type="symbol" subtype="4dots"/><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_60337">
+               <persName>Arnim, Achim von</persName>
+               <birth>
+                  <date>1781-1-26</date>
+                  <place>Berlin</place>
+               </birth>
+               <death>
+                  <date>1831-1-21</date>
+                  <place>Wiepersdorf/Jüterborg</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Carl Joachim Friedrich Ludwig von Arnim</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/5888</idno></person>
+            </listPerson></back></text>
+</TEI>

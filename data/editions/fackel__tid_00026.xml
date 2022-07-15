@@ -1,0 +1,46 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00026.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00025.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00027.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Herrn R. T., in: Fackel Heft 01, Nr. 002, 1899, S. 32-32</title>
+            <title type="iso-date">1899-04-01</title>
+            <title type="id">tid_00026</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">002</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-002_n0032.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/002,032</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Herrn R. T.</head>
+            <p ana="pr319">
+<space/><seg type="sidehead"><seg type="i">Herrn <rs type="pers" ana="n_395" key="#fk__p_51947"><abbr>R. T.</abbr></rs></seg></seg> Ich kann doch nicht <seg type="spc">heute</seg> einen Aufruf »an<lb/>
+die Richter Frankreichs«, mit der Bitte um <rs type="pers" ana="n_396" ref="#fk__p_42655">Zolas</rs> Freispruch, veröffentlichen<lb/>
+. Oder glauben Sie ernstlich, die Leser der »<rs type="self" ana="werk_144">Fackel</rs>«<lb/>
+würden die Verspätung mit Rücksicht auf den Umstand, dass die<lb/>
+Sache »von den anderen Blättern abgelehnt« wurde, gerne entschuldigen<lb/>
+?<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_42655">
+               <persName>Zola, Émile</persName>
+               <birth>
+                  <date>1840-4-2</date>
+                  <place>Paris</place>
+               </birth>
+               <death>
+                  <date>1902-9-29</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Journalist</occupation>
+               <note type="comment">Ögg gibt ihm 717/26, vielleicht wegen Dreyfus-Syndikat</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/13194</idno></person>
+            </listPerson></back></text>
+</TEI>

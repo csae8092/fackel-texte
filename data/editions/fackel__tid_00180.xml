@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00180.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00179.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00181.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Der Hammer Thors.), in: Fackel Heft 01, Nr. 009, 1899, S. 16-17</title>
+            <title type="iso-date">1899-06-01</title>
+            <title type="id">tid_00180</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">009</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-009_n0016.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/009,016</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Der Hammer Thors.)</head>
+            <p ana="pr1889">
+<space/>Die ‚<rs type="" ana="werk_478">Ostdeutsche Rundschau</rs><choice><sic>’</sic><corr>‘</corr></choice> fühlt sich in einer Brünner<lb/>
+Notiz veranlasst, die im <rs type="selfRef" ana="werk_479">7. Hefte</rs> der ‚<rs type="self" ana="werk_480">Fackel</rs><choice><sic>’</sic><corr>‘</corr></choice> verzeichnete Berufung<lb/>
+ des <rs type="pers" ana="n_1370" ref="#fk__p_41850"><abbr>Dr.</abbr> Stephan <seg type="spc">Bauer</seg></rs> an eine ausländische Hochschule zu<lb/>
+dementieren. Sie will mein Bedauern nicht theilen, dass unserer<lb/>
+</p>
+            <p ana="pr1889">
+Wissenschaft durch Rancünen und zwischen Collegium und Behörde<lb/>
+gesponnene Intriguen abermals ein tüchtiger Helfer entzogen ward,<lb/>
+und thut Herrn <rs type="pers" ana="n_1371" ref="#fk__p_41850"><abbr>Dr.</abbr> Stephan Bauer</rs> einfach ab, indem sie ihm seinen<lb/>
+Vornamen in Gänsefüßchen setzt. Ob er mit diesen rascher ins Ausland<lb/>
+kommen wird, weiß ich nicht; dass er aber als Professor der Nationalökonomie<lb/>
+ vom Herbste an in Basel wirken wird, ist eine Thatsache,<lb/>
+an der weder meine neuerliche Constatierung noch die Ungläubigkeit<lb/>
+der ‚<rs type="" ana="werk_481">Ostdeutschen Rundschau</rs><choice><sic>’</sic><corr>‘</corr></choice> etwas ändert. Der Lehrfähigkeit des<lb/>
+nunmehrigen Brünner Docenten <rs type="pers" ana="n_1372" ref="#fk__p_53070"><seg type="spc">Schullern</seg></rs> wollte ich nicht nahetreten<lb/>
+ und an eine <seg type="insult">Reclame</seg> für Herrn <rs type="pers" ana="n_1373" ref="#fk__p_41850">Stephan Bauer</rs>, den ich persönlich<lb/>
+nicht kenne, habe ich nicht gedacht. Dass es sich mir um die <seg type="insult">Vertretung<lb/>
+»jüdischer Interessen«</seg> nicht handeln kann, dürfte die ‚<rs type="" ana="werk_482">Ostdeutsche<lb/>
+Rundschau</rs><choice><sic>’</sic><corr>‘</corr></choice> bereits öfter mit innerer Wehmuth eingesehen haben,<lb/>
+und das »Schonungsgebiet«, auf das ich ein paar Leute eigens gesetzt<lb/>
+haben soll, entrückt sich allmählich ihren Augen. Meiner Abneigung<lb/>
+gegen die <seg type="insult">Wiener Kunstparasiten</seg> muss sie auf Schritt und Tritt zustimmen<lb/>
+, und der Erkenntnis, »dass ich nicht bin, wie jene«, gibt<lb/>
+sie in Leitartikeln und Notizen schmerzlichen Ausdruck. Es wird<lb/>
+nichts übrig bleiben, als endlich <seg type="insult">den schon längst versprochenen<lb/>
+»Hammer <rs type="pers">Thors</rs>«</seg> gegen die ‚<rs type="self" ana="werk_483">Fackel</rs><choice><sic>’</sic><corr>‘</corr></choice> zu schwingen. Freilich kann<lb/>
+man selbst mit diesem gegen die Thatsache, dass Herr <rs type="pers" ana="n_1374" ref="#fk__p_41850"><abbr>Dr.</abbr> Stephan<lb/>
+Bauer</rs> einen Ruf ins Ausland erhalten hat, schwerlich ankämpfen.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_53070">
+               <persName>Schullern-Schrattenhofen, Hermann Ritter von</persName>
+               <birth>
+                  <date>1861-07-24</date>
+                  <place>Innsbruck</place>
+               </birth>
+               <death>
+                  <date>1931-04-14</date>
+                  <place>Innsbruck</place>
+               </death>
+               <occupation>Nationalökonom</occupation>
+            </person>
+            <person xml:id="fk__p_41850">
+               <persName>Bauer, Stephan</persName>
+               <birth>
+                  <date>1865-05-20</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1934-11-15</date>
+                  <place>Basel</place>
+               </death>
+               <occupation>Nationalökonom</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13477</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/13830</idno></person>
+            </listPerson></back></text>
+</TEI>

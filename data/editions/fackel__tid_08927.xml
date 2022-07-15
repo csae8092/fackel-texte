@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_08927.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08926.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08928.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Mittlerer Konzerthaussaal, 6. Februar, 3 Uhr:, in: Fackel Heft 22, Nr. 561, 1921, S. 83-84</title>
+            <title type="iso-date">1921-03-01</title>
+            <title type="id">tid_08927</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">22</title><title type="heft">561</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-22-561_n0083.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/561,083</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Mittlerer Konzerthaussaal, 6. Februar, 3 Uhr:</head>
+            <p ana="pr118805">
+<space/><rs type="inst">Mittlerer Konzerthaussaal</rs>, <date>6. Februar</date>, 3 Uhr:<lb/>
+</p>
+            <p ana="pr118806">
+<space/>I. Aus: <rs type="title">Klarstellung</rs> / <rs type="title">Die Republik ist schuld</rs> / <rs type="title">Zu Pfingsten</rs>. —<lb/>
+<rs type="title">Die letzten Tage der Menschheit</rs>: <rs type="title">Wallfahrtskirche</rs> / <rs type="title"><seg type="insult">Kriegsarchiv</seg></rs> /<lb/>
+<rs type="title">Der <rs type="pers">Riese</rs> und der <rs type="pers">Zwerg</rs></rs> / <rs type="title">Bei Udine</rs> / <rs type="title"><seg type="insult">Kommers</seg></rs> / <rs type="title">Bahnhof bei<lb/>
+Wien</rs>. — <rs type="title">Der Traum ein <seg type="insult">Wiener Leben</seg></rs> (<date>1910</date>, mit Vorbemerkung.) —<lb/>
+<rs type="title">Nach zwanzig Jahren</rs>.<lb/>
+</p>
+            <p ana="pr118807">
+<space/>II. <rs type="title"><seg type="insult">Nach sechsjähriger Unterbrechung</seg></rs> / <rs type="title">Vorwort zu einer Berliner<lb/>
+Vorlesung</rs>. — <rs type="title"><seg type="insult">Monolog des <rs type="pers" ana="n2_6713" ref="#fk__p_38072">Alfred Kerr</rs></seg></rs> / <rs type="title">Der Zoologe von Berlin</rs>.<lb/>
+Von <rs type="pers" ana="n_73142" ref="#fk__p_43433">Frank Wedekind</rs>. — <rs type="title"><seg type="insult">Dichterschule</seg></rs> / <rs type="title">Leben ohne Eitelkeit</rs> /<lb/>
+<rs type="title"><rs type="pers">Eros</rs> und der Dichter</rs> / <rs type="title">Silvesterruf an die Welt</rs>.<lb/>
+</p>
+            <p ana="pr118808">
+<space/>Ein Teil des Ertrags ist einem Kinderhort für die in den<lb/>
+feuchten Arrestantenzimmern der <rs type="inst">Rossauer Kaserne</rs> wohnenden Kinder<lb/>
+zugewendet worden. (Gemeinderätin <rs type="pers" ana="n_73143" ref="#fk__p_52630">Rudolfine Fleischner</rs>, IX., Lichtensteinstraße<lb/>
+ 107.)<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_52630">
+               <persName>Fleischner, Rudolfine</persName>
+               <birth>
+                  <date>1873-10-20</date>
+               </birth>
+               <death>
+                  <date>1923-9-17</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Politikerin</occupation>
+               <note type="comment">9., Liechtensteinstr. 107</note>
+               <note type="comment">Gemeinderätin</note>
+            </person>
+            <person xml:id="fk__p_38072">
+               <persName>Kerr, Alfred</persName>
+               <birth>
+                  <date>1867-12-25</date>
+                  <place>Breslau</place>
+               </birth>
+               <death>
+                  <date>1948-10-12</date>
+                  <place>Hamburg</place>
+               </death>
+               <occupation>Kritiker</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11910</idno></person>
+            <person xml:id="fk__p_43433">
+               <persName>Wedekind, Frank</persName>
+               <birth>
+                  <date>1864-7-24</date>
+                  <place>Hannover</place>
+               </birth>
+               <death>
+                  <date>1918-3-9</date>
+                  <place>München</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/13068</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00376.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00375.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00377.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Goethe-Feier., in: Fackel Heft 01, Nr. 015, 1899, S. 30-31</title>
+            <title type="iso-date">1899-08-01</title>
+            <title type="id">tid_00376</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">015</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-015_n0030.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/015,030</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Goethe-Feier.</head>
+            <p ana="pr3445">
+<space/><seg type="insult">Herr <rs type="pers" ana="n_2470" ref="#fk__p_50383">Necker</rs></seg> depeschiert aus Frankfurt:<lb/>
+</p>
+            <p ana="pr3446">
+<space/>»<QUOTE rn="7" sourceID="FK-01-015_n0030_a">Einem Vulkan gleich warf <rs type="pers" ana="n_2471" ref="#fk__p_46960">Goethe</rs> solche poetische Brocken<lb/>
+in Stunden der Begeisterung ohne festen Plan aufs Papier.</QUOTE>«<lb/>
+</p>
+            <p ana="pr3447">
+<space/>»<QUOTE rn="8" sourceID="FK-01-015_n0030_a">Ein Regen kühlte gottlob etwas die schwüle Atmosphäre ab.</QUOTE>«<lb/>
+</p>
+            <p ana="pr3448">
+<space/>»<QUOTE rn="9" sourceID="FK-01-015_n0030_a">Allgemein wurde es freudig bemerkt, dass auch <rs type="pers" ana="n_2472" ref="#fk__p_43876">Schillers</rs><lb/>
+Monument in den letzten Tagen geschmückt war. <seg type="spc">Er ist von</seg><lb/>
+<seg type="spc"><rs type="pers" ana="n_2473" ref="#fk__p_46960">Goethe</rs> nicht zu trennen</seg>.</QUOTE>«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46960">
+               <persName>Goethe, Johann Wolfgang von</persName>
+               <birth>
+                  <date>1749-8-28</date>
+                  <place>Frankfurt am Main</place>
+               </birth>
+               <death>
+                  <date>1832-3-22</date>
+                  <place>Weimar</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">890/142f.</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11461</idno></person>
+            <person xml:id="fk__p_50383">
+               <persName>Necker, Moriz</persName>
+               <birth>
+                  <date>1857-10-14</date>
+                  <place>Lemberg</place>
+               </birth>
+               <death>
+                  <date>1915-02-16</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Literarhistoriker</occupation>
+               <occupation>Journalist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/28523</idno></person>
+            <person xml:id="fk__p_43876">
+               <persName>Schiller, Friedrich von</persName>
+               <birth>
+                  <date>1759-11-10</date>
+                  <place>Marbach am Neckar</place>
+               </birth>
+               <death>
+                  <date>1805-5-9</date>
+                  <place>Weimar</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Mortimer 363/9, 679/69, 912/7 und 912/58 ist von Ögg Shakespeare zugeordnet</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12654</idno></person>
+            </listPerson></back></text>
+</TEI>

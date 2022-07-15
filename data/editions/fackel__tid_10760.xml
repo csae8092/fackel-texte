@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_10760.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10759.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10761.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Was sich unter den Gestirnen tut, in: Fackel Heft 28, Nr. 743, 1926, S. 107-108</title>
+            <title type="iso-date">1926-12-01</title>
+            <title type="id">tid_10760</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">28</title><title type="heft">743</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-28-743_n0107.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/743,107</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Was sich unter den Gestirnen tut</head>
+            <p ana="pr149712">
+erzählt <rs type="pers" ana="n_89903" ref="#fk__p_53581">Großmann</rs>:<lb/>
+</p>
+            <p ana="pr149714">
+Dieser Mann, der vierzig Jahre <seg type="spc">sein Werk gebaut</seg>, hat in diesen<lb/>
+vier Dezennien nicht ein aufmunterndes Wort von oben empfangen.<lb/>
+<seg type="spc">Von oben</seg>? <seg type="spc">Was war</seg>, <seg type="spc">was ist sein</seg> »<seg type="spc">Oben</seg>«? <seg type="spc">Er stand<lb/>
+sein Leben lang unter den Gestirnen und wuchs</seg>.<lb/>
+Mehr Segen von oben als er haben wenige empfangen!<lb/>
+</p>
+            <p ana="pr149716">
+<seg type="insult"><rs type="pers" ana="n_89904" ref="#fk__p_46454">Kant</rs>? Nein, <rs type="inst"><rs type="pers" ana="n2_7951" ref="#fk__p_37584"><abbr>S.</abbr> Fischer</rs>, Verlag</rs>.</seg><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_37584">
+               <persName>Fischer, Samuel</persName>
+               <birth>
+                  <date>1858-11-25</date>
+                  <place>Liptó Szent Miklós/Ungarn</place>
+               </birth>
+               <death>
+                  <date>1934-10-15</date>
+                  <place>Berlin</place>
+               </death>
+               <occupation>Verleger</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15009</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11324</idno></person>
+            <person xml:id="fk__p_53581">
+               <persName>Großmann, Stefan</persName>
+               <birth>
+                  <date>1875-05-18</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1935-01-03</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11527</idno></person>
+            <person xml:id="fk__p_46454">
+               <persName>Kant, Immanuel</persName>
+               <birth>
+                  <date>1724-4-22</date>
+                  <place>Königsberg</place>
+               </birth>
+               <death>
+                  <date>1804-2-12</date>
+                  <place>Königsberg</place>
+               </death>
+               <occupation>Philosoph</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11871</idno></person>
+            </listPerson></back></text>
+</TEI>

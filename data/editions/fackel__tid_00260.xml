@@ -1,0 +1,31 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00260.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00259.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00261.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Dr. A. M. in St., in: Fackel Heft 01, Nr. 011, 1899, S. 31-31</title>
+            <title type="iso-date">1899-07-01</title>
+            <title type="id">tid_00260</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">011</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-011_n0031.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/011,031</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Dr. A. M. in St.</head>
+            <p ana="pr2486">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_1819" ref="#fk__p_40672"><abbr>Dr. A. M.</abbr></rs> in <abbr>St.</abbr></seg></seg> Bitte nur <rs type="selfRef" ana="werk_683"><abbr>Nr.</abbr> 7</rs> genauer durchzusehen.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_40672">
+               <persName>M., Dr. A.</persName>
+               <note type="comment">in St.</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

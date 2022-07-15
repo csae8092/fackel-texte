@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_10251.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10250.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10252.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Aus neuer Zeit, in: Fackel Heft 27, Nr. 697, 1925, S. 27-27</title>
+            <title type="iso-date">1925-10-01</title>
+            <title type="id">tid_10251</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">27</title><title type="heft">697</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-27-697_n0027.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/697,027</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Aus neuer Zeit</head>
+            <p ana="pr139658">
+<space/>— — Dann namens der Stadt Wien Bürgermeister <rs type="pers" ana="n_85446" ref="#fk__p_47621"><seg type="spc">Seitz</seg></rs>, der<lb/>
+in schlichten, gemütvollen Worten <rs type="pers" ana="n_85447" ref="#fk__p_52080"><seg type="spc">Reimers</seg></rs> auch als <seg type="spc">den Bürger<lb/>
+einer neuen Zeit</seg> feierte <seg type="symbol" subtype="4dots"/><lb/>
+</p>
+            <p ana="pr139660">
+<foreign xml:lang="de-loc">Denn nöchtswördech ist die Nation, die nöcht ihr Allas freudich<lb/>
+sätzt an ihra <seg type="insult">Ähra</seg>!<lb/></foreign>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_47621">
+               <persName>Seitz, Karl</persName>
+               <birth>
+                  <date>1869-9-4</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1950-2-3</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <note type="comment">05.03.1919 bis 16.12.1920 Präs. der Nationalversammlg., Staatsoberhaupt</note>
+               <note type="comment">ab 01. 10. 1920 interimistischer Bundespräsident</note>
+               <note type="comment">Nov. 1923 bis Feber 1934 Wr. Bürgermeister</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12766</idno></person>
+            <person xml:id="fk__p_52080">
+               <persName>Reimers, Georg</persName>
+               <birth>
+                  <date>1860-4-4</date>
+                  <place>Altona</place>
+               </birth>
+               <death>
+                  <date>1936-4-15</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <note type="comment">ab 1885 am Burgtheater, 1922 EM</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12498</idno></person>
+            </listPerson></back></text>
+</TEI>

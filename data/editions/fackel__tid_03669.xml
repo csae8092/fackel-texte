@@ -1,0 +1,43 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03669.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03668.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03670.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Redner. (Ein guter Ausdruck), in: Fackel Heft 06, Nr. 165, 1904, S. 24-24</title>
+            <title type="iso-date">1904-07-8</title>
+            <title type="id">tid_03669</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">06</title><title type="heft">165</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-06-165_n0024.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/165,024</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Redner. (Ein guter Ausdruck)</head>
+            <p ana="pr36475">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="name_203160" key="#fk__p_60585">Redner</rs>.</seg></seg></seg> <seg type="insult">Aus der ‚<rs type="paper" ana="werk_13300">Neuen Freien Presse</rs>‘</seg>: »Herr <rs type="pers" ana="name_200626" ref="#fk__p_59403">Makino Nobuaki</rs><lb/>
+führt die Konversation mit Europäern gewöhnlich in englischer <seg type="spc">Sprache</seg>,<lb/>
+die er noch ungleich geläufiger <seg type="spc">handhabt</seg> als das Französische.«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_59403">
+               <persName>Makino Nobuaki, Graf</persName>
+               <birth>
+                  <date>1861-11-24</date>
+                  <place>Satsuma</place>
+               </birth>
+               <death>
+                  <date>1949-1-25</date>
+                  <place>Tokio</place>
+               </death>
+               <occupation>Diplomat</occupation>
+               <occupation>Politiker</occupation>
+               <note type="comment"/>
+            </person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03251.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03250.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03252.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Liebe Fackel!, in: Fackel Heft 05, Nr. 143, 1903, S. 25-26</title>
+            <title type="iso-date">1903-10-6</title>
+            <title type="id">tid_03251</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">05</title><title type="heft">143</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-05-143_n0025.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/143,025</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Liebe Fackel!</head>
+            <p ana="pr32044">
+<space/><seg type="insult">Herr <rs type="pers" ana="n_27646" ref="#fk__p_40952"><abbr>v.</abbr> Koerber</rs></seg>, der in letzter Zeit wieder eine <seg type="insult">verschwenderische<lb/>
+ Fülle von Komthurkreuzen des <rs type="pers" ana="n_27647" ref="#fk__p_43514">Franz Josefsordens</rs></seg> auf die<lb/>
+<seg type="insult">Häupter der Wiener Banquiers und Fabriksbesitzer</seg> herabließ, hat sich,<lb/>
+dem <seg type="insult">»Zug der Zeit«</seg> entsprechend und da jetzt ohnedies schon<lb/>
+alles eins ist, zu einer Abänderung der Ordensbezeichnung entschlossen.<lb/>
+Die Anregung der ‚<rs type="self" ana="werk_12077">Fackel</rs>‘, den <rs type="pers" ana="n_27648" ref="#fk__p_43514">Franz Josefsorden</rs> in einen<lb/>
+<seg type="insult"><seg type="spc">Franz Josefsquai-Orden</seg></seg> umzutaufen, wurde zwar vorläufig<lb/>
+</p>
+            <p ana="pr32044">
+noch nicht »ins Auge gefaßt«, wohl aber soll, wie aus guter<lb/>
+Quelle verlautet, das Komthurkreuz von nun an <seg type="insult"><seg type="spc">Komptoirkreuz</seg></seg><lb/>
+heißen.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_43514">
+               <persName>Franz Joseph I., Kaiser</persName>
+               <birth>
+                  <date>1830-8-18</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1916-11-21</date>
+                  <place>Wien</place>
+               </death>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15150</idno></person>
+            <person xml:id="fk__p_40952">
+               <persName>Koerber, Ernest von</persName>
+               <birth>
+                  <date>1850-11-6</date>
+                  <place>Trient</place>
+               </birth>
+               <death>
+                  <date>1919-3-4</date>
+                  <place>Baden bei Wien</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <note type="comment">Handels-, Innen-, Justizminister, 1900-04, Okt. bis Dez. 1916 Ministerpräsident</note>
+               <note type="comment">Handels-, Innen-, Justizminister, 1900-04, Okt. bis Dez. 1916 Ministerpräsident</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11955</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03447.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03446.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03448.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Durch ein Versehen, in: Fackel Heft 05, Nr. 153, 1904, S. 7-7</title>
+            <title type="iso-date">1904-01-27</title>
+            <title type="id">tid_03447</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">05</title><title type="heft">153</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-05-153_n0007.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/153,007</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Durch ein Versehen</head>
+            <p ana="pr34251">
+<space/><inciptit>In</inciptit> das <seg ana="‚Neue Wiener Tagblatt‘ vom 16. Jänner"/><lb/>
+ist durch das Versehen eines Redakteurs die folgende<lb/>
+Notiz geraten:<lb/>
+</p>
+            <p ana="pr34253">
+<space/>»<QUOTE rn="1" sourceID="FK-05-153_n0007_a">(<rs type="pers" ana="n_29491" ref="#fk__p_51794">Prinzessin Luise von Coburg</rs>.) Aus Dresden, <date>15. <abbr>d.</abbr></date>, wird<lb/>
+uns telegraphiert: <rs type="pers" ana="n_29492" ref="#fk__p_51794">Prinzessin Luise von Coburg</rs> erschien gestern<lb/>
+Abends mit dem Geheimrat <rs type="pers" ana="n_29493" ref="#fk__p_51469">Pierson</rs>, dem Leiter der <rs type="inst">Heilanstalt<lb/>
+Coswig</rs>, in einem Konzert. Die Prinzessin sah überaus frisch und<lb/>
+gesund aus und wurde lebhaft begrüßt. Sie unterhielt sich mit<lb/>
+verschiedenen Aristokraten. Von einer geistigen Umnachtung war<lb/>
+nichts zu bemerken.</QUOTE>«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_51469">
+               <persName>Pierson, Reginald Henry Holmes</persName>
+               <birth>
+                  <date>1846-11-19</date>
+                  <place>Berlin</place>
+               </birth>
+               <death>
+                  <date>1906-08-13</date>
+                  <place>Dresden</place>
+               </death>
+               <occupation>Psychiater</occupation>
+               <note type="comment">Besitzer und Leiter der Heilanstalt Lindenhof bei Dresden</note>
+            </person>
+            <person xml:id="fk__p_51794">
+               <persName>Coburg, Prinzessin Louise Maria Amalie von, geb. Prinzessin von Belgien</persName>
+               <birth>
+                  <date>1858-02-18</date>
+                  <place>Laeken</place>
+               </birth>
+               <death>
+                  <date>1924-03-01</date>
+                  <place>Wiesbaden</place>
+               </death>
+               <note type="comment">NFP 5.11.1927, Seite 10: Film über ihr Leben, Erna Morena in der Hauptrolle</note>
+               <note type="comment">134/9 von Ögg Luise von Sachsen zugeteilt</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

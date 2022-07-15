@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03051.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03050.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03052.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Habitué. (Die Kleinen und die Großen), in: Fackel Heft 04, Nr. 134, 1903, S. 32-32</title>
+            <title type="iso-date">1903-04-6</title>
+            <title type="id">tid_03051</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">04</title><title type="heft">134</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-04-134_n0032.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/134,032</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Habitué. (Die Kleinen und die Großen)</head>
+            <p ana="pr30037">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_26028" ref="#fk__p_45322">Habitué</rs>.</seg></seg> <seg type="insult"><rs type="pers" ana="n_26029" ref="#fk__p_46698">Lippowitzens</rs> Plauderer</seg> hat neulich (<date>17. März</date>) »<rs type="pers" ana="n_26030" key="#fk__p_53817">Susa</rs><lb/>
+und <rs type="pers" ana="n_26031" key="#fk__p_46741">Janku</rs>«, zwei in der <rs type="inst"><rs type="pers" ana="n2_1983" ref="#fk__p_57640">Carltheateroperette</rs></rs> beschäftigte Theaterkinder<lb/>
+interviewt. Die Idee an sich ist lieblich; aber interessanter noch ist ihre<lb/>
+Ausführung: »— — Irgend eine Dame hatte die Absicht, mich mit<lb/>
+der kleinen Künstlerin bekannt zu machen; sie aber rief: ‚Ach, danke,<lb/>
+<seg type="spc">den</seg> Herrn kenn’ ich schon lang’, der ist ja vom ‚<rs type="paper" ana="werk_11093">Neuen Wiener<lb/>
+Journal</rs>‘!‘ Und als ich ihr die Hand reichte, drohte sie mir mit dem<lb/>
+Finger: ‚Sie, das sage ich Ihnen aber gleich: schreiben Sie gut über<lb/>
+mich, sonst <seg type="symbol" subtype="3dots"/>‘ <seg type="spc">Mir kam vor</seg>, <seg type="spc">als ob ich Aehnliches schon<lb/>
+irgendwo einmal gehört hätte</seg>. Nur waren es gewöhnlich <seg type="spc">erwachsenere<lb/>
+ Damen</seg>, <seg type="spc">die es mir sagten</seg>. Der Kleinen aber gab ich<lb/>
+ohneweiters das Versprechen, sie gut zu recensieren. ‚<seg type="spc">Bekomm’ ich<lb/>
+aber dann auch einen Kuss von Dir</seg>?‘ — ‚Na, wir wollen sehen.<lb/>
+<seg type="spc">Zuerst aber schreiben</seg>!‘ — —«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_45322">
+               <persName>Habitué</persName>
+            </person>
+            <person xml:id="fk__p_46698">
+               <persName>Lippowitz, Jakob (Siegmund)</persName>
+               <birth>
+                  <date>1865-10-9</date>
+                  <place>Leipzig</place>
+               </birth>
+               <death>
+                  <date>1934-7-4</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17583</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/4054</idno></person>
+            <person xml:id="fk__p_57640">
+               <persName>Carl, Carl</persName>
+               <birth>
+                  <date>1789-11-7</date>
+                  <place>Krakau</place>
+               </birth>
+               <death>
+                  <date>1854-8-14</date>
+                  <place>Bad Ischl</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <occupation>Regisseur</occupation>
+               <occupation>Theaterleiter</occupation>
+               <note type="comment">Ögg: Freiherr von Bernbrunn</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

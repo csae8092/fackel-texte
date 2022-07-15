@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06790.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06789.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06791.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ein Ordensritter, der nur einheiraten will und dem sonst alles egal ist, in: Fackel Heft 16, Nr. 399, 1914, S. 29-30</title>
+            <title type="iso-date">1914-05-01</title>
+            <title type="id">tid_06790</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">16</title><title type="heft">399</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-16-399_n0029.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/399,029</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ein Ordensritter, der nur einheiraten will und dem sonst alles egal ist</head>
+            <p ana="pr91406">
+<choice><sic>Distingierter</sic><corr>Distinguierter</corr></choice> Dreißiger<lb/>
+</p>
+            <p ana="pr91407">
+Christ, sprachenkundig, mit<lb/>
+größerem Barvermögen, <abbr>Kavallerieoffiz<lb/>
+</abbr> <abbr>a. D.</abbr>, Ordensritter<lb/>
+, sucht Heirat mit reicher<lb/>
+Dame. Körperfehler ist kein<lb/>
+Hindernis. Alter, Konfession<lb/>
+<abbr>u.</abbr> Nation egal. Sehr erwünscht<lb/>
+wäre Einheirat in <abbr>geschäftl.</abbr><lb/>
+<abbr>od.</abbr> Industrieunternehmen.<lb/>
+Briefe <abbr>erb.</abbr> <abbr>unt.</abbr> »Diskretion<lb/>
+ehrenwörtlich <abbr>P.</abbr> 600« an<lb/>
+<rs type="inst"><rs type="pers" ana="n2_5495" ref="#fk__p_58060">Haasenstein</rs> &amp; <rs type="pers" ana="n2_5496" ref="#fk__p_59089">Vogler</rs>, <abbr>A.-G.</abbr></rs>,<lb/>
+Wien, I.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_58060">
+               <persName>Hasenstein, Ferdinand</persName>
+               <birth>
+                  <date>1828-02-13</date>
+                  <place>Gräfentonna/Thüringen</place>
+               </birth>
+               <death>
+                  <date>1901-5-22</date>
+                  <place>Birkenwerder bei Berlin</place>
+               </death>
+               <occupation>Inseratenmakler</occupation>
+            </person>
+            <person xml:id="fk__p_59089">
+               <persName>Vogler (Haasenstein &amp; Vogler A. G., Verlag)</persName>
+               <note type="comment">Leipzig</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

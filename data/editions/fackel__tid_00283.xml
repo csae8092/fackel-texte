@@ -1,0 +1,45 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00283.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00282.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00284.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lapidares aus der ‚Neuen Freien Presse’., in: Fackel Heft 01, Nr. 012, 1899, S. 26-26</title>
+            <title type="iso-date">1899-07-01</title>
+            <title type="id">tid_00283</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">012</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-012_n0026.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/012,026</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Lapidares aus der ‚Neuen Freien Presse’.</head>
+            <p ana="pr2703">
+<space/>Aus einem Ischler Brief, <date>25. Juli</date>: »<QUOTE rn="1" sourceID="FK-01-012_n0026_a">Nur in die Villa <rs type="pers" ana="n_1962" ref="#fk__p_46949">Johann<lb/>
+<seg type="spc">Strauß</seg></rs> ist Trauer eingezogen. <OMED>— —</OMED> Anstatt seiner interessanten<lb/>
+Persönlichkeit, die jeden Besucher Ischls mächtig anzog, findet man<lb/>
+sein Bild auf dem Todtenbette im Salon.</QUOTE>«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46949">
+               <persName>Strauß, Johann jun.</persName>
+               <birth>
+                  <date>1825-10-25</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1899-6-3</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Komponist</occupation>
+               <occupation>Dirigent</occupation>
+               <note type="comment">261/15 zweifelhaft</note>
+               <note type="comment">368/22 Johann Strauß-Theater, 4., Favoritenstr. 8, ab 1931 Scala</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06730.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06729.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06731.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Jammer über Jammer, in: Fackel Heft 16, Nr. 398, 1914, S. 12-12</title>
+            <title type="iso-date">1914-04-01</title>
+            <title type="id">tid_06730</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">16</title><title type="heft">398</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-16-398_n0012.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/398,012</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Jammer über Jammer</head>
+            <p ana="pr90773">
+soll in <seg type="insult">einem Drama von <rs type="pers" ana="n_61809" ref="#fk__p_51269">Paul Wilhelm</rs> »<rs type="title">Der Martersteig</rs>«</seg> —<lb/>
+nicht zu verwechseln mit dem gleichnamigen Theaterdirektor, der<lb/>
+es sicher abgelehnt hätte — vorkommen. Der »<rs type="pers">blinde Dori</rs>« singt<lb/>
+<seg type="insult"><foreign xml:lang="de-loc">»<rs type="title">’s Hoamatlied</rs>«</foreign></seg>, das sehr ergreifend sein soll und außerdem ist<lb/>
+ein <seg type="insult">Schuft von einem Dorfrichter</seg> da. Der Forstaufseher ist in sehr mißliche<lb/>
+ Vermögensumstände geraten. Seine Frau, die den Jammer nicht<lb/>
+mehr mitansehen kann, gerät auch nicht in viel bessere, nachdem sie<lb/>
+sich <seg type="insult">dem schuftigen Dorfrichter</seg>, also dem erstbesten ergeben hat. Das<lb/>
+Kind bekommt nicht nur Lungenentzündung, sondern die Mutter<lb/>
+tötet es auch in einer kalten Winternacht und zwar durch Öffnen<lb/>
+des Fensters. Das ist eine <seg type="insult">Gemeinheit</seg>. Sie gesteht ihm.<lb/>
+</p>
+            <p ana="pr90775">
+<space/>Er aber reißt mit den Worten »<seg type="insult">Bestie</seg>, mir graut vor dir<choice><sic>»</sic><corr>«</corr></choice> das<lb/>
+Gewehr von der Wand, erschießt den Adjunkten und übergibt sich<lb/>
+</p>
+            <p ana="pr90777">
+den rasch herbeigeeilten Gendarmen. Zum Schluß werden sie alle<lb/>
+von einer Lawine begraben. Das ist traurig, aber gerecht. Trotzdem<lb/>
+wird in der <rs type="perRef" ana="werk_20165">Zeitung</rs>, die <seg type="insult">den Dichter <rs type="pers" ana="n_61810" ref="#fk__p_51269">Paul Wilhelm</rs></seg> mit <rs type="pers" ana="n_61811" ref="#fk__p_43574">Schubert</rs><lb/>
+verglichen hat, gesagt:<lb/>
+</p>
+            <p ana="pr90779">
+<space/>Die Bauern, die <rs type="pers" ana="n_61812" ref="#fk__p_51269">Wilhelm</rs> schildert, wirken in Sprache<lb/>
+und Empfindung nicht gerade echt; sie sind wortreiche, von dem<lb/>
+schweigsamen Bauernernst wesentlich entfernte Idealisten.<lb/>
+</p>
+            <p ana="pr90781">
+<space/>Man sollt’s nicht glauben. Natürlich halfen <seg type="insult">der geschlossene<lb/>
+Bau und manches poetisch empfundene Detail</seg> dem Publikum<lb/>
+über solche Bedenken hinweg. Besonders <seg type="insult"><foreign xml:lang="de-loc">»<rs type="title">’s Hoamatlied</rs>«</foreign></seg> schlug<lb/>
+ein. Der <rs type="pers">blinde Dori</rs> soll sogar noch blinder gewirkt haben als<lb/>
+<seg type="insult">die <rs type="pers">blinde Marie</rs> desselben Dichters</seg>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_43574">
+               <persName>Schubert, Franz Peter</persName>
+               <birth>
+                  <date>1797-1-31</date>
+                  <place>Wien-Lichtenthal</place>
+               </birth>
+               <death>
+                  <date>1828-11-19</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Komponist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12729</idno></person>
+            <person xml:id="fk__p_51269">
+               <persName>Wilhelm, Paul</persName>
+               <birth>
+                  <date>1873-4-25</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1916-11-25</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/27150</idno></person>
+            </listPerson></back></text>
+</TEI>

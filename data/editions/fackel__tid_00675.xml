@@ -1,0 +1,48 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00675.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00674.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00676.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">K. k. Postdirection. (K. k. Postdirection), in: Fackel Heft 01, Nr. 027, 1899, S. 31-31</title>
+            <title type="iso-date">1899-12-01</title>
+            <title type="id">tid_00675</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">027</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-027_n0031.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/027,031</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>K. k. Postdirection. (K. k. Postdirection)</head>
+            <p ana="pr6306">
+<space/><seg type="sidehead"><seg type="i"><rs type="inst"><abbr>K. k.</abbr> Postdirection</rs>.</seg></seg> Vor mir liegt schon wieder das Couvert<lb/>
+eines Briefes, der an einen bosnischen Studenten gerichtet war. Das<lb/>
+Couvert zeigt die deutlichen Spuren <seg type="insult"><rs type="pers" ana="n_4749" ref="#fk__p_47435">Kallay’scher Neugierde</rs></seg>. Es trägt<lb/>
+den Vermerk: »Zerrissen angelangt, wurde ämtlich geschlossen.« Das<lb/>
+geschah am Bestimmungsort. Aber wo wurde der Brief ämtlich <seg type="spc">geöffnet<lb/>
+</seg>? Und warum sind es gerade immer die Correspondenten bosnischer<lb/>
+ Studenten, die ihre Briefe so ungeschickt zukleben, dass die<lb/>
+Post und <seg type="insult">Herr <rs type="pers" ana="n_4750" ref="#fk__p_47435">Kallay</rs></seg> nachhelfen müssen?<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_47435">
+               <persName>Kállay von Nagy-Kálló, Bénjamin</persName>
+               <birth>
+                  <date>1839-12-22</date>
+                  <place>Pest</place>
+               </birth>
+               <death>
+                  <date>1903-07-13</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <occupation>Übersetzer</occupation>
+               <note type="comment">1882-1903 Finanzminister</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

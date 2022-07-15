@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02403.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02402.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02404.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Genosse. (Bruder Schuhmeier), in: Fackel Heft 04, Nr. 102, 1902, S. 26-27</title>
+            <title type="iso-date">1902-05-7</title>
+            <title type="id">tid_02403</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">04</title><title type="heft">102</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-04-102_n0026.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/102,026</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Genosse. (Bruder Schuhmeier)</head>
+            <p ana="pr23357">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="n_20302" ref="#fk__p_44267">Genosse</rs>.</seg></seg></seg> <seg type="insult">Herr <rs type="pers" ana="n_20303" ref="#fk__p_43576">Schuhmeier</rs></seg> hat ein dramatisches Talent entdeckt,<lb/>
+<seg type="insult">einen »schlichten« Tischler</seg>, dem die Bretter bald auch die Welt bedeuten<lb/>
+ sollen. Und <seg type="insult">die liberalen Zeitungen</seg> sind voll des Lobes. <seg type="insult">Herr<lb/>
+<rs type="pers" ana="n_20304" ref="#fk__p_52589">Lothar</rs>, <rs type="pers" ana="n_20305" ref="#fk__p_52589">der unglaubliche Thomas</rs> der ‚<rs type="paper" ana="werk_7857">Neuen Freien Presse</rs>‘</seg>, schreibt<lb/>
+</p>
+            <p ana="pr23357">
+einen <seg type="insult">grossen Sonntagsartikel</seg>, und am Montag gibt <seg type="insult">Herr <rs type="pers" ana="n_20306" ref="#fk__p_37986">Landesberg</rs></seg><lb/>
+seinen Segen. Wie ist der <seg type="insult">Rummel</seg> zu erklären? Eine <seg type="insult">Verbrüderung<lb/>
+liberaler und socialdemokratischer Interessen</seg> wird abgeleugnet. Aber<lb/>
+vielleicht kann man, ohne Widerspruch befürchten zu müssen, von einer<lb/>
+solchen sprechen, wenn <seg type="insult">der socialdemokratische Entdecker eines Talents</seg><lb/>
+mit dessen <seg type="insult">liberalen Förderern</seg> <seg type="spc">in einer Loge</seg> sitzt? <seg type="insult">Bruder <rs type="pers" ana="n_20307" ref="#fk__p_43576">Schuhmeier<lb/>
+</rs></seg> wünscht einen grossen Erfolg <seg type="symbol" subtype="3dots"/><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_43576">
+               <persName>Schuhmeier, Franz</persName>
+               <birth>
+                  <date>1864-07-11</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1913-02-11</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <occupation>Journalist</occupation>
+               <note type="comment">7., Kaiserstraße 100</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/24541</idno></person>
+            <person xml:id="fk__p_37986">
+               <persName>Landesberg, Alexander</persName>
+               <birth>
+                  <date>1846-7-14</date>
+                  <place>Großwardein</place>
+               </birth>
+               <death>
+                  <date>1916-6-14</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Localzugs-Studien in der "Sonn- und Montags-Zeitung" Herr Bachsteiner ist eine Figur</note>
+               <note type="comment">"Schnüfferl "Aus dem Souffleurkasten"</note>
+               <note type="comment">lBachsteiner, von Ögg als Journalist ident., ist Figur. Siehe z. B. So- u. Mo.Ztg. 23.6.02</note>
+               <note type="comment">Ögg gibt ihm 378/24 mit Fragezeichen, wohl als vermutetem Autor des Zitats</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2577</idno></person>
+            <person xml:id="fk__p_52589">
+               <persName>Lothar, Rudolph</persName>
+               <birth>
+                  <date>1865-2-23</date>
+                  <place>Pest</place>
+               </birth>
+               <death>
+                  <date>1943-10-2</date>
+                  <place>Budapest</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Kritiker</occupation>
+               <note type="comment">743/107 Hans Müller ist offenbar für Thomas reserviert</note>
+               <note type="comment">Die Metternich-Pastete. Ein appetitliches Lustspiel in 3 Gängen. Leipzig, 1917. 96 S</note>
+               <note type="comment">fordert einen Offenbach-Querschnitt (F 845/14, 857/114)</note>
+            </person>
+            <person xml:id="fk__p_44267">
+               <persName>Genosse</persName>
+            </person>
+            </listPerson></back></text>
+</TEI>

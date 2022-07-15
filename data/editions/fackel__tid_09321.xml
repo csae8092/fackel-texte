@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_09321.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09320.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09322.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(„Monna Vanna“ und die Wiener Arbeiter), in: Fackel Heft 24, Nr. 608, 1922, S. 39-39</title>
+            <title type="iso-date">1922-12-01</title>
+            <title type="id">tid_09321</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">24</title><title type="heft">608</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-24-608_n0039.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/608,039</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(„Monna Vanna“ und die Wiener Arbeiter)</head>
+            <p ana="pr124038">
+<space/><seg type="sidehead">(<rs type="inst">Burgtheater</rs>.)</seg> <seg type="symbol" subtype="3dots"/> <rs type="pers" ana="n_76182" ref="#fk__p_49517">Maeterlincks</rs> »<rs type="title"><rs type="pers">Monna Vanna</rs></rs>« ist eine der<lb/>
+ersten Verkündungen der Überhöhung und Überwindung der<lb/>
+Sexualität in der Erotik, auf die gegenwärtig <rs type="pers" ana="n_76183" ref="#fk__p_50443">Müller Lyers</rs> und<lb/>
+<rs type="pers" ana="n_76184" ref="#fk__p_47753">Kaweraus</rs> philosophische Zuversicht zielt. Als solche Verkündung<lb/>
+kommt das Werk aber im <rs type="inst">Burgtheater</rs> noch immer nicht zum<lb/>
+Ausdruck<seg type="symbol" subtype="4dots"/> <rs type="pers" ana="n_76185" ref="#fk__p_56377"><AUCTOR><abbr>O. K.</abbr></AUCTOR></rs><lb/>
+</p>
+            <p ana="pr124040">
+<space/>Also wenn <seg type="spc">das</seg> die Wiener Arbeiter nicht unruhig macht,<lb/>
+dann weiß ich schon nicht.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_49517">
+               <persName>Maeterlinck, Maurice</persName>
+               <birth>
+                  <date>1862-8-29</date>
+                  <place>Gent</place>
+               </birth>
+               <death>
+                  <date>1949-5-6</date>
+                  <place>Orlamonde bei Nizza</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12156</idno></person>
+            <person xml:id="fk__p_56377">
+               <persName>König, Otto</persName>
+               <birth>
+                  <date>1881-5-12</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1955-9-13</date>
+                  <place>Klosterneuburg</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Volksbildner</occupation>
+               <note type="comment">795/24 Verwechslungskritiker der AZ</note>
+               <note type="comment">Red. der AZ</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12019</idno></person>
+            <person xml:id="fk__p_50443">
+               <persName>Müller-Lyer, Franz Carl</persName>
+               <birth>
+                  <date>1857-2-5</date>
+                  <place>Baden-Baden</place>
+               </birth>
+               <death>
+                  <date>1916-10-29</date>
+                  <place>München</place>
+               </death>
+               <occupation>Psychiater</occupation>
+               <occupation>Soziologe</occupation>
+               <note type="comment">Entdecker der nach ihm benannten Illusion (opt. Täuschung, gleich lange Linien mit untersch. Pfeilrichtung)</note>
+            </person>
+            <person xml:id="fk__p_47753">
+               <persName>Kawerau, Georg Siegfried</persName>
+               <birth>
+                  <date>1886-12-8</date>
+                  <place>Berlin</place>
+               </birth>
+               <death>
+                  <date>1936-12-16/17</date>
+                  <place>Pustchow</place>
+               </death>
+               <occupation>Schulreformer</occupation>
+               <occupation>Politiker</occupation>
+               <note type="comment">Ögg im Nachtrag: wahrscheinl. Waldemar, Kulturschriftsteller</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

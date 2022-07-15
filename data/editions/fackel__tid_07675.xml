@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07675.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07674.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07676.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Seid umschlungen, Millionen!, in: Fackel Heft 18, Nr. 445, 1234, S. 119-120</title>
+            <title type="iso-date">1234-01-01</title>
+            <title type="id">tid_07675</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">18</title><title type="heft">445</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-18-445_n0119.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/445,119</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Seid umschlungen, Millionen!</head>
+            <p ana="pr103110">
+<space/>Die vierzehnte Million ist das Ergebnis des Vertrauens <seg type="symbol" subtype="4dots"/> In<lb/>
+diesen zwei Monaten ist das Vertrauen <seg type="symbol" subtype="2dots"/> noch gesteigert worden <seg type="symbol" subtype="4dots"/><lb/>
+</p>
+            <p ana="pr103111">
+<space/><seg type="spc">Wir möchten</seg> in diesen vierzehn Millionen zugleich das<lb/>
+Vertrauen unserer Leser erkennen, daß wir auf dem rechten Wege<lb/>
+sind <seg type="symbol" subtype="4dots"/> etwas wie einen Gradmesser des Vertrauens zu haben <seg type="symbol" subtype="4dots"/><lb/>
+<seg type="spc"><rs type="pers" ana="n_66500" ref="#fk__p_46960">Goethe</rs> hat gesagt</seg> <seg type="symbol" subtype="4dots"/><lb/>
+</p>
+            <p ana="pr103112">
+<space/><seg type="spc">Immer wieder möchten wir</seg> <seg type="symbol" subtype="4dots"/> Und <seg type="spc">wieder</seg><lb/>
+möchten wir <seg type="symbol" subtype="4dots"/> nicht nachzulassen in dem Werke des Erbarmens,<lb/>
+nicht im Stolze über das Geleistete <seg type="spc">auf der Höhe der vierzehn</seg><lb/>
+</p>
+            <p ana="pr103112">
+<seg type="spc">Millionen auszuruhen</seg>. Der <rs type="pers" ana="n_66501" ref="#fk__p_46049">Herzog <seg type="spc">Wellington</seg></rs><seg type="spc"> hat einmal<lb/>
+gesagt</seg> <seg type="symbol" subtype="4dots"/> In diesem Geleitwort <seg type="spc">möchten wir alles zusammenfassen<lb/>
+</seg> <seg type="symbol" subtype="4dots"/> Vertrauen auf den Sieg, Vertrauen auf <seg type="spc">die Ehrlichkeit<lb/>
+ der Hand</seg>, die sich bittend entgegenstreckt, Vertrauen auf den<lb/>
+Frieden <seg type="symbol" subtype="4dots"/> stählt <seg type="symbol" subtype="4dots"/><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46960">
+               <persName>Goethe, Johann Wolfgang von</persName>
+               <birth>
+                  <date>1749-8-28</date>
+                  <place>Frankfurt am Main</place>
+               </birth>
+               <death>
+                  <date>1832-3-22</date>
+                  <place>Weimar</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">890/142f.</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11461</idno></person>
+            <person xml:id="fk__p_46049">
+               <persName>Wellington, Herzog von, d. i. Sir Arthur Wellesley</persName>
+               <birth>
+                  <date>1769-5-1?</date>
+                  <place>Dublin</place>
+               </birth>
+               <death>
+                  <date>1852-9-14</date>
+                  <place>Walmer Castle/Kent</place>
+               </death>
+               <occupation>Offizier</occupation>
+               <occupation>Politiker</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

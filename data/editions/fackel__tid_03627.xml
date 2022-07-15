@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03627.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03626.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03628.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Literat. (Ein Buch von Franz Servaes), in: Fackel Heft 06, Nr. 163, 1904, S. 19-20</title>
+            <title type="iso-date">1904-05-31</title>
+            <title type="id">tid_03627</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">06</title><title type="heft">163</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-06-163_n0019.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/163,019</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Literat. (Ein Buch von Franz Servaes)</head>
+            <p ana="pr36095">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="name_203380" ref="#fk__p_49045">Literat</rs>.</seg></seg></seg> Ein wohlwollender Leser sendet mir den folgenden Ausschnitt<lb/>
+ aus der ‚<rs type="" ana="werk_13191">Umschau</rs>‘: »Die Medaille für <seg type="insult">literarischen Stumpfsinn</seg><lb/>
+gebührt dem Roman ‚<rs type="title">Die Karraborier</rs>‘ von <rs type="pers" ana="n_31013" ref="#fk__p_43580">Franz <seg type="spc">Servaes</seg></rs>. Wer sich<lb/>
+gründlich langweilen will, der lese <seg type="insult">diese witzigen Geschichten</seg>. Jeder<lb/>
+Witz erregt nur Schmerz und Mitleid. Wer dagegen vor Lachen Purzelbäume<lb/>
+ schlagen will, der lese <rs type="pers" ana="n_31014" ref="#fk__p_43580">Servaes</rs>, wo er ernst sein will, <abbr>z. B.</abbr><lb/>
+seine Kunstreferate oder die groteske Widmung der ‚<rs type="title">Karraborier</rs>‘: ‚Du<lb/>
+weißt, daß ich diesen rasch hingeworfenen Intermezzi — denen <seg type="insult"><seg type="spc">Gewichtigeres<lb/>
+</seg></seg> bald folgen möge (verschone uns, o Herr!) — etwas von<lb/>
+meinem <seg type="spc">Eigentlichsten</seg> dahingebe, mögen auch rauhe herrische<lb/>
+Stimmen mich hinter die Zaunpfähle der Kritik unfreundlich zurückweisen<lb/>
+ wollen. (<foreign xml:lang="la">Bene loquasti, <seg type="insult">Frater <rs type="pers" ana="n_31015" ref="#fk__p_43580">Servaesti</rs></seg>.</foreign>) Denn Du weißt, daß,<lb/>
+wenn in meiner Kritik etwas Gutes ist, dieses <seg type="spc">aus dem künstlerischen<lb/>
+ Grunde meines Wesens entspringt</seg>‘. Der letzte Satz<lb/>
+</p>
+            <p ana="pr36095">
+ist <seg type="insult">Karraborier-Deutsch</seg>. So geht es fort in <seg type="insult">diesem schwulstigen, possierlichen<lb/>
+ Stil</seg>! An <seg type="insult">solcher unfreiwilligen Komik</seg> ist das Buch überreich,<lb/>
+und insofern kann man es als Unterhaltungslektüre und zur angenehmen<lb/>
+Erschütterung des Zwerchfells nur wärmstens empfehlen.« <seg type="symbol" subtype="3dots"/> Ob auch die<lb/>
+Geschäftsreklamen, die <seg type="insult">der Kunstkritiker der ‚<rs type="paper" ana="werk_13192">Neuen Freien Presse</rs>‘</seg><lb/>
+stilisiert — er schreibt <seg type="insult"><rs type="inst">à <rs type="pers" ana="n2_2426" ref="#fk__p_58739">Portois</rs> &amp; prix <rs type="pers" ana="n2_2427" ref="#fk__p_57902">Fix</rs></rs></seg> —, von <seg type="insult">seinem »Eigentlichsten<lb/>
+«</seg> sind und <seg type="insult">»aus dem künstlerischen Grunde seines Wesens«</seg><lb/>
+entspringen?<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_57902">
+               <persName>Fix (Portois &amp; Fix, Einrichtungshaus)</persName>
+            </person>
+            <person xml:id="fk__p_49045">
+               <persName>Literat</persName>
+            </person>
+            <person xml:id="fk__p_58739">
+               <persName>Portois (Portois &amp; Fix, Einrichtungshaus)</persName>
+               <note type="comment">Wien</note>
+            </person>
+            <person xml:id="fk__p_43580">
+               <persName>Servaes, Franz Theodor Hubert</persName>
+               <birth>
+                  <date>1862-7-17</date>
+                  <place>Köln</place>
+               </birth>
+               <death>
+                  <date>1947-7-14</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Kritiker</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_20068</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12772</idno></person>
+            </listPerson></back></text>
+</TEI>

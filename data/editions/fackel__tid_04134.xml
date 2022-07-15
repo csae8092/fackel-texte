@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_04134.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04133.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04135.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Onkel Salomon. (Ein Enthusiast), in: Fackel Heft 07, Nr. 199, 1906, S. 24-24</title>
+            <title type="iso-date">1906-03-23</title>
+            <title type="id">tid_04134</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">07</title><title type="heft">199</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-07-199_n0024.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/199,024</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Onkel Salomon. (Ein Enthusiast)</head>
+            <p ana="pr43394">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i">Onkel <rs type="pers" ana="n_35625" ref="#fk__p_52716">Salomon</rs>.</seg></seg></seg> Bei der <rs type="pers" ana="n_35626" ref="#fk__p_45715">Heine-Feier</rs> der »<rs type="inst">Konkordia</rs>« ist <seg type="insult">der Vertreter<lb/>
+ der ‚<rs type="paper" ana="werk_14492">Wiener Allgemeinen Zeitung</rs>‘</seg> tobsüchtig geworden. Sein<lb/>
+Bericht lautet: » <seg type="symbol" subtype="3dots"/> Zuerst kam ein Prolog von <rs type="pers" ana="n_35627" ref="#fk__p_49299">Ludwig Hevesi</rs>, der<lb/>
+ja wirklich auch zu den großen Dichtern gehört. Er hat wieder einen<lb/>
+seiner köstlichen Aufsätze geschrieben, die man mit Goldbuchstaben<lb/>
+und künstlichen Miniaturen auf unvergänglichem Pergament oder auf<lb/>
+ehernen Tafeln festhalten sollte, von denen jeder einzelne ein unvergeßliches<lb/>
+, künstlerisches Erlebnis ist, in denen alle Künste, Poesie, Malerei,<lb/>
+Plastik und die Kunst der Architektur, verschmolzen sind zu dem edelsten<lb/>
+Erz der Sprache. Jedes seiner Worte war eine Welt, jeder Satz ein Epigramm<lb/>
+, jeder Absatz eine Geschichte der Literatur, der Kunst oder der<lb/>
+Kultur überhaupt, und mehr als das. Und trotz der Tiefe seiner Philosophie<lb/>
+ schreitet seine Sprache leicht dahin wie eine Tänzerin. Ein ästhetischer<lb/>
+ Genuß von höchstem Reiz war es, zu sehen, wie die große,<lb/>
+vielgewaltige Natur <rs type="pers" ana="n_35628" ref="#fk__p_45715">Heines</rs> sich in dem vielgewandten, stilgewaltigen<lb/>
+<rs type="pers" ana="n_35629" ref="#fk__p_49299">Hevesi</rs> spiegelt: es glänzt, es blitzt von Geist und die Reflexe leuchten<lb/>
+in die höchsten Höhen und die tiefsten Tiefen.«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_49299">
+               <persName>Hevesi, Ludwig</persName>
+               <birth>
+                  <date>1843-12-20</date>
+                  <place>Heves, Ungarn</place>
+               </birth>
+               <death>
+                  <date>1910-2-27</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11687</idno></person>
+            <person xml:id="fk__p_45715">
+               <persName>Heine, Heinrich</persName>
+               <birth>
+                  <date>1797-12-13</date>
+                  <place>Düsseldorf</place>
+               </birth>
+               <death>
+                  <date>1856-2-17</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Journalist</occupation>
+               <note type="comment">Ögg separiert F 24/25 </note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11640</idno></person>
+            <person xml:id="fk__p_52716">
+               <persName>Heine, Salomon</persName>
+               <birth>
+                  <date>1767-10-19</date>
+                  <place>Hannover</place>
+               </birth>
+               <death>
+                  <date>1844-12-23</date>
+                  <place>Hamburg</place>
+               </death>
+               <occupation>Bankier</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

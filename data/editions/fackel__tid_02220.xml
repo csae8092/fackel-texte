@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02220.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02219.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02221.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Neue Freie Physik (Von Professor Victor Loos), in: Fackel Heft 03, Nr. 094, 1902, S. 10-11</title>
+            <title type="iso-date">1902-02-18</title>
+            <title type="id">tid_02220</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">03</title><title type="heft">094</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-03-094_n0010.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/094,010</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Neue Freie Physik (Von Professor Victor Loos)</head>
+            <p ana="pr21664">
+<space/>Die <seg type="insult">»<rs type="paperRef" ana="werk_7141"><seg type="spc">Neue Freie Physik</seg></rs>«</seg> will nicht zur Ruhe kommen.<lb/>
+So findet sich im <seg type="insult"><rs type="paperRef" ana="werk_7142">Morgenblatte aus der Fichtegasse</rs></seg> vom <date>1. <abbr>d. M.</abbr></date><lb/>
+unter dem Titel: »Ein neues Verfahren zur Erzeugung hoher<lb/>
+Temperaturen« ein Bericht über den Vortrag <rs type="pers" ana="n_18844" ref="#fk__p_41143"><abbr>Dr.</abbr> Hans Goldschmidts<lb/>
+</rs>, in welchem <seg type="insult">fast unentwirrbare Sinnlosigkeiten</seg> über die<lb/>
+Energiewerthe bei der Anwendung des aluminothermischen Verfahrens<lb/>
+ in einem Satze comprimiert sind, der also lautet: »Bei diesem<lb/>
+Vorgange wird eine Temperatur von schätzungsweise 3000 Grad<lb/>
+entwickelt. Diese Temperatur zog der Vortragende in einen in<lb/>
+Calorien, respective Ampèrewerthen ausgedrückten Vergleich mit<lb/>
+Kohle und Bogenlicht, dessen Resultat darin gipfelte, dass die<lb/>
+entwickelte Wärmemenge eines Kilogramms Thermit der erstaunlichen<lb/>
+ Ziffer von circa 125.000 Meter-Kilogramm entspricht, was<lb/>
+der Wirkung von etwa 3000 Pferdekräften gleichkommt.« Abgesehen<lb/>
+ davon, dass der Vortragende den angegebenen widersinnigen<lb/>
+Vergleich zwischen der Temperatur seines Verfahrens und der<lb/>
+Calorienzahl der Kohle und den »Ampèrewerthen« des Bogenlichtes<lb/>
+ gar nicht gezogen haben kann, lässt sich auch Arbeit nicht<lb/>
+in den ominösen »Ampèrewerthen« ausdrücken, sondern nur in<lb/>
+Watt oder Voltampèren, und endlich gipfelt <seg type="insult">diese Reporterphysik</seg><lb/>
+in der ergötzlichen Behauptung, dass 125.000 Meterkilogramm<lb/>
+<seg type="spc">etwa</seg> 3000 Pferdekräfte sind. Nicht etwa, sondern ganz genau<lb/>
+sind diese 125.000 Meterkilogramm gleich 1666⅔ Pferdekräften,<lb/>
+wie die einfache Division durch 75 lehrt. Die Notiz war im »<rs type="paperRef" ana="werk_7143">Economist<lb/>
+</rs>« veröffentlicht. In einem der <seg type="insult"><seg type="spc">Fachblätter</seg> der ‚<rs type="paper" ana="werk_7144">Neuen Freien<lb/>
+Presse</rs>‘</seg> wäre sie besser am Platz gewesen.<lb/>
+</p>
+            <p ana="pr21665">
+Professor <rs type="pers" ana="n_18845" ref="#fk__p_54918"><AUCTOR>Victor Loos</AUCTOR></rs>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_41143">
+               <persName>Goldschmidt, Hans</persName>
+               <birth>
+                  <date>1861-1-18</date>
+                  <place>Berlin</place>
+               </birth>
+               <death>
+                  <date>1923-5-21</date>
+                  <place>Baden-Baden</place>
+               </death>
+               <occupation>Chemiker</occupation>
+            </person>
+            <person xml:id="fk__p_54918">
+               <persName>Loos, Viktor</persName>
+               <birth>
+                  <date>1857-3-6</date>
+                  <place>Brünn</place>
+               </birth>
+               <death>
+                  <date>1944-3-4</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Ingenieur</occupation>
+               <occupation>Pädagoge</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

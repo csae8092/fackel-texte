@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07278.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07277.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07279.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Geldadel in England, in: Fackel Heft 18, Nr. 431, 1916, S. 31-31</title>
+            <title type="iso-date">1916-08-01</title>
+            <title type="id">tid_07278</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">18</title><title type="heft">431</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-18-431_n0031.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/431,031</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Geldadel in England</head>
+            <p ana="pr98452">
+<space/>Nach unermüdlichen Bemühungen ist es <rs type="pers" ana="n_65189" ref="#fk__p_55592">William Waldorf-Astor</rs>,<lb/>
+dem amerikanischen Nabob, der in England lebt, gelungen, dort geadelt<lb/>
+zu werden <seg type="symbol" subtype="4dots"/> Im Jahre <date>1899</date> wurde er britischer Staatsbürger und<lb/>
+seither war sein ganzes Sinnen und Trachten auf die Erwerbung des<lb/>
+Adels gerichtet. Er verschenkte Millionen von Dollars an Stiftungen,<lb/>
+die unter dem Protektorat des Königs standen. Aber <rs type="pers" ana="n_65190" ref="#fk__p_42338">König Eduard</rs><lb/>
+dachte gar nicht daran, auf die Wünsche des Multimillionärs einzugehen<lb/>
+ <seg type="symbol" subtype="4dots"/> In den amerikanischen Blättern liest man jetzt eine ausführliche<lb/>
+ Zusammenstellung der Beträge, die <rs type="pers" ana="n_65191" ref="#fk__p_55592">Astor</rs> geopfert hat, um<lb/>
+den Adel zu erreichen: 17 Millionen Mark an die <rs type="inst">Torypartei</rs>, 22 Millionen<lb/>
+Mark für die ‚<rs type="paper" ana="werk_20657"><foreign xml:lang="en">Pall Mall Gazette</foreign></rs>‘, 10 Millionen Mark für Krankenhäuser<lb/>
+und Wohltätigkeitseinrichtungen, 4 Millionen Mark für Feste, die er<lb/>
+seinen königlichen Gästen zu Ehren gab, 4 Millionen Mark an einflußreiche<lb/>
+ Politiker, 6 Millionen Mark zur Linderung der Kriegsnot,<lb/>
+zusammen 63 Millionen Mark <seg type="symbol" subtype="4dots"/><lb/>
+</p>
+            <p ana="pr98454">
+<space/>»Ob man einen Moment Ruh hätt! Können Sie nicht lesen,<lb/>
+daß hier Betteln und Hausieren verboten is?« »Ja, aber einen<lb/>
+schönen Adel hätt ich!« »Kostet?« »150.000.« »Nicht zu machen.<lb/>
+60.000!« »Kost’ mich selbst so viel. 90.000!« »Ausgeschlossen,<lb/>
+70.000!« »Bitt Sie, Sie werden sich doch nicht herstellen, ein<lb/>
+Mann wie Sie!« »Also 80.000!« »Gemacht, <seg type="insult">Herr <rs type="pers" ana="n_65192" ref="#fk__p_55592">von Abeles</rs></seg>!«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_42338">
+               <persName>Eduard VII., König von England</persName>
+               <birth>
+                  <date>1841-11-9</date>
+                  <place>London</place>
+               </birth>
+               <death>
+                  <date>1910-5-6</date>
+                  <place>London</place>
+               </death>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_14622</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/15665</idno></person>
+            <person xml:id="fk__p_55592">
+               <persName>Waldorf-Astor, William, Viscount Astor</persName>
+               <birth>
+                  <date>1848-3-31</date>
+                  <place>New York</place>
+               </birth>
+               <death>
+                  <date>1919-10-18</date>
+                  <place>Brighton/Sussex</place>
+               </death>
+               <occupation>Finanzmann</occupation>
+               <occupation>Politiker</occupation>
+               <occupation>Schriftsteller</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

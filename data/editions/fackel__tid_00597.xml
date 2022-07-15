@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00597.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00596.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00598.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Die Demonstration in der Oper.), in: Fackel Heft 01, Nr. 024, 1899, S. 28-29</title>
+            <title type="iso-date">1899-11-01</title>
+            <title type="id">tid_00597</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">024</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-024_n0028.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/024,028</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Die Demonstration in der Oper.)</head>
+            <p ana="pr5531">
+<space/><inciptit>Ueber</inciptit> die Demonstration gegen den Director <rs type="pers" ana="n_4176" ref="#fk__p_45200">Mahler</rs> während<lb/>
+der letzten Aufführung der »<rs type="title">Meistersinger</rs>« berichtet die ‚<rs type="paper" ana="werk_1424">Neue Freie</rs><lb/>
+</p>
+            <p ana="pr5531">
+<rs type="paper" ana="werk_1425">Presse</rs>‘: — — — Am Schlusse der Oper <seg type="spc">reichten</seg> sich die <rs type="pers" ana="n_4177" ref="#fk__p_52212">Wagner-Enthusiasten<lb/>
+</rs> und die <rs type="pers" ana="n_4178" ref="#fk__p_45200">Mahler-Schwärmer</rs> versöhnt <seg type="spc">die Hände</seg> und<lb/>
+<seg type="spc">applaudierten aus Leibeskräften</seg>.« — Womit?<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_45200">
+               <persName>Mahler, Gustav</persName>
+               <birth>
+                  <date>1860-7-7</date>
+                  <place>Kalischt, Böhmen</place>
+               </birth>
+               <death>
+                  <date>1911-5-18</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Komponist</occupation>
+               <occupation>Dirigent</occupation>
+               <occupation>Theaterleiter</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12163</idno></person>
+            <person xml:id="fk__p_52212">
+               <persName>Wagner, Richard</persName>
+               <birth>
+                  <date>1813-5-22</date>
+                  <place>Leipzig</place>
+               </birth>
+               <death>
+                  <date>1883-2-13</date>
+                  <place>Venedig</place>
+               </death>
+               <occupation>Komponist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/13024</idno></person>
+            </listPerson></back></text>
+</TEI>

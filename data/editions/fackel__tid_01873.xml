@@ -1,0 +1,46 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01873.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01872.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01874.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Socius. (Alles für Geld), in: Fackel Heft 03, Nr. 078, 1901, S. 27-27</title>
+            <title type="iso-date">1901-05-01</title>
+            <title type="id">tid_01873</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">03</title><title type="heft">078</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-03-078_n0027.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/078,027</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Socius. (Alles für Geld)</head>
+            <p ana="pr18321">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_15442" ref="#fk__p_53413"><foreign xml:lang="la">Socius</foreign></rs>.</seg></seg> Zu Pfingsten verkündete die ‚<rs type="paper" ana="werk_5876">Neue Freie Presse</rs>‘, dass<lb/>
+der Burengeneral <rs type="pers" ana="n_15443" ref="#fk__p_40319">De Wet</rs> eigens einen Buren nach Wien entsendet<lb/>
+habe, um bei <seg type="insult">einem auch schon früher durch seinen Größenwahn<lb/>
+bekannten <RS pers="Schlesinger" globID="rs_234">Paprikahändler</RS></seg> eine größere Bestellung zu machen. <seg type="symbol" subtype="2dots"/> Ja,<lb/>
+was thut man für Geld nicht alles!<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_40319">
+               <persName>de Wet (Dewet), Christian Rudolf</persName>
+               <birth>
+                  <date>1854-10-7</date>
+                  <place>Smithfield District/Oranien</place>
+               </birth>
+               <death>
+                  <date>1922-2-3</date>
+                  <place>Dewetsdorp District</place>
+               </death>
+               <occupation>General</occupation>
+            </person>
+            <person xml:id="fk__p_53413">
+               <persName>Socius</persName>
+            </person>
+            </listPerson></back></text>
+</TEI>

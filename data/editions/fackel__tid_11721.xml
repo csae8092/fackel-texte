@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_11721.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11720.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11722.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Wer?, in: Fackel Heft 33, Nr. 852, 1931, S. 19-19</title>
+            <title type="iso-date">1931-05-01</title>
+            <title type="id">tid_11721</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">33</title><title type="heft">852</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-33-852_n0019.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/852,019</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Wer?</head>
+            <p ana="pr170015">
+<space/>»Ich brauche Zeit und brauche auch Ruhe. Darum macht auch<lb/>
+mein Arbeitsraum <seg type="spc">den Eindruck der Weltabgeschiedenheit<lb/>
+</seg>. Ich muß mich beim Instrumentieren ganz einsam fühlen, muß<lb/>
+über jede einzelne Stimme nachdenken können, dann erst kann nach<lb/>
+meinem Geschmack ein Klang entstehen, der das ausdrückt, was ich<lb/>
+fühle, was ich verstandesgemäß sozusagen erst suchen muß.« Und<lb/>
+<rs type="pers" ana="n_101630" ref="#fk__p_47437">Kalman</rs> reicht mir —<lb/>
+</p>
+            <p ana="pr170017">
+Ach so, ich dachte <rs type="pers" ana="n_101631" ref="#fk__p_49349">Beethoven</rs>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_49349">
+               <persName>Beethoven, Ludwig van</persName>
+               <birth>
+                  <date>1770-12-17</date>
+                  <place>Bonn</place>
+               </birth>
+               <death>
+                  <date>1827-3-26</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Komponist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10866</idno></person>
+            <person xml:id="fk__p_47437">
+               <persName>Kálmán, Emmerich</persName>
+               <birth>
+                  <date>1882-10-24</date>
+                  <place>Siófok am Plattensee</place>
+               </birth>
+               <death>
+                  <date>1953-10-30</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Komponist</occupation>
+               <note type="comment">mehrere Nennungen durch Titel: 418/102; 431/42; 445/64; 454/58</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12015</idno></person>
+            </listPerson></back></text>
+</TEI>

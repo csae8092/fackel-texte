@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00955.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00954.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00956.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Historiker. (Staatsrechtliches aus der ‚Neuen Freien Presse‘), in: Fackel Heft 02, Nr. 040, 1900, S. 30-30</title>
+            <title type="iso-date">1900-05-01</title>
+            <title type="id">tid_00955</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">040</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-040_n0030.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/040,030</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Historiker. (Staatsrechtliches aus der ‚Neuen Freien Presse‘)</head>
+            <p ana="pr9215">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="n_7450" ref="#fk__p_46138">Historiker</rs>.</seg></seg></seg> Wer der »<rs type="pers" ana="n_7451" ref="#fk__p_48042"><seg type="spc">König</seg> Sigismund</rs>« ist, von dessen<lb/>
+Statue in der Berliner Siegesallee die ‚<rs type="paper" ana="werk_2585">Neue Freie Presse</rs>‘ am <date>4. Mai</date><lb/>
+erzählte, weiß ich in der That nicht. Interessanter waren mir die<lb/>
+staatsrechtlichen Veränderungen, die die ‚<rs type="paper" ana="werk_2586">Neue Freie Presse</rs>‘ in jenen<lb/>
+Tagen für Oesterreich vorgenommen hat. <seg type="insult">Das <rs type="paperRef" ana="werk_2587">große politische Blatt</rs></seg><lb/>
+brachte in der Abendausgabe vom <date>3. Mai</date> — nicht etwa in einem<lb/>
+Telegramme, nein: an leitender Stelle — die folgende Betrachtung:<lb/>
+»Kaum jemals ist irgendwo ähnliches zum Empfange eines fremden<lb/>
+Monarchen aufgeboten worden, wie diesmal in Berlin zum Empfange<lb/>
+des <seg type="spc">Kaisers von Oesterreich-Ungarn</seg>.«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_48042">
+               <persName>Sigismund, König</persName>
+               <birth>
+                  <date>1368-2-15</date>
+                  <place>Nürnberg</place>
+               </birth>
+               <death>
+                  <date>1437-12-9</date>
+                  <place>Znaim</place>
+               </death>
+               <occupation>König</occupation>
+            </person>
+            <person xml:id="fk__p_46138">
+               <persName>Historiker</persName>
+            </person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_11087.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11086.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11088.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(‚Die Friedenswarte‘), in: Fackel Heft 31, Nr. 811, 1929, S. 31-32</title>
+            <title type="iso-date">1929-08-01</title>
+            <title type="id">tid_11087</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">31</title><title type="heft">811</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-31-811_n0031.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/811,031</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(‚Die Friedenswarte‘)</head>
+            <p ana="pr160146">
+<seg ana="‚Die Friedenswarte‘ (Berlin, XXIX., Mai 1929)"/>:<lb/>
+</p>
+            <p ana="pr160148">
+<OMED>— —</OMED> Menschen, die den Mut und den Willen zum Leben haben,<lb/>
+<seg type="spc">muß</seg> dieser <seg type="insult">Wahnsinn</seg> zu flammendem Protest stacheln, zum Protest<lb/>
+</p>
+            <p ana="pr160148">
+der Tat. Tat, das ist nicht erst: persönliches, manuelles Eingreifen;<lb/>
+Tat, das ist bereits: ein Werk, durch das ein Handeln ausgelöst wird.<lb/>
+Tat, das sind: »<rs type="title">Die letzten Tage der Menschheit</rs>« von <rs type="pers" ana="n_96018" ref="#fk__p_47565">Karl Kraus</rs>.<lb/>
+Alle »Romantik« des Krieges (von der <rs type="pers" ana="n_96019" ref="#fk__p_42757"><seg type="spc">Remarque</seg></rs> noch manches<lb/>
+gelten läßt, ja, die für ihn einziger Ausweg, einzige Möglichkeit war,<lb/>
+die Last zu ertragen), wird hier gründlichst zerstört. <rs type="pers" ana="n_96020" ref="#fk__p_47565">Karl Kraus</rs> zeigte<lb/>
+<seg type="insult">Heimat</seg>, <seg type="insult">Kriegsverdiener</seg>, <seg type="insult">Etappenschweine</seg> und formte in dem Monolog<lb/>
+»<rs type="title">Der <rs type="pers">Nörgler</rs> am Schreibtisch</rs>« <seg type="spc">die</seg> Anklage gegen den Krieg. Das<lb/>
+große Kunstwerk, in dessen Mosaik dieser Monolog nur ein Stein ist,<lb/>
+bedeutet treuestes Abbild zugleich und schärfste Anklage. Anklage —<lb/>
+und Anstachlung zur Tat (wenn auch nicht Anleitung zum Handeln).<lb/>
+Gemessen an den »<rs type="title">Letzten Tagen der Menschheit</rs>« erscheint <rs type="pers" ana="n_96021" ref="#fk__p_42757">Remarques</rs><lb/>
+großes Buch klein. Das Drama, dessen Aufführung »einem Marstheater<lb/>
+zugedacht« ist, zwingt uns zur Entscheidung; das »Denkmal des<lb/>
+unbekannten Soldaten« umgeht die Entscheidung. <OMED>— —</OMED><lb/>
+</p>
+            <p ana="pr160149">
+<rs type="pers" ana="n_96022" ref="#fk__p_55225"><AUCTOR>Walther Karsch</AUCTOR></rs><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_42757">
+               <persName>Remarque, Erich Maria</persName>
+               <birth>
+                  <date>1898-6-22</date>
+                  <place>Osnabrück</place>
+               </birth>
+               <death>
+                  <date>1970-9-25</date>
+                  <place>Locarno</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/9480</idno></person>
+            <person xml:id="fk__p_47565">
+               <persName>Kraus, Karl</persName>
+               <birth>
+                  <date>1874-4-28</date>
+                  <place>Jicin, Böhmen</place>
+               </birth>
+               <death>
+                  <date>1936-6-12</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Publizist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11988</idno></person>
+            <person xml:id="fk__p_55225">
+               <persName>Karsch, Walther</persName>
+               <birth>
+                  <date>1906-10-11</date>
+                  <place>Dresden</place>
+               </birth>
+               <death>
+                  <date>1975-10-16</date>
+                  <place>Berlin</place>
+               </death>
+               <occupation>Kritiker</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

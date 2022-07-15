@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_09511.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09510.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09512.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Offenbach, in: Fackel Heft 25, Nr. 622, 1923, S. 150-150</title>
+            <title type="iso-date">1923-06-01</title>
+            <title type="id">tid_09511</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">25</title><title type="heft">622</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-25-622_n0150.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/622,150</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Offenbach</head>
+            <lg>
+<l>O <rs type="pers" ana="n_78370" ref="#fk__p_46664">Offenbach</rs>, von dessen Zaubergeige</l>
+<l>das Wunder blaut wie jenes <RS persTitle="Offenbach" title="Ritter Blaubart">Ritters Bart</RS>,</l>
+<l>du aller Welten holde Gegenwart,</l>
+<l>von Lust zu Schmerz unsagbar zarte Neige!</l>
+</lg>
+            <lg>
+<l>Auf deiner Erde war mir zu erschauen</l>
+<l>das Farbenglück von allen Jahreszeiten</l>
+<l>und Würdefall in alle Menschlichkeiten</l>
+<l>und süßes Weh der gruftbefreiten Frauen.</l>
+</lg>
+            <lg>
+<l>O <rs type="pers" ana="n_78371" ref="#fk__p_46664">Offenbach</rs>, vor deinem Narrenchor</l>
+<l>wie lahmt die Welt, die deinem Ton verschlossen!</l>
+<l>Hab’ einst ich ihren Mißton ausgenossen,</l>
+<l>ich öffne <rs type="pers">Blaubarts</rs> Grabgesang mein Ohr.</l>
+</lg>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46664">
+               <persName>Offenbach, Jacques</persName>
+               <birth>
+                  <date>1819-06-21</date>
+                  <place>Köln</place>
+               </birth>
+               <death>
+                  <date>1880-10-05</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Komponist</occupation>
+               <note type="comment">Ögg teilt Fortunato F 876/34 Shakespeare zu</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/9131</idno></person>
+            </listPerson></back></text>
+</TEI>

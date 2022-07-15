@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_08779.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08778.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08780.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Anzeige von Franz Janowitz’: „Auf der Erde“), in: Fackel Heft 22, Nr. 546, 1920, S. 68-68</title>
+            <title type="iso-date">1920-07-01</title>
+            <title type="id">tid_08779</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">22</title><title type="heft">546</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-22-546_n0068.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/546,068</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Anzeige von Franz Janowitz’: „Auf der Erde“)</head>
+            <p ana="pr116444">
+<space/>»<rs type="title"><seg type="spc">Auf der Erde</seg></rs>« — nicht wie es auf dem Umschlag<lb/>
+des <rs type="selfRef" ana="werk_22326">letzten Heftes</rs> durch einen beziehungsvollen Druckfehler hieß:<lb/>
+»<rs type="title"><SPAN norm="Auf">Unter</SPAN> der Erde</rs>« —, die Gedichte aus dem Nachlaß von<lb/>
+<rs type="pers" ana="n_72065" ref="#fk__p_43507"><seg type="spc">Franz Janowitz</seg></rs> (mit einleitenden Versen von <rs type="pers" ana="n_72066" ref="#fk__p_47565">Karl Kraus</rs>)<lb/>
+sind im <rs type="inst">Verlag <rs type="pers" ana="n2_6579" ref="#fk__p_48414">Kurt Wolff</rs></rs> erschienen. Rechtzeitig sei die Literaturkritik<lb/>
+ gewarnt, hier eine Verknüpfung mit <seg type="insult">jener O Mensch-Lyrik</seg>,<lb/>
+die von Prag aus ins Breite ging, zu versuchen. Hier <seg type="spc">war</seg> es<lb/>
+einer, ohne <seg type="insult">die Vokative der Menschlichkeit</seg> zu bemühen, und<lb/>
+er ist gewesen, weil er es vorgezogen hat, im Schützengraben<lb/>
+die Wiesen seiner Heimat zu erleben als im <seg type="insult">Pressequartier</seg> das<lb/>
+<seg type="insult">Vaterland</seg> zu verteidigen. Aber er war, der er ist, lange ehe die<lb/>
+<seg type="insult">Jugendgenossen</seg> von einem <seg type="ELIDASH">Kindheitserlebnis</seg> und Menschheitserlebnis<lb/>
+berühmt wurden, welches ein Tagebuch als sein eigenes behauptet<lb/>
+und ein Leben, an dem jede Faser echt war, beglaubigt.<lb/>
+Man unterlasse es, Einflüsse nachzuweisen: es könnte gelingen.<lb/>
+Man schweige lieber von einem, der längst ein Dichter war und<lb/>
+es wie ein Geheimnis an der Welt vorbei trug, als daß man ihn in<lb/>
+<seg type="insult">jene Scheinbarkeit</seg> beruft, die <seg type="insult">Literatur</seg> heißt, und wecke den<lb/>
+Toten nicht in das <seg type="insult">Schattenreich</seg>, in welchem kein Hund so<lb/>
+länger leben möchte und nichts, was den Frommen ansprach,<lb/>
+kein Wort gedeiht, kein Baum, kein Herz.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_47565">
+               <persName>Kraus, Karl</persName>
+               <birth>
+                  <date>1874-4-28</date>
+                  <place>Jicin, Böhmen</place>
+               </birth>
+               <death>
+                  <date>1936-6-12</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Publizist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11988</idno></person>
+            <person xml:id="fk__p_48414">
+               <persName>Wolff, Kurt</persName>
+               <birth>
+                  <date>1887-3-3</date>
+                  <place>Bonn</place>
+               </birth>
+               <death>
+                  <date>1963-10-21</date>
+                  <place>Ludwigsburg</place>
+               </death>
+               <occupation>Verleger</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10595</idno></person>
+            <person xml:id="fk__p_43507">
+               <persName>Janowitz, Franz</persName>
+               <birth>
+                  <date>1892-07-28</date>
+                  <place>Podjebrad/Böhmen</place>
+               </birth>
+               <death>
+                  <date>1917-11-04</date>
+                  <place>Unter-Breth/Küstenland</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38499</idno></person>
+            </listPerson></back></text>
+</TEI>

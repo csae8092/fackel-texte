@@ -1,0 +1,43 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_05165.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05164.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05166.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Nun also, in: Fackel Heft 12, Nr. 307, 1910, S. 33-33</title>
+            <title type="iso-date">1910-11-22</title>
+            <title type="id">tid_05165</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">12</title><title type="heft">307</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-12-307_n0033.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/307,033</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Nun also</head>
+            <p ana="pr66340">
+<space/><choice><sic>«</sic><corr>»</corr></choice>Geheimrat <rs type="pers" ana="n_48310" ref="#fk__p_51196">Ehrlich</rs> erklärt, daß die Zahlungsfähigkeit des<lb/>
+Patienten nicht darüber entscheide, ob er mit dem neuen Mittel<lb/>
+zu behandeln sei. Das hänge lediglich von den Ärzten und ihrem<lb/>
+Urteile ab.«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_51196">
+               <persName>Ehrlich, Paul</persName>
+               <birth>
+                  <date>1854-03-14</date>
+                  <place>Strehlen/Schles.</place>
+               </birth>
+               <death>
+                  <date>1915-08-20</date>
+                  <place>Homburg</place>
+               </death>
+               <occupation>Mediziner</occupation>
+               <note type="comment">das Zitat über Ehrlich findet sich in der NFP 24.06.1910, Seite 9</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_08610.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08609.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08611.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Prag, Mozarteum: 15. November, 7 Uhr:, in: Fackel Heft 21, Nr. 508, 1919, S. 41-41</title>
+            <title type="iso-date">1919-04-01</title>
+            <title type="id">tid_08610</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">21</title><title type="heft">508</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-21-508_n0041.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/508,041</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Prag, Mozarteum: 15. November, 7 Uhr:</head>
+            <p ana="pr112948">
+<space/><seg type="spc">Prag</seg>, <rs type="inst"><rs type="pers" ana="n2_6313" ref="#fk__p_55699">Mozarteum</rs></rs>: <date>15. November</date>, 7 Uhr:<lb/>
+</p>
+            <p ana="pr112949">
+<space/>I. <rs type="title"><rs type="pers"><seg type="spc">Helena</seg></rs></rs>. Von <rs type="pers" ana="n_69902" ref="#fk__p_46960">Goethe</rs> (Musik: <rs type="pers" ana="n_69903" ref="#fk__p_50971"><abbr>Dr.</abbr> Otto Janowitz</rs>).<lb/>
+</p>
+            <p ana="pr112950">
+<space/>II. <rs type="title"><seg type="spc">Worte in Versen</seg></rs>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_55699">
+               <persName>Mozart, Wolfgang Amadeus</persName>
+               <birth>
+                  <date>1756-1-27</date>
+                  <place>Salzburg</place>
+               </birth>
+               <death>
+                  <date>1791-12-5</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Komponist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12303</idno></person>
+            <person xml:id="fk__p_50971">
+               <persName>Janowitz, Otto</persName>
+               <birth>
+                  <date>1888-7-22</date>
+                  <place>Podjebrad/Böhmen</place>
+               </birth>
+               <death>
+                  <date>1965-7</date>
+                  <place>New York</place>
+               </death>
+               <occupation>Pianist</occupation>
+               <note type="comment">Klavierbegleiter von KK</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38543</idno></person>
+            <person xml:id="fk__p_46960">
+               <persName>Goethe, Johann Wolfgang von</persName>
+               <birth>
+                  <date>1749-8-28</date>
+                  <place>Frankfurt am Main</place>
+               </birth>
+               <death>
+                  <date>1832-3-22</date>
+                  <place>Weimar</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">890/142f.</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11461</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_11739.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11738.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11740.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Druckfehlerberichtigung), in: Fackel Heft 33, Nr. 852, 1931, S. 52-53</title>
+            <title type="iso-date">1931-05-01</title>
+            <title type="id">tid_11739</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">33</title><title type="heft">852</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-33-852_n0052.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/852,052</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Druckfehlerberichtigung)</head>
+            <p ana="pr170305">
+<space/>In »<rs type="title">Worte in Versen</rs>« IX, <abbr>S.</abbr> 43, <abbr>Z.</abbr> 7 <abbr>v. u.</abbr> ist, wohl nur<lb/>
+in einem kleinen Teil der Auflage, während des Druckes ein Fehler<lb/>
+entstanden: es soll statt »ebensbildend« <SPAN cont="lebensbildend"><seg type="i">lebens</seg>bildend</SPAN> heißen.<lb/>
+</p>
+            <p ana="pr170306">
+<space/>In der französischen Beilage zu »<RS pers="Jacques Offenbach"><rs type="title" ana="name_202424" ref="#fk__p_46664"><rs type="pers">Perichole</rs></rs></RS>«, <abbr>S.</abbr> III, 1. Spalte,<lb/>
+<abbr>Z.</abbr> 9 lies statt <abbr>S.</abbr> 45—65: <abbr>S.</abbr> <seg type="i">54</seg>—65.<lb/>
+</p>
+            <p ana="pr170307">
+<space/>In den »<rs type="title">Zeitstrophen</rs>«, <abbr>S.</abbr> 7 der Beilage, ist zu dem Couplet<lb/>
+des <rs type="pers">Willibald</rs> als »Musik von <rs type="pers" ana="n_101886" ref="#fk__p_50021">Mechtilde Lichnowsky</rs>« aus Versehen<lb/>
+die nie verwendete Originalmusik von <rs type="pers" ana="n_101887" ref="#fk__p_37834">Adolf Müller</rs> gedruckt. Ein<lb/>
+Notenblatt, das jene enthält, wird dem <rs type="selfRef" ana="werk_31975">nächsten Heft</rs> beigelegt werden.<lb/>
+</p>
+            <p ana="pr170308">
+<space/><FCORR id="fcorr_203" ferrID="ferr_203" href="FK-32-847_n0062.xml">In <rs type="selfRef" ana="werk_31976"><abbr>Nr.</abbr> 847—851</rs>, <abbr>S.</abbr> 62, <abbr>Z.</abbr> 1 ist die Berichtigung: »<abbr>S.</abbr> 85 <seg type="symbol" subtype="4dots"/><lb/>
+<seg type="i">sich</seg>« in die zweite Rubrik der in »<RS pers="Jacques Offenbach"><rs type="title" ana="name_202425" ref="#fk__p_46664"><rs type="pers">Perichole</rs></rs></RS>« bemerkten Fehler,<lb/>
+nach der <abbr>Z.</abbr> 17, einzureihen.</FCORR><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_50021">
+               <persName>Lichnowsky, Mechtilde Fürstin, geb. Gräfin von und zu Arco-Zinneberg</persName>
+               <birth>
+                  <date>1879-3-8</date>
+                  <place>Schloß Schönburg</place>
+               </birth>
+               <death>
+                  <date>1958-6-4</date>
+                  <place>London</place>
+               </death>
+               <occupation>Schriftstellerin</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38988</idno></person>
+            <person xml:id="fk__p_37834">
+               <persName>Müller, Adolf sen.</persName>
+               <birth>
+                  <date>1807-10-7</date>
+                  <place>Tolna/Ungarn</place>
+               </birth>
+               <death>
+                  <date>1886-7-29</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <occupation>Kapellmeister</occupation>
+               <occupation>Komponist</occupation>
+               <note type="comment">Ögg erteilt ihm die Lebensdaten von Adolph Müller jun.</note>
+            </person>
+            <person xml:id="fk__p_46664">
+               <persName>Offenbach, Jacques</persName>
+               <birth>
+                  <date>1819-06-21</date>
+                  <place>Köln</place>
+               </birth>
+               <death>
+                  <date>1880-10-05</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Komponist</occupation>
+               <note type="comment">Ögg teilt Fortunato F 876/34 Shakespeare zu</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/9131</idno></person>
+            </listPerson></back></text>
+</TEI>

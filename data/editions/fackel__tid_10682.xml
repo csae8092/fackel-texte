@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_10682.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10681.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10683.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Verwendung von Fremden, in: Fackel Heft 28, Nr. 743, 1926, S. 25-26</title>
+            <title type="iso-date">1926-12-01</title>
+            <title type="id">tid_10682</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">28</title><title type="heft">743</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-28-743_n0025.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/743,025</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Verwendung von Fremden</head>
+            <p ana="pr148869">
+<space/><seg type="sidehead">E [Die <rs type="inst">schwedische Nationalmannschaft</rs> bei »<rs type="inst"><rs type="pers" ana="n2_7921" ref="#fk__p_58262">Farina</rs> Gegenüber</rs>«.]</seg><lb/>
+Während ihres Aufenthaltes in Wien anläßlich des <rs type="event">Ländermatches<lb/>
+Schweden gegen Oesterreich</rs> besuchte die <rs type="inst">schwedische Nationalmannschaft<lb/>
+</rs> in Begleitung schwedischer und österreichischer Funktionäre am<lb/>
+<date>8.</date> <abbr>d.</abbr> nachmittags die Wiener Niederlassung der wegen ihrer besonders<lb/>
+erquickenden Wirkung vor und nach sportlichen Leistungen in Sportkreisen<lb/>
+ mit Recht äußerst beliebten und bekannten Kölnischwasser-Originalmarke<lb/>
+: <rs type="inst"><rs type="pers" ana="n2_7922" ref="#fk__p_58262">Johann Maria »Farina Gegenüber«</rs></rs> dem Jülichs-Platz.<lb/>
+Die zahlreichen Gäste, unter denen sich auch Redakteur <rs type="pers" ana="n_89392" ref="#fk__p_54221">Torsten Tegnèr</rs><lb/>
+vom <foreign xml:lang="sv">»<rs type="" ana="werk_24295">Idrottsbladet</rs>«</foreign>, Stockholm, samt Gemahlin und Bundeskapitän<lb/>
+<rs type="pers" ana="n_89393" ref="#fk__p_46336">Hugo Meisl</rs> befanden, besichtigten mit großem Interesse den Betrieb,<lb/>
+den sie, in seinen Einzelheiten beobachtend, rückhaltlos lobten.<lb/>
+Besonderes Interesse erweckte die notariell beglaubigte Urkunde über<lb/>
+das Alter der Firma, welche im Jahre <date>1709</date> zu Köln am Rhein<lb/>
+gegründet wurde. <seg type="spc">Vor der Abfahrt erhoben sich die Gäste<lb/>
+in den Autos</seg> und <seg type="spc">brachten als Dank und Anerkennung<lb/>
+das vierfache schwedische</seg> »<seg type="spc">Hurrah</seg>« <seg type="spc">auf</seg> »<rs type="inst"><seg type="spc"><rs type="pers" ana="n2_7923" ref="#fk__p_58262">Farina</rs><lb/>
+Gegenüber</seg></rs>« <seg type="spc">aus</seg>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_58262">
+               <persName>Farina, Johann Maria (Kölnisch Wasser)</persName>
+            </person>
+            <person xml:id="fk__p_54221">
+               <persName>Tegnér, Torsten</persName>
+               <birth>
+                  <date>1888-12-6</date>
+                  <place>Stockholm</place>
+               </birth>
+               <death>
+                  <date>1977-6-10</date>
+               </death>
+               <occupation>Journalist</occupation>
+               <note type="comment">legendärer Sportjournalist</note>
+               <note type="comment">Idrottsbladet, Stockholm 1926</note>
+            </person>
+            <person xml:id="fk__p_46336">
+               <persName>Meisl, Hugo</persName>
+               <birth>
+                  <date>1881-11-16</date>
+                  <place>Maleschau/Böhmen</place>
+               </birth>
+               <death>
+                  <date>1937-02-17</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <note type="comment">Sportjournalist</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

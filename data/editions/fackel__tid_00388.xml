@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00388.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00387.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00389.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Dr. Gründlich; Ew. Sch.; A. S., Weidlingau; J. R.; Eine Unbedeutende; G. P., VIII.; Emil K.; Nur ein M.; Dr. O. M. in K.; Dixi; Erwin E.; W. Kr.; C. G., Prag; W. L., cand. jur.; Käthe W.; Bert-Hold., in: Fackel Heft 01, Nr. 015, 1899, S. 32-32</title>
+            <title type="iso-date">1899-08-01</title>
+            <title type="id">tid_00388</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">015</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-015_n0032.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/015,032</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Dr. Gründlich; Ew. Sch.; A. S., Weidlingau; J. R.; Eine Unbedeutende; G. P., VIII.; Emil K.; Nur ein M.; Dr. O. M. in K.; Dixi; Erwin E.; W. Kr.; C. G., Prag; W. L., cand. jur.; Käthe W.; Bert-Hold.</head>
+            <p ana="pr3485">
+<space/><seg type="i"><seg type="sidehead"><rs type="pers" ana="n_2493" key="#fk__p_41107"><abbr>Dr.</abbr> Gründlich</rs>;</seg> <seg type="sidehead"><rs type="pers" ana="n_2494" key="#fk__p_43009"><abbr>Ew. Sch.</abbr></rs>;</seg> <seg type="sidehead"><rs type="pers" ana="n_2495" ref="#fk__p_37636"><abbr>A. S.</abbr></rs>, Weidlingau;</seg> <seg type="sidehead">J. R.;</seg> <seg type="sidehead"><rs type="pers" ana="n_2496" ref="#fk__p_42455">Eine<lb/>
+Unbedeutende</rs>;</seg> <seg type="sidehead"><rs type="pers" ana="n_2497" key="#fk__p_44146"><abbr>G. P.</abbr></rs>, VIII.;</seg> <seg type="sidehead"><rs type="pers" ana="n_2498" key="#fk__p_56382">Emil <abbr>K.</abbr></rs>;</seg> <seg type="sidehead">Nur ein <rs type="pers" ana="n_2499" ref="#fk__p_59184"><abbr>M.</abbr></rs>;</seg> <seg type="sidehead"><rs type="pers" ana="n_2500" key="#fk__p_41584"><abbr>Dr. O. M.</abbr></rs> in <abbr>K.</abbr>;</seg><lb/>
+<seg type="sidehead"><rs type="pers" ana="n_2501" key="#fk__p_40475">Dixi</rs>;</seg> <seg type="sidehead"><rs type="pers" ana="n_2502" key="#fk__p_42880">Erwin <abbr>E.</abbr></rs>;</seg> <seg type="sidehead"><rs type="pers" ana="n_2503" key="#fk__p_55145"><abbr>W. Kr.</abbr></rs>;</seg> <seg type="sidehead"><rs type="pers" ana="n_2504" ref="#fk__p_39659"><abbr>C. G.</abbr></rs>, Prag;</seg> <seg type="sidehead"><rs type="pers" ana="n_2505" ref="#fk__p_55146"><abbr>W. L.</abbr></rs>, <foreign xml:lang="la"><abbr>cand. jur.</abbr></foreign>;</seg> <seg type="sidehead"><rs type="pers" ana="n_2506" ref="#fk__p_47728">Käthe <abbr>W.</abbr></rs>;</seg><lb/>
+<seg type="sidehead"><rs type="pers" ana="n_2507" ref="#fk__p_39180">Bert-Hold</rs>.</seg></seg> Besten Dank.<lb/>
+</p>
+            <p ana="pr3488">
+<B>Anonyme Anfragen werden nicht beantwortet.</B><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_37636">
+               <persName>S., A.</persName>
+               <note type="comment">Weidlingau</note>
+            </person>
+            <person xml:id="fk__p_47728">
+               <persName>W., Käthe</persName>
+            </person>
+            <person xml:id="fk__p_39180">
+               <persName>Viertel, Berthold</persName>
+               <birth>
+                  <date>1885-6-28</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1953-9-24</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Regisseur</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10364</idno></person>
+            <person xml:id="fk__p_55146">
+               <persName>L., W.</persName>
+               <occupation>Student</occupation>
+               <note type="comment">cand. jur.</note>
+            </person>
+            <person xml:id="fk__p_59184">
+               <persName>M.</persName>
+               <note type="comment"/>
+            </person>
+            <person xml:id="fk__p_39659">
+               <persName>G., C.</persName>
+            </person>
+            <person xml:id="fk__p_42455">
+               <persName>Eine Unbedeutende</persName>
+            </person>
+            </listPerson></back></text>
+</TEI>

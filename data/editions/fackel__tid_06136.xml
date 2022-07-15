@@ -1,0 +1,106 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06136.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06135.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06137.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Brünn, im Deutschen Haus (Neue Akademische Vereinigung),, in: Fackel Heft 14, Nr. 370, 1913, S. 35-35</title>
+            <title type="iso-date">1913-03-01</title>
+            <title type="id">tid_06136</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">14</title><title type="heft">370</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-14-370_n0035.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/370,035</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Brünn, im Deutschen Haus (Neue Akademische Vereinigung),</head>
+            <p ana="pr82746">
+<space/>Brünn, im <rs type="inst">Deutschen Haus</rs> (<rs type="inst">Neue Akademische Vereinigung</rs>),<lb/>
+am <date>21. Februar</date>:<lb/>
+</p>
+            <p ana="pr82748">
+<space/><rs type="pers" ana="n_57951" ref="#fk__p_46919">Nestroy</rs>: Szenen aus: »<rs type="title">Die beiden Nachtwandler</rs>« (von der<lb/>
+18. Szene an, mit Vorwort) II. <rs type="pers" ana="n_57952" ref="#fk__p_43433">Frank Wedekind</rs>: <rs type="title">Das Lied vom armen<lb/>
+Kind</rs> / <rs type="pers" ana="n_57953" ref="#fk__p_51379">Peter Altenberg</rs>: <rs type="title">Landpartie</rs>; <rs type="title">Die Maus</rs> / <rs type="pers" ana="n_57954" ref="#fk__p_47565">Karl Kraus</rs>: <rs type="title">Man muß<lb/>
+die Leute ausreden lassen</rs>; <rs type="title">Auf der Suche nach Fremden</rs>; <rs type="title"><seg type="insult"><foreign xml:lang="fr">Petite<lb/>
+chronique scandaleuse</foreign></seg></rs>; <rs type="title">Ich pfeife auf den Text</rs>; <rs type="title">Bitte, das ist mein<lb/>
+Recht III. <seg type="insult"><rs type="pers">Conrad <abbr>v.</abbr> Hötzendorf</rs></seg></rs> / <rs type="title"><seg type="insult">Harakiri und Feuilleton</seg></rs> (mit Vorwort). —<lb/>
+<rs type="title">Ich rufe die Rettungsgesellschaft</rs>.<lb/>
+</p>
+            <p ana="pr82752">
+<space/>Die nächsten Vorlesungen finden in Prag (<rs type="inst">Palace-Saal</rs>,<lb/>
+<date>4. März</date>), Wien (<rs type="inst">Großer <rs type="pers" ana="n2_5092" ref="#fk__p_49349">Beethovensaal</rs></rs>, <date>10. März</date>) und München<lb/>
+(<rs type="inst">Vier Jahreszeitensaal</rs>, <date>29. März</date>) statt.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_47565">
+               <persName>Kraus, Karl</persName>
+               <birth>
+                  <date>1874-4-28</date>
+                  <place>Jicin, Böhmen</place>
+               </birth>
+               <death>
+                  <date>1936-6-12</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Publizist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11988</idno></person>
+            <person xml:id="fk__p_51379">
+               <persName>Altenberg, Peter</persName>
+               <birth>
+                  <date>1859-3-9</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1919-1-8</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Ögg teilt 531/207 (Nachruf auf Moriz Benedikt) P. A. zu (mit ?)</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2147</idno></person>
+            <person xml:id="fk__p_43433">
+               <persName>Wedekind, Frank</persName>
+               <birth>
+                  <date>1864-7-24</date>
+                  <place>Hannover</place>
+               </birth>
+               <death>
+                  <date>1918-3-9</date>
+                  <place>München</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/13068</idno></person>
+            <person xml:id="fk__p_49349">
+               <persName>Beethoven, Ludwig van</persName>
+               <birth>
+                  <date>1770-12-17</date>
+                  <place>Bonn</place>
+               </birth>
+               <death>
+                  <date>1827-3-26</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Komponist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10866</idno></person>
+            <person xml:id="fk__p_46919">
+               <persName>Nestroy, Johann Nepomuk</persName>
+               <birth>
+                  <date>1801-12-7</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1862-5-25</date>
+                  <place>Graz</place>
+               </death>
+               <occupation>Sänger</occupation>
+               <occupation>Schauspieler</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12338</idno></person>
+            </listPerson></back></text>
+</TEI>

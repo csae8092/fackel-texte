@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01498.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01497.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01499.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Eine Aufforderung und eine Warnung.), in: Fackel Heft 02, Nr. 063, 1900, S. 26-27</title>
+            <title type="iso-date">1900-12-01</title>
+            <title type="id">tid_01498</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">063</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-063_n0026.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/063,026</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Eine Aufforderung und eine Warnung.)</head>
+            <p ana="pr14656">
+<space/>Ich erhalte die folgenden Zuschriften:<lb/>
+</p>
+            <p ana="pr14658">
+<space/>Geehrter Herr! Ihr <rs type="selfRef" ana="werk_40101">geschätztes Blatt</rs> sollte sich doch<lb/>
+einmal mit der Person <seg type="insult">des Herrn Regierungsrathes <rs type="pers" ana="n_12114" ref="#fk__p_55533"><seg type="spc">Neumann</seg></rs></seg> beschäftigen<lb/>
+. Das ist doch entschieden <seg type="insult">eine der interessantesten Persönlichkeiten<lb/>
+ der Wiener Gesellschaft</seg>. <rs type="pers" ana="n_12115" ref="#fk__p_42412"><AUCTOR>Ein Leser</AUCTOR></rs>.<lb/>
+</p>
+            <p ana="pr14661">
+<space/>Euer Wohlgeboren! Als guter Freund rathe ich Ihnen, Herrn<lb/>
+Regierungsrath <rs type="pers" ana="n_12116" ref="#fk__p_55533"><seg type="spc">Neumann</seg></rs> in ihrem <rs type="selfRef" ana="werk_4659"><abbr>gesch.</abbr> Blatte</rs> nicht zu attaquieren.<lb/>
+Es könnte vielleicht für Sie Folgen haben, die Sie selbst nicht voraussehen<lb/>
+. <rs type="pers" ana="n_12117" ref="#fk__p_53469"><AUCTOR>Spectator</AUCTOR></rs>.<lb/>
+</p>
+            <p ana="pr14665">
+<space/><seg type="insult">Herr Regierungsrath <rs type="pers" ana="n_12118" ref="#fk__p_55533">Neumann</rs></seg>: Ich bin nicht näher über ihn<lb/>
+informiert. Aber gegen ihn spricht: 1. dass er <seg type="insult">Leiter des finanziellen<lb/>
+Theiles des ‚<rs type="paper" ana="werk_4660">Fremdenblatt</rs>‘</seg> ist, 2. dass sich niemand in Wien erinnert<lb/>
+, von ihm, der <seg type="insult">eine große Rolle in der ‚<rs type="inst">Concordia</rs>‘</seg> spielt, schon<lb/>
+zehn Zeilen Gedrucktes gelesen zu haben, 3. dass er <seg type="insult">der journalistische<lb/>
+ Vertrauensmann des Herrn <rs type="pers" ana="n_12119" ref="#fk__p_54042"><abbr>v.</abbr> Taussig</rs></seg> ist, 4. dass er deshalb<lb/>
+Regierungsrath wurde, 5. dass man sich in Wien darüber den Kopf<lb/>
+zerbricht, in welchem Verhältnisse <seg type="insult">sein fürstliches Einkommen</seg> zur<lb/>
+Dividende der »<rs type="inst">Elbemühl</rs>« steht, 6. dass er mich seit der Gründung<lb/>
+der ‚<rs type="self" ana="werk_4661">Fackel</rs>‘ besonders freundlich grüßt, und endlich 7. der Brief <seg type="insult">des<lb/>
+Herrn <rs type="pers" ana="n_12120" ref="#fk__p_53469">Spectator</rs></seg>, in dem ich eine ganz neue Art, Angriffen oder —<lb/>
+wie <seg type="insult">der Herr</seg> es nennt — <seg type="insult">»Attaquen«</seg> vorzubeugen, erblicke. Sonst<lb/>
+ist mir über <seg type="insult">Herrn Regierungsrath <rs type="pers" ana="n_12121" ref="#fk__p_55533">Neumann</rs></seg> nichts Nachtheiliges<lb/>
+bekannt.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_53469">
+               <persName>Spectator</persName>
+            </person>
+            <person xml:id="fk__p_42412">
+               <persName>Ein Leser</persName>
+            </person>
+            <person xml:id="fk__p_55533">
+               <persName>Neumann, Wilhelm Friedrich</persName>
+               <birth>
+                  <date>1860-9-6</date>
+                  <place>Trencsin</place>
+               </birth>
+               <death>
+                  <date>1938-4-7</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <note type="comment">Redakteur des "Fremden-Blatt"</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_18424</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/21908</idno></person>
+            <person xml:id="fk__p_54042">
+               <persName>Taussig, Theodor Ritter von</persName>
+               <birth>
+                  <date>1849-7-22</date>
+                  <place>Prag</place>
+               </birth>
+               <death>
+                  <date>1909-11-24</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Bankier</occupation>
+               <occupation>Industrieller</occupation>
+               <note type="comment">Gouverneur der Boden-Credit-Anstalt</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_20650</idno></person>
+            </listPerson></back></text>
+</TEI>

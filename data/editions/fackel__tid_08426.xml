@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_08426.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08425.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08427.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Bibliographisches), in: Fackel Heft 20, Nr. 484, 1918, S. 134-134</title>
+            <title type="iso-date">1918-10-01</title>
+            <title type="id">tid_08426</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">20</title><title type="heft">484</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-20-484_n0134.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/484,134</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Bibliographisches)</head>
+            <p ana="pr111019">
+<space/><seg type="spc">Bibliographisches</seg>. <rs type="" ana="werk_41115">Das neue Deutschland</rs> VI. 21,<lb/>
+<date>1. August</date>: »<rs type="title"><rs type="pers" ana="n2_6198" ref="#fk__p_47565"><rs type="pers" ana="n2_6199" ref="#fk__p_47565">Karl Kraus</rs></rs></rs>« von <rs type="pers" ana="n_69327" key="#fk__p_56681">Paul Nicolaus</rs> (Konstanz) und Nachwort der<lb/>
+Redaktion. — Verschiedene Hefte der ‚<rs type="magazine" ana="werk_21464">Weltbühne</rs>‘. — <rs type="paper" ana="werk_21465">Heidelberger<lb/>
+Neueste Nachrichten</rs>, <date>20. Juli</date>: »<rs type="title">Über <rs type="pers" ana="n2_6200" ref="#fk__p_47565">Karl Kraus</rs></rs>« von <rs type="pers" ana="n_69328" ref="#fk__p_45907">Hermann<lb/>
+Bagusche</rs>. — Hinweise und Zitate in Zeitschriften und Tagesblättern.<lb/>
+</p>
+            <p ana="pr111020">
+<space/><seg type="insult">»<rs type="title">Fremdwörterhatz und Fremdvölkerhaß</rs>.«</seg> Eine Streitschrift gegen<lb/>
+die Sprachreinigung. Von <rs type="pers" ana="n_69329" ref="#fk__p_48759">Leo Spitzer</rs>, Privatdozent an der <rs type="inst">Universität<lb/>
+Wien</rs>. (Wien <date>1918</date> bei Manz.)<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_48759">
+               <persName>Spitzer, Leo</persName>
+               <birth>
+                  <date>1887-02-07</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1960-09-16</date>
+                  <place>Forte dei Marmi</place>
+               </death>
+               <occupation>Romanist</occupation>
+            </person>
+            <person xml:id="fk__p_47565">
+               <persName>Kraus, Karl</persName>
+               <birth>
+                  <date>1874-4-28</date>
+                  <place>Jicin, Böhmen</place>
+               </birth>
+               <death>
+                  <date>1936-6-12</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Publizist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11988</idno></person>
+            <person xml:id="fk__p_45907">
+               <persName>Bagusche, Hermann Paul Otto</persName>
+               <birth>
+                  <date>1884-11-14</date>
+                  <place>Liegnitz/Schlesien</place>
+               </birth>
+               <death>
+                  <date>1969-5-26</date>
+                  <place>Heidelberg</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Journalist</occupation>
+               <note type="comment">"Aufs Korn genommen". Anekdoten u. Betrachtungen, München 1959</note>
+               <note type="comment">Südwestdeutsche Persönlichkeiten 1988</note>
+               <note type="comment">Degener "Wer ist's?" VII. Ausgabe</note>
+               <note type="comment">Chefred. der "Heidelberger Neuesten Nachrichten"</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37828</idno></person>
+            </listPerson></back></text>
+</TEI>

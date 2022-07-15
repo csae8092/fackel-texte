@@ -1,0 +1,131 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_11000.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10999.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11001.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Bibliographische Notiz), in: Fackel Heft 30, Nr. 781, 1928, S. 74-74</title>
+            <title type="iso-date">1928-06-01</title>
+            <title type="id">tid_11000</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">30</title><title type="heft">781</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-30-781_n0074.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/781,074</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Bibliographische Notiz)</head>
+            <p ana="pr155598">
+<space/>»<rs type="" ana="werk_28276">Tat und Wille</rs>« (<rs type="inst">Verlag <rs type="pers" ana="n2_8169" ref="#fk__p_58665">Otto Ulrich</rs> Heilbronn</rs>, <date>1927</date>, Heft 1):<lb/>
+<rs type="pers" ana="n_92963" ref="#fk__p_48395">Kurt Hiller</rs>, »<rs type="title">Presse und politische Kultur</rs>; <rs type="pers" ana="n_92964" ref="#fk__p_49602">Marcel Ray</rs>: »<rs type="title"><rs type="pers" ana="n2_8170" ref="#fk__p_44330">George Groß</rs></rs>«<lb/>
+(<rs type="inst"><rs type="pers" ana="n2_8171" ref="#fk__p_57965"><abbr>G.</abbr> Crès</rs> &amp; Cie</rs>, Paris, <abbr>S.</abbr> 10, 36, 37, 55); <rs type="pers" ana="n_92965" ref="#fk__p_55214">Walter Benjamin</rs>: »<rs type="title">Einbahnstraße<lb/>
+</rs>«, <rs type="inst"><rs type="pers" ana="n2_8172" ref="#fk__p_52522">Ernst Rowohlt</rs> Verlag</rs> Berlin (Kriegerdenkmal <abbr>S.</abbr> 50, 51.<lb/>
+Auch im <rs type="perRef" ana="werk_28277">Märzheft der <rs type="inst">Münchner Kammerspiele</rs></rs>); <abbr>Prof.</abbr> <rs type="pers" ana="n_92966" ref="#fk__p_40892"><abbr>Dr.</abbr> Eduard Castle</rs>,<lb/>
+»<rs type="title">Österreichs Literatur</rs>« (in »<rs type="title">Österreich, sein Land und Volk</rs>«,<lb/>
+<rs type="inst">Verlag für <seg type="ELIDASH">Volkskunde</seg> und Heimatskunde</rs>, Wien und Weimar); <rs type="title"><rs type="pers" ana="n2_8173" ref="#fk__p_58581">Meyers</rs><lb/>
+Lexikon</rs>, <date>1927</date>, 7. Auflage, <abbr>Bd.</abbr> 7).<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_58665">
+               <persName>Ulrich, Otto</persName>
+               <birth>
+                  <date>1892-5-8</date>
+                  <place>Vaihingen</place>
+               </birth>
+               <death>
+                  <date>1945-6-19</date>
+                  <place>Sontheim</place>
+               </death>
+               <occupation>Verleger</occupation>
+               <note type="comment">in Heilbronn</note>
+            </person>
+            <person xml:id="fk__p_49602">
+               <persName>Ray, Marcel</persName>
+               <birth>
+                  <date>1878-6-8</date>
+                  <place>Saint-Léon</place>
+               </birth>
+               <death>
+                  <date>1951-8-11</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Literarhistoriker</occupation>
+               <occupation>Journalist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/23098</idno></person>
+            <person xml:id="fk__p_52522">
+               <persName>Rowohlt, Ernst</persName>
+               <birth>
+                  <date>1887-6-23</date>
+                  <place>Bremen</place>
+               </birth>
+               <death>
+                  <date>1960-2-1</date>
+                  <place>Hamburg</place>
+               </death>
+               <occupation>Verleger</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/9600</idno></person>
+            <person xml:id="fk__p_55214">
+               <persName>Benjamin, Walter</persName>
+               <birth>
+                  <date>1892-07-15</date>
+                  <place>Berlin</place>
+               </birth>
+               <death>
+                  <date>1940-09-26</date>
+                  <place>Port Bou</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Ögg: 27.09.1940 Port Bon</note>
+               <note type="comment">Aufsatz in Programmheft der Krolloper bei "Perichole" 1931</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37852</idno></person>
+            <person xml:id="fk__p_40892">
+               <persName>Castle, Eduard</persName>
+               <birth>
+                  <date>1875-11-7</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1959-6-8</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Literarhistoriker</occupation>
+            </person>
+            <person xml:id="fk__p_57965">
+               <persName>Crès, G. &amp; Cie.(Verlag)</persName>
+               <note type="comment">Paris</note>
+            </person>
+            <person xml:id="fk__p_48395">
+               <persName>Hiller, Kurt</persName>
+               <birth>
+                  <date>1885-8-17</date>
+                  <place>Berlin</place>
+               </birth>
+               <death>
+                  <date>1972-10-1</date>
+                  <place>Hamburg</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Publizist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11694</idno></person>
+            <person xml:id="fk__p_58581">
+               <persName>Meyer (Konversations-Lexikon)</persName>
+            </person>
+            <person xml:id="fk__p_44330">
+               <persName>Grosz, George</persName>
+               <birth>
+                  <date>1893-07-26</date>
+                  <place>Berlin</place>
+               </birth>
+               <death>
+                  <date>1959-07-06</date>
+                  <place>Berlin</place>
+               </death>
+               <occupation>Zeichner</occupation>
+               <occupation>Maler</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/7562</idno></person>
+            </listPerson></back></text>
+</TEI>

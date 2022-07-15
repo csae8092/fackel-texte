@@ -1,0 +1,118 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03320.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03319.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03321.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Büchereinlauf, in: Fackel Heft 05, Nr. 146, 1903, S. 32-32</title>
+            <title type="iso-date">1903-11-11</title>
+            <title type="id">tid_03320</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">05</title><title type="heft">146</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-05-146_n0032.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/146,032</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Büchereinlauf</head>
+            <p ana="pr32797">
+<rs type="pers" ana="n_28347" ref="#fk__p_51324"><seg type="spc">Pehm</seg> <abbr>C.</abbr></rs>, <rs type="title"><seg type="spc">Der heutige Monismus und seine Poesie</seg></rs>. Eine Studie<lb/>
+zu <rs type="pers" ana="n_28348" ref="#fk__p_47542">Karl Hilm’s</rs> Werken. Wien. <rs type="inst"><rs type="pers" ana="n2_2183" ref="#fk__p_55759"><abbr>L.</abbr> Wutschel</rs></rs>.<lb/>
+</p>
+            <p ana="pr32798">
+<rs type="pers" ana="n_28349" ref="#fk__p_55647"><seg type="spc">Withalm</seg> Hans</rs>, <rs type="title"><foreign xml:lang="la"><seg type="spc">Ecce homines</seg>!</foreign></rs> Skizzen. Straßburg. <rs type="inst"><rs type="pers" ana="n2_2184" key="#fk__p_58283">Josef Singer</rs></rs>.<lb/>
+</p>
+            <p ana="pr32799">
+<DITTO cont="Withalm" rend="»"/> <DITTO cont="Hans," rend="»"/> <rs type="title"><seg type="spc">Verbrochenes</seg></rs>. Gedichte. <DITTO cont="Straßburg." rend="»"/> <DITTO cont="Josef" rend="»"/> <DITTO cont="Singer." rend="»"/><lb/>
+</p>
+            <p ana="pr32800">
+<DITTO cont="Withalm" rend="»"/> <DITTO cont="Hans," rend="»"/> <rs type="title"><seg type="spc">Religion — Menschlichkeit</seg></rs>. Ein Dialog. Wien.<lb/>
+Im Selbstverlag.<lb/>
+</p>
+            <p ana="pr32801">
+<rs type="pers" ana="n_28350" ref="#fk__p_37775"><seg type="spc">Gerhold</seg> Franz Josef</rs>, <rs type="title"><seg type="spc">Gärungen — Klärungen</seg></rs>. Wiener Roman.<lb/>
+Wien. <rs type="inst">Österreichische Verlagsanstalt</rs>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_47542">
+               <persName>Hilm, Karl</persName>
+               <birth>
+                  <date>1854-9-3</date>
+                  <place>Florenz</place>
+               </birth>
+               <death>
+                  <date>1953-2-19</date>
+                  <place>Salzburg</place>
+               </death>
+               <occupation>Offizier</occupation>
+               <occupation>Schriftsteller</occupation>
+            </person>
+            <person xml:id="fk__p_37775">
+               <persName>Müller-Guttenbrunn, Adam</persName>
+               <birth>
+                  <date>1852-10-22</date>
+                  <place>Guttenbrunn, Banat</place>
+               </birth>
+               <death>
+                  <date>1923-1-5</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Beamter</occupation>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Theaterleiter</occupation>
+               <note type="comment">F 146/32 Gärungen und Klärungen, Roman Wien 1903</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12331</idno></person>
+            <person xml:id="fk__p_55759">
+               <persName>Wutschel, Ludwig</persName>
+               <birth>
+                  <date>1855-8-17</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1938-1-28</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Publizist</occupation>
+               <occupation>Verleger</occupation>
+               <occupation>Politiker</occupation>
+               <note type="comment">13., Niederhofstr. 19</note>
+               <note type="comment">Zeitungsherausgeber und Zeitungsverschleißer</note>
+               <note type="comment">Reichsratsabgeordneter 1907-18, Gemeinderat</note>
+            </person>
+            <person xml:id="fk__p_55647">
+               <persName>Withalm, Hans</persName>
+               <birth>
+                  <date>1881-2-23</date>
+                  <place>Paris</place>
+               </birth>
+               <death>
+                  <date>1943-1-9</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Ecce homines, Skizzen, Straßburg, Josef Singer 1903; Verbrochenes. Gedichte; Religion - Menschlichkeit. Ein Dialog</note>
+               <note type="comment">Feuerhalle ML 82/1, 16.7.1943 (FD)</note>
+               <note type="comment">Hans Wilhelm Robert Andreas Withalm</note>
+            </person>
+            <person xml:id="fk__p_51324">
+               <persName>Pehm, Carla</persName>
+               <birth>
+                  <date>1867-9-24</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1942-1-28</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Publizistin</occupation>
+               <occupation>Schriftstellerin</occupation>
+               <note type="comment">Der heutige Monismus und seine Poesie. Eine Studie zu Karl Hilm's Werken. Wien o. J.</note>
+               <note type="comment">Mithrsg. der Zs. "Frau und Mutter"</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

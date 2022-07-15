@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01378.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01377.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01379.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">R. K. (Herr Nullus), in: Fackel Heft 02, Nr. 058, 1900, S. 26-27</title>
+            <title type="iso-date">1900-11-01</title>
+            <title type="id">tid_01378</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">058</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-058_n0026.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/058,026</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>R. K. (Herr Nullus)</head>
+            <p ana="pr13139">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_10916" ref="#fk__p_51927"><abbr>R. K.</abbr></rs></seg></seg> Sie fragen, wer <seg type="insult">Herr <rs type="pers" ana="n_10917" key="#fk__p_50730"><seg type="spc">Nullus</seg></rs></seg> ist, der seit einiger Zeit<lb/>
+das Feuilleton der ‚<rs type="paper" ana="werk_4256">Neuen Freien Presse</rs>‘ unsicher macht? <seg type="insult">Kein<lb/>
+Geringerer als Herr <rs type="pers" ana="n_10918" ref="#fk__p_41891">Herzl</rs></seg>, der sich aus dem <seg type="insult">Incognito des »<rs type="pers" ana="n_10919" ref="#fk__p_41891">Kunz</rs>«</seg><lb/>
+gescheucht fühlt. Der <seg type="insult">Trieb zum Nichterkanntwerden</seg> ist das einzig<lb/>
+</p>
+            <p ana="pr13139">
+Löbliche, das man den <seg type="insult">Mitarbeitern der ‚<rs type="paper" ana="werk_4257">Neuen Freien Presse</rs>‘</seg> nachsagen<lb/>
+ kann. Aber man erkennt sie doch. <seg type="insult">Herrn <rs type="pers" ana="n_10920" ref="#fk__p_41891">Herzl-Nullus</rs></seg> <abbr>z. B.</abbr> an<lb/>
+<seg type="insult">den folgenden hübschen Wendungen</seg> seines Feuilletons vom <date>1. November</date>:<lb/>
+»Auf dem Dorfe liegt der Friedhof mitten im täglichen Leben« und<lb/>
+»Ich lag in einem Sommer an der Meeresküste im Sande«.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_51927">
+               <persName>K., R.</persName>
+            </person>
+            <person xml:id="fk__p_41891">
+               <persName>Herzl, Theodor</persName>
+               <birth>
+                  <date>1860-5-2</date>
+                  <place>Pest</place>
+               </birth>
+               <death>
+                  <date>1904-7-3</date>
+                  <place>Edlach, Niederösterreich</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11673</idno></person>
+            </listPerson></back></text>
+</TEI>

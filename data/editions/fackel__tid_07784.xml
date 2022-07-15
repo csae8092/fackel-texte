@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07784.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07783.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07785.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Deutsche Worte, in: Fackel Heft 19, Nr. 454, 1234, S. 42-43</title>
+            <title type="iso-date">1234-01-01</title>
+            <title type="id">tid_07784</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">19</title><title type="heft">454</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-19-454_n0042.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/454,042</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Deutsche Worte</head>
+            <p ana="pr104115">
+<space/>Zwei deutsche Heerführer, deren Namen mit unvergänglichen<lb/>
+Lettern in das Buch dieser Kriegsgeschichte eingezeichnet sind,<lb/>
+äußern sich heute in Zuschriften an den ‚<rs type="paper" ana="werk_21097">Berliner Lokalanzeiger</rs>‘ in markanter<lb/>
+ Weise zu unserem nationalen Daseinskampfe.<lb/>
+</p>
+            <p ana="pr104116">
+<space/>Generaloberst <rs type="pers" ana="n_66959" ref="#fk__p_54599"><abbr>v.</abbr> Kluck</rs>, der seit langem schon in Inaktivität<lb/>
+lebt, sagt am Schluß einer langen Darlegung: <seg type="spc">Das Haupt der<lb/>
+Feinde in das Herz zu treffen</seg>, ist unser Ziel <seg type="symbol" subtype="3dots"/><lb/>
+</p>
+            <p ana="pr104117">
+<space/>Generaloberst <rs type="pers" ana="n_66960" ref="#fk__p_54766"><abbr>v.</abbr> Woyrsch</rs>, der zurzeit bekanntlich noch im<lb/>
+Felde steht, sagt: Wir wollen, wir werden, wir müssen siegen.<lb/>
+Wir <seg type="spc">wollen</seg> siegen, <seg type="spc">weil</seg> das unser unerschütterlicher <seg type="spc">Wille</seg><lb/>
+ist, wir <seg type="spc">werden</seg> siegen, <seg type="spc">weil</seg> Deutschland unbesiegbar ist, wir<lb/>
+<seg type="spc">müssen</seg> siegen, <seg type="spc">weil</seg> es sich um unseres deutschen Vaterlandes<lb/>
+»Sein oder Nichtsein« handelt.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_54766">
+               <persName>Woyrsch, Remus von</persName>
+               <birth>
+                  <date>1847-02-04</date>
+                  <place>Pilsnitz/Breslau</place>
+               </birth>
+               <death>
+                  <date>1920-08-06</date>
+                  <place>Pilsnitz/Breslau</place>
+               </death>
+               <occupation>Generalfeldmarschall</occupation>
+            </person>
+            <person xml:id="fk__p_54599">
+               <persName>Kluck, Alexander von</persName>
+               <birth>
+                  <date>1846-05-20</date>
+                  <place>Münster</place>
+               </birth>
+               <death>
+                  <date>1934-10-19</date>
+                  <place>Berlin</place>
+               </death>
+               <occupation>Generaloberst</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

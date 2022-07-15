@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_10874.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10873.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10875.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Der Vielbeschäftigte, in: Fackel Heft 28, Nr. 751, 1927, S. 124-125</title>
+            <title type="iso-date">1927-02-01</title>
+            <title type="id">tid_10874</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">28</title><title type="heft">751</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-28-751_n0124.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/751,124</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Der Vielbeschäftigte</head>
+            <p ana="pr151471">
+Polizeipräsident <rs type="pers" ana="n_90616" ref="#fk__p_46939">Schober</rs> über den »<rs type="event">Weltfriedenstag</rs>«.<lb/>
+Von unserem Korrespondenten.<lb/>
+</p>
+            <p ana="pr151472">
+Berlin, <date>10. Januar</date><lb/>
+</p>
+            <p ana="pr151473">
+Zu der vom ‚<rs type="paper" ana="werk_24653">8-Uhr-Abendblatt</rs>‘ angeregten Idee eines <rs type="event">Weltfriedenstages</rs><lb/>
+</p>
+            <p ana="pr151475">
+(Das <seg ana="8-Uhr-Abendblatt"/> in Berlin ist <seg type="insult">das üble Sensationsblatt des<lb/>
+Herrn <rs type="pers" ana="n_90617" ref="#fk__p_54910">Viktor Hahn</rs> aus Wien</seg>, das um zwei Stunden später —<lb/>
+<seg type="insult">die Stunde als Wertmaß</seg> genommen — als <seg type="insult">das <rs type="paper" ana="werk_24655">6-Uhr-Abendblatt</rs><lb/>
+in Wien des Herrn <rs type="pers" ana="n_90618" ref="#fk__p_45335">Hacsak</rs> aus Budapest</seg> erscheint)<lb/>
+</p>
+            <p ana="pr151477">
+äußerte sich Bundeskanzler <abbr>a. D.</abbr>, Polizeipräsident <rs type="pers" ana="n_90619" ref="#fk__p_46939">Schober</rs>: »<seg type="spc">Zu schön<lb/>
+gedacht</seg>, um wahr zu sein.« Das war <seg type="spc">der erste Gedanke</seg>,<lb/>
+als ich die <seg type="spc">liebenswürdige Anregung</seg> in einem Schreiben der<lb/>
+Redaktion des ‚<rs type="paper" ana="werk_24656">8-Uhr-Abendblatt</rs>‘ gelesen hatte. <seg type="spc">Doch ohne Ideale<lb/>
+kann der Mensch nicht leben <OMED>— —</OMED></seg><lb/>
+</p>
+            <p ana="pr151479">
+Und ohne Zeitungen offenbar noch weniger.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_54910">
+               <persName>Hahn, Victor</persName>
+               <birth>
+                  <date>1869-08-19</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>leer</date>
+               </death>
+               <occupation>Journalist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/17742</idno></person>
+            <person xml:id="fk__p_45335">
+               <persName>Hacsag, Géza</persName>
+               <birth>
+                  <date>1875-6-5</date>
+                  <place>Budapest</place>
+               </birth>
+               <occupation>Journalist</occupation>
+               <note type="comment">Wr. Allg. Zeitung, das Organ der Herren Hacsak &amp; Herczeg</note>
+               <note type="comment">3., Landstraßer Hauptstr. 1</note>
+            </person>
+            <person xml:id="fk__p_46939">
+               <persName>Schober, Johannes</persName>
+               <birth>
+                  <date>1874-11-14</date>
+                  <place>Perg, Oberösterreich</place>
+               </birth>
+               <death>
+                  <date>1932-8-19</date>
+                  <place>Baden bei Wien</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <note type="comment">Pfarramt Perg: Taufregister: Johannes, Grabstein: Johannes Schober, nicht Johann</note>
+               <note type="comment">Vornamensschreibweise ebenso Czeike, ÖBL</note>
+               <note type="comment">Lebenslauf: NFP 26.9.1929, Seite 4</note>
+               <note type="comment">seit 21.06.1921 Bundeskanzler bis 26.01.1922, von 27.01.1922 bis 24.05.1922, von 26.09.1929 bis 25.09.1930</note>
+               <note type="comment">Polizeipräsident; 1921/22, 1929/30 Bundeskanzler und Außenminister</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/24444</idno></person>
+            </listPerson></back></text>
+</TEI>

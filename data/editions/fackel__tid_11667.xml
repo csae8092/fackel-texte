@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_11667.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11666.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11668.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Untergang der Welt durch schwarze, in: Fackel Heft 32, Nr. 847, 1931, S. 88-88</title>
+            <title type="iso-date">1931-03-01</title>
+            <title type="id">tid_11667</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">32</title><title type="heft">847</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-32-847_n0088.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/847,088</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Untergang der Welt durch schwarze</head>
+            <p ana="pr169425">
+<space/><seg type="sidehead">(<seg type="insult"><seg type="spc">Magie und Journalismus</seg></seg>.)</seg> Anläßlich der Eröffnung der<lb/>
+Plastikausstellung des <rs type="inst"><rs type="pers" ana="n2_9078" ref="#fk__p_58272">Hagenbundes</rs></rs> hielt <rs type="pers" ana="n_101419" ref="#fk__p_41762"><abbr>Dr.</abbr> Rudolf <seg type="spc">Biach</seg></rs> im Atelier des<lb/>
+Malers <rs type="pers" ana="n_101420" ref="#fk__p_43028"><abbr>F. A.</abbr> Harta</rs> einen Vortrag über Magie und Journalistik. Magie,<lb/>
+führte er aus, ist das Wissen um die kosmischen Kräfte und die<lb/>
+Fähigkeit, diese heranzuziehen. <rs type="pers" ana="n_101421" ref="#fk__p_41762"><abbr>Dr.</abbr> <seg type="spc">Biach</seg></rs> verwies darauf, daß die<lb/>
+Journalistik in der Politik, Volkswirtschaft oder Kunst <seg type="spc">geradezu Prophezeiungen<lb/>
+</seg> gebe, <seg type="spc">daher mit Magie verwandt</seg> sei. Dem<lb/>
+interessanten, beifällig aufgenommenen Vortrag wohnten zahlreiche<lb/>
+Kunstfreunde und Schriftsteller bei.<lb/>
+</p>
+            <p ana="pr169427">
+Sollte vielleicht auch <seg type="insult">der <rs type="pers" ana="name_200496" ref="#fk__p_42795">junge Biach</rs></seg> verwandt sein?<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_43028">
+               <persName>Harta, Felix Albrecht</persName>
+               <birth>
+                  <date>1884-7-2</date>
+                  <place>Budapest</place>
+               </birth>
+               <death>
+                  <date>1967-11-27</date>
+                  <place>Salzburg</place>
+               </death>
+               <occupation>Maler</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11602</idno></person>
+            <person xml:id="fk__p_42795">
+               <persName>Benedikt, Ernst</persName>
+               <birth>
+                  <date>1882-05-20</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1973-12-28</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10872</idno></person>
+            <person xml:id="fk__p_41762">
+               <persName>Biach, Rudolf</persName>
+               <birth>
+                  <date>1883-7-18</date>
+                  <place>Brünn</place>
+               </birth>
+               <death>
+                  <date>1968-5-27</date>
+                  <place>Eichgraben/NÖ:</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">möglicher Autor von "Das Geheimnis des Heiligen Berges" (1949)</note>
+            </person>
+            <person xml:id="fk__p_58272">
+               <persName>Haagen, Josef </persName>
+               <birth>
+                  <date>1846-4-27</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1918-3-23</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Gastwirt</occupation>
+               <note type="comment">Besitzer des Gatshauses "Zum Blauen Freihaus", Namensgeber des Hagenbundes</note>
+               <note type="comment">6., Gumpendorfer Str. 9</note>
+               <note type="comment">evtl. gest. 23.03.1918 (ZF)</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

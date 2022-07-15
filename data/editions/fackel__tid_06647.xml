@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06647.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06646.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06648.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Lichtwark und Seligmann), in: Fackel Heft 15, Nr. 395, 1914, S. 22-22</title>
+            <title type="iso-date">1914-01-01</title>
+            <title type="id">tid_06647</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">15</title><title type="heft">395</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-15-395_n0022.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/395,022</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Lichtwark und Seligmann)</head>
+            <p ana="pr89899">
+<space/><seg type="symbol" subtype="4dots"/> Man konnte mit ihm sprechen wie mit einem Maler —<lb/>
+und das ist am Ende das größte Kompliment, das ein Maler einem<lb/>
+Kunstkenner oder Kunstgelehrten machen kann. <rs type="pers" ana="n_61439" ref="#fk__p_37650"><AUCTOR><abbr>A. S. F.</abbr></AUCTOR></rs><lb/>
+</p>
+            <p ana="pr89901">
+<space/>Wie? <rs type="pers" ana="n_61440" ref="#fk__p_48948">Lichtwark</rs> hat mit <rs type="pers" ana="n_61441" ref="#fk__p_37650">Seligmann</rs> gesprochen? Und <rs type="pers" ana="n_61442" ref="#fk__p_37650">Seligmann<lb/>
+</rs> ist ein Maler? Das alles habe ich ja gar nicht gewußt!<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_37650">
+               <persName>Seligmann, Adalbert Franz</persName>
+               <birth>
+                  <date>1862-4-2</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1945-12-13</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Maler</occupation>
+               <occupation>Publizist</occupation>
+               <occupation>Kritiker</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12769</idno></person>
+            <person xml:id="fk__p_48948">
+               <persName>Lichtwark, Alfred</persName>
+               <birth>
+                  <date>1852-11-14</date>
+                  <place>Reitbrook</place>
+               </birth>
+               <death>
+                  <date>1914-1-13</date>
+                  <place>Hamburg</place>
+               </death>
+               <occupation>Kunsthistoriker</occupation>
+               <occupation>Kunstpädagoge</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/3403</idno></person>
+            </listPerson></back></text>
+</TEI>

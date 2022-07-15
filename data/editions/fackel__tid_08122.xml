@@ -1,0 +1,47 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_08122.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08121.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08123.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Berichtigung, in: Fackel Heft 19, Nr. 472, 1917, S. 24-24</title>
+            <title type="iso-date">1917-11-01</title>
+            <title type="id">tid_08122</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">19</title><title type="heft">472</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-19-472_n0024.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/472,024</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Berichtigung</head>
+            <lg>
+<l>Leider, herich, fehlt bei <rs type="pers" ana="n_68108" ref="#fk__p_43876">Schillern</rs> dorten</l>
+<l>ein Artikel, der nicht Frauen kleidet.</l>
+<l>Fehlt die Sache zu den rechten Worten,</l>
+<l>das Gedicht nicht, das Geschäft nur leidet.</l>
+<l>Dieser Mangel läßt sich leicht vermeiden,</l>
+<l>da, an <seg type="insult">Prager Schick</seg> sich zu gewöhnen,</l>
+<l>sich in <rs type="pers" ana="n_68109" ref="#fk__p_43876">Schillers</rs> Flügelkleidern kleiden</l>
+<l>dorten, herich, <seg type="insult">Weimarer Kamönen</seg>.</l>
+</lg>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_43876">
+               <persName>Schiller, Friedrich von</persName>
+               <birth>
+                  <date>1759-11-10</date>
+                  <place>Marbach am Neckar</place>
+               </birth>
+               <death>
+                  <date>1805-5-9</date>
+                  <place>Weimar</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Mortimer 363/9, 679/69, 912/7 und 912/58 ist von Ögg Shakespeare zugeordnet</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12654</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,47 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_12069.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_12068.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_12070.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Dasselbe Genre, in: Fackel Heft 34, Nr. 876, 1932, S. 44-44</title>
+            <title type="iso-date">1932-10-01</title>
+            <title type="id">tid_12069</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">34</title><title type="heft">876</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-34-876_n0044.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/876,044</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Dasselbe Genre</head>
+            <p ana="pr176112">
+<space/>Es dauert noch geraume Zeit, dann wird gegen den einzigen<lb/>
+von den früheren Häuptern der <rs type="inst">Creditanstalt</rs> der <seg type="spc">Steckbrief</seg> erlassen<lb/>
+. Der Steckbrief, <seg type="spc">der erst fällig wurde</seg>, <seg type="spc">als <rs type="pers" ana="n_105043" ref="#fk__p_42365">Ehrenfest</rs><lb/>
+schon unterwegs war</seg>.<lb/>
+</p>
+            <p ana="pr176114">
+Anstatt ihm diesen per Post an die Wiener Adresse zuzustellen.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_42365">
+               <persName>Ehrenfest, Friedrich</persName>
+               <birth>
+                  <date>1878-5-10</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1965-6-21</date>
+                  <place>Portugal</place>
+               </death>
+               <occupation>Bankier</occupation>
+               <note type="comment">Grabstein Dely Ehrenfest 18.6.1891 bis 16.9.1977</note>
+               <note type="comment">Direktor der Creditanstalt</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

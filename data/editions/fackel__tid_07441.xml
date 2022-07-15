@@ -1,0 +1,46 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07441.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07440.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07442.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ein Plan, in: Fackel Heft 18, Nr. 437, 1916, S. 50-50</title>
+            <title type="iso-date">1916-11-01</title>
+            <title type="id">tid_07441</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">18</title><title type="heft">437</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-18-437_n0050.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/437,050</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ein Plan</head>
+            <p ana="pr100054">
+<space/><seg type="sidehead">[Das belgische Problem.]</seg> Donnerstag den <date>28. <abbr>d.</abbr></date> will Professor<lb/>
+<rs type="pers" ana="n_65700" ref="#fk__p_40978"><abbr>Dr.</abbr> Friedrich Hirth</rs> in einem Vortrage, der in der »<rs type="inst">Urania</rs>« stattfindet,<lb/>
+zeigen, daß die bisherige Stellung und Gestaltung Belgiens den Frieden<lb/>
+Europas immer aufs schärfste bedrohte und hier seit Jahrhunderten der<lb/>
+Keim für blutige Verwicklungen gelegt war und nur die dauernde Befreiung<lb/>
+ Belgiens von französischer und englischer Abhängigkeit, in der<lb/>
+dieser Pufferstaat immer stand, Europa den längst ersehnten Frieden<lb/>
+bringen könne.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_40978">
+               <persName>Hirth, Friedrich Eugen</persName>
+               <birth>
+                  <date>1878-7-25</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1952-12-20</date>
+                  <place>Mainz</place>
+               </death>
+               <occupation>Literarhistoriker</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

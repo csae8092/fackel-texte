@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01370.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01369.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01371.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Jubiläumstheater und Presse.), in: Fackel Heft 02, Nr. 058, 1900, S. 21-22</title>
+            <title type="iso-date">1900-11-01</title>
+            <title type="id">tid_01370</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">058</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-058_n0021.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/058,021</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Jubiläumstheater und Presse.)</head>
+            <p ana="pr13090">
+<space/><inciptit>Der</inciptit> echte Erfolg des <rs type="pers" ana="n_10847" ref="#fk__p_45614">Hawel’schen Stückes</rs><lb/>
+»<rs type="title"><rs type="pers">Mutter Sorge</rs></rs>« am <rs type="inst">Jubiläumstheater</rs> hat <seg type="insult">die liberale<lb/>
+Clique</seg> völlig consterniert. Die ‚<rs type="paper" ana="werk_4235">Neue Freie Presse</rs>‘<lb/>
+bewahrte <seg type="insult">Würde und Besinnung</seg> und that das Werk<lb/>
+mit <seg type="insult">zehn perfiden Zeilen</seg> ab. Nützt nichts. Der Frage:<lb/>
+»Wo bleiben <seg type="insult">die arischen Talente</seg>?«, mit der <seg type="insult">jeder<lb/>
+Tantièmenschmock</seg> das Beginnen des Directors <rs type="pers" ana="n_10848" ref="#fk__p_37775">Müller-Guttenbrunn<lb/>
+</rs> zu höhnen meinte, ist da einmal eine ausgiebige<lb/>
+ und erfreuliche Antwort erbracht worden. Der<lb/>
+</p>
+            <p ana="pr13090">
+Boden, auf dem eine <seg type="insult">habgierige Bande</seg> durch Jahrzehnte<lb/>
+<choice><sic>gewüstet</sic><corr>gewütet</corr></choice> hat, reift langsam, aber sicher gute Früchte. Mag<lb/>
+<seg type="insult">das <rs type="paperRef" ana="werk_4236">Blatt der österreichischen Intelligenz</rs></seg>, das für den<lb/>
+<seg type="insult">Unflath eines <rs type="pers" ana="n_10849" ref="#fk__p_39122">Buchbinder</rs></seg> nur <seg type="insult">Lob und Preis</seg> hat, sich<lb/>
+von der Würdigung eines Dichterwerkes durch <seg type="insult">communalpolitische<lb/>
+ Bedenken</seg> abhalten lassen: der Beweis<lb/>
+ist erbracht, dass ein Literat nicht unbedingt an einem<lb/>
+<seg type="insult">Clubabend der <rs type="inst">Concordia</rs></seg> mit der Tochter eines Ausschussmitgliedes<lb/>
+ getanzt haben muss, um für ein dramatisches<lb/>
+Talent gehalten zu werden.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_45614">
+               <persName>Hawel, Rudolf</persName>
+               <birth>
+                  <date>1860-04-19</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1923-11-23</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/45022</idno></person>
+            <person xml:id="fk__p_39122">
+               <persName>Buchbinder, Bernhard</persName>
+               <birth>
+                  <date>1849-7-7</date>
+                  <place>Budapest</place>
+               </birth>
+               <death>
+                  <date>1922-6-24</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/6487</idno></person>
+            <person xml:id="fk__p_37775">
+               <persName>Müller-Guttenbrunn, Adam</persName>
+               <birth>
+                  <date>1852-10-22</date>
+                  <place>Guttenbrunn, Banat</place>
+               </birth>
+               <death>
+                  <date>1923-1-5</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Beamter</occupation>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Theaterleiter</occupation>
+               <note type="comment">F 146/32 Gärungen und Klärungen, Roman Wien 1903</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12331</idno></person>
+            </listPerson></back></text>
+</TEI>

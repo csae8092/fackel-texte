@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_08385.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08384.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08386.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Aus eiserner Zeit, in: Fackel Heft 20, Nr. 484, 1918, S. 71-72</title>
+            <title type="iso-date">1918-10-01</title>
+            <title type="id">tid_08385</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">20</title><title type="heft">484</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-20-484_n0071.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/484,071</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Aus eiserner Zeit</head>
+            <p ana="pr110530">
+<space/>— Im <rs type="inst">Festsaale des Korpskommandogebäudes</rs> dekorierte<lb/>
+Sonntag Stadtkommandant <abbr>GM.</abbr> <rs type="pers" ana="n_69071" ref="#fk__p_52295"><abbr>v.</abbr> Mossigg</rs> eine Anzahl <seg type="spc">Offiziere</seg><lb/>
+der Kriegervereine mit den Auszeichnungen, die ihnen der Kaiser<lb/>
+in Anerkennung ihrer seit <rs type="event">Kriegsbeginn</rs> mit aufopfernder Pflichttreue<lb/>
+geleisteten Dienste verliehen, darunter den <seg type="spc">Kompagniekommandanten<lb/>
+</seg> des <rs type="inst">Marinekriegervereines</rs> »<rs type="inst"><rs type="pers" ana="n2_6193" ref="#fk__p_53991">Tegetthoff</rs></rs>« <rs type="pers" ana="n_69072" ref="#fk__p_49323"><seg type="spc">Ludwig<lb/>
+Riedl</seg></rs> (Kriegsdekoration zum Ritterkreuz des <rs type="pers" ana="n_69073" ref="#fk__p_43514">Franz Josefs-Ordens</rs>).<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_43514">
+               <persName>Franz Joseph I., Kaiser</persName>
+               <birth>
+                  <date>1830-8-18</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1916-11-21</date>
+                  <place>Wien</place>
+               </death>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15150</idno></person>
+            <person xml:id="fk__p_49323">
+               <persName>Riedl, Ludwig</persName>
+               <birth>
+                  <date>1858-12-7</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1919-8-6</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Kaffeehausbesitzer </occupation>
+               <note type="comment">Inh. Café Europe; 1., Stephansplatz 8a (gegenüber dem Riesentor)</note>
+               <note type="comment">Whg.: 18., Ferrogasse 6</note>
+            </person>
+            <person xml:id="fk__p_52295">
+               <persName>Mossig, Johann Ritter von</persName>
+               <birth>
+                  <date>1859-01-08</date>
+                  <place>Mailand</place>
+               </birth>
+               <death>
+                  <date>1936-06-26</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Offizier</occupation>
+               <note type="comment">Feldmarschall-Leutnant</note>
+            </person>
+            <person xml:id="fk__p_53991">
+               <persName>Tegetthoff, Wilhelm von</persName>
+               <birth>
+                  <date>1827-12-23</date>
+                  <place>Marburg/Steiermark</place>
+               </birth>
+               <death>
+                  <date>1871-4-7</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Marineoffizier</occupation>
+               <note type="comment">Admiral</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_09204.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09203.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09205.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Zu „Pandora“), in: Fackel Heft 24, Nr. 595, 1922, S. 72-72</title>
+            <title type="iso-date">1922-07-01</title>
+            <title type="id">tid_09204</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">24</title><title type="heft">595</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-24-595_n0072.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/595,072</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Zu „Pandora“)</head>
+            <p ana="pr122397">
+<space/>Zur »<rs type="title"><rs type="pers">Pandora</rs></rs>«:<lb/>
+</p>
+            <p ana="pr122399">
+<space/>Das <rs type="title"><rs type="pers"><SPAN cont="Pandora-Fragment">»Pandora«-Fragment</SPAN></rs></rs>. Ein Wagnis, es hören zu wollen.<lb/>
+Denn es ist <rs type="pers" ana="n_74899" ref="#fk__p_46960">Goethes</rs> schwerste und erhabenste Dichtung, den<lb/>
+Deutschen hauptsächlich davon bekannt, daß sie so wenige unter<lb/>
+ihnen kennen. Sie enthält die unerhörten und unbedankten Sprachwunder<lb/>
+ des Brandrufs der <rs type="pers">Epimeleia</rs>, der Visionen des <rs type="pers">Epimetheus</rs>,<lb/>
+des <rs type="pers">Chors der Schmiede</rs> und des <rs type="pers">Chors der Krieger</rs>. Die Literarhistoriker<lb/>
+ haben sich an dem Werk durch <seg type="insult">Verwüstung</seg> einer seiner<lb/>
+schönsten Stellen betätigt, also durch <seg type="insult">Herstellung einer sogenannten<lb/>
+»Lesart«</seg>, die ein <seg type="insult">Sakrileg</seg> ist, auf das ich seinerzeit in der <rs type="self" ana="werk_23385">Fackel</rs><lb/>
+hingewiesen habe.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46960">
+               <persName>Goethe, Johann Wolfgang von</persName>
+               <birth>
+                  <date>1749-8-28</date>
+                  <place>Frankfurt am Main</place>
+               </birth>
+               <death>
+                  <date>1832-3-22</date>
+                  <place>Weimar</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">890/142f.</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11461</idno></person>
+            </listPerson></back></text>
+</TEI>

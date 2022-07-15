@@ -1,0 +1,47 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07605.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07604.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07606.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Jetzt weiß ich nicht, in: Fackel Heft 18, Nr. 445, 1234, S. 54-54</title>
+            <title type="iso-date">1234-01-01</title>
+            <title type="id">tid_07605</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">18</title><title type="heft">445</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-18-445_n0054.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/445,054</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Jetzt weiß ich nicht</head>
+            <p ana="pr102345">
+war’s <rs type="pers" ana="n_66192" ref="#fk__p_45114">Grumbach</rs> oder <rs type="pers" ana="n_66193" ref="#fk__p_43985">Fruhmann</rs>? Oder <rs type="pers" ana="n_66194" ref="#fk__p_52628">Zappe</rs>? Seien <seg type="insult">wir Österreicher</seg><lb/>
+froh, daß wir <seg type="insult"><seg type="spc">drei</seg> solche Kerle</seg> haben!<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_52628">
+               <persName>Zappe, Rudolf</persName>
+               <occupation>Kellner</occupation>
+            </person>
+            <person xml:id="fk__p_43985">
+               <persName>Fruhmann</persName>
+               <occupation>Kellner</occupation>
+            </person>
+            <person xml:id="fk__p_45114">
+               <persName>Grumbach, Anton?</persName>
+               <birth>
+                  <date>1880?</date>
+               </birth>
+               <death>
+                  <date>1965-10</date>
+               </death>
+               <occupation>Kellner</occupation>
+               <note type="comment">Meißl &amp; Schadn</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

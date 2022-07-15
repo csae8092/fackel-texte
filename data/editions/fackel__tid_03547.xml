@@ -1,0 +1,107 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03547.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03546.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03548.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Büchereinlauf, in: Fackel Heft 05, Nr. 158, 1904, S. 24-24</title>
+            <title type="iso-date">1904-03-30</title>
+            <title type="id">tid_03547</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">05</title><title type="heft">158</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-05-158_n0024.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/158,024</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Büchereinlauf</head>
+            <p ana="pr35243">
+<rs type="pers" ana="n_30431" ref="#fk__p_54047"><seg type="spc">Suse</seg> Theodor</rs>, <rs type="title"><rs type="pers"><seg type="spc">Pygmalion</seg></rs></rs>. <seg type="spc">Lieder aus dem Rosenhag</seg>. Symphonien<lb/>
+ in Rosen und Marmor. Leipzig. <rs type="inst"><rs type="pers" ana="n2_2374" ref="#fk__p_52717"><abbr>S.</abbr> Hirzel</rs></rs>.<lb/>
+</p>
+            <p ana="pr35244">
+<rs type="pers" ana="n_30432" ref="#fk__p_39912"><seg type="spc">Charmatz</seg> Richard</rs>, <rs type="title"><seg type="spc">Der demokratisch-nationale Bundesstaat<lb/>
+Österreich</seg></rs>. Betrachtungen. Frankfurt <abbr>a. M.</abbr> <rs type="inst">Neuer Frankfurter<lb/>
+Verlag. <abbr>G. m. b. H.</abbr></rs><lb/>
+</p>
+            <p ana="pr35245">
+<rs type="pers" ana="n_30433" ref="#fk__p_45875"><seg type="spc">Herbatschek</seg> <abbr>Dr.</abbr> Heinrich</rs>. <rs type="title"><seg type="spc">Ausgedinge oder Bauernversicherung<lb/>
+</seg>?</rs> Wirtschaftspolitische Studie. Wien. Im Selbstverlage, IX.<lb/>
+Schulz-Strassnitzkigasse 5.<lb/>
+</p>
+            <p ana="pr35246">
+<rs type="pers" ana="n_30434" ref="#fk__p_48417"><seg type="spc">Kurz</seg> Leopold</rs>, <rs type="title"><seg type="spc">Die Zerbrochenen</seg></rs>. Novellen. Leipzig-Wien. <rs type="inst"><rs type="pers" ana="n2_2375" key="#fk__p_57946">Fritz<lb/>
+Sachs</rs></rs>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_39912">
+               <persName>Charmatz, Richard</persName>
+               <birth>
+                  <date>1879-2-1</date>
+                  <place>Schlaining, Burgenland</place>
+               </birth>
+               <death>
+                  <date>1965-2-15</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Historiker</occupation>
+               <occupation>Journalist</occupation>
+               <note type="comment">Red. der NFP</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/6623</idno></person>
+            <person xml:id="fk__p_48417">
+               <persName>Kurz, Leopold</persName>
+               <birth>
+                  <date>1866-12-28</date>
+                  <place>Schaffa/Ungarn</place>
+               </birth>
+               <death>
+                  <date>1905-11-27</date>
+                  <place>Budapest</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Die Zerbrochenen. Novellen, Leipzig - Wien, Fritz Sachs Verlag 1904</note>
+               <note type="comment">fehlt bei Ögg</note>
+               <note type="comment">1901: Budapest V, Waitznerstr. 14</note>
+               <note type="comment">Privatsekretär in Wien</note>
+            </person>
+            <person xml:id="fk__p_45875">
+               <persName>Herbatschek, Heinrich</persName>
+               <birth>
+                  <date>1877-9-10</date>
+                  <place>Wsetin/Mähren</place>
+               </birth>
+               <occupation>Rechtsanwalt</occupation>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">3., Marxergasse 17</note>
+            </person>
+            <person xml:id="fk__p_54047">
+               <persName>Suse, Theodor</persName>
+               <birth>
+                  <date>1857-12-28</date>
+                  <place>Hamburg</place>
+               </birth>
+               <death>
+                  <date>1917-8-16</date>
+                  <place>Königssee bei Berchtesgaden</place>
+               </death>
+               <occupation>Jurist</occupation>
+               <occupation>Schriftsteller</occupation>
+            </person>
+            <person xml:id="fk__p_52717">
+               <persName>Hirzel, Salomon</persName>
+               <birth>
+                  <date>1804-02-13</date>
+                  <place>Zürich</place>
+               </birth>
+               <death>
+                  <date>1877-02-08</date>
+                  <place>Halle</place>
+               </death>
+               <occupation>Verleger</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

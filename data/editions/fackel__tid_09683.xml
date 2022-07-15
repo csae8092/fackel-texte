@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_09683.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09682.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09684.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Anzeige der Neuauflage von „Sittlichkeit und Kriminalität“), in: Fackel Heft 25, Nr. 640, 1924, S. 74-74</title>
+            <title type="iso-date">1924-01-01</title>
+            <title type="id">tid_09683</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">25</title><title type="heft">640</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-25-640_n0074.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/640,074</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Anzeige der Neuauflage von „Sittlichkeit und Kriminalität“)</head>
+            <p ana="pr130400">
+<space/><rs type="title"><seg type="spc">Sittlichkeit und Kriminalität</seg></rs> ist am <date>26. November</date><lb/>
+neu erschienen.<lb/>
+</p>
+            <p ana="pr130401">
+<space/>Die erste Ausgabe (1. und 2. Tausend) erschien im Jahre<lb/>
+<date>1908</date> bei <rs type="inst"><rs type="pers" ana="n2_7167" ref="#fk__p_48837"><abbr>L.</abbr> Rosner</rs></rs>, Wien-Leipzig. Die vorliegende ist, von kleinen<lb/>
+Korrekturen abgesehen, der unveränderte Wiederdruck der mit<lb/>
+dem Entstehungsdatum bezeichneten Aufsätze der ersten Ausgabe.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_48837">
+               <persName>Rosner, Leopold</persName>
+               <birth>
+                  <date>1838-05-21</date>
+                  <place>Pest</place>
+               </birth>
+               <death>
+                  <date>1903-07-23</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <occupation>Journalist</occupation>
+               <occupation>Buchhändler</occupation>
+               <occupation>Verleger</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

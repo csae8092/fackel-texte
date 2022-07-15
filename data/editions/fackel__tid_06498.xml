@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06498.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06497.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06499.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">So ists recht, in: Fackel Heft 15, Nr. 387, 1913, S. 6-7</title>
+            <title type="iso-date">1913-11-01</title>
+            <title type="id">tid_06498</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">15</title><title type="heft">387</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-15-387_n0006.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/387,006</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>So ists recht</head>
+            <p ana="pr87877">
+<space/>In der <rs type="inst">Volksoper</rs> gelangt morgen Sonntag, abends ½8 Uhr,<lb/>
+<rs type="pers" ana="n_60302" ref="#fk__p_56144"><seg type="spc">Sullivans</seg></rs> Operette »<rs type="title"><seg type="spc">Geisha</seg></rs>« zur Aufführung. Infolge Erkrankung<lb/>
+des Herrn <rs type="pers" ana="n_60303" ref="#fk__p_39711">Camill</rs> singt Herr <rs type="pers" ana="n_60304" ref="#fk__p_49970">Max Rohr</rs> vom <rs type="inst"><rs type="pers" ana="n2_5318" ref="#fk__p_46949">Johann Strauß-Theater</rs></rs> die<lb/>
+Partie des <rs type="pers">Fairfax</rs>.<lb/>
+</p>
+            <p ana="pr87879">
+<space/>Bravo, bravo, nicht jede Theaterkanzlei hält irrtümlich so<lb/>
+rein und reklamiert so das Werk des <seg type="insult">Kopisten</seg> für den Urheber.<lb/>
+Sicher ist ja die »<rs type="title">Geisha</rs>« eher von <rs type="pers" ana="n_60305" ref="#fk__p_56144">Sullivan</rs> als der »<rs type="title">Mikado</rs>«<lb/>
+von <rs type="pers" ana="n_60306" ref="#fk__p_53236">Sidney Jones</rs>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_53236">
+               <persName>Jones, Sidney</persName>
+               <birth>
+                  <date>1861-6-17</date>
+                  <place>Islington, London</place>
+               </birth>
+               <death>
+                  <date>1946-1-29</date>
+                  <place>London</place>
+               </death>
+               <occupation>Komponist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/8041</idno></person>
+            <person xml:id="fk__p_56144">
+               <persName>Sullivan, Sir Arthur Seymour</persName>
+               <birth>
+                  <date>1842-5-13</date>
+                  <place>London</place>
+               </birth>
+               <death>
+                  <date>1900-11-22</date>
+                  <place>London</place>
+               </death>
+               <occupation>Komponist</occupation>
+            </person>
+            <person xml:id="fk__p_46949">
+               <persName>Strauß, Johann jun.</persName>
+               <birth>
+                  <date>1825-10-25</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1899-6-3</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Komponist</occupation>
+               <occupation>Dirigent</occupation>
+               <note type="comment">261/15 zweifelhaft</note>
+               <note type="comment">368/22 Johann Strauß-Theater, 4., Favoritenstr. 8, ab 1931 Scala</note>
+            </person>
+            <person xml:id="fk__p_49970">
+               <persName>Rohr, Max</persName>
+               <birth>
+                  <date>1875</date>
+               </birth>
+               <death>
+                  <date>1917-9-24</date>
+                  <place>München</place>
+               </death>
+               <occupation>Sänger</occupation>
+            </person>
+            <person xml:id="fk__p_39711">
+               <persName>Camill, Viktor</persName>
+               <birth>
+                  <date>1874?</date>
+                  <place>Triest</place>
+               </birth>
+               <occupation>Sänger</occupation>
+               <note type="comment">9., Währinger Gürtel 104; 1913 erwähnt</note>
+               <note type="comment">Wiener Volksoper</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

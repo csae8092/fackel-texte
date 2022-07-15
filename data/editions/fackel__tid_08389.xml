@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_08389.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08388.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08390.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Aus der Ordination, in: Fackel Heft 20, Nr. 484, 1918, S. 73-73</title>
+            <title type="iso-date">1918-10-01</title>
+            <title type="id">tid_08389</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">20</title><title type="heft">484</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-20-484_n0073.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/484,073</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Aus der Ordination</head>
+            <p ana="pr110561">
+<space/><seg type="sidehead">[<rs type="pers" ana="n_69086" ref="#fk__p_55493">Kaiser Wilhelm</rs> und die »Enthüllungen« des amerikanischen<lb/>
+Zahnarztes <rs type="pers" ana="n_69087" ref="#fk__p_40279"><abbr>Dr.</abbr> Davis</rs>.]</seg> Die <foreign xml:lang="en">‚<rs type="paper" ana="werk_21446">Times</rs>‘</foreign> fahren mit der Publikation der<lb/>
+Erinnerungen des amerikanischen Zahnarztes <rs type="pers" ana="n_69088" ref="#fk__p_40279"><abbr>Dr.</abbr> Davis</rs> fort, der <seg type="spc">seine<lb/>
+eigenartige Auffassung vom ärztlichen Berufsgeheimnis<lb/>
+</seg> in diesen Memoiren in der merkwürdigsten Weise<lb/>
+betätigt. —<lb/>
+</p>
+            <p ana="pr110563">
+<space/>Da der Zahnarzt <seg type="insult">die politischen Äußerungen</seg>, die in der<lb/>
+Ordination gefallen sind, und nicht das Leiden des Patienten<lb/>
+verrät, so ist der Vorwurf der Verletzung des ärztlichen Berufsgeheimnisses<lb/>
+ eine <seg type="insult">Dummheit</seg>. Der <seg type="insult">Esel</seg> scheint zu glauben, daß<lb/>
+der <rs type="pers" ana="n_69089" ref="#fk__p_40279"><abbr>Dr.</abbr> Davis</rs> nicht Zahnarzt, sondern etwa Nervenarzt ist.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_55493">
+               <persName>Wilhelm II., Kaiser</persName>
+               <birth>
+                  <date>1859-1-27</date>
+                  <place>Berlin</place>
+               </birth>
+               <death>
+                  <date>1941-6-4</date>
+                  <place>Doorn/Niederlande</place>
+               </death>
+               <occupation>Kaiser</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_21338</idno></person>
+            <person xml:id="fk__p_40279">
+               <persName>Davis, Gustav</persName>
+               <birth>
+                  <date>1856-3-3</date>
+                  <place>Preßburg</place>
+               </birth>
+               <death>
+                  <date>1951-8-21</date>
+                  <place>Waidhofen/Ybbs</place>
+               </death>
+               <occupation>Offizier</occupation>
+               <occupation>Journalist</occupation>
+               <occupation>Zeitungsherausgeber</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2207</idno></person>
+            </listPerson></back></text>
+</TEI>

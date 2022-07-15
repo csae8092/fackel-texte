@@ -1,0 +1,109 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03720.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03719.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03721.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Habitué. (Nur keine Übertreibungen), in: Fackel Heft 06, Nr. 169, 1904, S. 24-24</title>
+            <title type="iso-date">1904-11-23</title>
+            <title type="id">tid_03720</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">06</title><title type="heft">169</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-06-169_n0024.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/169,024</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Habitué. (Nur keine Übertreibungen)</head>
+            <p ana="pr37089">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="name_203404" ref="#fk__p_45322">Habitué</rs>.</seg></seg> Das ‚<rs type="paper" ana="werk_13441">Deutsche Volksblatt</rs>‘ schreibt: »Seit jenem Tage,<lb/>
+an welchem der beliebte Komiker des <rs type="inst"><rs type="pers" ana="n2_2514" ref="#fk__p_46751">Jantsch-Theaters</rs></rs> Herr <rs type="pers" ana="n_31853" ref="#fk__p_47135">Josef Petza</rs><lb/>
+zum erstenmal die weltbedeutenden Bretter betreten hatte, ist ein<lb/>
+volles <seg type="spc">Vierteljahrhundert in das Meer der Ewigkeit<lb/>
+gesunken</seg>.« Das ist nicht wahr. Seitdem Herr <rs type="pers" ana="n_31854" ref="#fk__p_47135">Petza</rs> Schauspieler<lb/>
+geworden ist, sind <seg type="spc">25 Jahre vergangen</seg>. Herr <rs type="pers" ana="n_31855" ref="#fk__p_47135">Petza</rs> ist ein ganz<lb/>
+braver Possenspieler guter Wiener Vorstadtschule. Aber das Meer der<lb/>
+Ewigkeit hätte höchstens mit einem Jubiläum der <rs type="pers" ana="n_31856" ref="#fk__p_39911">Wolter</rs> etwas zu tun<lb/>
+gehabt. Nur keine Übertreibungen! Mir war’s schon zuviel, als Herr<lb/>
+<rs type="pers" ana="n_31857" ref="#fk__p_42017"><abbr>Dr.</abbr> Weiskirchner</rs> dem sechzigjährigen Bürgermeister <rs type="pers" ana="n_31858" ref="#fk__p_47583">Lueger</rs> versicherte,<lb/>
+»sein Name übertöne das Rauschen der Jahrhunderte«. Und Herr<lb/>
+<rs type="pers" ana="n_31859" ref="#fk__p_47583"><abbr>Dr.</abbr> Lueger</rs> übt doch in <seg type="insult">seiner bretterbedeutenden Welt</seg> noch größere<lb/>
+Zugkraft als Herr <rs type="pers" ana="n_31860" ref="#fk__p_47135">Petza</rs>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_45322">
+               <persName>Habitué</persName>
+            </person>
+            <person xml:id="fk__p_47583">
+               <persName>Lueger, Karl</persName>
+               <birth>
+                  <date>1844-10-24</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1910-3-10</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <note type="comment">Rosa Lueger (Schwester) gest. Wien 24.09.1920</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/3561</idno></person>
+            <person xml:id="fk__p_47135">
+               <persName>Petza, Josef</persName>
+               <birth>
+                  <date>1860-03-12</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1921-3-18</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <occupation>Sänger</occupation>
+               <note type="comment">1904 feiert er sein 25jähriges Bühnenjubiläum</note>
+               <note type="comment">9., Georg Siglgasse 3</note>
+            </person>
+            <person xml:id="fk__p_46751">
+               <persName>Jantsch, Heinrich</persName>
+               <birth>
+                  <date>1845-03-07</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1899-02-05</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <occupation>Theaterleiter</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/8013</idno></person>
+            <person xml:id="fk__p_39911">
+               <persName>Wolter, Charlotte</persName>
+               <birth>
+                  <date>1834-3-1</date>
+                  <place>Köln</place>
+               </birth>
+               <death>
+                  <date>1897-6-14</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schauspielerin</occupation>
+               <note type="comment">ab 1863 (Debut 1862) am Burgth.</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/13166</idno></person>
+            <person xml:id="fk__p_42017">
+               <persName>Weiskirchner, Richard</persName>
+               <birth>
+                  <date>1861-3-24</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1926-4-30</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <note type="comment">1912-19 Wr. Bürgermeister</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/13079</idno></person>
+            </listPerson></back></text>
+</TEI>

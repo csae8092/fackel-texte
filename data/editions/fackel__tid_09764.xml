@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_09764.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09763.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09765.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Festsaal des Niederösterreichischen Gewerbevereines, 14. Januar,, in: Fackel Heft 26, Nr. 649, 1924, S. 71-71</title>
+            <title type="iso-date">1924-06-01</title>
+            <title type="id">tid_09764</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">26</title><title type="heft">649</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-26-649_n0071.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/649,071</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Festsaal des Niederösterreichischen Gewerbevereines, 14. Januar,</head>
+            <p ana="pr132430">
+<space/><rs type="inst">Festsaal des Niederösterreichischen Gewerbevereines</rs>, <date>14. Januar</date>,<lb/>
+7 Uhr:<lb/>
+</p>
+            <p ana="pr132431">
+<space/><seg type="insult"><rs type="title"><seg type="spc">Wolkenkuckucksheim</seg></rs></seg>, phantastisches Versspiel in drei<lb/>
+Akten. Begleitmusik nach Angabe des Verfassers, Ouverture und in den<lb/>
+Zwischenakten: <rs type="pers" ana="n_80945" ref="#fk__p_46664">Offenbachs</rs> »<rs type="title"><rs type="pers">Orpheus</rs> in der Unterwelt</rs>« (<rs type="pers" ana="n_80946" ref="#fk__p_54913">Viktor Junk</rs>).<lb/>
+</p>
+            <p ana="pr132432">
+<space/>Ein Teil des Ertrags (<abbr>inkl.</abbr> Programmerlös): K 387.770 für<lb/>
+die <rs type="inst">Internationale Arbeiterhilfe</rs>, Österreichisches Komitee, I. Postgasse 7<lb/>
+(<rs type="inst">Technische Union</rs>).<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_54913">
+               <persName>Junk, Viktor</persName>
+               <birth>
+                  <date>1875-4-18</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1948-4-5</date>
+                  <place>Frohnleiten/Steiermark</place>
+               </death>
+               <occupation>Germanist</occupation>
+               <occupation>Musikwissenschaftler</occupation>
+            </person>
+            <person xml:id="fk__p_46664">
+               <persName>Offenbach, Jacques</persName>
+               <birth>
+                  <date>1819-06-21</date>
+                  <place>Köln</place>
+               </birth>
+               <death>
+                  <date>1880-10-05</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Komponist</occupation>
+               <note type="comment">Ögg teilt Fortunato F 876/34 Shakespeare zu</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/9131</idno></person>
+            </listPerson></back></text>
+</TEI>

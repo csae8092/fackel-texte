@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_10623.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10622.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10624.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Und diese Untertitel:, in: Fackel Heft 28, Nr. 735, 1926, S. 114-114</title>
+            <title type="iso-date">1926-10-01</title>
+            <title type="id">tid_10623</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">28</title><title type="heft">735</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-28-735_n0114.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/735,114</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Und diese Untertitel:</head>
+            <p ana="pr148057">
+Mehr Phantasie! — <seg type="spc">Schneller</seg>! — <seg type="spc">Noch schneller</seg>! — <RS pers="Franz Grillparzer"><rs type="pers" ana="name_201762" ref="#fk__p_43482">Rustan</rs></RS> —<lb/>
+<RS pers="Franz Grillparzer"><rs type="pers" ana="name_201763" ref="#fk__p_43482">Zanga</rs></RS> — <SPAN cont="Gülnare-Cheristane"><RS pers="Franz Grillparzer"><rs type="pers" ana="name_201764" ref="#fk__p_43482">Gülnare</rs></RS>-<RS pers="Ferdinand Raimund"><rs type="pers" ana="name_201765" ref="#fk__p_43227">Cheristane</rs></RS></SPAN> — <seg type="spc">Liebe <rs type="pers">Tini</rs></seg>! — Mann vom<lb/>
+Felsen — Zwei Rollen — Nicht hinlegen! — <seg type="spc">Bravo</seg>!<lb/>
+</p>
+            <p ana="pr148059">
+<seg type="insult">Ein lieber Schneck</seg>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_43482">
+               <persName>Grillparzer, Franz</persName>
+               <birth>
+                  <date>1791-1-15</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1872-1-21</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Beamter</occupation>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Ögg teilt 912/23 Traum ein Leben Calderon zu</note>
+               <note type="comment">Ögg teilt irrt. 229/2, 305/50 zu</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11518</idno></person>
+            <person xml:id="fk__p_43227">
+               <persName>Raimund, Ferdinand</persName>
+               <birth>
+                  <date>1790-6-1</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1836-9-5</date>
+                  <place>Pottenstein, Niederösterreich</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Ögg teilt die Valentin-Stelle 254/4 Nestroy zu</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12468</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00549.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00548.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00550.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">E. Sch., in: Fackel Heft 01, Nr. 022, 1899, S. 30-30</title>
+            <title type="iso-date">1899-11-01</title>
+            <title type="id">tid_00549</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">022</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-022_n0030.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/022,030</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>E. Sch.</head>
+            <p ana="pr5052">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_3823" ref="#fk__p_42217"><abbr>E. Sch.</abbr></rs></seg></seg> Wie <seg type="spc"><rs type="pers" ana="n_3824" ref="#fk__p_45715">Heine</rs></seg> in unseren gymnasialen Lehrbüchern für<lb/>
+deutsche Literatur behandelt wird, ist hier bereits dargethan worden.<lb/>
+Was den Schulrath <rs type="pers" ana="n_3825" ref="#fk__p_46334">Hugo <seg type="spc">Mareta</seg></rs> anlangt, so dürfte Sie <seg type="insult">Ihr »Gewährsjunge<lb/>
+« vom <rs type="inst">Schottengymnasium</rs></seg> falsch informiert haben; der joviale<lb/>
+Herr soll alles eher denn ein <seg type="insult">»Antisemit«</seg> sein.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_45715">
+               <persName>Heine, Heinrich</persName>
+               <birth>
+                  <date>1797-12-13</date>
+                  <place>Düsseldorf</place>
+               </birth>
+               <death>
+                  <date>1856-2-17</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Journalist</occupation>
+               <note type="comment">Ögg separiert F 24/25 </note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11640</idno></person>
+            <person xml:id="fk__p_46334">
+               <persName>Mareta, Hugo</persName>
+               <birth>
+                  <date>1827-04-11</date>
+                  <place>Baden/NÖ</place>
+               </birth>
+               <death>
+                  <date>1913-10-31</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Germanist</occupation>
+               <note type="comment">Benediktinerpater</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/5169</idno></person>
+            <person xml:id="fk__p_42217">
+               <persName>Sch., E.</persName>
+               <occupation>Student</occupation>
+               <note type="comment">Cand. Jur.</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

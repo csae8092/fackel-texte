@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03380.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03379.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03381.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ein Urteil über Georg Brandes, in: Fackel Heft 05, Nr. 149, 1903, S. 23-24</title>
+            <title type="iso-date">1903-12-12</title>
+            <title type="id">tid_03380</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">05</title><title type="heft">149</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-05-149_n0023.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/149,023</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ein Urteil über Georg Brandes</head>
+            <p ana="pr33407">
+<space/>In dem soeben erschienenen Nachlaßwerk <rs type="pers" ana="n_28876" ref="#fk__p_51009">Otto<lb/>
+<seg type="spc">Weininger’s</seg></rs> »<rs type="title">Über die letzten Dinge</rs>« ist ein Aufsatz<lb/>
+über »<rs type="title"><rs type="pers" ana="n2_2224" ref="#fk__p_45852">Henrik Ibsen</rs> und seine Dichtung ‚<rs type="title"><rs type="pers">Peer Gynt</rs></rs>‘</rs> (Zum<lb/>
+75. Geburtstage des Dichters)« enthalten. »Freilich hat<lb/>
+dieser Künstler«, heißt es da, »<seg type="spc">dreimal schwer kompromittiert<lb/>
+</seg> zu werden das Unglück gehabt«. Als das<lb/>
+<seg type="spc">zweite</seg> Verhängnis, dem <rs type="pers" ana="n_28877" ref="#fk__p_45852">Ibsens</rs> Werke verfielen, bezeichnet<lb/>
+<rs type="pers" ana="n_28878" ref="#fk__p_51009">Weininger</rs> »ihr zeitliches Zusammentreffen mit dem Verlangen<lb/>
+ der Frauen nach Zulassung zu den bürgerlichen<lb/>
+Berufen, eine Koinzidenz, die man für mehr als zufällig<lb/>
+hielt und kausal deutete«, als das <seg type="spc">dritte</seg>, daß der Dichter<lb/>
+»vom Sozialismus und von der Gattungsethik reklamiert<lb/>
+wurde«. Am schwersten scheint aber doch das <seg type="spc">erste</seg><lb/>
+zu wiegen:<lb/>
+</p>
+            <p ana="pr33409">
+<space/>»Als junger Mann fiel er <seg type="insult">jenem dänischen Journalisten</seg> in<lb/>
+die Hände, der seine Bekanntheit zumeist dem Umstande dankt,<lb/>
+daß er <seg type="spc">als der erste die <foreign xml:lang="fr">Gêne</foreign> verloren hat</seg>, <seg type="spc">den Trieb</seg><lb/>
+</p>
+            <p ana="pr33409">
+<seg type="spc">seiner angeborenen Natur zu befriedigen</seg>, <abbr>d. h.</abbr> <seg type="spc">sämtliche<lb/>
+berühmte Männer Europas zu interviewen</seg>, und dessen <seg type="insult">unglaublich<lb/>
+ flache Schönrednerei</seg> über die Literaturströmungen des<lb/>
+<DATERANGE>19. Jahrhunderts</DATERANGE> nur darum anziehen konnte, weil man lange genug<lb/>
+unter <seg type="insult">der professoralen Literaturgeschichtsschreibung</seg> zu leiden<lb/>
+gehabt hatte.«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_51009">
+               <persName>Weininger, Otto</persName>
+               <birth>
+                  <date>1880-4-3</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1903-10-4</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">ev. Friedhof Matzleinsdorf</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2630</idno></person>
+            <person xml:id="fk__p_45852">
+               <persName>Ibsen, Henrik</persName>
+               <birth>
+                  <date>1828-3-20</date>
+                  <place>Skien</place>
+               </birth>
+               <death>
+                  <date>1906-5-23</date>
+                  <place>Christiania</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment"/>
+               <note type="comment">Ögg ordnet 368/49 Baumeister Solneß Strindberg zu</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11798</idno></person>
+            </listPerson></back></text>
+</TEI>

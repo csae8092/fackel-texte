@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_05027.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05026.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05028.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Das moderne Theater), in: Fackel Heft 11, Nr. 294, 1910, S. 46-46</title>
+            <title type="iso-date">1910-02-4</title>
+            <title type="id">tid_05027</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">11</title><title type="heft">294</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-11-294_n0046.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/294,046</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Das moderne Theater)</head>
+            <p ana="pr63288">
+<space/><seg type="insult">Das moderne Theater</seg>:<lb/>
+</p>
+            <p ana="pr63290">
+<space/>»Im <rs type="inst">Münchener Residenztheater</rs> wurde ‚<rs type="title">Der <choice><sic>Widerspänstigen</sic><corr>Widerspenstigen</corr></choice><lb/>
+Zähmung</rs>‘ zum ersten Male nach dem Original mit Vorspiel und Nachspiel<lb/>
+ gegeben. Die neuen Dekorationen und Kostüme waren von <rs type="pers" ana="n_46706" ref="#fk__p_52334">Robert<lb/>
+Engels</rs> nach den Prinzipien des <rs type="inst">Münchener Künstlertheaters</rs> im Stil der<lb/>
+Reliefbühne entworfen. Besonders eine Gartenszene mit Pergola und<lb/>
+Springbrunnensilhouette, ein liebliches Bild voll sonniger italienischer<lb/>
+Heiterkeit verdiente höchstes Lob. Von den Darstellern leisteten <seg type="symbol" subtype="4dots"/>«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_52334">
+               <persName>Engels, Robert</persName>
+               <birth>
+                  <date>1866-3-9</date>
+                  <place>Solingen</place>
+               </birth>
+               <death>
+                  <date>1926-5-24</date>
+                  <place>München</place>
+               </death>
+               <occupation>Maler</occupation>
+               <occupation>Bühnenbildner</occupation>
+               <note type="comment">verh. mit Gustava E. von Veith</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

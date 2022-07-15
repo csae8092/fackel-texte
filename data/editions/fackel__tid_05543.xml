@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_05543.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05542.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05544.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Die Zuckerkandl, in: Fackel Heft 13, Nr. 336, 1234, S. 34-34</title>
+            <title type="iso-date">1234-01-01</title>
+            <title type="id">tid_05543</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">13</title><title type="heft">336</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-13-336_n0034.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/336,034</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Die Zuckerkandl</head>
+            <p ana="pr72723">
+<space/>»<seg type="symbol" subtype="2dots"/> Aus <rs type="pers" ana="n_52507" ref="#fk__p_47238">Julius <seg type="spc">Bittners</seg></rs> musikalischem Erlebnis heraus tritt <rs type="pers" ana="n_52508" ref="#fk__p_47973">Kolo<lb/>
+<seg type="spc">Mosers</seg></rs> szenisches Erlebnis. Man spürt die innige Gemeinschaft zweier<lb/>
+Geister <seg type="symbol" subtype="2dots"/>«<lb/>
+</p>
+            <p ana="pr72725">
+<space/>Ja, wer hat es denn bezweifelt?<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_47973">
+               <persName>Moser, Kolo(man)</persName>
+               <birth>
+                  <date>1868-3-30</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1918-10-18</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Maler</occupation>
+               <occupation>Graphiker</occupation>
+               <occupation>Kunstgewerbler</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/3280</idno></person>
+            <person xml:id="fk__p_47238">
+               <persName>Bittner, Julius</persName>
+               <birth>
+                  <date>1874-4-9</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1939-1-9</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Richter</occupation>
+               <occupation>Komponist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10948</idno></person>
+            </listPerson></back></text>
+</TEI>

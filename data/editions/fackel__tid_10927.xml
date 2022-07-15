@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_10927.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10926.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10928.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Es trog!, in: Fackel Heft 29, Nr. 759, 1927, S. 83-83</title>
+            <title type="iso-date">1927-06-01</title>
+            <title type="id">tid_10927</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">29</title><title type="heft">759</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-29-759_n0083.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/759,083</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Es trog!</head>
+            <p ana="pr152660">
+<space/>Schwer ist es auch mit »trog« von trügen und »trug« von<lb/>
+tragen. Da die Handlung in jenem Fall ein <seg type="insult">Betrug</seg> ist, der aber<lb/>
+auch ein Erträgnis bringt, so machen sie es so:<lb/>
+</p>
+            <p ana="pr152662">
+<space/>Da verschwand sie aus Meran und kam <DATERANGE>Ende 1918</DATERANGE> nach<lb/>
+Innsbruck, wo sie sich als Oberin des Meraner Klosters und als<lb/>
+Nichte des <rs type="pers" ana="n_91172" ref="#fk__p_43108">Erzbischofs von München</rs> ausgab. Das <seg type="spc">trug</seg> natürlich.<lb/>
+</p>
+            <p ana="pr152664">
+Also Geld oder Innsbrucker?<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_43108">
+               <persName>Faulhaber, Michael von</persName>
+               <birth>
+                  <date>1869-03-05</date>
+                  <place>Klosterheidenfeld/Unterfranken</place>
+               </birth>
+               <death>
+                  <date>1952-06-12</date>
+                  <place>München</place>
+               </death>
+               <occupation>Kardinal</occupation>
+               <note type="comment">1917 bis 1952 Erzbischof von München</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

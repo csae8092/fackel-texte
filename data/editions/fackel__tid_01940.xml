@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01940.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01939.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01941.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Historiker. (Noske der Grosse), in: Fackel Heft 03, Nr. 081, 1901, S. 22-22</title>
+            <title type="iso-date">1901-06-01</title>
+            <title type="id">tid_01940</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">03</title><title type="heft">081</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-03-081_n0022.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/081,022</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Historiker. (Noske der Grosse)</head>
+            <p ana="pr18948">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="n_15933" ref="#fk__p_46138">Historiker</rs>.</seg></seg></seg> Dass die ‚<rs type="paper" ana="werk_6139">Neue Freie Presse</rs>‘ bei Besprechung <seg type="insult">des<lb/>
+wieder acut gewordenen <rs type="pers" ana="n_15934" ref="#fk__p_45715">Heine-Denkmals</rs></seg> jetzt schon zum zweitenmale<lb/>
+statt »<rs type="pers" ana="n_15935" ref="#fk__p_50712">Constantin Noske</rs>« <seg type="insult">»<rs type="pers" ana="n_15936" ref="#fk__p_50712">Alexander Noske</rs>«</seg> schreibt, ist wirklich<lb/>
+eine <seg type="insult">Schmach</seg>. <seg type="insult">Ein <rs type="paperRef" ana="werk_6140">liberales Blatt</rs></seg>, das nicht weiß, wie <seg type="insult">Herr <rs type="pers" ana="n_15937" ref="#fk__p_50712">Noske</rs></seg><lb/>
+mit dem Vornamen heißt! <seg type="insult">Herr <rs type="pers" ana="n_15938" ref="#fk__p_50373">Benedikt</rs></seg> dürfte denn auch argen<lb/>
+Scandal gemacht haben. <rs type="pers" ana="n_15939" ref="#fk__p_50712">Noske</rs> wird nur durch die Versicherung<lb/>
+beruhigt werden können, dass die ‚<rs type="paper" ana="werk_6141">Neue Freie Presse</rs>‘, als sie<lb/>
+seinen Namen niederschrieb, <seg type="spc">jedenfalls</seg> an <seg type="insult">einen »<seg type="spc">Großen</seg>«</seg> der<lb/>
+Weltgeschichte gedacht hat. In <seg type="insult">dieser scheinbaren Nonchalance</seg> drückt<lb/>
+sich die wahre Schätzung besser aus als in äußerlicher Genauigkeit.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_45715">
+               <persName>Heine, Heinrich</persName>
+               <birth>
+                  <date>1797-12-13</date>
+                  <place>Düsseldorf</place>
+               </birth>
+               <death>
+                  <date>1856-2-17</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Journalist</occupation>
+               <note type="comment">Ögg separiert F 24/25 </note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11640</idno></person>
+            <person xml:id="fk__p_50712">
+               <persName>Noske, Constantin</persName>
+               <birth>
+                  <date>1848-10-28</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1920-3-10</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Versicherungsbeamter</occupation>
+               <occupation>Journalist</occupation>
+               <occupation>Politiker</occupation>
+               <note type="comment">Gen. Sekretär des Fabriken-Rückversicherungsverbandes, 1., Börsegasse 10</note>
+               <note type="comment">Le Figaro 25.07.1901, Seite 2 schreibt Constantin Doske</note>
+            </person>
+            <person xml:id="fk__p_50373">
+               <persName>Benedikt, Moriz</persName>
+               <birth>
+                  <date>1849-5-27</date>
+                  <place>Kwatschitz/Mähren</place>
+               </birth>
+               <death>
+                  <date>1920-3-18</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <note type="comment">Geburtsort Kwatschitz bei Ungarisch Hradisch/Mähren, nicht Kwassitz bei Kremsier</note>
+               <note type="comment">1. Tor, 20/1/1a</note>
+               <note type="comment">Hrsg. der NFP (seit 1908 alleiniger Leiter)</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10875</idno></person>
+            <person xml:id="fk__p_46138">
+               <persName>Historiker</persName>
+            </person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_09607.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09606.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09608.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Aus der Theaterwelt, in: Fackel Heft 25, Nr. 632, 1923, S. 107-107</title>
+            <title type="iso-date">1923-10-01</title>
+            <title type="id">tid_09607</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">25</title><title type="heft">632</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-25-632_n0107.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/632,107</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Aus der Theaterwelt</head>
+            <p ana="pr128904">
+<space/>Bundeskanzler <rs type="pers" ana="n_79108" ref="#fk__p_41233"><abbr>Dr.</abbr> Seipel</rs> ließ angeblich auf Anregung<lb/>
+<seg type="insult"><seg type="spc"><rs type="pers" ana="n_79109" ref="#fk__p_45908">Hermann Bahrs</rs> und anderer Prominenten</seg></seg> <rs type="pers" ana="n_79110" ref="#fk__p_51295">Paulsen</rs><lb/>
+zu sich bitten und versicherte ihn seines Interesses an der friedlichen<lb/>
+Lösung der Krise.<lb/>
+</p>
+            <p ana="pr128906">
+<space/>Gemeint ist <seg type="insult">der ehemalige Star des <rs type="title">Salzburger Welttheaters<lb/>
+</rs></seg>, der jetzt an den <rs type="inst">Münchner Kammerspielen</rs> engagiert ist.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_51295">
+               <persName>Paulsen, Max Johann Heinrich</persName>
+               <birth>
+                  <date>1876-11-18</date>
+                  <place>Hamburg</place>
+               </birth>
+               <death>
+                  <date>1956-3-11</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <occupation>Regisseur</occupation>
+               <occupation>Theaterleiter</occupation>
+               <note type="comment">1898-1923 Burgtheater</note>
+               <note type="comment">1922/23 Dir. Burgtheater</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_18691</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12399</idno></person>
+            <person xml:id="fk__p_45908">
+               <persName>Bahr, Hermann</persName>
+               <birth>
+                  <date>1863-7-19</date>
+                  <place>Linz</place>
+               </birth>
+               <death>
+                  <date>1934-1-15</date>
+                  <place>München</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Kritiker</occupation>
+               <note type="comment">Ögg teilt auch 307/52, 445/49, 800/67 (Rotte Korah) Bahr zu</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10815</idno></person>
+            <person xml:id="fk__p_41233">
+               <persName>Seipel, Ignaz</persName>
+               <birth>
+                  <date>1876-7-18</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1932-8-2</date>
+                  <place>Pernitz, Niederösterreich</place>
+               </death>
+               <occupation>Prälat</occupation>
+               <occupation>Politiker</occupation>
+               <note type="comment">1922-24, 1926-29 Bundeskanzler</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12762</idno></person>
+            </listPerson></back></text>
+</TEI>

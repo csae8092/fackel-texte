@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06212.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06211.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06213.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Die Kunst und das Volk, in: Fackel Heft 15, Nr. 372, 1913, S. 48-48</title>
+            <title type="iso-date">1913-04-01</title>
+            <title type="id">tid_06212</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">15</title><title type="heft">372</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-15-372_n0048.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/372,048</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Die Kunst und das Volk</head>
+            <p ana="pr83712">
+<space/>»Das <rs type="inst">städtische Schauspielhaus</rs> in Frankfurt veröffentlicht den<lb/>
+folgenden Kassenbericht: „Mittwoch den <date>5. März</date>: Erste Wiederholung<lb/>
+des neueinstudierten ‚<rs type="title"><rs type="pers">König Heinrich IV.</rs></rs>‘ I. Teil, von <rs type="pers" ana="n_58353" ref="#fk__p_55589">Shakespeare</rs>. Einnahme<lb/>
+ 224 Mark. — Donnerstag den <date>6. März</date>: ‚<rs type="title">Puppchen</rs>‘, Posse von<lb/>
+<rs type="pers" ana="n_58354" ref="#fk__p_48248">Kren</rs> und <rs type="pers" ana="n_58355" ref="#fk__p_48189">Kraatz</rs>. (Seit Fasching auf dem Spielplan.) Einnahme über<lb/>
+3000 Mark.“ ‚<rs type="title">Puppchen</rs>‘ ist eine Posse mit Gesang, bei der die Zuschauer<lb/>
+mitsingen dürfen.«<lb/>
+</p>
+            <p ana="pr83715">
+<space/>»Einen neuen Schluß zu <rs type="pers" ana="n_58356" ref="#fk__p_55589">Shakespeares</rs> »<rs type="title"><rs type="pers">Othello</rs></rs>« hat ein Theater<lb/>
+des Londoner East-End gebracht, weil sich die Stammgäste seit langem<lb/>
+über den unbefriedigenden Schluß des Stückes beklagten. Nach der<lb/>
+letzten Szene des Dramas machen drei Schläge die Zuschauer darauf<lb/>
+aufmerksam, daß sie das Theater noch nicht verlassen sollen. Der Vorhang<lb/>
+ hebt sich wieder, und es erscheint ein prächtiger Leichenwagen,<lb/>
+von zwei schwarzen Rossen gezogen. Auf dem Leichenwagen stehen<lb/>
+zwei Särge und über ihnen schwebt ein riesiger Kranz, auf dessen<lb/>
+mächtiger Schleife man die Inschrift liest: »Im Tode vereint«. Dahinter<lb/>
+ziehen in langem Leichenzuge die Überlebenden des Stückes und eine<lb/>
+Schar von Statisten vorüber. Der Erfolg ist ein vollkommener.<choice><sic>»</sic><corr>«</corr></choice><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_55589">
+               <persName>Shakespeare, William</persName>
+               <birth>
+                  <date>1564-4-23?</date>
+                  <place>Stratford-upon-Avon</place>
+               </birth>
+               <death>
+                  <date>1616-4-23</date>
+                  <place>Stratford-upon-Avon</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2412</idno></person>
+            <person xml:id="fk__p_48248">
+               <persName>Krenn, Leopold</persName>
+               <birth>
+                  <date>1850-12-6</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1930-10-2</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Beamter</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11999</idno></person>
+            <person xml:id="fk__p_48189">
+               <persName>Kraatz, Curt</persName>
+               <birth>
+                  <date>1856-9-12</date>
+               </birth>
+               <death>
+                  <date>1925-4-30</date>
+                  <place>Wiesbaden</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/19651</idno></person>
+            </listPerson></back></text>
+</TEI>

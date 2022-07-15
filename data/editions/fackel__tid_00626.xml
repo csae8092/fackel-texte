@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00626.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00625.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00627.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">B. M. (Der Staatsanwalt von Zara), in: Fackel Heft 01, Nr. 025, 1899, S. 32-32</title>
+            <title type="iso-date">1899-12-01</title>
+            <title type="id">tid_00626</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">025</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-025_n0032.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/025,032</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>B. M. (Der Staatsanwalt von Zara)</head>
+            <p ana="pr5806">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_4364" ref="#fk__p_38640"><abbr>B. M.</abbr></rs></seg></seg> Sie schreiben mir: »Den in <rs type="selfRef" ana="werk_1480"><abbr>Nr.</abbr> 22</rs> der ‚<rs type="self" ana="werk_39954">Fackel</rs>‘ enthaltenen<lb/>
+ Aufsatz über Bosnien, der den Titel <seg type="insult">‚<rs type="pers" ana="n_4365" ref="#fk__p_47435">Kallays</rs> Cultursendung‘</seg><lb/>
+trägt und <seg type="insult"><rs type="pers" ana="n_4366" ref="#fk__p_47435">Kallays</rs> Wirtschaft</seg> wirklich treffend beleuchtet, übersetzte<lb/>
+ich ins Serbische und sandte ihn unserer in Zara erscheinenden<lb/>
+Zeitung <foreign xml:lang="sr">‚<rs type="" ana="werk_1481">Srpski Glas</rs>‘«</foreign>. Der dortige Staatsanwalt habe ihn aber in der<lb/>
+momentanen Einbildung, dass Zara nicht in Oesterreich, sondern in<lb/>
+Bosnien liege, vollinhaltlich confisciert.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_47435">
+               <persName>Kállay von Nagy-Kálló, Bénjamin</persName>
+               <birth>
+                  <date>1839-12-22</date>
+                  <place>Pest</place>
+               </birth>
+               <death>
+                  <date>1903-07-13</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <occupation>Übersetzer</occupation>
+               <note type="comment">1882-1903 Finanzminister</note>
+            </person>
+            <person xml:id="fk__p_38640">
+               <persName>M., B.</persName>
+            </person>
+            </listPerson></back></text>
+</TEI>

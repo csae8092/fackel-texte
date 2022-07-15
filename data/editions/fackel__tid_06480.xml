@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06480.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06479.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06481.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Aus dem Reiche des Unbewußten, in: Fackel Heft 15, Nr. 384, 1913, S. 37-37</title>
+            <title type="iso-date">1913-10-01</title>
+            <title type="id">tid_06480</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">15</title><title type="heft">384</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-15-384_n0037.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/384,037</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Aus dem Reiche des Unbewußten</head>
+            <p ana="pr87432">
+<space/>Gestern beging <seg type="symbol" subtype="4dots"/> Glückwünsche des Herausgebers sowie <seg type="symbol" subtype="4dots"/><lb/>
+Ehrengeschenk <seg type="symbol" subtype="4dots"/> Namens des <rs type="inst">Reichsvereins der Zeitungsbeamten</rs> <seg type="symbol" subtype="4dots"/><lb/>
+Obmann <seg type="symbol" subtype="4dots"/> <rs type="pers" ana="name_200550" ref="#fk__p_48644">Schmerz</rs> <seg type="symbol" subtype="4dots"/> <rs type="pers" ana="n_60107" ref="#fk__p_49441">Gaida</rs>.<lb/>
+</p>
+            <p ana="pr87434">
+<space/>Oft ist es, daß man sich sagt: das muß ich schon einmal<lb/>
+erlebt haben!<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_49441">
+               <persName>Gaida, Miroslav Franz </persName>
+               <birth>
+                  <date>1863-7-8</date>
+               </birth>
+               <death>
+                  <date>1924-4-6</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Angestellter</occupation>
+               <note type="comment">6., Sonnenuhrgasse 8</note>
+               <note type="comment">ZF 63/37/16 (FD)</note>
+               <note type="comment">Beamter der Administration der NFP</note>
+            </person>
+            <person xml:id="fk__p_48644">
+               <persName>Schmerz, Laurenz</persName>
+               <birth>
+                  <date>1851-8-5</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1931-4-15</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Angestellter</occupation>
+               <occupation>Politiker</occupation>
+               <note type="comment">Obmann des Reichsvereines der Zeitungsbeamten Österreichs</note>
+               <note type="comment">18., Paulinengasse 9</note>
+               <note type="comment">Feuerhalle Simmering bestätigt Daten</note>
+               <note type="comment">Bezirksrat</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

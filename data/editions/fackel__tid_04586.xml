@@ -1,0 +1,124 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_04586.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04585.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04587.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Wiener Distanzen, in: Fackel Heft 09, Nr. 239, 1907, S. 33-33</title>
+            <title type="iso-date">1907-12-31</title>
+            <title type="id">tid_04586</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">09</title><title type="heft">239</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-09-239_n0033.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/239,033</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Wiener Distanzen</head>
+            <p ana="pr51601">
+<space/><seg type="insult">Wiener Distanzen</seg>: <seg type="insult"><rs type="pers" ana="n_40866" ref="#fk__p_51559">Pobjedonoszew</rs> und der Volkssänger<lb/>
+<rs type="pers" ana="n_40867" ref="#fk__p_48430">Kwapil</rs>.</seg> <seg type="insult"><rs type="pers" ana="n_40868" ref="#fk__p_38990">Begas</rs> und <rs type="pers" ana="n_40869" ref="#fk__p_45514">Hannibal</rs>.</seg> <seg type="insult">Der Humorist <rs type="pers" ana="n_40870" ref="#fk__p_44128">Lichtenberg</rs>.</seg> — Aus<lb/>
+einem Gespräch mit <rs type="pers" ana="n_40871" ref="#fk__p_47583"><abbr>Dr.</abbr> Lueger</rs>: »Lohnfuhrwerkstaxe <seg type="symbol" subtype="3dots"/> Gehaltsforderungen<lb/>
+ der Beamten <seg type="symbol" subtype="3dots"/> ‚Und Sie wollen nicht Minister<lb/>
+werden?‘ ‚Nein, ich will nicht Minister werden, und das ist vielleicht<lb/>
+ gut, wenn ich in meinem Klub sagen kann: Wenn ich<lb/>
+nicht Minister bin, könnt ihr auch warten! Die größten Werke<lb/>
+sind geschaffen worden ohne materiellen Hintergrund. Die größten<lb/>
+Künstler haben verhältnismäßig geringe Einkünfte gehabt.‘ <seg type="spc">Es<lb/>
+wurde hiebei an <rs type="pers" ana="n_40872" ref="#fk__p_51977">Rafael</rs> erinnert</seg>.«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_47583">
+               <persName>Lueger, Karl</persName>
+               <birth>
+                  <date>1844-10-24</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1910-3-10</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <note type="comment">Rosa Lueger (Schwester) gest. Wien 24.09.1920</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/3561</idno></person>
+            <person xml:id="fk__p_44128">
+               <persName>Lichtenberg, Georg Christoph</persName>
+               <birth>
+                  <date>1742-7-1</date>
+                  <place>Oberramstadt bei Darmstadt</place>
+               </birth>
+               <death>
+                  <date>1799-2-24</date>
+                  <place>Göttingen</place>
+               </death>
+               <occupation>Physiker</occupation>
+               <occupation>Philosoph</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12064</idno></person>
+            <person xml:id="fk__p_38990">
+               <persName>Begas, Reinhold</persName>
+               <birth>
+                  <date>1831-7-15</date>
+                  <place>Berlin</place>
+               </birth>
+               <death>
+                  <date>1911-8-3</date>
+                  <place>Berlin</place>
+               </death>
+               <occupation>Bildhauer</occupation>
+               <occupation>Maler</occupation>
+               <note type="comment">Bruder Karl Begas (*Berlin 23.11.1845), Bildhauer!!</note>
+            </person>
+            <person xml:id="fk__p_48430">
+               <persName>Kwapil, Johann</persName>
+               <birth>
+                  <date>1822-03-26</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1907-02-24</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Volkssänger</occupation>
+            </person>
+            <person xml:id="fk__p_51559">
+               <persName>Pobjedonoszew, Konstantin Petrowitsch</persName>
+               <birth>
+                  <date>1827-6-2</date>
+                  <place>Moskau</place>
+               </birth>
+               <death>
+                  <date>1907-03-23</date>
+                  <place>St. Petersburg</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <occupation>Jurist</occupation>
+            </person>
+            <person xml:id="fk__p_51977">
+               <persName>Raffael, d. i. Raffaello Santi</persName>
+               <birth>
+                  <date>1483-4-6?</date>
+                  <place>Urbino</place>
+               </birth>
+               <death>
+                  <date>1520-4-6</date>
+                  <place>Rom</place>
+               </death>
+               <occupation>Maler</occupation>
+            </person>
+            <person xml:id="fk__p_45514">
+               <persName>Hannibal</persName>
+               <birth>
+                  <date>247 BC</date>
+               </birth>
+               <death>
+                  <date>183? BC</date>
+               </death>
+               <occupation>Feldherr</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

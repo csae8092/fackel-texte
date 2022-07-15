@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07877.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07876.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07878.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Und schon, in: Fackel Heft 19, Nr. 457, 1234, S. 86-86</title>
+            <title type="iso-date">1234-01-01</title>
+            <title type="id">tid_07877</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">19</title><title type="heft">457</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-19-457_n0086.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/457,086</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Und schon</head>
+            <p ana="pr105367">
+<space/><seg type="insult">Das <rs type="paperRef" ana="werk_21164">Abendblatt</rs> des ersten Tages deutsch-amerikanischer<lb/>
+Kriegführung</seg>:<lb/>
+</p>
+            <p ana="pr105370">
+<space/>Das wird <seg type="insult">eine gute Ernte von erfreulichen <rs type="pers">Hiobsposten</rs></seg><lb/>
+werden, heute und die folgenden Tage durch die nächsten zwei<lb/>
+Jahre. Ich g’freu mich schon auf <seg type="insult">die nagende Sorge der Union</seg> und<lb/>
+auf alles das, was in New-York nicht ohne Eindruck bleiben<lb/>
+kann, und speziell auf <seg type="insult">das Rieseln im Gemäuer von Washington</seg>.<lb/>
+Passen Sie auf <seg type="insult">auf den Rückschlag auf die Stimmungen<lb/>
+auf <rs type="pers" ana="n_67430" ref="#fk__p_55616">Wilson</rs></seg>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_55616">
+               <persName>Wilson, Thomas Woodrow</persName>
+               <birth>
+                  <date>1856-12-28</date>
+                  <place>Staunton, Va.</place>
+               </birth>
+               <death>
+                  <date>1924-2-3</date>
+                  <place>Washington, D. C.</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <note type="comment">1913-21 der 28. Präs. der USA</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

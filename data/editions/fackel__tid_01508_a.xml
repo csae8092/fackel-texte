@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01508_a.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01508.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01509.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Eine Zumuthung.), in: Fackel Heft 02, Nr. 064, 1901, S. 3-4</title>
+            <title type="iso-date">1901-01-01</title>
+            <title type="id">tid_01508_a</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">064</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-064_n0003.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/064,003</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Eine Zumuthung.)</head>
+            <p ana="pr14803">
+<space/><seg ana="‚Neue Freie Presse‘, 4. Jänner, Seite 1"/>:<lb/>
+</p>
+            <p ana="pr14805">
+<space/>»<seg type="insult">Die unglaubliche Zumuthung</seg>, dass ein Wahlkreis<lb/>
+, dem die Innere Stadt angehört, einen <rs type="pers" ana="n_12202" ref="#fk__p_45909">Bielohlawek<lb/>
+</rs> wählt, ist endlich zurückgewiesen worden.«<lb/>
+</p>
+            <p ana="pr14807">
+<space/><seg ana="‚Neue Freie Presse‘, 4. Jänner, Seite 2"/>:<lb/>
+</p>
+            <p ana="pr14809">
+<seg type="spc">Erster Wahlkreis</seg>. Es entfielen auf:<lb/>
+<rs type="pers" ana="n_12203" ref="#fk__p_42035"><abbr>Dr.</abbr> Wilhelm Ellenbogen</rs> <seg type="symbol" subtype="dots"/> 16.317 Stimmen<lb/>
+<rs type="pers" ana="n_12204" ref="#fk__p_45909">Hermann Bielohlawek</rs> <seg type="symbol" subtype="dots"/> 15.338 <DITTO cont="Stimmen" rend="»"/><lb/>
+</p>
+            <p ana="pr14810">
+Davon in der Inneren Stadt:<lb/>
+</p>
+            <p ana="pr14811">
+<B>auf <rs type="pers" ana="n_12205" ref="#fk__p_45909">Bielohlawek</rs> 3620 Stimmen</B><lb/>
+auf <rs type="pers" ana="n_12206" ref="#fk__p_42035">Ellenbogen</rs> 2757 Stimmen.<lb/>
+</p>
+            <p ana="pr14813">
+<space/><seg type="insult">Die »unglaubliche Zumuthung«</seg> ist also der<lb/>
+Inneren Stadt nur durch die Hilfe der Leopoldstadt<lb/>
+erspart geblieben, und wäre die Innere Stadt ein eigener<lb/>
+Wahlkreis, so wäre die <seg type="insult">Zumuthung</seg> Ereignis geworden.<lb/>
+Und einen Tag vor der Wahl hatte die ‚<rs type="paper" ana="werk_4700">Neue Freie<lb/>
+Presse</rs>‘ noch sinnig erklärt: »Sie mögen die Herzen<lb/>
+der Wiener erobert haben, das Herz von Wien ist<lb/>
+ihnen fremd geblieben.« Damit hatte sie eigentlich freiwillig<lb/>
+ zugegeben, dass es <seg type="insult">keine Wiener</seg> sind, die im<lb/>
+<seg type="insult">»Herzen von Wien«</seg> wohnen. <seg type="spc">Trotzdem</seg> wählten sie<lb/>
+am nächsten Tag Herrn <rs type="pers" ana="n_12207" ref="#fk__p_45909">Bielohlawek</rs>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_45909">
+               <persName>Bielohlawek, Hermann</persName>
+               <birth>
+                  <date>1861-8-2</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1918-6-30</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <note type="comment">1897-1911 Reichsratsabgeordneter</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10922</idno></person>
+            <person xml:id="fk__p_42035">
+               <persName>Ellenbogen, Wilhelm</persName>
+               <birth>
+                  <date>1863-7-9</date>
+                  <place>Lundenburg</place>
+               </birth>
+               <death>
+                  <date>1951-2-25</date>
+                  <place>New York</place>
+               </death>
+               <occupation>Arzt</occupation>
+               <occupation>Politiker</occupation>
+               <note type="comment">Reichsratsabgeordneter 1901-18</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/52796</idno></person>
+            </listPerson></back></text>
+</TEI>

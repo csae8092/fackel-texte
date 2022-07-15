@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_05404.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05403.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05405.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ein Wahrwort,, in: Fackel Heft 13, Nr. 326, 1911, S. 72-72</title>
+            <title type="iso-date">1911-01-01</title>
+            <title type="id">tid_05404</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">13</title><title type="heft">326</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-13-326_n0072.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/326,072</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ein Wahrwort,</head>
+            <p ana="pr70667">
+das ein Richter spricht, verachtet der Reporter nicht:<lb/>
+</p>
+            <p ana="pr70669">
+<space/>Am <date>4. Mai</date> brach im Burschenzimmer des Restaurateurs <rs type="pers" ana="n_51223" key="#fk__p_42325">Eduard <abbr>Sch.</abbr></rs><lb/>
+ein Brand aus, bei dem der dort schlafende Hausknecht <rs type="pers" ana="n_51224" key="#fk__p_49311">Ludwig <abbr>M.</abbr></rs> nur<lb/>
+mit Mühe aus dem in Brand geratenen Bette gerettet werden konnte.<lb/>
+<rs type="pers" ana="n_51225" key="#fk__p_49311"><abbr>M.</abbr></rs>, der etwas angeheitert war, dürfte als passionierter Raucher sich mit<lb/>
+der brennenden Zigarette niedergelegt haben, wodurch, da er einschlief,<lb/>
+das Bett in Brand geriet. <rs type="pers" ana="n_51226" key="#fk__p_49311"><abbr>M.</abbr></rs> wurde schon früher einmal aus dem<lb/>
+brennenden Bette herausgeholt. Der wegen feuergefährlicher Handlung<lb/>
+angeklagte Hausknecht gab gestern vor dem <rs type="inst">Bezirksgerichte Leopoldstadt</rs><lb/>
+an, daß er einen Rausch hatte und sich an gar nichts erinnern könne.<lb/>
+Bezirksrichter <rs type="pers" ana="n_51227" ref="#fk__p_57050"><abbr>Dr.</abbr> <abbr>T.</abbr></rs> sprach den Angeklagten frei, da ein Nachweis seiner<lb/>
+Schuld nicht erbracht werden konnte. »Jedenfalls«, <seg type="spc">bemerkte der<lb/>
+Richter</seg>, »<seg type="spc">empfehle ich Ihnen</seg>, <seg type="spc">künftig vorsichtiger beim<lb/>
+Rauchen zu sein</seg>.«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_57050">
+               <persName>Tietze, Paul</persName>
+               <birth>
+                  <date>1875-10-21</date>
+                  <place>Prag</place>
+               </birth>
+               <death>
+                  <date>1943-7-31</date>
+                  <place>Konzentrationslager Theresienstadt</place>
+               </death>
+               <occupation>Richter</occupation>
+               <note type="comment">1911 Bezirksrichter, Bezirksgericht Leopoldstadt</note>
+               <note type="comment">9., Schwarzspanierstraße 15</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

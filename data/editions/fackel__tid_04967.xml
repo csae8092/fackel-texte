@@ -1,0 +1,110 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_04967.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04966.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04968.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Zur Hebung des Fremdenverkehrs), in: Fackel Heft 11, Nr. 289, 1909, S. 25-26</title>
+            <title type="iso-date">1909-10-25</title>
+            <title type="id">tid_04967</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">11</title><title type="heft">289</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-11-289_n0025.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/289,025</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Zur Hebung des Fremdenverkehrs)</head>
+            <p ana="pr62071">
+<space/><seg type="insult"><seg type="spc">Zur Hebung des Fremdenverkehrs</seg>.</seg> <seg type="insult">Herr <rs type="pers" ana="n_45771" ref="#fk__p_45908">Hermann<lb/>
+Bahr</rs></seg>, um seine Meinung über <seg type="insult">dieses alle Geister bewegende<lb/>
+Problem</seg> befragt, schrieb die Antwort:<lb/>
+</p>
+            <p ana="pr62073">
+<space/><seg type="symbol" subtype="3dots"/> Gebt den Leuten von der <rs type="inst">Kunstschau</rs> die Mittel, ein<lb/>
+Gartentheater nach ihrem Sinn zu machen! Führt einen Monat lang<lb/>
+<seg type="spc">uns</seg> auf! <seg type="spc">Den ganzen <rs type="pers" ana="n_45772" ref="#fk__p_38500">Schnitzler</rs></seg>, <seg type="spc">den ganzen <rs type="pers" ana="n_45773" ref="#fk__p_46353">Hofmannsthal</rs></seg>,<lb/>
+<seg type="spc">den ganzen <rs type="pers" ana="n_45774" ref="#fk__p_47618">Schönherr</rs></seg>, <seg type="spc"><rs type="pers" ana="n_45775" ref="#fk__p_52172">Beer-Hofmann</rs> und mich</seg>! Und statt<lb/>
+auf uns zu schimpfen, sagt den Fremden: ‚Das ist das Beste, was<lb/>
+wir haben, und in dieser Art können Sie nirgends was besseres<lb/>
+sehen!‘« <seg type="symbol" subtype="3dots"/><lb/>
+</p>
+            <p ana="pr62075">
+<space/>Ein Traum verwirklicht sich, die Wiener kriegen einen<lb/>
+<seg type="insult">Fremdenverkehr</seg>. Das Einfachste war zu tun, und nun glückt die<lb/>
+</p>
+            <p ana="pr62075">
+Sache. Die Engländer strömen massenhaft nach Wien: man bekommt<lb/>
+ <seg type="insult">den <seg type="spc">ganzen</seg> <rs type="pers" ana="n_45776" ref="#fk__p_52172">Beer-Hofmann</rs></seg> zu sehen!<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_45908">
+               <persName>Bahr, Hermann</persName>
+               <birth>
+                  <date>1863-7-19</date>
+                  <place>Linz</place>
+               </birth>
+               <death>
+                  <date>1934-1-15</date>
+                  <place>München</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Kritiker</occupation>
+               <note type="comment">Ögg teilt auch 307/52, 445/49, 800/67 (Rotte Korah) Bahr zu</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10815</idno></person>
+            <person xml:id="fk__p_46353">
+               <persName>Hofmannsthal, Hugo Edler von</persName>
+               <birth>
+                  <date>1874-2-1</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1929-7-15</date>
+                  <place>Rodaun bei Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16293</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11740</idno></person>
+            <person xml:id="fk__p_52172">
+               <persName>Beer-Hofmann, Richard</persName>
+               <birth>
+                  <date>1866-7-11</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1945-9-26</date>
+                  <place>New York</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10863</idno></person>
+            <person xml:id="fk__p_38500">
+               <persName>Schnitzler, Arthur</persName>
+               <birth>
+                  <date>1862-5-15</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1931-10-21</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Arzt</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2121</idno></person>
+            <person xml:id="fk__p_47618">
+               <persName>Schönherr, Karl</persName>
+               <birth>
+                  <date>1867-2-24</date>
+                  <place>Axams, Tirol</place>
+               </birth>
+               <death>
+                  <date>1943-3-15</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Arzt</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12749</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_10809.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10808.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10810.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Barockhendl, in: Fackel Heft 28, Nr. 751, 1927, S. 29-30</title>
+            <title type="iso-date">1927-02-01</title>
+            <title type="id">tid_10809</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">28</title><title type="heft">751</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-28-751_n0029.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/751,029</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Barockhendl</head>
+            <p ana="pr150449">
+<space/>Wie gut mir diese Wortbildung gelungen ist, bekräftigt<lb/>
+jetzt <seg type="insult">Herr <rs type="pers" ana="n_90210" ref="#fk__p_45908">Hermann Bahr</rs></seg> in einem seiner <rs type="title">Tagebücher</rs>:<lb/>
+</p>
+            <p ana="pr150451">
+<space/><seg type="symbol" subtype="3dots"/> Wann beginnt eigentlich das <foreign xml:lang="de-loc">Backhendlwien</foreign> und wann<lb/>
+endet es? Seine schönste Blüte war vielleicht der <rs type="event">Wiener Kongreß</rs>.<lb/>
+<seg type="spc">Das <foreign xml:lang="de-loc">Backhendl</foreign> ist ja das Symbol einer Lebensform</seg>,<lb/>
+<seg type="spc">in der eine schon lockere</seg>, <seg type="spc">schon zergehende Kraft<lb/>
+sich noch einmal aufzuraffen versucht</seg>. Indem <rs type="pers" ana="n_90211" ref="#fk__p_45327">Habsburg</rs><lb/>
+sich aufgibt — —<lb/>
+</p>
+            <p ana="pr150453">
+Auf der ganzen Welt dürfte es ja an den Grundlagen für <seg type="insult">diese<lb/>
+Gastromanie</seg> fehlen, die sich schon zur <seg type="insult">Gastromantik</seg> steigert,<lb/>
+um aus einem gebackenen Hühnchen eine Lebensform zu<lb/>
+erschließen. Aber die ganze Welt entbehrt eben überhaupt der<lb/>
+Kultur, welche ohne <seg type="insult">die sie deutenden Schmöcke</seg> ja auch nicht<lb/>
+bestehen oder gewesen sein könnte. Ich erwartete nun sehnsüchtig<lb/>
+das Wörtlein »Barock«. Hat ihn schon:<lb/>
+</p>
+            <p ana="pr150455">
+Statt, wo die Überlieferung abgerissen war, beim <seg type="spc">Barock</seg>, wieder<lb/>
+anzuknüpfen, importiert man Bildung und wundert sich dann, wenn<lb/>
+sie improvisiert wirkt.<lb/>
+</p>
+            <p ana="pr150457">
+Ich hatte also den Nagel auf den Kopf getroffen und das<lb/>
+<seg type="insult"><foreign xml:lang="de-loc">Barockhendl</foreign></seg> abgeschossen.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_45327">
+               <persName>Habsburg</persName>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/17702</idno></person>
+            <person xml:id="fk__p_45908">
+               <persName>Bahr, Hermann</persName>
+               <birth>
+                  <date>1863-7-19</date>
+                  <place>Linz</place>
+               </birth>
+               <death>
+                  <date>1934-1-15</date>
+                  <place>München</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Kritiker</occupation>
+               <note type="comment">Ögg teilt auch 307/52, 445/49, 800/67 (Rotte Korah) Bahr zu</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10815</idno></person>
+            </listPerson></back></text>
+</TEI>

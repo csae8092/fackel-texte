@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_09966.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09965.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09967.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Programmnotiz), in: Fackel Heft 26, Nr. 668, 1924, S. 53-53</title>
+            <title type="iso-date">1924-12-01</title>
+            <title type="id">tid_09966</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">26</title><title type="heft">668</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-26-668_n0053.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/668,053</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Programmnotiz)</head>
+            <p ana="pr135292">
+<space/>Auf dem Programm:<lb/>
+</p>
+            <p ana="pr135293">
+<space/>Die Angehörigen des <rs type="inst">Burgtheaters</rs>, deren Mitwirkung an<lb/>
+der Darstellung der <rs type="pers" ana="n_82861" ref="#fk__p_43227">Raimund’schen Werke</rs> nachweisbar ist,<lb/>
+haben von der durch das letzte Programm erfolgten Einladung,<lb/>
+den heutigen Vortrag zu Studienzwecken zu besuchen, keinen<lb/>
+Gebrauch gemacht. Es ist insbesondere schade, daß <seg type="insult">Herr Direktor<lb/>
+<rs type="pers" ana="n_82862" ref="#fk__p_43493">Herterich</rs></seg>, der diese Dichtungen offenbar erst durch seine Regie<lb/>
+kennen gelernt hat, also einen ziemlich dürftigen Eindruck von<lb/>
+ihnen empfangen haben dürfte, die seltene Gelegenheit, ihren<lb/>
+Bühnenzauber zu erfahren, versäumt. Der Vortragende lehnt jede<lb/>
+Verantwortung für die künftigen Aufführungen der Werke ab.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_43493">
+               <persName>Herterich, Franz</persName>
+               <birth>
+                  <date>1877-10-3</date>
+                  <place>München</place>
+               </birth>
+               <death>
+                  <date>1966-10-28</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <occupation>Theaterleiter</occupation>
+               <note type="comment">Dir. Burgtheater 1.8.1923-30.6.1930</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11659</idno></person>
+            <person xml:id="fk__p_43227">
+               <persName>Raimund, Ferdinand</persName>
+               <birth>
+                  <date>1790-6-1</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1836-9-5</date>
+                  <place>Pottenstein, Niederösterreich</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Ögg teilt die Valentin-Stelle 254/4 Nestroy zu</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12468</idno></person>
+            </listPerson></back></text>
+</TEI>

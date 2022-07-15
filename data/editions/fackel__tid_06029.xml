@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06029.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06028.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06030.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Der Bildner als Redner, in: Fackel Heft 14, Nr. 363, 1912, S. 67-67</title>
+            <title type="iso-date">1912-12-01</title>
+            <title type="id">tid_06029</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">14</title><title type="heft">363</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-14-363_n0067.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/363,067</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Der Bildner als Redner</head>
+            <p ana="pr81435">
+<space/><rs type="pers" ana="n_56966" ref="#fk__p_44354">Gerhart Hauptmann</rs> <seg type="spc">verließ</seg> während des Festessens <seg type="spc">auf kurze<lb/>
+Zeit</seg> den Bankettsaal, um sich nach dem <rs type="inst"><rs type="pers" ana="n2_4988" ref="#fk__p_44593">Lessing-Theater</rs></rs> zu begeben,<lb/>
+wo als Festvorstellung »<rs type="title">Der Biberpelz</rs>« gespielt wurde. Am Schluß<lb/>
+wurde <rs type="pers" ana="n_56967" ref="#fk__p_44354">Hauptmann</rs> stürmisch applaudiert und gerufen. Er zeigte sich<lb/>
+mehrmals vor dem Vorhang und hielt schließlich eine kleine Ansprache.<lb/>
+Er sagte: »Ich bin kein Redner, wenn Sie wollen, ein Bildner! <seg type="symbol" subtype="4dots"/>«<lb/>
+</p>
+            <p ana="pr81437">
+<space/>Also bilde Künstler, rede nicht und wenn <seg type="insult">Du</seg> schon bei<lb/>
+einem Bankett bist, harre aus. Wichtig ist aber eines. Sagte<lb/>
+<rs type="pers" ana="n_56968" ref="#fk__p_44354">Hauptmann</rs>: »Ich bin kein Redner, wenn <seg type="spc">Sie wollen</seg>; ein Bildner«<lb/>
+oder »Ich bin kein Redner; wenn Sie wollen, ein Bildner«? Das<lb/>
+erste wäre erträglicher. Aber um solchen Zweifeln auszuweichen,<lb/>
+ist es wirklich besser, nur ein Bildner zu sein und nicht auch<lb/>
+kein Redner.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_44593">
+               <persName>Lessing, Gotthold Ephraim</persName>
+               <birth>
+                  <date>1729-1-22</date>
+                  <place>Kamenz/Oberlausitz</place>
+               </birth>
+               <death>
+                  <date>1781-2-15</date>
+                  <place>Braunschweig</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Bibliothekar</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12053</idno></person>
+            <person xml:id="fk__p_44354">
+               <persName>Hauptmann, Gerhart</persName>
+               <birth>
+                  <date>1862-11-15</date>
+                  <place>Salzbrunn, Schlesien</place>
+               </birth>
+               <death>
+                  <date>1946-6-6</date>
+                  <place>Agnetendorf</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Ögg teilt die indirekte Stelle 521/64 zu, irrtümlich</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11617</idno></person>
+            </listPerson></back></text>
+</TEI>

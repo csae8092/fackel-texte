@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03776.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03775.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03777.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Sammler. (Aus meiner Sammlung), in: Fackel Heft 06, Nr. 173, 1905, S. 23-24</title>
+            <title type="iso-date">1905-01-16</title>
+            <title type="id">tid_03776</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">06</title><title type="heft">173</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-06-173_n0023.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/173,023</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Sammler. (Aus meiner Sammlung)</head>
+            <p ana="pr37869">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="name_203437" ref="#fk__p_52736">Sammler</rs>.</seg></seg> Nein, ich will nichts mehr davon wissen. Wo käme<lb/>
+ich hin, wenn ich die ‚<rs type="self" ana="werk_13543">Fackel</rs>‘ systematisch mit den <seg type="insult">Dummheiten der<lb/>
+Tagespresse</seg> anfüllen wollte? Schon früher habe ich den Grundsatz verfolgt<lb/>
+, daß man »nicht vollständig sein darf«. Jetzt wächst mir auch<lb/>
+das Notwendige über den Kopf. Was <seg type="insult">Albernheit</seg> und <seg type="insult">Gedankenlosigkeit</seg><lb/>
+täglich leisten, darf hier nur an den erlesensten Beispielen gezeigt<lb/>
+werden. Und sicherlich waren in den letzten Wochen hundertmal wirksamere<lb/>
+ Fälle zu verzeichnen als das Attentat, von dem ein <seg type="insult">wirklicher Originalbeitrag<lb/>
+ des ‚<rs type="paper" ana="werk_13544">Neuen Wiener Journals</rs>‘</seg> kürzlich handelte: »Der Gymnasialschüler<lb/>
+ <rs type="pers" ana="n_32404" ref="#fk__p_56307">Wrobel</rs>, der den Professor <rs type="pers" ana="n_32405" ref="#fk__p_46156">Hlibowicki</rs> <seg type="spc">durch einen Revolverschuß<lb/>
+ tötete</seg>, war nicht mehr Schüler des Przemysler Gymnasiums,<lb/>
+sondern gehörte der siebenten Klasse des Gymnasiums von Podgorze<lb/>
+</p>
+            <p ana="pr37869">
+an <seg type="symbol" subtype="3dots"/> Die Verletzung <rs type="pers" ana="n_32406" ref="#fk__p_46156">Hlibowicki’s</rs> ist zwar eine sehr schwere, doch<lb/>
+hofft man ihn am Leben erhalten zu können.« <seg type="symbol" subtype="3dots"/> <seg type="insult">Eine erfreulichere<lb/>
+Originalnotiz</seg>: »(<rs type="pers" ana="n_32407" key="#fk__p_56471"><seg type="spc">Jean Paul</seg></rs>.) <seg type="spc">Nicht der französische <RS pers="Jean Paul" globID="name_200934">Schriftsteller<lb/>
+</RS></seg>, sondern der urwüchsige Münchener Komiker entfesselt allabendlich<lb/>
+ im <rs type="inst">Etablissement Gartenbau</rs> Stürme von Heiterkeit <seg type="symbol" subtype="3dots"/>«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_56307">
+               <persName>Wróbel, Włodzimierz</persName>
+               <birth>
+                  <date>1884?</date>
+               </birth>
+               <death>
+                  <date>1904-12-29</date>
+                  <place>Lemberg</place>
+               </death>
+               <occupation>Gymnasiast</occupation>
+               <note type="comment">hat Prof. Hlibowicki in Przemysl durch Revolverschuß verletzt und sich dann umgebracht</note>
+               <note type="comment">in der Czernowitzer Allg. Ztg. 30.12.1904: Worobel</note>
+            </person>
+            <person xml:id="fk__p_46156">
+               <persName>Hlibowicki, Klemens</persName>
+               <birth>
+                  <date>1875-1-4</date>
+                  <place>Przemysl</place>
+               </birth>
+               <death>
+                  <date>1907-3?</date>
+                  <place>Przemysl</place>
+               </death>
+               <occupation>Gymnasiallehrer</occupation>
+               <note type="comment">Zeitschrift für deutsch-österreichische Gymnasien 1907, Nachruf (32 Jahre alt)</note>
+               <note type="comment">Czernowitzer Allg. Ztg. 30.12.1904: Chlibowietzki</note>
+               <note type="comment">Pester Lloyd: stürzte zusammen und war binnen weniger Minuten eine Leiche</note>
+               <note type="comment">Mathematik, Naturgeschichte</note>
+            </person>
+            <person xml:id="fk__p_52736">
+               <persName>Sammler</persName>
+            </person>
+            </listPerson></back></text>
+</TEI>

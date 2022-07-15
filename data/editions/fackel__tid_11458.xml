@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_11458.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11457.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11459.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Die Arbeit, in: Fackel Heft 32, Nr. 838, 1930, S. 79-79</title>
+            <title type="iso-date">1930-09-01</title>
+            <title type="id">tid_11458</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">32</title><title type="heft">838</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-32-838_n0079.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/838,079</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Die Arbeit</head>
+            <p ana="pr166644">
+förderte ein Bild zutage, mit dem folgenden Text:<lb/>
+</p>
+            <p ana="pr166646">
+<abbr>Fr.</abbr> <rs type="pers" ana="n_99950" key="#fk__p_42537">Elly</rs> <seg type="symbol" subtype="6dots"/><lb/>
+</p>
+            <p ana="pr166647">
+<seg type="spc">bestbekannt in der <rs type="inst">Wiener Kaufmannschaft</rs></seg>, erregte<lb/>
+beim sonntägigen Rennen in der Freudenau durch ihre Schönheit und<lb/>
+elegante Erscheinung größte Bewunderung.<lb/>
+</p>
+            <p ana="pr166649">
+Wenn <seg type="insult">diese Art von Schönheitspflege</seg> in <seg type="insult"><rs type="perRef" ana="werk_30262"><rs type="pers" ana="n_99951" ref="#fk__p_47606">Renners</rs> Organ</rs></seg> kostenlos<lb/>
+erfolgt, hat das ‚<rs type="" ana="werk_30263">Salonblatt</rs>‘ nichts zu lachen.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_47606">
+               <persName>Renner, Karl</persName>
+               <birth>
+                  <date>1870-12-14</date>
+                  <place>Untertannowitz, Südmähren</place>
+               </birth>
+               <death>
+                  <date>1950-12-31</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <note type="comment">Die Krise d. Dualismus u. d. Ende der Deákist. Episode in der Gesch. d. Habsb. Mon., Wien Deuticke 1904</note>
+               <note type="comment">155/24 (Rudolf Springer) fehlt bei Ögg</note>
+               <note type="comment">Okt. 1918 bis Juni 1920 Staatskanzler, Dez. 1945 bis Dez. 1950 Bundespräsident</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12507</idno></person>
+            </listPerson></back></text>
+</TEI>

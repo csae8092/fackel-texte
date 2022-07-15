@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03358.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03357.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03359.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Hausfrau. (Kammerjungfer und Literatur), in: Fackel Heft 05, Nr. 148, 1903, S. 29-30</title>
+            <title type="iso-date">1903-12-2</title>
+            <title type="id">tid_03358</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">05</title><title type="heft">148</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-05-148_n0029.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/148,029</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Hausfrau. (Kammerjungfer und Literatur)</head>
+            <p ana="pr33211">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="n_28725" ref="#fk__p_45607">Hausfrau</rs>.</seg></seg></seg> Ja, es ist nicht mehr zum Aushalten! Seit <seg type="insult">Herr<lb/>
+<rs type="pers" ana="n_28726" ref="#fk__p_50782">Octave Mirbeau</rs></seg> <seg type="insult">sein zotiges, nur in der politischen Satire künstlerisches</seg><lb/>
+</p>
+            <p ana="pr33211">
+<seg type="insult"><foreign xml:lang="fr">»<rs type="title">journal d’une femme de chambre</rs>«</foreign></seg> geschrieben hat, hört man’s hinter<lb/>
+jedem Schlüsselloch rascheln. Und jedes Stubenmädel wartet auf den<lb/>
+<seg type="insult">Literaten</seg>, der da kommen wird. <seg type="insult">Herr <rs type="pers" ana="n_28727" ref="#fk__p_50782">Mirbeau</rs></seg> hat die ganze Geschichte<lb/>
+gewiß ohne Information, bloß mit <seg type="insult">ein bischen Kenntnis französischer <rs type="pers" ana="n_28728" ref="#fk__p_41709">Krafft-Ebings<lb/>
+</rs></seg> geschrieben. Aber wenn sich die Literatur nicht nach dem Leben<lb/>
+richtet, das Leben richtet sich gewiß nach der Literatur. Im Annoncenteil<lb/>
+ der ‚<rs type="paper" ana="werk_12435">Neuen Freien Presse</rs>‘ (<date>24. Nov.</date>), die doch eher den <seg type="insult">Interessen<lb/>
+der Hausfrauen</seg> dienen sollte, findet sich auf <seg source="Seite 26" ana="Seite 26"/> <seg type="insult">der folgende<lb/>
+drollige Antrag</seg>:<lb/>
+</p>
+            <p ana="pr33213">
+<B>Älteren Schriftsteller</B><lb/>
+</p>
+            <p ana="pr33214">
+sucht intelligentes elegantes <seg type="spc">Kammermädchen</seg>,<lb/>
+welches nicht die Fähigkeit hat, ihren <seg type="spc">gesammelten<lb/>
+ vielen Stoff</seg> allein zu verwerten, behufs<lb/>
+Ehe kennen zu lernen. Selbe ist auch tüchtige Hausfrau<lb/>
+ und besitzt einige Ersparnisse. Briefe <abbr>erb.</abbr><lb/>
+unter „Modern“ <abbr>postl.</abbr> 1. <abbr>Bez. Maximilianstr.</abbr><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_41709">
+               <persName>Krafft-Ebing, Richard Freiherr von</persName>
+               <birth>
+                  <date>1840-8-14</date>
+                  <place>Mannheim</place>
+               </birth>
+               <death>
+                  <date>1902-12-22</date>
+                  <place>Maria Grün bei Graz</place>
+               </death>
+               <occupation>Psychiater</occupation>
+               <occupation>Sexualforscher</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17076</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/8322</idno></person>
+            <person xml:id="fk__p_45607">
+               <persName>Hausfrau</persName>
+            </person>
+            <person xml:id="fk__p_50782">
+               <persName>Mirbeau, Octave</persName>
+               <birth>
+                  <date>1848-2-16</date>
+                  <place>Trévières, Calvados</place>
+               </birth>
+               <death>
+                  <date>1917-2-16</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/8948</idno></person>
+            </listPerson></back></text>
+</TEI>

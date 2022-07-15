@@ -1,0 +1,47 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_11507.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11506.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11508.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Männerstolz, in: Fackel Heft 32, Nr. 838, 1930, S. 108-108</title>
+            <title type="iso-date">1930-09-01</title>
+            <title type="id">tid_11507</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">32</title><title type="heft">838</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-32-838_n0108.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/838,108</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Männerstolz</head>
+            <p ana="pr167226">
+<space/><seg type="sidehead"><seg type="spc">Die Konfiskation der <seg ana="Arbeiter-Zeitung"/></seg>.</seg> Unser<lb/>
+verantwortlicher Redakteur, <rs type="pers" ana="n_100089" ref="#fk__p_50898"><abbr>Dr.</abbr> Oskar Pollak</rs>, ist in Angelegenheit des<lb/>
+beschlagnahmten Artikels vom <date>5. <abbr>d.</abbr></date> bereits gestern vom Untersuchungsrichter<lb/>
+ einvernommen worden. Er hat die Erklärung abgegeben, daß<lb/>
+er den Artikel vor der Drucklegung gelesen und in Kenntnis seines<lb/>
+Inhaltes zum Druck befördert habe. <seg type="spc">Die <rs type="paper" ana="werk_30305">Arbeiter-Zeitung</rs><lb/>
+übernimmt also für diesen Artikel die volle Verantwortung<lb/>
+</seg>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_50898">
+               <persName>Pollak, Oscar</persName>
+               <birth>
+                  <date>1893-10-07</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1963-08-28</date>
+                  <place>Hinterstoder</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <note type="comment">Chefredakteur der Arbeiter-Zeitung</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/39331</idno></person>
+            </listPerson></back></text>
+</TEI>

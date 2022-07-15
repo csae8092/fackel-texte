@@ -1,0 +1,47 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_05540.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05539.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05541.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Die Druckerei kennt die Wahrheit, in: Fackel Heft 13, Nr. 336, 1234, S. 33-33</title>
+            <title type="iso-date">1234-01-01</title>
+            <title type="id">tid_05540</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">13</title><title type="heft">336</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-13-336_n0033.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/336,033</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Die Druckerei kennt die Wahrheit</head>
+            <p ana="pr72695">
+<space/>»<seg type="symbol" subtype="3dots"/> Gerne und willig hat ein jeder von uns sich seinem<lb/>
+sicheren Takt, seinem untrüglichen Geschmack gefügt <seg type="symbol" subtype="3dots"/><lb/>
+</p>
+            <p ana="pr72696">
+<space/><seg type="symbol" subtype="3dots"/> Herr <rs type="pers" ana="n_52501" ref="#fk__p_50373">Moriz Benedikt</rs> legte auf den Sarg unseres unvergeßlichen<lb/>
+ <RS pers="Sigmund Wilheim" globID="name_203211">Kollegen</RS> einen <seg type="spc">Sarg</seg> nieder <seg type="symbol" subtype="3dots"/>«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_50373">
+               <persName>Benedikt, Moriz</persName>
+               <birth>
+                  <date>1849-5-27</date>
+                  <place>Kwatschitz/Mähren</place>
+               </birth>
+               <death>
+                  <date>1920-3-18</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <note type="comment">Geburtsort Kwatschitz bei Ungarisch Hradisch/Mähren, nicht Kwassitz bei Kremsier</note>
+               <note type="comment">1. Tor, 20/1/1a</note>
+               <note type="comment">Hrsg. der NFP (seit 1908 alleiniger Leiter)</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10875</idno></person>
+            </listPerson></back></text>
+</TEI>

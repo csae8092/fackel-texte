@@ -1,0 +1,125 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_09112.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09111.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09113.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ebenda, 28. Dezember, halb 8 Uhr:, in: Fackel Heft 23, Nr. 588, 1922, S. 66-66</title>
+            <title type="iso-date">1922-03-01</title>
+            <title type="id">tid_09112</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">23</title><title type="heft">588</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-23-588_n0066.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/588,066</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ebenda, 28. Dezember, halb 8 Uhr:</head>
+            <p ana="pr121498">
+<space/>Ebenda, <date>28. Dezember</date>, halb 8 Uhr:<lb/>
+</p>
+            <p ana="pr121499">
+<space/>I. <rs type="pers" ana="n_74413" ref="#fk__p_45852">Ibsen</rs>: <rs type="title"><rs type="pers">Aases</rs> Tod</rs>. — <rs type="pers" ana="n_74414" ref="#fk__p_40404">Liliencron</rs>: <rs type="title">Die betrunkenen Bauern</rs>. —<lb/>
+<rs type="title"><rs type="pers" ana="n2_6815" ref="#fk__p_51379">Peter Altenberg</rs></rs> / <rs type="title">Abenteuer der Arbeit</rs> / <rs type="title">Der Reim</rs> / <rs type="title">An einen alten<lb/>
+Lehrer</rs> / <rs type="title"><rs type="pers" ana="n2_6816" ref="#fk__p_37842">Sonnenthal</rs></rs> / <rs type="title">Vor dem Einschlafen</rs> / <rs type="title">Der sterbende Mensch</rs>.<lb/>
+</p>
+            <p ana="pr121500">
+<space/>II: <rs type="title">Der kleine <rs type="pers" ana="n2_6817" ref="#fk__p_57616">Brockhaus</rs></rs> / <rs type="title">Wie es kam</rs>. — <rs type="title"><seg type="insult">Monolog des<lb/>
+<rs type="pers" ana="n2_6818" ref="#fk__p_38072">Alfred Kerr</rs></seg></rs>. — <rs type="pers" ana="n_74415" ref="#fk__p_43433">Wedekind</rs>: <rs type="title">Der Zoologe von Berlin</rs>. — <rs type="title"><seg type="insult">Das Ehrenkreuz</seg></rs>.<lb/>
+</p>
+            <p ana="pr121501">
+<space/>III. Szenen: <rs type="title">Moschee</rs> / <rs type="title"><rs type="pers">Elfriede Ritter</rs> und die <seg type="insult"><rs type="pers">Reporter</rs></seg></rs>. —<lb/>
+Aus: <rs type="title"><seg type="insult">Ein christlicher Dreh</seg></rs>. — <rs type="title"><foreign xml:lang="de-loc">Mir san ja eh <seg type="insult">die reinen Lamperln</seg></foreign></rs><lb/>
+[Mit Begleitung]. — <rs type="title"><seg type="insult"><foreign xml:lang="la">Post festum.</foreign></seg></rs><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_57616">
+               <persName>Brockhaus, F. A. (Verlag)</persName>
+               <note type="comment">in Leipzig</note>
+            </person>
+            <person xml:id="fk__p_51379">
+               <persName>Altenberg, Peter</persName>
+               <birth>
+                  <date>1859-3-9</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1919-1-8</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Ögg teilt 531/207 (Nachruf auf Moriz Benedikt) P. A. zu (mit ?)</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2147</idno></person>
+            <person xml:id="fk__p_40404">
+               <persName>Liliencron, Detlev Freiherr von</persName>
+               <birth>
+                  <date>1844-6-3</date>
+                  <place>Kiel</place>
+               </birth>
+               <death>
+                  <date>1909-7-22</date>
+                  <place>Altrahlstedt bei Hamburg</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment"/>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17547</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12071</idno></person>
+            <person xml:id="fk__p_45852">
+               <persName>Ibsen, Henrik</persName>
+               <birth>
+                  <date>1828-3-20</date>
+                  <place>Skien</place>
+               </birth>
+               <death>
+                  <date>1906-5-23</date>
+                  <place>Christiania</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment"/>
+               <note type="comment">Ögg ordnet 368/49 Baumeister Solneß Strindberg zu</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11798</idno></person>
+            <person xml:id="fk__p_37842">
+               <persName>Sonnenthal, Adolf Ritter von</persName>
+               <birth>
+                  <date>1834-12-21</date>
+                  <place>Pest</place>
+               </birth>
+               <death>
+                  <date>1909-4-4</date>
+                  <place>in der Eisenbahn von Prag nach Wien</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <note type="comment">Schwester: Emma Wertheimer, gest. Wien 04.09.1929, im 86. Lj.</note>
+               <note type="comment">Schwester: Laura Lemberger, gest. Wien 23.04.1907, im 71. Lj.</note>
+               <note type="comment">seit 1856 am Burgtheater</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_20204</idno></person>
+            <person xml:id="fk__p_43433">
+               <persName>Wedekind, Frank</persName>
+               <birth>
+                  <date>1864-7-24</date>
+                  <place>Hannover</place>
+               </birth>
+               <death>
+                  <date>1918-3-9</date>
+                  <place>München</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/13068</idno></person>
+            <person xml:id="fk__p_38072">
+               <persName>Kerr, Alfred</persName>
+               <birth>
+                  <date>1867-12-25</date>
+                  <place>Breslau</place>
+               </birth>
+               <death>
+                  <date>1948-10-12</date>
+                  <place>Hamburg</place>
+               </death>
+               <occupation>Kritiker</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11910</idno></person>
+            </listPerson></back></text>
+</TEI>

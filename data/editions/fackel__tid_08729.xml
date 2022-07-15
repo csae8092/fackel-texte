@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_08729.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08728.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08730.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ebenda, 18. April, ½4 Uhr., in: Fackel Heft 22, Nr. 544, 1920, S. 15-15</title>
+            <title type="iso-date">1920-06-01</title>
+            <title type="id">tid_08729</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">22</title><title type="heft">544</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-22-544_n0015.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/544,015</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ebenda, 18. April, ½4 Uhr.</head>
+            <p ana="pr115830">
+<space/>Ebenda, <date>18. April</date>, ½4 Uhr.<lb/>
+</p>
+            <p ana="pr115831">
+<space/>I. Aus: <rs type="title"><seg type="spc"><rs type="pers">Timon</rs> von Athen</seg></rs> von <rs type="pers" ana="n_71620" ref="#fk__p_55589">Shakespeare</rs>, übersetzt<lb/>
+von <rs type="pers" ana="n_71621" ref="#fk__p_40642">Dorothea Tieck</rs>, I., II. und III. Aufzug, bearbeitet vom Vorleser.<lb/>
+</p>
+            <p ana="pr115832">
+<space/>II. <rs type="title"><rs type="pers"><seg type="spc">Attila</seg></rs></rs> von <rs type="pers" ana="n_71622" ref="#fk__p_38582">August Strindberg</rs>.<lb/>
+</p>
+            <p ana="pr115833">
+<space/>III. <rs type="title"><seg type="spc">Die chinesische Mauer</seg></rs> von <rs type="pers" ana="n_71623" ref="#fk__p_47565">Karl Kraus</rs>.<lb/>
+</p>
+            <p ana="pr115834">
+<space/>Der volle Ertrag dieser Vorlesung (bei erhöhten Preisen: K 3785.10)<lb/>
+wurde dem <rs type="inst">Fonds für die Befreiung der Kriegsgefangenen</rs> (<rs type="inst">Österreichisches<lb/>
+Kriegsgefangenenamt</rs>, Wien, VI., Gumpendorferstraße <abbr>Nr.</abbr> 1) zugewendet.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_40642">
+               <persName>Tieck, Dorothea</persName>
+               <birth>
+                  <date>1799-3</date>
+                  <place>Berlin</place>
+               </birth>
+               <death>
+                  <date>1841-2-21</date>
+                  <place>Dresden</place>
+               </death>
+               <occupation>Übersetzerin</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/53277</idno></person>
+            <person xml:id="fk__p_55589">
+               <persName>Shakespeare, William</persName>
+               <birth>
+                  <date>1564-4-23?</date>
+                  <place>Stratford-upon-Avon</place>
+               </birth>
+               <death>
+                  <date>1616-4-23</date>
+                  <place>Stratford-upon-Avon</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2412</idno></person>
+            <person xml:id="fk__p_47565">
+               <persName>Kraus, Karl</persName>
+               <birth>
+                  <date>1874-4-28</date>
+                  <place>Jicin, Böhmen</place>
+               </birth>
+               <death>
+                  <date>1936-6-12</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Publizist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11988</idno></person>
+            <person xml:id="fk__p_38582">
+               <persName>Strindberg, August</persName>
+               <birth>
+                  <date>1849-1-22</date>
+                  <place>Stockholm</place>
+               </birth>
+               <death>
+                  <date>1912-5-14</date>
+                  <place>Stockholm</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12877</idno></person>
+            </listPerson></back></text>
+</TEI>

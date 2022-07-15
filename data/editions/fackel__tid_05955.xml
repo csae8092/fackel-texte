@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_05955.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05954.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05956.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ja, ist denn das, was in den Zeitungen steht, nicht wahr, in: Fackel Heft 14, Nr. 360, 1912, S. 27-27</title>
+            <title type="iso-date">1912-11-01</title>
+            <title type="id">tid_05955</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">14</title><title type="heft">360</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-14-360_n0027.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/360,027</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ja, ist denn das, was in den Zeitungen steht, nicht wahr</head>
+            <p ana="pr79909">
+<space/>»Der Präsident der ungarischen Delegation <rs type="pers" ana="n_56398" ref="#fk__p_38815">Baron Ludwig Lang</rs><lb/>
+erwähnte dem Monarchen gegenüber, er habe vom Leibarzt <rs type="pers" ana="n_56399" ref="#fk__p_41282"><abbr>Dr.</abbr> Kerzl</rs><lb/>
+und anderen Hofwürdenträgern gehört, die Nachricht sei grundlos, daß<lb/>
+man dem Monarchen von einer Reise nach Budapest abrate, ja im<lb/>
+Gegenteil, <rs type="pers" ana="n_56400" ref="#fk__p_41282"><abbr>Dr.</abbr> Kerzl</rs> erachte die Luftveränderung für den Gesundheitszustand<lb/>
+ als vorteilhaft. — <seg type="spc">Der <RS pers="Franz Joseph I." globID="name_201548">Kaiser</RS> erwiderte</seg>: ‚<seg type="spc">Ich habe<lb/>
+es bloß aus den Zeitungen erfahren</seg>, daß Ich nicht nach Budapest<lb/>
+kommen werde. <seg type="spc">Davon ist niemals die Rede gewesen</seg>.‘«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_41282">
+               <persName>Kerzl, Josef</persName>
+               <birth>
+                  <date>1841</date>
+                  <place>Weska/Böhmen</place>
+               </birth>
+               <death>
+                  <date>1919-6</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Arzt</occupation>
+               <note type="comment">7., Hofstallstraße 1</note>
+               <note type="comment">Friedhof Hietzing 20/58 (FD)</note>
+               <note type="comment">Leibarzt Kaiser Franz Joseph I.</note>
+            </person>
+            <person xml:id="fk__p_38815">
+               <persName>Láng, Lajos (Ludwig) Baron von</persName>
+               <birth>
+                  <date>1849-10-13</date>
+                  <place>Pest</place>
+               </birth>
+               <death>
+                  <date>1918-3-28</date>
+                  <place>Budapest</place>
+               </death>
+               <occupation>Statistiker</occupation>
+               <occupation>Politiker</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

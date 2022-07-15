@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_05627.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05626.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05628.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Namen nennen!, in: Fackel Heft 13, Nr. 341, 1912, S. 16-16</title>
+            <title type="iso-date">1912-01-27</title>
+            <title type="id">tid_05627</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">13</title><title type="heft">341</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-13-341_n0016.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/341,016</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Namen nennen!</head>
+            <p ana="pr74080">
+<space/>»<rs type="pers" ana="n_53094" ref="#fk__p_47103">Kainz</rs>, <rs type="pers" ana="n_53095" ref="#fk__p_45200">Mahler</rs>, <rs type="pers" ana="n_53096" ref="#fk__p_52426">Roller</rs>, <rs type="pers" ana="n_53097" ref="#fk__p_45195">Klimt</rs>, <seg type="insult">die <seg type="spc">zwei</seg>, <seg type="spc">drei großen Wiener<lb/>
+Literaten</seg></seg> — es war <seg type="spc">ein</seg> geistiger Kreis. Unser feinster geistiger Besitz.<lb/>
+Ganz organisch eins.«<lb/>
+</p>
+            <p ana="pr74082">
+<space/>Unbedingt Namen nennen! Das ist kein Benehmen!<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_45200">
+               <persName>Mahler, Gustav</persName>
+               <birth>
+                  <date>1860-7-7</date>
+                  <place>Kalischt, Böhmen</place>
+               </birth>
+               <death>
+                  <date>1911-5-18</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Komponist</occupation>
+               <occupation>Dirigent</occupation>
+               <occupation>Theaterleiter</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12163</idno></person>
+            <person xml:id="fk__p_52426">
+               <persName>Roller, Alfred</persName>
+               <birth>
+                  <date>1864-10-2</date>
+                  <place>Brünn</place>
+               </birth>
+               <death>
+                  <date>1935-6-21</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Maler</occupation>
+               <occupation>Bühnenbildner</occupation>
+               <occupation>Kunstpädagoge</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12548</idno></person>
+            <person xml:id="fk__p_47103">
+               <persName>Kainz, Josef Gottfried Ignaz</persName>
+               <birth>
+                  <date>1858-1-2</date>
+                  <place>Wieselburg, Ungarn</place>
+               </birth>
+               <death>
+                  <date>1910-9-20</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <note type="comment"/>
+               <note type="comment">Handbuch österr. Autorinnen und Autoren jüd. Herkunft gibt an: urspr.. Kohn ???</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16646</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11851</idno></person>
+            <person xml:id="fk__p_45195">
+               <persName>Klimt, Gustav</persName>
+               <birth>
+                  <date>1862-7-14</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1918-2-6</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Maler</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11941</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07913.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07912.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07914.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Die Lokalnotiz, in: Fackel Heft 19, Nr. 462, 1917, S. 35-36</title>
+            <title type="iso-date">1917-10-01</title>
+            <title type="id">tid_07913</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">19</title><title type="heft">462</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-19-462_n0035.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/462,035</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Die Lokalnotiz</head>
+            <p ana="pr105812">
+<space/><seg type="sidehead"><seg type="spc">Die Mutter mit dem Kinde in den Tod</seg>.</seg> In Laibach<lb/>
+hatte am <date>13. <abbr>d.</abbr></date> die Gemahlin des Steuerassistenten <rs type="pers" ana="n_67638" key="#fk__p_54905">Viktor Bischof</rs>,<lb/>
+Frau <rs type="pers" ana="n_67639" ref="#fk__p_46411">Ida Bischof</rs>, sich und ihr 6 Monate altes Söhnchen <rs type="pers" ana="n_67640" ref="#fk__p_52416">Rolf</rs><lb/>
+ertränkt. In einem hinterlassenen Schreiben gibt sie an, daß sie in<lb/>
+den Tod gehe, weil sie ihr Kind nicht stillen konnte und sie von<lb/>
+anderer Seite keine Milch erhielt.<lb/>
+</p>
+            <p ana="pr105814">
+<space/>Ein Leser fragt: »Wenn nicht solches, was dann wird<lb/>
+diesem Krieg ein Ende bereiten?« <seg type="insult">Solche Lappalie</seg> gewiß nicht.<lb/>
+Das ist doch <seg type="insult">nur eine <choice><sic>Lokalnotitz</sic><corr>Lokalnotiz</corr></choice></seg> und noch dazu in einem<lb/>
+<seg type="insult"><rs type="perRef" ana="werk_21201">Provinzblatt</rs></seg>. Das steht doch nicht im <seg type="insult">Generalstabsbericht</seg>, wie<lb/>
+ein Bombenwurf, der der Milchnot des Säuglings ein Ende<lb/>
+macht. Auch gibt es — erstarre, Hölle! — <seg type="insult">Menschen</seg>, die da<lb/>
+sagen, daß man nicht verallgemeinern dürfe, der Krieg habe<lb/>
+doch auch seine ethischen Seiten. Wenn nicht solches, was dann<lb/>
+wird diesem Krieg ein Ende bereiten!<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_52416">
+               <persName>Bischof, Rolf</persName>
+               <birth>
+                  <date>1917?</date>
+               </birth>
+               <death>
+                  <date>1917</date>
+                  <place>Laibach</place>
+               </death>
+            </person>
+            <person xml:id="fk__p_46411">
+               <persName>Bischof, Ida</persName>
+               <death>
+                  <date>1917</date>
+                  <place>Laibach</place>
+               </death>
+            </person>
+            </listPerson></back></text>
+</TEI>

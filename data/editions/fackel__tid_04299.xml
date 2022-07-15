@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_04299.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04298.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04300.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Handlungsreisender. (Roda Roda Roda u. s. w.), in: Fackel Heft 08, Nr. 212, 1906, S. 24-24</title>
+            <title type="iso-date">1906-11-23</title>
+            <title type="id">tid_04299</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">08</title><title type="heft">212</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-08-212_n0024.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/212,024</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Handlungsreisender. (Roda Roda Roda u. s. w.)</head>
+            <p ana="pr46798">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="name_203625" key="#fk__p_60712">Handlungsreisender</rs>.</seg></seg></seg> In der letzten Nummer des ‚<rs type="magazine" ana="werk_14908">Simplicissimus</rs>‘<lb/>
+ist in Form einer eingebogenen Visitkarte die folgende Anzeige abgedruckt<lb/>
+: »<rs type="pers" ana="n_37721" ref="#fk__p_52385">Roda-Roda</rs> liest im <date>Dezember</date> und <date>Januar</date> seine Schwänke<lb/>
+in Deutschland und Österreich. Vertretung: <rs type="inst">Konzert-Bureau <rs type="pers" ana="n2_3077" ref="#fk__p_57821">Emil<lb/>
+Guttmann</rs></rs>«. Da diese Anzeige zwar im Inseratenteil, aber neben einer<lb/>
+Zeichnung von <rs type="pers" ana="n_37722" ref="#fk__p_46564"><abbr>J. B.</abbr> Engl</rs> steht, ist es doch nicht ausgeschlossen, daß<lb/>
+es sich um kein Inserat, sondern um <seg type="insult">einen humoristischen Beitrag des<lb/>
+‚<rs type="magazine" ana="werk_14909">Simplicissimus</rs>‘</seg> handelt. Es wäre allerdings der beste, den er seit langer<lb/>
+Zeit gebracht hat.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_52385">
+               <persName>Roda Roda, Alexander</persName>
+               <birth>
+                  <date>1872-4-13</date>
+                  <place>Drnowitz, Mähren</place>
+               </birth>
+               <death>
+                  <date>1945-8-20</date>
+                  <place>New York</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/9546</idno></person>
+            <person xml:id="fk__p_46564">
+               <persName>Engl, Josef Benedikt</persName>
+               <birth>
+                  <date>1867-7-2</date>
+                  <place>Schallmoos</place>
+               </birth>
+               <death>
+                  <date>1907-8-25</date>
+                  <place>München</place>
+               </death>
+               <occupation>Illustrator</occupation>
+               <note type="comment">Beiträge "Simplicissimus"</note>
+            </person>
+            <person xml:id="fk__p_57821">
+               <persName>Gutmann, Emil</persName>
+               <birth>
+                  <date>1877-2-24</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1938-8-2</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Konzertagent</occupation>
+               <note type="comment">Karen Painter, Mahler and his world 2002, Seite 276</note>
+               <note type="comment">Urnenhain Abt. 8, Ring 3, Gruppe 2, Nr. 334 (bis 04.08.1953)</note>
+               <note type="comment">Sohn von Albert und Berta Gutmann</note>
+               <note type="comment">Berta Gutmann, geb. Sigmann (Pressburg 29.08.1857-Klosterneuburg 30.12.1940)</note>
+               <note type="comment">München</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

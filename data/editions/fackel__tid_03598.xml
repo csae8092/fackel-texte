@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03598.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03597.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03599.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Eingeweihter. (Die Schere), in: Fackel Heft 06, Nr. 161, 1904, S. 24-24</title>
+            <title type="iso-date">1904-05-5</title>
+            <title type="id">tid_03598</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">06</title><title type="heft">161</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-06-161_n0024.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/161,024</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Eingeweihter. (Die Schere)</head>
+            <p ana="pr35771">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="name_203362" ref="#fk__p_42459">Eingeweihter</rs>.</seg></seg> Sie wollen wissen, daß <rs type="pers" ana="n_30703" ref="#fk__p_46593"><abbr>J. J.</abbr> David</rs>, ein Redakteur<lb/>
+des ‚<rs type="paper" ana="werk_13130">Neuen Wiener Journals</rs>‘, der schreiben konnte und darum nicht zu<lb/>
+verwenden war, an <seg type="insult">Herrn <rs type="pers" ana="n_30704" ref="#fk__p_46698">Lippowitz</rs></seg>, der ihn, als er dahinter kam, sofort<lb/>
+entließ, den folgenden Abschiedsbrief gerichtet hat: »<seg type="insult">Mein lieber <rs type="pers" ana="n_30705" ref="#fk__p_46698">Lippowitz<lb/>
+</rs>!</seg> Schneiden tut weh. Kleben Sie wohl! <seg type="symbol" subtype="3dots"/> «<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46698">
+               <persName>Lippowitz, Jakob (Siegmund)</persName>
+               <birth>
+                  <date>1865-10-9</date>
+                  <place>Leipzig</place>
+               </birth>
+               <death>
+                  <date>1934-7-4</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17583</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/4054</idno></person>
+            <person xml:id="fk__p_46593">
+               <persName>David, Jakob Julius</persName>
+               <birth>
+                  <date>1859-2-6</date>
+                  <place>Mährisch-Weißkirchen</place>
+               </birth>
+               <death>
+                  <date>1906-11-20</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Redakteur der "Wiener Zeitung"</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2416</idno></person>
+            <person xml:id="fk__p_42459">
+               <persName>Eingeweihter</persName>
+            </person>
+            </listPerson></back></text>
+</TEI>

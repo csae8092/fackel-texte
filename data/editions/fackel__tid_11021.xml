@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_11021.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11020.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11022.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Prag, in: Fackel Heft 30, Nr. 800, 1929, S. 49-49</title>
+            <title type="iso-date">1929-02-01</title>
+            <title type="id">tid_11021</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">30</title><title type="heft">800</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-30-800_n0049.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/800,049</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Prag</head>
+            <p ana="pr158252">
+<space/><seg type="spc">Prag</seg><lb/>
+</p>
+            <p ana="pr158253">
+<space/><rs type="inst"><rs type="pers" ana="n2_8381" ref="#fk__p_55699">Mozarteum</rs></rs>, <date>2. Juni</date>, ½8 Uhr:<lb/>
+</p>
+            <p ana="pr158254">
+<space/><rs type="title"><seg type="spc">Wolkenkuckucksheim</seg></rs>.<lb/>
+</p>
+            <p ana="pr158255">
+<space/>Begleitung am <date>21.</date>, <date>25. Mai</date>, <date>2. Juni</date>: <rs type="pers" ana="n_94983" ref="#fk__p_43973">Fritzi Pollak</rs>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_55699">
+               <persName>Mozart, Wolfgang Amadeus</persName>
+               <birth>
+                  <date>1756-1-27</date>
+                  <place>Salzburg</place>
+               </birth>
+               <death>
+                  <date>1791-12-5</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Komponist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12303</idno></person>
+            <person xml:id="fk__p_43973">
+               <persName>Pollak, Friederike (Fritzi)</persName>
+               <birth>
+                  <date>1876-4-12</date>
+                  <place>Wien</place>
+               </birth>
+               <occupation>Pianistin</occupation>
+               <note type="comment">9., Pramergasse 12</note>
+               <note type="comment">Kalvierbegleiterin von KK</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

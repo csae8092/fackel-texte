@@ -1,0 +1,48 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_05859.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05858.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05860.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">In besonders würdiger Weise, in: Fackel Heft 14, Nr. 354, 1912, S. 29-30</title>
+            <title type="iso-date">1912-01-01</title>
+            <title type="id">tid_05859</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">14</title><title type="heft">354</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-14-354_n0029.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/354,029</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>In besonders würdiger Weise</head>
+            <p ana="pr78419">
+wurde der Geburtstag des <RS pers="Franz Joseph I." globID="name_201545">Kaisers</RS> in Steinach am Brenner gefeiert <seg type="symbol" subtype="4dots"/><lb/>
+Advokat <rs type="pers" ana="n_55636" ref="#fk__p_40883"><abbr>Dr.</abbr> <abbr>E.</abbr> Wolf</rs> aus Brünn sprach einen Toast auf den <RS pers="Wilhelm II." globID="name_201546">deutschen<lb/>
+Kaiser</RS> und gedachte der freundschaftlichen Beziehungen zwischen den<lb/>
+verbündeten Monarchen und des Freundschaftsbundes der beiden<lb/>
+benachbarten Staaten. Im Namen der reichsdeutschen Sommergäste<lb/>
+sprach Herr <rs type="pers" ana="n_55637" key="#fk__p_49807">Martin Seckel</rs>, Direktor des <rs type="inst">Magdeburger Bankvereines</rs><lb/>
+(<rs type="inst">Filiale Peine</rs>), und führte in schwungvoller Weise aus, wie wohl sich<lb/>
+alle Reichsangehörigen in unserem Lande befänden, und schloß mit einem<lb/>
+Hoch auf den verdienstvollen freundlichen Wirt des Hauses, Herrn<lb/>
+<rs type="pers" ana="n_55638" key="#fk__p_40640">Dornbacher</rs>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_40883">
+               <persName>Wolf, Emil</persName>
+               <birth>
+                  <date>1864-6-24</date>
+                  <place>Brünn</place>
+               </birth>
+               <death>
+                  <date>1942-10-31</date>
+                  <place>Konzentrationslager Theresienstadt</place>
+               </death>
+               <occupation>Rechtsanwalt</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/27289</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02076.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02075.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02077.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Leser. (Aus meiner Sammlung), in: Fackel Heft 03, Nr. 087, 1901, S. 32-32</title>
+            <title type="iso-date">1901-12-7</title>
+            <title type="id">tid_02076</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">03</title><title type="heft">087</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-03-087_n0032.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/087,032</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Leser. (Aus meiner Sammlung)</head>
+            <p ana="pr20273">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_17389" ref="#fk__p_48877">Leser</rs>.</seg></seg> Den Satz, den die ‚<rs type="paper" ana="werk_6696">Neue Freie Presse</rs>‘ in einer Besprechung<lb/>
+ der <rs type="pers" ana="n_17390" ref="#fk__p_46919">Nestroy-Feier</rs> enthielt, habe ich meiner Sammlung <seg type="insult">typischer<lb/>
+Schmockwendungen</seg> eingereiht. Er ist <seg type="insult">eines der ausgewachsensten<lb/>
+Exemplare</seg>: »In den Logen und im Parquet sah man die vornehmsten<lb/>
+Kreise der Residenz, und die breiten Schichten der Bevölkerung hatten<lb/>
+die Galerien in einer fast beängstigenden Weise gefüllt.« Freilich reicht<lb/>
+er nicht an die <seg type="insult">Schönheit und Rundung einer Notiz</seg> heran, die ich noch<lb/>
+vom vergangenen Sommer aufgehoben habe: »Aus Aussee wird uns<lb/>
+berichtet: Das Publicum des ‚<rs type="inst">Alpenheim</rs>‘ in Aussee hatte dieser Tage<lb/>
+einen auserlesenen Kunstgenuss. Es concertierte hier am <date>14.</date> und <date>16. d.</date><lb/>
+der Cellist und Clavier-Virtuose Professor <rs type="pers" ana="n_17391" key="#fk__p_53302">Sigmund Sterneck</rs> aus Gross-Kanizsa<lb/>
+ mit schönem Erfolge. Dem Künstler wurden seitens der Zuhörer<lb/>
+grosse Ovationen dargebracht, die ihren Culminationspunkt erreichten,<lb/>
+als Professor <rs type="pers" ana="n_17392" key="#fk__p_53302">Sterneck</rs> seine eigene, ‚<rs type="title">Im Alpenheim</rs>‘ betitelte, dem kaiserlichen<lb/>
+ Rathe <rs type="pers" ana="n_17393" ref="#fk__p_41804"><abbr>Dr.</abbr> Schreiber</rs> gewidmete melodiöse Composition mit vollendeter<lb/>
+ Meisterschaft zum Vortrage brachte.« — Hier ist alles vereinigt,<lb/>
+und es ist die Kunst <seg type="insult">solch unscheinbarer Schilderung</seg>, dass sie es versteht<lb/>
+, <seg type="insult">ein ganzes Milieu</seg> durchstinken zu lassen. <seg type="insult"><rs type="pers" ana="n_17394" ref="#fk__p_41804">Schreibers</rs> <rs type="inst">Alpenheim</rs>,<lb/>
+auserlesen, Ovationen, Culminationspunkt, melodiös — mit einem Worte:<lb/>
+Gross-Kanizsa.</seg> Oder mit fünf Worten: <seg type="insult">die vornehmsten Kreise der<lb/>
+Residenz</seg> <seg type="symbol" subtype="3dots"/><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_48877">
+               <persName>Leser</persName>
+            </person>
+            <person xml:id="fk__p_46919">
+               <persName>Nestroy, Johann Nepomuk</persName>
+               <birth>
+                  <date>1801-12-7</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1862-5-25</date>
+                  <place>Graz</place>
+               </death>
+               <occupation>Sänger</occupation>
+               <occupation>Schauspieler</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12338</idno></person>
+            <person xml:id="fk__p_41804">
+               <persName>Schreiber, Josef</persName>
+               <birth>
+                  <date>1835-3-16</date>
+                  <place>Böhmisch Leipa</place>
+               </birth>
+               <death>
+                  <date>1908-9-27</date>
+                  <place>Aussee</place>
+               </death>
+               <occupation>Arzt</occupation>
+               <occupation>Sanatoriumsleiter</occupation>
+               <note type="comment">Dr. Schreiber's Alpenheim Bad Aussee, 1883 gegründet</note>
+               <note type="comment">Tochter Adele Georgine Schreiber-Krieger (1872-1957) Frauenrechtlerin, Journalistin</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

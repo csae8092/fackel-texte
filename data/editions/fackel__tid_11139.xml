@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_11139.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11138.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11140.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Unter Larven, in: Fackel Heft 31, Nr. 811, 1929, S. 137-137</title>
+            <title type="iso-date">1929-08-01</title>
+            <title type="id">tid_11139</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">31</title><title type="heft">811</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-31-811_n0137.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/811,137</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Unter Larven</head>
+            <p ana="pr161017">
+Rechts: <rs type="pers" ana="n_96880" ref="#fk__p_43530">Franz Lehár</rs> und seine Gattin sehen den<lb/>
+wiedergenesenen <rs type="pers" ana="n_96881" ref="#fk__p_52205">Richard Tauber</rs> als Gast. Der<lb/>
+vierte im Bunde ist der Liebling des Hauses, der<lb/>
+berühmte <rs type="pers" ana="n_96882" key="#fk__p_45061">Griffon</rs>, der <seg type="spc">gähnt</seg>, <seg type="spc">wenn man ihm</seg><lb/>
+»<rs type="title"><seg type="spc">Die lustige Witwe</seg></rs>« <seg type="spc">vorpfeift</seg>.<lb/>
+</p>
+            <p ana="pr161019">
+No und was ist mit »<rs type="title"><rs type="pers">Friederike</rs></rs>«?<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_52205">
+               <persName>Tauber, Richard</persName>
+               <birth>
+                  <date>1891-5-16</date>
+                  <place>Linz</place>
+               </birth>
+               <death>
+                  <date>1948-1-8</date>
+                  <place>London</place>
+               </death>
+               <occupation>Sänger</occupation>
+               <note type="comment">Tenor</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10178</idno></person>
+            <person xml:id="fk__p_43530">
+               <persName>Lehár, Franz</persName>
+               <birth>
+                  <date>1870-4-30</date>
+                  <place>Komorn, Ungarn</place>
+               </birth>
+               <death>
+                  <date>1948-10-24</date>
+                  <place>Bad Ischl</place>
+               </death>
+               <occupation>Komponist</occupation>
+               <note type="comment">irrt. von Ögg zugeteilte Stellen: 400/63, 418/25, 568/25, 588/38, 917/56, 61</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/8552</idno></person>
+            </listPerson></back></text>
+</TEI>

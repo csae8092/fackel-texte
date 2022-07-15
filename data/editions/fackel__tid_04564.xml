@@ -1,0 +1,135 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_04564.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04563.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04565.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Genie und Körpergröße), in: Fackel Heft 09, Nr. 236, 1907, S. 21-21</title>
+            <title type="iso-date">1907-11-18</title>
+            <title type="id">tid_04564</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">09</title><title type="heft">236</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-09-236_n0021.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/236,021</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Genie und Körpergröße)</head>
+            <p ana="pr50739">
+<space/>In einer Polemik gegen einen Essay über<lb/>
+»<rs type="title">Genie und Körpergröße</rs>« sagt der Professor der<lb/>
+<rs type="inst">Akademie der bildenden Künste</rs>, Herr <rs type="pers" ana="n_40525" ref="#fk__p_54988"><abbr>v.</abbr> Angeli</rs>, in<lb/>
+der ‚<rs type="paper" ana="werk_15781">Zeit</rs>‘: »<seg type="insult"><rs type="pers" ana="n_40526" ref="#fk__p_46960">Goethe</rs>, <rs type="pers" ana="n_40527" ref="#fk__p_50161">Michelangelo</rs>, <rs type="pers" ana="n_40528" ref="#fk__p_48776">Leonardo da<lb/>
+Vinci</rs>, <rs type="pers" ana="n_40529" ref="#fk__p_38990"><seg type="spc">Begas</seg></rs>, <rs type="pers" ana="n_40530" ref="#fk__p_45514">Hannibal</rs>, <rs type="pers" ana="n_40531" ref="#fk__p_47384">Karl der Große</rs>, <rs type="pers" ana="n_40532" ref="#fk__p_50913">Theoderich<lb/>
+</rs></seg> waren groß.«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46960">
+               <persName>Goethe, Johann Wolfgang von</persName>
+               <birth>
+                  <date>1749-8-28</date>
+                  <place>Frankfurt am Main</place>
+               </birth>
+               <death>
+                  <date>1832-3-22</date>
+                  <place>Weimar</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">890/142f.</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11461</idno></person>
+            <person xml:id="fk__p_54988">
+               <persName>Angeli, Heinrich von</persName>
+               <birth>
+                  <date>1840-07-08</date>
+                  <place>Sopron (Ödenburg)</place>
+               </birth>
+               <death>
+                  <date>1925-10-21</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Maler</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/5998</idno></person>
+            <person xml:id="fk__p_38990">
+               <persName>Begas, Reinhold</persName>
+               <birth>
+                  <date>1831-7-15</date>
+                  <place>Berlin</place>
+               </birth>
+               <death>
+                  <date>1911-8-3</date>
+                  <place>Berlin</place>
+               </death>
+               <occupation>Bildhauer</occupation>
+               <occupation>Maler</occupation>
+               <note type="comment">Bruder Karl Begas (*Berlin 23.11.1845), Bildhauer!!</note>
+            </person>
+            <person xml:id="fk__p_47384">
+               <persName>Karl I., der Große</persName>
+               <birth>
+                  <date>747-4-2</date>
+                  <place>Prüm?</place>
+               </birth>
+               <death>
+                  <date>814-01-28</date>
+                  <place>Aachen</place>
+               </death>
+               <occupation>Kaiser</occupation>
+            </person>
+            <person xml:id="fk__p_50913">
+               <persName>Theoderich</persName>
+               <birth>
+                  <date>451?</date>
+                  <place>Pannonien</place>
+               </birth>
+               <death>
+                  <date>526-8-30</date>
+                  <place>Ravenna</place>
+               </death>
+               <occupation>König</occupation>
+            </person>
+            <person xml:id="fk__p_48776">
+               <persName>Leonardo da Vinci</persName>
+               <birth>
+                  <date>1452-4-15</date>
+                  <place>Vinci bei Empoli</place>
+               </birth>
+               <death>
+                  <date>1519-5-2</date>
+                  <place>Schloß Cloux bei Amboise</place>
+               </death>
+               <occupation>Maler</occupation>
+               <occupation>Bildhauer</occupation>
+               <occupation>Erfinder</occupation>
+               <occupation>Naturforscher</occupation>
+               <occupation>Techniker</occupation>
+            </person>
+            <person xml:id="fk__p_45514">
+               <persName>Hannibal</persName>
+               <birth>
+                  <date>247 BC</date>
+               </birth>
+               <death>
+                  <date>183? BC</date>
+               </death>
+               <occupation>Feldherr</occupation>
+            </person>
+            <person xml:id="fk__p_50161">
+               <persName>Michelangelo Buonarroti</persName>
+               <birth>
+                  <date>1475-3-6</date>
+                  <place>Caprese/Casentino</place>
+               </birth>
+               <death>
+                  <date>1564-2-18</date>
+                  <place>Rom</place>
+               </death>
+               <occupation>Bildhauer</occupation>
+               <occupation>Maler</occupation>
+               <occupation>Architekt</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/3155</idno></person>
+            </listPerson></back></text>
+</TEI>

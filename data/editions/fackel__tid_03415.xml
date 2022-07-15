@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03415.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03414.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03416.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Publikum, in: Fackel Heft 05, Nr. 151, 1904, S. 24-24</title>
+            <title type="iso-date">1904-01-4</title>
+            <title type="id">tid_03415</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">05</title><title type="heft">151</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-05-151_n0024.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/151,024</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Publikum</head>
+            <p ana="pr33925">
+<space/>»Über die Weihnachtspremièren in den Münchener Theatern<lb/>
+wird uns telegraphisch berichtet: Die Uraufführung von <rs type="pers" ana="n_29223" ref="#fk__p_38582"><seg type="spc">Strindberg’s<lb/>
+</seg></rs> Trauerspiel ‚<rs type="title">Das Band</rs>‘ im <rs type="inst">Schauspielhause</rs> hatte <seg type="spc">mäßigen</seg>,<lb/>
+<seg type="spc">bestrittenen</seg> Erfolg. <rs type="pers" ana="n_29224" ref="#fk__p_50868"><seg type="spc">Wilde’s</seg></rs> Drama ‚<rs type="title"><rs type="pers">Salome</rs></rs>‘ erhielt <seg type="spc">geteilten<lb/>
+</seg> Beifall. <rs type="pers" ana="n_29225" ref="#fk__p_43593"><seg type="spc">Schönthan’s</seg></rs> Erstaufführung von ‚<rs type="title"><rs type="pers">Maria<lb/>
+Theresia</rs></rs>‘ im <rs type="inst">Residenztheater</rs> brachte es bei glänzender Ausstattung<lb/>
+zu <seg type="spc">warmem</seg> Beifall.«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_43593">
+               <persName>Schönthan-Pernwald, Franz von</persName>
+               <birth>
+                  <date>1849-6-20</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1913-12-2</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">"Maria Theresia", Lustspiel 1903</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/24702</idno></person>
+            <person xml:id="fk__p_38582">
+               <persName>Strindberg, August</persName>
+               <birth>
+                  <date>1849-1-22</date>
+                  <place>Stockholm</place>
+               </birth>
+               <death>
+                  <date>1912-5-14</date>
+                  <place>Stockholm</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12877</idno></person>
+            <person xml:id="fk__p_50868">
+               <persName>Wilde, Oscar Fingal O'Flaherty Wills</persName>
+               <birth>
+                  <date>1854-10-16</date>
+                  <place>Dublin</place>
+               </birth>
+               <death>
+                  <date>1900-11-30</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Ögg gibt die Salome-Stelle 912/45 Richard Strauss</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_21325</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/13115</idno></person>
+            </listPerson></back></text>
+</TEI>

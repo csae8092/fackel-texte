@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06125.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06124.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06126.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Wien und Wedekind, in: Fackel Heft 14, Nr. 370, 1913, S. 22-23</title>
+            <title type="iso-date">1913-03-01</title>
+            <title type="id">tid_06125</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">14</title><title type="heft">370</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-14-370_n0022.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/370,022</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Wien und Wedekind</head>
+            <p ana="pr82659">
+<space/><seg type="insult">Aristokraten</seg> beim Auftreten des <rs type="pers">Jack</rs>:<lb/>
+</p>
+            <p ana="pr82660"><foreign xml:lang="de-loc">
+<space/>»Schau d’r den an, charmanter Kerl das!« »Du, der <rs type="pers" ana="n_57850" ref="#fk__p_42278">Edi<lb/>
+Liechtenstein</rs> hat g’sagt, mir wern uns a Jahr z’sammsetzen und<lb/>
+<seg type="insult">alle Gemeinheiten</seg> was passieren z’sammschreiben. Dialog brauch’n<lb/>
+mr eh nicht. Nacher habn mr a Stück, was an Mordssükseß<lb/>
+hat. Der <rs type="pers" ana="n_57851" key="#fk__p_45148">Guido</rs> hat auch g’sagt.« »Der <rs type="pers" ana="n_57852" key="#fk__p_45536">Harnoncourt</rs> hat gleich<lb/>
+g’sagt, daß’s ein Dreck is«<lb/></foreign>
+</p>
+            <p ana="pr82661">
+<space/><seg type="insult">Juden</seg> nach Schluß der Vorstellung:<lb/>
+</p>
+            <p ana="pr82662"><foreign xml:lang="de-loc">
+<space/>»Ich hab immer nur gedacht, wo bleibt die Büchse?«<lb/>
+»Alles, was überhaupt exestiert, kommt vor!« »Ich hab a Freid,<lb/>
+ich war dabei, es is überstanden.« »Das is nicht mehr pervers,<lb/>
+das is schon <seg type="insult">Schweinerei</seg>.« »Der zweite Akt könnt auch besser<lb/>
+ausgestattet sein. Der Mann hat doch zwei Millionen im Vermögen?<lb/>
+Schkandalees!« (Die Gattin:) »In unserer Reihe war der <rs type="pers" ana="n_57853" ref="#fk__p_38500">Schnitzler</rs>.«<lb/>
+»<rs type="pers" ana="n_57854" ref="#fk__p_38500">Schnitzler</rs> war da? <rs type="pers" ana="n_57855" ref="#fk__p_38500">Schnitzler</rs> hab ich nicht gesehn.« »Was? Ihr habts<lb/>
+<rs type="pers" ana="n_57856" ref="#fk__p_38500">Schnitzler</rs> nicht gesehen? Sehr gut. Er war doch in unserer Reihe?«<lb/>
+»<rs type="pers" ana="n_57857" ref="#fk__p_38500">Schnitzler</rs> war in eurer Reihe?« »Der Unterschied zwischen<lb/>
+<rs type="pers" ana="n_57858" ref="#fk__p_38500">Schnitzler</rs> und <rs type="pers" ana="n_57859" ref="#fk__p_43433">Wedekind</rs>, daraus macht man noch einen sehr<lb/>
+großen Dichter (statt: möcht ich Klavier spielen können).« »<rs type="pers" ana="n_57860" ref="#fk__p_38500">Schnitzler</rs><lb/>
+man kann sagen was man will is doch unbestritten der greßte<lb/>
+lebende Dichter, was wir haben.« »Ich hab immer gewartet, eine<lb/>
+Ziege wird zum Schluß vorkommen, das hat noch gefehlt, <seg type="insult">Schkandal</seg>!«<lb/></foreign>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_38500">
+               <persName>Schnitzler, Arthur</persName>
+               <birth>
+                  <date>1862-5-15</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1931-10-21</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Arzt</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2121</idno></person>
+            <person xml:id="fk__p_42278">
+               <persName>Liechtenstein, Eduard Viktor Maria Prinz</persName>
+               <birth>
+                  <date>1872-09-02</date>
+                  <place>Laibach</place>
+               </birth>
+               <death>
+                  <date>1951-03-8</date>
+                  <place>Monte Carlo</place>
+               </death>
+               <occupation>Diplomat</occupation>
+            </person>
+            <person xml:id="fk__p_43433">
+               <persName>Wedekind, Frank</persName>
+               <birth>
+                  <date>1864-7-24</date>
+                  <place>Hannover</place>
+               </birth>
+               <death>
+                  <date>1918-3-9</date>
+                  <place>München</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/13068</idno></person>
+            </listPerson></back></text>
+</TEI>

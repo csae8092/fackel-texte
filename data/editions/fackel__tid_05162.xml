@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_05162.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05161.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05163.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Erinnerungen, in: Fackel Heft 12, Nr. 307, 1910, S. 30-31</title>
+            <title type="iso-date">1910-11-22</title>
+            <title type="id">tid_05162</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">12</title><title type="heft">307</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-12-307_n0030.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/307,030</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Erinnerungen</head>
+            <p ana="pr66324">
+<space/>Wiewohl sich <seg type="insult">der <rs type="pers" ana="n_48301" ref="#fk__p_43716">Freiherr <abbr>v. Cz.</abbr></rs>, Sektionschef, Mitglied<lb/>
+des <rs type="inst">Herrenhauses</rs> und Geheimer Rat</seg> »überhaupt in seinen Mitteilungen<lb/>
+ die gebotene Reserve auferlegen muß«, teilt er doch<lb/>
+sehr interessante Dinge mit. Zum Beispiel: »Infolge einer Verspätung<lb/>
+ der Südbahn kam jedoch der Erzherzog <seg type="symbol" subtype="3dots"/>« Man wußte<lb/>
+nicht, daß schon damals die Südbahn <seg type="symbol" subtype="3dots"/> Aber noch pikanter ist<lb/>
+das Folgende: »Von einer Eisenbahnfahrt zu seinem Wagen kommend<lb/>
+, habe ich einmal den <RS pers="Franz Joseph I." globID="name_203838">Kaiser</RS> dem Leibkutscher ‚Guten Morgen<lb/>
+</p>
+            <p ana="pr66324">
+!‘ zurufen und den Kutscher darauf antworten gehört: ‚Guten<lb/>
+Morgen, Eure <RS pers="Franz Joseph I." globID="name_203839">Majestät</RS>!‘« <seg type="symbol" subtype="3dots"/> <choice><sic>ln</sic><corr>In</corr></choice> durchaus zutreffender Weise beginnt<lb/>
+dagegen ein anderer, der Erinnerungen an den Maler <rs type="pers" ana="n_48302" ref="#fk__p_39722">Canon</rs><lb/>
+erzählen will, mit dem Seufzer: »Daß er nicht die Jagdausstellung<lb/>
+erleben konnte <seg type="symbol" subtype="3dots"/>!«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_43716">
+               <persName>Czedik von Bründelsberg und Eysenberg, Alois Freiherr von</persName>
+               <birth>
+                  <date>1830-11-14</date>
+                  <place>Agram</place>
+               </birth>
+               <death>
+                  <date>1924-07-20</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <note type="comment">Gmd.rat Wien, Herrenhausmitglied</note>
+            </person>
+            <person xml:id="fk__p_39722">
+               <persName>Canon, Hans</persName>
+               <birth>
+                  <date>1829-3-13</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1885-9-12</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Maler</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_08724.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08723.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08725.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Material zu „Kriegsarchiv“ und „Die Schalek“), in: Fackel Heft 22, Nr. 544, 1920, S. 14-14</title>
+            <title type="iso-date">1920-06-01</title>
+            <title type="id">tid_08724</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">22</title><title type="heft">544</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-22-544_n0014.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/544,014</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Material zu „Kriegsarchiv“ und „Die Schalek“)</head>
+            <p ana="pr115810">
+<space/>Zu <seg type="insult">»<rs type="title">Kriegsarchiv</rs>«</seg> und <seg type="insult">»<rs type="title">Die <rs type="pers"><rs type="pers" ana="n2_6518" ref="#fk__p_38111">Schalek</rs></rs></rs>«</seg>:<lb/>
+</p>
+            <p ana="pr115811">
+<space/>In den folgenden zwei Szenen kommen Sätze vor, von<lb/>
+denen man wieder geglaubt hat, ich hätte sie erfunden. Aber<lb/>
+keine Phantasie würde an das hinanreichen, was in <seg type="insult">den Kriegsfeuilletons<lb/>
+ des <rs type="pers" ana="n_71612" ref="#fk__p_45448">Hans Müller</rs> und der <rs type="pers" ana="n_71613" ref="#fk__p_38111">Schalek</rs></seg> enthalten und von<lb/>
+mir wortwörtlich übernommen ist. Es ist eben die tragische<lb/>
+Sendung meiner Figuren, daß ich sie nur das sprechen lasse,<lb/>
+was sie einmal geschrieben haben. Denn da erst erlebt man es,<lb/>
+was für ein Leben damals war und was man damals nicht<lb/>
+gefühlt hat. Und man will gar nicht glauben, was man damals<lb/>
+alles nicht gefühlt hat.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_38111">
+               <persName>Schalek, Alice</persName>
+               <birth>
+                  <date>1874-8-21</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1956-11-6</date>
+                  <place>New York</place>
+               </death>
+               <occupation>Journalistin</occupation>
+               <occupation>Schriftstellerin</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/9664</idno></person>
+            <person xml:id="fk__p_45448">
+               <persName>Müller, Hans</persName>
+               <birth>
+                  <date>1882-10-25</date>
+                  <place>Brünn</place>
+               </birth>
+               <death>
+                  <date>1950-3-8</date>
+                  <place>Einigen/Thunersee</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12327</idno></person>
+            </listPerson></back></text>
+</TEI>

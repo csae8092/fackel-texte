@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02458.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02457.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02459.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Panamist. (Frischauer und Lemaître), in: Fackel Heft 04, Nr. 105, 1902, S. 23-23</title>
+            <title type="iso-date">1902-06-6</title>
+            <title type="id">tid_02458</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">04</title><title type="heft">105</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-04-105_n0023.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/105,023</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Panamist. (Frischauer und Lemaître)</head>
+            <p ana="pr23876">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="n_20797" key="#fk__p_51095">Panamist</rs>.</seg></seg></seg> <seg type="insult">Herr <rs type="pers" ana="n_20798" ref="#fk__p_40792">Berthold Frischauer</rs></seg> depeschierte neulich, <rs type="pers" ana="n_20799" ref="#fk__p_48713">Jules<lb/>
+Lemaître</rs>, »welcher in der <seg type="insult">Placaten-Literatur</seg> <seg type="spc">viel Bedeutenderes leistet<lb/>
+als in der schönen Literatur</seg>«, habe anlässlich des <rs type="pers" ana="n_20800" ref="#fk__p_56484">Humbert-Scandales</rs><lb/>
+einen Wahlaufruf erlassen. <seg type="insult">Dies fachmännische Urtheil eines Mannes</seg>,<lb/>
+der selbst in der schönen Literatur so Bedeutendes leistet, ist aus der<lb/>
+folgenden Stelle des von <rs type="pers" ana="n_20801" ref="#fk__p_48713">Lemaître</rs> erlassenen Aufrufes zu erklären:<lb/>
+»<rs type="pers" ana="n_20802" ref="#fk__p_55187">Waldeck-Rousseau</rs> wusste alles seit fünf Jahren. Warum ist er in den<lb/>
+letzten drei Jahren, da er Minister-Präsident ist, nicht gegen <seg type="insult">die grösste<lb/>
+Betrügerei des Jahrhunderts</seg> eingeschritten? Warum gab er nicht den<lb/>
+Auftrag, die Untersuchung einzuleiten? Weil Frau <rs type="pers" ana="n_20803" ref="#fk__p_56484">Humbert</rs> nur ein<lb/>
+Instrument war, weil zahlreiche Personen, die den Regierungskreisen<lb/>
+und <seg type="spc">der Freimaurerei angehören</seg>, <seg type="spc">in diese unerhörte Affaire<lb/>
+verwickelt sind</seg>.«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_48713">
+               <persName>Lemaître, Jules</persName>
+               <birth>
+                  <date>1853-04-27</date>
+                  <place>Vénnecy/Loiret</place>
+               </birth>
+               <death>
+                  <date>1914-08-4</date>
+                  <place>Tavers/Touraine</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/88138</idno></person>
+            <person xml:id="fk__p_55187">
+               <persName>Waldeck-Rousseau, Pierre Marie Ernest</persName>
+               <birth>
+                  <date>1846-12-02</date>
+                  <place>Nantes</place>
+               </birth>
+               <death>
+                  <date>1904-08-10</date>
+                  <place>Corbeil</place>
+               </death>
+               <occupation>Politiker</occupation>
+            </person>
+            <person xml:id="fk__p_56484">
+               <persName>Humbert, Thérèse, geb. Daurignac</persName>
+               <birth>
+                  <date>1856</date>
+                  <place>Aussonne/Languedoc</place>
+               </birth>
+               <death>
+                  <date>1918</date>
+                  <place>Chicago</place>
+               </death>
+               <occupation>Betrügerin</occupation>
+               <note type="comment">Betrügerin</note>
+               <note type="comment">"La Grande Therese": Hilary Spurling recherchierte die Geschichte eines Jahrhundertschwindels (Buch: Berenberg Verlag)</note>
+            </person>
+            <person xml:id="fk__p_40792">
+               <persName>Frischauer, Berthold</persName>
+               <birth>
+                  <date>1851-9-9</date>
+                  <place>Brünn</place>
+               </birth>
+               <death>
+                  <date>1924-2-4</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <note type="comment">6., Linke Wienzeile 36</note>
+               <note type="comment">Ögg teilt ihm auch 56/23 zu, nicht erkennbar, weshalb</note>
+               <note type="comment">Red. der NFP</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/16710</idno></person>
+            </listPerson></back></text>
+</TEI>

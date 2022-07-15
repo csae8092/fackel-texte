@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07989.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07988.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07990.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Zeichen der neuen Zeit, in: Fackel Heft 19, Nr. 462, 1917, S. 107-107</title>
+            <title type="iso-date">1917-10-01</title>
+            <title type="id">tid_07989</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">19</title><title type="heft">462</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-19-462_n0107.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/462,107</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Zeichen der neuen Zeit</head>
+            <p ana="pr106723">
+<space/>Es soll sich begeben haben, daß <seg type="insult">Herr <rs type="pers" ana="n_67921" ref="#fk__p_45908">Hermann Bahr</rs></seg><lb/>
+die neue Zeit als <seg type="insult">das »<rs type="pers" ana="n_67922" ref="#fk__p_47688">Karolingische Zeitalter</rs>«</seg> begrüßt hat;<lb/>
+daß, als der <RS pers="Karl I." globID="name_203945">Kaiser</RS> die (in solchen Fällen versagende) Schutzhütte<lb/>
+auf dem Schneeberg betrat, ihm <seg type="insult">der <rs type="pers" ana="n_67923" ref="#fk__p_43965">Fritz Werner</rs></seg> entgegentrat und<lb/>
+ein selbstverfaßtes Gedicht sprach; daß, als er an der Isonzofront<lb/>
+weilte, <seg type="insult">die <rs type="pers" ana="n_67924" ref="#fk__p_38111">Alice Schalek</rs></seg> hinzutrat und eine Photographie für<lb/>
+<rs type="magazine" ana="werk_21254">das Interessante Blatt</rs> zustandekam. Den größten Einfluß auf die<lb/>
+Ämter soll aber nach wie vor <seg type="insult">die <rs type="pers" ana="n_67925" ref="#fk__p_44348">Gerda Walde</rs></seg> haben.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_43965">
+               <persName>Werner, Fritz</persName>
+               <birth>
+                  <date>1871-11-18</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1940-9-22</date>
+                  <place>Bad Hall</place>
+               </death>
+               <occupation>Sänger</occupation>
+               <occupation>Regisseur</occupation>
+               <note type="comment">steht im Kutsch/Riemens</note>
+               <note type="comment">Tenor</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_21251</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/13100</idno></person>
+            <person xml:id="fk__p_45908">
+               <persName>Bahr, Hermann</persName>
+               <birth>
+                  <date>1863-7-19</date>
+                  <place>Linz</place>
+               </birth>
+               <death>
+                  <date>1934-1-15</date>
+                  <place>München</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Kritiker</occupation>
+               <note type="comment">Ögg teilt auch 307/52, 445/49, 800/67 (Rotte Korah) Bahr zu</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10815</idno></person>
+            <person xml:id="fk__p_47688">
+               <persName>Karolinger</persName>
+            </person>
+            <person xml:id="fk__p_38111">
+               <persName>Schalek, Alice</persName>
+               <birth>
+                  <date>1874-8-21</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1956-11-6</date>
+                  <place>New York</place>
+               </death>
+               <occupation>Journalistin</occupation>
+               <occupation>Schriftstellerin</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/9664</idno></person>
+            <person xml:id="fk__p_44348">
+               <persName>Walde, Gerda</persName>
+               <birth>
+                  <date>1882-6-4</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1928-2-26</date>
+                  <place>Berlin</place>
+               </death>
+               <occupation>Schauspielerin</occupation>
+               <occupation>Sängerin</occupation>
+               <note type="comment">verh. mit Baron Nikolaus Wassilko (Czernowitz 21.3.1868 - Bad Reichenhall 4.8.1924)</note>
+               <note type="comment">Nachruf NFP 28.2.1928, Seite 6</note>
+               <note type="comment">Bjb erstmals 1899 Hamburg</note>
+               <note type="comment">Berlingske Titende März 1920: der Gesandte in Bern verheiratet sich jetzt mit Frl. Gerda Walde</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

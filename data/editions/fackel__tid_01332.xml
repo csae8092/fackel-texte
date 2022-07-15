@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01332.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01331.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01334.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Eine Behauptung des Herrn Hauck.), in: Fackel Heft 02, Nr. 057, 1900, S. 5-6</title>
+            <title type="iso-date">1900-10-01</title>
+            <title type="id">tid_01332</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">057</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-057_n0005.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/057,005</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Eine Behauptung des Herrn Hauck.)</head>
+            <p ana="pr12784">
+<space/><inciptit>Zu</inciptit> den Bemerkungen über die Affaire Pfersche-Pastrée<lb/>
+ in <rs type="selfRef" ana="werk_4071"><abbr>Nr.</abbr> 55</rs> erhalte ich <seg type="insult">die folgende § 19-Berichtigung<lb/>
+</seg>:<lb/>
+</p>
+            <p ana="pr12786">
+<space/>Es ist unwahr, dass der »<rs type="inst">Bund österreichischer<lb/>
+Industrieller</rs>« von mir geleitet wird. Wahr ist, dass<lb/>
+der »<rs type="inst">Bund österreichischer Industrieller</rs>«, vom Tage<lb/>
+seiner Constituierung an, selbständig geleitet wird und<lb/>
+von mir nach keiner Richtung hin beeinflusst wird<lb/>
+oder beeinflusst werden könnte. Es ist unwahr, dass<lb/>
+der in der ‚<rs type="paper" ana="werk_4072">Neuen <choice><sic>Freie</sic><corr>Freien</corr></choice> Presse</rs>‘ vom <date>6. October</date> erschienene<lb/>
+ 1½ Spalten lange Artikel vom Herrn<lb/>
+Präsidenten <rs type="pers" ana="n_10546" ref="#fk__p_47271">Julius Pastrée</rs> nur gezeichnet und von<lb/>
+mir verfasst wurde. Wahr ist, dass ich von diesem<lb/>
+Artikel nichts wusste, bis derselbe am <date>6. October</date> in<lb/>
+der ‚<rs type="paper" ana="werk_4073">Neuen Freien Presse</rs>‘ zum Abdruck kam. Es sind<lb/>
+daher alle mich betreffenden Behauptungen des betreffenden<lb/>
+ Aufsatzes vollständig unwahr. <rs type="pers" ana="n_10547" ref="#fk__p_39665"><AUCTOR><abbr>C. J.</abbr> Hauck</AUCTOR></rs>.<lb/>
+</p>
+            <p ana="pr12790">
+<space/><seg type="insult">Herr <rs type="pers" ana="n_10548" ref="#fk__p_39665"><abbr>C. J.</abbr> Hauck-Weiß</rs>, der Herausgeber der ‚<rs type="" ana="werk_4074">Arbeit</rs>‘,<lb/>
+des berüchtigten »Central-Organs der österreichischen<lb/>
+Arbeitgeber«</seg>, bringt mich in Verlegenheit. Wie leicht<lb/>
+kann jetzt <seg type="insult">Herr <rs type="pers" ana="n_10549" ref="#fk__p_47271">Pastrée</rs></seg> berichtigen, dass der »<rs type="inst">Bund<lb/>
+österreichischer Industrieller</rs>« <seg type="spc">nicht</seg> »selbstständig<lb/>
+geleitet« wird! Auch ob jener Artikel in der ‚<rs type="paper" ana="werk_4075">Neuen<lb/>
+Freien Presse</rs>‘ von <seg type="insult">Herrn <rs type="pers" ana="n_10550" ref="#fk__p_39665">Hauck-Weiß</rs></seg> verfasst war,<lb/>
+ist jetzt fraglich geworden: Das Sprachgefühl spricht<lb/>
+dafür, <seg type="insult">Herrn <rs type="pers" ana="n_10551" ref="#fk__p_39665">Hauck’s</rs> Behauptung</seg> dagegen. Aber<lb/>
+meine erbittertsten Feinde müssen zugeben, dass mein<lb/>
+Sprachgefühl verlässlicher ist, als <seg type="insult">eine Behauptung<lb/>
+des Herrn <rs type="pers" ana="n_10552" ref="#fk__p_39665">Hauck-Weiß</rs></seg>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_39665">
+               <persName>Hauck-Weiß, Karl Josef</persName>
+               <birth>
+                  <date>1850-01-23</date>
+                  <place>Neutra</place>
+               </birth>
+               <occupation>Industrieller</occupation>
+               <occupation>Journalist</occupation>
+               <note type="comment">13., Wenzgasse 24</note>
+               <note type="comment">MA 8 wegen Namenshäufigkeit keine Auskunft möglich</note>
+               <note type="comment">Hg. des Centralorgans der österr. Arbeitgeber</note>
+            </person>
+            <person xml:id="fk__p_47271">
+               <persName>Pastrée, Julius</persName>
+               <birth>
+                  <date>1856-7-17</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1915-12-20</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Industrieller</occupation>
+               <note type="comment">4., Gußhausstraße 10</note>
+               <note type="comment">ZF 23.12.1915, AAL/30 (FD)</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

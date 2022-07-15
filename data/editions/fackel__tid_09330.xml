@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_09330.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09329.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09331.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Veranstaltungen der Kunststelle der Bildungszentrale.), in: Fackel Heft 24, Nr. 608, 1922, S. 49-49</title>
+            <title type="iso-date">1922-12-01</title>
+            <title type="id">tid_09330</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">24</title><title type="heft">608</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-24-608_n0049.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/608,049</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Veranstaltungen der Kunststelle der Bildungszentrale.)</head>
+            <p ana="pr124140">
+<space/>(Veranstaltungen der <rs type="inst">Kunststelle der Bildungszentrale</rs>.)<lb/>
+</p>
+            <p ana="pr124141">
+<space/>Festsaal der neuen <rs type="inst">Hofburg</rs>. Für die <rs type="inst">Wiener Arbeiterschaft</rs>. Zur<lb/>
+<rs type="event">Feier der Republik</rs>.<lb/>
+</p>
+            <p ana="pr124142">
+<space/><date>11. November</date>, 7 Uhr:<lb/>
+</p>
+            <p ana="pr124143">
+<space/>I. Aus <rs type="title">Weltgericht</rs> (<date>November 1918</date>). — Aus »<rs type="title">Die letzten<lb/>
+Tage der Menschheit</rs>«:<lb/>
+</p>
+            <p ana="pr124144">
+<space/><rs type="title">Ringstraßenkorso</rs> (I. Akt) [mit Vorbemerkung] / <rs type="title"><seg type="insult"><rs type="pers" ana="n2_6980" ref="#fk__p_43714">Conrad von<lb/>
+Hötzendorf</rs></seg></rs> / <rs type="title"><seg type="insult">Ein <rs type="pers">Generalstäbler</rs> am Telephon</seg></rs> / <rs type="title">Kino im Hauptquartier<lb/>
+</rs> / <rs type="title">Viktualienhandlung</rs> / <rs type="title">Eine unter das Kriegsdienstleistungsgesetz<lb/>
+ gestellte Fabrik</rs> / <rs type="title">Wallfahrtskirche</rs>.<lb/>
+</p>
+            <p ana="pr124145">
+<space/>II. <rs type="title">Moschee</rs> / <rs type="title">Landesverteidigungsministerium</rs> / <rs type="title">Kriegsministerium<lb/>
+</rs> / <rs type="title"><seg type="insult"><rs type="pers"><rs type="pers" ana="n2_6981" ref="#fk__p_56128">Erzherzog Friedrich</rs></rs></seg></rs> / <rs type="title">Kastelruth</rs> / <rs type="title">Bahnhof bei Wien</rs> /<lb/>
+<rs type="title">Isonzofront</rs> / <rs type="title">Winter in den Karpathen</rs> / <rs type="title">Ebenda</rs> / <rs type="title">Sommeschlacht</rs>.<lb/>
+</p>
+            <p ana="pr124146">
+<space/>III. <rs type="title">Bei Udine</rs> / <rs type="title"><seg type="insult">Die <rs type="pers">Generalstäbler</rs></seg></rs> / <rs type="title">Militärgericht</rs> / <rs type="title"><seg type="insult">Kärntnerstraße<lb/>
+</seg></rs> / <rs type="title">Seitengasse</rs> / <rs type="title">Armeeoberkommando</rs> / <rs type="title">Innsbruck, Mitternacht</rs> /<lb/>
+<rs type="title"><seg type="insult">Zwei Verehrer der <rs type="paper" ana="werk_23707">Reichspost</rs></seg>, schlafend</rs> / <rs type="title">Separatcoupé erster Klasse</rs>. —<lb/>
+<rs type="title">Der <rs type="pers">sterbende Soldat</rs></rs> (Aus dem Epilog)<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_56128">
+               <persName>Friedrich Maria Albrecht, Erzherzog</persName>
+               <birth>
+                  <date>1856-6-4</date>
+                  <place>Groß-Seelowitz/Böhmen</place>
+               </birth>
+               <death>
+                  <date>1936-12-30</date>
+                  <place>Ung. Altenburg</place>
+               </death>
+               <occupation>Offizier</occupation>
+               <note type="comment">FML, Oberbefehlshaber der k.k. Armee</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15242</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/16687</idno></person>
+            <person xml:id="fk__p_43714">
+               <persName>Conrad-Hötzendorf, Franz Graf </persName>
+               <birth>
+                  <date>1852-11-11</date>
+                  <place>Penzing bei Wien</place>
+               </birth>
+               <death>
+                  <date>1925-8-25</date>
+                  <place>Bad Mergentheim</place>
+               </death>
+               <occupation>Offizier</occupation>
+               <note type="comment">seit 1906 Chef des Generalstabs</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_14266</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11102</idno></person>
+            </listPerson></back></text>
+</TEI>

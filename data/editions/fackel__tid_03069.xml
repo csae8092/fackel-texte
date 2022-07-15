@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03069.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03068.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03070.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Literat. (Heimatkunst), in: Fackel Heft 05, Nr. 135, 1903, S. 26-26</title>
+            <title type="iso-date">1903-04-16</title>
+            <title type="id">tid_03069</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">05</title><title type="heft">135</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-05-135_n0026.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/135,026</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Literat. (Heimatkunst)</head>
+            <p ana="pr30211">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="n_26180" ref="#fk__p_49045">Literat</rs>.</seg></seg></seg> Mit der Behauptung, daß, was <rs type="pers" ana="n_26181" ref="#fk__p_38500">Arthur Schnitzler</rs> kann,<lb/>
+zehnmal <seg type="insult">die ganze österreichische Heimatkunst</seg> aufwiegt, habe ich nicht<lb/>
+zu viel gesagt. Aber Sie haben sie zu wenig verstanden. Daß es in<lb/>
+Oesterreich neben und über <seg type="insult">Herrn <rs type="pers" ana="n_26182" ref="#fk__p_38500">Schnitzler</rs></seg>, dessen Weltanschauung<lb/>
+<seg type="insult">den Frauen des Rathhausviertels</seg> besser als <seg type="insult">den Männern des Rathhauses</seg><lb/>
+gefällt, starke Talente von einer, wie <seg type="insult">Herr <rs type="pers" ana="n_26183" ref="#fk__p_55511"><abbr>Dr.</abbr> Hartel</rs></seg> sagt, nicht<lb/>
+<seg type="insult">»missliebigen Abstammung«</seg> gibt, habe ich natürlich nicht leugnen<lb/>
+wollen. Der Vergleich galt nur <seg type="insult">der gewissen literarischen Sorte</seg>, die,<lb/>
+durch ein <seg type="insult">Schlagwort des Herrn <rs type="pers" ana="n_26184" ref="#fk__p_45908">Bahr</rs></seg> zum Leben erweckt, die Bezeichnung<lb/>
+ <seg type="insult">»Heimatkunst«</seg> vorläufig nur durch Vorweisung eines Heimatscheines<lb/>
+ rechtfertigt, <seg type="insult">jener auf den Provinzäckern weidenden Herde</seg>, die<lb/>
+in literarischen Revuen <seg type="insult">viel Geschrei</seg> macht und <seg type="insult">wenig Wolle</seg> gibt.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_49045">
+               <persName>Literat</persName>
+            </person>
+            <person xml:id="fk__p_38500">
+               <persName>Schnitzler, Arthur</persName>
+               <birth>
+                  <date>1862-5-15</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1931-10-21</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Arzt</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2121</idno></person>
+            <person xml:id="fk__p_45908">
+               <persName>Bahr, Hermann</persName>
+               <birth>
+                  <date>1863-7-19</date>
+                  <place>Linz</place>
+               </birth>
+               <death>
+                  <date>1934-1-15</date>
+                  <place>München</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Kritiker</occupation>
+               <note type="comment">Ögg teilt auch 307/52, 445/49, 800/67 (Rotte Korah) Bahr zu</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10815</idno></person>
+            <person xml:id="fk__p_55511">
+               <persName>Hartel, Wilhelm Ritter von</persName>
+               <birth>
+                  <date>1839-05-28</date>
+                  <place>Hof/Mähren</place>
+               </birth>
+               <death>
+                  <date>1907-01-14</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Altphilologe</occupation>
+               <occupation>Politiker</occupation>
+               <note type="comment">Friedhof Penzing (=Kontrahentenfriedhof) Tel. 985 64 07</note>
+               <note type="comment">Unterrichtsminister 1900-05</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15937</idno></person>
+            </listPerson></back></text>
+</TEI>

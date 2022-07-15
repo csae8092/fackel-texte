@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06896.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06895.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06897.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Eine Prostituierte ist ermordet worden, in: Fackel Heft 16, Nr. 400, 1914, S. 87-87</title>
+            <title type="iso-date">1914-01-01</title>
+            <title type="id">tid_06896</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">16</title><title type="heft">400</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-16-400_n0087.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/400,087</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Eine Prostituierte ist ermordet worden</head>
+            <p ana="pr92575">
+<space/>»<seg type="symbol" subtype="4dots"/> In der Nachmittagsverhandlung begannen die <seg type="spc">Zeugeneinvernahmen<lb/>
+</seg>. Als erste Zeugin wurde das Dienstmädchen<lb/>
+<rs type="pers" ana="n_62796" ref="#fk__p_54884">Kutschera</rs> einvernommen, die mit der <rs type="pers" ana="n_62797" ref="#fk__p_54315">Turcsan</rs> verwandt war und die<lb/>
+<seg type="spc">von der Ermordeten</seg> ein <seg type="spc">ungünstiges Bild</seg> entwirft. Sie war<lb/>
+sehr geizig und eifersüchtig gewesen.<lb/>
+</p>
+            <p ana="pr92576">
+<space/>Das Dienstmädchen <rs type="pers" ana="n_62798" key="#fk__p_51376">Pete</rs>, die Vorgängerin der <rs type="pers" ana="n_62799" key="#fk__p_47930">Kobori</rs> bei der<lb/>
+<rs type="pers" ana="n_62800" ref="#fk__p_54315">Turcsan</rs>, sagt <seg type="spc">für diese belastend</seg> aus.«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_54884">
+               <persName>Kutschera, Victor</persName>
+               <birth>
+                  <date>1863-5-2</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1933-1-20</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2868</idno></person>
+            <person xml:id="fk__p_54315">
+               <persName>Turcsányi, Emilie Elsa</persName>
+               <birth>
+                  <date>1885?</date>
+               </birth>
+               <death>
+                  <date>1914-1-9</date>
+                  <place>Budapest</place>
+               </death>
+               <occupation>Prostituierte</occupation>
+               <note type="comment">von einem Bäckergehilfen Gustav Rick und einem Dienstmädchen Rosa Kobori ermordete Prostituierte</note>
+               <note type="comment">Magnaten-Elsa</note>
+               <note type="comment">hatte Liaison mit dem Einrichtungs-Industriellen Max Schmidt</note>
+               <note type="comment">Pester Lloyd, 10.01.1914 (Abendblatt), Seite 3</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

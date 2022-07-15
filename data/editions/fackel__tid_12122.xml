@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_12122.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_12121.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_12123.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Es war uns, als ob wir störten, in: Fackel Heft 34, Nr. 876, 1932, S. 79-79</title>
+            <title type="iso-date">1932-10-01</title>
+            <title type="id">tid_12122</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">34</title><title type="heft">876</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-34-876_n0079.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/876,079</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Es war uns, als ob wir störten</head>
+            <p ana="pr176710">
+<space/>Zum letztenmal sah ich ihn auf dem Luisenstädtischen Friedhof in<lb/>
+Berlin <seg type="symbol" subtype="2dots"/> Zum letzten Besuch <rs type="pers" ana="n_105267" ref="#fk__p_39504">Briands</rs> bei seinem toten Freund (<rs type="pers" ana="n_105268" ref="#fk__p_53740">Stresemann</rs>)<lb/>
+hatten sich nur <seg type="spc">sehr wenige Eingeweihte</seg> aus einem kleinen<lb/>
+Kreis versammelt. Und <seg type="spc">auch uns war etwas unsicher zumute<lb/>
+</seg>, als der greise <rs type="pers" ana="n_105269" ref="#fk__p_39504">Briand</rs> sich mit schwankenden Schritten näherte.<lb/>
+<seg type="spc">Es war uns</seg>, <seg type="spc">als ob wir störten</seg>. <rs type="pers" ana="n_105270" ref="#fk__p_43427">François-Poncet</rs>, der seinen<lb/>
+Minister begleitet hatte, <seg type="spc">gab</seg>, indem er demonstrativ ein paar Schritt<lb/>
+zurücktrat, <seg type="spc">ein Zeichen</seg>, <rs type="pers" ana="n_105271" ref="#fk__p_39504">Briands</rs> Versunkenheit an diesem frühen<lb/>
+Grabe zu <seg type="spc">respektieren</seg>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_43427">
+               <persName>François-Poncet, André</persName>
+               <birth>
+                  <date>1887-6-13</date>
+                  <place>Provins</place>
+               </birth>
+               <death>
+                  <date>1978-1-8</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Politiker</occupation>
+            </person>
+            <person xml:id="fk__p_53740">
+               <persName>Stresemann, Gustav</persName>
+               <birth>
+                  <date>1878-5-10</date>
+                  <place>Berlin</place>
+               </birth>
+               <death>
+                  <date>1929-10-3</date>
+                  <place>Berlin</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <note type="comment">Reichskanzler, Außenminister</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10103</idno></person>
+            <person xml:id="fk__p_39504">
+               <persName>Briand, Aristide</persName>
+               <birth>
+                  <date>1862-03-28</date>
+                  <place>Nantes</place>
+               </birth>
+               <death>
+                  <date>1932-03-07</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Politiker</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/61969</idno></person>
+            </listPerson></back></text>
+</TEI>

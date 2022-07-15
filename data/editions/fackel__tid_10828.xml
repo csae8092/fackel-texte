@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_10828.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10827.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10829.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Architektenvereinssaal, 30. Januar:, in: Fackel Heft 28, Nr. 751, 1927, S. 80-80</title>
+            <title type="iso-date">1927-02-01</title>
+            <title type="id">tid_10828</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">28</title><title type="heft">751</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-28-751_n0080.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/751,080</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Architektenvereinssaal, 30. Januar:</head>
+            <p ana="pr150898">
+<rs type="inst">Architektenvereinssaal</rs>, <date>30. Januar</date>:<lb/>
+</p>
+            <p ana="pr150899">
+<space/><rs type="title">Theater der Dichtung</rs><lb/>
+</p>
+            <p ana="pr150900">
+<space/><rs type="pers" ana="n_90383" ref="#fk__p_46919"><seg type="spc">Nestroy</seg></rs>: <rs type="title"><seg type="spc">Weder Lorbeerbaum noch Bettelstab</seg></rs><ADD>.</ADD><lb/>
+(Musik von <rs type="pers" ana="n_90384" ref="#fk__p_50021">Mechtilde Lichnowsky</rs>). Begleitung: <rs type="pers" ana="n_90385" ref="#fk__p_54913">Victor Junk</rs>.<lb/>
+</p>
+            <p ana="pr150901">
+<space/>Die Zusatzstrophe zum Couplet des <rs type="pers">Überall</rs> wiederholt.<lb/>
+</p>
+            <p ana="pr150902">
+<space/>Mit der alten Programmnotiz.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_50021">
+               <persName>Lichnowsky, Mechtilde Fürstin, geb. Gräfin von und zu Arco-Zinneberg</persName>
+               <birth>
+                  <date>1879-3-8</date>
+                  <place>Schloß Schönburg</place>
+               </birth>
+               <death>
+                  <date>1958-6-4</date>
+                  <place>London</place>
+               </death>
+               <occupation>Schriftstellerin</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38988</idno></person>
+            <person xml:id="fk__p_54913">
+               <persName>Junk, Viktor</persName>
+               <birth>
+                  <date>1875-4-18</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1948-4-5</date>
+                  <place>Frohnleiten/Steiermark</place>
+               </death>
+               <occupation>Germanist</occupation>
+               <occupation>Musikwissenschaftler</occupation>
+            </person>
+            <person xml:id="fk__p_46919">
+               <persName>Nestroy, Johann Nepomuk</persName>
+               <birth>
+                  <date>1801-12-7</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1862-5-25</date>
+                  <place>Graz</place>
+               </death>
+               <occupation>Sänger</occupation>
+               <occupation>Schauspieler</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12338</idno></person>
+            </listPerson></back></text>
+</TEI>

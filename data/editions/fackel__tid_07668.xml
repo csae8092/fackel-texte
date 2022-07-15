@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07668.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07667.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07669.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ich bleibe in Wien, in: Fackel Heft 18, Nr. 445, 1234, S. 115-115</title>
+            <title type="iso-date">1234-01-01</title>
+            <title type="id">tid_07668</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">18</title><title type="heft">445</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-18-445_n0115.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/445,115</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ich bleibe in Wien</head>
+            <p ana="pr103053">
+<space/>Zu der Meldung:<lb/>
+</p>
+            <p ana="pr103055">
+<space/>Der ordentliche Professor für deutsche Sprache und Literatur<lb/>
+an der <rs type="inst">Wiener Universität</rs> <rs type="pers" ana="n_66475" ref="#fk__p_41352"><abbr>Dr.</abbr> Karl <abbr>v.</abbr> Kraus</rs> nahm den Ruf auf den<lb/>
+Lehrstuhl des ordentlichen Professors <rs type="pers" ana="n_66476" ref="#fk__p_45939">Hermann Paul</rs> in München an. —<lb/>
+</p>
+            <p ana="pr103057">
+erhalte ich die folgende Zuschrift:<lb/>
+</p>
+            <p ana="pr103059">
+<space/>Ich wäre Ihnen für die freundliche Feststellung verbunden,<lb/>
+daß ich mit dem Genannten weder identisch noch verwandt bin.<lb/>
+</p>
+            <p ana="pr103060">
+<rs type="pers" ana="n_66477" ref="#fk__p_47565"><AUCTOR>Karl Kraus</AUCTOR></rs>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_47565">
+               <persName>Kraus, Karl</persName>
+               <birth>
+                  <date>1874-4-28</date>
+                  <place>Jicin, Böhmen</place>
+               </birth>
+               <death>
+                  <date>1936-6-12</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Publizist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11988</idno></person>
+            <person xml:id="fk__p_41352">
+               <persName>Kraus, Carl von</persName>
+               <birth>
+                  <date>1868-04-20</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1952-04-09</date>
+                  <place>München</place>
+               </death>
+               <occupation>Germanist</occupation>
+            </person>
+            <person xml:id="fk__p_45939">
+               <persName>Paul, Hermann</persName>
+               <birth>
+                  <date>1846-08-07</date>
+                  <place>Salbke/Magdeburg</place>
+               </birth>
+               <death>
+                  <date>1921-12-29</date>
+                  <place>München</place>
+               </death>
+               <occupation>Philologe</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/22391</idno></person>
+            </listPerson></back></text>
+</TEI>

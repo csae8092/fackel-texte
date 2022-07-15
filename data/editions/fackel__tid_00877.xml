@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00877.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00876.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00878.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Chroniqueur. (Die Trauer um Dumba), in: Fackel Heft 01, Nr. 036, 1900, S. 32-32</title>
+            <title type="iso-date">1900-03-01</title>
+            <title type="id">tid_00877</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">036</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-036_n0032.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/036,032</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Chroniqueur. (Die Trauer um Dumba)</head>
+            <p ana="pr8294">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="name_203280" ref="#fk__p_39978">Chroniqueur</rs>.</seg></seg></seg> Ja, die <seg type="insult"><rs type="inst"><SPAN cont="Concordia-Presse">»Concordia«-Presse</SPAN></rs></seg> hat allen Grund, am<lb/>
+Grabe <rs type="pers" ana="n_6544" ref="#fk__p_55011">Dumbas</rs> Thränen zu vergießen. Uebrigens war er schon seit<lb/>
+vielen Jahren für sie verloren, — von jenem Moment an, da es<lb/>
+Herrn <seg type="spc"><rs type="pers" ana="n_6545" ref="#fk__p_45211">Steinbach</rs></seg> gelungen war, <rs type="pers" ana="n_6546" ref="#fk__p_55011">Dumba</rs> aus dem Vorstand des<lb/>
+»Pensionsfonds« hinauszuekeln.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_39978">
+               <persName>Chroniqueur</persName>
+            </person>
+            <person xml:id="fk__p_55011">
+               <persName>Dumba, Nikolaus Theodor von</persName>
+               <birth>
+                  <date>1854-10-7</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1928-12-19</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Industrieller</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_14548</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/15516</idno></person>
+            <person xml:id="fk__p_45211">
+               <persName>Steinbach, Gustav</persName>
+               <birth>
+                  <date>1848-2-18</date>
+                  <place>Preßburg</place>
+               </birth>
+               <death>
+                  <date>1911-12-6</date>
+                  <place>Meran</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <note type="comment">Redacteurstöchterlein 42/30: Therese, geb. 1879</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

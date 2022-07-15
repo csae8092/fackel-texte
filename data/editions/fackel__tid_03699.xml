@@ -1,0 +1,155 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03699.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03698.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03700.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Dialektforscher. (Einführung des Jargons), in: Fackel Heft 06, Nr. 168, 1904, S. 23-24</title>
+            <title type="iso-date">1904-11-10</title>
+            <title type="id">tid_03699</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">06</title><title type="heft">168</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-06-168_n0023.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/168,023</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Dialektforscher. (Einführung des Jargons)</head>
+            <p ana="pr36906">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="name_203399" ref="#fk__p_40425">Dialektforscher</rs>.</seg></seg> Es ist ausgemacht, daß der <seg type="insult">Jargon</seg> als Zeitungssprache<lb/>
+ obligat wird. Wenn man bedenkt, welch große Erleichterung<lb/>
+er für die Redakteure bedeuten wird, kann man den Entschluß der<lb/>
+Wiener Redaktionen nur gutheißen. Da die ‚<rs type="paper" ana="werk_13386">Neue Freie Presse</rs>‘ mit dem<lb/>
+Karlsbader Feuilleton so großen Erfolg hatte, will die ‚<rs type="magazine" ana="werk_13387"><seg type="ELIDASH">Sonntagszeitung</seg> und Montagszeitung<lb/>
+</rs>‘ nicht zurückstehen. Am <date>31. Oktober</date> empfiehlt der Kritiker den<lb/>
+Besuch des <rs type="inst">Orpheumtheaters</rs> mit den Worten: »Was da neben ihr noch die<lb/>
+Herren <rs type="pers" ana="n_31674" ref="#fk__p_54328">Tuschl</rs>, <rs type="pers" ana="n_31675" ref="#fk__p_57386">Guttmann</rs>, <rs type="pers" ana="n_31676" ref="#fk__p_49397">Lunzer</rs>, <rs type="pers" ana="n_31677" ref="#fk__p_48459">Gottsleben</rs> und <rs type="pers" ana="n_31678" ref="#fk__p_57102">Günther</rs> für Ulk<lb/>
+treiben, was da noch an hübschen Liedern von <rs type="pers" ana="n_31679" ref="#fk__p_47083">Hellmesberger</rs>, <rs type="pers" ana="n_31680" ref="#fk__p_55482">Aletter</rs><lb/>
+und <rs type="pers" ana="n_31681" ref="#fk__p_53627">Steiner <abbr>jun.</abbr></rs> gesungen und von <foreign xml:lang="de-loc">feschen</foreign> <choice><sic>Balleteusen</sic><corr>Balletteusen</corr></choice> getanzt wird,<lb/>
+<seg type="spc">ist am besten</seg>, <seg type="spc">man sieht und hört es sich selbst an</seg>.« Wie<lb/>
+sagt doch der Dichter? »Der Mensch, was kommt arm auf der Welt, <seg type="spc">is<lb/>
+besser</seg>, soll gleich der Kopf abgehackt werden.«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_40425">
+               <persName>Dialektforscher</persName>
+            </person>
+            <person xml:id="fk__p_57386">
+               <persName>Guttmann, Arthur</persName>
+               <birth>
+                  <date>1877-7-1</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1956-6-3</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Sänger</occupation>
+               <note type="comment">Danzer's Orpheum 1905</note>
+            </person>
+            <person xml:id="fk__p_49397">
+               <persName>Lunzer, Eduard</persName>
+               <birth>
+                  <date>1843-10-6</date>
+                  <place>Karlburg bei Preßburg</place>
+               </birth>
+               <death>
+                  <date>1913-10-19</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">9., Porzellangasse </note>
+               <note type="comment">Sohn Fritz Lunzer, ebenfalls Schauspieler</note>
+            </person>
+            <person xml:id="fk__p_48459">
+               <persName>Gottsleben, Ludwig Erasmus</persName>
+               <birth>
+                  <date>1836-11-24</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1911-2-26</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">ZF 75A/31/51 (FD)</note>
+            </person>
+            <person xml:id="fk__p_47083">
+               <persName>Hellmesberger, Josef jun.</persName>
+               <birth>
+                  <date>1855-4-9</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1907-4-26</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Komponist</occupation>
+               <occupation>Dirigent</occupation>
+               <occupation>Violinist</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16077</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/18093</idno></person>
+            <person xml:id="fk__p_53627">
+               <persName>Steiner, Maximilian Raoul</persName>
+               <birth>
+                  <date>1888-5-10</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1971-12-28</date>
+                  <place>Hollywood</place>
+               </death>
+               <occupation>Komponist</occupation>
+               <note type="comment">"Taufpate" Johann Strauß durch IKG nicht belegt</note>
+            </person>
+            <person xml:id="fk__p_57102">
+               <persName>Günther, Eugen</persName>
+               <birth>
+                  <date>1878</date>
+                  <place>Hohen-Asperg/Württemberg</place>
+               </birth>
+               <death>
+                  <date>1963-12-12</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <occupation>Sänger</occupation>
+               <note type="comment">9., Währingerstraße 26</note>
+               <note type="comment">Danzer's Orpheum 1905: Fr. E. Günther</note>
+            </person>
+            <person xml:id="fk__p_54328">
+               <persName>Tuschl, Karl </persName>
+               <birth>
+                  <date>1858-10-14</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1943-1-21</date>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <note type="comment">Josefstadt 1899; 1., Adlergasse 10</note>
+            </person>
+            <person xml:id="fk__p_55482">
+               <persName>Aletter, Wilhelm</persName>
+               <birth>
+                  <date>1867-1-27</date>
+                  <place>Bad Nauheim</place>
+               </birth>
+               <death>
+                  <date>1934-6-30</date>
+                  <place>Wiesbaden</place>
+               </death>
+               <occupation>Komponist</occupation>
+               <occupation>Erfinder</occupation>
+               <occupation>Pianist</occupation>
+               <occupation>Musikalienhändler</occupation>
+               <note type="comment">Namenskorrektur!</note>
+               <note type="comment">Erfinder der "Obu"-Rostpfanne (F 445/76)</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/39646</idno></person>
+            </listPerson></back></text>
+</TEI>

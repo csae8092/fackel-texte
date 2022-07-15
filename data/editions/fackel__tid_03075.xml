@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03075.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03074.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03076.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Gebildeter. (Gebildetes), in: Fackel Heft 05, Nr. 135, 1903, S. 29-29</title>
+            <title type="iso-date">1903-04-16</title>
+            <title type="id">tid_03075</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">05</title><title type="heft">135</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-05-135_n0029.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/135,029</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Gebildeter. (Gebildetes)</head>
+            <p ana="pr30229">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="n_26223" ref="#fk__p_44243">Gebildeter</rs>.</seg></seg></seg> Sie schreiben: »Im ‚<rs type="paper" ana="werk_11221">Neuen Wiener Tagblatt</rs>‘ vom<lb/>
+<date>2. April</date> findet sich unter dem Titel ‚Der Arnautenzug‘ ein Artikel, aus<lb/>
+dem hervorzugehen scheint, daß der Verfasser Arnauten mit Argonauten<lb/>
+verwechselt.« Stimmt! Es heißt darin von dem Zuge der albanesischen<lb/>
+Mohammedaner gegen Mitrowitza: »Der jüngste Arnautenzug muthet in<lb/>
+unserer modernen Zeit gewiß eigenthümlich an«. — <seg type="insult">Herr <rs type="pers" ana="n_26224" ref="#fk__p_49333">Ludwig<lb/>
+<seg type="spc">Stein</seg></rs>, seines Zeichens <rs type="inst">Universitätsprofessor</rs> in Bern</seg>, erzählt am<lb/>
+<date>29. März</date> in der ‚<rs type="paper" ana="werk_11222">Neuen Freien Presse</rs>‘ vom <rs type="pers" ana="name_200352" ref="#fk__p_52711">König <seg type="spc">Salomo</seg></rs>, daß ihm<lb/>
+»die Tradition <seg type="spc">neben den <rs type="title">Psalmen</rs></seg> gar noch das ‚<rs type="title">Hohe Lied</rs>‘ zutraut<lb/>
+«. Und <seg type="insult">das</seg> will früher ein Rabbiner gewesen sein!<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_52711">
+               <persName>Salomo</persName>
+               <occupation>König</occupation>
+               <note type="comment">bibl. Figur</note>
+            </person>
+            <person xml:id="fk__p_49333">
+               <persName>Stein, Ludwig</persName>
+               <birth>
+                  <date>1859-11-12</date>
+                  <place>Erdö-Bénye/Tokay</place>
+               </birth>
+               <death>
+                  <date>1930-07-13</date>
+                  <place>Salzburg</place>
+               </death>
+               <occupation>Philosoph</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12829</idno></person>
+            <person xml:id="fk__p_44243">
+               <persName>Gebildeter</persName>
+            </person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,105 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01763.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01762.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01764.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Spectator., in: Fackel Heft 03, Nr. 074, 1901, S. 24-25</title>
+            <title type="iso-date">1901-04-01</title>
+            <title type="id">tid_01763</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">03</title><title type="heft">074</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-03-074_n0024.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/074,024</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Spectator.</head>
+            <p ana="pr17486">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_14710" ref="#fk__p_53469">Spectator</rs>.</seg></seg> <seg type="insult">Der Abgeordnete <rs type="pers" ana="n_14711" ref="#fk__p_47331"><abbr>K. H.</abbr> Wolf</rs></seg> hat, nach dem Bericht<lb/>
+der ‚<rs type="" ana="werk_5552">Ostdeutschen Rundschau</rs>‘, in der alldeutschen Versammlung in<lb/>
+Währing gesagt: »Es ist eine Aeußerung gefallen, die umso schärfer<lb/>
+gekennzeichnet werden muss, als sie aus einem Munde gefallen ist,<lb/>
+der berufen sein soll, dereinst im Staate eine führende Rolle zu<lb/>
+spielen.« Der Mund, der eine führende Rolle spielt: — das passt<lb/>
+doch höchstens auf reichsdeutsche Verhältnisse. <rs type="pers" ana="n_14712" ref="#fk__p_55493">Wilhelm II</rs> ist gewissermaßen<lb/>
+ <seg type="insult">»ganz Mund«</seg>. Aber gerade in Deutschland hat sich’s<lb/>
+gezeigt, dass das Volk in solchen Fällen nicht ganz Ohr ist <seg type="symbol" subtype="3dots"/><lb/>
+<seg type="insult">Das bestinformierte Blatt in den letzten stürmischen Tagen</seg> war natürlich<lb/>
+ die ‚<rs type="paper" ana="werk_5553">Neue Freie Presse</rs>‘. In einem <seg type="insult">blitzblöden Bericht</seg> über die<lb/>
+</p>
+            <p ana="pr17486">
+katholische Massen-Procession stellt sie die <seg type="insult">Heerscharen des Clericalismus<lb/>
+</seg> als eine <seg type="insult">Vereinigung von Knaben</seg> oder <seg type="insult">»dem Knabenalter kaum<lb/>
+entwachsenen Jünglingen«</seg> und <seg type="insult">»ergrauten Greisen«</seg> dar, die »durch das<lb/>
+lange Stehen und Warten ermüdet und abgespannt« waren; das »jüngere<lb/>
+vollkräftige Mannesalter«, ruft sie vielsagend, »war verhältnismäßig<lb/>
+nicht zahlreich vertreten«. <seg type="insult">Das vollkräftige Mannesalter</seg> ist natürlich<lb/>
+immer freisinnig. Auch das Bild der ganzen Demonstration weiß das<lb/>
+Blatt anschaulich zu zeichnen. »Es war eine <seg type="insult">Massen-Procession</seg>, die<lb/>
+einen <seg type="insult">ausgesprochenen Demonstrationscharakter</seg> hatte und <seg type="spc">unwillkürlich<lb/>
+</seg> an ähnliche Veranstaltungen zur Zeit der <seg type="spc"><rs type="event">Gegenreformation</rs><lb/>
+im <DATERANGE>siebzehnten Jahrhundert</DATERANGE> erinnerte</seg>.« »Unwillkürlich«<lb/>
+drängt sich einem die Frage auf, ob bei der Gegenreformation ein<lb/>
+<seg type="insult">Specialberichterstatter der ‚<rs type="paper" ana="werk_5554">Neuen Freien Presse</rs>‘</seg> zugegen war. Aber<lb/>
+da es zur Zeit der <rs type="event">Schlacht am Weißen Berge</rs> noch keine <seg type="insult"><rs type="pers">Wippchen</rs></seg><lb/>
+gab, hat jedenfalls wieder einmal <seg type="insult">Herr Hofrath <rs type="pers" ana="n_14713" ref="#fk__p_43872">Staberl</rs></seg> der ‚<rs type="paper" ana="werk_5555">Neuen<lb/>
+Freien Presse</rs>‘ sein <seg type="insult">Erinnerungsvermögen</seg> zur Verfügung gestellt, von<lb/>
+dessen Zinsen <seg type="insult">hundert Reporter</seg> leben können.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_53469">
+               <persName>Spectator</persName>
+            </person>
+            <person xml:id="fk__p_55493">
+               <persName>Wilhelm II., Kaiser</persName>
+               <birth>
+                  <date>1859-1-27</date>
+                  <place>Berlin</place>
+               </birth>
+               <death>
+                  <date>1941-6-4</date>
+                  <place>Doorn/Niederlande</place>
+               </death>
+               <occupation>Kaiser</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_21338</idno></person>
+            <person xml:id="fk__p_47331">
+               <persName>Wolf, Karl Hermann</persName>
+               <birth>
+                  <date>1862-1-27</date>
+                  <place>Eger</place>
+               </birth>
+               <death>
+                  <date>1941-6-11</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Publizist</occupation>
+               <occupation>Politiker</occupation>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Trafikant</occupation>
+               <note type="comment">Dr. Stepischnegg sein Schwiegervater F 17/2</note>
+               <note type="comment">ZF 32C/19, Elfriede Wolf, 23.6.1972, 87 J. alt, *1885? (2. Ehefrau)</note>
+               <note type="comment">7., Bandgasse 32</note>
+               <note type="comment">1. Ehe: Ilda Wolf, geb. Stepischnegg, geschieden 1903; 2. Elfriede Frenzel, *Hohenelbe 05.01.1885</note>
+               <note type="comment">Ostdeutsche Rundschau</note>
+               <note type="comment">Reichsratsabg. 1897-1918</note>
+            </person>
+            <person xml:id="fk__p_43872">
+               <persName>Uhl, Friedrich</persName>
+               <birth>
+                  <date>1825-5-14</date>
+                  <place>Teschen</place>
+               </birth>
+               <death>
+                  <date>1906-1-20</date>
+                  <place>Mondsee</place>
+               </death>
+               <occupation>Journalist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12987</idno></person>
+            </listPerson></back></text>
+</TEI>

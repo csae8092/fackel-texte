@@ -1,0 +1,44 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01725.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01724.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01726.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Artifex. (Klimt-Schwindel), in: Fackel Heft 02, Nr. 072, 1901, S. 31-31</title>
+            <title type="iso-date">1901-03-01</title>
+            <title type="id">tid_01725</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">072</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-072_n0031.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/072,031</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Artifex. (Klimt-Schwindel)</head>
+            <p ana="pr17137">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="n_14333" ref="#fk__p_38469"><foreign xml:lang="la">Artifex</foreign></rs>.</seg></seg></seg> Ueber den <seg type="insult"><rs type="pers" ana="n_14334" ref="#fk__p_45195">Klimt-Schwindel</rs></seg>, den wir soeben in zweiter<lb/>
+Auflage schaudernd miterlebt haben, spreche ich bestimmt ein<lb/>
+andermal.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_38469">
+               <persName>Artifex</persName>
+            </person>
+            <person xml:id="fk__p_45195">
+               <persName>Klimt, Gustav</persName>
+               <birth>
+                  <date>1862-7-14</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1918-2-6</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Maler</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11941</idno></person>
+            </listPerson></back></text>
+</TEI>

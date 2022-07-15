@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_08601.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08600.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08602.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Kleiner Konzerthaussaal, 18. Februar, halb 6 Uhr:, in: Fackel Heft 21, Nr. 508, 1919, S. 33-33</title>
+            <title type="iso-date">1919-04-01</title>
+            <title type="id">tid_08601</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">21</title><title type="heft">508</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-21-508_n0033.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/508,033</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Kleiner Konzerthaussaal, 18. Februar, halb 6 Uhr:</head>
+            <p ana="pr112890">
+<space/><rs type="inst">Kleiner Konzerthaussaal</rs>, <date>18. Februar</date>, halb 6 Uhr:<lb/>
+</p>
+            <p ana="pr112891">
+<space/>I. <rs type="pers" ana="n_69892" ref="#fk__p_43219">Ferdinand Kürnberger</rs>: <rs type="title"><seg type="spc">Der Krieg und das lettische<lb/>
+Mädchen</seg></rs> (<date>1870</date>, konfisziert in der <rs type="self" ana="werk_21566">Fackel</rs> <date>Oktober 1917</date>) / <rs type="title"><seg type="spc">Das<lb/>
+übervolle Haus jubelte den <seg type="insult">Helden</seg> begeistert zu</seg>,<lb/>
+<seg type="spc">die stramm salutierend dankten</seg></rs> (konfisziert in der<lb/>
+<rs type="self" ana="werk_21567">Fackel</rs> <date>Juni 1916</date>).<lb/>
+</p>
+            <p ana="pr112892">
+<space/>II. <rs type="title"><seg type="insult"><seg type="spc">Diplomaten</seg></seg></rs> / <rs type="title"><seg type="insult">Mit einem vollen Tropfen Druckerschwärze<lb/>
+ gesalbt</seg></rs> / <rs type="title"><seg type="insult">Verdrossenheit in der <rs type="inst">Entente</rs></seg></rs> / <rs type="title"><rs type="pers">Tell</rs> sagt</rs> / <rs type="title">Glück</rs> /<lb/>
+<rs type="title"><seg type="insult">Staatsprüfung</seg></rs> / <rs type="title"><foreign xml:lang="de-loc">Mir san ja eh <seg type="insult">die reinen Lamperln</seg></foreign></rs> / <rs type="title"><seg type="spc">Die Ballade<lb/>
+vom Papagei</seg></rs> (<rs type="title"><foreign xml:lang="fr">Couplet macabre</foreign></rs>, geschrieben <date>1915</date>; mit begleitender<lb/>
+Musik) / <rs type="title"><seg type="insult"><seg type="spc">Die Kriegsschreiber nach dem Krieg</seg></seg></rs>.<lb/>
+</p>
+            <p ana="pr112893">
+<space/>III. <rs type="title">Der <rs type="pers">sterbende Soldat</rs></rs> / <rs type="title">Der Bauer, der Hund und der<lb/>
+Soldat</rs> / <rs type="title">Der Zeuge</rs>.<lb/>
+</p>
+            <p ana="pr112894">
+<space/>Ein Teil des Ertrages für den »<rs type="inst">Arbeiterverein Kinderfreunde</rs>«<lb/>
+und für die »<rs type="inst">Organisation heimgekehrter mittelloser Studenten</rs>«<lb/>
+(VI., Königsklostergasse 7).<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_43219">
+               <persName>Kürnberger, Ferdinand</persName>
+               <birth>
+                  <date>1821-7-3</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1879-10-14</date>
+                  <place>München</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/19980</idno></person>
+            </listPerson></back></text>
+</TEI>

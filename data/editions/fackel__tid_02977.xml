@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02977.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02976.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02978.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Dankbarer Leser. (Eine interessante Nachricht), in: Fackel Heft 04, Nr. 131, 1903, S. 27-27</title>
+            <title type="iso-date">1903-03-4</title>
+            <title type="id">tid_02977</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">04</title><title type="heft">131</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-04-131_n0027.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/131,027</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Dankbarer Leser. (Eine interessante Nachricht)</head>
+            <p ana="pr29344">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="n_25389" key="#fk__p_40251">Dankbarer Leser</rs>.</seg></seg></seg> Die ‚<rs type="paper" ana="werk_10734">Neue Freie Presse</rs>‘ enthielt neulich in<lb/>
+der Rubrik <seg type="insult">»Personal-Nachrichten«</seg> die folgende Meldung: »Der Großindustrielle<lb/>
+ <rs type="pers" ana="n_25390" ref="#fk__p_47489">Karl Blaimschein</rs> wurde gestern vom Minister-Präsidenten<lb/>
+<rs type="pers" ana="n_25391" ref="#fk__p_40952"><abbr>Dr. v.</abbr> Koerber</rs> in Privat-Audienz empfangen.«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_47489">
+               <persName>Blaimschein, Carl</persName>
+               <birth>
+                  <date>1853-9-26</date>
+                  <place>Wels</place>
+               </birth>
+               <death>
+                  <date>1933-5-31</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Industrieller</occupation>
+               <note type="comment">Hietzing 17/8</note>
+            </person>
+            <person xml:id="fk__p_40952">
+               <persName>Koerber, Ernest von</persName>
+               <birth>
+                  <date>1850-11-6</date>
+                  <place>Trient</place>
+               </birth>
+               <death>
+                  <date>1919-3-4</date>
+                  <place>Baden bei Wien</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <note type="comment">Handels-, Innen-, Justizminister, 1900-04, Okt. bis Dez. 1916 Ministerpräsident</note>
+               <note type="comment">Handels-, Innen-, Justizminister, 1900-04, Okt. bis Dez. 1916 Ministerpräsident</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11955</idno></person>
+            </listPerson></back></text>
+</TEI>

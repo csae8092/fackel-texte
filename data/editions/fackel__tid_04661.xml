@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_04661.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04660.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04662.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Reklame), in: Fackel Heft 10, Nr. 251, 1908, S. 25-25</title>
+            <title type="iso-date">1908-04-28</title>
+            <title type="id">tid_04661</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">10</title><title type="heft">251</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-10-251_n0025.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/251,025</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Reklame)</head>
+            <p ana="pr53643">
+<space/>Ich habe im <seg ana="‚Neuen Wiener Journal‘"/> diese Notiz<lb/>
+gefunden:<lb/>
+</p>
+            <p ana="pr53645">
+<space/><seg type="sidehead">(<seg type="spc">Die Ermordung des <rs type="pers" ana="n_42154" ref="#fk__p_44877">Grafen Potocki</rs></seg>)</seg> hat die größte Aufregung<lb/>
+ hervorgerufen. Das größte Aufsehen in allen Kreisen der Bevölkerung<lb/>
+ erregen auch die künstlerischen tadellosen Arbeiten der Kunstanstalt<lb/>
+ »<rs type="inst">Photographie-Palast</rs>« (II. Bezirk <abbr>u. s. w.</abbr>), der es gelungen ist, sich<lb/>
+mit Hilfe ihres Mottos »Erstklassige Leistungen, Preise konkurrenzlos«<lb/>
+das allgemeine Vertrauen zu erwerben.<lb/>
+</p>
+            <p ana="pr53647">
+<space/>Nun, photographische Darstellung des Leichenbegängnisses<lb/>
+ eines ermordeten Statthalters: das wäre<lb/>
+die Grenze, bis zu der <seg type="insult">die Intimität des Geschäftssinns</seg><lb/>
+mit einem Ereignis gehen könnte. Hier aber ist der tote<lb/>
+Statthalter als Sandwichman verwendet. Daß sich ein<lb/>
+<seg type="insult">Journalismus</seg>, dem solche Neuerung geglückt ist,<lb/>
+gegen das Wort <seg type="insult">»Saubengel«</seg> verwahrt, ist immerhin<lb/>
+ein Beweis von Zartgefühl.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_44877">
+               <persName>Potocki, Andreas Graf</persName>
+               <birth>
+                  <date>1861-06-10</date>
+                  <place>Krakau</place>
+               </birth>
+               <death>
+                  <date>1908-04-12</date>
+                  <place>Lemberg</place>
+               </death>
+               <occupation>Politiker</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

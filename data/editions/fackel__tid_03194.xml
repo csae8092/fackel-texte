@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03194.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03193.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03195.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Genosse. (Administrative Liguorimoral), in: Fackel Heft 05, Nr. 140, 1903, S. 24-24</title>
+            <title type="iso-date">1903-06-10</title>
+            <title type="id">tid_03194</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">05</title><title type="heft">140</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-05-140_n0024.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/140,024</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Genosse. (Administrative Liguorimoral)</head>
+            <p ana="pr31329">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="n_27177" ref="#fk__p_44267">Genosse</rs>.</seg></seg></seg> Aus der <seg ana="‚Arbeiter-Zeitung‘ vom 3. Juni"/>:<lb/>
+</p>
+            <p ana="pr31331">
+Im redactionellen Theil:<lb/>
+</p>
+            <p ana="pr31333">
+<space/><B>Ein Büglerinnenstreik.</B> In der<lb/>
+Wäschefabrik des <rs type="pers" ana="n_27178" ref="#fk__p_37592"><SPAN sug="Sigmund">S...</SPAN> <SPAN sug="Löwinger">L...</SPAN></rs>,<lb/>
+XVI. Wilhelminenstraße <abbr>Nr.</abbr> 84,<lb/>
+sind gestern wegen Lohndifferenzen<lb/>
+vierzig Büglerinnen in den Ausstand<lb/>
+ getreten.<lb/>
+</p>
+            <p ana="pr31335">
+Im Inseratentheil:<lb/>
+</p>
+            <p ana="pr31337">
+<space/>Wäschefabrik. Hemdenbüglerinnen<lb/>
+ und Lehrmädchen werden<lb/>
+bei gutem Verdienst dauernd beschäftigt<lb/>
+ bei <rs type="pers" ana="n_27179" ref="#fk__p_37592"><SPAN sug="Sigmund">S...</SPAN> <SPAN sug="Löwinger">L...</SPAN></rs>, XVI.<lb/>
+Wilhelminenstraße 84.<lb/>
+</p>
+            <p ana="pr31339">
+<space/>Ist also »<seg type="spc">Zuzug fernzuhalten</seg>« oder nicht? <seg type="symbol" subtype="3dots"/> Vor dem<lb/>
+<seg type="insult">Inseratenmann</seg> sind alle Menschen gleich, und nur die Redaction<lb/>
+hat gegen <seg type="spc">Nonnen</seg> etwas einzuwenden. Rückwärts druckt die ‚<rs type="paper" ana="werk_11820">Arbeiter-Zeitung<lb/>
+</rs>‘ öfter die Anzeige eines Apothekers ab, der den Nonnenhabit<lb/>
+und das Kreuz als Reclame verwendet <seg type="symbol" subtype="3dots"/> Ob sie nächstens wohl auch<lb/>
+das Programm einer Wallfahrt bringen wird? <seg type="insult">Die bekannte »Rechtsverwahrung<lb/>
+«</seg>: für den Inhalt der Inserate <abbr>etc.</abbr> erlaubt ihr auch das.<lb/>
+<seg type="insult">Die verpönte <rs type="pers" ana="n_27180" ref="#fk__p_38043">Liguori-Moral</rs>, ein Dorn im Auge radicaler Journalisten</seg>,<lb/>
+ist im <seg type="insult">praktischen Zeitungsbetrieb</seg> nicht zu unterschätzen; sie hat allemal<lb/>
+ noch die <seg type="insult">Brücke von redactioneller Keuschheit zu administrativer<lb/>
+Begehrlichkeit</seg> geschlagen.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_38043">
+               <persName>Liguori, Alphonso Maria</persName>
+               <birth>
+                  <date>1696-9-27</date>
+                  <place>Marianella/Neapel</place>
+               </birth>
+               <death>
+                  <date>1787-8-1</date>
+                  <place>Pagani</place>
+               </death>
+               <occupation>Theologe</occupation>
+            </person>
+            <person xml:id="fk__p_44267">
+               <persName>Genosse</persName>
+            </person>
+            <person xml:id="fk__p_37592">
+               <persName>Löwinger, Sigmund</persName>
+               <birth>
+                  <date>1854-5-28</date>
+                  <place>Groß Kanizsa/Ungarn</place>
+               </birth>
+               <death>
+                  <date>1925-11-25</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Fabrikant</occupation>
+               <note type="comment">Wäschefabrik, 16., Wilhelminenstr. 84</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

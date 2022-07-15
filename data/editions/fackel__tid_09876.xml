@@ -1,0 +1,106 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_09876.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09875.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09877.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Schülervorstellung des Bundesrealgymnasiums Wien I), in: Fackel Heft 26, Nr. 657, 1924, S. 123-123</title>
+            <title type="iso-date">1924-08-01</title>
+            <title type="id">tid_09876</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">26</title><title type="heft">657</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-26-657_n0123.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/657,123</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Schülervorstellung des Bundesrealgymnasiums Wien I)</head>
+            <p ana="pr134038">
+<space/>Im <rs type="selfRef" ana="werk_26047">letzten Heft</rs> war — etwa auf <abbr>S.</abbr> 70 an dritter Stelle —<lb/>
+die Mitteilung unterlassen worden, daß am <date>29. März</date>, halb 3 Uhr<lb/>
+in einer Schülervorstellung des <rs type="inst">Bundesrealgymnasiums Wien I</rs><lb/>
+im <rs type="inst"><rs type="pers" ana="n2_7327" ref="#fk__p_57640">Carltheater</rs></rs> <rs type="pers" ana="n_82062" ref="#fk__p_46919">Nestroys</rs> »<rs type="title"><seg type="spc">Das Notwendige und das<lb/>
+Überflüssige</seg></rs>« (unter der Regie von <rs type="pers" ana="n_82063" ref="#fk__p_56216">Julius Haller</rs>) in<lb/>
+meiner Bearbeitung aufgeführt wurde. Auf dem Programm war<lb/>
+die Erläuterung abgedruckt, welche die Vorlesungsprogramme<lb/>
+zu enthalten pflegten. Die Veranstalter der Vorstellung waren<lb/>
+die Professoren <rs type="pers" ana="n_82064" ref="#fk__p_45847"><abbr>Dr.</abbr> <abbr>H. St.</abbr> Sedlmayer</rs> und <rs type="pers" ana="n_82065" ref="#fk__p_41286"><abbr>Dr.</abbr> Josef Lesowsky</rs>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_41286">
+               <persName>Lesowsky, Josef</persName>
+               <birth>
+                  <date>1887-12-10</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1951-9-22</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Gymnasiallehrer</occupation>
+               <occupation>Übersetzer</occupation>
+               <occupation>Lexikograph</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/20346</idno></person>
+            <person xml:id="fk__p_45847">
+               <persName>Sedlmayer, Heinrich Stephan</persName>
+               <birth>
+                  <date>1855-12-26</date>
+                  <place>Brünn, Mähren</place>
+               </birth>
+               <death>
+                  <date>1928-7-15</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Altphilologe</occupation>
+               <occupation>Gymnasiallehrer</occupation>
+               <note type="comment">F 423/39 Ode an ihn</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/57453</idno></person>
+            <person xml:id="fk__p_57640">
+               <persName>Carl, Carl</persName>
+               <birth>
+                  <date>1789-11-7</date>
+                  <place>Krakau</place>
+               </birth>
+               <death>
+                  <date>1854-8-14</date>
+                  <place>Bad Ischl</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <occupation>Regisseur</occupation>
+               <occupation>Theaterleiter</occupation>
+               <note type="comment">Ögg: Freiherr von Bernbrunn</note>
+            </person>
+            <person xml:id="fk__p_56216">
+               <persName>Haller, Julius</persName>
+               <birth>
+                  <date>1856-3-1</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1929-10-17</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <occupation>Regisseur</occupation>
+               <note type="comment">Bjb: Ensemble der NWB</note>
+            </person>
+            <person xml:id="fk__p_46919">
+               <persName>Nestroy, Johann Nepomuk</persName>
+               <birth>
+                  <date>1801-12-7</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1862-5-25</date>
+                  <place>Graz</place>
+               </death>
+               <occupation>Sänger</occupation>
+               <occupation>Schauspieler</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12338</idno></person>
+            </listPerson></back></text>
+</TEI>

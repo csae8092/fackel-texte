@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_05925.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05924.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05926.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ein Mißverständnis, in: Fackel Heft 14, Nr. 357, 1912, S. 57-57</title>
+            <title type="iso-date">1912-10-01</title>
+            <title type="id">tid_05925</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">14</title><title type="heft">357</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-14-357_n0057.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/357,057</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ein Mißverständnis</head>
+            <p ana="pr79190">
+<space/>»Die Zunge darf jedoch nicht andeuten, was das Gemüt bewegt;<lb/>
+ein Augenblick der Vergessenheit kostet Stellung, Brot und Lebensglück.«<lb/>
+</p>
+            <p ana="pr79192">
+<space/><seg type="insult">Unter <rs type="pers" ana="n_56153" ref="#fk__p_50373">Benedikt</rs>? Nein, nur unter <rs type="pers" ana="n_56154" ref="#fk__p_51122">Pius</rs>.</seg><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_50373">
+               <persName>Benedikt, Moriz</persName>
+               <birth>
+                  <date>1849-5-27</date>
+                  <place>Kwatschitz/Mähren</place>
+               </birth>
+               <death>
+                  <date>1920-3-18</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <note type="comment">Geburtsort Kwatschitz bei Ungarisch Hradisch/Mähren, nicht Kwassitz bei Kremsier</note>
+               <note type="comment">1. Tor, 20/1/1a</note>
+               <note type="comment">Hrsg. der NFP (seit 1908 alleiniger Leiter)</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10875</idno></person>
+            <person xml:id="fk__p_51122">
+               <persName>Pius X., Papst</persName>
+               <birth>
+                  <date>1835-6-2</date>
+                  <place>Riese</place>
+               </birth>
+               <death>
+                  <date>1914-8-20</date>
+                  <place>Rom</place>
+               </death>
+               <occupation>Papst</occupation>
+               <note type="comment">Piusverein in Österreich benannt nach Pius X., gegründet 1905</note>
+               <note type="comment">4.8.1903-20.8.1914</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_08457.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08456.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08458.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ein inhaltsschweres Wort, in: Fackel Heft 20, Nr. 484, 1918, S. 156-156</title>
+            <title type="iso-date">1918-10-01</title>
+            <title type="id">tid_08457</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">20</title><title type="heft">484</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-20-484_n0156.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/484,156</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ein inhaltsschweres Wort</head>
+            <p ana="pr111260">
+<space/>Das muß ein starkes Erlebnis gewesen sein, der <RS pers="Wilhelm II." globID="name_203195">Kaiser</RS>,<lb/>
+umgeben von den vielen tausend Männern und Frauen, die in den<lb/>
+Anlagen von <rs type="pers" ana="n_69425" ref="#fk__p_43847">Friedrich Krupp</rs>, deren Hauptbesitzer gegenwärtig<lb/>
+Herr <rs type="pers" ana="n_69426" ref="#fk__p_55052"><abbr>v.</abbr> Bohlen</rs> ist, beschäftigt werden. Die Geschichte dieser weltberühmten<lb/>
+ Unternehmung kann in einem Wort erzählt werden:<lb/>
+<seg type="spc">Gußstahl</seg>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_43847">
+               <persName>Krupp, Friedrich Alfred</persName>
+               <birth>
+                  <date>1854-02-17</date>
+                  <place>Essen</place>
+               </birth>
+               <death>
+                  <date>1902-11-22</date>
+                  <place>Essen</place>
+               </death>
+               <occupation>Großindustrieller</occupation>
+            </person>
+            <person xml:id="fk__p_55052">
+               <persName>Krupp von Bohlen und Halbach, Gustav</persName>
+               <birth>
+                  <date>1870-8-7</date>
+                  <place>Den Haag</place>
+               </birth>
+               <death>
+                  <date>1950-1-16</date>
+                  <place>Blühnbach/Salzburg</place>
+               </death>
+               <occupation>Industrieller</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

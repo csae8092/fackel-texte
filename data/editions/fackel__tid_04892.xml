@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_04892.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04891.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04893.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Klischees der Plastik), in: Fackel Heft 11, Nr. 281, 1909, S. 48-48</title>
+            <title type="iso-date">1909-06-4</title>
+            <title type="id">tid_04892</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">11</title><title type="heft">281</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-11-281_n0048.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/281,048</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Klischees der Plastik)</head>
+            <p ana="pr60813">
+<space/>Der <seg type="insult">Feuilletonist alten Stils</seg> arbeitete mit den <seg type="insult">Klischees der<lb/>
+Rhetorik</seg>, der neue arbeitet mit den <seg type="insult">Klischees der Plastik</seg>. Seit<lb/>
+einigen Jahren ist eine <seg type="insult">»Beobachtung«</seg> in Gebrauch, die immer wieder<lb/>
+ihre Dienste tut, so oft das <rs type="inst">Berliner <rs type="pers" ana="n2_3821" ref="#fk__p_44593">Lessingtheater</rs></rs> bei uns <rs type="pers" ana="n_45009" ref="#fk__p_45852">Ibsenstücke<lb/>
+</rs> spielt. Von den <rs type="pers" ana="n_45010" ref="#fk__p_45852">Ibsenfiguren</rs> heißt es, daß »diese Menschen<lb/>
+in ihr Schicksal eingeschlossen sind, wie in einem Kerker«. Ich<lb/>
+setze diese Wendung hieher, damit ich sie beim nächstjährigen<lb/>
+Gastspiel des <rs type="inst">Berliner <rs type="pers" ana="n2_3822" ref="#fk__p_44593">Lessingtheaters</rs></rs> nicht mehr finde oder damit<lb/>
+ man sich bei Gelegenheit erinnere, daß ich alles rechtzeitig<lb/>
+vorausgesagt habe. Meine Schuld wird es nicht sein <seg type="symbol" subtype="3dots"/><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_44593">
+               <persName>Lessing, Gotthold Ephraim</persName>
+               <birth>
+                  <date>1729-1-22</date>
+                  <place>Kamenz/Oberlausitz</place>
+               </birth>
+               <death>
+                  <date>1781-2-15</date>
+                  <place>Braunschweig</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Bibliothekar</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12053</idno></person>
+            <person xml:id="fk__p_45852">
+               <persName>Ibsen, Henrik</persName>
+               <birth>
+                  <date>1828-3-20</date>
+                  <place>Skien</place>
+               </birth>
+               <death>
+                  <date>1906-5-23</date>
+                  <place>Christiania</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment"/>
+               <note type="comment">Ögg ordnet 368/49 Baumeister Solneß Strindberg zu</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11798</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01525.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01524.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01526.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Marineur. (Marineur), in: Fackel Heft 02, Nr. 064, 1901, S. 32-32</title>
+            <title type="iso-date">1901-01-01</title>
+            <title type="id">tid_01525</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">064</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-064_n0032.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/064,032</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Marineur. (Marineur)</head>
+            <p ana="pr14995">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="n_12372" key="#fk__p_49734">Marineur</rs>.</seg></seg></seg> In seiner <seg type="insult"><rs type="pers" ana="n_12373" ref="#fk__p_39139">Bülow-Apologie</rs></seg> stellte uns <seg type="insult">Herr <rs type="pers" ana="n_12374" ref="#fk__p_37851">Adolf<lb/>
+Wilbrandt</rs></seg> bekanntlich ein junges Mädchen vor, das den Ausruf gethan<lb/>
+haben soll: »Ich möcht’ ein großes Panzerschiff sein, damit ich<lb/>
+meinem Vaterlande nützen könnte!« Hiezu vergaß ich neulich zu<lb/>
+bemerken, dass es mir <seg type="insult">keinen unpatriotischeren Wunsch</seg> als diesen<lb/>
+zu geben scheint. Wäre er der gemeinsame aller jungen Damen im<lb/>
+heutigen Deutschen Reich, so brächte seine Erfüllung dem Vaterlande<lb/>
+unübersehbaren Schaden: Es hätte nämlich dann wohl eine ansehnliche<lb/>
+ Panzerflotte, aber — keine Bemannung. Schon <rs type="pers" ana="n_12375" ref="#fk__p_50524">Napoleon</rs> hat der<lb/>
+Madame <rs type="pers" ana="n_12376" ref="#fk__p_49505">Staël</rs> das Mutterwerden als die beste Art bezeichnet, wie<lb/>
+sich die Frau patriotisch bethätigen könne. <seg type="insult">Herr <rs type="pers" ana="n_12377" ref="#fk__p_37851">Wilbrandt</rs></seg> hätte<lb/>
+<seg type="insult">der jungen Dame</seg>, die durchaus ein Panzerschiff werden wollte, ähnlich<lb/>
+und mit der besonderen Erklärung antworten müssen, dass Herr <rs type="pers" ana="n_12378" ref="#fk__p_39139">Bülow</rs><lb/>
+zwar eine Vermehrung der Flotte, aber keine Verminderung der<lb/>
+Marinearmee wünscht.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_50524">
+               <persName>Napoleon I.</persName>
+               <birth>
+                  <date>1769-8-15</date>
+                  <place>Ajaccio, Korsika</place>
+               </birth>
+               <death>
+                  <date>1821-5-5</date>
+                  <place>Sankt Helena</place>
+               </death>
+               <occupation>Kaiser</occupation>
+            </person>
+            <person xml:id="fk__p_37851">
+               <persName>Wilbrandt, Adolf von</persName>
+               <birth>
+                  <date>1837-8-24</date>
+                  <place>Rostock</place>
+               </birth>
+               <death>
+                  <date>1911-6-10</date>
+                  <place>Rostock</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Theaterleiter</occupation>
+               <occupation>Journalist</occupation>
+               <note type="comment">http://de.wikipedia.org/wiki/Adolf_von_Wilbrandt</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/5208</idno></person>
+            <person xml:id="fk__p_49505">
+               <persName>Staël, Madame de</persName>
+               <birth>
+                  <date>1766-04-22</date>
+                  <place>Paris</place>
+               </birth>
+               <death>
+                  <date>1817-07-14</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Schriftstellerin</occupation>
+            </person>
+            <person xml:id="fk__p_39139">
+               <persName>Bülow, Bernhard von</persName>
+               <birth>
+                  <date>1849-5-3</date>
+                  <place>Klein-Flottbek bei Hamburg</place>
+               </birth>
+               <death>
+                  <date>1929-10-28</date>
+                  <place>Rom</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <note type="comment">1900-09 Reichskanzler</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/6560</idno></person>
+            </listPerson></back></text>
+</TEI>

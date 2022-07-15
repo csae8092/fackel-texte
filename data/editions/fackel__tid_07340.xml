@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07340.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07339.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07341.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ein deutsches Ärgernis und seine Definition, in: Fackel Heft 18, Nr. 431, 1916, S. 89-90</title>
+            <title type="iso-date">1916-08-01</title>
+            <title type="id">tid_07340</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">18</title><title type="heft">431</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-18-431_n0089.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/431,089</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ein deutsches Ärgernis und seine Definition</head>
+            <p ana="pr99090">
+<space/>»Der Historiker und Professor an der <rs type="inst">Universität München</rs><lb/>
+<rs type="pers" ana="n_65406" ref="#fk__p_40937"><abbr>Dr.</abbr> Erich Marcks</rs> beleuchtet in den ‚<rs type="paper" ana="werk_20697">Münchener Neuesten Nachrichten</rs>‘ <seg type="symbol" subtype="4dots"/><lb/>
+die durch <rs type="pers" ana="n_65407" ref="#fk__p_43391">Försters</rs> Aufsatz in der ‚<rs type="magazine" ana="werk_20698">Friedenswarte</rs>‘ entstandene Streitfrage<lb/>
+ <seg type="symbol" subtype="4dots"/><lb/>
+</p>
+            <p ana="pr99091">
+<space/>Die Fakultät, aus deren Mitte <seg type="spc">dieses Ärgernis</seg> gekommen<lb/>
+war, hat, sobald sie von ihm erfahren und die Gelegenheit einer<lb/>
+Prüfung des beschlagnahmten Aufsatzes erhalten hatte, ihre Mißbilligung<lb/>
+der Kritik, die <rs type="pers" ana="n_65408" ref="#fk__p_43391">Förster</rs> geübt hatte, ausgesprochen, nach Tendenz, Stunde,<lb/>
+Ort und Tonart, und zwar einstimmig über alle Verschiedenheiten von<lb/>
+Meinung, Bekenntnis und Partei hinweg. Sie hat zu jener <seg type="spc"><seg type="insult">Entgleisung<lb/>
+eines hemmungslosen Idealismus</seg></seg>, <seg type="spc">die einem ihrer Mitglieder<lb/>
+ zugestoßen war</seg>, zu der Beunruhigung, die daraus gefolgt<lb/>
+war, nicht schweigen können und wollen <seg type="symbol" subtype="4dots"/>«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_40937">
+               <persName>Marcks, Erich</persName>
+               <birth>
+                  <date>1861-11-17</date>
+                  <place>Magdeburg</place>
+               </birth>
+               <death>
+                  <date>1938-11-22</date>
+                  <place>Berlin</place>
+               </death>
+               <occupation>Historiker</occupation>
+            </person>
+            <person xml:id="fk__p_43391">
+               <persName>Förster, Friedrich Wilhelm</persName>
+               <birth>
+                  <date>1869-6-2</date>
+                  <place>Berlin</place>
+               </birth>
+               <death>
+                  <date>1966-1-9</date>
+                  <place>Kilchberg/Zürich</place>
+               </death>
+               <occupation>Pädagoge</occupation>
+               <occupation>Pazifist</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00841.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00840_a.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00842.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Die Regierung ist frohen Muthes. Was Graf Clary, in: Fackel Heft 01, Nr. 035, 1900, S. 14-14</title>
+            <title type="iso-date">1900-03-01</title>
+            <title type="id">tid_00841</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">035</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-035_n0014.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/035,014</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Die Regierung ist frohen Muthes. Was Graf Clary</head>
+            <p ana="pr8018">
+<space/>Die Regierung ist frohen Muthes. Was <rs type="pers" ana="n_6217" ref="#fk__p_44862">Graf Clary</rs><lb/>
+auf einem Umweg und ohne Erfolg versucht hat, das<lb/>
+ist <seg type="insult">Herrn <rs type="pers" ana="n_6218" ref="#fk__p_40952"><abbr>v.</abbr> Koerber</rs> und seinen Collegen</seg> ohne Mühe<lb/>
+gelungen: Die Förderung der Papierindustrie. Die Aufhebung<lb/>
+ des <rs type="event">Zeitungsstempels</rs> hat nichts genützt; aber<lb/>
+die Gesetzentwurfsfabrication in den letzten Wochen<lb/>
+hat den Verbrauch von Papier so sehr gesteigert, dass<lb/>
+die Fabrikanten eine Preiserhöhung verfügen konnten.<lb/>
+Jetzt, nach der Vertagung, werden die Gesetzentwürfe<lb/>
+der Regierung als <seg type="insult"><foreign xml:lang="la">Maculatur levis</foreign></seg> von den Abgeordneten<lb/>
+ an die Greisler verkauft. Herr <rs type="pers" ana="n_6219" ref="#fk__p_45909">Bielohlawek</rs><lb/>
+macht <seg type="insult">dieses Geschäft »in sich«</seg>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_45909">
+               <persName>Bielohlawek, Hermann</persName>
+               <birth>
+                  <date>1861-8-2</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1918-6-30</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <note type="comment">1897-1911 Reichsratsabgeordneter</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10922</idno></person>
+            <person xml:id="fk__p_44862">
+               <persName>Clary-Aldringen, Manfred Graf</persName>
+               <birth>
+                  <date>1852-05-30</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1928-02-12</date>
+                  <place>Schloß Hernau/Salzburg</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <note type="comment">1898-1918 Statthalter der Steiermark, Ministerpräsident von Cisleithanien, Herrenhausmitglied</note>
+               <note type="comment">2.10.1899 bis 21.12.1899 Min.präs. und Ackerbauminister, sollte die Badenische Sprachenverordnung zurücknehmen</note>
+            </person>
+            <person xml:id="fk__p_40952">
+               <persName>Koerber, Ernest von</persName>
+               <birth>
+                  <date>1850-11-6</date>
+                  <place>Trient</place>
+               </birth>
+               <death>
+                  <date>1919-3-4</date>
+                  <place>Baden bei Wien</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <note type="comment">Handels-, Innen-, Justizminister, 1900-04, Okt. bis Dez. 1916 Ministerpräsident</note>
+               <note type="comment">Handels-, Innen-, Justizminister, 1900-04, Okt. bis Dez. 1916 Ministerpräsident</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11955</idno></person>
+            </listPerson></back></text>
+</TEI>

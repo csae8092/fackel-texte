@@ -1,0 +1,42 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_10157.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10156.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10158.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Reiflich Erwogenes, in: Fackel Heft 27, Nr. 686, 1925, S. 79-79</title>
+            <title type="iso-date">1925-05-01</title>
+            <title type="id">tid_10157</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">27</title><title type="heft">686</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-27-686_n0079.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/686,079</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Reiflich Erwogenes</head>
+            <p ana="pr138425">
+<space/><seg type="sidehead"><rs type="pers" ana="n2_7549" key="#fk__p_57418"><AUCTOR notation="symbol"><seg type="symbol" subtype="asterisk"/></AUCTOR></rs> <seg type="spc">Die Prothese gestohlen</seg>.</seg> Ein Dieb hat am <date>3. <abbr>d.</abbr></date> dem<lb/>
+Straßenmusikanten <rs type="pers" ana="n_84945" ref="#fk__p_46956">Johann Weininger</rs>, Meiselstraße wohnhaft, in der<lb/>
+Branntweinschenke, Alserstraße <abbr>Nr.</abbr> 7, die Fußprothese, einen Lederfuß<lb/>
+ im Werte von 300 Schilling, gestohlen. Den Krüppel trifft der<lb/>
+Diebstahl ungemein schmerzlich, da er ohne die Prothese ganz hilflos<lb/>
+ist. Den Diebstahl begangen zu haben, ist ein Invalide verdächtig.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46956">
+               <persName>Weininger, Johann</persName>
+               <birth>
+                  <date>1859-2-20</date>
+                  <place>Schöngrabern</place>
+               </birth>
+               <occupation>Musiker</occupation>
+               <note type="comment">15., Meiselstraße (im Text)</note>
+               <note type="comment">Hausierer? 12., Roesnergasse 3</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

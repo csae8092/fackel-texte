@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02581.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02580.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02582.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Zwei Concurrenten, in: Fackel Heft 04, Nr. 111, 1902, S. 30-30</title>
+            <title type="iso-date">1902-08-5</title>
+            <title type="id">tid_02581</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">04</title><title type="heft">111</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-04-111_n0030.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/111,030</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Zwei Concurrenten</head>
+            <p ana="pr25087">
+<space/>Seit einiger Zeit wird jeder, der im »<rs type="paperRef" ana="werk_8694">Kleinen Anzeiger</rs>« des<lb/>
+‚<rs type="paper" ana="werk_8695">Neuen Wiener Tagblatt</rs>‘ annonciert, durch ein Circular <seg type="insult">des Herrn<lb/>
+<rs type="pers" ana="n_21742" ref="#fk__p_46698"><abbr>J.</abbr> Lippowitz</rs></seg> belästigt: man möge nächstens bei <seg type="spc">ihm</seg> annoncieren,<lb/>
+das ‚<rs type="paper" ana="werk_8696">Neue Wiener Journal</rs>‘ nehme das Inserat »<seg type="spc">ganz umsonst</seg>«;<lb/>
+man braucht nur eine Einschreibgebühr zu bezahlen. <seg type="insult"><rs type="pers" ana="n_21743" ref="#fk__p_46698"><abbr>J.</abbr> Lippowitz</rs></seg><lb/>
+steht vor der Thür des <rs type="pers" ana="n_21744" ref="#fk__p_55546">Wilhelm Singer</rs> und fängt die herauskommenden<lb/>
+ Kunden ab.<lb/>
+</p>
+            <p ana="pr25088">
+<space/>Wer in der <seg type="insult">Judengasse</seg> bei <seg type="insult"><rs type="pers" ana="n_21745" ref="#fk__p_55546">Wolwele Singer</rs></seg> eine Hose kauft,<lb/>
+dem rennt <seg type="insult"><rs type="pers" ana="n_21746" ref="#fk__p_46698">Jehuda Lippowitz</rs></seg> nach und zerrt ihn in sein Local:<lb/>
+man möge bei ihm einen Rock kaufen; er gebe die Kleider <seg type="spc">halb<lb/>
+umsonst</seg>.<lb/>
+</p>
+            <p ana="pr25089">
+<space/>Aber <seg type="insult"><rs type="pers" ana="n_21747" ref="#fk__p_46698">Jehuda Lippowitz</rs></seg>, der immer schreit, dass es »ihm<lb/>
+selber höher kommt«, und dessen Princip »fort mit Schaden!«<lb/>
+lautet, ist <seg type="insult">ein schlichter Trödeljude</seg>. Er bleibt im Ghetto und<lb/>
+stolziert nicht auf der Ringstraße herum.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46698">
+               <persName>Lippowitz, Jakob (Siegmund)</persName>
+               <birth>
+                  <date>1865-10-9</date>
+                  <place>Leipzig</place>
+               </birth>
+               <death>
+                  <date>1934-7-4</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17583</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/4054</idno></person>
+            <person xml:id="fk__p_55546">
+               <persName>Singer, Wilhelm (Vilmos, Wolwele)</persName>
+               <birth>
+                  <date>1847-11-26</date>
+                  <place>Bisenz/Mähren</place>
+               </birth>
+               <death>
+                  <date>1917-10-10</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <note type="comment">Ögg gibt 706/56 Sándor Singer</note>
+               <note type="comment">Ögg gibt Wilhelm Singer auch F 25/12</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_20141</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2202</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01912.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01911.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01913.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Leimspindeln), in: Fackel Heft 03, Nr. 080, 1901, S. 28-28</title>
+            <title type="iso-date">1901-06-01</title>
+            <title type="id">tid_01912</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">03</title><title type="heft">080</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-03-080_n0028.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/080,028</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Leimspindeln)</head>
+            <p ana="pr18717">
+<space/>Herr <rs type="pers" ana="n_15756" ref="#fk__p_47583"><abbr>Dr.</abbr> Lueger</rs> wird in der ‚<seg ana="Neuen Freien Presse"/>‘ vom<lb/>
+<date>8. Juni</date> folgendermaßen abgekanzelt:<lb/>
+</p>
+            <p ana="pr18719">
+<space/>»<QUOTE rn="1" sourceID="FK-03-080_n0028_a">Die goldenen <seg type="spc">Eier</seg>, die er den Lehrern zu legen versprochen<lb/>
+, waren nur gewöhnliche <seg type="insult"><seg type="spc">Leimspindeln</seg></seg>, an denen<lb/>
+einige <seg type="insult">Gimpel</seg> zappelnd hängen geblieben sind. Das <seg type="insult"><seg type="spc">Fangnetz</seg></seg>,<lb/>
+das er unter dem Namen: ‚<rs type="title">Verein der Lehrer und Schulfreunde</rs>‘ ausgeworfen<lb/>
+, ist durchlöchert und zerfetzt. Auch die <seg type="insult"><seg type="spc">Hungerpeitsche</seg></seg>,<lb/>
+die er gegen die Lehrer schwingt, hat ihre Wirkung verloren.</QUOTE>«<lb/>
+</p>
+            <p ana="pr18721">
+<space/>Das einzige, was demnach Herr <rs type="pers" ana="n_15757" ref="#fk__p_47583"><abbr>Dr.</abbr> Lueger</rs> noch zuwege<lb/>
+bringt, ist: <seg type="spc"><seg type="insult">Leimspindeln</seg> legen</seg>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_47583">
+               <persName>Lueger, Karl</persName>
+               <birth>
+                  <date>1844-10-24</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1910-3-10</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <note type="comment">Rosa Lueger (Schwester) gest. Wien 24.09.1920</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/3561</idno></person>
+            </listPerson></back></text>
+</TEI>

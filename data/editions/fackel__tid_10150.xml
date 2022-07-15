@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_10150.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10149.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10151.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Der Herzschlag Europas, in: Fackel Heft 27, Nr. 686, 1925, S. 74-74</title>
+            <title type="iso-date">1925-05-01</title>
+            <title type="id">tid_10150</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">27</title><title type="heft">686</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-27-686_n0074.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/686,074</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Der Herzschlag Europas</head>
+            <p ana="pr138364">
+<space/>»<rs type="magazine" ana="werk_26759">Das neue Europa</rs>.« Diese allen Fragen der Politik und der<lb/>
+Kultur offene Zeitschrift ist in gewissem Sinne der Herzschlag des<lb/>
+erneuerten unter schweren Kämpfen nach Klärung ringenden Europas.<lb/>
+Ihr Leiter, <rs type="pers" ana="n_84917" ref="#fk__p_41627"><abbr>Dr.</abbr> Paul Hohenau</rs><lb/>
+</p>
+            <p ana="pr138366">
+ist <seg type="insult">der Sohn <rs type="pers" ana="n_84918" ref="#fk__p_52708">Salo Cohns</rs></seg>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_41627">
+               <persName>Cohn, Paul</persName>
+               <birth>
+                  <date>1872-9-25</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1944-9-2</date>
+                  <place>San Francisco, Kal.</place>
+               </death>
+               <occupation>Chemiker</occupation>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Tochter Charlotte (Loli) Altmünster 13.09.1898-1973</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/6681</idno></person>
+            <person xml:id="fk__p_52708">
+               <persName>Cohn, Salo</persName>
+               <birth>
+                  <date>1842-12-18</date>
+                  <place>Breslau</place>
+               </birth>
+               <death>
+                  <date>1917-4-25</date>
+                  <place>Breitenstein</place>
+               </death>
+               <occupation>Börsenmakler</occupation>
+               <note type="comment">von Ögg mit Salomon Kohn, Schriftsteller (1825-1904) identifiziert</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

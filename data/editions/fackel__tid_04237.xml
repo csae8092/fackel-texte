@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_04237.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04236.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04238.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Sprachkünstler. (Ein Fall von Benediktion), in: Fackel Heft 08, Nr. 207, 1906, S. 26-26</title>
+            <title type="iso-date">1906-07-23</title>
+            <title type="id">tid_04237</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">08</title><title type="heft">207</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-08-207_n0026.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/207,026</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Sprachkünstler. (Ein Fall von Benediktion)</head>
+            <p ana="pr45703">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="name_203654" key="#fk__p_60723">Sprachkünstler</rs>.</seg></seg></seg> In einem Nachruf für den ehemaligen Direktor<lb/>
+der <rs type="inst">Donau-Dampfschiffahrts-Gesellschaft</rs>, <rs type="pers" ana="n_36882" ref="#fk__p_49804">Martin Ritter von Cassian</rs>,<lb/>
+schreibt die ‚<rs type="paper" ana="werk_14749">Neue Freie Presse</rs>‘: »Er gehörte zum alten Typus der<lb/>
+Direktoren an der Spitze von Transportanstalten <seg type="symbol" subtype="3dots"/>« Wie sieht <seg type="insult">so<lb/>
+etwas</seg> aus? <seg type="insult">Herr <rs type="pers" ana="n_36883" ref="#fk__p_50373">Benedikt</rs></seg> — <seg type="insult">die Diktion dieses bocksprunghaften<lb/>
+Stilisten, die <rs type="pers" ana="n_36884" ref="#fk__p_50373">Benediktion</rs></seg>, die an verstorbenen <seg type="insult">Finanzleuten</seg> geübt wird,<lb/>
+ist unverkennbar — hätte gewiß nicht schreiben können: »Er gehörte<lb/>
+zum alten Typus des Direktors einer Transportanstalt«. Erst durch die<lb/>
+stilistische Unmöglichkeit, durch die Entfernung des Wortes »Transportanstalt<lb/>
+« vom »Typus«, wird die begriffliche Unmöglichkeit, die<lb/>
+Entfernung <seg type="insult">der phantastischen <choice><sic>Kullissenwelt</sic><corr>Kulissenwelt</corr></choice> des Herrn <rs type="pers" ana="n_36885" ref="#fk__p_50373">Benedikt</rs></seg> von<lb/>
+der Wirklichkeit, offenbar. Wie also sieht <seg type="insult">der alte Typus der Direktoren<lb/>
+an der Spitze von Transportanstalten</seg> aus? <seg type="insult">Anderen Donau-Dampfschiffern<lb/>
+</seg> hätte <seg type="insult">Herr <rs type="pers" ana="n_36886" ref="#fk__p_50373">Benedikt</rs></seg> einen verständlicheren Nachruf gehalten.<lb/>
+Etwa: »Er war <seg type="insult"><RS persTitle="Shakespeare" title="Hamlet">ein Mann: <seg type="spc">nehmt alles nur in allem</seg></RS></seg> <seg type="symbol" subtype="3dots"/>«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_49804">
+               <persName>Cassian, Martin Ritter von</persName>
+               <birth>
+                  <date>1826?</date>
+               </birth>
+               <death>
+                  <date>1906-7-10</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Direktor der Donau-Dampfschiffahrts-Gesellschaft</occupation>
+               <note type="comment">ZF 59 A/3, 12.7.1906 (FD)</note>
+            </person>
+            <person xml:id="fk__p_50373">
+               <persName>Benedikt, Moriz</persName>
+               <birth>
+                  <date>1849-5-27</date>
+                  <place>Kwatschitz/Mähren</place>
+               </birth>
+               <death>
+                  <date>1920-3-18</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <note type="comment">Geburtsort Kwatschitz bei Ungarisch Hradisch/Mähren, nicht Kwassitz bei Kremsier</note>
+               <note type="comment">1. Tor, 20/1/1a</note>
+               <note type="comment">Hrsg. der NFP (seit 1908 alleiniger Leiter)</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10875</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_10329.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10328.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10330.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Eine gründliche Erörterung, in: Fackel Heft 27, Nr. 697, 1925, S. 108-109</title>
+            <title type="iso-date">1925-10-01</title>
+            <title type="id">tid_10329</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">27</title><title type="heft">697</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-27-697_n0108.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/697,108</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Eine gründliche Erörterung</head>
+            <p ana="pr140455">
+<space/>Ein Leser aus Cassel schreibt:<lb/>
+</p>
+            <p ana="pr140457">
+<space/>Dem Herausgeber der <rs type="self" ana="werk_27063">Fackel</rs> zur Kenntnisnahme, in der <FERR id="ferr_144" fcorrID="fcorr_144" href="FK-28-743_n0064.xml" emID="em_144"><ERR fcorr="Hoffnung">Hoffnng</ERR></FERR>,<lb/>
+ihm damit eine kleine Belustigung zu bereiten:<lb/>
+</p>
+            <p ana="pr140458">
+<space/><rs type="pers" ana="n_85882" ref="#fk__p_37800">Adolf <seg type="spc">Bartels</seg></rs>: <rs type="title"><seg type="insult">Jüdische Herkunft und Literaturwissenschaft</seg>.<lb/>
+Eine <seg type="spc">gründliche Erörterung</seg></rs>. Leipzig <date>1925</date>, <rs type="inst">Verlag des<lb/>
+<rs type="pers" ana="n2_7634" ref="#fk__p_37800"><seg type="spc">Bartels-Bundes</seg></rs></rs>.<lb/>
+</p>
+            <p ana="pr140459">
+<space/><abbr>S.</abbr> 131, <abbr>Z.</abbr> 10 <abbr>ff.</abbr>:<lb/>
+</p>
+            <p ana="pr140460">
+Neuerdings auch als Dichter bekannt ward <rs type="pers" ana="n_85883" ref="#fk__p_47565">Karl Kraus</rs> (aus Gitschin in<lb/>
+Böhmen, <date>1874</date> <abbr>geb.</abbr>), der <rs type="pers" ana="n_85884" ref="#fk__p_47565"><SPAN cont="Fackel-Kraus"><seg type="insult">»<rs type="selfRef" ana="werk_27064">Fackel«-Kraus</rs></seg></SPAN></rs>, der auch seinen <seg type="insult">Rassegenossen</seg><lb/>
+öfter die Wahrheit sagte. <seg type="spc">Was es mit seiner Dichtung auf<lb/>
+sich hat</seg>, <seg type="spc">weiß ich noch nicht</seg>.<lb/>
+</p>
+            <p ana="pr140462">
+Die Belustigung wird traun noch größer sein, wenn er es wissen<lb/>
+wird. Aber immerhin erfährt man schon jetzt, daß es einen<lb/>
+<rs type="inst"><rs type="pers" ana="n2_7635" ref="#fk__p_37800"><seg type="insult">Bartels-Bund</seg></rs></rs> gibt, und das gewährt in dieser zerrissenen Zeit<lb/>
+doch eine gewisse Zuversicht. Wenn <seg type="insult">die Herren Mitglieder</seg> mir<lb/>
+ihre Photographien einschicken wollten, wäre ich nicht abgeneigt,<lb/>
+sie zu veröffentlichen. Denn ich sage den <seg type="insult">Rassegenossen</seg> zwar<lb/>
+die Wahrheit, aber <seg type="insult">die von der andern Rasse</seg> sollen darum bei mir<lb/>
+auch nicht zu kurz kommen.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_47565">
+               <persName>Kraus, Karl</persName>
+               <birth>
+                  <date>1874-4-28</date>
+                  <place>Jicin, Böhmen</place>
+               </birth>
+               <death>
+                  <date>1936-6-12</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Publizist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11988</idno></person>
+            <person xml:id="fk__p_37800">
+               <persName>Bartels, Adolf</persName>
+               <birth>
+                  <date>1862-11-15</date>
+                  <place>Wesselburen</place>
+               </birth>
+               <death>
+                  <date>1945-03-07</date>
+                  <place>Weimar</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Kulturpolitiker</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

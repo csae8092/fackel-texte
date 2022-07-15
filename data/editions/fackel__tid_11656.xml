@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_11656.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11655.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11657.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Die Macht der Vorstellung, in: Fackel Heft 32, Nr. 847, 1931, S. 80-81</title>
+            <title type="iso-date">1931-03-01</title>
+            <title type="id">tid_11656</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">32</title><title type="heft">847</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-32-847_n0080.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/847,080</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Die Macht der Vorstellung</head>
+            <p ana="pr169295">
+<space/>Von diesem Tage an hatte allerdings <rs type="pers" ana="n_101379" ref="#fk__p_43717"><seg type="spc">Dingelstedt</seg></rs> in der<lb/>
+Welt der österreichischen Aristokratie ausgespielt und auch der <seg type="spc">alte<lb/>
+<rs type="pers" ana="n_101380" ref="#fk__p_43514">Kaiser Franz Joseph</rs></seg> schüttelte den Kopf <seg type="symbol" subtype="3dots"/><lb/>
+</p>
+            <p ana="pr169297">
+Wiewohl er damals noch ziemlich jung war. Aber was vermag<lb/>
+man wider die Macht der Vorstellung! Historiker wissen offenbar<lb/>
+Näheres über die Umstände, unter denen <date>1830</date> der <foreign xml:lang="de-loc"><seg type="insult">guate alte<lb/>
+Herr</seg> im Kinderwagerl</foreign> im Schönbrunner Park herumgeführt wurde.<lb/>
+Bekannt ist ja schließlich auch die <rs type="inst">Burgtheateranekdote</rs> von der<lb/>
+Meldung aus <rs type="pers">Olims</rs> Zeiten: »Heute nacht ist der alte <rs type="pers" ana="n_101381" ref="#fk__p_59425">Arnsburg</rs><lb/>
+geboren worden«.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_43514">
+               <persName>Franz Joseph I., Kaiser</persName>
+               <birth>
+                  <date>1830-8-18</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1916-11-21</date>
+                  <place>Wien</place>
+               </death>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15150</idno></person>
+            <person xml:id="fk__p_59425">
+               <persName>Arnsburg, Friedrich Ludwig (Louis)</persName>
+               <birth>
+                  <date>1816-10-16</date>
+                  <place>Dresden</place>
+               </birth>
+               <death>
+                  <date>1891-8-23</date>
+                  <place>Badgastein</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <note type="comment">Matzleinsdorfer Friedhof ; Grab aufgelassen</note>
+               <note type="comment">Burgth. 1848-91; Hofschsp.</note>
+            </person>
+            <person xml:id="fk__p_43717">
+               <persName>Dingelstedt, Franz Freiherr von</persName>
+               <birth>
+                  <date>1814-06-30</date>
+                  <place>Halsdorf/Magdeburg</place>
+               </birth>
+               <death>
+                  <date>1881-05-15</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Theaterleiter</occupation>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">sein ältester Sohn Wilhelm Frh. v. D. (gest. 23.7.1917) heiratet 1892 Ernestine Negro</note>
+               <note type="comment">seine Tochter Susanna gest. in Graz 20.10.1921, im 70. Lj., NFP 22. 10. 21, S. 6</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/4142</idno></person>
+            </listPerson></back></text>
+</TEI>

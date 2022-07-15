@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_11076.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11075.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11077.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Hamburg, Curio-Haus, 18. bis 22. März, 8 Uhr:, in: Fackel Heft 31, Nr. 806, 1929, S. 59-59</title>
+            <title type="iso-date">1929-05-01</title>
+            <title type="id">tid_11076</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">31</title><title type="heft">806</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-31-806_n0059.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/806,059</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Hamburg, Curio-Haus, 18. bis 22. März, 8 Uhr:</head>
+            <p ana="pr159560">
+<space/><seg type="spc">Hamburg</seg>, <rs type="inst"><rs type="pers" ana="n2_8532" ref="#fk__p_58258">Curio-Haus</rs></rs>, <DATERANGE>18. bis 22. März</DATERANGE>, 8 Uhr:<lb/>
+</p>
+            <p ana="pr159561">
+<space/>(<rs type="pers" ana="n_95709" ref="#fk__p_46664">Offenbach-Zyklus</rs>, veranstaltet von der »<rs type="inst">Hamburger Bühne</rs>«)<lb/>
+</p>
+            <p ana="pr159562">
+<space/><rs type="title"><seg type="spc">Die <rs type="pers">Großherzogin von Gerolstein</rs></seg></rs> / <rs type="title"><rs type="pers"><seg type="spc">Blaubart</seg></rs></rs> /<lb/>
+<rs type="title"><seg type="spc">Die Briganten</seg></rs> / <rs type="title"><foreign xml:lang="fr"><seg type="spc">Madame l’Archiduc</seg></foreign></rs> / <rs type="title"><seg type="spc">Pariser Leben</seg></rs>.<lb/>
+</p>
+            <p ana="pr159563">
+<space/>Begleitung: <rs type="pers" ana="n_95710" ref="#fk__p_44298">Georg Knepler</rs>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_44298">
+               <persName>Knepler, Georg</persName>
+               <birth>
+                  <date>1906-12-21</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>2003-1-24</date>
+                  <place>Berlin</place>
+               </death>
+               <occupation>Pianist</occupation>
+               <occupation>Komponist</occupation>
+               <occupation>Musikwissenschaftler</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38611</idno></person>
+            <person xml:id="fk__p_46664">
+               <persName>Offenbach, Jacques</persName>
+               <birth>
+                  <date>1819-06-21</date>
+                  <place>Köln</place>
+               </birth>
+               <death>
+                  <date>1880-10-05</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Komponist</occupation>
+               <note type="comment">Ögg teilt Fortunato F 876/34 Shakespeare zu</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/9131</idno></person>
+            <person xml:id="fk__p_58258">
+               <persName>Curio, Johann Carl Daniel </persName>
+               <birth>
+                  <date>1754-11-5</date>
+                  <place>Helmstädt</place>
+               </birth>
+               <death>
+                  <date>1815-1-30</date>
+                  <place>Hamburg</place>
+               </death>
+               <occupation>Lehrer</occupation>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">gründete 1805 den ersten Lehrerverein der Welt in Hamburg</note>
+               <note type="comment">Hamburger Schriftsteller-Lexikon, Bd. 1, S. 615ff.</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

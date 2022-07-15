@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03401.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03400.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03402.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Habitué. (Ein Schäker), in: Fackel Heft 05, Nr. 150, 1903, S. 32-32</title>
+            <title type="iso-date">1903-12-23</title>
+            <title type="id">tid_03401</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">05</title><title type="heft">150</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-05-150_n0032.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/150,032</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Habitué. (Ein Schäker)</head>
+            <p ana="pr33722">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_29117" ref="#fk__p_45322">Habitué</rs>.</seg></seg> <seg type="insult">Herr <rs type="pers" ana="n_29118" ref="#fk__p_45908">Bahr</rs></seg> macht für eine Novität des <rs type="inst">Josephstädter<lb/>
+Theaters</rs> in folgender Art <seg type="insult">Reklame</seg>. Den Inhalt erklärt er nicht erzählen<lb/>
+zu können. »Gräßlich, sagen wir ‚amtlich‘ <seg type="symbol" subtype="3dots"/> Aber dabei <seg type="spc">tanzt uns</seg><lb/>
+heimlich <seg type="spc">das Blut vor Lust</seg>: denn denken Sie sich nur — aber nein,<lb/>
+schau’n Sie, es geht wirklich nicht, ich darf nicht, schöne Leserin! —<lb/>
+ich könnte es Ihnen höchstens in das niedliche Ohr flüstern. Verschleiern<lb/>
+Sie sich tief und legen Sie Rot auf (o, viel Rot, im dritten Akt können<lb/>
+Sie gar nicht genug Rot aufgelegt haben!) und schleichen Sie hin und<lb/>
+sehen Sie, hören Sie und Sie werden sich schrecklich schämen und,<lb/>
+Sie wissen doch, das ist <seg type="spc">so süß</seg>, <seg type="spc">so süß</seg> <seg type="symbol" subtype="3dots"/>« Herzig, nicht wahr?<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_45322">
+               <persName>Habitué</persName>
+            </person>
+            <person xml:id="fk__p_45908">
+               <persName>Bahr, Hermann</persName>
+               <birth>
+                  <date>1863-7-19</date>
+                  <place>Linz</place>
+               </birth>
+               <death>
+                  <date>1934-1-15</date>
+                  <place>München</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Kritiker</occupation>
+               <note type="comment">Ögg teilt auch 307/52, 445/49, 800/67 (Rotte Korah) Bahr zu</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10815</idno></person>
+            </listPerson></back></text>
+</TEI>

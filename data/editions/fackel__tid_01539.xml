@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01539.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01538.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01540.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Criminalist. (Der Chef der Criminalpolizei), in: Fackel Heft 02, Nr. 065, 1901, S. 31-32</title>
+            <title type="iso-date">1901-01-01</title>
+            <title type="id">tid_01539</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">065</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-065_n0031.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/065,031</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Criminalist. (Der Chef der Criminalpolizei)</head>
+            <p ana="pr15206">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="n_12637" ref="#fk__p_40147">Criminalist</rs>.</seg></seg></seg> Sie fragen, was <seg type="insult">Herr <rs type="pers" ana="n_12638" ref="#fk__p_50392"><seg type="spc">Stukart</seg></rs></seg> bei der Verhaftung<lb/>
+des Raubmörders <rs type="pers" ana="n_12639" ref="#fk__p_55258">Wanyek</rs> eigentlich zu thun hatte. Nun, ich glaube,<lb/>
+er hatte nicht so sehr <seg type="spc">bei</seg>, als <seg type="spc">nach</seg> der Verhaftung nichts zu thun.<lb/>
+Immerhin, er kam im Fiaker vorgefahren, repräsentierte <seg type="insult">»Chef der</seg><lb/>
+</p>
+            <p ana="pr15206">
+<seg type="insult">Criminalpolizei«</seg> und nahm alles selbst »in die Hand«. Auch <seg type="insult">der<lb/>
+Specialzeichner des ‚<rs type="" ana="werk_4808">Extrablatt</rs>‘</seg> — <seg type="insult">dieses Schandblatt</seg> feierte wieder <seg type="insult">wahre<lb/>
+Orgien des Blutrausches</seg> — war alsbald zur Stelle und nahm <seg type="insult">die historisch<lb/>
+denkwürdige Scene</seg> auf: »Der Raubmörder <rs type="pers" ana="n_12640" ref="#fk__p_55258">Wanyek</rs> wird von dem<lb/>
+<abbr>kais.</abbr> Rath <rs type="pers" ana="n_12641" ref="#fk__p_50392">Stukart</rs> verhört.« In der That: Der Raubmörder stand vor<lb/>
+<rs type="pers" ana="n_12642" ref="#fk__p_50392">Stukart</rs>. Oder stand <rs type="pers" ana="n_12643" ref="#fk__p_50392">Stukart</rs> vor dem Raubmörder? Wer von beiden<lb/>
+hatte in dem Moment sozusagen <seg type="insult">das stärkere »photographische Gefühl«</seg>?<lb/>
+Ich glaube, <seg type="insult">Herr <rs type="pers" ana="n_12644" ref="#fk__p_50392">Stukart</rs></seg> hat <seg type="insult">das Historische des Augenblicks</seg> intensiver<lb/>
+empfunden; mindestens soll er, als der <seg type="insult">Porträtist des ‚<rs type="" ana="werk_4809">Extrablatt</rs>‘</seg> kam,<lb/>
+<seg type="insult">»ein freundliches Gesicht«</seg> gemacht haben. Minder freundlich dürfte<lb/>
+das Gesicht seiner Vorgesetzten gewesen sein, als sie <seg type="insult">das anmuthige<lb/>
+Reclamebildchen im ‚<rs type="" ana="werk_4810">Extrablatt</rs>‘</seg> gewahrten <seg type="symbol" subtype="3dots"/><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_50392">
+               <persName>Stukart, Moriz</persName>
+               <birth>
+                  <date>1856-11-27</date>
+                  <place>Datschitz, Mähren</place>
+               </birth>
+               <death>
+                  <date>1919-11-16</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Polizeipräsident</occupation>
+               <note type="comment">9., Berggasse 41</note>
+               <note type="comment">Wien</note>
+            </person>
+            <person xml:id="fk__p_55258">
+               <persName>Wanyek, Stephan</persName>
+               <birth>
+                  <date>1877?</date>
+               </birth>
+               <death>
+                  <date>1901-5-22</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Mörder</occupation>
+               <note type="comment">die Tat erfolgte am 08.01.1901</note>
+            </person>
+            <person xml:id="fk__p_40147">
+               <persName>Criminalist</persName>
+            </person>
+            </listPerson></back></text>
+</TEI>

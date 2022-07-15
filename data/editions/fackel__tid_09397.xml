@@ -1,0 +1,46 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_09397.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09396.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09398.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Harthörige Spender), in: Fackel Heft 25, Nr. 613, 1923, S. 155-156</title>
+            <title type="iso-date">1923-04-01</title>
+            <title type="id">tid_09397</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">25</title><title type="heft">613</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-25-613_n0155.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/613,155</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Harthörige Spender)</head>
+            <p ana="pr125426">
+<space/>Jenen, die nicht hartherzig, nur harthörig sind, muß<lb/>
+immer wieder die Mahnung zuteil werden, Geldbeträge, die sie<lb/>
+mit Beziehung auf die <rs type="self" ana="werk_25012">Fackel</rs> spenden wollen, nicht an deren<lb/>
+Herausgeber oder Verlag, sondern an die Aktionen direkt<lb/>
+abzuführen — etwa unter gleichzeitiger Verständigung des<lb/>
+Verlags — und Beiträge für den <RS inst="Fonds zur Errichtung eines Grabsteines für Peter Altenberg" globID="name_203808">Grabfonds</RS> ausschließlich an<lb/>
+die Sammelstelle <rs type="inst"><rs type="pers" ana="n2_7026" ref="#fk__p_52185"><abbr>R.</abbr> Lányi</rs></rs>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_52185">
+               <persName>Lányi, Richard</persName>
+               <birth>
+                  <date>1884-12-9</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1942-5-28</date>
+                  <place>Konzentrationslager Auschwitz</place>
+               </death>
+               <occupation>Buchhändler</occupation>
+               <occupation>Verleger</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/20707</idno></person>
+            </listPerson></back></text>
+</TEI>

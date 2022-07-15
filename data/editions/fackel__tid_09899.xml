@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_09899.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09898.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09900.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Verse von Paul Verlaine), in: Fackel Heft 26, Nr. 657, 1924, S. 187-189</title>
+            <title type="iso-date">1924-08-01</title>
+            <title type="id">tid_09899</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">26</title><title type="heft">657</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-26-657_n0187.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/657,187</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Verse von Paul Verlaine)</head>
+            <p ana="pr134438">
+<space/><seg type="insult"><seg type="ELIDASH">Witzköpfe</seg> und seriöse Schwachköpfe</seg>, wähnend, daß ihrem<lb/>
+moralischen Horizont meine geistigen Entschließungen angepaßt<lb/>
+sein müssen, haben aus der scheinbaren Versöhnung der Presse<lb/>
+mit mir auf die meine mit ihr geschlossen und den Gedanken in<lb/>
+allen möglichen Variationen abgewandelt. Als eine der eindrucksvollsten<lb/>
+ erscheint mir aber doch wohl meine Beziehung zu dem<lb/>
+hauptsächlichen Inhalt der folgenden Verse, welche mir ein<lb/>
+Leser in der Abschrift des Originals zuschickt, das sich im<lb/>
+</p>
+            <p ana="pr134438">
+Besitze eines Wiener Antiquariates befindet. Die Einklammerungen<lb/>
+betreffen, wie der Sender bemerkt, orthographische Fehler und<lb/>
+Lesarten, die im Druck in den <rs type="title"><foreign xml:lang="fr">Oeuvres complètes</foreign></rs> geändert<lb/>
+wurden. Die Überschrift <foreign xml:lang="fr">»<rs type="title">Littérature</rs>«</foreign> stamme nicht von der<lb/>
+Hand des Dichters, sondern <foreign xml:lang="fr">»<rs type="title">Epitre</rs>«</foreign> sei der ursprüngliche Titel,<lb/>
+der aber später durchgestrichen wurde.<lb/>
+</p>
+            <lg><foreign xml:lang="fr">
+<seg type="insult">Bons camarades de la Presse</seg><lb/>
+<seg type="insult">Comme aussi de la Poésie</seg>,<lb/>
+<seg type="insult">Fleurs de muf(f)lisme et de bassesse</seg>,<lb/>
+<seg type="insult">Elite par quel Dieu choisi(e),</seg><lb/>
+<seg type="insult">Par quel Dieu de toute bassesse</seg>?<lb/></foreign>
+</lg>
+            <lg><foreign xml:lang="fr">
+<seg type="insult">Confrères mal frères de moi</seg><lb/>
+Qui m’enterriez presque jadis<lb/>
+Sous tout ce silence — pourquoi? —<lb/>
+Depuis l’affreux soixante-dix.<lb/>
+<seg type="insult">Confrères mal frère(s) de moi</seg>.<lb/></foreign>
+</lg>
+            <lg><foreign xml:lang="fr">
+Pourquoi ce silence <seg type="insult">mal frère</seg><lb/>
+Depuis de si longues années,<lb/>
+Et tout à coup, comme en colère<lb/>
+Ces (tant de) clameurs, comme étonnées,<lb/>
+Pourquoi ce changement <seg type="insult">mal frère</seg>?<lb/></foreign>
+</lg>
+            <lg><foreign xml:lang="fr">
+Ah, si l’on pouvait m’étouffer<lb/>
+Sous cette pile de journeaux<lb/>
+Où mon nom qu’on feint de trouver<lb/>
+Comme on rencontre des cerneaux<lb/>
+Se gonfle à le faire crever!<lb/></foreign>
+</lg>
+            <lg><foreign xml:lang="fr">
+C’est ce qu’on appelle la <seg type="insult">Gloire</seg><lb/>
+— Avec le droit à la famine,<lb/>
+A la grande Misère noire<lb/>
+Et presque jusqu’à la vermine —<lb/>
+C’est ce qu’on appelle la <seg type="insult">Gloire</seg>!<lb/></foreign>
+</lg>
+            <p ana="pr134446">
+<rs type="pers" ana="n_82509" ref="#fk__p_51263"><AUCTOR><seg type="spc">Paul Verlaine</seg></AUCTOR></rs><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_51263">
+               <persName>Verlaine, Paul</persName>
+               <birth>
+                  <date>1844-3-30</date>
+                  <place>Metz</place>
+               </birth>
+               <death>
+                  <date>1896-1-8</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/13011</idno></person>
+            </listPerson></back></text>
+</TEI>

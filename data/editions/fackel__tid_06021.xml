@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06021.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06020.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06022.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Das wird stimmen, in: Fackel Heft 14, Nr. 363, 1912, S. 55-55</title>
+            <title type="iso-date">1912-12-01</title>
+            <title type="id">tid_06021</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">14</title><title type="heft">363</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-14-363_n0055.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/363,055</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Das wird stimmen</head>
+            <p ana="pr81373">
+<space/><seg type="symbol" subtype="4dots"/> Ein eigenartiges Fest <seg type="symbol" subtype="4dots"/> Die ganze militärische Vergangenheit<lb/>
+ unseres Vaterlandes <seg type="symbol" subtype="4dots"/> Frau <rs type="pers" ana="n_56863" ref="#fk__p_42552">Else Ehrlich-Fränkel</rs> <seg type="symbol" subtype="4dots"/><lb/>
+<rs type="pers" ana="n_56864" ref="#fk__p_51702">Prinz Eugen</rs> <seg type="symbol" subtype="4dots"/> Eigenartige Empfindungen beschlichen die Zuschauer<seg type="symbol" subtype="4dots"/><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_42552">
+               <persName>Ehrlich-Fränkel, Elsa</persName>
+               <birth>
+                  <date>1874-3-26</date>
+                  <place>Wien</place>
+               </birth>
+               <occupation>Journalistin</occupation>
+               <note type="comment">9., Porzellangasse 48</note>
+               <note type="comment">Elsa Fränkel heiratet am 28.06.1910 Norbert Ehrlich, Redakteur (*Czernowitz April 1870)</note>
+               <note type="comment">Redakteurin des "Fremden-Blatt"</note>
+            </person>
+            <person xml:id="fk__p_51702">
+               <persName>Eugen, Prinz</persName>
+               <birth>
+                  <date>1663-10-18</date>
+                  <place>Paris</place>
+               </birth>
+               <death>
+                  <date>1736-04-21</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Feldherr</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

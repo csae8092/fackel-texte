@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01890.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01889.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01891.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Eine Enthüllung.), in: Fackel Heft 03, Nr. 079, 1901, S. 21-21</title>
+            <title type="iso-date">1901-06-01</title>
+            <title type="id">tid_01890</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">03</title><title type="heft">079</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-03-079_n0021.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/079,021</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Eine Enthüllung.)</head>
+            <p ana="pr18504">
+<space/>Eine Nachricht, geeignet, die größte Bestürzung im alldeutschen<lb/>
+, Schadenfreude im christlichsocialen Lager zu wecken:<lb/>
+Die ‚<rs type="" ana="werk_5949">Ostdeutsche Rundschau</rs>‘ hat in einem längeren Aufsatz<lb/>
+den Berliner Symbolisten <rs type="pers" ana="n_15568" ref="#fk__p_53580"><seg type="spc">Stefan George</seg></rs> verhimmelt, und siehe<lb/>
+da — <rs type="pers" ana="n_15569" ref="#fk__p_53580">Stefan George</rs> ist nichts als ein Symbol für <seg type="insult"><rs type="pers" ana="n_15570" ref="#fk__p_53580"><seg type="spc">Abeles</seg></rs></seg>. Die<lb/>
+Berliner Dichter heißen nämlich in der Regel <seg type="insult"><rs type="pers" ana="name_200796" ref="#fk__p_53580">Abeles</rs></seg>, und als solcher hat<lb/>
+sich ja bekanntlich auch <seg type="insult">Herrn <rs type="pers" ana="n_15571" ref="#fk__p_50936">Brahms</rs> jüngster naturalistischer Kostknabe<lb/>
+, Herr <rs type="pers" ana="n_15572" ref="#fk__p_54771">Vacano</rs></seg>, vor einer in diesem Falle gar nicht enttäuschten<lb/>
+Mitwelt entpuppt. <seg type="insult"><rs type="pers" ana="n_15573" ref="#fk__p_53580">Stefan George</rs> — ein <rs type="pers" ana="n_15574" ref="#fk__p_53580">Abeles</rs></seg>: das bedeutet nun<lb/>
+freilich <seg type="insult">eine der ärgsten Blamagen</seg> für <seg type="insult">die auf dem Rassenstandpunkt<lb/>
+stehende Literaturkritik</seg>, welche einen Schriftsteller, der zufällig<lb/>
+<rs type="pers" ana="n_15575" ref="#fk__p_46353">Hofmannsthal</rs> heißt, aber sonst ein gewiss feineres Formentalent ist<lb/>
+als <seg type="insult">Herr <rs type="pers" ana="n_15576" ref="#fk__p_53580">George</rs></seg>, erbarmungslos den <seg type="insult">»Literaturhebräern«</seg> zuzählt.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_53580">
+               <persName>George, Stefan</persName>
+               <birth>
+                  <date>1868-7-12</date>
+                  <place>Büdesheim bei Bingen</place>
+               </birth>
+               <death>
+                  <date>1933-12-4</date>
+                  <place>Locarno</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Übersetzer</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2437</idno></person>
+            <person xml:id="fk__p_46353">
+               <persName>Hofmannsthal, Hugo Edler von</persName>
+               <birth>
+                  <date>1874-2-1</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1929-7-15</date>
+                  <place>Rodaun bei Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16293</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11740</idno></person>
+            <person xml:id="fk__p_50936">
+               <persName>Brahm, Otto</persName>
+               <birth>
+                  <date>1856-2-5</date>
+                  <place>Hamburg</place>
+               </birth>
+               <death>
+                  <date>1912-11-28</date>
+                  <place>Berlin</place>
+               </death>
+               <occupation>Literarhistoriker</occupation>
+               <occupation>Regisseur</occupation>
+               <occupation>Theaterleiter</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10986</idno></person>
+            <person xml:id="fk__p_54771">
+               <persName>Vacano, Stefan</persName>
+               <birth>
+                  <date>1874-12-12</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1963</date>
+                  <place>Mallorca</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2957</idno></person>
+            </listPerson></back></text>
+</TEI>

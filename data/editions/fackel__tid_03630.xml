@@ -1,0 +1,48 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03630.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03629.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03631.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Klient. (Zu wenig), in: Fackel Heft 06, Nr. 163, 1904, S. 20-20</title>
+            <title type="iso-date">1904-05-31</title>
+            <title type="id">tid_03630</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">06</title><title type="heft">163</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-06-163_n0020.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/163,020</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Klient. (Zu wenig)</head>
+            <p ana="pr36104">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="name_202595" ref="#fk__p_47882">Klient</rs>.</seg></seg></seg> Es wird gemeldet: »Die <rs type="inst">niederösterreichische Advokatenkammer<lb/>
+</rs> hat den <seg type="ELIDASH">Hofadvokaten</seg> und Gerichtsadvokaten <rs type="pers" ana="n_31016" ref="#fk__p_41607"><abbr>Dr.</abbr> Otto Frischauer</rs> mit<lb/>
+Disziplinarerkenntnis auf sechs Monate suspendiert.« Warum nur auf<lb/>
+sechs Monate?<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_47882">
+               <persName>Klient</persName>
+            </person>
+            <person xml:id="fk__p_41607">
+               <persName>Frischauer, Otto</persName>
+               <birth>
+                  <date>1863-2-5</date>
+                  <place>Brünn</place>
+               </birth>
+               <death>
+                  <date>1942-8-4</date>
+                  <place>Konzentrationslager Theresienstadt</place>
+               </death>
+               <occupation>Rechtsanwalt</occupation>
+               <occupation>Journalist</occupation>
+               <note type="comment">Vater von Paul, Willi, Eduard, Leo und Fritz Frischauer</note>
+               <note type="comment">Chefred. des Wr. Tgbl.</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/16716</idno></person>
+            </listPerson></back></text>
+</TEI>

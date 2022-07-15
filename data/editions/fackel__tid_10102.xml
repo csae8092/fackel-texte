@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_10102.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10101.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10103.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">[Emanuel Geibel:] O Wunder sonder gleichen, wie im Laut, in: Fackel Heft 26, Nr. 679, 1925, S. 106-106</title>
+            <title type="iso-date">1925-03-01</title>
+            <title type="id">tid_10102</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">26</title><title type="heft">679</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-26-679_n0106.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/679,106</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>[Emanuel Geibel:] O Wunder sonder gleichen, wie im Laut</head>
+            <lg>
+<l>O Wunder sonder gleichen, wie im Laut</l>
+<l>Sich der Gedanke selbst das Haus gebaut!</l>
+<l>O zweites Wunder, wie dem Blick die Schrift</l>
+<l>Den Schall versinnlicht, der das Ohr nur trifft!</l>
+<l>Nicht Willkür schuf das Wort, sonst wär’ es hohl;</l>
+<l>Es ist des Geists notwendiges Symbol.</l>
+</lg>
+            <p ana="pr137451">
+<rs type="pers" ana="n_84436" ref="#fk__p_42584"><AUCTOR>Emanuel Geibel</AUCTOR></rs>.<lb/>
+</p>
+            <p ana="pr137453">
+<space/>In Dankbarkeit für die letzte Vorlesung der »<rs type="title"><rs type="pers">Pandora</rs></rs>«<lb/>
+schickt ein freundlicher Leser aus der Provinz das Zitat, es mit<lb/>
+einer jenseitigen Welt verknüpfend, mit der der Autor des Sinnspruchs<lb/>
+ wohl durch so edle Empfindung, doch nicht durch seine<lb/>
+Persönlichkeit verbunden war, die ihn dafür den Deutschen<lb/>
+weit zugänglicher gemacht hat, als <rs type="pers" ana="n_84437" ref="#fk__p_46960">Goethe</rs> die »<rs type="title"><rs type="pers">Pandora</rs></rs>«.<lb/>
+Immerhin ein <seg type="insult">Epigone</seg>, der als ein einziger <rs type="pers" ana="n_84438" ref="#fk__p_42584">Geibel</rs> heute <seg type="insult">ein<lb/>
+Schock <seg type="symbol" subtype="equals"/> vier Mandel <seg type="symbol" subtype="equals"/> sechzig <rs type="pers" ana="n_84441" ref="#fk__p_55392">Werfel</rs> von Originalen</seg> aufwiegt.<lb/>
+Wie das Wunder doch nicht hergestellt, nur berufen ist — eben<lb/>
+dies wird in dem »zweiten Wunder« als Schall versinnlicht.<lb/>
+Und dennoch ist das Wort nicht hohl, nicht von <seg type="insult">»Willkür« (als<lb/>
+Mache)</seg> geschaffen. Freilich auch nicht von jener Willkür, der<lb/>
+als Macht gedachten, die es verwandelt und schafft.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_42584">
+               <persName>Geibel, Emanuel</persName>
+               <birth>
+                  <date>1815-10-17</date>
+                  <place>Lübeck</place>
+               </birth>
+               <death>
+                  <date>1884-4-6</date>
+                  <place>Lübeck</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11413</idno></person>
+            <person xml:id="fk__p_46960">
+               <persName>Goethe, Johann Wolfgang von</persName>
+               <birth>
+                  <date>1749-8-28</date>
+                  <place>Frankfurt am Main</place>
+               </birth>
+               <death>
+                  <date>1832-3-22</date>
+                  <place>Weimar</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">890/142f.</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11461</idno></person>
+            <person xml:id="fk__p_55392">
+               <persName>Werfel, Franz</persName>
+               <birth>
+                  <date>1890-9-10</date>
+                  <place>Prag</place>
+               </birth>
+               <death>
+                  <date>1945-8-26</date>
+                  <place>Beverly Hills, Kalif.</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/13094</idno></person>
+            </listPerson></back></text>
+</TEI>

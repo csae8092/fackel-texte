@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_05663.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05662.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05664.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ein neuer Titel, in: Fackel Heft 13, Nr. 343, 1912, S. 11-11</title>
+            <title type="iso-date">1912-03-01</title>
+            <title type="id">tid_05663</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">13</title><title type="heft">343</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-13-343_n0011.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/343,011</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ein neuer Titel</head>
+            <p ana="pr74557">
+ist ein gutes Auskunftsmittel. Damit <seg type="insult">die untergehende Menschheit</seg><lb/>
+nicht <seg type="insult">wie eine Hammelherde beim Donner</seg> flüchtet, wird sie<lb/>
+etikettiert. Immer neue Bezeichnungen müssen erfunden werden,<lb/>
+auf daß kein Durcheinander einreiße. Professor kann <seg type="insult">jeder Friseur</seg><lb/>
+werden, kaiserlicher Rat <seg type="insult">jeder Bankrottierer</seg>: da würde also wieder<lb/>
+ein Gedränge entstehen. Es handelt sich der Gottheit darum, auf<lb/>
+den ersten Blick die Leute zu erkennen, wenn etwas los ist. Wenn<lb/>
+also je hundert einen Titel haben, so läßt sich das Elend überblicken<lb/>
+. Nun gibt es einen, um den sich gewiß tausend reißen<lb/>
+werden, weil er rar ist, aber justament werden sie ihn nicht<lb/>
+kriegen, denn es muß eine Einteilung sein. <seg type="insult">Dem <rs type="inst">Concordiaballbericht<lb/>
+</rs>, dieser vollständigsten Statistik irdischer Nichtigkeiten</seg>, verdanken<lb/>
+ wir die Kenntnis eines Titels, der erst kürzlich erfunden worden<lb/>
+ist und der direkt <seg type="insult">etwas Bestechendes</seg> hat. Anwesend waren nämlich<lb/>
+<seg type="insult">»aus der Musikwelt«</seg>: <rs type="pers" ana="n_53502" ref="#fk__p_42169">Dworaczek</rs> schlechthin und vom »<rs type="inst"><rs type="pers" ana="n2_4707" ref="#fk__p_43574">Schubertbund<lb/>
+</rs></rs>« <seg type="insult">ein Vorstand, ein Ehrenchormeister, drei Schriftführer, ein<lb/>
+Archivar und — wer oder was?</seg> <seg type="insult">Drei »<seg type="spc">Sangräte</seg>«</seg> — oder wann<lb/>
+oder wie. <seg type="insult">Drei Sangräte!</seg> In Berlin gibt es nur vortragende Räte.<lb/>
+Wir haben <seg type="insult">Sangräte</seg>. <seg type="insult">Männer</seg>, die zugleich singen und raten können.<lb/>
+Ich wünsche mir einen Buben, der müßte mir sein Liedl singend<lb/>
+durch die Welt ziehen und wenn er dereinst neunzig Kilo wiegt,<lb/>
+<seg type="insult">Sangrat</seg> werden. Nun fragt mich einer, ob die <seg type="insult">Sangräte</seg> — es gibt<lb/>
+<seg type="insult">Sangräte</seg>, ich kann mich nicht fassen — vor oder nach <seg type="insult">den kaiserlichen<lb/>
+ Räten</seg> rangieren. Kleinliche Sorge des Zeremoniells! Es soll<lb/>
+<seg type="insult">der Sangrat mit dem kaiserlichen Rat</seg> gehen.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_43574">
+               <persName>Schubert, Franz Peter</persName>
+               <birth>
+                  <date>1797-1-31</date>
+                  <place>Wien-Lichtenthal</place>
+               </birth>
+               <death>
+                  <date>1828-11-19</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Komponist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12729</idno></person>
+            <person xml:id="fk__p_42169">
+               <persName>Dworatschek, Johann Nepomuk</persName>
+               <birth>
+                  <date>1863-11-11</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1924-1-23</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Musikpädagoge</occupation>
+               <note type="comment">Johann Nepomuk Dworatschek? Musiklehrer, 15., Fünfhausgasse 25</note>
+               <note type="comment">Namenskorrektur!</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

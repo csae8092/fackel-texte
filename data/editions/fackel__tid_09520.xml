@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_09520.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09519.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09521.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Was ist ein Tropf?, in: Fackel Heft 25, Nr. 622, 1923, S. 154-154</title>
+            <title type="iso-date">1923-06-01</title>
+            <title type="id">tid_09520</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">25</title><title type="heft">622</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-25-622_n0154.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/622,154</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Was ist ein Tropf?</head>
+            <p ana="pr127331">
+<space/>Die <seg type="insult"><seg ana="Schere"/></seg> erzählt:<lb/>
+</p>
+            <p ana="pr127333">
+<space/>Ein rheinischer Journalist war kürzlich im Wartesaal eines<lb/>
+bayrischen Bahnhofs Zeuge folgenden drolligen Vorkommnisses: Ein<lb/>
+Reisender unterhielt sich mit einem Einheimischen über die Ruhrbesetzung<lb/>
+. Der Einheimische sprach den Namen des Generals <rs type="pers" ana="n_78376" ref="#fk__p_40330">Degoutte</rs><lb/>
+nicht <rs type="pers" ana="n_78377" ref="#fk__p_40330"><SPAN norm="Degoutte">Degutt</SPAN></rs> sondern <rs type="pers" ana="n_78378" ref="#fk__p_40330"><SPAN norm="Degoutte">Degaute</SPAN></rs> aus. »Warum sagen Sie denn immer<lb/>
+<rs type="pers" ana="n_78379" ref="#fk__p_40330"><SPAN norm="Degoutte">Degaute</SPAN></rs>, das spricht man doch <rs type="pers" ana="n_78380" ref="#fk__p_40330"><SPAN norm="Degoutte">Degutt</SPAN></rs> aus. Verstehen Sie, <foreign xml:lang="fr">goutte</foreign><lb/>
+heißt auf deutsch Tropfen, der Mann heißt also eigentlich <abbr>v.</abbr> Tropfen«.<lb/>
+Der Bayer ward nicht verlegen. <foreign xml:lang="de-loc">»Ah, do sag’n S’ mir nix Neu’s.<lb/>
+Daß er a <seg type="insult">Tropf</seg> is, dös wissen mir scho lang! Un was für a<lb/>
+miserabliger!«</foreign> — <seg type="spc">Wobei hinzugefügt werden darf</seg>, daß das<lb/>
+Wort <seg type="insult">Tropf</seg> <seg type="spc">wohl auch außerhalb Bayerns</seg> die Bezeichnung<lb/>
+für <seg type="insult"><seg type="spc">nichtsnutziger Mensch</seg></seg> ist.<lb/>
+</p>
+            <p ana="pr127335">
+<space/>Aber <seg type="insult">Tropf</seg> ist doch eher die Bezeichnung für einen, der,<lb/>
+nur gewohnt auszuschneiden, sich einmal auch zum Kommentieren<lb/>
+ hinreißen läßt.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_40330">
+               <persName>Degoutte, Jean Marie Josephe</persName>
+               <birth>
+                  <date>1866-04-18</date>
+                  <place>Charnay/Dép. Rhone</place>
+               </birth>
+               <death>
+                  <date>1938-10-31</date>
+                  <place>Charnay/Dép. Rhone</place>
+               </death>
+               <occupation>Offizier</occupation>
+               <note type="comment">Namenskorrektur!</note>
+               <note type="comment">General</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

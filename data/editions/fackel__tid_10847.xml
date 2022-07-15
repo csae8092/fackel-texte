@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_10847.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10846.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10848.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Wir dürfen nicht Unmögliches verlangen, in: Fackel Heft 28, Nr. 751, 1927, S. 103-103</title>
+            <title type="iso-date">1927-02-01</title>
+            <title type="id">tid_10847</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">28</title><title type="heft">751</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-28-751_n0103.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/751,103</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Wir dürfen nicht Unmögliches verlangen</head>
+            <p ana="pr151130">
+<space/><rs type="pers" ana="n_90519" ref="#fk__p_43932">Kortners</rs> Körperlichkeit ist größer als die <rs type="pers" ana="n_90520" ref="#fk__p_49349">Beethovens</rs>, sie hat<lb/>
+die <rs type="pers" ana="n_90521" ref="#fk__p_49349">Beethovensche Gedrungenheit</rs>, eine mächtige Stirne und des<lb/>
+Schauspielers Profil ähnelt sogar der <rs type="pers" ana="n_90522" ref="#fk__p_49349">Beethoven-Maske</rs> von <date>1812</date>.<lb/>
+Dafür deckt sich wieder <rs type="pers" ana="n_90523" ref="#fk__p_43932">Kortners</rs> Blick nicht mit dem Eindruck, den<lb/>
+wir Spätergeborenen mit <rs type="pers" ana="n_90524" ref="#fk__p_49349">Beethoven</rs> verbinden. Aber wir dürfen nicht<lb/>
+Unmögliches verlangen.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_49349">
+               <persName>Beethoven, Ludwig van</persName>
+               <birth>
+                  <date>1770-12-17</date>
+                  <place>Bonn</place>
+               </birth>
+               <death>
+                  <date>1827-3-26</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Komponist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10866</idno></person>
+            <person xml:id="fk__p_43932">
+               <persName>Kortner, Fritz</persName>
+               <birth>
+                  <date>1892-5-12</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1970-7-22</date>
+                  <place>München</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <occupation>Regisseur</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11975</idno></person>
+            </listPerson></back></text>
+</TEI>

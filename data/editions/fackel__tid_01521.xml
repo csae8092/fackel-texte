@@ -1,0 +1,40 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01521.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01520.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01522.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Von der Technik, in: Fackel Heft 02, Nr. 064, 1901, S. 29-29</title>
+            <title type="iso-date">1901-01-01</title>
+            <title type="id">tid_01521</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">064</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-064_n0029.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/064,029</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Von der Technik</head>
+            <p ana="pr14983">
+kommt die Meldung, dass eine Demonstration der Studenten für<lb/>
+<seg type="insult">Herrn Hofrath <rs type="pers" ana="n_12354" ref="#fk__p_45590"><seg type="spc">Hauffe</seg></rs></seg> — bisher nicht stattgefunden hat.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_45590">
+               <persName>Hauffe, Leopold Ritter von</persName>
+               <birth>
+                  <date>1840-04-08</date>
+                  <place>Judenburg</place>
+               </birth>
+               <death>
+                  <date>1912-11-01</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Maschinenbautechniker</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

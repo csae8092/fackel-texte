@@ -1,0 +1,42 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_11325.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11324.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11326.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Berlin, Schwechtensaal, 8 Uhr, in: Fackel Heft 32, Nr. 834, 1930, S. 23-23</title>
+            <title type="iso-date">1930-05-01</title>
+            <title type="id">tid_11325</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">32</title><title type="heft">834</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-32-834_n0023.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/834,023</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Berlin, Schwechtensaal, 8 Uhr</head>
+            <p ana="pr164963">
+<space/><seg type="spc">Berlin</seg>, <rs type="inst"><rs type="pers" ana="n2_8817" ref="#fk__p_57923">Schwechtensaal</rs></rs>, 8 Uhr<lb/>
+</p>
+            <p ana="pr164964">
+<space/><date>7. März</date>:<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_57923">
+               <persName>Schwechten, Franz Heinrich</persName>
+               <birth>
+                  <date>1841-8-12</date>
+                  <place>Köln</place>
+               </birth>
+               <death>
+                  <date>1924-8-11</date>
+                  <place>Berlin</place>
+               </death>
+               <occupation>Architekt</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

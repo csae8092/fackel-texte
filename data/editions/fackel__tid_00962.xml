@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00962.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00961.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00963.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Der Ernst des Augenblicks.), in: Fackel Heft 02, Nr. 041, 1900, S. 12-12</title>
+            <title type="iso-date">1900-05-01</title>
+            <title type="id">tid_00962</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">041</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-041_n0012.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/041,012</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Der Ernst des Augenblicks.)</head>
+            <p ana="pr9337">
+<space/><inciptit>Wohin</inciptit> die <seg type="insult">amerikanisierende Sucht nach Untertiteln</seg> führen<lb/>
+kann, ersah man aus der Nummer des ‚<rs type="paper" ana="werk_2613">Neuen Wiener Tagblattes</rs>‘,<lb/>
+in der eine Rede des Ministerpräsidenten ungefähr folgendermaßen<lb/>
+eingeleitet war:<lb/>
+</p>
+            <p ana="pr9338">
+<space/>Es ergreift das Wort: <seg type="i"><rs type="pers" ana="n_7517" ref="#fk__p_40952"><abbr>Dr.</abbr> von Koerber</rs>:</seg><lb/>
+</p>
+            <p ana="pr9339">
+<seg type="insult"><seg type="i">Der Ernst des Augenblicks.</seg></seg><lb/>
+</p>
+            <p ana="pr9340">
+<space/><seg type="insult">Diese unwillkürliche und boshafte Prophezeiung des sonst so<lb/>
+zahmen Blattes</seg> wird vielleicht an <seg type="insult">Herrn <rs type="pers" ana="n_7518" ref="#fk__p_40952">Ernst von Koerber</rs></seg> als<lb/>
+spöttische Bezeichnung hängen bleiben. Sowie einst Herr <rs type="pers" ana="n_7519" ref="#fk__p_51543"><abbr>v.</abbr> Plener</rs> <seg type="insult">der<lb/>
+»<seg type="spc">Ernst der Situation</seg>«</seg> genannt wurde, wird er <seg type="insult">der »<seg type="spc">Ernst des<lb/>
+Augenblicks</seg>«</seg> heißen.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_51543">
+               <persName>Plener, Ernst von</persName>
+               <birth>
+                  <date>1841-10-14</date>
+                  <place>Eger</place>
+               </birth>
+               <death>
+                  <date>1923-4-30</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Politiker</occupation>
+            </person>
+            <person xml:id="fk__p_40952">
+               <persName>Koerber, Ernest von</persName>
+               <birth>
+                  <date>1850-11-6</date>
+                  <place>Trient</place>
+               </birth>
+               <death>
+                  <date>1919-3-4</date>
+                  <place>Baden bei Wien</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <note type="comment">Handels-, Innen-, Justizminister, 1900-04, Okt. bis Dez. 1916 Ministerpräsident</note>
+               <note type="comment">Handels-, Innen-, Justizminister, 1900-04, Okt. bis Dez. 1916 Ministerpräsident</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11955</idno></person>
+            </listPerson></back></text>
+</TEI>

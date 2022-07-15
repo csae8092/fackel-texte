@@ -1,0 +1,44 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06725.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06724.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06726.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Die Hinterbliebenen, in: Fackel Heft 16, Nr. 398, 1914, S. 10-10</title>
+            <title type="iso-date">1914-04-01</title>
+            <title type="id">tid_06725</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">16</title><title type="heft">398</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-16-398_n0010.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/398,010</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Die Hinterbliebenen</head>
+            <p ana="pr90718">
+<space/><seg type="symbol" subtype="4dots"/> Er war ein edler Mensch, ein seinem Berufe mit Leib und<lb/>
+Seele ergebener, hochgebildeter Offizier, ein Mann von ungewöhnlicher<lb/>
+Charakterstärke und Willenskraft. Die kriegsgeschichtliche Forschung<lb/>
+verliert in ihm einen ihrer hervorragendsten Vertreter, <seg type="spc">die <rs type="inst">Wehrmacht</rs></seg><lb/>
+einen überaus tüchtigen Offizier, der ihr zur Zierde gereichte. <seg ana="Die Neue&#10;Freie Presse"/> betrauert in Oberstleutnant <rs type="pers" ana="n_61794" ref="#fk__p_53695">Stöckl</rs> einen langjährigen getreuen<lb/>
+ Mitarbeiter in militärischen Fragen.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_53695">
+               <persName>Stöckl, Franz</persName>
+               <birth>
+                  <date>1867-05-24</date>
+                  <place>Wien (Meidling)</place>
+               </birth>
+               <death>
+                  <date>1914-03-18</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Offizier</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

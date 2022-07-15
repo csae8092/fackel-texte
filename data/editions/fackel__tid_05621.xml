@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_05621.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05620.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05622.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Man überschätzt das, in: Fackel Heft 13, Nr. 341, 1912, S. 9-9</title>
+            <title type="iso-date">1912-01-27</title>
+            <title type="id">tid_05621</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">13</title><title type="heft">341</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-13-341_n0009.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/341,009</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Man überschätzt das</head>
+            <p ana="pr73989">
+<space/><seg type="symbol" subtype="3dots"/> Nach Mitternacht hielt Vorstand <rs type="pers" ana="n_53055" ref="#fk__p_41170"><abbr>Dr.</abbr> Krückl</rs> die Neujahrsrede <seg type="symbol" subtype="2dots"/><lb/>
+Er wies auf die Sängerreisen hin, welche der <rs type="inst">Männergesangverein</rs> im<lb/>
+abgelaufenen Jahre unternommen hatte und die gewiß zum Frieden beigetragen<lb/>
+ haben, so nach Budapest und nach Italien. Diese Reisen seien<lb/>
+ein Versöhnungswerk gewesen. Die dritte Reise nach Brünn habe<lb/>
+bewiesen, daß das deutsche Volk mit dieser versöhnenden Mission des<lb/>
+Vereines einverstanden sei <seg type="symbol" subtype="3dots"/>«<lb/>
+</p>
+            <p ana="pr73991">
+<space/>Daß in der Politik Imponderabilien entscheiden, habe ich<lb/>
+oft gehört, verstehe es nicht und glaube es. Daß in der Politik die<lb/>
+<seg type="insult"><rs type="inst">Männergesangvereine</rs></seg> entscheiden, fürchte ich. Dennoch glaube ich,<lb/>
+man überschätzt die politische Wirkung des Liedes <foreign xml:lang="de-loc">»<rs type="title">Därf i’s Dirndl<lb/>
+liaben?</rs>«</foreign> Ich würde als König die Frage glatt mit »Nein!« beantworten<lb/>
+, <seg type="insult">die fünfhundert Herren</seg> ins Wirtshaus schicken und<lb/>
+Krieg führen.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_41170">
+               <persName>Krückl, Heinrich</persName>
+               <birth>
+                  <date>1860</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1941-5-11</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Rechtsanwalt</occupation>
+               <note type="comment">1., Helferstorferstr. 4</note>
+               <note type="comment"/>
+            </person>
+            </listPerson></back></text>
+</TEI>

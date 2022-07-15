@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01670.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01669.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01671.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Liebe Fackel!, in: Fackel Heft 02, Nr. 070, 1901, S. 26-26</title>
+            <title type="iso-date">1901-03-01</title>
+            <title type="id">tid_01670</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">070</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-070_n0026.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/070,026</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Liebe Fackel!</head>
+            <p ana="pr16714">
+<space/>Die folgende, dem <foreign xml:lang="fr">‚<seg ana="Figaro"/>‘</foreign> vom <date>5. März</date> entnommene Anekdote<lb/>
+ handelt von der <seg type="insult">Unabhängigkeit und Uneigennützigkeit eines<lb/>
+Claqueurs</seg>:<lb/>
+</p>
+            <p ana="pr16716">
+<space/><foreign xml:lang="fr"><seg type="insult">Un tapeur bien connu</seg> à son ami le<lb/>
+directeur de théâtre:</foreign><lb/>
+</p>
+            <p ana="pr16717">
+<space/><foreign xml:lang="fr">— Vous me rendrez cette justice,<lb/>
+mon cher, que moi, je ne vous demande<lb/>
+jamais de billets de faveur <seg type="symbol" subtype="3dotsEditor"/> A propos,<lb/>
+prêtez-moi donc un louis: j’ai l’intention<lb/>
+d’assister à votre représentation de ce soir!</foreign><lb/>
+</p>
+            <p ana="pr16719">
+<space/><foreign xml:lang="fr">Honny soit, qui pense</foreign> — an <seg type="insult">einen Kritiker des <rs type="inst">Deutschen<lb/>
+Volkstheaters</rs></seg>.<lb/>
+</p>
+            <p ana="pr16723">
+<space/>Die ‚<seg ana="Neue Freie Presse"/>‘ hat am <date>1. März</date> die folgende Beschreibung<lb/>
+ <seg type="insult">eines flüchtig gewordenen »gräflichen Wechselfälschers«</seg><lb/>
+gegeben:<lb/>
+</p>
+            <p ana="pr16725">
+<space/>»<rs type="pers" ana="n_13889" ref="#fk__p_44633">Graf Basselet</rs> hat eine <seg type="spc">hübsche</seg> äußere Erscheinung und ein<lb/>
+<seg type="spc">elegantes Auftreten</seg>. Als besondere Erkennungszeichen werden<lb/>
+angeführt, dass er ein <seg type="spc">Glasauge</seg> trägt und ein wenig <seg type="spc">hinkt</seg>.«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_44633">
+               <persName>Basselet de la Rosée, Friedrich Wilhelm Maria Graf</persName>
+               <birth>
+                  <date>1865-7-3</date>
+                  <place>München</place>
+               </birth>
+               <death>
+                  <date>1925-6-15</date>
+                  <place>München</place>
+               </death>
+               <occupation>Ingenieur</occupation>
+               <occupation>Photograph</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

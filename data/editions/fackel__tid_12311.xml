@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_12311.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_12310.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_12312.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ein Urteil, in: Fackel Heft 37, Nr. 909, 1935, S. 34-34</title>
+            <title type="iso-date">1935-05-01</title>
+            <title type="id">tid_12311</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">37</title><title type="heft">909</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-37-909_n0034.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/909,034</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ein Urteil</head>
+            <p ana="pr182086">
+<space/>Aus dem »<rs type="title">Wanderbuch eines verabschiedeten Landsknechtes<lb/>
+</rs>« von <rs type="pers" ana="n_107745" ref="#fk__p_44021">Fürst Friedrich Schwarzenberg</rs> (Wien <DATERANGE>1844—48</DATERANGE>):<lb/>
+</p>
+            <p ana="pr182088">
+<space/>— — Ich halte diesen <rs type="pers" ana="n_107746" ref="#fk__p_46919"><seg type="spc">Nestroy</seg></rs> für eine unserer merkwürdigsten<lb/>
+ dramatischen Erscheinungen, sowohl als Dichter wie als Schauspieler<lb/>
+. Es liegt in seinen Erzeugnissen nicht allein eine tiefe Bedeutung<lb/>
+, sondern auch der wahre, kräftige Geist des Volksstücks!<lb/>
+— — in <rs type="pers" ana="n_107747" ref="#fk__p_46919">Nestroy</rs> lebt ein wirklich <rs type="pers" ana="n_107748" ref="#fk__p_55589"><SPAN cont="Shakespearescher"><seg type="spc">Shakespeares</seg>cher</SPAN> Geist</rs>,<lb/>
+-Humor und Witz. — —<lb/>
+</p>
+            <p ana="pr182089">
+<space/>— — mir hat kein Lustspiel mehr Stoff zum Denken gegeben, als<lb/>
+»<rs type="title">Ebene Erde und 1. Stock</rs>«, <seg type="spc">der klassische <rs type="title"><rs type="pers">Lumpazivagabundus<lb/>
+</rs></rs></seg>, und der <rs type="title">Talisman</rs>. Nach meiner Ansicht ist <rs type="pers" ana="n_107749" ref="#fk__p_46919">Nestroy</rs> demnach<lb/>
+nicht allein jetzt, sondern im Allgemeinen ein echter <seg type="spc">Volksdichter</seg>,<lb/>
+und ich bin überzeugt, daß die Zukunft mein Urtheil bestätigen, und<lb/>
+ihm einen ausgezeichneten Platz unter den dramatischen Notabilitäten<lb/>
+Deutschlands anweisen wird. Waren ja selbst der große <rs type="pers" ana="n_107750" ref="#fk__p_55589">Shakespeare</rs><lb/>
+und <rs type="pers" ana="n_107751" ref="#fk__p_50292">Molière</rs> Komödianten, auf welche die damalige vornehme Welt<lb/>
+mit Mitleiden herabsah; allein <rs type="pers" ana="n_107752" ref="#fk__p_55589">Shakespeare’s</rs> Genius schwebt unsterblich<lb/>
+ über der Bühne, welche er heiligte, und der Philosoph, welcher<lb/>
+einen <rs type="pers">Tartüffe</rs> zeichnete, wird unvergeßlich bleiben, wenn längst die<lb/>
+<seg type="insult">flachen, wässerigen Leistungen</seg> seiner damals viel höher geschätzten<lb/>
+Kollegen sich im Laufe der Zeit verdünstet haben werden.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_55589">
+               <persName>Shakespeare, William</persName>
+               <birth>
+                  <date>1564-4-23?</date>
+                  <place>Stratford-upon-Avon</place>
+               </birth>
+               <death>
+                  <date>1616-4-23</date>
+                  <place>Stratford-upon-Avon</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2412</idno></person>
+            <person xml:id="fk__p_46919">
+               <persName>Nestroy, Johann Nepomuk</persName>
+               <birth>
+                  <date>1801-12-7</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1862-5-25</date>
+                  <place>Graz</place>
+               </death>
+               <occupation>Sänger</occupation>
+               <occupation>Schauspieler</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12338</idno></person>
+            <person xml:id="fk__p_44021">
+               <persName>Schwarzenberg, Friedrich Fürst zu</persName>
+               <birth>
+                  <date>1799-9-30</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1870-3-6</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Offizier</occupation>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">"Wanderbuch eines verabschiedten Landsknechtes"</note>
+            </person>
+            <person xml:id="fk__p_50292">
+               <persName>Molière</persName>
+               <birth>
+                  <date>1622-1-15</date>
+                  <place>Paris</place>
+               </birth>
+               <death>
+                  <date>1673-2-17</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Theaterleiter</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/3272</idno></person>
+            </listPerson></back></text>
+</TEI>

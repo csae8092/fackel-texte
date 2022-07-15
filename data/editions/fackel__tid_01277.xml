@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01277.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01276.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01278.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Genealog. (Genealogisches), in: Fackel Heft 02, Nr. 054, 1900, S. 27-27</title>
+            <title type="iso-date">1900-09-01</title>
+            <title type="id">tid_01277</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">054</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-054_n0027.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/054,027</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Genealog. (Genealogisches)</head>
+            <p ana="pr12252">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="n_10066" ref="#fk__p_44264">Genealog</rs>.</seg></seg></seg> Die ‚<rs type="paper" ana="werk_3836">Neue Freie Presse</rs>‘ erzählte am <date>22. September</date>,<lb/>
+dass sich das Verlobungsgerücht im Hause <rs type="pers" ana="n_10067" ref="#fk__p_44822">Taaffe</rs> »auf die <seg type="spc">ältere<lb/>
+Schwester</seg> der <rs type="pers" ana="n_10068" ref="#fk__p_40061">Comtesse Louise</rs>, die verehelichte <rs type="pers" ana="n_10069" ref="#fk__p_38881">Baronin Helene<lb/>
+Mattencloit</rs>«, beziehe, und versicherte gleich darauf, <rs type="pers" ana="n_10070" ref="#fk__p_38881">Baronin Mattencloit</rs><lb/>
+sei die »<seg type="spc">jüngste Tochter</seg> des verewigten Ministerpräsidenten <rs type="pers" ana="n_10071" ref="#fk__p_44822">Grafen<lb/>
+Eduard Taaffe</rs>«. Jetzt kennt sich der <rs type="pers" ana="n_10072" ref="#fk__p_40987"><abbr>Dr.</abbr> Feldmann</rs> selbst nicht mehr<lb/>
+aus <seg type="symbol" subtype="3dots"/><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_40061">
+               <persName>Taaffe, Louise Comtesse</persName>
+               <birth>
+                  <date>1868-6-28</date>
+                  <place>Wien-Ober St. Veit</place>
+               </birth>
+               <note type="comment">im Gotha 1941 nicht erwähnt</note>
+               <note type="comment"/>
+            </person>
+            <person xml:id="fk__p_38881">
+               <persName>Mattencloit-Ubelli, Helene Baronin von, geb. Gräfin Taaffe</persName>
+               <birth>
+                  <date>1870-9-29</date>
+                  <place>München</place>
+               </birth>
+               <note type="comment">gesch., wiederverh. (Budapest 17. 10. 1904) Julius Demkö (Ehe annulliert 1925)</note>
+            </person>
+            <person xml:id="fk__p_44264">
+               <persName>Genealog</persName>
+            </person>
+            <person xml:id="fk__p_40987">
+               <persName>Feldmann, Julius</persName>
+               <birth>
+                  <date>1869</date>
+                  <place>Kaschau/Ungarn</place>
+               </birth>
+               <occupation>Arzt</occupation>
+               <note type="comment">Helene, die Tochter Taaffes, heiratet ihn in 2. Ehe (Budapest 17.10.1904), annull. 1925</note>
+               <note type="comment">Namensänderung in Demkö</note>
+               <note type="comment">in Kaschau</note>
+            </person>
+            <person xml:id="fk__p_44822">
+               <persName>Taaffe, Eduard Graf</persName>
+               <birth>
+                  <date>1833-2-24</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1895-11-29</date>
+                  <place>Ellischau/Böhmen</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <note type="comment">1879-93 Ministerpräsident</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

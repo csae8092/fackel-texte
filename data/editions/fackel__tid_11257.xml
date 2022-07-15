@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_11257.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11256.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11258.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Der Gipfel, in: Fackel Heft 31, Nr. 820, 1929, S. 140-141</title>
+            <title type="iso-date">1929-10-01</title>
+            <title type="id">tid_11257</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">31</title><title type="heft">820</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-31-820_n0140.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/820,140</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Der Gipfel</head>
+            <p ana="pr163234">
+<space/>Das <seg ana="Neue Wiener Journal"/> meldet:<lb/>
+</p>
+            <p ana="pr163237">
+<space/>Anläßlich der gestrigen Uraufführung des Dramas »<rs type="title"><rs type="pers">Metternich</rs></rs>«<lb/>
+von <rs type="pers" ana="n_97748" ref="#fk__p_45508">Hanns Saßmann</rs>, über die wir ausführlich im Feuilleton berichten,<lb/>
+wurde dem Dichter von der <seg type="spc">Chefredaktion</seg> des ‚<rs type="paper" ana="werk_29749"><seg type="spc">Neuen<lb/>
+Wiener Journals</seg></rs>‘ und seinen <seg type="spc">Redaktionskollegen</seg> ein<lb/>
+riesiger Lorbeerkranz mit mächtigen rotweißroten Schleifen gewidmet,<lb/>
+die, dem Österreichertum des Werkes und des Dichters Rechnung<lb/>
+tragend, das <rs type="pers" ana="n_97749" ref="#fk__p_43482">Grillparzer-Zitat</rs>: »<seg type="spc">In Deinem Lager ist Österreich<lb/>
+</seg>« — »<seg type="spc">Das</seg> ‚<rs type="paper" ana="werk_29750"><seg type="spc">Neue Wiener Journal</seg></rs>‘« in goldenen Lettern<lb/>
+zeigten. Da das Hausgesetz des <rs type="inst">Burgtheaters</rs> das Überreichen von<lb/>
+Blumenspenden auf der Bühne untersagt, erfolgte die Übergabe des<lb/>
+Kranzes hinter den Kulissen.<lb/>
+</p>
+            <p ana="pr163239">
+Vater <rs type="pers" ana="n_97750" ref="#fk__p_51970">Radetzky</rs> — nein, nicht so, sondern wie <rs type="pers" ana="n_97751" ref="#fk__p_50899">Oskar Sachs</rs><lb/>
+die Bitte variiert hat!<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_50899">
+               <persName>Sachs, Oskar</persName>
+               <birth>
+                  <date>1869-01-23</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1941-2-8</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <note type="comment">4., Margaretenstr. 29</note>
+               <note type="comment">letzte Adresse: 18., Antonigasse 70; Urnenhain</note>
+               <note type="comment">wurde 26.10.1938 schwerkrank und gelähmt aus seiner Whg. 4., Weyringergasse 16-18 delogiert</note>
+            </person>
+            <person xml:id="fk__p_43482">
+               <persName>Grillparzer, Franz</persName>
+               <birth>
+                  <date>1791-1-15</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1872-1-21</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Beamter</occupation>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Ögg teilt 912/23 Traum ein Leben Calderon zu</note>
+               <note type="comment">Ögg teilt irrt. 229/2, 305/50 zu</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11518</idno></person>
+            <person xml:id="fk__p_45508">
+               <persName>Saßmann, Hanns</persName>
+               <birth>
+                  <date>1882-12-17</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1944-5-8</date>
+                  <place>Langkampfen, Tirol</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            </person>
+            <person xml:id="fk__p_51970">
+               <persName>Radetzky, Johann Josef Wenzel Graf von Radetz</persName>
+               <birth>
+                  <date>1766-11-02</date>
+                  <place>Trebnitz/Böhmen</place>
+               </birth>
+               <death>
+                  <date>1858-01-05</date>
+                  <place>Mailand</place>
+               </death>
+               <occupation>Feldherr</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

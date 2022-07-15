@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07586.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07585.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07587.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Der Hias, in: Fackel Heft 18, Nr. 445, 1234, S. 28-29</title>
+            <title type="iso-date">1234-01-01</title>
+            <title type="id">tid_07586</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">18</title><title type="heft">445</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-18-445_n0028.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/445,028</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Der Hias</head>
+            <p ana="pr101963">
+<space/><seg type="symbol" subtype="4dots"/> In einer <DATERANGE>Anfang Mai 1916</DATERANGE> in München zur Zeit der<lb/>
+dortigen Aufführung des »<rs type="title"><rs type="pers">Hias</rs></rs>« stattgefundenen Versammlung des<lb/>
+Vereines »<rs type="inst">Deutsche Wacht</rs>« führte der Vorsitzende der literarischen<lb/>
+Gesellschaft »<rs type="inst">Der neue Verein</rs>«, Rechtsanwalt <rs type="pers" ana="n_66064" ref="#fk__p_41998"><abbr>Dr.</abbr> <abbr>W.</abbr> Rosenthal</rs>, über<lb/>
+die Aufführung dieses Stückes folgendes aus: »Nach meiner Empfindung<lb/>
+ist dieses Stück <seg type="insult">eine grobe Geschmacklosigkeit</seg>, die Menschen von<lb/>
+gutem Geschmack in hohem Grade verletzen muß, wenn ein solcher<lb/>
+Hintergrund, wie eine französische Kriegsgerichtssitzung verwendet wird,<lb/>
+um darauf die gewöhnlichsten Wirkungen aufzubauen. Im zweiten Akt<lb/>
+wird als Haupteffekt ein <seg type="spc">grunzendes Schwein</seg> über die Bühne<lb/>
+geführt, <seg type="spc">wobei ein großer Teil des Publikums hell aufwiehert<lb/>
+</seg>, der andere Teil seinen Ingrimm verbeißen muß. Man muß sich<lb/>
+vorstellen, wie es auf uns wirken müßte, wenn etwa eine deutsche<lb/>
+Kriegsgerichtssitzung in französischer oder englischer Sprache in ähnlicher<lb/>
+Weise behandelt würde <seg type="symbol" subtype="4dots"/> <seg type="spc">Polizeipräsident </seg><rs type="pers" ana="n_66065" ref="#fk__p_54545"><abbr>v.</abbr> <seg type="spc">Grundherr</seg></rs><lb/>
+bemerkte, er sei <seg type="spc">dankbar</seg>, daß der Vorredner die Sache zur Sprache<lb/>
+gebracht habe. Er habe dadurch Gelegenheit, zu erklären, daß er,<lb/>
+<seg type="spc">leider vergeblich</seg>, <seg type="spc">alles getan habe</seg>, <seg type="spc">um die Aufführung<lb/>
+ zu verhindern</seg> <seg type="symbol" subtype="3dots"/><lb/>
+</p>
+            <p ana="pr101965">
+<space/>Und <seg type="insult">deutsche Aristokratinnen</seg> haben mitgewirkt. Und:<lb/>
+»Dieser Akt ist vom Publikum beklatscht worden, wie dies<lb/>
+noch keine Kunstleistung erfahren hat.« Und: »Kein Zweifel, der<lb/>
+<foreign xml:lang="de-loc">boarische</foreign> <rs type="title"><rs type="pers">Hias</rs></rs> wird überall herzhaftem Verständnis begegnen —<lb/>
+jenem stillen, behäbigen, guten Lächeln, das so sehr die Seele<lb/>
+erwärmen kann.« Und es war <seg type="insult">eine große Zeit</seg>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_54545">
+               <persName>Grundherr zu Altenthan und Weyerhaus, Ludwig</persName>
+               <birth>
+                  <date>1864-2-2</date>
+                  <place>Nürnberg</place>
+               </birth>
+               <death>
+                  <date>1916-10-19</date>
+                  <place>Oberstdorf/Allgäu</place>
+               </death>
+               <occupation>Polizeipräsident</occupation>
+               <note type="comment">verschiedene Namensschreibweisen: Grundherr zu Altenthan(n) und Wey(h)erhaus</note>
+               <note type="comment">München 2.8.1913 bis 19.10.1916</note>
+            </person>
+            <person xml:id="fk__p_41998">
+               <persName>Rosenthal, Wilhelm</persName>
+               <birth>
+                  <date>1870-12-21</date>
+                  <place>Fürth</place>
+               </birth>
+               <death>
+                  <date>1933-9-13</date>
+                  <place>München</place>
+               </death>
+               <occupation>Rechtsanwalt</occupation>
+               <note type="comment">Geschäftsführer des "Neuen Verein" (mit Ruederer und Falckenberg 1903 gegründet)</note>
+               <note type="comment">Justizrat, Direktor der "Emelka"-Filmgesellschaft (ab 1920)</note>
+               <note type="comment">verh. mit Mary R., Todesanzeige Münchner Neueste Nachrichten 17.09.1933</note>
+               <note type="comment">in München</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

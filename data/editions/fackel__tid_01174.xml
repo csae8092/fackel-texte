@@ -1,0 +1,119 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01174.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01173.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01175.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">»Goethe-Bund«. (Eine Absage an den Goethe-Bund.), in: Fackel Heft 02, Nr. 050, 1900, S. 17-18</title>
+            <title type="iso-date">1900-08-01</title>
+            <title type="id">tid_01174</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">050</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-050_n0017.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/050,017</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>»Goethe-Bund«. (Eine Absage an den Goethe-Bund.)</head>
+            <p ana="pr11293">
+<space/>In einer ganz versteckten Ecke der Berliner<lb/>
+‚<rs type="paper" ana="werk_3436">National-Zeitung</rs>‘ wird die folgende Erklärung veröffentlicht<lb/>
+:<lb/>
+</p>
+            <p ana="pr11295">
+<space/>Meinen Freunden erlaube ich mir mitzutheilen, dass ich dem<lb/>
+»<rs type="inst"><rs type="pers" ana="n2_692" ref="#fk__p_46960">Goethe-Bunde</rs></rs>« von seinen ersten Anfängen an fremd gewesen <choice><sic>bin</sic><corr>bin.</corr></choice><lb/>
+</p>
+            <p ana="pr11296">
+Berlin, <date>6. August 1900</date>.<lb/>
+</p>
+            <p ana="pr11297">
+<rs type="pers" ana="n_9213" ref="#fk__p_45921"><AUCTOR>Hermann Grimm</AUCTOR></rs>.<lb/>
+</p>
+            <p ana="pr11299">
+<space/>Wer <rs type="pers" ana="n_9214" ref="#fk__p_45921">Hermann Grimm</rs> ist, wissen gewiss auch<lb/>
+<seg type="insult">die Verehrer der Herren <rs type="pers" ana="n_9215" ref="#fk__p_45949">Sudermann</rs>, <rs type="pers" ana="n_9216" ref="#fk__p_42705">Engelhorn</rs> und<lb/>
+der anderen Freiheitskämpfer</seg>, denen es vor nicht allzulanger<lb/>
+ Zeit beliebt hat, <rs type="pers" ana="n_9217" ref="#fk__p_46960">Goethe</rs> mit <seg type="insult">einem Leitartikler<lb/>
+der ‚<rs type="paper" ana="werk_3437">Vossischen</rs>‘</seg> zu verwechseln. Dass <rs type="pers" ana="n_9218" ref="#fk__p_45921">Hermann Grimm</rs><lb/>
+dem Schutzherrn <seg type="insult">des seltsamen Bundes</seg> immerhin so<lb/>
+nahe steht wie <rs type="pers" ana="n_9219" ref="#fk__p_45949">Hermann Sudermann</rs>, werden selbst<lb/>
+jene nicht leugnen können, die durch die Paragraphe<lb/>
+der <rs type="title"><foreign xml:lang="la">lex</foreign> <rs type="pers" ana="n_9220" ref="#fk__p_45777">Heinze</rs></rs> <seg type="insult">die heiligsten Güter Europas</seg> gefährdet<lb/>
+</p>
+            <p ana="pr11299">
+glaubten. Es mag sie stutzig machen, dass <rs type="pers" ana="n_9221" ref="#fk__p_45921">Grimm</rs><lb/>
+Wert darauf legt, dem <rs type="inst"><rs type="pers" ana="n2_693" ref="#fk__p_46960">Goethe-Bund</rs></rs> von allem Anfang<lb/>
+an und nicht erst, seit er der Sittenpolizei seine Dienste<lb/>
+angetragen, fernzustehen. Die Wiener liberalen Blätter<lb/>
+haben von dieser Absage natürlich keine Notiz genommen<lb/>
+.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46960">
+               <persName>Goethe, Johann Wolfgang von</persName>
+               <birth>
+                  <date>1749-8-28</date>
+                  <place>Frankfurt am Main</place>
+               </birth>
+               <death>
+                  <date>1832-3-22</date>
+                  <place>Weimar</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">890/142f.</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11461</idno></person>
+            <person xml:id="fk__p_45921">
+               <persName>Grimm, Herman</persName>
+               <birth>
+                  <date>1828-1-6</date>
+                  <place>Kassel</place>
+               </birth>
+               <death>
+                  <date>1901-6-16</date>
+                  <place>Berlin</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            </person>
+            <person xml:id="fk__p_42705">
+               <persName>Engelhorn, Carl</persName>
+               <birth>
+                  <date>1849-3-1</date>
+                  <place>Stuttgart</place>
+               </birth>
+               <death>
+                  <date>1925-12-12</date>
+                  <place>Stuttgart</place>
+               </death>
+               <occupation>Verleger</occupation>
+               <note type="comment">Friedr. Wilh. Euler, Die Familie Engelhorn in Mannheim, 1986, Seite 28</note>
+               <note type="comment">Stuttgart</note>
+            </person>
+            <person xml:id="fk__p_45777">
+               <persName>Heinze </persName>
+               <occupation>Zuhälter</occupation>
+               <note type="comment">Berliner Ehepaar, das Sept. 1891 wegen Mordes, Prostitution, Zuhälterei, Kuppelei verurteilt wurde</note>
+               <note type="comment">Gerichtsurteil hatte eine Verschärfung der Sittlichkeits-Gesetzgebung zur Folge</note>
+               <note type="comment">Theodor Mommsen und Adolf Harnack. Wissenschaft und Politik im Berlin... 1997</note>
+               <note type="comment">Couplet von Otto Reutter</note>
+               <note type="comment">"Lex Heinze"</note>
+            </person>
+            <person xml:id="fk__p_45949">
+               <persName>Sudermann, Hermann</persName>
+               <birth>
+                  <date>1857-9-30</date>
+                  <place>Matziken, Memelland</place>
+               </birth>
+               <death>
+                  <date>1928-11-21</date>
+                  <place>Berlin</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">während seines Studiums als Hauslehrer bei Hans Hopfen und im Hause eines Bankiers tätig</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12899</idno></person>
+            </listPerson></back></text>
+</TEI>

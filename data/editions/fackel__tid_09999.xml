@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_09999.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09998.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10000.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ein Weltblatt, in: Fackel Heft 26, Nr. 668, 1924, S. 114-115</title>
+            <title type="iso-date">1924-12-01</title>
+            <title type="id">tid_09999</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">26</title><title type="heft">668</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-26-668_n0114.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/668,114</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ein Weltblatt</head>
+            <p ana="pr135776">
+wird es immer unter seiner Würde finden, die Schilderung auch<lb/>
+der wichtigsten Vorfälle zu breit auszuspinnen, und wird es<lb/>
+verstehen, in einem knappen Satze das Wesentliche und Wissenswerte<lb/>
+ herauszuarbeiten:<lb/>
+</p>
+            <p ana="pr135778">
+<space/><seg type="sidehead">[Eine Szene im <rs type="inst">Rathaus</rs>.]</seg> Der Direktor des Varietéetablissements<lb/>
+»<rs type="inst">Pavillon</rs>«, <rs type="pers" ana="n_83171" ref="#fk__p_39501">Brett</rs>, hatte, wie man uns mitteilt, vor kurzem in einer<lb/>
+Finanzabteilung des <rs type="inst">Rathauses</rs> in Steuerangelegenheit vorgesprochen.<lb/>
+Im Laufe der Unterredung, während deren er unter anderm aufgefordert<lb/>
+ wurde, über gewisse Einnahmen Rechnung zu legen, erlitt er<lb/>
+einen epileptischen Anfall, stürzte zu Boden und wälzte sich dort im<lb/>
+Krampfe. Es wurde ihm sofort Hilfe geleistet und Herr <rs type="pers" ana="n_83172" ref="#fk__p_39501">Brett</rs> konnte<lb/>
+sich nach einiger Zeit erholen. <seg type="spc">Er bedankte sich für die<lb/>
+Hilfe und entschuldigte sich wegen der Ungelegenheiten<lb/>
+</seg>, <seg type="spc">die er verursacht hatte</seg>, <seg type="spc">und begab sich nach<lb/>
+Hause</seg>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_39501">
+               <persName>Brett, Adolf</persName>
+               <birth>
+                  <date>1873-12-31</date>
+                  <place>Neuhäusl/Ungarn</place>
+               </birth>
+               <death>
+                  <date>1941-7-8</date>
+                  <place>Weimar</place>
+               </death>
+               <occupation>Cafetier</occupation>
+               <occupation>Theaterleiter</occupation>
+               <occupation>Varietédirektor</occupation>
+               <note type="comment">2., Kl. Sperlgasse 1</note>
+               <note type="comment">Wiener Ballhaus Ges. m. b. H.</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

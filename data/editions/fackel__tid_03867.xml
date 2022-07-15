@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03867.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03866.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03868.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Habitué. (Die Erfolgtelegramme), in: Fackel Heft 06, Nr. 178, 1905, S. 17-18</title>
+            <title type="iso-date">1905-03-25</title>
+            <title type="id">tid_03867</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">06</title><title type="heft">178</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-06-178_n0017.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/178,017</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Habitué. (Die Erfolgtelegramme)</head>
+            <p ana="pr38885">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="name_203449" ref="#fk__p_45322">Habitué</rs>.</seg></seg> Von <seg type="insult">hoher Intelligenz</seg> zeugen die kritischen Wendungen,<lb/>
+die die <seg type="insult">Theaterreporter</seg> in ihre <seg type="insult"><choice><sic>Erfolgtelegramme</sic><corr>Erfolgstelegramme</corr></choice></seg> flechten. Im ‚<rs type="paper" ana="werk_13736">Berliner<lb/>
+Börsenkurier</rs>‘, den <seg type="insult">der sympathische <rs type="pers" ana="n_33154" ref="#fk__p_53254">Löwy</rs></seg> bedient, lesen wir, »<rs type="pers" ana="n_33155" ref="#fk__p_42711">Butti’s</rs><lb/>
+</p>
+            <p ana="pr38885">
+‚<rs type="title"><rs type="pers">Luzifer</rs></rs>‘ habe bei der Aufführung im <rs type="inst">Deutschen Volkstheater</rs><lb/>
+in den von menschlichen Leidenschaften bewegten Szenen interessiert«.<lb/>
+Das <seg type="insult">Novum</seg>, daß in einem Drama menschliche Leidenschaften in die<lb/>
+Handlung spielen, ist hier recht feinsinnig betont. <seg type="insult">Der Kollege vom<lb/>
+‚<rs type="paper" ana="werk_13737">Berliner Tageblatt</rs>‘</seg> konstatiert, daß sich der Erfolg des Gewissensdramas<lb/>
+»<rs type="title"><rs type="pers">Luzifer</rs></rs>« »trotz <seg type="insult">der schönen Gläubigkeit des Verfassers</seg> im letzten Akte<lb/>
+merklich abgeschwächt« habe. Ja, das <seg type="insult">Wiener <rs type="inst">Volkstheater-Publikum</rs></seg><lb/>
+läßt sich nicht fangen! Auch wenn ein Autor <seg type="insult">seiner klerikalen Gesinnung</seg><lb/>
+noch so sehr schmeichelt. — Es wäre doch vielleicht angezeigt, daß<lb/>
+<seg type="insult">die beiden Herren</seg> <seg type="insult">ihr schönes Talent</seg> künftig bloß in der Abzählung der<lb/>
+<choice><sic>vorrufe</sic><corr>Vorrufe</corr></choice> und in der Aufzählung der Darsteller bewähren.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_45322">
+               <persName>Habitué</persName>
+            </person>
+            <person xml:id="fk__p_42711">
+               <persName>Butti, Enrico Annibale</persName>
+               <birth>
+                  <date>1868-02-19</date>
+                  <place>Mailand</place>
+               </birth>
+               <death>
+                  <date>1912-11-29</date>
+                  <place>Mailand</place>
+               </death>
+               <occupation>Erzähler</occupation>
+               <occupation>Dramatiker</occupation>
+            </person>
+            <person xml:id="fk__p_53254">
+               <persName>Loewy, Siegfried</persName>
+               <birth>
+                  <date>1857-11-1</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1931-5-8</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Namenskorrektur!</note>
+               <note type="comment">ÖBL</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12101</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,48 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_08352.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08351.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08353.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Czernins Bruder, in: Fackel Heft 20, Nr. 484, 1918, S. 33-34</title>
+            <title type="iso-date">1918-10-01</title>
+            <title type="id">tid_08352</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">20</title><title type="heft">484</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-20-484_n0033.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/484,033</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Czernins Bruder</head>
+            <p ana="pr110186">
+ist auch nicht ohne:<lb/>
+</p>
+            <p ana="pr110188">
+<space/>— — bereit, die versöhnende Hand auszustrecken, sobald sich<lb/>
+drüben die Vernunft und das Bewußtsein Bahn bricht, daß es <seg type="spc">höhere<lb/>
+Ideale gibt als <seg type="insult">schnöde Eroberungsgier</seg></seg>. Das letzte<lb/>
+Jahr war reich an Ereignissen und Erfolgen. Es brachte uns die<lb/>
+Friedensschlüsse von <seg type="spc">Brest-Litowsk</seg> und <seg type="spc">Bukarest</seg>, die<lb/>
+großen Siege in Italien — — <rs type="pers" ana="n_68947" ref="#fk__p_48012">Zar Ferdinand</rs> hurra!<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_48012">
+               <persName>Ferdinand I., König von Bulgarien, Prinz von Sachsen-Coburg-Gotha</persName>
+               <birth>
+                  <date>1861-2-26</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1948-9-10</date>
+                  <place>Coburg</place>
+               </death>
+               <occupation>König</occupation>
+               <note type="comment">Zar von Bulgarien 1896 bis zur Abdankung 1918</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

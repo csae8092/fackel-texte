@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00710.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00709.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00711.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Richard L—nt, Budapest. (Max Falk), in: Fackel Heft 01, Nr. 029, 1900, S. 30-30</title>
+            <title type="iso-date">1900-01-01</title>
+            <title type="id">tid_00710</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">029</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-029_n0030.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/029,030</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Richard L—nt, Budapest. (Max Falk)</head>
+            <p ana="pr6714">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_5139" key="#fk__p_52186">Richard <SPAN sug="(undefined)">L—nt</SPAN></rs>, Budapest.</seg></seg> Ich wusste es, <seg type="insult">Ihr heimisches <rs type="paperRef" ana="werk_1803">Schmutzblatt<lb/>
+</rs>, der ‚<rs type="paper" ana="werk_1804">Pester Lloyd</rs>‘</seg>, leistet <seg type="insult">im Dienste <rs type="pers" ana="n_5140" ref="#fk__p_48031">Milans</rs></seg> das Menschenmögliche<lb/>
+. Aber dass es <seg type="insult">dem unmündigen Sohne dieses Halunken</seg><lb/>
+<seg type="insult">»Hochherzigkeit, Milde und <seg type="spc">wohlerwogene</seg> Staatsklugheit«</seg> nachsagen<lb/>
+ würde, hatte ich selbst nicht erwartet. Was ist übrigens dies<lb/>
+alles gegen die Reden, die <seg type="insult">der Chefredacteur des <rs type="paperRef" ana="werk_1805">Blattes</rs>, der bekannte<lb/>
+Herr <rs type="pers" ana="n_5141" ref="#fk__p_49920">Max <seg type="spc">Falk</seg></rs></seg>, neulich in Wien als <seg type="insult">Vertrauenskuli <rs type="pers" ana="n_5142" ref="#fk__p_44673">Goluchowskis</rs></seg> den<lb/>
+Delegationen zu bieten gewagt hat! »Der ausgezeichnete Empfang des<lb/>
+jungen Königs von Seite des Monarchen wird unstreitig die gegenseitigen<lb/>
+ freundschaftlichen Gefühle <seg type="spc">noch steigern</seg>«, rief er. Aber<lb/>
+nicht nur, dass man den Mann nicht nach Ungarn abgeschoben<lb/>
+hat, soll <seg type="insult">Herr <rs type="pers" ana="n_5143" ref="#fk__p_44673">Goluchowski</rs></seg> noch gesonnen sein, die Subvention für<lb/>
+den ‚<rs type="paper" ana="werk_1806">Pester Lloyd</rs>‘ zu erhöhen.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_49920">
+               <persName>Falk, Max</persName>
+               <birth>
+                  <date>1828-10-07</date>
+                  <place>Budapest</place>
+               </birth>
+               <death>
+                  <date>1908-09-10</date>
+                  <place>Budapest</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <occupation>Journalist</occupation>
+            </person>
+            <person xml:id="fk__p_48031">
+               <persName>Milan I. Obrenović, König von Serbien</persName>
+               <birth>
+                  <date>1854-8-22</date>
+                  <place>Jassy</place>
+               </birth>
+               <death>
+                  <date>1901-2-11</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>König</occupation>
+            </person>
+            <person xml:id="fk__p_44673">
+               <persName>Goluchowski, Agenor Graf</persName>
+               <birth>
+                  <date>1849-03-25</date>
+                  <place>Lemberg</place>
+               </birth>
+               <death>
+                  <date>1921-03-28</date>
+                  <place>Lemberg</place>
+               </death>
+               <occupation>Diplomat</occupation>
+               <occupation>Politiker</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

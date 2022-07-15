@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_10840.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10839.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10841.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Zu einem Vortrag über Kierkegaard), in: Fackel Heft 28, Nr. 751, 1927, S. 91-92</title>
+            <title type="iso-date">1927-02-01</title>
+            <title type="id">tid_10840</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">28</title><title type="heft">751</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-28-751_n0091.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/751,091</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Zu einem Vortrag über Kierkegaard)</head>
+            <p ana="pr150990">
+<space/>Ich interessiere mich sonst nicht sehr dafür, was irgend jemand<lb/>
+mit dem angebrochenen Abend anfängt. Aber ausnahmsweise<lb/>
+möchte ich doch wissen, wo sich <seg type="insult">die Angehörigen der Gesellschaft<lb/>
+</seg>, die sich <seg type="insult">das geistige Wien</seg> nennt, aufgehalten haben, als<lb/>
+<rs type="pers" ana="n_90449" ref="#fk__p_54030">Theodor <seg type="spc">Haecker</seg></rs> über <rs type="pers" ana="n_90450" ref="#fk__p_53452"><seg type="spc">Kierkegaard</seg></rs> sprach. Sie mögen sich<lb/>
+darauf berufen, daß ihnen eine geistige Begebenheit verborgen<lb/>
+bleiben mußte, die auf dem Umschlag der <rs type="self" ana="werk_24595">Fackel</rs> angekündigt<lb/>
+war. Aber hatte sie denn nicht die <rs type="paper" ana="werk_24596">Neue Freie Presse</rs> aufmerksam<lb/>
+ gemacht? Was wieder <seg type="insult">das geistliche Wien</seg> anlangt, so kann<lb/>
+es sich gleichfalls nicht auf die <rs type="self" ana="werk_24597">Fackel</rs> ausreden, denn es hatte<lb/>
+ja eine Ankündigung in der <rs type="paper" ana="werk_24598">Reichspost</rs> gelesen. Freilich hätte<lb/>
+man beide Gruppen nicht vermißt, wenn die Leser der <rs type="self" ana="werk_24599">Fackel</rs>,<lb/>
+</p>
+            <p ana="pr150990">
+auf die sonst der Hinweis in einem »unverkäuflichen Anzeigenraum<lb/>
+« stärkeren Eindruck macht, sich nicht begnügt hätten, den<lb/>
+halben Saal einzunehmen. Wozu allerdings wieder gesagt sein muß,<lb/>
+daß die Leser der Tagespresse nicht einmal in diesem Ausmaß<lb/>
+beteiligt sind, wenn <seg type="insult">das geistige Wien</seg> selbst zu ihnen spricht.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_53452">
+               <persName>Kierkegaard, Sören</persName>
+               <birth>
+                  <date>1813-5-5</date>
+                  <place>Kopenhagen</place>
+               </birth>
+               <death>
+                  <date>1855-11-11</date>
+                  <place>Kopenhagen</place>
+               </death>
+               <occupation>Philosoph</occupation>
+               <occupation>Theologe</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16839</idno></person>
+            <person xml:id="fk__p_54030">
+               <persName>Haecker, Theodor</persName>
+               <birth>
+                  <date>1879-06-04</date>
+                  <place>Eberbach/Württ.</place>
+               </birth>
+               <death>
+                  <date>1945-04-09</date>
+                  <place>Ustersbach/Augsburg</place>
+               </death>
+               <occupation>Kulturphilosoph</occupation>
+               <occupation>Übersetzer</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38322</idno></person>
+            </listPerson></back></text>
+</TEI>

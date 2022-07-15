@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02378.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02377.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02379.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Baumeister. (Landkirchen), in: Fackel Heft 04, Nr. 101, 1902, S. 23-23</title>
+            <title type="iso-date">1902-04-28</title>
+            <title type="id">tid_02378</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">04</title><title type="heft">101</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-04-101_n0023.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/101,023</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Baumeister. (Landkirchen)</head>
+            <p ana="pr23148">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_20085" ref="#fk__p_39121">Baumeister</rs>.</seg></seg> Auch wer sich gegen Stilneuerungen im Kirchenbau<lb/>
+ nicht ablehnend verhält, wird jene, die es mit einem neuen Stil<lb/>
+zuerst bei den <SPAN cont="Landkirchen"><seg type="spc">Landk</seg>irchen</SPAN> versuchen wollen, an den Zusammenhang,<lb/>
+der bei der Landbevölkerung zwischen religiöser und conservativer Gesinnung<lb/>
+ besteht, mahnen müssen. <seg type="insult">Die künstlerischen Leistungen der<lb/>
+Herren <rs type="pers" ana="n_20086" ref="#fk__p_48798">Leopold Bauer</rs> und <rs type="pers" ana="n_20087" ref="#fk__p_55747">Wunibald Deininger</rs></seg>, die bei der jüngsten<lb/>
+Concurrenz für eine Landkirche prämiiert wurden, in allen Ehren; aber<lb/>
+dass der Landmann diese Bauten, wenn sie ausgeführt würden, für<lb/>
+<seg type="insult">Reclamebuden</seg> und nicht für Kirchen halten wird, ist gewiss.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_48798">
+               <persName>Bauer, Leopold</persName>
+               <birth>
+                  <date>1872-09-01</date>
+                  <place>Jägerndorf/Schles.</place>
+               </birth>
+               <death>
+                  <date>1938-10-07</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Architekt</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/13820</idno></person>
+            <person xml:id="fk__p_55747">
+               <persName>Deininger, Wunibald</persName>
+               <birth>
+                  <date>1879-3-5</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1963-8-24</date>
+                  <place>Salzburg</place>
+               </death>
+               <occupation>Architekt</occupation>
+            </person>
+            <person xml:id="fk__p_39121">
+               <persName>Baumeister, Bernhard</persName>
+               <birth>
+                  <date>1827-9-28</date>
+                  <place>Posen</place>
+               </birth>
+               <death>
+                  <date>1917-10-25</date>
+                  <place>Baden bei Wien</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <note type="comment">Baden Friedhof St. Helena</note>
+               <note type="comment">1852-1917 Burgtheater</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13489</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/6173</idno></person>
+            </listPerson></back></text>
+</TEI>

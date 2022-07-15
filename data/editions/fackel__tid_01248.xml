@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01248.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01247.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01249.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Eine Anerkennung.), in: Fackel Heft 02, Nr. 053, 1900, S. 29-29</title>
+            <title type="iso-date">1900-09-01</title>
+            <title type="id">tid_01248</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">053</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-053_n0029.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/053,029</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Eine Anerkennung.)</head>
+            <p ana="pr11982">
+<space/><inciptit>Am</inciptit> 70. Geburtstage der <rs type="pers" ana="n_9866" ref="#fk__p_49728">Ebner-Eschenbach</rs> hat niemand die<lb/>
+Bedeutung der Dichterin in so prägnanten Worten zugestanden, wie<lb/>
+<seg type="insult">Herr <rs type="pers" ana="n_9867" ref="#fk__p_50383">Moritz Necker</rs></seg>. In der ‚<rs type="paper" ana="werk_3728">Neuen Freien Presse</rs>‘ widmete er ihr<lb/>
+zwar ein längeres Feuilleton, in dem er den Nachweis zu führen<lb/>
+suchte, dass sie <seg type="insult">»eine neue Cultur«</seg> in Oesterreich geschaffen. Umso<lb/>
+kürzer fasste er sich im ‚<rs type="" ana="werk_3729">Extrablatt</rs>‘, woselbst er einfach erzählte, wie<lb/>
+er, da der <RS pers="Franz Joseph" globID="rs_153">Kaiser</RS> der <rs type="pers" ana="n_9868" ref="#fk__p_49728">Baronin Ebner</rs> die Medaille verlieh, der Dichterin<lb/>
+gesagt habe, er finde »das Vorgehen des Monarchen <seg type="spc">nur in<lb/>
+der Ordnung</seg>.«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_49728">
+               <persName>Ebner-Eschenbach, Marie Freifrau von, geb. Gräfin Dubsky</persName>
+               <birth>
+                  <date>1830-9-13</date>
+                  <place>Zdislawitz, Mähren</place>
+               </birth>
+               <death>
+                  <date>1916-3-12</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schriftstellerin</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11216</idno></person>
+            <person xml:id="fk__p_50383">
+               <persName>Necker, Moriz</persName>
+               <birth>
+                  <date>1857-10-14</date>
+                  <place>Lemberg</place>
+               </birth>
+               <death>
+                  <date>1915-02-16</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Literarhistoriker</occupation>
+               <occupation>Journalist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/28523</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03553.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03552.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03554.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Der Tod der Tortajada, in: Fackel Heft 06, Nr. 159, 1904, S. 20-20</title>
+            <title type="iso-date">1904-04-12</title>
+            <title type="id">tid_03553</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">06</title><title type="heft">159</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-06-159_n0020.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/159,020</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Der Tod der Tortajada</head>
+            <p ana="pr35360">
+<space/><inciptit>Die</inciptit> <rs type="pers" ana="n_30477" ref="#fk__p_54222">Tortajada</rs> gestorben. »Verwundert hört man die Botschaft<lb/>
+dieses jähen Todes«. Noch verwunderter, daß sie nicht widerrufen<lb/>
+wird. In Hamburg, auf dem Perron des Klostertorbahnhofs, ward<lb/>
+eine Sängerin namens <rs type="pers" ana="n_30478" ref="#fk__p_50821">Olga Viarda</rs> vom Herzschlag getroffen. In<lb/>
+einer Berliner Redaktion verstand man durch’s Telephon den<lb/>
+Namen <rs type="pers" ana="n_30479" ref="#fk__p_54222">Tortajada</rs>. Auf norddeutsch und durch den Apparat gesprochen<lb/>
+, mag der eine wie der andere klingen. Depeschen, die in<lb/>
+Wien einlaufen, melden den Tod der spanischen Tänzerin, und<lb/>
+<seg type="insult">stimmungsvolle Nachrufe</seg> erscheinen am andern Tag. Aber das<lb/>
+Dementi wird nicht überall abgedruckt. <rs type="pers" ana="n_30480" ref="#fk__p_54222">Tortajada</rs> bleibt tot, und<lb/>
+wenn sie im Sommer in »<rs type="inst">Venedig in Wien</rs>« auferstehen sollte, so<lb/>
+werden <seg type="insult">die Herrschaften</seg> einfach ihre Nekrologe mit Weglassung<lb/>
+der einleitenden Zeilen abschreiben. Die <seg type="insult">Zeitungsvorsehung</seg> waltet<lb/>
+unaufhaltsam. Wir können nie wissen, wann wir abberufen werden.<lb/>
+Was ist der Mensch?<seg type="symbol" subtype="3dots"/><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_50821">
+               <persName>Viarda, Olga</persName>
+               <death>
+                  <date>1904-4</date>
+                  <place>Hamburg</place>
+               </death>
+               <occupation>Sängerin</occupation>
+            </person>
+            <person xml:id="fk__p_54222">
+               <persName>Tortajada, Consuelo</persName>
+               <birth>
+                  <date>1867</date>
+               </birth>
+               <death>
+                  <date>1957</date>
+                  <place>Granada</place>
+               </death>
+               <occupation>Tänzerin</occupation>
+               <note type="comment">falsche Todesmeldung; Verwechslung mit Olga Viardi</note>
+               <note type="comment">es gibt eine mexikanische Tanzhistorikerin Margarita Tortajada Quiroz</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03276.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03275.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03277.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Bankier. (Die ‚Zeit‘ in Auer-Beleuchtung), in: Fackel Heft 05, Nr. 144, 1903, S. 24-24</title>
+            <title type="iso-date">1903-10-17</title>
+            <title type="id">tid_03276</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">05</title><title type="heft">144</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-05-144_n0024.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/144,024</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Bankier. (Die ‚Zeit‘ in Auer-Beleuchtung)</head>
+            <p ana="pr32335">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_27892" key="#fk__p_38700">Bankier</rs>.</seg></seg> <DATERANGE>Anfangs August dieses Jahres</DATERANGE> mußte die <rs type="inst"><rs type="pers" ana="n2_2146" ref="#fk__p_43653">Welsbach-Kompagnie<lb/>
+</rs></rs> in London (der <rs type="pers" ana="n_27893" ref="#fk__p_43653">Auer’sche Gasglühlicht-Trust</rs>) ihr Kapital um<lb/>
+2,135.562 Pfund Sterling reduzieren. Es blieb ein Kapitalswert von<lb/>
+70.000 Pfund. Der Trust hat 1 Pfund-Shares ausgegeben, und der<lb/>
+Verlust von mehr als 50 Millionen Kronen trifft eine Menge kleiner<lb/>
+Leute. Die Wiener Presse hat über <seg type="insult">diesen Finanzskandal</seg> nichts zu sagen<lb/>
+gewußt. Nicht einmal — oder vielmehr, besonders nicht — die ‚<rs type="paper" ana="werk_12174">Zeit</rs>‘,<lb/>
+die sich doch so leicht authentische Informationen verschaffen konnte.<lb/>
+Der <rs type="pers" ana="n_27894" ref="#fk__p_43653">Freiherr Auer <abbr>v.</abbr> Welsbach</rs> und Herr <rs type="pers" ana="n_27895" ref="#fk__p_40683"><abbr>Dr.</abbr> Gallia</rs> hätten der ‚<rs type="paper" ana="werk_12175">Zeit</rs>‘<lb/>
+sicherlich ebenso gern Informationen gegeben, wie sie ihr, dem Vernehmen<lb/>
+ nach, eine dritte Million geben.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_43653">
+               <persName>Auer-Welsbach, Carl Freiherr von</persName>
+               <birth>
+                  <date>1858-09-01</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1929-08-04</date>
+                  <place>Schloß Welsbach/Kärnten</place>
+               </death>
+               <occupation>Chemiker</occupation>
+               <occupation>Erfinder</occupation>
+            </person>
+            <person xml:id="fk__p_40683">
+               <persName>Gallia, Adolf</persName>
+               <birth>
+                  <date>1852-7-11</date>
+                  <place>Bisenz/Mähren</place>
+               </birth>
+               <death>
+                  <date>1925-1-14</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Rechtsanwalt</occupation>
+               <note type="comment">Geldgeber der "Zeit"</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

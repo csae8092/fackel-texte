@@ -1,0 +1,42 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00042.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00041.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00043.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Technikus., in: Fackel Heft 01, Nr. 003, 1899, S. 29-29</title>
+            <title type="iso-date">1899-04-01</title>
+            <title type="id">tid_00042</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">003</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-003_n0029.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/003,029</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Technikus.</head>
+            <p ana="pr527">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_544" key="#fk__p_53988">Technikus</rs>.</seg></seg> Beide Formen im Sprachgebrauch begründet. Siehe<lb/>
+<rs type="pers" ana="n_545" ref="#fk__p_40246"><seg type="spc">Sanders</seg></rs>, der sogar die feminine voranstellt und Ihnen hoffentlich<lb/>
+competent sein wird.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_40246">
+               <persName>Sanders, Daniel</persName>
+               <birth>
+                  <date>1819-11-12</date>
+                  <place>Strelitz</place>
+               </birth>
+               <death>
+                  <date>1897-3-11</date>
+                  <place>Strelitz</place>
+               </death>
+               <occupation>Germanist</occupation>
+               <occupation>Lexikograph</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/51846</idno></person>
+            </listPerson></back></text>
+</TEI>

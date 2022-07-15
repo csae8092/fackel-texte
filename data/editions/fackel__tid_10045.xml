@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_10045.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10044.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10046.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ich werde sterben und es nicht erfahren, in: Fackel Heft 26, Nr. 679, 1925, S. 10-10</title>
+            <title type="iso-date">1925-03-01</title>
+            <title type="id">tid_10045</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">26</title><title type="heft">679</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-26-679_n0010.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/679,010</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ich werde sterben und es nicht erfahren</head>
+            <p ana="pr136595">
+warum ich — es kostet <rs type="inst"><seg type="insult"><rs type="pers" ana="n2_7440" ref="#fk__p_46698">Lippowitzen</rs> &amp; <abbr>Co.</abbr></seg></rs> 100 Kronen, eine<lb/>
+Drucksorte, ein Kuvert und die Adresseschrift, setzt Postbeamte<lb/>
+ und einen Briefträger in Bewegung — von Zeit zu Zeit<lb/>
+den Mahnruf empfange:<lb/>
+</p>
+            <p ana="pr136597">
+Wenn Sie ein Inserat im<lb/>
+<rs type="paperRef" ana="werk_26478">Kleinen Anzeiger</rs><lb/>
+aufgeben und Erfolg haben wollen, so inserieren Sie im<lb/>
+<rs type="paper" ana="werk_26479"><seg type="spc">Neuen Wiener Journal</seg></rs><lb/>
+</p>
+            <p ana="pr136598">
+Da das <rs type="paper" ana="werk_26480">Neue Wiener Journal</rs> von Hunderttausenden gelesen wird,<lb/>
+so müssen Sie Erfolg haben.<lb/>
+</p>
+            <p ana="pr136600">
+Ich will aber gar nicht Erfolg haben, höchstens den, daß das<lb/>
+<seg ana="Neue Wiener Journal"/> nicht von Hunderttausenden gelesen wird.<lb/>
+Wenn ich bestimmt wüßte, daß ich diesen Erfolg habe, sobald<lb/>
+ich das Inserat im <rs type="paper" ana="werk_26482">Neuen Wiener Journal</rs> aufgebe, tu’ ichs, wobei<lb/>
+ich allerdings wieder Gefahr laufe, daß ich mir die Chancen des<lb/>
+Inserats verringere und keinen Erfolg habe. Was soll ich also tun?<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46698">
+               <persName>Lippowitz, Jakob (Siegmund)</persName>
+               <birth>
+                  <date>1865-10-9</date>
+                  <place>Leipzig</place>
+               </birth>
+               <death>
+                  <date>1934-7-4</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17583</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/4054</idno></person>
+            </listPerson></back></text>
+</TEI>

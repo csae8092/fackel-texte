@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_05099.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05098.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05100.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Stimmungsbild, in: Fackel Heft 12, Nr. 301, 1910, S. 59-59</title>
+            <title type="iso-date">1910-05-3</title>
+            <title type="id">tid_05099</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">12</title><title type="heft">301</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-12-301_n0059.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/301,059</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Stimmungsbild</head>
+            <p ana="pr65318">
+<space/>Zwei Theateragenten gab es. <seg type="insult"><rs type="pers" ana="n_47573" key="#fk__p_50085">Menkes</rs> und <rs type="pers" ana="n_47574" ref="#fk__p_50227">Minkus</rs>.</seg> <rs type="pers" ana="n_47575" key="#fk__p_50085">Menkes</rs><lb/>
+starb. <rs type="pers" ana="n_47576" ref="#fk__p_50227">Minkus</rs> blieb am Leben. Aus diesem Grunde langte an ihn<lb/>
+ein Brief ein, den die Zeitungen veröffentlichten: »Gestern traf<lb/>
+auch hier die traurige Nachricht Ihres Selbstmordes ein. Ich war<lb/>
+aufrichtig betrübt, trotzdem glaubte ich an eine Verwechslung, bin<lb/>
+glücklich, daß meine Eingebung richtig war. Bravo <rs type="pers" ana="n_47577" ref="#fk__p_50227">Minkus</rs>! Leben<lb/>
+Sie noch hundert Jahre. Grüße, Ihr aufrichtiger <rs type="pers" ana="n_47578" ref="#fk__p_51048"><abbr>P.</abbr> Mascagni</rs>.«<lb/>
+<seg type="insult">Bravo <rs type="pers" ana="n_47579" ref="#fk__p_50227">Minkus</rs>!</seg> Er hat sich brav gehalten. In diesem Zuruf, mit dem<lb/>
+zugleich eine Anerkennung und eine Aufmunterung ausgesprochen<lb/>
+ist, liegt <seg type="insult">erstens: ganz Italien</seg>, <seg type="insult">zweitens: das ganze Theater</seg>, <seg type="insult">drittens:<lb/>
+die ganze Musik</seg>, und <seg type="insult">viertens: die ganze Praterstraße</seg>. Man sieht<lb/>
+<seg type="insult">aufgewichste Schnurrbärte</seg>, <seg type="insult">Augen</seg>, die in einer Sardinenbüchse geschwommen<lb/>
+ haben müssen, ehe sie <seg type="insult">diesen Maestros, Fechtmeistern<lb/>
+und Agenten</seg> eingesetzt wurden, <seg type="insult">gestikulierende Hände</seg>, die eine<lb/>
+Provision berechnen und Ecco, Machen wir und So wahr ich da leb<lb/>
+bedeuten; <seg type="insult">Lagunen, Schweißfüße, Freikarten und noch vieles, vieles<lb/>
+andere</seg>. <rs type="pers" ana="n_47580" ref="#fk__p_50227">Minkus</rs> blieb am Leben. <rs type="pers" ana="n_47581" key="#fk__p_50085">Menkes</rs> starb.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_50227">
+               <persName>Minkus, Wilhelm</persName>
+               <birth>
+                  <date>1860-10-8</date>
+                  <place>Budapest</place>
+               </birth>
+               <death>
+                  <date>1913-11-10</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Theateragent</occupation>
+               <note type="comment">6., Millöckergasse 2</note>
+            </person>
+            <person xml:id="fk__p_51048">
+               <persName>Mascagni, Pietro</persName>
+               <birth>
+                  <date>1863-12-7</date>
+                  <place>Livorno</place>
+               </birth>
+               <death>
+                  <date>1945-8-2</date>
+                  <place>Rom</place>
+               </death>
+               <occupation>Komponist</occupation>
+               <note type="comment">Cavalleria rusticana 162/31</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12198</idno></person>
+            </listPerson></back></text>
+</TEI>

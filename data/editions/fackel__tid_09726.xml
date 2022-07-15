@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_09726.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09725.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09727.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Das liest man schon richtig, in: Fackel Heft 25, Nr. 640, 1924, S. 155-155</title>
+            <title type="iso-date">1924-01-01</title>
+            <title type="id">tid_09726</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">25</title><title type="heft">640</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-25-640_n0155.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/640,155</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Das liest man schon richtig</head>
+            <p ana="pr131357">
+<space/>Die ‚<rs type="paper" ana="werk_25598">Wiener Stimmen</rs>‘ zitieren mit Behagen ein <seg type="ELIDASH">Fragespiel</seg><lb/>
+und Antwortspiel zwischen <seg type="insult">einem deutschen Professor</seg> und einem<lb/>
+Schüler:<lb/>
+</p>
+            <p ana="pr131359">
+»Was ist das Urbild der <rs type="event">Weimarer Verfassung von <date>1919</date></rs>?« »<rs type="pers" ana="n_80200" ref="#fk__p_46781"><seg type="spc">Rosseaus</seg></rs><lb/>
+<rs type="title"><foreign xml:lang="fr">Contrat social</foreign></rs>.« »Wie nennt der deutsche <choice><sic>Geschichtschreiber</sic><corr>Geschichtsschreiber</corr></choice> <rs type="pers" ana="n_80201" ref="#fk__p_52011">Ranke</rs><lb/>
+dieses Buch <rs type="pers" ana="n_80202" ref="#fk__p_46781"><seg type="spc">Rosseaus</seg></rs>?« »Lächerlich.«<lb/>
+</p>
+            <p ana="pr131361">
+Einer Berichtigung bedurfte es nicht, da die intelligenteren Leser<lb/>
+natürlich sofort gemerkt hatten, daß da ein Buchstabe zu viel<lb/>
+war und daß es <seg type="insult">Rossau</seg> heißen sollte.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46781">
+               <persName>Rousseau, Jean-Jacques</persName>
+               <birth>
+                  <date>1712-6-28</date>
+                  <place>Genf</place>
+               </birth>
+               <death>
+                  <date>1778-7-2</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Philosoph</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12582</idno></person>
+            <person xml:id="fk__p_52011">
+               <persName>Ranke, Leopold von</persName>
+               <birth>
+                  <date>1795-12-20/21</date>
+                  <place>Wiehe/Unstrut</place>
+               </birth>
+               <death>
+                  <date>1886-05-23</date>
+                  <place>Berlin</place>
+               </death>
+               <occupation>Historiker</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/9424</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00537.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00536.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00538.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Chlumecky, (Chlumecky), in: Fackel Heft 01, Nr. 022, 1899, S. 27-27</title>
+            <title type="iso-date">1899-11-01</title>
+            <title type="id">tid_00537</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">022</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-022_n0027.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/022,027</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Chlumecky, (Chlumecky)</head>
+            <p ana="pr5016">
+<space/><seg type="sidehead"><seg type="i"><seg type="insult"><rs type="pers" ana="n_3805" ref="#fk__p_46888">Chlumecky</rs></seg>,</seg></seg> mit Ihnen trete ich nicht gerne in Correspondenz<lb/>
+. Ich habe einmal über Sie geschrieben — damit basta. Dass<lb/>
+Sie jetzt wieder Geschichten machen, das ist doch zu ärgerlich.<lb/>
+Es hat ja einen förmlichen Krieg gegeben bei <seg type="insult">diesem »<rs type="inst"><rs type="pers">Janus</rs></rs>«</seg>. Natürlich<lb/>
+, die Thüren waren nicht geschlossen. Und sonst sind Sie doch<lb/>
+gewöhnt, alles hübsch bei geschlossenen Thüren abzumachen. Aber<lb/>
+einmal muss es ja herauskommen. Wenn auch die Mathematiker wirklich<lb/>
+, wie der Director <rs type="pers" ana="n_3806" ref="#fk__p_50802">Ohnhäuser</rs> behauptet hat, sechs Monate brauchen<lb/>
+werden, schließlich müssen sie doch ausrechnen, dass der Prämienreservefonds<lb/>
+ um anderthalb Millionen zu niedrig ist. Neulich hat Ihnen<lb/>
+die Opposition tüchtig zugesetzt. Das hatten Sie nicht erwartet, <seg type="insult">alter<lb/>
+Fuchs</seg>? <seg type="insult">Alter Fuchs</seg> ist übrigens eine gute Bezeichnung für Sie als<lb/>
+ehemaligen Präsidenten des <rs type="inst">Abgeordnetenhauses</rs>. Ihr Nachfolger spielt<lb/>
+jetzt dort mit entschiedenem Talent <seg type="insult">»junger <rs type="pers" ana="n_3807" ref="#fk__p_46888">Chlumecky</rs>«</seg>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46888">
+               <persName>Chlumecký, Johann Freiherr von</persName>
+               <birth>
+                  <date>1834-3-23</date>
+                  <place>Zara</place>
+               </birth>
+               <death>
+                  <date>1924-12-11</date>
+                  <place>Bad Aussee</place>
+               </death>
+               <occupation>Beamter</occupation>
+               <note type="comment">in der Statthalterei, Zensurkompetenz</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_14201</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/14956</idno></person>
+            <person xml:id="fk__p_50802">
+               <persName>Ohnhäuser, Viktor</persName>
+               <birth>
+                  <date>1861?</date>
+               </birth>
+               <death>
+                  <date>1911-12-3</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Versicherungsdirektor</occupation>
+               <note type="comment">18., Karl Ludwig-Str. 12</note>
+               <note type="comment">"Janus" Vers. ges.</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

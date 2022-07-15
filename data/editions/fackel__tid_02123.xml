@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02123.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02122.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02124.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Philharmonisches Zusammenleben mit der Kritik, in: Fackel Heft 03, Nr. 089, 1901, S. 28-28</title>
+            <title type="iso-date">1901-12-24</title>
+            <title type="id">tid_02123</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">03</title><title type="heft">089</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-03-089_n0028.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/089,028</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Philharmonisches Zusammenleben mit der Kritik</head>
+            <p ana="pr20756">
+<space/><inciptit>Die</inciptit> Philharmoniker haben jetzt einen Dirigenten, der Grund<lb/>
+hat, die Kritik zu fürchten. Und Herr <rs type="pers" ana="n_17893" ref="#fk__p_47083"><seg type="spc">Hellmesberger</seg></rs> weiss: er<lb/>
+kann nichts gegen die Kritik thun. Aber er wäre kein <seg type="insult">alter Wiener</seg>,<lb/>
+wenn er nicht auch wüsste: er kann viel <seg type="spc">für</seg> die Kritiker thun.<lb/>
+Und so haben wir denn neulich im philharmonischen Concert<lb/>
+<seg type="insult">ein Opus des Herrn <rs type="pers" ana="n_17894" ref="#fk__p_52178">Richard <seg type="spc">Heuberger</seg></rs></seg> gehört. <rs type="pers" ana="n_17895" ref="#fk__p_45458">Hans Richter</rs> hat<lb/>
+das Werk den Wienern vor zwanzig Jahren vorgeführt, und Herr<lb/>
+<rs type="pers" ana="n_17896" ref="#fk__p_47083">Hellmesberger</rs> glaubt darum, sich auf den grossen Vorgänger berufen<lb/>
+ zu können. Nur stand die Sache damals, da <seg type="insult">Herr <rs type="pers" ana="n_17897" ref="#fk__p_52178">Heuberger</rs></seg><lb/>
+ein junger Componist und noch kein Kritiker war, wesentlich<lb/>
+anders als heute. <rs type="pers" ana="n_17898" ref="#fk__p_45458">Hans Richter</rs> hat <seg type="insult">Herrn <rs type="pers" ana="n_17899" ref="#fk__p_52178">Heuberger</rs></seg> bloss dazu<lb/>
+bewegen wollen, weiterhin gut zu componieren, und Herr <rs type="pers" ana="n_17900" ref="#fk__p_47083">Hellmesberger<lb/>
+</rs> möchte ihn davon abbringen, weiterhin schlecht zu recensieren<lb/>
+. Jenes Zweck war löblich, und Dieses Zweck ist <seg type="insult">Lob</seg>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_52178">
+               <persName>Heuberger, Richard</persName>
+               <birth>
+                  <date>1850-6-18</date>
+                  <place>Graz</place>
+               </birth>
+               <death>
+                  <date>1914-10-28</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Komponist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11684</idno></person>
+            <person xml:id="fk__p_47083">
+               <persName>Hellmesberger, Josef jun.</persName>
+               <birth>
+                  <date>1855-4-9</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1907-4-26</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Komponist</occupation>
+               <occupation>Dirigent</occupation>
+               <occupation>Violinist</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16077</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/18093</idno></person>
+            <person xml:id="fk__p_45458">
+               <persName>Richter, Hans</persName>
+               <birth>
+                  <date>1843-4-4</date>
+                  <place>Raab, Ungarn</place>
+               </birth>
+               <death>
+                  <date>1916-12-5</date>
+                  <place>Bayreuth</place>
+               </death>
+               <occupation>Dirigent</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12521</idno></person>
+            </listPerson></back></text>
+</TEI>

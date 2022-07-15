@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_10900.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10899.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10901.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Wildwest und Wien, in: Fackel Heft 29, Nr. 759, 1927, S. 19-19</title>
+            <title type="iso-date">1927-06-01</title>
+            <title type="id">tid_10900</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">29</title><title type="heft">759</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-29-759_n0019.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/759,019</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Wildwest und Wien</head>
+            <p ana="pr152134">
+<space/>Die Einwohnerschaft hat eine<lb/>
+Ehrung besonderer Art anläßlich<lb/>
+der <rs type="event">Zentenarfeier für <rs type="pers" ana="n_90823" ref="#fk__p_49349">Beethoven</rs></rs><lb/>
+vor. Die hiesigen Musikprofessoren<lb/>
+haben nämlich an die Regierung<lb/>
+das Ersuchen gerichtet, zum Gedächtnis<lb/>
+ <rs type="pers" ana="n_90824" ref="#fk__p_49349">Beethovens</rs> für eine Woche<lb/>
+alle Jazzmusik einzustellen.<lb/>
+</p>
+            <p ana="pr152138">
+Samstag, <date>26. III.</date><lb/>
+11 Uhr Festversammlung<lb/>
+20.15 <rs type="pers" ana="n_90825" ref="#fk__p_49349">Beethovenabend</rs>, sodann<lb/>
+Abendtanzkonzert des <rs type="inst">Jazzorchesters<lb/>
+ <rs type="pers" ana="n2_8029" ref="#fk__p_57573">Bertold Ullmann</rs></rs><lb/>
+</p>
+            <p ana="pr152139">
+Sonntag <date>27. III.</date><lb/>
+12 Uhr <rs type="title"><foreign xml:lang="la">Missa solemnis</foreign></rs><lb/>
+19.45 Operettenaufführung »<rs type="title">Alt-Wien<lb/>
+</rs>«, Operette in drei Akten<lb/>
+von <rs type="pers" ana="n_90826" ref="#fk__p_45194"><abbr>G.</abbr> Kadelburg</rs><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_49349">
+               <persName>Beethoven, Ludwig van</persName>
+               <birth>
+                  <date>1770-12-17</date>
+                  <place>Bonn</place>
+               </birth>
+               <death>
+                  <date>1827-3-26</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Komponist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10866</idno></person>
+            <person xml:id="fk__p_57573">
+               <persName>Ullmann, Bertold </persName>
+               <birth>
+                  <date>1877-3-20</date>
+                  <place>Wien</place>
+               </birth>
+               <occupation>Dirigent</occupation>
+               <note type="comment"/>
+               <note type="comment">Juni 1927 Jazzorchester Bertold Ullmann</note>
+               <note type="comment">Konzertdirektor Berthold Ullmann, 6., Windmühlgasse 30</note>
+            </person>
+            <person xml:id="fk__p_45194">
+               <persName>Kadelburg, Gustav</persName>
+               <birth>
+                  <date>1851-7-26</date>
+                  <place>Pest</place>
+               </birth>
+               <death>
+                  <date>1925-9-11</date>
+                  <place>Berlin</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11845</idno></person>
+            </listPerson></back></text>
+</TEI>

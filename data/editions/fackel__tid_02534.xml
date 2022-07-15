@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02534.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02533.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02535.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Wer hat Recht?, in: Fackel Heft 04, Nr. 109, 1902, S. 17-18</title>
+            <title type="iso-date">1902-07-17</title>
+            <title type="id">tid_02534</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">04</title><title type="heft">109</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-04-109_n0017.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/109,017</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Wer hat Recht?</head>
+            <p ana="pr24691">
+<space/><seg type="insult"><seg type="spc">Der Leitartikler</seg></seg> (<seg ana="‚Neue Freie Presse‘, 10. Juli, Morgen-&#10;blatt"/>): »<QUOTE rn="1" sourceID="FK-04-109_n0017_a">Gefälscht wird der <rs type="inst">parlamentarische Gedanke</rs> durch die<lb/>
+wachsende Zahl der <rs type="inst"><seg type="spc">Berufsparlamentarier</seg></rs> <seg type="symbol" subtype="4dotsEditor"/> Die Mitglieder<lb/>
+des französischen und des <seg type="spc">ungarischen</seg> <rs type="inst">Parlaments</rs> bekommen<lb/>
+Gehalte, und was <seg type="insult">diese <seg type="spc">freisinnigen</seg> Nationen</seg> thun, könnte<lb/>
+Oesterreich nachahmen.</QUOTE>«<lb/>
+</p>
+            <p ana="pr24694">
+<space/><seg type="insult"><seg type="spc">Der Localredacteur</seg></seg> (<seg ana="‚Neue Freie Presse‘, 11. Juli, Morgen-&#10;blatt, Seite 6, 1. Spalte, Zeile 4 von oben"/>): »<QUOTE rn="1" sourceID="FK-04-109_n0017_b">In wenigen Ländern<lb/>
+des Continents ist die vom Fürsten <rs type="pers" ana="n_21314" ref="#fk__p_39266">Bismarck</rs> tief gehaßte <seg type="insult">Species<lb/>
+des <rs type="inst"><seg type="spc">Berufsparlamentariers</seg></rs></seg> so kastenmäßig, fast nach Familien<lb/>
+entwickelt, als in <seg type="insult">dem trotz seiner demokratischen Verfassung<lb/>
+<seg type="spc">unbillig aristokratischen Ungarn</seg></seg>.</QUOTE>«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_39266">
+               <persName>Bismarck, Otto Eduard Leopold Fürst</persName>
+               <birth>
+                  <date>1815-04-01</date>
+                  <place>Schönhausen</place>
+               </birth>
+               <death>
+                  <date>1898-07-30</date>
+                  <place>Friedrichsruh</place>
+               </death>
+               <occupation>Politiker</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13749</idno></person>
+            </listPerson></back></text>
+</TEI>

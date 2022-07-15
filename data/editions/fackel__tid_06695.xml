@@ -1,0 +1,43 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06695.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06694.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06696.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Wie sagt doch Fehrenbach, in: Fackel Heft 15, Nr. 395, 1914, S. 57-57</title>
+            <title type="iso-date">1914-01-01</title>
+            <title type="id">tid_06695</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">15</title><title type="heft">395</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-15-395_n0057.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/395,057</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Wie sagt doch Fehrenbach</head>
+            <p ana="pr90321">
+<space/><seg type="symbol" subtype="4dots"/> Aber bereits nach den ersten Worten, die er gesprochen,<lb/>
+tritt tiefes Schweigen ein und das Haus hört ihm mit angespanntem<lb/>
+Interesse zu. Abgeordneter <rs type="pers" ana="n_61665" ref="#fk__p_43131">Fehrenbach</rs> sagt: Das Unzulängliche, hier<lb/>
+wird’s Ereignis (lebhafte Zustimmung), das Unbegreifliche, hier wird’s<lb/>
+getan. (Erneute lebhafte Zustimmung) <seg type="symbol" subtype="4dots"/><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_43131">
+               <persName>Fehrenbach, Konstantin</persName>
+               <birth>
+                  <date>1852-01-11</date>
+                  <place>Wellendingen/Baden</place>
+               </birth>
+               <death>
+                  <date>1926-03-26</date>
+                  <place>Freiburg/Br.</place>
+               </death>
+               <occupation>Politiker</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07240.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07239.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07241.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lieblinge des Publikums, in: Fackel Heft 18, Nr. 426, 1916, S. 76-76</title>
+            <title type="iso-date">1916-06-01</title>
+            <title type="id">tid_07240</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">18</title><title type="heft">426</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-18-426_n0076.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/426,076</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Lieblinge des Publikums</head>
+            <p ana="pr97978">
+<space/>Die Nachricht von der großen Seeschlacht und von dem Erfolge<lb/>
+der deutschen Flotte ist in der verbündeten Monarchie mit lebhafter<lb/>
+Befriedigung aufgenommen worden. Die österreichisch-ungarische und<lb/>
+die deutsche Flotte <seg type="spc">gehören längst zu den Lieblingen des<lb/>
+Publikums</seg>. Um so herzlicher wird es der deutschen Flotte <seg type="spc">vergönnt</seg>,<lb/>
+daß sie Gelegenheit fand, sich in einer großen Seeschlacht ruhmvoll<lb/>
+ihren Platz in der <FERR href="FK-18-431_n0066.xml" fcorrID="fk_04_fcorr_2201775" id="fk_04_ferr_2201775" emID="fk_04_em_2201778"><ERR fcorr="Kriegsgeschichte">Kiegsgeschichte</ERR></FERR> zu <seg type="spc">sichern</seg>.<lb/>
+</p>
+            <p ana="pr97980">
+<space/>Wenn nur <seg type="insult">der <rs type="pers" ana="n_65036" ref="#fk__p_43965">Werner</rs> und die <rs type="pers" ana="n_65037" ref="#fk__p_50271">Zwerenz</rs></seg> nichts dagegen haben!<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_43965">
+               <persName>Werner, Fritz</persName>
+               <birth>
+                  <date>1871-11-18</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1940-9-22</date>
+                  <place>Bad Hall</place>
+               </death>
+               <occupation>Sänger</occupation>
+               <occupation>Regisseur</occupation>
+               <note type="comment">steht im Kutsch/Riemens</note>
+               <note type="comment">Tenor</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_21251</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/13100</idno></person>
+            <person xml:id="fk__p_50271">
+               <persName>Zwerenz, Mizzi</persName>
+               <birth>
+                  <date>1876-7-13</date>
+                  <place>Pöstyn, Ungarn </place>
+               </birth>
+               <death>
+                  <date>1947-6-14</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schauspielerin</occupation>
+               <occupation>Sängerin</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10697</idno></person>
+            </listPerson></back></text>
+</TEI>

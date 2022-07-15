@@ -1,0 +1,43 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07792.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07791.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07793.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Gerüchte über einen Plan, in: Fackel Heft 19, Nr. 454, 1234, S. 49-49</title>
+            <title type="iso-date">1234-01-01</title>
+            <title type="id">tid_07792</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">19</title><title type="heft">454</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-19-454_n0049.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/454,049</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Gerüchte über einen Plan</head>
+            <p ana="pr104202">
+<space/>— Wie <seg type="spc">verlautet</seg>, <seg type="spc">plant</seg> die <rs type="inst">Klausenburger Universität</rs>,<lb/>
+den Chef des <rs type="inst">Generalstabes</rs> Generalobersten <rs type="pers" ana="n_66972" ref="#fk__p_43700">Freiherrn Arz<lb/>
+<abbr>v.</abbr> Straußenburg</rs> zum Ehrendoktor der <rs type="inst">philosophischen Fakultät</rs><lb/>
+zu wählen.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_43700">
+               <persName>Arz-Straußenburg, Arthur Freiherr von </persName>
+               <birth>
+                  <date>1857-6-16</date>
+                  <place>Hermannstadt</place>
+               </birth>
+               <death>
+                  <date>1935-7-1</date>
+                  <place>Budapest</place>
+               </death>
+               <occupation>Offizier</occupation>
+               <note type="comment">General; Chef des Generalstabs</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

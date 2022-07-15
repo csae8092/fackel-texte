@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_08534.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08533.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08535.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Wie es gemacht wird, in: Fackel Heft 20, Nr. 484, 1918, S. 213-213</title>
+            <title type="iso-date">1918-10-01</title>
+            <title type="id">tid_08534</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">20</title><title type="heft">484</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-20-484_n0213.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/484,213</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Wie es gemacht wird</head>
+            <p ana="pr111910">
+<space/><seg type="symbol" subtype="3dots"/> <rs type="pers" ana="n_69577" ref="#fk__p_38530">Asquith</rs> verlangt selbst für den Fall der Schiedsgerichte<lb/>
+die Anwendung militärischen und wirtschaftlichen Zwanges und<lb/>
+spricht von allen Grundsätzen <seg type="spc"><rs type="pers" ana="n_69578" ref="#fk__p_55616">Wilsons</rs></seg>, <seg type="spc">wie von <seg type="insult">öligen<lb/>
+Gemeinplätzen</seg></seg>.<lb/>
+</p>
+            <p ana="pr111912">
+<space/>Er hat nämlich von denen <rs type="pers" ana="n_69579" ref="#fk__p_44656">Czernins</rs> gesprochen.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_38530">
+               <persName>Asquith. Herbert Henry Earl of Oxford and Asquith</persName>
+               <birth>
+                  <date>1852-09-12</date>
+                  <place>Morley/Yorkshire</place>
+               </birth>
+               <death>
+                  <date>1928-02-15</date>
+                  <place>Sutton Courtenay/Oxfordshire</place>
+               </death>
+               <occupation>Politiker</occupation>
+            </person>
+            <person xml:id="fk__p_55616">
+               <persName>Wilson, Thomas Woodrow</persName>
+               <birth>
+                  <date>1856-12-28</date>
+                  <place>Staunton, Va.</place>
+               </birth>
+               <death>
+                  <date>1924-2-3</date>
+                  <place>Washington, D. C.</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <note type="comment">1913-21 der 28. Präs. der USA</note>
+            </person>
+            <person xml:id="fk__p_44656">
+               <persName>Czernin-Chudenitz, Ottokar Theobald Graf </persName>
+               <birth>
+                  <date>1872-09-26</date>
+                  <place>Dimokur/Böhmen</place>
+               </birth>
+               <death>
+                  <date>1932-04-04</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <occupation>Diplomat</occupation>
+               <note type="comment"/>
+               <note type="comment">Sohn Theobald Peter Ottokar (Winař 29.4.1898 - Wien 14.5.1974)</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_14331</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/15184</idno></person>
+            </listPerson></back></text>
+</TEI>

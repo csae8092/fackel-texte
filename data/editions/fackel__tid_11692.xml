@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_11692.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11691.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11693.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Abends war Jannings, in: Fackel Heft 33, Nr. 852, 1931, S. 6-7</title>
+            <title type="iso-date">1931-05-01</title>
+            <title type="id">tid_11692</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">33</title><title type="heft">852</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-33-852_n0006.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/852,006</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Abends war Jannings</head>
+            <p ana="pr169732">
+im <rs type="inst">Akademietheater</rs> bei der Aufführung der »<rs type="title">Wienerinnen</rs>« durch die<lb/>
+Schauspielklasse <rs type="pers" ana="n_101514" ref="#fk__p_41761">Doktor Beer</rs>. <rs type="pers" ana="n_101515" ref="#fk__p_42624">Jannings</rs> fand an den Darbietungen der<lb/>
+jungen Schauspieler sichtlich großes Gefallen und erwähnte, daß<lb/>
+</p>
+            <p ana="pr169733">
+auch er zum erstenmal in einer Schülervorstellung<lb/>
+ in Liegnitz in Schlesien aufgetreten<lb/>
+ sei und daß bei dieser Aufführung<lb/>
+<seg type="spc">der große <rs type="pers" ana="n_101516" ref="#fk__p_37768">Matkowsky</rs> anwesend war</seg>.<lb/>
+</p>
+            <p ana="pr169734">
+<seg type="spc">Ähnlich ist nun</seg> der Besuch von <rs type="pers" ana="n_101517" ref="#fk__p_42624">Jannings</rs> bei dieser Aufführung,<lb/>
+<seg type="spc">es bleibt nur die Frage</seg>, ob wieder ein <rs type="pers" ana="n_101518" ref="#fk__p_42624">Jannings</rs> in dieser<lb/>
+Aufführung entdeckt wurde.<lb/>
+</p>
+            <p ana="pr169736">
+Möglich, aber kaum ein <rs type="pers" ana="n_101519" ref="#fk__p_37768">Matkowsky</rs>. Die Ähnlichkeit liegt entschieden<lb/>
+ darin, daß auch dieser schon bei Tag den Heurigen<lb/>
+aufzusuchen pflegte.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_42624">
+               <persName>Jannings, Emil</persName>
+               <birth>
+                  <date>1884-7-23</date>
+                  <place>Rorschach am Bodensee</place>
+               </birth>
+               <death>
+                  <date>1950-1-2</date>
+                  <place>Strobl am Wolfgangsee</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11816</idno></person>
+            <person xml:id="fk__p_41761">
+               <persName>Beer, Rudolf</persName>
+               <birth>
+                  <date>1885-8-22</date>
+                  <place>Graz</place>
+               </birth>
+               <death>
+                  <date>1938-5-9</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Regisseur</occupation>
+               <occupation>Theaterleiter</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/13920</idno></person>
+            <person xml:id="fk__p_37768">
+               <persName>Matkowsky, Adalbert</persName>
+               <birth>
+                  <date>1858-12-06</date>
+                  <place>Königsberg</place>
+               </birth>
+               <death>
+                  <date>1909-03-16</date>
+                  <place>Berlin</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/28414</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_04437.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04436.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04438.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Zionist. (Eine zionistische Regung), in: Fackel Heft 08, Nr. 222, 1907, S. 16-17</title>
+            <title type="iso-date">1907-03-27</title>
+            <title type="id">tid_04437</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">08</title><title type="heft">222</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-08-222_n0016.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/222,016</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Zionist. (Eine zionistische Regung)</head>
+            <p ana="pr48509">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="name_203558" ref="#fk__p_55880">Zionist</rs>.</seg></seg></seg> Trotz <seg type="insult">aller Lage und Lüge der Deutschen in Österreich</seg><lb/>
+zieht’s die ‚<rs type="paper" ana="werk_15359">Neue Freie Presse</rs>‘ unwiderstehlich nach <seg type="insult">der messianischen</seg><lb/>
+</p>
+            <p ana="pr48509">
+<seg type="insult">Richtung</seg>. So wahr die Sprachenverwirrung beim babylonischen Turmbau<lb/>
+ nicht durch <seg type="insult">Verordnungen</seg> geregelt wurde, so wahr sind die tschechischen<lb/>
+ Straßentafeln <seg type="insult">nicht die richtigen Tafeln <rs type="pers">Mosis</rs></seg>. Immer wieder reißt<lb/>
+es die ‚<rs type="paper" ana="werk_15360">Neue Freie Presse</rs>‘ zu <seg type="insult">solchen Erkenntnissen</seg> hin. In ihrem Unbewußten<lb/>
+ lügt sie nicht, und ihre Irrtümer sind die <seg type="insult">Wahrheiten des<lb/>
+Blutes</seg>. Man sehe nur, wie sie <abbr>z. B.</abbr> <foreign xml:lang="fr"><seg type="spc">danse macabre</seg></foreign> übersetzt. »Ihr<lb/>
+morgiges Programm«, schreibt die ‚<rs type="paper" ana="werk_15361">Neue Freie Presse</rs>‘ über eine Violinvirtuosin<lb/>
+ am <date>8. März</date>, »enthält Konzerte von <rs type="pers" ana="n_39132" ref="#fk__p_44511">Godard</rs> und <rs type="pers" ana="n_39133" ref="#fk__p_55455">Wieniawski</rs>,<lb/>
+den <seg type="insult"><rs type="title"><seg type="spc">Makkabäertanz</seg></rs></seg> von <rs type="pers" ana="n_39134" ref="#fk__p_52690">Saint-Saëns</rs> <abbr>u. s. w.</abbr>«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_55880">
+               <persName>Zionist</persName>
+            </person>
+            <person xml:id="fk__p_55455">
+               <persName>Wieniawski, Henryk</persName>
+               <birth>
+                  <date>1835-07-10</date>
+                  <place>Lublin</place>
+               </birth>
+               <death>
+                  <date>1880-3-31</date>
+                  <place>Moskau</place>
+               </death>
+               <occupation>Violinvirtuose</occupation>
+               <occupation>Komponist</occupation>
+               <note type="comment">Konzert von Vivien Chartres im Gr. Musikvereinssaal am 08.03.1907</note>
+               <note type="comment">durch Programmzettel korrekt identifiziert; Konzert D-moll</note>
+            </person>
+            <person xml:id="fk__p_52690">
+               <persName>Saint-Saëns, Camille</persName>
+               <birth>
+                  <date>1835-10-9</date>
+                  <place>Paris</place>
+               </birth>
+               <death>
+                  <date>1921-12-16</date>
+                  <place>Algier</place>
+               </death>
+               <occupation>Komponist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/3702</idno></person>
+            <person xml:id="fk__p_44511">
+               <persName>Godard, Benjamin</persName>
+               <birth>
+                  <date>1849-8-18</date>
+                  <place>Paris</place>
+               </birth>
+               <death>
+                  <date>1895-1-10</date>
+                  <place>Cannes</place>
+               </death>
+               <occupation>Komponist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/7442</idno></person>
+            </listPerson></back></text>
+</TEI>

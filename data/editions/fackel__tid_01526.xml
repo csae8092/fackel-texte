@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01526.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01525.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01527.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Genosse. (Genosse), in: Fackel Heft 02, Nr. 064, 1901, S. 32-32</title>
+            <title type="iso-date">1901-01-01</title>
+            <title type="id">tid_01526</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">064</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-064_n0032.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/064,032</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Genosse. (Genosse)</head>
+            <p ana="pr14998">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="n_12379" ref="#fk__p_44267">Genosse</rs>.</seg></seg></seg> Die ‚<rs type="paper" ana="werk_4752">Arbeiter-Zeitung</rs>‘ verkündete kürzlich in <seg type="insult">dem ihr<lb/>
+eigenen vollen Glockenton</seg>: »Aussprechen das, was ist, das ist immer das<lb/>
+oberste Gebot unserer Taktik gewesen.« Na also! Und wie wahr das ist,<lb/>
+hat sie vor allem in der <rs type="event"><rs type="pers" ana="n2_998" ref="#fk__p_38056">Dreyfus-Affaire</rs></rs> und <rs type="pers" ana="n_12380" ref="#fk__p_55531">Liebknecht</rs> gegenüber<lb/>
+bewiesen. Sie hat damals redlich »ausgesprochen, was ist«, und ist nicht,<lb/>
+wie Böswillige argwöhnten, aus <seg type="insult">Taktik</seg> der <seg type="insult">Taktik des Herrn <rs type="pers" ana="n_12381" ref="#fk__p_46782">Jaurès</rs></seg><lb/>
+gefolgt. <seg type="insult">Taktik!</seg> Wie gut, dass sie dies Wort bei dieser Gelegenheit<lb/>
+anwendet. Bedeutet es nicht schon an sich das Gegentheil dessen, was<lb/>
+man unter dem Gebot, auszusprechen was ist, gemeinhin versteht?<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46782">
+               <persName>Jaurès, Jean</persName>
+               <birth>
+                  <date>1859-9-3</date>
+                  <place>Castres (Dép. Tarn)</place>
+               </birth>
+               <death>
+                  <date>1914-7-31</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Philosoph</occupation>
+               <occupation>Politiker</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/18819</idno></person>
+            <person xml:id="fk__p_38056">
+               <persName>Dreyfus, Alfred</persName>
+               <birth>
+                  <date>1859-10-9</date>
+                  <place>Mühlhausen</place>
+               </birth>
+               <death>
+                  <date>1935-7-12</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Offizier</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/4216</idno></person>
+            <person xml:id="fk__p_55531">
+               <persName>Liebknecht, Wilhelm</persName>
+               <birth>
+                  <date>1826-03-29</date>
+                  <place>Gießen</place>
+               </birth>
+               <death>
+                  <date>1900-08-07</date>
+                  <place>Charlottenburg</place>
+               </death>
+               <occupation>Sozialist</occupation>
+               <occupation>Journalist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/51864</idno></person>
+            <person xml:id="fk__p_44267">
+               <persName>Genosse</persName>
+            </person>
+            </listPerson></back></text>
+</TEI>

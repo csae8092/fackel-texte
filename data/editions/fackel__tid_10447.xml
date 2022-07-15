@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_10447.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10446.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10448.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Die Theatergemeinde, in: Fackel Heft 27, Nr. 717, 1926, S. 73-73</title>
+            <title type="iso-date">1926-04-01</title>
+            <title type="id">tid_10447</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">27</title><title type="heft">717</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-27-717_n0073.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/717,073</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Die Theatergemeinde</head>
+            <p ana="pr143674">
+<space/>In dem Resultat der Abstimmung<lb/>
+</p>
+            <p ana="pr143676">
+bei der jedes Mitglied aus einer Liste von Stücken je ein klassisches<lb/>
+und ein modernes Stück bezeichnen konnte, das ihm zur Aufführung<lb/>
+im Rahmen der Theatergemeinde im <rs type="inst">Burgtheater</rs> erwünscht wäre<lb/>
+</p>
+            <p ana="pr143678">
+halten sich so ziemlich die Wage:<lb/>
+</p>
+            <p ana="pr143680">
+<space/><rs type="pers" ana="n_87509" ref="#fk__p_37974">Engels</rs> »<rs type="title">Der ewige Jüngling</rs>« mit 122,<lb/>
+<space/><rs type="pers" ana="n_87510" ref="#fk__p_55589">Shakespeare</rs> »<rs type="title"><rs type="pers">Macbeth</rs></rs>« mit 117.<lb/>
+</p>
+            <p ana="pr143682">
+Es ist aber doch vielleicht anzunehmen, daß die 117 nicht in<lb/>
+den 122 enthalten sind.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_55589">
+               <persName>Shakespeare, William</persName>
+               <birth>
+                  <date>1564-4-23?</date>
+                  <place>Stratford-upon-Avon</place>
+               </birth>
+               <death>
+                  <date>1616-4-23</date>
+                  <place>Stratford-upon-Avon</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2412</idno></person>
+            <person xml:id="fk__p_37974">
+               <persName>Engel, Alexander</persName>
+               <birth>
+                  <date>1868-4-10</date>
+                  <place>Turócz-Neczpal</place>
+               </birth>
+               <death>
+                  <date>1940-11-17</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11253</idno></person>
+            </listPerson></back></text>
+</TEI>

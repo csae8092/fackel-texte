@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_09030.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09029.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09031.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">[Andreas Gryphius:] Thränen des Vaterlandes, in: Fackel Heft 23, Nr. 577, 1921, S. 72-72</title>
+            <title type="iso-date">1921-11-01</title>
+            <title type="id">tid_09030</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">23</title><title type="heft">577</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-23-577_n0072.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/577,072</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>[Andreas Gryphius:] Thränen des Vaterlandes</head>
+            <lg>
+<l>Wir sind doch nunmehr ganz, ja mehr denn ganz verheeret!</l>
+<l><seg type="insult">Der frechen Völker Schaar</seg>, <seg type="insult">die rasende Posaun’</seg>,</l>
+<l>Das von Blut fette Schwerdt, die donnernde Karthaun’</l>
+<l>Hat Aller Schweiß und Fleiß und Vorrath aufgezehret.</l>
+</lg>
+            <lg>
+<l>Die Thürme stehn in Gluth, die Kirch’ ist umgekehret,</l>
+<l>Das Rathhaus liegt in Graus, die Starken sind zerhaun,</l>
+<l>Die Jungfraun sind geschänd’t, und wo wir hin nur schaun,</l>
+<l>Ist Feuer, Pest und Tod, der Herz und Geist durchfähret.</l>
+</lg>
+            <lg>
+<l>Hier durch die Schanz’ und Stadt rinnt allzeit frisches Blut;</l>
+<l>Dreimal sinds schon sechs Jahr, als unsrer Ströme Fluth,</l>
+<l>Von Leichen fast verstopft, sich langsam fortgedrungen.</l>
+</lg>
+            <lg>
+<l>Doch schweig’ ich noch von dem, was ärger als der Tod,</l>
+<l>Was grimmer denn die Pest und Gluth und Hungersnot:</l>
+<l>Daß auch der Seelen Schatz so Vielen abgezwungen.</l>
+</lg>
+            <p ana="pr120445">
+<rs type="pers" ana="n_73900" ref="#fk__p_38232"><AUCTOR><seg type="spc">Andreas Gryphius</seg></AUCTOR></rs>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_38232">
+               <persName>Gryphius, Andreas</persName>
+               <birth>
+                  <date>1616-10-02</date>
+                  <place>Glogau/Schles.</place>
+               </birth>
+               <death>
+                  <date>1664-07-16</date>
+                  <place>Glogau/Schles.</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/52645</idno></person>
+            </listPerson></back></text>
+</TEI>

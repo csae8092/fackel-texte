@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_05266.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05265.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05267.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ein bedeutendes Wort, in: Fackel Heft 12, Nr. 317, 1911, S. 9-9</title>
+            <title type="iso-date">1911-02-28</title>
+            <title type="id">tid_05266</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">12</title><title type="heft">317</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-12-317_n0009.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/317,009</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ein bedeutendes Wort</head>
+            <p ana="pr68431">
+<space/>»Aus Graz wird uns telegraphiert: Vor einigen Tagen weilte <rs type="pers" ana="n_49576" ref="#fk__p_53259">Siegfried<lb/>
+Wagner</rs> als Gast bei seinem Freund <rs type="pers" ana="n_49577" ref="#fk__p_43836">Friedrich Hofmann</rs>. Während der<lb/>
+Tafel kam man auch auf den Untergang des Unterseebootes »U 3« zu<lb/>
+sprechen. Da rief <rs type="pers" ana="n_49578" ref="#fk__p_53259">Wagner</rs> plötzlich mit großem Ernst aus: ‚Diese<lb/>
+Offiziere, die an dem ihnen zugewiesenen Dienstplatz umkamen, nachdem<lb/>
+ sie ihre Mannschaften gerettet hatten, haben ein Beispiel echt<lb/>
+germanischer Treue gegeben. Das sollten sich andere Völker zum Vorbild<lb/>
+ nehmen <seg type="symbol" subtype="4dots"/>‘«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_53259">
+               <persName>Wagner, Siegfried</persName>
+               <birth>
+                  <date>1869-6-6</date>
+                  <place>Tribschen/Schweiz</place>
+               </birth>
+               <death>
+                  <date>1930-8-4</date>
+                  <place>Bayreuth</place>
+               </death>
+               <occupation>Komponist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/13027</idno></person>
+            <person xml:id="fk__p_43836">
+               <persName>Hofmann, Friedrich</persName>
+               <birth>
+                  <date>1849-9-17</date>
+                  <place>Aschaffenburg</place>
+               </birth>
+               <death>
+                  <date>1931-11-23</date>
+                  <place>Graz</place>
+               </death>
+               <occupation>Architekt</occupation>
+               <occupation>Unternehmer</occupation>
+               <note type="comment">Freund Siegfried Wagners; Mitbegr. der Österr. Richard Wagner-Gesellschaft 1873</note>
+               <note type="comment">Graz, Körblergasse 28</note>
+               <note type="comment">Präs. der Brauerei Puntigam</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

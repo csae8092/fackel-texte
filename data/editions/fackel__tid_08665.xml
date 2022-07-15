@@ -1,0 +1,128 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_08665.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08664.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08666.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Großer Konzerthaussaal, 14. April, 2 Uhr: Freivorlesung, in: Fackel Heft 21, Nr. 521, 1920, S. 93-93</title>
+            <title type="iso-date">1920-02-01</title>
+            <title type="id">tid_08665</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">21</title><title type="heft">521</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-21-521_n0093.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/521,093</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Großer Konzerthaussaal, 14. April, 2 Uhr: Freivorlesung</head>
+            <p ana="pr114186">
+<space/><rs type="inst">Großer Konzerthaussaal</rs>, <date>14. April</date>, 2 Uhr: <seg type="spc">Freivorlesung<lb/>
+für <seg type="ELIDASH">Mittelschüler</seg> und Hochschüler</seg>. »<rs type="title"><rs type="pers"><seg type="spc">König Lear</seg></rs></rs>«, Tragödie in<lb/>
+fünf Aufzügen von <rs type="pers" ana="n_70600" ref="#fk__p_55589"><seg type="spc">Shakespeare</seg></rs>, nach <rs type="pers" ana="n_70601" ref="#fk__p_55691">Wolf Graf <abbr>v.</abbr> Baudissin</rs><lb/>
+(<rs type="pers" ana="n_70602" ref="#fk__p_38587"><rs type="pers" ana="n_70603" ref="#fk__p_49337">Schlegel-Tieck’sche Ausgabe</rs></rs>) und anderen Übersetzern vom Vorleser<lb/>
+bearbeitet.<lb/>
+</p>
+            <p ana="pr114187">
+<space/>Ouvertüre: <rs type="pers" ana="n_70604" ref="#fk__p_46942">Bach</rs>, <rs type="title">Präludium C-moll</rs>; zwischen dem 2. und<lb/>
+dem 3. Akt: <rs type="pers" ana="n_70605" ref="#fk__p_49965">Max Reger</rs>, <rs type="title">Pastorale F</rs>; Zeltmusik im 4. Akt: <rs type="pers" ana="n_70606" ref="#fk__p_49704">Marie<lb/>
+Hofer</rs>.<lb/>
+</p>
+            <p ana="pr114188">
+<space/>Ein kleiner Teil der Karten war zur Deckung der Saalkosten<lb/>
+verkauft worden.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_55589">
+               <persName>Shakespeare, William</persName>
+               <birth>
+                  <date>1564-4-23?</date>
+                  <place>Stratford-upon-Avon</place>
+               </birth>
+               <death>
+                  <date>1616-4-23</date>
+                  <place>Stratford-upon-Avon</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2412</idno></person>
+            <person xml:id="fk__p_49337">
+               <persName>Tieck, Ludwig</persName>
+               <birth>
+                  <date>1773-5-31</date>
+                  <place>Berlin</place>
+               </birth>
+               <death>
+                  <date>1853-4-28</date>
+                  <place>Berlin</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Dramaturg</occupation>
+               <occupation>Übersetzer</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/4132</idno></person>
+            <person xml:id="fk__p_55691">
+               <persName>Baudissin, Wolf Heinrich Graf</persName>
+               <birth>
+                  <date>1789-01-30</date>
+                  <place>Kopenhagen</place>
+               </birth>
+               <death>
+                  <date>1878-04-04</date>
+                  <place>Dresden</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            </person>
+            <person xml:id="fk__p_38587">
+               <persName>Schlegel, August Wilhelm von</persName>
+               <birth>
+                  <date>1767-9-5</date>
+                  <place>Hannover</place>
+               </birth>
+               <death>
+                  <date>1845-5-12</date>
+                  <place>Bonn</place>
+               </death>
+               <occupation>Literarhistoriker</occupation>
+               <occupation>Übersetzer</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/24212</idno></person>
+            <person xml:id="fk__p_46942">
+               <persName>Bach, Johann Sebastian</persName>
+               <birth>
+                  <date>1685-3-21</date>
+                  <place>Eisenach</place>
+               </birth>
+               <death>
+                  <date>1750-7-28</date>
+                  <place>Leipzig</place>
+               </death>
+               <occupation>Komponist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10806</idno></person>
+            <person xml:id="fk__p_49965">
+               <persName>Reger, Max</persName>
+               <birth>
+                  <date>1873-3-19</date>
+                  <place>Brand im Fichtelgebirge</place>
+               </birth>
+               <death>
+                  <date>1916-5-11</date>
+                  <place>Leipzig</place>
+               </death>
+               <occupation>Komponist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12484</idno></person>
+            <person xml:id="fk__p_49704">
+               <persName>Hofer, Maria</persName>
+               <birth>
+                  <date>1894-7-6</date>
+                  <place>Amstetten</place>
+               </birth>
+               <death>
+                  <date>1977-8-15</date>
+                  <place>Kitzbühel</place>
+               </death>
+               <occupation>Pianistin</occupation>
+               <note type="comment">Klavierbegleiterin von KK</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38401</idno></person>
+            </listPerson></back></text>
+</TEI>

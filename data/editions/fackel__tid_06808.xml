@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06808.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06807.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06809.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Im Burgtheater, in: Fackel Heft 16, Nr. 400, 1914, S. 8-8</title>
+            <title type="iso-date">1914-01-01</title>
+            <title type="id">tid_06808</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">16</title><title type="heft">400</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-16-400_n0008.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/400,008</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Im Burgtheater</head>
+            <p ana="pr91647">
+hätte wegen Erkrankung des Herrn <rs type="pers" ana="n_62248" ref="#fk__p_51516">Pittschau</rs> statt »<RS pers="Friedrich von Schiller"><rs type="title" ana="name_202643" ref="#fk__p_43876">Die Braut von Messina</rs></RS>«<lb/>
+»<RS pers="Gerhart Hauptmann"><rs type="title" ana="name_202644" ref="#fk__p_44354">Die versunkene Glocke</rs></RS>« als Ersatzvorstellung gegeben werden sollen.<lb/>
+Nachmittags wurde aber nach der offiziellen Bekanntgabe der Meldungen<lb/>
+aus Sarajewo über Auftrag des <rs type="inst">Obersthofmeisteramtes</rs> diese Vorstellung<lb/>
+abgesagt. Um 5 Uhr erfolgte ein neuerlicher Befehl des <rs type="inst">Obersthofmeisteramtes<lb/>
+</rs>, daß auch die morgige und übermorgige Vorstellung<lb/>
+entfallen und die Direktion das Personal in die Ferien schicken soll.<lb/>
+</p>
+            <p ana="pr91649">
+<space/>Ein tröstliches Moment. Auch stellt sich heraus, daß das<lb/>
+<rs type="inst">Burgtheater</rs> im Lauf der Zeit besser geworden ist. Ehedem, wenn<lb/>
+die <rs type="pers" ana="n_62249" ref="#fk__p_37842">Sonnenthals</rs> erkrankten, wurde die Vorstellung nicht abgesagt,<lb/>
+sondern ein roter Zettel meldete, daß <seg type="insult">die <rs type="pers" ana="n_62250" ref="#fk__p_51516">Pittschaus</rs></seg> einspringen.<lb/>
+<seg type="insult">Die <rs type="pers" ana="n_62251" ref="#fk__p_51516">Pittschaus</rs></seg> sind unersetzlich.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_51516">
+               <persName>Pittschau, Ernst</persName>
+               <birth>
+                  <date>1859-11-10</date>
+                  <place>Egelin/Magdeburg</place>
+               </birth>
+               <death>
+                  <date>1916-11-19</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <note type="comment">seit 1905 am Burgtheater</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/4712</idno></person>
+            <person xml:id="fk__p_37842">
+               <persName>Sonnenthal, Adolf Ritter von</persName>
+               <birth>
+                  <date>1834-12-21</date>
+                  <place>Pest</place>
+               </birth>
+               <death>
+                  <date>1909-4-4</date>
+                  <place>in der Eisenbahn von Prag nach Wien</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <note type="comment">Schwester: Emma Wertheimer, gest. Wien 04.09.1929, im 86. Lj.</note>
+               <note type="comment">Schwester: Laura Lemberger, gest. Wien 23.04.1907, im 71. Lj.</note>
+               <note type="comment">seit 1856 am Burgtheater</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_20204</idno></person>
+            <person xml:id="fk__p_43876">
+               <persName>Schiller, Friedrich von</persName>
+               <birth>
+                  <date>1759-11-10</date>
+                  <place>Marbach am Neckar</place>
+               </birth>
+               <death>
+                  <date>1805-5-9</date>
+                  <place>Weimar</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Mortimer 363/9, 679/69, 912/7 und 912/58 ist von Ögg Shakespeare zugeordnet</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12654</idno></person>
+            <person xml:id="fk__p_44354">
+               <persName>Hauptmann, Gerhart</persName>
+               <birth>
+                  <date>1862-11-15</date>
+                  <place>Salzbrunn, Schlesien</place>
+               </birth>
+               <death>
+                  <date>1946-6-6</date>
+                  <place>Agnetendorf</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Ögg teilt die indirekte Stelle 521/64 zu, irrtümlich</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11617</idno></person>
+            </listPerson></back></text>
+</TEI>

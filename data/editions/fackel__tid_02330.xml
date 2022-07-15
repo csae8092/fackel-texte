@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02330.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02329.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02331.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">»Ein Aschen!«, in: Fackel Heft 03, Nr. 099, 1902, S. 20-21</title>
+            <title type="iso-date">1902-04-8</title>
+            <title type="id">tid_02330</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">03</title><title type="heft">099</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-03-099_n0020.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/099,020</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>»Ein Aschen!«</head>
+            <p ana="pr22709">
+<space/>Im »Briefkasten« der <seg ana="‚Neuen Freien Presse‘ vom 27. März"/><lb/>
+ward einem besorgten Leser in Königinhof <seg type="insult">die folgende verschämte<lb/>
+ Antwort</seg> ertheilt:<lb/>
+</p>
+            <p ana="pr22711">
+<space/>»<QUOTE rn="1" sourceID="FK-03-099_n0020_a">Dass <rs type="pers" ana="n_19773" ref="#fk__p_48503"><abbr>L.</abbr></rs> ins nationalistische Lager übergegangen sei,<lb/>
+kann man nicht behaupten. Er gibt jedoch eine <rs type="perRef" ana="werk_7573">Zeitschrift</rs><lb/>
+heraus, in welcher er eine ganz eigenartige Politik vertritt,<lb/>
+über die wir schon mehrfach berichtet haben. Auch hat er<lb/>
+sich mit der Familie seines ehemaligen Clienten entzweit.</QUOTE>«<lb/>
+</p>
+            <p ana="pr22713">
+<space/>Wer nur <seg type="insult">dieser <rs type="pers" ana="n_19774" ref="#fk__p_48503"><abbr>L.</abbr></rs> und sein <RS pers="Alfred Dreyfus" globID="name_202199">»ehemaliger Client«</RS></seg> sein mögen?<lb/>
+Dass nach zweiundeinhalb Jahren von <seg type="insult">all dem Pathos</seg> <seg type="insult">solch ein<lb/>
+katzenjämmerliches Briefkastennotizchen</seg> erübrigen werde, das hat<lb/>
+sich die ‚<rs type="paper" ana="werk_7574">Neue Freie Presse</rs>‘ nicht träumen lassen, als sie von Wien<lb/>
+aus die Vertheidigung in einem hunderte Meilen weit sich abspielenden<lb/>
+ Process tagtäglich kritisierte und anfeuerte!<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_48503">
+               <persName>Labori, Fernand-Gustave-Gaston</persName>
+               <birth>
+                  <date>1860-4-18</date>
+                  <place>Reims</place>
+               </birth>
+               <death>
+                  <date>1917-3-14</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Rechtsanwalt</occupation>
+               <note type="comment">Grab auf dem Friedhof Montparnasse</note>
+               <note type="comment">Verteidiger Dreyfus'</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

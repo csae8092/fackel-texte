@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07067.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07066.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07068.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Nachrichten aus dem Hinterlande, in: Fackel Heft 18, Nr. 418, 1916, S. 33-33</title>
+            <title type="iso-date">1916-04-01</title>
+            <title type="id">tid_07067</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">18</title><title type="heft">418</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-18-418_n0033.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/418,033</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Nachrichten aus dem Hinterlande</head>
+            <p ana="pr95788">
+<space/><seg type="sidehead">[<seg type="spc">Benagelung eines Stammtisches</seg>.]</seg> Im Gasthause des Herrn<lb/>
+<rs type="pers" ana="n_64282" ref="#fk__p_43523">Franz Koci</rs>, 2. Bezirk, Blumauergasse 2, fand am <date>21. <abbr>d.</abbr></date> die feierliche<lb/>
+Benagelung des Stammtisches der »<rs type="inst">Freiwilligen Helfer</rs>« zur Förderung<lb/>
+der offiziellen Fürsorge statt. <seg type="spc">Als Obmann dieses Stammtisches</seg><lb/>
+wurde Herr <rs type="pers" ana="n_64283" ref="#fk__p_38813">Leopold Popper</rs>, als Kassier wurde Herr <rs type="pers" ana="n_64284" ref="#fk__p_45186">Gustav Fried</rs><lb/>
+gewählt. <seg type="spc">In einer Ansprache hob Herr <rs type="pers" ana="n_64285" ref="#fk__p_45932">Hermann Landau</rs> die<lb/>
+großartigen Leistungen unserer Truppen hervor</seg> und <seg type="spc">versicherte<lb/>
+</seg>, <seg type="spc">daß hier im Hinterlande auch ein jeder</seg> mit der <choice><sic>gößten</sic><corr>größten</corr></choice><lb/>
+Opferwilligkeit <seg type="spc">an dem Kampfe teilnehme</seg>, worauf Herr <rs type="pers" ana="n_64286" ref="#fk__p_52739">Samuel<lb/>
+Bojnitzer</rs> <seg type="spc">erwiderte</seg>. Die Benagelung fand unter zahlreichem Zuspruch<lb/>
+der Gäste statt.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_45186">
+               <persName>Frid, Gustav</persName>
+               <birth>
+                  <date>1866-11-28</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1928-2-17</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Bankier</occupation>
+               <note type="comment">1916 Kassier der "Freiwilligen Helfer", 2. Bezirk, mit Leop. Popper, Herm. Landau, Sam. Bojnitzer</note>
+               <note type="comment">2., Praterstraße 19</note>
+               <note type="comment">Namenskorrektur!</note>
+               <note type="comment">Fa. Weissenberger, Frid &amp; Co.</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/16586</idno></person>
+            <person xml:id="fk__p_52739">
+               <persName>Bojnitzer, Samuel</persName>
+               <birth>
+                  <date>1866-4-25</date>
+                  <place>St. Georgen</place>
+               </birth>
+               <death>
+                  <date>1931-11-6</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Handlungsgehilfe</occupation>
+               <note type="comment">2., Blumauergasse 24</note>
+               <note type="comment">Simon Bojnitzer (1862?-01.02.1938) 4. Tor, Gruppe 22</note>
+            </person>
+            <person xml:id="fk__p_45932">
+               <persName>Landau, Hermann</persName>
+               <birth>
+                  <date>1888-12-23</date>
+                  <place>Wien</place>
+               </birth>
+               <occupation>Handelsakademielehrer</occupation>
+               <note type="comment">6., Dürergasse 18</note>
+            </person>
+            <person xml:id="fk__p_43523">
+               <persName>Koci, Franz</persName>
+               <birth>
+                  <date>1874-3-7</date>
+                  <place>Slavetitz</place>
+               </birth>
+               <death>
+                  <date>1942-4-25</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Gastwirt</occupation>
+               <note type="comment">2., Blumauergasse 2</note>
+            </person>
+            <person xml:id="fk__p_38813">
+               <persName>Popper de Podhragy, Leopold Friedrich Freiherr von</persName>
+               <birth>
+                  <date>1886-9-17</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1986-1-17</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Industrieller</occupation>
+               <note type="comment">NFP 5.9.1930, Seite 10; er ist Neffe von Emmy Cahn-Speyer, Vetter von Robert Schenk</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

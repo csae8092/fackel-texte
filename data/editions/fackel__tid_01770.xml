@@ -1,0 +1,105 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01770.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01769.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01771.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Leserin. (Herr Ganz und die Moderne), in: Fackel Heft 03, Nr. 074, 1901, S. 28-28</title>
+            <title type="iso-date">1901-04-01</title>
+            <title type="id">tid_01770</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">03</title><title type="heft">074</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-03-074_n0028.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/074,028</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Leserin. (Herr Ganz und die Moderne)</head>
+            <p ana="pr17507">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_14744" ref="#fk__p_48890">Leserin</rs>.</seg></seg> Es ist wahr. <seg type="insult">Herr <rs type="pers" ana="n_14745" ref="#fk__p_46330">Hugo <seg type="spc">Ganz</seg></rs></seg>, der neulich über<lb/>
+<seg type="insult">»Modernitäts-Mode«</seg> schwätzte, könnte einem den schönsten Ekel an der<lb/>
+<rs type="inst">Secession</rs> verleiden. Der Mann vereinigt die <seg type="insult">Gesundheit <rs type="pers" ana="n_14746" ref="#fk__p_49957">Nordaus</rs></seg> mit<lb/>
+dem <seg type="insult">Humor <rs type="pers" ana="n_14747" ref="#fk__p_47222">Sternbergs</rs></seg>. Aber die ‚<rs type="paper" ana="werk_5578">Neue Freie Presse</rs>‘ lässt sich trotz<lb/>
+alledem in kein bestimmtes literarisches Fahrwasser locken; sie ist und<lb/>
+bleibt nach beiden Richtungen geschmacklos. Lässt sie am Samstag <seg type="insult">den<lb/>
+durch einen dramatischen Durchfall gereizten Herrn <rs type="pers" ana="n_14748" ref="#fk__p_46330">Ganz</rs></seg> die gesammte<lb/>
+ neuösterreichische Kunst bespucken, so lässt sie am Sonntag<lb/>
+<seg type="insult">Herrn <rs type="pers" ana="n_14749" ref="#fk__p_44279">Brandes</rs></seg> zu Wort kommen, der sich in seiner <seg type="insult">kritiklosen Begeisterung<lb/>
+</seg> zu dem Wagnis versteigt, <seg type="insult">Herrn <rs type="pers" ana="n_14750" ref="#fk__p_38500">Arthur Schnitzler</rs></seg>, dem<lb/>
+auch der Gegner Fleiß und Talent nicht absprechen wird, <seg type="insult">einen<lb/>
+»genialen Menschen«</seg> zu nennen.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_44279">
+               <persName>Brandes, Georg</persName>
+               <birth>
+                  <date>1842-2-4</date>
+                  <place>Kopenhagen</place>
+               </birth>
+               <death>
+                  <date>1927-2-19</date>
+                  <place>Kopenhagen</place>
+               </death>
+               <occupation>Literarhistoriker</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10992</idno></person>
+            <person xml:id="fk__p_46330">
+               <persName>Ganz, Hugo</persName>
+               <birth>
+                  <date>1862-4-24</date>
+                  <place>Mainz</place>
+               </birth>
+               <death>
+                  <date>1922-1-2</date>
+                  <place>Frankfurt/Main</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <note type="comment">NFP, Zeit, Frankfurter Zeitung</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2618</idno></person>
+            <person xml:id="fk__p_47222">
+               <persName>Sternberg, Julian</persName>
+               <birth>
+                  <date>1868-11-8</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1945-6-28</date>
+                  <place>Havanna/Kuba</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <note type="comment">Red. der NFP</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_20423</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/3021</idno></person>
+            <person xml:id="fk__p_48890">
+               <persName>Leserin</persName>
+            </person>
+            <person xml:id="fk__p_49957">
+               <persName>Nordau, Max Simon</persName>
+               <birth>
+                  <date>1849-7-29</date>
+                  <place>Pest</place>
+               </birth>
+               <death>
+                  <date>1923-1-22</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Arzt</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_18472</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12365</idno></person>
+            <person xml:id="fk__p_38500">
+               <persName>Schnitzler, Arthur</persName>
+               <birth>
+                  <date>1862-5-15</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1931-10-21</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Arzt</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2121</idno></person>
+            </listPerson></back></text>
+</TEI>

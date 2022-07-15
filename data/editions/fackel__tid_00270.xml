@@ -1,0 +1,48 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00270.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00269.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00271.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">A. K., in: Fackel Heft 01, Nr. 011, 1899, S. 32-32</title>
+            <title type="iso-date">1899-07-01</title>
+            <title type="id">tid_00270</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">011</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-011_n0032.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/011,032</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>A. K.</head>
+            <p ana="pr2516">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_1831" ref="#fk__p_37668"><abbr>A. K.</abbr></rs></seg></seg> Im »<rs type="paperRef" ana="werk_685">Economisten</rs>« leisten sonst gewiss <seg type="insult">Oberflächlichkeit<lb/>
+und Ignoranz</seg> das Menschenmögliche, aber <seg type="insult">Herrn <rs type="pers" ana="n_1832" ref="#fk__p_48845"><abbr>Sp.</abbr></rs></seg> thun Sie entschieden<lb/>
+unrecht. Der Reinertrag ergibt sich, wenn vom Gesammtbetrag die<lb/>
+Amortisationsquote abgezogen wird. Je höher die Capitalsverzinsung<lb/>
+und also die Amortisationsquote ist, desto geringer der Reinertrag.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_48845">
+               <persName>Spitzer, Leopold</persName>
+               <birth>
+                  <date>1839-04-11</date>
+                  <place>Bisenz/Mähren</place>
+               </birth>
+               <death>
+                  <date>1926-12-17</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <note type="comment">schreibt auch für "Der Economist", in: Neue Freie Presse</note>
+               <note type="comment">Eig., Hrsg. u. Chefred. der humorist. illustr. Wochenschrift "Wiener Wespen"</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/88866</idno></person>
+            <person xml:id="fk__p_37668">
+               <persName>K., A.</persName>
+            </person>
+            </listPerson></back></text>
+</TEI>

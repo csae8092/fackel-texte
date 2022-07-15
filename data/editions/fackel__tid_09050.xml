@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_09050.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09049.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09051.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Wiener Bürgertheater, 13. November, 3 Uhr:, in: Fackel Heft 23, Nr. 583, 1921, S. 32-32</title>
+            <title type="iso-date">1921-12-01</title>
+            <title type="id">tid_09050</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">23</title><title type="heft">583</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-23-583_n0032.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/583,032</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Wiener Bürgertheater, 13. November, 3 Uhr:</head>
+            <p ana="pr120815">
+<space/><rs type="inst">Wiener Bürgertheater</rs>, <date>13. November</date>, 3 Uhr:<lb/>
+</p>
+            <p ana="pr120816">
+<space/>I. <rs type="pers" ana="n_74107" ref="#fk__p_49277">Ludwig Börne</rs>: <rs type="title">Republiken und Monarchien</rs> / <rs type="title">Die Republik<lb/>
+ist schuld</rs>. — <rs type="title">Wenn ich <rs type="pers" ana="n2_6790" ref="#fk__p_44354">Gerhart Hauptmann</rs> wäre</rs>. — Szenen:<lb/>
+<rs type="title"><seg type="insult">Kriegsarchiv</seg></rs> / <rs type="title"><rs type="pers">Elfriede Ritter</rs> und die <seg type="insult"><rs type="pers">Reporter</rs></seg></rs> / <rs type="title"><seg type="insult">Ein <rs type="pers">Generalstäbler</rs><lb/>
+am Telephon</seg></rs> / <rs type="title"><seg type="insult">Die <rs type="pers">Generalstäbler</rs></seg></rs>. — <rs type="title">Im Untergang</rs>.<lb/>
+</p>
+            <p ana="pr120817">
+<space/>II. <rs type="title">Todesfurcht</rs>. — <rs type="title"><seg type="insult"><rs type="pers">Géza von Lakkati de Nemesfalva et<lb/>
+Kutjafelegfaluszég</rs></seg></rs> (Mit Vorbemerkung) / <rs type="title">Orgovan</rs><ADD>.</ADD> Von <rs type="pers" ana="n_74108" ref="#fk__p_38219">Andor Gábor</rs><lb/>
+(Mit Vorbemerkung) / Szenen: <rs type="title">Wallfahrtskirche</rs> / <rs type="title">Moschee</rs> / <rs type="title"><seg type="insult"><rs type="pers">Gog</rs> &amp;<lb/>
+<rs type="pers">Magog</rs></seg></rs>. — <rs type="title"><seg type="insult">Reklamefahrten zur Hölle</seg></rs>.<lb/>
+</p>
+            <p ana="pr120818">
+<space/>Ein Teil des Ertrags für den <rs type="inst">Hilfsverein für Lungenkranke</rs><lb/>
+(I. <choice><sic>Wallfischgasse</sic><corr>Walfischgasse</corr></choice> 8), das <rs type="inst">Kinderasyl »Kahlenbergerdorf«</rs> und den<lb/>
+<rs type="inst">Blindenverein »Lindenbund«</rs> (XX., Wallensteinstraße 14).<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_38219">
+               <persName>Gábor, Andor</persName>
+               <birth>
+                  <date>1884-1-17</date>
+                  <place>Ujnep (Somogy)</place>
+               </birth>
+               <death>
+                  <date>1953-1-21</date>
+                  <place>Budapest</place>
+               </death>
+               <occupation>Publizist</occupation>
+            </person>
+            <person xml:id="fk__p_49277">
+               <persName>Börne, Ludwig</persName>
+               <birth>
+                  <date>1786-5-6</date>
+                  <place>Frankfurt am Main</place>
+               </birth>
+               <death>
+                  <date>1837-2-12</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/14780</idno></person>
+            <person xml:id="fk__p_44354">
+               <persName>Hauptmann, Gerhart</persName>
+               <birth>
+                  <date>1862-11-15</date>
+                  <place>Salzbrunn, Schlesien</place>
+               </birth>
+               <death>
+                  <date>1946-6-6</date>
+                  <place>Agnetendorf</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Ögg teilt die indirekte Stelle 521/64 zu, irrtümlich</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11617</idno></person>
+            </listPerson></back></text>
+</TEI>

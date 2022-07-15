@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_05632.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05631.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05633.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Der Erfolg, in: Fackel Heft 13, Nr. 341, 1912, S. 18-18</title>
+            <title type="iso-date">1912-01-27</title>
+            <title type="id">tid_05632</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">13</title><title type="heft">341</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-13-341_n0018.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/341,018</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Der Erfolg</head>
+            <p ana="pr74122">
+<space/>»Der Verlauf der Operation, die Professor <rs type="pers" ana="n_53104" ref="#fk__p_42077"><abbr>Dr.</abbr> Zuckerkandl</rs> <choice><sic>vornähm<lb/>
+</sic><corr>vornahm</corr></choice>, war ein günstiger, doch bald nachher trat Herzschwäche ein, und<lb/>
+um 7 Uhr war der berühmte Rechtsanwalt verschieden.«<lb/>
+</p>
+            <p ana="pr74124">
+<space/>Alles recht schön und gut, aber künftig braucht in solchen<lb/>
+Fällen der Name des Operateurs nicht genannt zu werden. Eine<lb/>
+Sache soll für sich selbst sprechen. Oder man sei objektiv<lb/>
+und nenne nächstens auch den Arzt, wenn einmal die Operation<lb/>
+ungünstig verläuft.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_42077">
+               <persName>Zuckerkandl, Emil</persName>
+               <birth>
+                  <date>1849-9-1</date>
+                  <place>Raab, Ungarn</place>
+               </birth>
+               <death>
+                  <date>1910-5-28</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Anatom</occupation>
+               <note type="comment">Univ. Prof. Wien</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/3170</idno></person>
+            </listPerson></back></text>
+</TEI>

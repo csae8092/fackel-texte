@@ -1,0 +1,44 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_05898.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05897.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05899.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Alle haben sie nachdenklich vor sich hingeschaut,, in: Fackel Heft 14, Nr. 357, 1912, S. 16-16</title>
+            <title type="iso-date">1912-10-01</title>
+            <title type="id">tid_05898</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">14</title><title type="heft">357</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-14-357_n0016.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/357,016</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Alle haben sie nachdenklich vor sich hingeschaut,</head>
+            <p ana="pr78892">
+<seg type="insult">die Minister, der <rs type="pers" ana="n_55982" ref="#fk__p_44694">Graf Károlyi</rs>, der <rs type="pers" ana="n_55983" ref="#fk__p_51304">Pavlik</rs></seg>, justament weil ich’s<lb/>
+nicht haben will, alle, alle.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_51304">
+               <persName>Pavlik</persName>
+               <note type="comment">Typus</note>
+            </person>
+            <person xml:id="fk__p_44694">
+               <persName>Károlyi, Michael Graf</persName>
+               <birth>
+                  <date>1875-03-04</date>
+                  <place>Budapest</place>
+               </birth>
+               <death>
+                  <date>1955-03-19</date>
+                  <place>Vence/Nizza</place>
+               </death>
+               <occupation>Politiker</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07517.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07516.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07518.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Eine unterrichtete Seite, in: Fackel Heft 18, Nr. 437, 1916, S. 113-113</title>
+            <title type="iso-date">1916-11-01</title>
+            <title type="id">tid_07517</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">18</title><title type="heft">437</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-18-437_n0113.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/437,113</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Eine unterrichtete Seite</head>
+            <p ana="pr100803">
+Wien, <date>10. August</date>.<lb/>
+</p>
+            <p ana="pr100804">
+<space/>Der deutsche Reichskanzler Herr <rs type="pers" ana="n_65933" ref="#fk__p_54455"><abbr>v.</abbr> Bethmann-Hollweg</rs> trifft<lb/>
+morgen zu einem mehrtägigen Aufenthalt in Wien ein <seg type="symbol" subtype="4dots"/><lb/>
+</p>
+            <p ana="pr100805">
+<space/><seg type="spc">Es ist naheliegend und selbstverständlich</seg>,<lb/>
+daß diese Besuche politischen Charakter haben. Sie gelten <seg type="spc">der Besprechung<lb/>
+ der durch den Krieg aufgeworfenen<lb/>
+Fragen</seg> und <seg type="spc">man kann annehmen</seg>, daß auch der diesmalige<lb/>
+Besuch, <seg type="spc">auf dem</seg> Herr <rs type="pers" ana="n_65934" ref="#fk__p_54455"><abbr>v.</abbr> Bethmann-Hollweg</rs> wieder von Herrn <rs type="pers" ana="n_65935" ref="#fk__p_54245"><abbr>v.</abbr> Jagow</rs><lb/>
+begleitet ist, <seg type="spc">der Erörterung aller schwebenden Fragen<lb/>
+gewidmet sein wird</seg>.<lb/>
+</p>
+            <p ana="pr100806">
+<space/>Daß mit dem Reichskanzler auch der Staatssekretär des <rs type="inst">Auswärtigen<lb/>
+ Amtes</rs> nach Wien kommt, drückt den zu erwartenden Besprechungen<lb/>
+ <seg type="spc">auch diesmal einen wichtigen Charakter auf</seg>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_54245">
+               <persName>Jagow, Traugott von</persName>
+               <birth>
+                  <date>1865-05-18</date>
+                  <place>Perleberg/Brandenburg</place>
+               </birth>
+               <death>
+                  <date>1941-06-15</date>
+                  <place>Berlin</place>
+               </death>
+               <occupation>Polizeipräsident</occupation>
+               <note type="comment">1906-16 Polizeipräsident Berlin</note>
+            </person>
+            <person xml:id="fk__p_54455">
+               <persName>Bethmann-Hollweg, Theobald Theodor von</persName>
+               <birth>
+                  <date>1856-11-29</date>
+                  <place>Hohenfinow, Brandenburg</place>
+               </birth>
+               <death>
+                  <date>1921-1-1</date>
+                  <place>Hohenfinow, Brandenburg</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <note type="comment">dt. Reichskanzler 7. 7. 1909 bis 13. 7. 1917</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10908</idno></person>
+            </listPerson></back></text>
+</TEI>

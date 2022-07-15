@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_09148.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09147.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09149.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Blinder Eifer schadet nur, in: Fackel Heft 24, Nr. 595, 1922, S. 25-25</title>
+            <title type="iso-date">1922-07-01</title>
+            <title type="id">tid_09148</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">24</title><title type="heft">595</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-24-595_n0025.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/595,025</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Blinder Eifer schadet nur</head>
+            <p ana="pr122002">
+<space/>Zu <seg type="insult">jenem Gebrauch für <seg type="ELIDASH">Volksschulen</seg> und Bürgerschulen</seg>, der der<lb/>
+<rs type="paper" ana="werk_23282">Reichspost</rs> am Herzen liegt, empfiehlt sich das folgende Lesestück:<lb/>
+</p>
+            <p ana="pr122003">
+<space/>Als die Exkaiserin <rs type="pers" ana="n_74681" ref="#fk__p_47419">Zita</rs> zum erstenmale seit ihrer Entfernung<lb/>
+ im Aeroplan wieder in die Schweiz kam, fand sie ihre<lb/>
+Bewegungsfreiheit eingeschränkt. Dies veranlaßte die <seg ana="Reichs-&#10;post"/> zu einer bittern, aber treffenden Bemerkung:<lb/>
+</p>
+            <p ana="pr122005">
+<space/>Nach der Abreise ihrer Kinder war die Kaiserin ganz an ihr<lb/>
+Zimmer gebannt. Wohl war es ihre Lebensgewohnheit, aus gesundheitlichen<lb/>
+ Rücksichten täglich in der freien Luft sich zu bewegen.<lb/>
+</p>
+            <p ana="pr122007">
+<space/>Als der Exkaiser <rs type="pers" ana="n_74682" ref="#fk__p_47385">Karl</rs> gestorben war, berief sich die <seg ana="Reichs-&#10;post"/> auf <seg type="insult">eine pietätvolle Zeitungsstimme</seg> und schrieb:<lb/>
+</p>
+            <p ana="pr122009">
+<space/>Das <rs type="perRef" ana="werk_23285">Blatt</rs> schildert dann, wie der Herrscher als Alkoholiker<lb/>
+verleumdet wurde, und sagt von ihm: Er mußte den Kelch des<lb/>
+Leidens bis zur Neige <FERR href="FK-24-601_n0097.xml" fcorrID="fk_04_fcorr_28908279" id="fk_04_ferr_28908279" emID="fk_04_em_28908282"><ERR fcorr="leeren">lehren</ERR></FERR>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_47419">
+               <persName>Zita, Kaiserin</persName>
+               <birth>
+                  <date>1892-5-9</date>
+                  <place>Villa delle Pianore/Lucca</place>
+               </birth>
+               <death>
+                  <date>1989-3-14</date>
+                  <place>Zizers/Schweiz</place>
+               </death>
+            </person>
+            <person xml:id="fk__p_47385">
+               <persName>Karl I., Kaiser</persName>
+               <birth>
+                  <date>1887-08-17</date>
+                  <place>Persenbeug/NÖ</place>
+               </birth>
+               <death>
+                  <date>1922-04-01</date>
+                  <place>Quinta do Monte/Madeira</place>
+               </death>
+               <occupation>Kaiser</occupation>
+               <note type="comment">Ögg teilt irrt. 561/21 zu, da ist Franz Joseph I. gemeint</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

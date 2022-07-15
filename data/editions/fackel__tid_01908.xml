@@ -1,0 +1,111 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01908.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01907.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01909.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Herr Burckhard über Kleist.), in: Fackel Heft 03, Nr. 080, 1901, S. 27-27</title>
+            <title type="iso-date">1901-06-01</title>
+            <title type="id">tid_01908</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">03</title><title type="heft">080</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-03-080_n0027.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/080,027</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Herr Burckhard über Kleist.)</head>
+            <p ana="pr18696">
+<space/><seg type="insult"><inciptit>Herr</inciptit> <rs type="pers" ana="n_15747" ref="#fk__p_49912">Max Burckhard</rs></seg> schrieb in <seg ana="Nr. 349 der ‚Zeit‘"/><lb/>
+wörtlich:<lb/>
+</p>
+            <p ana="pr18698">
+<space/>»<QUOTE rn="1" sourceID="FK-03-080_n0027_a">Im <rs type="inst">Burgtheater</rs> hat diese Woche Herr <rs type="pers" ana="n_15748" ref="#fk__p_45937">Nissen</rs> sein Engagement<lb/>
+als <rs type="pers">Major Drosse</rs> in <seg type="spc"><seg type="insult"><rs type="pers" ana="n_15749" ref="#fk__p_45949">Sudermanns</rs> ergreifendem Drama</seg></seg><lb/>
+‚<rs type="title"><rs type="pers">Fritzchen</rs></rs>‘ und als <rs type="pers">Churfürst Friedrich Wilhelm</rs> in <seg type="insult"><seg type="spc"><rs type="pers" ana="n_15750" ref="#fk__p_45758">Kleists</rs> widerlichem<lb/>
+</seg>, <seg type="spc">nach <rs type="pers" ana="n_15751" ref="#fk__p_39694">Cäsarismus</rs> stinkendem Commissknopfstück<lb/>
+</seg> ‚<rs type="title"><rs type="pers">Prinz Friedrich von Homburg</rs></rs>‘</seg> angetreten.</QUOTE>«<lb/>
+</p>
+            <p ana="pr18700">
+<space/>Ich hatte mir dieses Citat schon für die <rs type="selfRef" ana="werk_6043">letzte<lb/>
+Nummer</rs> der ‚<rs type="self" ana="werk_6044">Fackel</rs>‘ vorgemerkt, konnte es aber nicht<lb/>
+mehr unterbringen. Nun sind mir reichsdeutsche Blätter<lb/>
+zuvorgekommen. <seg type="insult">Herr <rs type="pers" ana="n_15752" ref="#fk__p_49912">Max Burckhard</rs></seg> ist identisch mit<lb/>
+<seg type="insult">jenem Herrn</seg>, der acht Jahre hindurch die erste deutsche<lb/>
+Bühne geleitet hat.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_39694">
+               <persName>Caesar, Gaius Iulius</persName>
+               <birth>
+                  <date>100-7-13</date>
+               </birth>
+               <death>
+                  <date>44-3-15</date>
+                  <place>Rom</place>
+               </death>
+               <occupation>Feldherr</occupation>
+               <occupation>Politiker</occupation>
+               <occupation>Kaiser</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/14796</idno></person>
+            <person xml:id="fk__p_45937">
+               <persName>Nissen, Hermann</persName>
+               <birth>
+                  <date>1853-7-17</date>
+                  <place>Dassow, Mecklenburg-Schwerin</place>
+               </birth>
+               <death>
+                  <date>1914-2-15</date>
+                  <place>Berlin</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <note type="comment">Pester Lloyd 05.01.1910 Zusammenbruch des Hebbel-Theaters</note>
+               <note type="comment">Alex Otto, Hermann Nissen: ein Wort der Notwehr, 1912</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/21985</idno></person>
+            <person xml:id="fk__p_45758">
+               <persName>Kleist, Heinrich von</persName>
+               <birth>
+                  <date>1777-10-18</date>
+                  <place>Frankfurt an der Oder</place>
+               </birth>
+               <death>
+                  <date>1811-11-21</date>
+                  <place>Wannsee bei Potsdam</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11933</idno></person>
+            <person xml:id="fk__p_49912">
+               <persName>Burckhard, Max Eugen</persName>
+               <birth>
+                  <date>1854-7-14</date>
+                  <place>Korneuburg</place>
+               </birth>
+               <death>
+                  <date>1912-3-16</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Jurist</occupation>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Theaterleiter</occupation>
+               <note type="comment">Namenskorrektur!</note>
+               <note type="comment">12. 5. 1890 bis 25. 1. 1898 Burgth.</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11036</idno></person>
+            <person xml:id="fk__p_45949">
+               <persName>Sudermann, Hermann</persName>
+               <birth>
+                  <date>1857-9-30</date>
+                  <place>Matziken, Memelland</place>
+               </birth>
+               <death>
+                  <date>1928-11-21</date>
+                  <place>Berlin</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">während seines Studiums als Hauslehrer bei Hans Hopfen und im Hause eines Bankiers tätig</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12899</idno></person>
+            </listPerson></back></text>
+</TEI>

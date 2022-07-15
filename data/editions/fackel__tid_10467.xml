@@ -1,0 +1,105 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_10467.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10466.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10468.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">25. Februar:, in: Fackel Heft 27, Nr. 717, 1926, S. 105-105</title>
+            <title type="iso-date">1926-04-01</title>
+            <title type="id">tid_10467</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">27</title><title type="heft">717</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-27-717_n0105.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/717,105</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>25. Februar:</head>
+            <p ana="pr144124">
+<space/><date>25. Februar</date>:<lb/>
+</p>
+            <p ana="pr144125">
+<space/>Zum ersten Male:<lb/>
+</p>
+            <p ana="pr144126">
+<space/><rs type="pers" ana="n_87665" ref="#fk__p_55589"><seg type="spc">Shakespeare</seg></rs>: <rs type="title"><seg type="spc"><rs type="pers">Troilus</rs> und <rs type="pers">Cressida</rs></seg></rs>. Tragikomödie<lb/>
+in fünf Akten mit Prologus, nach der <rs type="pers" ana="n_87666" ref="#fk__p_55691">Baudissin’schen Übersetzung</rs><lb/>
+(<SPAN cont="Schlegel-Tieck"><rs type="pers" ana="n_87667" ref="#fk__p_38587">Schlegel</rs>-<rs type="pers" ana="n_87668" ref="#fk__p_49337">Tieck</rs></SPAN>) vom Vortragenden bearbeitet.<lb/>
+</p>
+            <p ana="pr144127">
+<space/>Ouvertüre und Zwischenaktsmusik aus der »<rs type="title">Schönen <rs type="pers">Helena</rs></rs>«<lb/>
+von <rs type="pers" ana="n_87669" ref="#fk__p_46664">Offenbach</rs>. Musik der ersten Szene des dritten Aktes: Improvisation:<lb/>
+als Lied des <rs type="pers">Pandarus</rs> die Romanze der <rs type="pers">Helena</rs> (»<rs type="title">Des Gatten Ehre<lb/>
+zu bewahren</rs>«) [wiederholt].<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_55589">
+               <persName>Shakespeare, William</persName>
+               <birth>
+                  <date>1564-4-23?</date>
+                  <place>Stratford-upon-Avon</place>
+               </birth>
+               <death>
+                  <date>1616-4-23</date>
+                  <place>Stratford-upon-Avon</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2412</idno></person>
+            <person xml:id="fk__p_49337">
+               <persName>Tieck, Ludwig</persName>
+               <birth>
+                  <date>1773-5-31</date>
+                  <place>Berlin</place>
+               </birth>
+               <death>
+                  <date>1853-4-28</date>
+                  <place>Berlin</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Dramaturg</occupation>
+               <occupation>Übersetzer</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/4132</idno></person>
+            <person xml:id="fk__p_55691">
+               <persName>Baudissin, Wolf Heinrich Graf</persName>
+               <birth>
+                  <date>1789-01-30</date>
+                  <place>Kopenhagen</place>
+               </birth>
+               <death>
+                  <date>1878-04-04</date>
+                  <place>Dresden</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            </person>
+            <person xml:id="fk__p_38587">
+               <persName>Schlegel, August Wilhelm von</persName>
+               <birth>
+                  <date>1767-9-5</date>
+                  <place>Hannover</place>
+               </birth>
+               <death>
+                  <date>1845-5-12</date>
+                  <place>Bonn</place>
+               </death>
+               <occupation>Literarhistoriker</occupation>
+               <occupation>Übersetzer</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/24212</idno></person>
+            <person xml:id="fk__p_46664">
+               <persName>Offenbach, Jacques</persName>
+               <birth>
+                  <date>1819-06-21</date>
+                  <place>Köln</place>
+               </birth>
+               <death>
+                  <date>1880-10-05</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Komponist</occupation>
+               <note type="comment">Ögg teilt Fortunato F 876/34 Shakespeare zu</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/9131</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02810.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02809.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02811.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Berichtigung, in: Fackel Heft 04, Nr. 123, 1902, S. 28-28</title>
+            <title type="iso-date">1902-12-11</title>
+            <title type="id">tid_02810</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">04</title><title type="heft">123</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-04-123_n0028.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/123,028</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Berichtigung</head>
+            <p ana="pr27520">
+<space/><FCORR href="FK-04-122_n0026.xml" ferrID="fk_04_ferr_27265046" id="fk_04_fcorr_27265046">In <rs type="selfRef" ana="werk_9790"><abbr>Nr.</abbr> 122</rs>, <abbr>S.</abbr> 26, 13. Zeile von unten, ist statt »durch<lb/>
+Anspielung auf notorische Ereignisse« zu lesen: <EM href="FK-04-122_n0026.xml" ferrID="fk_04_ferr_27265046" id="fk_04_em_27265049"><seg type="i">durch Verquickung<lb/>
+mit notorischen Ereignissen</seg></EM>.</FCORR> (Es sollte natürlich nicht gesagt werden<lb/>
+, daß in den aus dem »<rs type="title">Tagebuch des <rs type="pers">Königs Bobèche</rs></rs>«<lb/>
+citierten <seg type="insult">Bübereien</seg> selbst eine Anspielung auf notorische Ereignisse<lb/>
+ enthalten sei, sondern: daß ihre Tendenz trotz <seg type="insult">allen Ausflüchten<lb/>
+ des muthigen Kämpfers</seg> durch die an <seg type="spc">anderen</seg> Tagebuchstellen<lb/>
+ enthaltene Anspielung auf notorische Ereignisse, <abbr>z. B.</abbr><lb/>
+den Tod <rs type="pers" ana="n_23795" ref="#fk__p_46240">Holzinger’s</rs>, augenfällig werde.)<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46240">
+               <persName>Holzinger-Janaburg, Ferdinand Ritter von</persName>
+               <birth>
+                  <date>1836-9-21</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1901-12-30</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Richter</occupation>
+               <note type="comment">7., Schottenfeldgasse 77</note>
+               <note type="comment">bei Ögg fälschlich Josef Holzinger</note>
+               <note type="comment">Vizepräsident des Landesgerichts</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

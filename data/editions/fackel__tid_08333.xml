@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_08333.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08332.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08334.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Der Ministerwechsel im Ministerium des Äußern, in: Fackel Heft 20, Nr. 484, 1918, S. 23-24</title>
+            <title type="iso-date">1918-10-01</title>
+            <title type="id">tid_08333</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">20</title><title type="heft">484</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-20-484_n0023.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/484,023</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Der Ministerwechsel im Ministerium des Äußern</head>
+            <p ana="pr110021">
+<space/><seg type="symbol" subtype="3dots"/> Am späteren Abend waren die Zimmer noch beleuchtet<lb/>
+und im Hause war ein beständiges Kommen und Gehen.<lb/>
+</p>
+            <p ana="pr110023">
+<space/>Das dürfte sich nicht nur auf <seg type="insult"><SPAN cont="Burian-Czernin"><rs type="pers" ana="n_68893" ref="#fk__p_44646">Burian</rs>-<rs type="pers" ana="n_68894" ref="#fk__p_44656">Czernin</rs></SPAN></seg> und <seg type="insult">Czernin-Burian<lb/>
+</seg>, sondern auch auf <seg type="insult"><SPAN cont="Burian-Czernin"><rs type="pers" ana="n_68897" ref="#fk__p_44646">Burian</rs>-<rs type="pers" ana="n_68898" ref="#fk__p_44656">Czernin</rs></SPAN></seg> beziehen.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_44656">
+               <persName>Czernin-Chudenitz, Ottokar Theobald Graf </persName>
+               <birth>
+                  <date>1872-09-26</date>
+                  <place>Dimokur/Böhmen</place>
+               </birth>
+               <death>
+                  <date>1932-04-04</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <occupation>Diplomat</occupation>
+               <note type="comment"/>
+               <note type="comment">Sohn Theobald Peter Ottokar (Winař 29.4.1898 - Wien 14.5.1974)</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_14331</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/15184</idno></person>
+            <person xml:id="fk__p_44646">
+               <persName>Burián-Rajecz, Stefan Graf</persName>
+               <birth>
+                  <date>1851-1-16</date>
+                  <place>Stampfen/Preßburg</place>
+               </birth>
+               <death>
+                  <date>1922-10-20</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Diplomat</occupation>
+               <occupation>Politiker</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

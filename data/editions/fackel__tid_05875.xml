@@ -1,0 +1,46 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_05875.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05874.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05876.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Das Ausschnittbureau, in: Fackel Heft 14, Nr. 354, 1912, S. 42-42</title>
+            <title type="iso-date">1912-01-01</title>
+            <title type="id">tid_05875</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">14</title><title type="heft">354</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-14-354_n0042.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/354,042</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Das Ausschnittbureau</head>
+            <p ana="pr78539">
+irrt sich oft. In Frankfurt gibt es bekanntlich ein <seg type="insult">Tratschblatt</seg>,<lb/>
+das sich <rs type="magazine" ana="werk_18982">Fackel</rs> nennt. Darunter habe ich viel zu leiden. Dagegen<lb/>
+konnte das Ausschnittbureau mit Recht glauben, daß eine Kritik<lb/>
+mich angehe, an deren Spitze es heißt:<lb/>
+</p>
+            <p ana="pr78541">
+<space/><seg type="insult"><rs type="pers" ana="n_55702" ref="#fk__p_56449"><seg type="spc">Karl Krauß</seg></rs>: <rs type="title"><seg type="spc">Lebensbilder aus der Verbrecherwelt</seg></rs></seg>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_56449">
+               <persName>Krauß, F. A. Karl</persName>
+               <birth>
+                  <date>1843-9-8</date>
+                  <place>Buchen/Baden</place>
+               </birth>
+               <death>
+                  <date>1917-5-28</date>
+               </death>
+               <occupation>Priester</occupation>
+               <note type="comment">Lebensbilder aus der Verbrecherwelt, Paderborn, Schöningh 1912</note>
+               <note type="comment">Die deutschen kathol. Theologen der Neuzeit, Band 3, Teil 1, Seite 397 (1978)</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

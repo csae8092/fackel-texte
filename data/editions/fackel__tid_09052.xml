@@ -1,0 +1,44 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_09052.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09051.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09053.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Vorbemerkung zu „Orgovan“), in: Fackel Heft 23, Nr. 583, 1921, S. 32-32</title>
+            <title type="iso-date">1921-12-01</title>
+            <title type="id">tid_09052</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">23</title><title type="heft">583</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-23-583_n0032.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/583,032</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Vorbemerkung zu „Orgovan“)</head>
+            <p ana="pr120825">
+<space/>In den Tagen, da <seg type="insult">Herr <rs type="pers" ana="n_74110" ref="#fk__p_50672">Horthy</rs></seg> die Konkurrenz <seg type="insult">des legitimen<lb/>
+Henkers</seg> abzuwehren hatte, hätte ich sie nicht sprechen können.<lb/>
+Heute ist der Vortrag wieder frei von dem Verdacht, daß <seg type="insult">dem Herrn<lb/>
+<rs type="pers" ana="n_74111" ref="#fk__p_50672">Horthy</rs></seg> die Berechtigung, <seg type="insult">ein <seg type="spc">gekrönter</seg> Henker</seg> zu werden, von<lb/>
+der Seite der <seg type="insult"><seg type="spc">Legitimität</seg></seg> her bestritten werde.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_50672">
+               <persName>Horthy de Nagybánya, Nikolaus </persName>
+               <birth>
+                  <date>1868-06-18</date>
+                  <place>Kenderes/Kom. Szolnok</place>
+               </birth>
+               <death>
+                  <date>1957-02-09</date>
+                  <place>Estoril/Lissabon</place>
+               </death>
+               <occupation>Admiral</occupation>
+               <occupation>Reichsverweser</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03610.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03609.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03611.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Epikuräer. (Ein Epikuräer), in: Fackel Heft 06, Nr. 162, 1904, S. 31-32</title>
+            <title type="iso-date">1904-05-19</title>
+            <title type="id">tid_03610</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">06</title><title type="heft">162</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-06-162_n0031.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/162,031</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Epikuräer. (Ein Epikuräer)</head>
+            <p ana="pr35923">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="name_203375" key="#fk__p_60635">Epikuräer</rs>.</seg></seg></seg> Eine Gerichtssaalmeldung besagt: »Herr Staatsanwaltssubstitut<lb/>
+ <rs type="pers" ana="n_30899" ref="#fk__p_50342"><abbr>Dr. v.</abbr> Morawitz</rs>, dessen mit einem dreimonatlichen Urlaub<lb/>
+</p>
+            <p ana="pr35923">
+verbundene Amerikareise das Publikum beschäftigt hat, wird in den<lb/>
+nächsten Tagen nach Wien zurückkehren, obwohl sein Urlaub noch<lb/>
+nicht abgelaufen ist. Es heißt, daß <rs type="pers" ana="n_30900" ref="#fk__p_50342"><abbr>Dr. v.</abbr> Morawitz</rs> nach seinem Scheiden<lb/>
+aus dem Staatsdienste, von dem noch nicht bestimmt ist, ob es in Form<lb/>
+einer Pensionierung geschehen wird, <seg type="spc">sich in ein Kloster zurückziehen<lb/>
+ will</seg>.« <seg type="insult">So ein <foreign xml:lang="de-loc">Schlankel</foreign>!</seg><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_50342">
+               <persName>Morawitz-Cadio, Heinrich Edler von</persName>
+               <birth>
+                  <date>1865-10-21</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1953-2-22</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Jurist</occupation>
+               <occupation>Staatsanwalts-Substitut</occupation>
+               <note type="comment">1., Walfischgasse 8; MA 8 nicht eruiert</note>
+               <note type="comment">19., Eichelhofstr. 2</note>
+               <note type="comment">Staatsanwalt-Substitut</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07101.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07100.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07102.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Von der Ware gefangen, in: Fackel Heft 18, Nr. 418, 1916, S. 64-65</title>
+            <title type="iso-date">1916-04-01</title>
+            <title type="id">tid_07101</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">18</title><title type="heft">418</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-18-418_n0064.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/418,064</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Von der Ware gefangen</head>
+            <p ana="pr96126">
+<space/><seg type="symbol" subtype="4dots"/> hat von befreundeten Zivilkriegsgefangenen aus Astrachan<lb/>
+die Nachricht erhalten, daß Herr <rs type="pers" ana="n_64438" key="#fk__p_44618">Graf</rs> und <seg type="spc">der <rs type="pers" ana="n_64439" ref="#fk__p_56299">Schokoladen-Hildebrand</rs></seg><lb/>
+als Kriegsgefangene in Astrachan sind <seg type="symbol" subtype="4dots"/><lb/>
+</p>
+            <p ana="pr96128">
+<space/>Das ist traurig, aber noch trauriger ist, daß der Mensch selbst<lb/>
+in der Gefangenschaft nicht aufhört, der Gefangene seiner <seg type="insult">Ware</seg> zu<lb/>
+sein. Die <rs type="pers" ana="n_64440" ref="#fk__p_56299">Hildebrand-Schokolade</rs> mag unser Traum bis nach Astrachan<lb/>
+verschicken: <seg type="insult">der »<rs type="pers" ana="n_64441" ref="#fk__p_56299">Schokoladen-Hildebrand</rs>«</seg> gehört nach Wien, und<lb/>
+eben diese Art zu assoziieren macht uns untauglich zum Export.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_56299">
+               <persName>Hildebrand, Theodor</persName>
+               <birth>
+                  <date>1883-7-13</date>
+                  <place>Berlin</place>
+               </birth>
+               <death>
+                  <date>1918-7-23</date>
+               </death>
+               <occupation>Fabrikant</occupation>
+               <note type="comment">Berlin, Motzener Straße 32</note>
+               <note type="comment">ältester Sohn des Kommerzienrats Theodor Hildebrand, geb. 1851 Berlin-gest. 1919</note>
+               <note type="comment">Schokoladefabrik</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,95 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00721.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00720.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00722.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Goluchowski und Maple.), in: Fackel Heft 01, Nr. 030, 1900, S. 9-9</title>
+            <title type="iso-date">1900-01-01</title>
+            <title type="id">tid_00721</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">030</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-030_n0009.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/030,009</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Goluchowski und Maple.)</head>
+            <p ana="pr6874">
+<space/><inciptit>Die</inciptit> Angelegenheit der Einrichtung des Botschafterpalais in<lb/>
+Constantinopel ist in <seg type="insult">den glücklich verflossenen Delegationen</seg> zur<lb/>
+Sprache gekommen. Dafür, dass in einer Stadt, wo eine <rs type="inst">österreichische<lb/>
+ Handelskammer</rs> ist, die Möblierung eines österreichischen<lb/>
+Amtsgebäudes der englischen Firma <seg type="spc"><rs type="pers" ana="n_5202" ref="#fk__p_53359">Maple</rs></seg> übertragen wurde, hat<lb/>
+<seg type="insult">Herr <rs type="pers" ana="n_5203" ref="#fk__p_44673">Goluchowski</rs></seg> ein paar Ausreden vorgebracht. Er vergass zu erwähnen<lb/>
+, dass der heimischen Industrie auch in diesem Falle wieder<lb/>
+mit dem <rs type="pers" ana="n_5204" ref="#fk__p_43514">Franz Josefs-Orden</rs> aufgeholfen wurde. Noch wäre zu<lb/>
+berichten, dass das Palais vom Sultan in mehr als halbfertigem<lb/>
+Zustande geschenkt wurde und überdies 500.000 <abbr>fl.</abbr> gekostet hat;<lb/>
+die Beamten aber, für die darin trotz alledem kein Platz ist, müssen<lb/>
+in gemietheten Häusern wohnen. Bemerkenswert ist auch, dass die englischen<lb/>
+ Möbel zur Hälfte unbrauchbar waren, schlecht verpackt zurückgeschickt<lb/>
+ wurden und zerbrochen in London ankamen; noch schweben<lb/>
+die Unterhandlungen darüber, wer zu bezahlen hat, aber der Ausgang<lb/>
+scheint nicht zweifelhaft. Sollte die Bestellung bei <rs type="pers" ana="n_5205" ref="#fk__p_53359">Sir Maple</rs> mit<lb/>
+den von <seg type="insult">Herrn <rs type="pers" ana="n_5206" ref="#fk__p_44673">Goluchowski</rs></seg> peinlich beobachteten Rücksichten<lb/>
+auf den Dreibund zusammenhängen? Der Londoner Möbelhändler<lb/>
+ist nämlich Schwiegervater des Herrn <seg type="spc"><rs type="pers" ana="n_5207" ref="#fk__p_42486">Eckardstein</rs></seg>, deutschen Botschaftsrathes<lb/>
+ in London. <rs type="pers" ana="n_5208" ref="#fk__p_44673">Goluchowski</rs> hat gehört, dass der Dreibund<lb/>
+ein <seg type="insult">»abgespieltes Luxusclavier«</seg> ist; und da ihm das Talent zum<lb/>
+Clavierstimmer fehlt, wendet er sich jetzt an den — Möbelhändler.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_53359">
+               <persName>Blundell-Maple, Sir John</persName>
+               <birth>
+                  <date>1845-3-1</date>
+               </birth>
+               <death>
+                  <date>1903-11-24</date>
+               </death>
+               <occupation>Möbelfabrikant</occupation>
+            </person>
+            <person xml:id="fk__p_43514">
+               <persName>Franz Joseph I., Kaiser</persName>
+               <birth>
+                  <date>1830-8-18</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1916-11-21</date>
+                  <place>Wien</place>
+               </death>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15150</idno></person>
+            <person xml:id="fk__p_42486">
+               <persName>Eckardstein, Hermann Freiherr von</persName>
+               <birth>
+                  <date>1864-07-05</date>
+                  <place>Löwen</place>
+               </birth>
+               <death>
+                  <date>1933-11-21</date>
+                  <place>Den Haag</place>
+               </death>
+               <occupation>Diplomat</occupation>
+               <occupation>Diplomat</occupation>
+            </person>
+            <person xml:id="fk__p_44673">
+               <persName>Goluchowski, Agenor Graf</persName>
+               <birth>
+                  <date>1849-03-25</date>
+                  <place>Lemberg</place>
+               </birth>
+               <death>
+                  <date>1921-03-28</date>
+                  <place>Lemberg</place>
+               </death>
+               <occupation>Diplomat</occupation>
+               <occupation>Politiker</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

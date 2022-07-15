@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00470.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00469.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00471.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Herrn Grafen Clary-Aldringen, I. Herrengasse. (Herrn Grafen Clary-Aldringen, I., Herrengasse), in: Fackel Heft 01, Nr. 019, 1899, S. 31-31</title>
+            <title type="iso-date">1899-10-01</title>
+            <title type="id">tid_00470</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">019</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-019_n0031.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/019,031</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Herrn Grafen Clary-Aldringen, I. Herrengasse. (Herrn Grafen Clary-Aldringen, I., Herrengasse)</head>
+            <p ana="pr4349">
+<space/><seg type="sidehead"><seg type="i">Herrn <rs type="pers" ana="n_3236" ref="#fk__p_44862">Grafen Clary-Aldringen</rs>, I. Herrengasse.</seg></seg> Aber was fällt<lb/>
+Ihnen denn ein? Sie werden doch nicht den Fehler Ihrer Vorgänger<lb/>
+begehen und wieder in das ‚<rs type="paper" ana="werk_1128">Wiener Tagblatt</rs>‘, in die ‚<rs type="perRef" ana="werk_1129">Allgemeine</rs>‘<lb/>
+und in <seg type="insult">die gewissen Montagsrevolverblätter</seg> das schöne Geld des<lb/>
+Dispositionsfonds stecken? Schaffen Sie sich doch zur Abwechslung<lb/>
+einmal <seg type="insult">»anständige« Regierungsjournalisten</seg> an und lassen Sie <seg type="insult">die<lb/>
+Angehörigen der Häuser <rs type="pers" ana="n_3237" ref="#fk__p_53860">Szeps</rs>, <rs type="pers" ana="n_3238" ref="#fk__p_53299">Schlesinger</rs> <abbr>etc.</abbr></seg> zappeln!<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_44862">
+               <persName>Clary-Aldringen, Manfred Graf</persName>
+               <birth>
+                  <date>1852-05-30</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1928-02-12</date>
+                  <place>Schloß Hernau/Salzburg</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <note type="comment">1898-1918 Statthalter der Steiermark, Ministerpräsident von Cisleithanien, Herrenhausmitglied</note>
+               <note type="comment">2.10.1899 bis 21.12.1899 Min.präs. und Ackerbauminister, sollte die Badenische Sprachenverordnung zurücknehmen</note>
+            </person>
+            <person xml:id="fk__p_53860">
+               <persName>Szeps, Julius</persName>
+               <birth>
+                  <date>1867</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1924-10-27</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/25793</idno></person>
+            <person xml:id="fk__p_53299">
+               <persName>Schlesinger, Sigmund</persName>
+               <birth>
+                  <date>1832-6-15</date>
+                  <place>Waag-Neustadtl, Ungarn</place>
+               </birth>
+               <death>
+                  <date>1918-3-7</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment"/>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12674</idno></person>
+            </listPerson></back></text>
+</TEI>

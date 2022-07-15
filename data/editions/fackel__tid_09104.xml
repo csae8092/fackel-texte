@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_09104.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09103.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09105.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ebenda, 11. Dezember, halb 8 Uhr:, in: Fackel Heft 23, Nr. 588, 1922, S. 64-64</title>
+            <title type="iso-date">1922-03-01</title>
+            <title type="id">tid_09104</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">23</title><title type="heft">588</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-23-588_n0064.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/588,064</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ebenda, 11. Dezember, halb 8 Uhr:</head>
+            <p ana="pr121466">
+<space/>Ebenda, <date>11. Dezember</date>, halb 8 Uhr:<lb/>
+</p>
+            <p ana="pr121467">
+<space/>I. <rs type="title">Vom Pfuirufen (Der Vorleser an das Publikum)</rs>. —<rs type="title"> Wie es<lb/>
+kam</rs> / <rs type="title">Der kleine <rs type="pers" ana="n2_6808" ref="#fk__p_57616">Brockhaus</rs></rs> / <rs type="title"><seg type="insult">Wiener Faschingsleben <date>1913</date></seg></rs> / <rs type="title"><seg type="insult"><foreign xml:lang="fr">Petite<lb/>
+chronique scandaleuse.</foreign></seg></rs> — <rs type="title"><seg type="insult">Vazierende Löwen</seg></rs>. — Szene: <rs type="title"><seg type="insult"><rs type="pers" ana="n2_6809" ref="#fk__p_56128">Erzherzog<lb/>
+Friedrich</rs></seg></rs>.<lb/>
+</p>
+            <p ana="pr121468">
+<space/>II. Vorbemerkung. Aus <seg type="insult">»<rs type="title">Literatur</rs>«</seg> (<rs type="title">Aus dem Vorwort</rs> / <rs type="title">Der<lb/>
+Sohn</rs> / <rs type="title"><seg type="insult">Der <RS pers="Franz Werfel"><rs type="pers" ana="name_203145" ref="#fk__p_55392">Spiegelmensch</rs></RS>, der Sohn und die Bewunderer</seg></rs>). —<lb/>
+<rs type="title">Abenteuer der Arbeit</rs> / <rs type="title">Der Reim</rs> / <rs type="title">Du bist sie, die ich nie gekannt</rs> /<lb/>
+<rs type="title">Todesfurcht</rs> / <rs type="title">Gebet an die Sonne von Gibeon</rs>.<lb/>
+</p>
+            <p ana="pr121469">
+<space/>(Die weiteren Vorlesungen hätten am <date>14.</date> und <date>17.</date>, eine fünfte,<lb/>
+eingeschobene, am <date>16. Dezember</date> stattfinden sollen. Wegen Erkrankung<lb/>
+wurde diese auf den <date>20.</date>, die beiden anderen auf den <date>21.</date> und <date>22.</date><lb/>
+verschoben.)<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_56128">
+               <persName>Friedrich Maria Albrecht, Erzherzog</persName>
+               <birth>
+                  <date>1856-6-4</date>
+                  <place>Groß-Seelowitz/Böhmen</place>
+               </birth>
+               <death>
+                  <date>1936-12-30</date>
+                  <place>Ung. Altenburg</place>
+               </death>
+               <occupation>Offizier</occupation>
+               <note type="comment">FML, Oberbefehlshaber der k.k. Armee</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15242</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/16687</idno></person>
+            <person xml:id="fk__p_57616">
+               <persName>Brockhaus, F. A. (Verlag)</persName>
+               <note type="comment">in Leipzig</note>
+            </person>
+            <person xml:id="fk__p_55392">
+               <persName>Werfel, Franz</persName>
+               <birth>
+                  <date>1890-9-10</date>
+                  <place>Prag</place>
+               </birth>
+               <death>
+                  <date>1945-8-26</date>
+                  <place>Beverly Hills, Kalif.</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/13094</idno></person>
+            </listPerson></back></text>
+</TEI>

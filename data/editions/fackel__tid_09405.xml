@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_09405.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09404.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09406.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Erlaubnis des Nachdrucks von „Der sterbende Soldat“), in: Fackel Heft 25, Nr. 613, 1923, S. 166-167</title>
+            <title type="iso-date">1923-04-01</title>
+            <title type="id">tid_09405</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">25</title><title type="heft">613</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-25-613_n0166.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/613,166</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Erlaubnis des Nachdrucks von „Der sterbende Soldat“)</head>
+            <p ana="pr125500">
+<space/>Eine Bitte an den Verlag um Erlaubnis des Nachdrucks<lb/>
+von »<rs type="title">Der <rs type="pers">sterbende Soldat</rs></rs>« in der Monatsschrift der <rs type="inst">sozialistischen<lb/>
+Arbeiterjugend Wiens</rs> <seg ana="»Junge Kämpfer«"/> war von den Worten<lb/>
+begleitet:<lb/>
+</p>
+            <p ana="pr125502">
+<space/>Ich bringe den Wunsch mit der Bitte um gütige Erlaubnis vor.<lb/>
+Vielleicht ist es eine nicht unpassende Antwort, die jugendliche Arbeiter<lb/>
+<seg type="insult">dem älteren Genossen</seg> erteilen, der <seg type="insult">die tiefe Erkenntnis</seg> publiziert hat,<lb/>
+daß <rs type="pers" ana="n_77348" ref="#fk__p_47565">Karl Kraus</rs> »keine Zeile für Arbeiter geschrieben hat«.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_47565">
+               <persName>Kraus, Karl</persName>
+               <birth>
+                  <date>1874-4-28</date>
+                  <place>Jicin, Böhmen</place>
+               </birth>
+               <death>
+                  <date>1936-6-12</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Publizist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11988</idno></person>
+            </listPerson></back></text>
+</TEI>

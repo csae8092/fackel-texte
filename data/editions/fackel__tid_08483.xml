@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_08483.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08482.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08484.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ein rasender Schmock, in: Fackel Heft 20, Nr. 484, 1918, S. 170-171</title>
+            <title type="iso-date">1918-10-01</title>
+            <title type="id">tid_08483</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">20</title><title type="heft">484</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-20-484_n0170.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/484,170</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ein rasender Schmock</head>
+            <p ana="pr111483">
+<space/>Wer vor dem Weltuntergang sich noch <seg type="insult">einen heiteren<lb/>
+Abend</seg> antun will, versäume nicht, die <seg ana="Wiener Allgemeine&#10;Zeitung"/> zu abonnieren. Dort gibts täglich was in <seg type="insult">diesem Genre</seg>:<lb/>
+</p>
+            <p ana="pr111485">
+<space/><seg type="sidehead">[Die gerächten Berge.]</seg> Die Verurteilung des Mörders <rs type="pers" ana="n_69495" ref="#fk__p_51982">Rahner</rs><lb/>
+hat den gräßlichen Vorfall wieder in Erinnerung gebracht, der sich<lb/>
+im Vorjahre in dem Wiener Waldgebirge abspielte. <OMED>— —</OMED> Hier liegt<lb/>
+ein Fall vor, wo die strafende Gerechtigkeit beinahe verzweifelnd<lb/>
+nach Sühne ausblickt, um so viel Tücke zu ahnden <OMED>— —</OMED> Der Friede<lb/>
+der Berge wurde gestört, <seg type="spc">der von dem Wiener stets hoch<lb/>
+und heilig gehalten wird</seg>. Dort draußen in der erhabenen<lb/>
+Natur der Alpennähe <seg type="spc">hat er seine Sehnsuchten und Träume</seg><lb/>
+aus dem Trubel der Großstadt gerettet, dort steht sein <seg type="spc">weihevoller<lb/>
+Altar</seg>, zu dem er gern und freudig seine Zuflucht nimmt, <seg type="spc">der<lb/>
+ihn noch nie enttäuscht hat</seg> und den er vor <seg type="insult">Menschentücke</seg><lb/>
+und <seg type="insult">Menschenbosheit</seg> gefeit glaubt. Freilich wohnt und lauert auch<lb/>
+in diesen <seg type="spc">Bergen</seg> der Tod. Oft genug dringt schmerzliche Botschaft<lb/>
+aus den zerklüfteten Hängen und <seg type="spc">Firnen des Wienerwaldes</seg>,<lb/>
+aber dieser Tod inmitten <seg type="spc">gigantischer</seg> Natur, <seg type="spc">von ihr selbst<lb/>
+gefordert</seg>, hat etwas ungemein Reines und Opferhaftes an sich<lb/>
+<seg type="spc">in dem Maße</seg>, <seg type="spc">wie er jedem gesellschaftlichen alltäglichen<lb/>
+ Leben fernliegt</seg>. Auch <rs type="pers" ana="n_69496" ref="#fk__p_54077">Therese Preinfalk</rs> glaubte<lb/>
+man lange als Opfer der Berge betrachten zu müssen, bis ihr Ende eine<lb/>
+um so erschütterndere, verdammenswertere Aufklärung erfuhr und<lb/>
+man den Übeltäter suchen mußte, <seg type="spc">der sich nicht scheute</seg>, <seg type="spc">im<lb/>
+Angesichte der von allen Wienern</seg> und allen fühlenden<lb/>
+Menschen <seg type="spc">verehrten majestätischen Natur der<lb/>
+Alpen</seg> <seg type="insult">die scheußlichste Verbrechenstat</seg> zu verüben.<lb/>
+</p>
+            <p ana="pr111487">
+<space/>Gehst denn nicht.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_51982">
+               <persName>Ranner, Peter</persName>
+               <birth>
+                  <date>1892</date>
+                  <place>St. Jakob/Bez. Hartberg</place>
+               </birth>
+               <death>
+                  <date>1918-8-22</date>
+                  <place>Graz</place>
+               </death>
+               <occupation>Holzknecht</occupation>
+               <occupation>Mörder</occupation>
+               <note type="comment">Mordfall an der Wiener Touristin Hermine Preinfalk am 29.09.1917 auf dem Pfaffensattel</note>
+               <note type="comment">Namenskorrektur!</note>
+               <note type="comment">Urteil in Graz am 15.05.1918</note>
+            </person>
+            <person xml:id="fk__p_54077">
+               <persName>Preinfalk, Hermine</persName>
+               <birth>
+                  <date>1887?</date>
+               </birth>
+               <death>
+                  <date>1917-9-29</date>
+                  <place>Pfaffensattel/Steiermark</place>
+               </death>
+               <occupation>Kontoristin</occupation>
+               <note type="comment">Mordopfer in den Bergen ; Mörder Peter Ranner verurteilt und hingerichtet</note>
+               <note type="comment">Namenskorrektur!</note>
+               <note type="comment">in der Pelzfirma J. Z. Schütz</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

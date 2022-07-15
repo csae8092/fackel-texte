@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_05677.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05676.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05678.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Der Beobachter, in: Fackel Heft 13, Nr. 343, 1912, S. 46-46</title>
+            <title type="iso-date">1912-03-01</title>
+            <title type="id">tid_05677</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">13</title><title type="heft">343</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-13-343_n0046.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/343,046</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Der Beobachter</head>
+            <p ana="pr74848">
+<space/>Mit feierlichem Gepränge wurde heute vormittags um 9 Uhr die<lb/>
+Leiche des päpstlichen Nunzius <rs type="pers" ana="n_53843" ref="#fk__p_37961">Alessandro Bavona</rs> im Dome von<lb/>
+<abbr>St.</abbr> Stephan eingesegnet <seg type="symbol" subtype="4dots"/><lb/>
+</p>
+            <p ana="pr74849">
+<space/>Hell leuchtet Kerze an Kerze <seg type="symbol" subtype="4dots"/><lb/>
+</p>
+            <p ana="pr74850">
+<space/>Langsam rückt die Stunde vor <seg type="symbol" subtype="4dots"/><lb/>
+</p>
+            <p ana="pr74851">
+<space/>Dreiviertel neun! Dumpf hallen <seg type="symbol" subtype="4dots"/><lb/>
+</p>
+            <p ana="pr74852">
+<space/><seg type="spc">Auch die Geistlichkeit stellt sich ein</seg> <seg type="symbol" subtype="4dots"/><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_37961">
+               <persName>Bavona, Alessandro</persName>
+               <birth>
+                  <date>1856-05-11</date>
+                  <place>Roccadicambio/Aquila</place>
+               </birth>
+               <death>
+                  <date>1912-1-19</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Bischof</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

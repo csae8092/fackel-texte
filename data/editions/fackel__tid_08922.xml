@@ -1,0 +1,107 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_08922.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08921.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08923.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Sezession, 30. Januar, 7 Uhr:, in: Fackel Heft 22, Nr. 561, 1921, S. 80-80</title>
+            <title type="iso-date">1921-03-01</title>
+            <title type="id">tid_08922</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">22</title><title type="heft">561</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-22-561_n0080.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/561,080</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Sezession, 30. Januar, 7 Uhr:</head>
+            <p ana="pr118756">
+<space/><rs type="inst">Sezession</rs>, <date>30. Januar</date>, 7 Uhr:<lb/>
+</p>
+            <p ana="pr118757">
+<space/><rs type="title">Vorwort</rs>. — <rs type="pers" ana="n_73114" ref="#fk__p_55589"><seg type="spc">Shakespeare</seg></rs>: »<rs type="title"><seg type="spc">Die lustigen Weiber von<lb/>
+Windsor</seg></rs>«. (<rs type="pers" ana="n_73115" ref="#fk__p_43854">Nicolai-Ouvertüre</rs>: die Herren <rs type="pers" ana="n_73116" ref="#fk__p_52936">Schleuning</rs> und <rs type="pers" ana="n_73117" ref="#fk__p_56900">Geist</rs>. Musik<lb/>
+nach dem 2., nach dem 3. Akt und zur Elfen-Szene: <rs type="pers" ana="n_73118" ref="#fk__p_41178"><abbr>Dr.</abbr> Heinrich Zellner</rs>).<lb/>
+</p>
+            <p ana="pr118758">
+<space/>Von dem Ertrag der Berliner Vorlesungen sind 18.953 Kronen<lb/>
+den Aktionen »<rs type="inst">Rettet die Jugend</rs>« und »<rs type="inst">Rossauer Kinderhort</rs>« (Siehe<lb/>
+<FERR id="ferr_25" fcorrID="fcorr_25" href="FK-23-568_n0042.xml" emID="em_25"><ERR fcorr="S. 84"><abbr>S.</abbr> 83</ERR></FERR>), dem <rs type="inst">Arbeiterverein »Kinderfreunde«</rs>, einem notleidenden<lb/>
+Lehrer und anderen wohltätigen Zwecken zugewendet worden. (Dazu<lb/>
+eine Spende von 2000 K für Wiener Kinder und Kriegsblinde.)<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_56900">
+               <persName>Geist, Edwin</persName>
+               <birth>
+                  <date>1902-7-31</date>
+                  <place>Berlin</place>
+               </birth>
+               <death>
+                  <date>1942-12-10</date>
+                  <place>Kaunas/Litauen</place>
+               </death>
+               <occupation>Pianist</occupation>
+               <occupation>Korrepetitor</occupation>
+               <occupation>Komponist</occupation>
+               <note type="comment">1925 in Stettin</note>
+            </person>
+            <person xml:id="fk__p_55589">
+               <persName>Shakespeare, William</persName>
+               <birth>
+                  <date>1564-4-23?</date>
+                  <place>Stratford-upon-Avon</place>
+               </birth>
+               <death>
+                  <date>1616-4-23</date>
+                  <place>Stratford-upon-Avon</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2412</idno></person>
+            <person xml:id="fk__p_41178">
+               <persName>Zellner, Heinrich</persName>
+               <birth>
+                  <date>1869-4-7</date>
+                  <place>Ostrowo/Posen</place>
+               </birth>
+               <occupation>Pianist</occupation>
+               <occupation>Komponist</occupation>
+               <note type="comment">musikal. Begleiter von KK bei Lesungen in Berlin 31.5.1920 und 24.1.1921</note>
+               <note type="comment">Emigration nach Norwegen</note>
+               <note type="comment">Klavierbegleiter KKs</note>
+            </person>
+            <person xml:id="fk__p_43854">
+               <persName>Nicolai, Christoph Friedrich</persName>
+               <birth>
+                  <date>1733-3-18</date>
+                  <place>Berlin</place>
+               </birth>
+               <death>
+                  <date>1811-1-8</date>
+                  <place>Berlin</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Verlagsbuchhändler</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/21933</idno></person>
+            <person xml:id="fk__p_52936">
+               <persName>Schleuning, Wilhelm</persName>
+               <birth>
+                  <date>1902-3-16</date>
+                  <place>Berlin-Charlottenburg</place>
+               </birth>
+               <death>
+                  <date>1966-11-27</date>
+                  <place>Arnsdorf bei Dresden</place>
+               </death>
+               <occupation>Pianist</occupation>
+               <occupation>Korrepetitor</occupation>
+               <occupation>Dirigent</occupation>
+               <note type="comment">Berlin W 15, Knesebeckstr. 56</note>
+               <note type="comment">1942-44 Duisburg, 1956 Leipzig</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

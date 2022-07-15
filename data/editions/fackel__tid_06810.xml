@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06810.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06809.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06811.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ein Wort, das hundert Schlachten schlägt, in: Fackel Heft 16, Nr. 400, 1914, S. 9-9</title>
+            <title type="iso-date">1914-01-01</title>
+            <title type="id">tid_06810</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">16</title><title type="heft">400</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-16-400_n0009.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/400,009</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ein Wort, das hundert Schlachten schlägt</head>
+            <p ana="pr91661">
+Rom, <date>16. Juni</date>.<lb/>
+</p>
+            <p ana="pr91662">
+<space/>Die Haltung des <rs type="pers" ana="n_62253" ref="#fk__p_51739">Fürsten Wilhelm</rs> in diesen schweren Stunden<lb/>
+wird von dem italienischen Korrespondenten als <seg type="spc">tadellos mannhaft</seg><lb/>
+gepriesen.<lb/>
+</p>
+            <p ana="pr91663">
+<space/>Ministerpräsident <rs type="pers" ana="n_62254" ref="#fk__p_54322">Turkhan Pascha</rs> erzählt, der Fürst habe ihn<lb/>
+gestern gefragt, wie die Dinge sich anlassen, und auf die Antwort, daß<lb/>
+alles sich zum Guten wenden und er ihn jedenfalls nicht verlassen<lb/>
+werde, <seg type="spc">lächelnd erwidert</seg>: »<seg type="spc">Hoffen wir das Beste</seg>.«<lb/>
+</p>
+            <p ana="pr91665">
+<space/>Und man zweifelt noch, daß ein Draht, der so etwas<lb/>
+weitergibt und zur Aufnahme in die Gehirne und in die Geschichte<lb/>
+empfiehlt, die <seg type="insult">Geißel der Menschheit</seg> bedeutet?<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_54322">
+               <persName>Turkhan Pascha</persName>
+               <birth>
+                  <date>1846</date>
+                  <place>Tirhala/Türkei</place>
+               </birth>
+               <death>
+                  <date>1927</date>
+                  <place>Permet</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <note type="comment">langjähriger türk. Botschafter in St. Petersburg, Premier des ersten albanischen Kabinetts 1914</note>
+               <note type="comment">alban. Ministerpräsident</note>
+            </person>
+            <person xml:id="fk__p_51739">
+               <persName>Wied, Wilhelm Friedrich Heinrich Prinz zu</persName>
+               <birth>
+                  <date>1876-3-26</date>
+                  <place>Neuwied</place>
+               </birth>
+               <death>
+                  <date>1945-4-18</date>
+                  <place>Predeal, Rumänien</place>
+               </death>
+            </person>
+            </listPerson></back></text>
+</TEI>

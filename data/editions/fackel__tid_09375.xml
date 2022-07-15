@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_09375.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09374.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09376.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Zusatzstrophen zu „Der Talisman“), in: Fackel Heft 25, Nr. 613, 1923, S. 50-51</title>
+            <title type="iso-date">1923-04-01</title>
+            <title type="id">tid_09375</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">25</title><title type="heft">613</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-25-613_n0050.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/613,050</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Zusatzstrophen zu „Der Talisman“)</head>
+            <lg><foreign xml:lang="de-loc">
+<l>Tänze des Grauens, des Lasters und der Ekstase —</l>
+<l>Damit tanzte man uns durch Wochen auf der Nase,</l>
+<l>Und was uns nebstbei noch ganz schauerlich packte,</l>
+<l>Das waren die täglichen Schulden und die gebrochnen Kontrakte.</l>
+<l>Eine hat nix an als a Monokel und tanzt <rs type="pers" ana="n_76816" ref="#fk__p_49349">Beethoven</rs> dazur <seg type="symbol" subtype="3dots"/></l>
+<l>Na da hab’ ich schon g’nur.</l></foreign>
+</lg>
+            <lg><foreign xml:lang="de-loc">
+<l>Ich les’ gern die <seg type="insult">Zeitung</seg>, da erfährt man was Neu’s,</l>
+<l>Und alles was erlogen is, kriegt man schwarz auf weiß,</l>
+<l>Und alles was bezahlt is, steht so prächtig vereint</l>
+<l>Mit allem, was die <seg type="insult">Presse</seg> nicht glaubt, aber meint.</l>
+<l>Und im Notfall machen s’ halt noch ein <seg type="insult">Kreuzel</seg> dazur <seg type="symbol" subtype="3dots"/></l>
+<l>No is das net g’nur?</l></foreign>
+</lg>
+            <lg><foreign xml:lang="de-loc">
+<l>Nach ei’m Krieg gibts kein’ Frieden, doch ein Krieg folgt darauf,</l>
+<l>Der Strom der Entwicklung nimmt den um’kehrten Lauf.</l>
+<l>Und kein Strom, wo nicht Blut strömt, sie sind es gewohnt so;</l>
+<l>Nach Marne und Weichsel und Somme und Isonzo</l>
+<l>Gehts zur Abwechslung jetzt wieder los an der Ruhr.</l>
+<l>Die hab’n noch nicht g’nur!</l></foreign>
+</lg>
+            <lg><foreign xml:lang="de-loc">
+<l>Der <rs type="pers" ana="n_76817" ref="#fk__p_46919">Nestroy’sche Geist</rs> durch die Zeiten erglänzt:</l>
+<l>Das zeigt sich noch, wenn sein Couplet man ergänzt.</l>
+<l>Was immer heut g’schieht, ihm kann nix geschehn —</l>
+<l>Er bietet die Spitze mit seinem Refrain.</l>
+<l>Doch am End’ muß ein End’ sein; geb ich weiter was zur,</l>
+<l>So hab’n S’ am End’ g’nur.</l></foreign>
+</lg>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_49349">
+               <persName>Beethoven, Ludwig van</persName>
+               <birth>
+                  <date>1770-12-17</date>
+                  <place>Bonn</place>
+               </birth>
+               <death>
+                  <date>1827-3-26</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Komponist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10866</idno></person>
+            <person xml:id="fk__p_46919">
+               <persName>Nestroy, Johann Nepomuk</persName>
+               <birth>
+                  <date>1801-12-7</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1862-5-25</date>
+                  <place>Graz</place>
+               </death>
+               <occupation>Sänger</occupation>
+               <occupation>Schauspieler</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12338</idno></person>
+            </listPerson></back></text>
+</TEI>

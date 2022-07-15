@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03238.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03237.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03239.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Arzt. (Professoren und Presse), in: Fackel Heft 05, Nr. 142, 1903, S. 21-22</title>
+            <title type="iso-date">1903-07-3</title>
+            <title type="id">tid_03238</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">05</title><title type="heft">142</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-05-142_n0021.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/142,021</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Arzt. (Professoren und Presse)</head>
+            <p ana="pr31839">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_27465" ref="#fk__p_38520">Arzt</rs>.</seg></seg> Welcher von den <seg type="insult"><rs type="pers" ana="n_27466" ref="#fk__p_45171">Gussenbauer-Nachrufen</rs></seg> mir am besten<lb/>
+gefallen hat? Jener in der Sonntagsnummer der ‚<rs type="paper" ana="werk_11941">Zeit</rs>‘ vom <date>21. Juli</date>:<lb/>
+Da wurde in einer eigenen Notiz mitgetheilt, daß ein Herr <rs type="pers"><abbr>Dr.</abbr> Soundso</rs><lb/>
+</p>
+            <p ana="pr31839">
+einen Kranz auf <rs type="pers" ana="n_27467" ref="#fk__p_45171">Gussenbauer’s</rs> Sarg niedergelegt habe. In ihrem<lb/>
+<seg type="spc">Inseratentheil</seg> nimmt die ‚<rs type="paper" ana="werk_11942">Zeit</rs>‘ bekanntlich keine Reclame für Aerzte<lb/>
+auf <seg type="symbol" subtype="3dots"/> Die ‚<rs type="paper" ana="werk_11943">Neue Freie Presse</rs>‘ hat, wie Sie mir mittheilen, in ihrem<lb/>
+Bericht über den <rs type="event">I. österreichischen Mediciner-Congreß</rs> (am <date>10. Juni</date>)<lb/>
+Herrn Hofrath <rs type="pers" ana="n_27468" ref="#fk__p_41765">Chrobak</rs> mit einer Aufsehen erregenden Rede an der<lb/>
+Discussion theilnehmen lassen; thatsächlich war <rs type="pers" ana="n_27469" ref="#fk__p_52848">Schauta</rs> der Sprecher.<lb/>
+Der ‚<rs type="paper" ana="werk_11944">Neuen Freien Presse</rs>‘ ist der Irrthum nicht zu verargen, und es ist<lb/>
+immer ehrenvoll für hervorragende Männer, wenn sie den <seg type="insult">Berichterstattern<lb/>
+ der Tagespresse</seg> unbekannt sind. Nur nicht sich enjournaillieren!<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_52848">
+               <persName>Schauta, Friedrich</persName>
+               <birth>
+                  <date>1849-7-15</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1919-1-10</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Gynäkologe</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12637</idno></person>
+            <person xml:id="fk__p_38520">
+               <persName>Arzt</persName>
+            </person>
+            <person xml:id="fk__p_41765">
+               <persName>Chrobak, Rudolf</persName>
+               <birth>
+                  <date>1843-07-08</date>
+                  <place>Troppau</place>
+               </birth>
+               <death>
+                  <date>1910-10-01</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Gynäkologe</occupation>
+            </person>
+            <person xml:id="fk__p_45171">
+               <persName>Gussenbauer, Karl</persName>
+               <birth>
+                  <date>1843-10-30</date>
+                  <place>Obervellach/Kärnten</place>
+               </birth>
+               <death>
+                  <date>1903-6-18</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Chirurg</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

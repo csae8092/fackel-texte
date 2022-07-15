@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01814.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01813.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01815.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Literaturhistoriker., in: Fackel Heft 03, Nr. 076, 1901, S. 24-24</title>
+            <title type="iso-date">1901-05-01</title>
+            <title type="id">tid_01814</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">03</title><title type="heft">076</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-03-076_n0024.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/076,024</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Literaturhistoriker.</head>
+            <p ana="pr17879">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_15069" key="#fk__p_49047">Literaturhistoriker</rs>.</seg></seg> <seg type="insult">Herrn <rs type="pers" ana="n_15070" ref="#fk__p_38072">Alfred Kerr</rs> in Berlin, dem verzogenen<lb/>
+ Liebling der Grazien aus der Fichtegasse</seg>, gebürt also nicht<lb/>
+einmal das Verdienst, das Wort crudèl-schön (siehe <rs type="selfRef" ana="werk_5740"><abbr>Nr.</abbr> 73</rs>) geprägt<lb/>
+zu haben. Denn dies Wort findet sich schon in <rs type="pers" ana="n_15071" ref="#fk__p_43227">Ferdinand Raimunds</rs><lb/>
+»<rs type="title">Barometermacher auf der Zauberinsel</rs>« (I., 2.), wo <rs type="pers">Quecksilber</rs>, da<lb/>
+er der Nymphe <rs type="pers">Lidi</rs> ansichtig wird, ausruft: »Himmel, was ist das für<lb/>
+eine crudèlschöne <FERR href="FK-03-077_n0024.xml" fcorrID="fk_04_fcorr_27097680" id="fk_04_ferr_27097680" emID="fk_04_em_27097683"><ERR fcorr="Person!">Person?</ERR></FERR>« Freilich ist es dort humoristisch angewendet<lb/>
+, und <seg type="insult">Herr <rs type="pers" ana="n_15072" ref="#fk__p_38072">Kerr</rs></seg> ist immerhin <seg type="insult">der erste Schriftsteller</seg>, der es<lb/>
+im ernsten Sinne gebraucht hat.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_38072">
+               <persName>Kerr, Alfred</persName>
+               <birth>
+                  <date>1867-12-25</date>
+                  <place>Breslau</place>
+               </birth>
+               <death>
+                  <date>1948-10-12</date>
+                  <place>Hamburg</place>
+               </death>
+               <occupation>Kritiker</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11910</idno></person>
+            <person xml:id="fk__p_43227">
+               <persName>Raimund, Ferdinand</persName>
+               <birth>
+                  <date>1790-6-1</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1836-9-5</date>
+                  <place>Pottenstein, Niederösterreich</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Ögg teilt die Valentin-Stelle 254/4 Nestroy zu</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12468</idno></person>
+            </listPerson></back></text>
+</TEI>

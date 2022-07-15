@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_08522.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08521.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08523.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Der Feind, in: Fackel Heft 20, Nr. 484, 1918, S. 206-206</title>
+            <title type="iso-date">1918-10-01</title>
+            <title type="id">tid_08522</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">20</title><title type="heft">484</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-20-484_n0206.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/484,206</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Der Feind</head>
+            <p ana="pr111796">
+<space/>Der englische Oberbefehlshaber<lb/>
+<rs type="pers" ana="n_69560" ref="#fk__p_53356">Sir Douglas Haig</rs> gedenkt in einem<lb/>
+amtlichen Bericht anerkennend<lb/>
+eines deutschen Offiziers, der bei<lb/>
+Flesquières mit hervorragender<lb/>
+Tapferkeit gegen die Tanks kämpfte.<lb/>
+Die <foreign xml:lang="en">‚<rs type="paper" ana="werk_21494">Daily News</rs>‘</foreign> veröffentlichte<lb/>
+über den Vorgang folgende Mitteilung<lb/>
+ eines Augenzeugen: — —<lb/>
+<seg type="spc">Unsere Leute waren fast<lb/>
+traurig, daß sie ihn derart<lb/>
+ erledigt hatten</seg>, <seg type="spc">denn<lb/>
+er verdiente zu leben</seg>.<lb/>
+<seg type="spc">Ich glaube</seg>, <seg type="spc">es war der<lb/>
+schönste Fall von Tapferkeit<lb/>
+ und Heroismus</seg>, <seg type="spc">der<lb/>
+mir vorgekommen ist</seg>.<lb/>
+</p>
+            <p ana="pr111799">
+<space/>Einem Bericht des ‚<rs type="" ana="werk_21495">Teplitzer<lb/>
+Anzeigers</rs>‘ über eine Gemeindeausschußsitzung<lb/>
+ entnehmen wir:<lb/>
+»Unter anderem wurde auch noch<lb/>
+beschlossen, die dem in Teplitz<lb/>
+am <date>22. März 1917</date> verstorbenen<lb/>
+<seg type="spc">kriegsgefangenen Franzosen<lb/>
+ <rs type="pers" ana="n_69561" ref="#fk__p_51230">Paul Marquis</rs></seg>,<lb/>
+der zur Arbeitsleistung auf dem<lb/>
+<abbr>k. u. k.</abbr> Militärschacht in Zinnwald<lb/>
+ kommandiert war und<lb/>
+in Teplitz beerdigt liegt,<lb/>
+<seg type="spc">von seinen Kameraden<lb/>
+ gewidmete<lb/>
+Gedenktafel vom<lb/>
+hiesigen Friedhof<lb/>
+ zu entfernen</seg>.«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_53356">
+               <persName>Haig, Earl Douglas</persName>
+               <birth>
+                  <date>1861-06-19</date>
+                  <place>Edinburgh</place>
+               </birth>
+               <death>
+                  <date>1928-01-30</date>
+                  <place>London</place>
+               </death>
+               <occupation>General</occupation>
+            </person>
+            <person xml:id="fk__p_51230">
+               <persName>Marquis, Paul</persName>
+               <death>
+                  <date>1917-3-22</date>
+                  <place>Teplitz</place>
+               </death>
+               <note type="comment">kriegsgefangener Franzose</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

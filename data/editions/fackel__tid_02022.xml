@@ -1,0 +1,125 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02022.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02021.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02023.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Faiseur. (Kranz redivivus), in: Fackel Heft 03, Nr. 085, 1901, S. 25-26</title>
+            <title type="iso-date">1901-11-16</title>
+            <title type="id">tid_02022</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">03</title><title type="heft">085</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-03-085_n0025.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/085,025</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Faiseur. (Kranz redivivus)</head>
+            <p ana="pr19740">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="n_16855" ref="#fk__p_43078">Faiseur</rs>.</seg></seg></seg> Die in <rs type="selfRef" ana="werk_6530"><abbr>Nr.</abbr> 82</rs> der ‚<rs type="self" ana="werk_6531">Fackel</rs>‘ ausgesprochene Befürchtung,<lb/>
+<seg type="insult">der goldene Becher des Herrn <rs type="pers" ana="n_16856" ref="#fk__p_47110"><abbr>Dr.</abbr> <seg type="spc">Kranz</seg></rs></seg> sei zersprungen, hat sich zur<lb/>
+grossen Freude <seg type="insult">aller in <rs type="inst">Concordia</rs> und Güte vereinten Ehrenmänner</seg> als<lb/>
+unbegründet erwiesen. Es geht kein Riss durch das Weltganze. <seg type="insult">Alle, alle</seg>,<lb/>
+die »gut« sind, <seg type="insult">vom Regierungsrath <rs type="pers" ana="n_16857" ref="#fk__p_55533">Neumann</rs> vom ‚<rs type="paper" ana="werk_6532">Fremdenblatt</rs>‘ bis<lb/>
+zum <rs type="pers" ana="n_16858" ref="#fk__p_53254">Siegfried Löwy</rs></seg>, der noch kein Regierungsrath ist, alle, die sich anlässlich<lb/>
+des <seg type="insult">Treberkraches</seg> in täglicher Erwartung des Zusammenbruches <seg type="insult">der<lb/>
+<rs type="pers" ana="n_16859" ref="#fk__p_47110">Kranz’schen Gründungen</rs></seg> von ihm wandten, werden sich nun recht bald<lb/>
+wieder bei <seg type="insult">den vollen <rs type="pers" ana="n_16860" ref="#fk__p_47110">Kranz’schen Schüsseln</rs></seg> einfinden. Der Mann wird<lb/>
+dank seinen <seg type="insult">hohen Gönnern</seg> weiter Bosniens Wälder devastieren und<lb/>
+hoffentlich recht bald wieder Gelegenheit finden, mit <seg type="insult">seinem Freunde<lb/>
+Regierungsrath <rs type="pers" ana="n_16861" ref="#fk__p_39756">Petraschek</rs> vom bosnischen Ministerium</seg>, <seg type="insult">seinem »Banquier«<lb/>
+<rs type="pers" ana="n_16862" ref="#fk__p_49454"><abbr>M.</abbr> Hassberg</rs> und Consorten</seg> wie bisher zu »arbeiten«. <seg type="insult">Herr <rs type="pers" ana="n_16863" ref="#fk__p_47435"><abbr>v.</abbr> Kallay</rs></seg><lb/>
+kommt <seg type="insult">statt mit einem blauen Bogen mit einem blauen Auge</seg> davon. Ihm<lb/>
+blüht höchstens die Verurtheilung in einem Ehrenbeleidigungsprocesse,<lb/>
+den ihm seine begreifliche Nervosität zugezogen hat. Und er wird in<lb/>
+</p>
+            <p ana="pr19740">
+Zukunft gegen Audienzwerberinnen ebenso höflich und zuvorkommend<lb/>
+sein wie gegenüber <seg type="insult">Herrn <rs type="pers" ana="n_16864" ref="#fk__p_47110">Kranz</rs></seg> <seg type="symbol" subtype="3dots"/><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_39756">
+               <persName>Petraschek, Carl</persName>
+               <birth>
+                  <date>1846-3-20</date>
+                  <place>Wien</place>
+               </birth>
+               <occupation>Beamter</occupation>
+               <note type="comment">1., Hegelgasse 6</note>
+               <note type="comment">Regierungsrat im bosnischen Ministerium</note>
+            </person>
+            <person xml:id="fk__p_47110">
+               <persName>Kranz, Josef</persName>
+               <birth>
+                  <date>1862-10-7</date>
+                  <place>Auschwitz</place>
+               </birth>
+               <death>
+                  <date>1934-9-14</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Rechtsanwalt</occupation>
+               <occupation>Industrieller</occupation>
+               <occupation>Bankier</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/3551</idno></person>
+            <person xml:id="fk__p_55533">
+               <persName>Neumann, Wilhelm Friedrich</persName>
+               <birth>
+                  <date>1860-9-6</date>
+                  <place>Trencsin</place>
+               </birth>
+               <death>
+                  <date>1938-4-7</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <note type="comment">Redakteur des "Fremden-Blatt"</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_18424</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/21908</idno></person>
+            <person xml:id="fk__p_49454">
+               <persName>Hassberg, Moriz</persName>
+               <birth>
+                  <date>1838?</date>
+               </birth>
+               <death>
+                  <date>1922-7-25</date>
+               </death>
+               <occupation>Bankier</occupation>
+            </person>
+            <person xml:id="fk__p_53254">
+               <persName>Loewy, Siegfried</persName>
+               <birth>
+                  <date>1857-11-1</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1931-5-8</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Namenskorrektur!</note>
+               <note type="comment">ÖBL</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12101</idno></person>
+            <person xml:id="fk__p_47435">
+               <persName>Kállay von Nagy-Kálló, Bénjamin</persName>
+               <birth>
+                  <date>1839-12-22</date>
+                  <place>Pest</place>
+               </birth>
+               <death>
+                  <date>1903-07-13</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <occupation>Übersetzer</occupation>
+               <note type="comment">1882-1903 Finanzminister</note>
+            </person>
+            <person xml:id="fk__p_43078">
+               <persName>Faiseur</persName>
+            </person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_04639.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04638.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04640.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Otto Ernst, der Liebling aller Freunde echten Familienlebens), in: Fackel Heft 09, Nr. 249, 1908, S. 16-17</title>
+            <title type="iso-date">1908-04-1</title>
+            <title type="id">tid_04639</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">09</title><title type="heft">249</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-09-249_n0016.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/249,016</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Otto Ernst, der Liebling aller Freunde echten Familienlebens)</head>
+            <p ana="pr53077">
+<space/>Aber auch die ‚<rs type="paper" ana="werk_16006">Neue Freie Presse</rs>‘ erlebt <seg type="insult">Ehren</seg>:
+</p>
+            <p ana="pr53080">
+<space/>»Wollen Sie die Güte haben, Ihrem liebenswürdigen Mitarbeiter<lb/>
+<rs type="pers" ana="n_41828" ref="#fk__p_50949">Otto Ernst</rs>, dem Liebling aller Freunde echten Familienlebens, den Dank<lb/>
+einer großen Lesergruppe zu verdolmetschen, welche sein Feuilleton<lb/>
+geradezu mit Begeisterung aufgenommen hat <seg type="symbol" subtype="4dots"/> <rs type="pers" ana="n_41829" ref="#fk__p_50949">Otto Ernst</rs> hat uns allen<lb/>
+aus der Seele gesprochen <seg type="symbol" subtype="4dots"/> Sein Feuilleton ist sicherlich realistisch<lb/>
+geschrieben, aber ein feiner Schmelz von Idealismus macht seine Arbeit<lb/>
+direkt zu einem Gedichte auf die Unbeflecktheit unserer Jugend und<lb/>
+wir sind überzeugt, daß sein Mahnruf die Wirkung nicht verfehlen wird.<lb/>
+</p>
+            <p ana="pr53080">
+Wollen Sie ihm den Ausdruck unserer Verehrung, ihm aber und seiner<lb/>
+lieben Familie, insbesondere der süßen Appelschnute, unsere herzlichsten<lb/>
+Grüße übermitteln. Im <choice><sic>Aufrage</sic><corr>Auftrage</corr></choice> unserer <rs type="inst"><seg type="ELIDASH">Tischgesellschaft</seg> und Lesegesellschaft</rs>:<lb/>
+<rs type="pers" ana="n_41830" ref="#fk__p_45198"><AUCTOR>Gustav Lederer</AUCTOR></rs>. Mährisch-Ostrau, <date>15. Februar 1908</date>.«<lb/>
+</p>
+            <p ana="pr53082">
+<space/>Es gibt also nicht nur ein <seg type="insult">echtes Familienleben</seg>,<lb/>
+es gibt auch noch <seg type="insult">Freunde eines echten Familienlebens<lb/>
+</seg>, mehr als das, es gibt sogar einen <seg type="insult">Liebling aller<lb/>
+Freunde echten Familienlebens</seg>. Und es gibt auch<lb/>
+<seg type="insult">Mehlspeisen</seg>, die ein <seg type="insult">feines Schmalz</seg> direkt zu einem<lb/>
+Gedicht macht. Gott erhalte trotzdem der Mährisch-Ostrauer<lb/>
+ Jugend ihre <seg type="insult">Unbeflecktheit</seg>: möge sie nie<lb/>
+sich selbst enttäuschen! Immerhin, Mährisch-Ostrau<lb/>
+wird auf die ‚<rs type="paper" ana="werk_16007">Neue Freie Presse</rs>‘ aufmerksam.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_50949">
+               <persName>Ernst, Otto</persName>
+               <birth>
+                  <date>1862-10-7</date>
+                  <place>Ottensen bei Hamburg</place>
+               </birth>
+               <death>
+                  <date>1926-3-5</date>
+                  <place>Groß-Flottbek bei Hamburg</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Die Liebe höret nimmer auf, Tragikomödie 1911</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11260</idno></person>
+            <person xml:id="fk__p_45198">
+               <persName>Lederer, Gustav</persName>
+               <note type="comment">in Mährisch-Ostrau 15. 02. 1908</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/20229</idno></person>
+            </listPerson></back></text>
+</TEI>

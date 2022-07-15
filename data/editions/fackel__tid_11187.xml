@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_11187.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11186.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11188.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Kein Wunder, in: Fackel Heft 31, Nr. 820, 1929, S. 42-42</title>
+            <title type="iso-date">1929-10-01</title>
+            <title type="id">tid_11187</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">31</title><title type="heft">820</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-31-820_n0042.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/820,042</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Kein Wunder</head>
+            <p ana="pr162048">
+<space/>Über einen Empfang bei <rs type="pers" ana="n_97203" ref="#fk__p_39504">Briand</rs> berichtet der <seg type="insult">Vertreter des<lb/>
+<seg ana="Neuen Wiener Journals"/></seg>:<lb/>
+</p>
+            <p ana="pr162050">
+<space/><seg type="symbol" subtype="3dotsEditor"/> Er saß in einem seiner kleinen Salons im dritten Stock<lb/>
+des <rs type="inst">Hotels des Bergues</rs> <seg type="symbol" subtype="4dotsEditor"/> <seg type="spc">Es war eine Luft im Zimmer</seg>,<lb/>
+<seg type="spc">daß man nicht atmen konnte</seg>. <seg type="spc">Unsere berühmtesten<lb/>
+Kollegen waren erschienen</seg>: <rs type="pers" ana="n_97204" ref="#fk__p_47210">Sauerwein</rs> <seg type="symbol" subtype="4dotsEditor"/><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_47210">
+               <persName>Sauerwein, Jules</persName>
+               <birth>
+                  <date>1880-1-20</date>
+                  <place>Marseille</place>
+               </birth>
+               <death>
+                  <date>1967-6-30</date>
+                  <place>St Cloud</place>
+               </death>
+               <occupation>Journalist</occupation>
+            </person>
+            <person xml:id="fk__p_39504">
+               <persName>Briand, Aristide</persName>
+               <birth>
+                  <date>1862-03-28</date>
+                  <place>Nantes</place>
+               </birth>
+               <death>
+                  <date>1932-03-07</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Politiker</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/61969</idno></person>
+            </listPerson></back></text>
+</TEI>

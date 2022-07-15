@@ -1,0 +1,44 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_12002.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_12001.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_12003.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Berlin, Breitkopf-Saal, 19. Dezember, 8 Uhr:, in: Fackel Heft 33, Nr. 868, 1932, S. 32-32</title>
+            <title type="iso-date">1932-03-01</title>
+            <title type="id">tid_12002</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">33</title><title type="heft">868</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-33-868_n0032.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/868,032</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Berlin, Breitkopf-Saal, 19. Dezember, 8 Uhr:</head>
+            <p ana="pr173920">
+<space/><seg type="spc">Berlin</seg>, <rs type="inst"><rs type="pers" ana="n2_9322" ref="#fk__p_57612">Breitkopf-Saal</rs></rs>, <date>19. Dezember</date>, 8 Uhr:<lb/>
+</p>
+            <p ana="pr173921">
+<space/><rs type="title"><seg type="spc"><rs type="pers">Iphigenie</rs> auf Tauris</seg></rs>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_57612">
+               <persName>Breitkopf, Johann Gottlob Immanuel</persName>
+               <birth>
+                  <date>1719-11-23</date>
+                  <place>Leipzig</place>
+               </birth>
+               <death>
+                  <date>1794-1-28</date>
+                  <place>Leipzig</place>
+               </death>
+               <occupation>Verleger</occupation>
+               <occupation>Typograph</occupation>
+               <note type="comment">Berlin</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,44 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_08275.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08274.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08276.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Der jüngste Ehrendoktor, in: Fackel Heft 20, Nr. 474, 1918, S. 134-134</title>
+            <title type="iso-date">1918-05-01</title>
+            <title type="id">tid_08275</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">20</title><title type="heft">474</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-20-474_n0134.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/474,134</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Der jüngste Ehrendoktor</head>
+            <p ana="pr109338">
+<space/><seg type="spc">Der Verleger des</seg> ‚<rs type="paper" ana="werk_21403"><seg type="spc">Berliner Tageblatt</seg></rs>‘ <seg type="spc"><rs type="pers" ana="n_68646" ref="#fk__p_52596">Rudolf<lb/>
+Mosse</rs> ist von der <rs type="inst">Universität Heidelberg</rs> zum<lb/>
+Ehrendoktor ernannt worden</seg>. —<lb/>
+</p>
+            <p ana="pr109340">
+<space/><seg type="insult">Du Stadt an Ehren reich!</seg><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_52596">
+               <persName>Mosse, Rudolf</persName>
+               <birth>
+                  <date>1843-5-8</date>
+                  <place>Graetz/Posen</place>
+               </birth>
+               <death>
+                  <date>1920-9-8</date>
+                  <place>Schenkendorf bei Berlin</place>
+               </death>
+               <occupation>Zeitungsverleger</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/39183</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_05506.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05505.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05507.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ferdinand Georg Waldmüller, in: Fackel Heft 13, Nr. 334, 1911, S. 54-54</title>
+            <title type="iso-date">1911-10-31</title>
+            <title type="id">tid_05506</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">13</title><title type="heft">334</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-13-334_n0054.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/334,054</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ferdinand Georg Waldmüller</head>
+            <p ana="pr72221">
+<rs type="title"><rs type="pers" ana="n2_4603" ref="#fk__p_57883"><seg type="spc">Ferdinand Georg Waldmüller</seg></rs>. Sein Leben, sein<lb/>
+Werk und seine Schriften</rs><lb/>
+</p>
+            <p ana="pr72222">
+Herausgegeben von <rs type="pers" ana="n_52242" ref="#fk__p_38498">Arthur Roeßler</rs> und <rs type="pers" ana="n_52243" ref="#fk__p_45206">Gustav Pisko</rs>. Selbstverlag<lb/>
+ von <rs type="inst"><rs type="pers" ana="n2_4604" ref="#fk__p_45206">Gustav Pisko</rs></rs> in Wien:<lb/>
+</p>
+            <p ana="pr72224">
+<date>1855</date>: <seg type="symbol" subtype="4dotsEditor"/>Der Gehalt in meiner Anstellung als Custos<lb/>
+der <rs type="inst">akademischen Gallerie</rs>, 800 <abbr>fl.</abbr> ist sehr gering.<lb/>
+Ich hatte nie um eine Erhöhung desselben angesucht<lb/>
+<OMED>— —</OMED> und so geschah es denn auch, daß ich bey<lb/>
+der Reorganisierung der <rs type="inst">Akademie</rs> — völlig ignoriert<lb/>
+ blieb.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_57883">
+               <persName>Waldmüller, Ferdinand Georg </persName>
+               <birth>
+                  <date>1793-1-15</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1865-8-23</date>
+                  <place>Helmstreitmühle/Hinterbrühl</place>
+               </death>
+               <occupation>Maler</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10424</idno></person>
+            <person xml:id="fk__p_45206">
+               <persName>Pisko, Gustav</persName>
+               <birth>
+                  <date>1866-10-26</date>
+                  <place>Malnyka, Preßburg</place>
+               </birth>
+               <death>
+                  <date>1911-3-3</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Galeriebesitzer</occupation>
+               <occupation>Kunsthändler</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/22606</idno></person>
+            <person xml:id="fk__p_38498">
+               <persName>Roeßler, Arthur</persName>
+               <birth>
+                  <date>1877-02-20</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1955-07-20</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Kunsthistoriker</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

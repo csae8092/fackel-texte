@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_08215.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08214.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08216.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Eine Feldpostkarte seines Dieners), in: Fackel Heft 20, Nr. 474, 1918, S. 70-71</title>
+            <title type="iso-date">1918-05-01</title>
+            <title type="id">tid_08215</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">20</title><title type="heft">474</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-20-474_n0070.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/474,070</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Eine Feldpostkarte seines Dieners)</head>
+            <p ana="pr108752">
+<space/>Es gäbe eine Sühne für <seg type="insult">alle Kriegsdichtung von vier<lb/>
+Jahren</seg>. Wenn sie sich in ihr Nichts auflösen wollte angesichts<lb/>
+dieses erhabenen Heldengedichts, das in Form einer Feldpostkarte<lb/>
+ an die Familie des Verstorbenen gelangt ist:<lb/>
+</p>
+            <p ana="pr108754">
+<rs type="inst"><abbr>K. u. k.</abbr> Feldspital 1301</rs> am <date>6/11 1917</date><lb/>
+</p>
+            <p ana="pr108755">
+Hochgeehrter Herr!<lb/>
+</p>
+            <p ana="pr108756">
+<space/>Erlaube mir mit zitternder Hand mitzuteilen, daß mein<lb/>
+Herr Leutnant <rs type="pers" ana="n_68386" ref="#fk__p_43507">Janowitz</rs> den <date>4. November</date> seinen Wunden erlag.<lb/>
+</p>
+            <p ana="pr108757">
+<space/>Mir wurde trotz meines Bittens nicht erlaubt, mit seinen<lb/>
+Sachen zu Euch zu kommen.<lb/>
+</p>
+            <p ana="pr108758">
+<space/>Hab wohl viel Thränen vergossen für den <abbr>H.</abbr> Ehre seinem<lb/>
+Andenken. Mein innigstes Beileid. Gott hat es gewollt. Ich<lb/>
+komm wieder zur Kompagnie.<lb/>
+</p>
+            <p ana="pr108759">
+Sein <abbr>tr.</abbr> Diener<lb/>
+<rs type="pers" ana="n_68387" ref="#fk__p_47080"><AUCTOR>Josef Greunz</AUCTOR></rs>.<lb/>
+</p>
+            <p ana="pr108760">
+<space/>Und angesichts dieses Dokuments: Eine Karte, die ich dem<lb/>
+Verwundeten geschrieben hatte — zur Beantwortung eines Telegramms<lb/>
+ brauchte das Feldspital sechs Wochen — und die nach<lb/>
+seinem Tod einlangte, ist später mit dem folgenden Vermerk<lb/>
+zurückgekommen:<lb/>
+</p>
+            <p ana="pr108761">
+<space/>Abgeschoben. Aufenthalt unbekannt.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_47080">
+               <persName>Greunz, Josef</persName>
+               <note type="comment">Diener von Franz Janowitz</note>
+            </person>
+            <person xml:id="fk__p_43507">
+               <persName>Janowitz, Franz</persName>
+               <birth>
+                  <date>1892-07-28</date>
+                  <place>Podjebrad/Böhmen</place>
+               </birth>
+               <death>
+                  <date>1917-11-04</date>
+                  <place>Unter-Breth/Küstenland</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38499</idno></person>
+            </listPerson></back></text>
+</TEI>

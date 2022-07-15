@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_08424.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08423.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08425.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Eine Antwort), in: Fackel Heft 20, Nr. 484, 1918, S. 132-132</title>
+            <title type="iso-date">1918-10-01</title>
+            <title type="id">tid_08424</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">20</title><title type="heft">484</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-20-484_n0132.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/484,132</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Eine Antwort)</head>
+            <p ana="pr111002">
+<space/>»Literarhistoriker. Ihre Mitteilung, daß <rs type="pers" ana="n_69318" ref="#fk__p_46919">Nestroys</rs> Werke nicht<lb/>
+von <rs type="pers" ana="n_69319" ref="#fk__p_47565">Karl Kraus</rs> sind, haben wir mit großer Überraschung zur Kenntnis<lb/>
+genommen.«<lb/>
+</p>
+            <p ana="pr111004">
+<space/>Gut gegeben. Es ist die Antwort auf den Versuch, einen<lb/>
+<seg type="insult">Theaterjournalisten</seg> ohne jeden Tadel für seine <seg type="insult">Unbildung</seg>, mit<lb/>
+einer stilkritischen Studie über die tiefere Berechtigung seines<lb/>
+Irrtums, darauf aufmerksam zu machen, daß ein <rs type="pers" ana="n_69320" ref="#fk__p_46919">Nestroysches<lb/>
+Wort</rs> nicht von <rs type="pers" ana="n_69321" ref="#fk__p_55589">Shakespeare</rs> ist. Wie beneide ich die <seg type="insult">Zeitungsleute<lb/>
+</seg> um ihr Talent. Sie können an mir zu <seg type="insult">Satirikern</seg> werden.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_47565">
+               <persName>Kraus, Karl</persName>
+               <birth>
+                  <date>1874-4-28</date>
+                  <place>Jicin, Böhmen</place>
+               </birth>
+               <death>
+                  <date>1936-6-12</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Publizist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11988</idno></person>
+            <person xml:id="fk__p_46919">
+               <persName>Nestroy, Johann Nepomuk</persName>
+               <birth>
+                  <date>1801-12-7</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1862-5-25</date>
+                  <place>Graz</place>
+               </death>
+               <occupation>Sänger</occupation>
+               <occupation>Schauspieler</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12338</idno></person>
+            <person xml:id="fk__p_55589">
+               <persName>Shakespeare, William</persName>
+               <birth>
+                  <date>1564-4-23?</date>
+                  <place>Stratford-upon-Avon</place>
+               </birth>
+               <death>
+                  <date>1616-4-23</date>
+                  <place>Stratford-upon-Avon</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2412</idno></person>
+            </listPerson></back></text>
+</TEI>

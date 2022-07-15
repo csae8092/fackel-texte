@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07112.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07111.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07113.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Und noch ein, in: Fackel Heft 18, Nr. 418, 1916, S. 72-73</title>
+            <title type="iso-date">1916-04-01</title>
+            <title type="id">tid_07112</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">18</title><title type="heft">418</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-18-418_n0072.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/418,072</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Und noch ein</head>
+            <p ana="pr96232">
+<seg type="spc">In Cetinje hundertvierundfünfzig Geschütze und zehntausend<lb/>
+Gewehre erbeutet</seg>, <seg type="spc">Bestürzung im <rs type="inst">Vierverbande</rs></seg>, <seg type="spc">günstiger<lb/>
+Verlauf der <rs type="event">russischen Neujahrsschlacht in Ostgalizien</rs> und<lb/>
+an der Grenze von Beßarabien</seg>.<lb/>
+</p>
+            <p ana="pr96233">
+Wien, <date>15. Januar</date>.<lb/>
+</p>
+            <p ana="pr96234">
+<space/><seg type="spc">Der verstorbene Generalsekretär der <rs type="inst">Österreichisch-ungarischen<lb/>
+ Bank</rs></seg>, <rs type="pers" ana="n_64478" ref="#fk__p_55553"><seg type="spc">Wilhelm </seg><abbr>v.</abbr> <seg type="spc">Lucam</seg></rs>, <seg type="spc">ist nahezu vergessen</seg>.<lb/>
+Der <seg type="spc">jetzige</seg> Gouverneur, Herr <rs type="pers" ana="n_64479" ref="#fk__p_54684"><abbr>v.</abbr> Popovics</rs>, <seg type="spc">hat eine Vergangenheit</seg>,<lb/>
+die zu einer <seg type="spc">Zukunft</seg> berechtigt, und wir begegnen ihm <seg type="spc">vielleicht</seg><lb/>
+dereinst an einer Stelle in der Monarchie, wo der Gesichtskreis noch<lb/>
+weiter und die Verantwortungen noch ernster sind <seg type="symbol" subtype="4dots"/> <seg type="spc">Das Bekenntnis<lb/>
+zum Optimismus muß ähnliche Hilfsmittel zur Begründung<lb/>
+anwenden</seg>. Wir <seg type="spc">stellen uns</seg> den Offizier und den Soldaten <seg type="spc">vor</seg>, der<lb/>
+von Cattaro über Geröll und Felsblöcke, in den höheren Lagen über<lb/>
+Eis und Schnee, beständig von den Geschoßen des Feindes bedroht,<lb/>
+auf den Lovcen gestiegen ist <seg type="symbol" subtype="4dots"/> Er muß ein Anderer geworden sein <seg type="symbol" subtype="4dots"/><lb/>
+</p>
+            <p ana="pr96236">
+<space/>Das wäre zu hoffen und von ihm so zu bewähren, daß er die<lb/>
+<seg type="insult">Individuen</seg>, die sich ihn vorgestellt haben, wie er über Geröll auf<lb/>
+den Lovcen gestiegen ist, eben dorthin schickt und so das<lb/>
+Vaterland von der Gefahr befreit, das Opfer <seg type="insult">einer zu lebhaften<lb/>
+Einbildungskraft</seg> zu werden. Dies Bekenntnis zum Optimismus<lb/>
+sei das unserige!<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_54684">
+               <persName>Popovics, Alexander von</persName>
+               <birth>
+                  <date>1862-10-22</date>
+                  <place>Budapest</place>
+               </birth>
+               <occupation>Bankier</occupation>
+               <note type="comment">3., Reisnerstraße 57</note>
+               <note type="comment">Gouverneur der Österr.-ungar. Bank</note>
+            </person>
+            <person xml:id="fk__p_55553">
+               <persName>Lucam, Wilhelm Ritter von</persName>
+               <birth>
+                  <date>1820-1-6</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1900-09-30</date>
+                  <place>Ischl</place>
+               </death>
+               <occupation>Bankfachmann</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

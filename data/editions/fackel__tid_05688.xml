@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_05688.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05687.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05689.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Anstatt stolz zu sein, in: Fackel Heft 13, Nr. 343, 1912, S. 51-52</title>
+            <title type="iso-date">1912-03-01</title>
+            <title type="id">tid_05688</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">13</title><title type="heft">343</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-13-343_n0051.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/343,051</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Anstatt stolz zu sein</head>
+            <p ana="pr74948">
+<space/>»Es ist doch ewig schade, daß im Mittelalter das Zeitungswesen<lb/>
+so unentwickelt war <seg type="symbol" subtype="3dots"/>«<lb/>
+</p>
+            <p ana="pr74950">
+seufzt <seg type="insult">einer</seg>, der gegen <rs type="pers" ana="n_53885" ref="#fk__p_39860">Cézanne</rs> ist, und vergißt, daß es doch <seg type="insult">das<lb/>
+Besondere der Neuzeit</seg> ist, daß sie <seg type="insult">den <rs type="pers" ana="n_53886" ref="#fk__p_43868">Friedrich Stern</rs></seg> vor dem<lb/>
+Mittelalter voraus hat.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_39860">
+               <persName>Cézanne, Paul</persName>
+               <birth>
+                  <date>1839-1-19</date>
+                  <place>Aix-en-Provence</place>
+               </birth>
+               <death>
+                  <date>1906-10-22</date>
+                  <place>Aix-en-Provence</place>
+               </death>
+               <occupation>Maler</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/15199</idno></person>
+            <person xml:id="fk__p_43868">
+               <persName>Stern, Friedrich</persName>
+               <birth>
+                  <date>1848-07-02</date>
+                  <place>Proßnitz</place>
+               </birth>
+               <death>
+                  <date>1921-9-1</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <note type="comment">6., Linke Wienzeile 60</note>
+               <note type="comment">370/41 ??</note>
+               <note type="comment">ab 1883 Red. beim NWT</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

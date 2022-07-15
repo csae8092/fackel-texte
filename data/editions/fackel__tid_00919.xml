@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00919.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00918.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00920.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Neugierig. (Der Biograph Eisenberg), in: Fackel Heft 02, Nr. 038, 1900, S. 31-31</title>
+            <title type="iso-date">1900-04-01</title>
+            <title type="id">tid_00919</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">038</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-038_n0031.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/038,031</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Neugierig. (Der Biograph Eisenberg)</head>
+            <p ana="pr8764">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_6937" key="#fk__p_50608">Neugierig</rs>.</seg></seg> Wer <seg type="insult">der »Biograph« <seg type="spc"><rs type="pers" ana="n_6938" ref="#fk__p_49286">Eisenberg</rs></seg></seg> ist, der auch, wie<lb/>
+in den Blättern zu lesen war, <rs type="pers" ana="n_6939" ref="#fk__p_49331">Speidel</rs> zu seinem 70. Geburtstag<lb/>
+gratuliert hat? Das ist <seg type="insult">der berühmte Mann</seg>, nach dem die Igelgasse im<lb/>
+vierten Bezirk — <rs type="pers" ana="n_6940" ref="#fk__p_46949">Johann Straußgasse</rs> benannt ist.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46949">
+               <persName>Strauß, Johann jun.</persName>
+               <birth>
+                  <date>1825-10-25</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1899-6-3</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Komponist</occupation>
+               <occupation>Dirigent</occupation>
+               <note type="comment">261/15 zweifelhaft</note>
+               <note type="comment">368/22 Johann Strauß-Theater, 4., Favoritenstr. 8, ab 1931 Scala</note>
+            </person>
+            <person xml:id="fk__p_49286">
+               <persName>Eisenberg, Ludwig Julius</persName>
+               <birth>
+                  <date>1858-3-5</date>
+                  <place>Berlin</place>
+               </birth>
+               <death>
+                  <date>1910-1-25</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Lexikograph</occupation>
+               <note type="comment">Hg. des Künstler- und Schriftsteller-Lexikons</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/3043</idno></person>
+            <person xml:id="fk__p_49331">
+               <persName>Speidel, Ludwig</persName>
+               <birth>
+                  <date>1830-4-11</date>
+                  <place>Ulm</place>
+               </birth>
+               <death>
+                  <date>1906-2-3</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Kritiker</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12816</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01035.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01034.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01036.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Wilder. (Die Manieren des Abgeordneten Dr. Gross), in: Fackel Heft 02, Nr. 043, 1900, S. 30-30</title>
+            <title type="iso-date">1900-06-01</title>
+            <title type="id">tid_01035</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">043</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-043_n0030.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/043,030</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Wilder. (Die Manieren des Abgeordneten Dr. Gross)</head>
+            <p ana="pr9897">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_8065" ref="#fk__p_55474">Wilder</rs>.</seg></seg> Die <seg type="insult">Ungezogenheit</seg> des deutschliberalen Abgeordneten<lb/>
+<rs type="pers" ana="n_8066" ref="#fk__p_41101"><abbr>Dr.</abbr> <seg type="spc">Groß</seg></rs>, der auf dem Festcommers des »<rs type="inst">Deutschen Schulvereins</rs>«<lb/>
+in Graz den Ausdruck <seg type="insult">»freche Tschechenbrut«</seg> gebrauchte, war wohl<lb/>
+auffallend. Das sind die <seg type="insult">Leute</seg>, die von <seg type="insult">»nationaler Verständigung«</seg><lb/>
+faseln und bei Delegationsempfängen dem <RS pers="Franz Joseph" globID="rs_126">Kaiser</RS> die Gegner als<lb/>
+die <seg type="insult">Störenfriede</seg> hinstellen. Die Worte <seg type="insult">des Herrn <rs type="pers" ana="n_8067" ref="#fk__p_41101">Groß</rs></seg>, bei dem man<lb/>
+jetzt nicht weiß, ob er sich durch <seg type="insult">deutsche Strammheit</seg> mehr nach<lb/>
+unten oder nach oben beliebt machen will, sind in der eigenen<lb/>
+<seg type="insult">Parteipresse</seg> schamhaft gemildert worden. <seg type="insult">Der gebildete Herr</seg> dociert<lb/>
+an der <rs type="inst">Wiener Universität</rs>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_41101">
+               <persName>Groß, Gustav</persName>
+               <birth>
+                  <date>1856-6-12</date>
+                  <place>Reichenberg/Böhmen</place>
+               </birth>
+               <death>
+                  <date>1935-2-23</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <note type="comment">Reichsratsabgeordneter</note>
+            </person>
+            <person xml:id="fk__p_55474">
+               <persName>Wilder</persName>
+            </person>
+            </listPerson></back></text>
+</TEI>

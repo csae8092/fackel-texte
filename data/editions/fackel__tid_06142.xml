@@ -1,0 +1,43 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06142.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06141.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06143.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Gut gemeint, aber schlecht auszusprechen, in: Fackel Heft 14, Nr. 370, 1913, S. 37-37</title>
+            <title type="iso-date">1913-03-01</title>
+            <title type="id">tid_06142</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">14</title><title type="heft">370</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-14-370_n0037.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/370,037</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Gut gemeint, aber schlecht auszusprechen</head>
+            <p ana="pr82878">
+<space/>»Maler <rs type="pers" ana="n_57974" ref="#fk__p_39607"><abbr>Dr.</abbr> Rudolf Bunzel</rs> hat den Reinerlös seiner zwei Säle im<lb/>
+adaptierten Kunstausstellungsgebäude des <rs type="inst">Deutschen Künstlerverbandes</rs><lb/>
+in München umfassenden Kollektivausstellung für die in Not Hinterbliebenen<lb/>
+ der Kriegsopfer am Balkan gewidmet.«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_39607">
+               <persName>Bunzel, Rudolf</persName>
+               <birth>
+                  <date>1861-4-13</date>
+                  <place>Prag</place>
+               </birth>
+               <death>
+                  <date>1939-10-10</date>
+                  <place>Prag</place>
+               </death>
+               <occupation>Maler</occupation>
+               <occupation>Jurist</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

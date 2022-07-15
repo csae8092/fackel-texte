@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_05907.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05906.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05908.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Aus dem Atelier, in: Fackel Heft 14, Nr. 357, 1912, S. 23-23</title>
+            <title type="iso-date">1912-10-01</title>
+            <title type="id">tid_05907</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">14</title><title type="heft">357</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-14-357_n0023.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/357,023</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Aus dem Atelier</head>
+            <p ana="pr78968">
+<space/>»<seg type="symbol" subtype="4dots"/> Während alle anderen Herren vom Präsidium, den Ausschüssen<lb/>
+ und der Regierung im Salonrock erschienen sind, trägt<lb/>
+<FERR href="FK-14-363_n0030.xml" fcorrID="fk_04_fcorr_30106501" id="fk_04_ferr_30106501" emID="fk_04_em_30106504"><ERR fcorr="Justizminister">Unterrichtsminister</ERR></FERR> <rs type="pers" ana="n_56040" ref="#fk__p_41935"><abbr>Dr.</abbr> <abbr>v.</abbr> Hochenburger</rs> den Frack. Er spricht in<lb/>
+weicher, österreichischer Art, gewinnt im Nu die Sympathien des ganzen<lb/>
+Hauses, erzeugt Stimmung und reißt mit sich fort. Die Damen auf der<lb/>
+Galerie lächeln einander zu, klatschen lebhaft Beifall, es kommt eine<lb/>
+gute, warme Stimmung in den großen Saal, durch dessen Glasdecke<lb/>
+jetzt die Sonne ein gelbliches Licht wirft<seg type="symbol" subtype="4dots"/><lb/>
+</p>
+            <p ana="pr78969">
+<space/>Der Vertreter des <rs type="inst">deutschen Reichsjustizamtes</rs>, Geheimer Regierungsrat<lb/>
+ <rs type="pers" ana="n_56041" ref="#fk__p_40862"><abbr>Dr.</abbr> Delbrück</rs>, ist der nächste Redner. Er spricht markant <seg type="symbol" subtype="4dots"/><lb/>
+</p>
+            <p ana="pr78970">
+<space/>Man kann nun in diesem Auditorium wieder interessante<lb/>
+Beobachtungen machen <seg type="symbol" subtype="4dots"/> Da sitzt ein eleganter, schlanker Herr in<lb/>
+mittleren Jahren. Er sieht dem jeweiligen Redner voll ins Gesicht, hält<lb/>
+einen Bleistift in der Hand und notiert, scheinbar ganz unwillkürlich,<lb/>
+markante Worte in die Festschrift, die vor ihm liegt. Es ist die Attitude<lb/>
+des Verteidigers <seg type="symbol" subtype="4dots"/> Die Damen <choice><sic>verIassen</sic><corr>verlassen</corr></choice> die Galerie und strömen nach<lb/>
+kurzen Verabredungen mit ihren Herren <seg type="spc">dem matten Sonnenlicht<lb/>
+entgegen</seg>, die Herren stürmen das <seg type="spc">Buffet</seg> <seg type="symbol" subtype="4dots"/>«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_40862">
+               <persName>Delbrück, Heinrich</persName>
+               <birth>
+                  <date>1855-07-16</date>
+                  <place>Berlin</place>
+               </birth>
+               <death>
+                  <date>1922-07-4</date>
+                  <place>Töstorf/Schleswig-Holstein</place>
+               </death>
+               <occupation>Jurist</occupation>
+            </person>
+            <person xml:id="fk__p_41935">
+               <persName>Hochenburger, Viktor Ritter von</persName>
+               <birth>
+                  <date>1857-06-24</date>
+                  <place>Graz</place>
+               </birth>
+               <death>
+                  <date>1918-08-09</date>
+                  <place>Graz</place>
+               </death>
+               <occupation>Rechtsanwalt</occupation>
+               <occupation>Politiker</occupation>
+               <note type="comment">1., Schillerplatz 4</note>
+               <note type="comment">Ögg: Hochenberger</note>
+               <note type="comment">Justizminister 1909-16</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

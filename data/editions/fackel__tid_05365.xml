@@ -1,0 +1,45 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_05365.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05364.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05366.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">»Ein heiteres Geschichtchen, in: Fackel Heft 13, Nr. 324, 1911, S. 19-19</title>
+            <title type="iso-date">1911-06-2</title>
+            <title type="id">tid_05365</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">13</title><title type="heft">324</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-13-324_n0019.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/324,019</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>»Ein heiteres Geschichtchen</head>
+            <p ana="pr69990">
+wird von dem kürzlich verstorbenen <rs type="pers" ana="n_50734" ref="#fk__p_44086">Fürsten von Schaumburg-Lippe</rs><lb/>
+erzählt. In einem Tiroler Kurorte, wo er sich alljährlich aufhielt, vertrieb<lb/>
+der Fürst sich die meiste Zeit des Tages damit, daß er dem Tennisspiel<lb/>
+zuschaute <seg type="symbol" subtype="4dots"/> Einer Dame, die sich zum Spiel verspätet hatte, ging<lb/>
+der Fürst entgegen, grüßte sie höflich und sprach die Worte: ‚Beeilen<lb/>
+Sie sich, Frau <rs type="pers" ana="n_50735" key="#fk__p_55977">Levysohn</rs>, Ihr Mann wartet schon eine halbe Stunde<lb/>
+auf Sie!‘ Die Verwunderung der Frau <rs type="pers" ana="n_50736" key="#fk__p_55977">Levysohn</rs> soll nicht gering<lb/>
+gewesen sein.«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_44086">
+               <persName>Schaumburg-Lippe, Georg Fürst </persName>
+               <birth>
+                  <date>1846-10-10</date>
+                  <place>Bückeburg</place>
+               </birth>
+               <death>
+                  <date>1911-04-29</date>
+                  <place>Bückeburg</place>
+               </death>
+            </person>
+            </listPerson></back></text>
+</TEI>

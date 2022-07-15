@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03793.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03792.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03794.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Literat. (Wortwitz und Bühnenwitz), in: Fackel Heft 06, Nr. 174, 1905, S. 22-22</title>
+            <title type="iso-date">1905-01-31</title>
+            <title type="id">tid_03793</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">06</title><title type="heft">174</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-06-174_n0022.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/174,022</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Literat. (Wortwitz und Bühnenwitz)</head>
+            <p ana="pr38021">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="name_201262" ref="#fk__p_49045">Literat</rs>.</seg></seg></seg> Die Übereinstimmung meiner und des Herrn <rs type="pers" ana="n_32518" ref="#fk__p_54022">Antropp</rs><lb/>
+Ansicht über »<rs type="title">Wortwitz und Bühnenwitz</rs>« — siehe <rs type="selfRef" ana="werk_13576"><abbr>Nr.</abbr> 173</rs> — war eine<lb/>
+zufällige, umso erfreulichere. Der Aufsatz des Herrn <rs type="pers" ana="n_32519" ref="#fk__p_54022">Antropp</rs> — eines der<lb/>
+wenigen nichtliberalen Wiener Schreibtalente — ist zwar später als der der<lb/>
+‚<rs type="self" ana="werk_13577">Fackel</rs>‘ erschienen, war aber schon vor dem Erscheinungstag der Nummer<lb/>
+an die Redaktion der ‚<rs type="magazine" ana="werk_13578">Österreichischen Rundschau</rs>‘ abgeliefert.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_49045">
+               <persName>Literat</persName>
+            </person>
+            <person xml:id="fk__p_54022">
+               <persName>Antropp, Theodor</persName>
+               <birth>
+                  <date>1864-10-29</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1923-11-18</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Kritiker</occupation>
+               <note type="comment">Namenskorrektur!</note>
+               <note type="comment">Ostdeutsche Rundschau, Vaterland</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10769</idno></person>
+            </listPerson></back></text>
+</TEI>

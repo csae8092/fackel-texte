@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03073.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03072.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03074.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Naturforscher. (Der Original-Doctor), in: Fackel Heft 05, Nr. 135, 1903, S. 28-28</title>
+            <title type="iso-date">1903-04-16</title>
+            <title type="id">tid_03073</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">05</title><title type="heft">135</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-05-135_n0028.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/135,028</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Naturforscher. (Der Original-Doctor)</head>
+            <p ana="pr30223">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="n_26213" ref="#fk__p_50552">Naturforscher</rs>.</seg></seg></seg> Wer <seg type="insult">»<rs type="pers" ana="n_26214" ref="#fk__p_49921"><abbr>Dr. F.</abbr></rs>«</seg> ist, der neuestens naturwissenschaftliche<lb/>
+ Themen im ‚<rs type="paper" ana="werk_11216">Neuen Wiener Journal</rs>‘ behandelt? Der Mann<lb/>
+ist <seg type="insult">Redacteur des ‚<rs type="paper" ana="werk_11217">Neuen Wiener Journal</rs>‘</seg>, heißt <rs type="pers" ana="n_26215" ref="#fk__p_49921">Max Foges</rs> und <seg type="insult">Herr<lb/>
+<rs type="pers" ana="n_26216" ref="#fk__p_46698">Lippowitz</rs></seg> hat ihm, zur Entschädigung für schlechte Bezahlung, den<lb/>
+Doctortitel verliehen. So etwas, meint der Herausgeber, »nützt dem<lb/>
+Ansehen des <rs type="paperRef" ana="werk_11218">Blattes</rs>«: bei wissenschaftlichen Artikeln macht es sich gut,<lb/>
+wenn der Verfasser Doctor ist. Aber das ‚<rs type="paper" ana="werk_11219">Neue Wiener Journal</rs>‘, das<lb/>
+so oft mit <seg type="insult">Originalleistungen</seg> protzt, die keine sind, ist bei seinen<lb/>
+naturwissenschaftlichen Beiträgen allzu bescheiden; es verzichtet auf die<lb/>
+naheliegende Bezeichnung: Von <seg type="insult">unserem Original-Doctor</seg>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_49921">
+               <persName>Foges, Max</persName>
+               <birth>
+                  <date>1867-3-27</date>
+                  <place>Prag</place>
+               </birth>
+               <death>
+                  <date>1921-12-17</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <note type="comment">einer unserer schärfsten und prinzipiellsten Literaturkritiker? Mitte Juni 1913</note>
+               <note type="comment">NWJ</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/16381</idno></person>
+            <person xml:id="fk__p_46698">
+               <persName>Lippowitz, Jakob (Siegmund)</persName>
+               <birth>
+                  <date>1865-10-9</date>
+                  <place>Leipzig</place>
+               </birth>
+               <death>
+                  <date>1934-7-4</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17583</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/4054</idno></person>
+            <person xml:id="fk__p_50552">
+               <persName>Naturforscher</persName>
+            </person>
+            </listPerson></back></text>
+</TEI>

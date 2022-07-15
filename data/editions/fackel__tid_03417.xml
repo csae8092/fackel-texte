@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03417.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03416.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03418.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Beobachter. (Konsuln), in: Fackel Heft 05, Nr. 151, 1904, S. 24-24</title>
+            <title type="iso-date">1904-01-4</title>
+            <title type="id">tid_03417</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">05</title><title type="heft">151</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-05-151_n0024.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/151,024</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Beobachter. (Konsuln)</head>
+            <p ana="pr33932">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_29226" ref="#fk__p_39082">Beobachter</rs>.</seg></seg> <seg type="insult">Konsul? Schon faul!</seg> <seg type="symbol" subtype="3dots"/> Was sich zwischen <seg type="insult">dem<lb/>
+edlen <rs type="pers" ana="n_29227" ref="#fk__p_50590">Nheriman</rs> und dem edlen <rs type="pers" ana="n_29228" ref="#fk__p_40017">Kolischer</rs>, zwei großen Khans</seg>, abspielte<lb/>
+, wiederholt sich jetzt, wie aus den Gerichtssaalberichten hervorgeht<lb/>
+, in der Niederung, in der <seg type="insult">schlichte Beys</seg> ihres Amtes walten.<lb/>
+Immerhin dünken sie sich noch bedeutend genug, um neben sich den<lb/>
+<rs type="pers" ana="n_29229" ref="#fk__p_39694">Julius Cäsar</rs>, der auch ein Konsul war, als ein <seg type="insult"><foreign xml:lang="de-loc">armes Waserl</foreign></seg> erscheinen<lb/>
+zu lassen. <seg type="insult"><rs type="pers" ana="n_29230" ref="#fk__p_50927">Bondy</rs> Bey!</seg> Das klingt! Aber österreichische Richter sprechen<lb/>
+von <seg type="insult">Erpressung</seg>, wo <seg type="insult">die feinsten Sitten der Türkei</seg> betätigt wurden. <seg type="insult">Die<lb/>
+Herrschaften</seg> leben bei uns gemütlich nach der <seg type="insult">Devise »Verkauft’s<lb/>
+meine Orden — ich fahr in Himmel!«</seg>, und rechnen darauf, daß auch<lb/>
+dem Antikorruptionisten der Appetit vergehen werde, in den <seg type="insult">Balkandreck<lb/>
+</seg>, den <seg type="insult">Kehricht vor der Pforte</seg> und in den <seg type="insult">Orientschmutz</seg> zu<lb/>
+greifen. Was treibt denn <seg type="insult">der Herr <rs type="pers" ana="n_29231" ref="#fk__p_40017">Kolischer</rs></seg>, der die persische Generalsuniform<lb/>
+ anlegt, wenn er Inserate für <seg type="insult">seine drei Winkelblätter</seg><lb/>
+acquirieren geht? Na — kehren wir den berühmten Warnruf um:<lb/>
+<foreign xml:lang="la">Videat res publica, ne quid <seg type="insult">consulibus</seg> detrimenti capiat!</foreign><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_40017">
+               <persName>Kolischer, Clemens Khan</persName>
+               <birth>
+                  <date>1868-10-4</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1945-6-17</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Ministerialbeamter</occupation>
+               <occupation>Offizier</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/19523</idno></person>
+            <person xml:id="fk__p_50590">
+               <persName>Neriman Khan Gavam Saltané, Emir Toman</persName>
+               <occupation>Diplomat</occupation>
+               <note type="comment">1902</note>
+               <note type="comment">General Neriman Khan, der dicke, fette und sehr lustige Gesandte des Schah von Persien</note>
+               <note type="comment">ein liebenswürdiger Armenier, der unter dem Scheine der Gutmühtigkeit schlau und verschlagen ist</note>
+               <note type="comment">1., Maximilianstr. 2</note>
+               <note type="comment">pers. Botschafter in Wien</note>
+            </person>
+            <person xml:id="fk__p_39694">
+               <persName>Caesar, Gaius Iulius</persName>
+               <birth>
+                  <date>100-7-13</date>
+               </birth>
+               <death>
+                  <date>44-3-15</date>
+                  <place>Rom</place>
+               </death>
+               <occupation>Feldherr</occupation>
+               <occupation>Politiker</occupation>
+               <occupation>Kaiser</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/14796</idno></person>
+            <person xml:id="fk__p_39082">
+               <persName>Beobachter</persName>
+            </person>
+            <person xml:id="fk__p_50927">
+               <persName>Bondy, Ottilie, geb. Jeitteles</persName>
+               <birth>
+                  <date>1832-07-26</date>
+                  <place>Brünn</place>
+               </birth>
+               <death>
+                  <date>1921-12-05</date>
+                  <place>München</place>
+               </death>
+               <occupation>Frauenrechtlerin</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

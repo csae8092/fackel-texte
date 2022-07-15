@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_12025.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_12024.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_12026.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Der Kontakt, in: Fackel Heft 33, Nr. 868, 1932, S. 67-67</title>
+            <title type="iso-date">1932-03-01</title>
+            <title type="id">tid_12025</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">33</title><title type="heft">868</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-33-868_n0067.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/868,067</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Der Kontakt</head>
+            <p ana="pr174240">
+<space/>Wie berichtet, plant Direktor <rs type="pers" ana="n_104295" ref="#fk__p_45942">Röbbeling</rs>, anläßlich der <rs type="pers" ana="n_104296" ref="#fk__p_46960">Goethe-Feier<lb/>
+</rs> des <rs type="inst">Burgtheaters</rs> »<rs type="title"><rs type="pers"><seg type="spc">Götz von Berlichingen</seg></rs></rs>« neueinstudiert<lb/>
+herauszubringen. Direktor <rs type="pers" ana="n_104297" ref="#fk__p_45942">Röbbeling</rs> hat die Absicht geäußert, den<lb/>
+»<rs type="title"><rs type="pers">Götz</rs></rs>« selbst zu inszenieren. Dabei will er ein interessantes Regieexperiment<lb/>
+ durchführen, indem er <seg type="spc">einen Teil der Handlung<lb/>
+in den Zuschauerraum zu verlegen gedenkt</seg>, <seg type="spc">um derart<lb/>
+ den Kontakt</seg> zwischen Publikum und Stück <seg type="spc">inniger zu<lb/>
+gestalten</seg>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46960">
+               <persName>Goethe, Johann Wolfgang von</persName>
+               <birth>
+                  <date>1749-8-28</date>
+                  <place>Frankfurt am Main</place>
+               </birth>
+               <death>
+                  <date>1832-3-22</date>
+                  <place>Weimar</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">890/142f.</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11461</idno></person>
+            <person xml:id="fk__p_45942">
+               <persName>Röbbeling, Hermann</persName>
+               <birth>
+                  <date>1875-10-31</date>
+                  <place>Stolberg/Harz</place>
+               </birth>
+               <death>
+                  <date>1949-06-4</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <occupation>Regisseur</occupation>
+               <occupation>Theaterleiter</occupation>
+               <note type="comment">Urnenhain 1/3/9/22 (FD)</note>
+               <note type="comment">1.1.1932 bis 12.3.1938 Burgth. Dir.</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

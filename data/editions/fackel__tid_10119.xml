@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_10119.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10118.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10120.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Wie mich die Steuerbehörde einschätzt, in: Fackel Heft 26, Nr. 679, 1925, S. 125-125</title>
+            <title type="iso-date">1925-03-01</title>
+            <title type="id">tid_10119</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">26</title><title type="heft">679</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-26-679_n0125.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/679,125</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Wie mich die Steuerbehörde einschätzt</head>
+            <p ana="pr137637">
+<space/><seg type="insult">An Herrn <rs type="pers" ana="n_84542" ref="#fk__p_47565">Karl Kraus</rs>, <seg type="spc">Chefredakteur</seg></seg><lb/>
+</p>
+            <p ana="pr137638">
+<space/>Mit Beziehung auf § 269 <rs type="title"><abbr>P. St. G.</abbr></rs> werden Sie eingeladen,<lb/>
+über die nachstehend verzeichneten Fragepunkte Ihr Gutachten zu<lb/>
+erstatten, beziehungsweise Auskunft zu geben. — —<lb/>
+</p>
+            <p ana="pr137639">
+Wie hoch schätzen Sie den<lb/>
+ziffermäßigen Geschäftsreinertrag<lb/>
+ ex <date>1923</date><lb/>
+</p>
+            <p ana="pr137641">
+des Herrn<lb/>
+der Firma<lb/>
+</p>
+            <p ana="pr137642">
+<rs type="pers" ana="n_84543" ref="#fk__p_46324">Hugo Bettauer</rs><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_47565">
+               <persName>Kraus, Karl</persName>
+               <birth>
+                  <date>1874-4-28</date>
+                  <place>Jicin, Böhmen</place>
+               </birth>
+               <death>
+                  <date>1936-6-12</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Publizist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11988</idno></person>
+            <person xml:id="fk__p_46324">
+               <persName>Bettauer, Hugo</persName>
+               <birth>
+                  <date>1872-8-18</date>
+                  <place>Baden bei Wien</place>
+               </birth>
+               <death>
+                  <date>1925-3-26</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Identifizierung der Stelle 132/23 durch Murray Hall bestätigt (16. 5. 07)</note>
+               <note type="comment">Mitschüler von Karl Kraus</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/6294</idno></person>
+            </listPerson></back></text>
+</TEI>

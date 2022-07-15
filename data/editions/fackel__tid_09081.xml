@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_09081.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09080.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09082.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ein interessanter Papst, in: Fackel Heft 23, Nr. 588, 1922, S. 37-37</title>
+            <title type="iso-date">1922-03-01</title>
+            <title type="id">tid_09081</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">23</title><title type="heft">588</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-23-588_n0037.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/588,037</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ein interessanter Papst</head>
+            <p ana="pr121290">
+<space/>Wenn nicht alles trügt, hat die <seg ana="Reichspost"/> mit dem Papst<lb/>
+einen <seg type="insult">Treffer</seg> gemacht. Ein Geistlicher, der <abbr>k. u. k.</abbr> Garnisonspfarrer<lb/>
+ in Cholm war, weiß ihr persönliche Erinnerungen an<lb/>
+ihn zu erzählen. Mit 12 Feldkuraten sollte er am Empfang des<lb/>
+damaligen Nunzius von Polen teilnehmen.<lb/>
+</p>
+            <p ana="pr121292">
+<space/>Der ungarische Feldkurat war dienstlich abwesend, weshalb<lb/>
+ich dem Telephonisten des Rekonvaleszentenheimes die Telephondepesche<lb/>
+ diktierte: »Nunzius <rs type="pers" ana="n_74320" ref="#fk__p_51123">Ratti</rs> kommt <seg type="symbol" subtype="3dotsEditor"/>« »Nur langsam!«<lb/>
+tönte es zurück. »Wia haßt er? <rs type="pers" ana="n_74321" ref="#fk__p_51123">Kratky</rs>?« — »Aber nein! Ich buchstabiere<lb/>
+: <rs type="pers" ana="n_74322" ref="#fk__p_51123"><SPAN sug="Ratti">R — a — t — t — i</SPAN></rs>.« — »Alsdann: <rs type="pers" ana="n_74323" ref="#fk__p_51123">Ratti</rs>?« — »Ja!«<lb/>
+</p>
+            <p ana="pr121294">
+<space/>Auch <seg type="insult">die sonstigen Erinnerungen</seg> sind sehr interessant.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_51123">
+               <persName>Pius XI., Papst</persName>
+               <birth>
+                  <date>1857-5-31</date>
+                  <place>Desio</place>
+               </birth>
+               <death>
+                  <date>1939-2-10</date>
+                  <place>Rom</place>
+               </death>
+               <occupation>Papst</occupation>
+               <note type="comment">6.2.1922-10.2.1939</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

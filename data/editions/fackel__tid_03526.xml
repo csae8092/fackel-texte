@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03526.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03525.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03527.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Österreicher. (Die Vertrottelung), in: Fackel Heft 05, Nr. 157, 1904, S. 20-20</title>
+            <title type="iso-date">1904-03-19</title>
+            <title type="id">tid_03526</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">05</title><title type="heft">157</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-05-157_n0020.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/157,020</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Österreicher. (Die Vertrottelung)</head>
+            <p ana="pr35068">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="n_30079" ref="#fk__p_50912">Österreicher</rs>.</seg></seg></seg> Bei dem Aufruhr in den Studentenkreisen von Prag<lb/>
+und Wien, beim Anblick <seg type="insult">des Herrn <rs type="pers" ana="n_30080" ref="#fk__p_49552">Malik</rs></seg> wird nichts Heiliges in mir<lb/>
+entzündet, und ich muß nach wie vor, wenn ich von <seg type="insult">»nationalen Beschwerden<lb/>
+«</seg> höre, an Bauchgrimmen denken. Ein <rs type="pers" ana="n_30081" ref="#fk__p_39266">Bismarck</rs> hätte die<lb/>
+Frage des Rechts auf <seg type="insult">»Bummeln«</seg> bereits entschieden. Die <seg type="insult">Vertrottelung</seg><lb/>
+schreitet rapid fort.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_49552">
+               <persName>Malik, Vinzenz</persName>
+               <birth>
+                  <date>1854-12-02</date>
+                  <place>Iglau</place>
+               </birth>
+               <death>
+                  <date>1924-01-29</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Landwirt</occupation>
+               <occupation>Politiker</occupation>
+            </person>
+            <person xml:id="fk__p_39266">
+               <persName>Bismarck, Otto Eduard Leopold Fürst</persName>
+               <birth>
+                  <date>1815-04-01</date>
+                  <place>Schönhausen</place>
+               </birth>
+               <death>
+                  <date>1898-07-30</date>
+                  <place>Friedrichsruh</place>
+               </death>
+               <occupation>Politiker</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13749</idno></person>
+            <person xml:id="fk__p_50912">
+               <persName>Österreicher</persName>
+            </person>
+            </listPerson></back></text>
+</TEI>

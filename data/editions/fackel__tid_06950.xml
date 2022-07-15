@@ -1,0 +1,48 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06950.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06949.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06951.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Das Scherflein, in: Fackel Heft 17, Nr. 406, 1915, S. 37-37</title>
+            <title type="iso-date">1915-10-01</title>
+            <title type="id">tid_06950</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">17</title><title type="heft">406</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-17-406_n0037.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/406,037</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Das Scherflein</head>
+            <p ana="pr93412">
+<space/>— — — Den in <rs type="pers" ana="n_63098" ref="#fk__p_52846">Schaumanns</rs> Apotheke, Stockerau, von einem<lb/>
+ungenannt sein wollenden Herrn Oberleutnant zugunsten des <rs type="inst">Roten<lb/>
+Kreuzes</rs> erlegten Betrag von 1 K, Summe 1091 K bar und 2000 K<lb/>
+Nominale Rente; hiezu der frühere Ausweis von 679.253 K 44 h bar<lb/>
+und 53.500 K Nominale Rente, zusammen 680.344 K 44 h bar und<lb/>
+55.500 K Nominale Rente <seg type="symbol" subtype="equals"/> bisheriges Gesamtergebnis 735.844 K 44 h.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_52846">
+               <persName>Schaumann, Julius</persName>
+               <birth>
+                  <date>1850-3-25</date>
+                  <place>Korneuburg</place>
+               </birth>
+               <death>
+                  <date>1908-2-15</date>
+                  <place>Stockerau</place>
+               </death>
+               <occupation>Apotheker</occupation>
+               <occupation>Politiker</occupation>
+               <note type="comment">Apotheke Zur Hl. Dreifaltigkeit</note>
+               <note type="comment">in Stockerau</note>
+               <note type="comment">Bürgermeister</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_08016.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08015.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08017.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Während der elften Isonzoschlacht waren Gerüchte in Wien verbreitet, in: Fackel Heft 19, Nr. 462, 1917, S. 130-130</title>
+            <title type="iso-date">1917-10-01</title>
+            <title type="id">tid_08016</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">19</title><title type="heft">462</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-19-462_n0130.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/462,130</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Während der elften Isonzoschlacht waren Gerüchte in Wien verbreitet</head>
+            <p ana="pr106996">
+<space/>— Herr Direktor <rs type="pers" ana="n_67995" ref="#fk__p_42356">Egon Dorn</rs> vom Kabarett »<rs type="inst"><rs type="pers">Simplicissimus</rs></rs>«<lb/>
+hat mit dem heutigen Tage die Geschäftsanteile der <rs type="inst"><rs type="pers" ana="n2_6017" ref="#fk__p_58825">Ronacher-Künstlerbühne<lb/>
+</rs>, Gesellschaft <abbr>m. b. H.</abbr></rs>, erworben und <seg type="spc">gedenkt</seg>,<lb/>
+am <date>1. September</date> die neue Saison wieder zu eröffnen. <seg type="spc">Hiemit</seg><lb/>
+entfallen auch alle von dritter Seite in Umlauf gesetzten <seg type="spc">Gerüchte</seg><lb/>
+über eine anderweitige Direktionsübernahme. — <seg type="spc">Hiemit</seg> wird<lb/>
+<seg type="spc">unsere gestrige Information bestätigt</seg>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_42356">
+               <persName>Dorn, Egon</persName>
+               <birth>
+                  <date>1870-4-8</date>
+                  <place>Zolynia/Galizien</place>
+               </birth>
+               <death>
+                  <date>1938-2-9</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Theaterleiter</occupation>
+               <note type="comment">Gründer des Wiener "Simpl"-Kabaretts 1912</note>
+               <note type="comment">Juli 1917 zus. mit Miksa Preger Dir. des Ronacher</note>
+            </person>
+            <person xml:id="fk__p_58825">
+               <persName>Ronacher (Vergnügungsetablissement)</persName>
+            </person>
+            </listPerson></back></text>
+</TEI>

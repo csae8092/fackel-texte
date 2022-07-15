@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06757.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06756.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06758.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Vom Springinsgeld, in: Fackel Heft 16, Nr. 399, 1914, S. 4-5</title>
+            <title type="iso-date">1914-05-01</title>
+            <title type="id">tid_06757</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">16</title><title type="heft">399</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-16-399_n0004.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/399,004</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Vom Springinsgeld</head>
+            <p ana="pr91057">
+<space/>Der verstorbene Bankier <rs type="pers" ana="n_61974" ref="#fk__p_44371">Gerson von Bleichroeder</rs> hatte die<lb/>
+österreichische Baronie. Er kam gerne nach Wien, weil er hier das<lb/>
+Vergnügen hatte, als Freiherr angesprochen zu werden, und die Freude<lb/>
+an diesem Adelstitel damals schwerer zugänglich war als jetzt. Heutzutage<lb/>
+ mag es zweifelhaft sein, ob das Wort, daß der Mensch beim<lb/>
+Baron anfange, noch ganz uneingeschränkt gelten könne, da auch<lb/>
+Persönlichkeiten sich das Recht auf die fünfzackige Krone zu verschaffen<lb/>
+wußten, über deren Gesellschaftsfähigkeit die Auffassungen keineswegs<lb/>
+gleichartig sind.<lb/>
+</p>
+            <p ana="pr91059">
+<space/><seg type="insult">Goldene Worte in der Pause beim Tanz ums goldene Kalb.</seg><lb/>
+Aber die fünf Zacken sind von <seg type="insult">denselben fünf <choice><sic>Finger</sic><corr>Fingern</corr></choice></seg> umklammert,<lb/>
+die den <rs type="perRef" ana="werk_20191">Leitartikel</rs> schreiben, und der <seg type="insult">Geist</seg>, der die <seg type="insult">Industriekapitäne<lb/>
+und Bankmagnaten</seg> erschaffen hat, verneint deren Gesellschaftsfähigkeit<lb/>
+. Sie werden sagen, es sei eine <seg type="insult">Chuzpe</seg> und weiter abonnieren.<lb/>
+Und sie werden begierig sein, zu hören, was er ihnen weiter<lb/>
+erzählt:<lb/>
+</p>
+            <p ana="pr91061">
+<space/>Der Chef des großen Berliner Hauses war trotz seines Reichtums<lb/>
+ein bemitleidenswerter Mann, der das Augenlicht verloren hatte und<lb/>
+sich mit Hilfe eines Stockes herumtasten mußte. Er bewohnte im <rs type="inst">Hotel<lb/>
+Imperial</rs> dieselbe Flucht von Zimmern, die geschichtlich denkwürdig<lb/>
+sind, weil der Gründer des Deutschen Reiches in diesen Räumen mit<lb/>
+dem <rs type="pers" ana="n_61975" ref="#fk__p_38222">Grafen Julius Andrassy</rs> das Bündnis entworfen hatte. Im Herzen<lb/>
+des alten <rs type="pers" ana="n_61976" ref="#fk__p_44371">Bleichroeder</rs> war ein Altar aufgestellt, der Verehrung des<lb/>
+<rs type="pers" ana="n_61977" ref="#fk__p_39266">Fürsten Bismarck</rs> gewidmet — —<lb/>
+</p>
+            <p ana="pr91063">
+<space/><rs type="pers" ana="n_61978" ref="#fk__p_44371">Bleichroeder</rs> wohnte also in denselben Zimmern, in denen<lb/>
+<rs type="pers" ana="n_61979" ref="#fk__p_39266">Bismarck</rs> gewohnt hatte, und der Altar war in seinem Herzen<lb/>
+aufgestellt. Und wohin gelangt man dann? Es ist nur die Entree.<lb/>
+Der <seg type="insult">Architekt</seg> muß geisteskrank sein. Er wollte einen Leitartikel<lb/>
+über <seg type="spc">Mexiko</seg> schreiben.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_38222">
+               <persName>Andrássy, Gyula (Julius) Graf der Ältere</persName>
+               <birth>
+                  <date>1823-3-4</date>
+                  <place>Kaschau</place>
+               </birth>
+               <death>
+                  <date>1890-2-18</date>
+                  <place>Volosca/Istrien</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <note type="comment">Ministerpräsident, Außenminister</note>
+            </person>
+            <person xml:id="fk__p_39266">
+               <persName>Bismarck, Otto Eduard Leopold Fürst</persName>
+               <birth>
+                  <date>1815-04-01</date>
+                  <place>Schönhausen</place>
+               </birth>
+               <death>
+                  <date>1898-07-30</date>
+                  <place>Friedrichsruh</place>
+               </death>
+               <occupation>Politiker</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13749</idno></person>
+            <person xml:id="fk__p_44371">
+               <persName>Bleichroeder, Gerson von</persName>
+               <birth>
+                  <date>1822-12-22</date>
+                  <place>Berlin</place>
+               </birth>
+               <death>
+                  <date>1893-02-19</date>
+                  <place>Berlin</place>
+               </death>
+               <occupation>Bankier</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

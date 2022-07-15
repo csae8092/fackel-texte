@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03728.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03727.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03729.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ein Nachspiel zum Prozeß Hervay, in: Fackel Heft 06, Nr. 170, 1904, S. 20-21</title>
+            <title type="iso-date">1904-12-7</title>
+            <title type="id">tid_03728</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">06</title><title type="heft">170</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-06-170_n0020.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/170,020</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ein Nachspiel zum Prozeß Hervay</head>
+            <p ana="pr37259">
+<space/>»Der ‚<rs type="inst">Steirische Zwölferbund</rs>‘, ein Verein, welcher sich<lb/>
+‚die Erhaltung steirischer Sitten und Gebräuche in Wien zur Aufgabe<lb/>
+ gemacht hat‘, veranstaltete Sonntag abends in der <rs type="inst">Restauration<lb/>
+<rs type="pers" ana="n2_2525" key="#fk__p_58561">Mayer</rs></rs> in der Lerchengasse 18 ein <seg type="spc">Wettessen von steirischem<lb/>
+Sterz</seg>. Herr <rs type="pers" ana="n_31947" ref="#fk__p_45433">Hans Jauernik</rs>, der Obmann des Vereines, kochte,<lb/>
+damit diese Nationalspeise unverfälscht auf den Tisch komme,<lb/>
+</p>
+            <p ana="pr37259">
+den Sterz <seg type="spc">persönlich</seg>. Die Zubereitung erfolgte nach dem<lb/>
+Rezepte: 1 Kilogramm Kukuruzkornmehl, ½ Liter Wasser und<lb/>
+— <foreign xml:lang="de-loc">‚z’weg’n an Abirutsch’n<choice><sic>’</sic><corr>‘</corr></choice></foreign> — 10 Deka Schmalz. Die verabreichten<lb/>
+Portionen waren zu <foreign xml:lang="de-loc">‚Hupf‘</foreign> geformt. Zum Eßkampf erschienen von<lb/>
+den achtzehn angemeldeten Bewerbern elf, darunter das lustige<lb/>
+<foreign xml:lang="de-loc">Deandl</foreign> <rs type="pers" ana="n_31948" key="#fk__p_50238">Mirzl Duchon</rs>. Auf das Kommando ‚Achtung!‘ wurden<lb/>
+die Löffel ergriffen, auf ‚Fertig!‘ begann die <foreign xml:lang="de-loc">‚Pampferei‘</foreign>. Die<lb/>
+Schiedsrichter <rs type="pers" ana="n_31949" key="#fk__p_51369">Peschek</rs> und <rs type="pers" ana="n_31950" key="#fk__p_45572">Haselmayer</rs> beobachteten mit ihren<lb/>
+<SPAN cont="Stopp-Uhren">‚Stopp‘-Uhren</SPAN> das Verschwinden des Sterzes. In dreißig Secunden<lb/>
+kehrte schon einer der Teilnehmer seinen Teller um und rief<lb/>
+‚Fertig!‘ Sieger war der aus Falkenstein in Niederösterreich gebürtige<lb/>
+ Uhrmacher <rs type="pers" ana="n_31951" ref="#fk__p_47065">Joseph Dragoner</rs>, der den im Vorjahr von <rs type="pers" ana="n_31952" ref="#fk__p_48810">Leopold<lb/>
+Hacker</rs> geschaffenen Rekord von 36 Sekunden um 6 Sekunden<lb/>
+schlug. Der Wanderpreis, die <seg type="spc">silberne Lyra</seg>, wurde hierauf dem<lb/>
+Sieger feierlich überreicht, der im nächsten Jahr den Preis verteidigen<lb/>
+ muß <seg type="symbol" subtype="3dots"/> Mehrere Preisbewerber versicherten, es gehöre nur<lb/>
+der eine <foreign xml:lang="de-loc">‚Vort’l‘</foreign> dazu, <foreign xml:lang="de-loc">‚das Maul net z’voll z’nehm’n‘</foreign> <seg type="symbol" subtype="3dots"/>«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_47065">
+               <persName>Dragoner, Joseph</persName>
+               <occupation>Uhrmacher</occupation>
+               <note type="comment">Sterz-Wettessen 1904 und 1905</note>
+            </person>
+            <person xml:id="fk__p_45433">
+               <persName>Jauernig, Johann</persName>
+               <birth>
+                  <date>1862-5-9</date>
+                  <place>Scholtitz/Österr. Schlesien</place>
+               </birth>
+               <death>
+                  <date>1918-9</date>
+               </death>
+               <occupation>Schneider</occupation>
+               <note type="comment">Obmann des "Steirischen Zwölferbunds", Sterz-Wettessen</note>
+               <note type="comment">Namenskorrektur!</note>
+               <note type="comment">8., Lerchengase 23</note>
+            </person>
+            <person xml:id="fk__p_48810">
+               <persName>Hacker, Leopold</persName>
+               <note type="comment">Rekordhalter im Sterzessen 1905</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

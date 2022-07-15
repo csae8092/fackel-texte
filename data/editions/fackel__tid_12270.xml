@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_12270.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_12269.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_12271.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Druckfehlerberichtigung), in: Fackel Heft 34, Nr. 885, 1932, S. 33-33</title>
+            <title type="iso-date">1932-12-01</title>
+            <title type="id">tid_12270</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">34</title><title type="heft">885</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-34-885_n0033.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/885,033</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Druckfehlerberichtigung)</head>
+            <p ana="pr178795">
+<space/><FCORR href="FK-34-876_n0022.xml" ferrID="fk_04_ferr_30030020" id="fk_04_fcorr_30030020">In <rs type="selfRef" ana="werk_33325"><abbr>Nr.</abbr> 876—884</rs>, <abbr>S.</abbr> 22, <abbr>Z.</abbr> 2 <abbr>v. u.</abbr> statt »drei«: <seg type="i"><EM href="FK-34-876_n0022.xml" ferrID="fk_04_ferr_30030020" id="fk_04_em_30030023">zwei</EM>;</seg></FCORR> <FCORR href="FK-34-876_n0094.xml" ferrID="fk_04_ferr_30030026" id="fk_04_fcorr_30030026"><abbr>S.</abbr> 94,<lb/>
+<abbr>Z.</abbr> 6 <abbr>v. u.</abbr> statt »Ein untauglicher Prüfstein«: <EM href="FK-34-876_n0094.xml" ferrID="fk_04_ferr_30030026" id="fk_04_em_30030029">Ein <seg type="i">untrüglicher</seg> Prüfstein<lb/>
+</EM>;</FCORR> <FCORR href="FK-34-876_n0124.xml" ferrID="fk_04_ferr_30030032" id="fk_04_fcorr_30030032"><abbr>S.</abbr> 124, <abbr>Z.</abbr> 10 <abbr>v. u.</abbr> statt »<rs type="pers" ana="n_106142" ref="#fk__p_60106">Franz</rs>«: »<EM href="FK-34-876_n0124.xml" ferrID="fk_04_ferr_30030032" id="fk_04_em_30030035"><rs type="pers" ana="n_106143" ref="#fk__p_39762">Carl</rs></EM>«.</FCORR><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_39762">
+               <persName>Treumann, Carl</persName>
+               <birth>
+                  <date>1823-7-27</date>
+                  <place>Hamburg</place>
+               </birth>
+               <death>
+                  <date>1877-4-18</date>
+                  <place>Baden bei Wien</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+            </person>
+            <person xml:id="fk__p_60106">
+               <persName>Treumann, Franz</persName>
+               <birth>
+                  <date>1820</date>
+                  <place>Wien?</place>
+               </birth>
+               <death>
+                  <date>1874-3-4</date>
+                  <place>Kirchberg/Niederösterreich</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <note type="comment"/>
+            </person>
+            </listPerson></back></text>
+</TEI>

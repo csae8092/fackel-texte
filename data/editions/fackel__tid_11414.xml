@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_11414.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11413.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11415.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Woran sie arbeiten, in: Fackel Heft 32, Nr. 838, 1930, S. 58-59</title>
+            <title type="iso-date">1930-09-01</title>
+            <title type="id">tid_11414</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">32</title><title type="heft">838</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-32-838_n0058.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/838,058</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Woran sie arbeiten</head>
+            <p ana="pr166214">
+<space/>Woran ich jetzt arbeite? <seg type="symbol" subtype="3dots"/> Ich warte noch immer auf das<lb/>
+<seg type="spc">Buch der Bücher</seg>!<lb/>
+</p>
+            <p ana="pr166218">
+<space/>Ich mache die Proben meines Dramas »<rs type="title"><rs type="pers" ana="n2_8888" ref="#fk__p_49801">Luther</rs> und <rs type="pers" ana="n2_8889" ref="#fk__p_50461">Thomas<lb/>
+Münzer</rs></rs>« mit, das von<DATERANGE> Ende Juni</DATERANGE> an im Rahmen der <rs type="event">Augsburger Festwochen<lb/>
+</rs> zum <rs type="event">vierhundertjährigen Jubiläum der Augsburgischen Konfession<lb/>
+</rs> gespielt wird, und gehe dann an den Starnberger See.<lb/>
+</p>
+            <p ana="pr166220">
+Man erfährt also in einem, wo er den Sommer verbringt. Was<lb/>
+die <rs type="title">Augsburger Konfession</rs> betrifft, so hätte sie es mithin weit<lb/>
+gebracht, aber was ist das gegen <rs type="pers" ana="n_99768" ref="#fk__p_43530">Lehar</rs>, der offenbar die katholische<lb/>
+ <rs type="title">Bibel</rs> zu komponieren vorhat.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_49801">
+               <persName>Luther, Martin</persName>
+               <birth>
+                  <date>1483-11-10</date>
+                  <place>Eisleben</place>
+               </birth>
+               <death>
+                  <date>1546-2-18</date>
+                  <place>Eisleben</place>
+               </death>
+               <occupation>Reformator</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12136</idno></person>
+            <person xml:id="fk__p_50461">
+               <persName>Münzer, Thomas</persName>
+               <birth>
+                  <date>1490</date>
+                  <place>Stolberg/Harz</place>
+               </birth>
+               <death>
+                  <date>1525-05-30</date>
+                  <place>Mühlhausen/Thüringen</place>
+               </death>
+               <occupation>Reformator</occupation>
+            </person>
+            <person xml:id="fk__p_43530">
+               <persName>Lehár, Franz</persName>
+               <birth>
+                  <date>1870-4-30</date>
+                  <place>Komorn, Ungarn</place>
+               </birth>
+               <death>
+                  <date>1948-10-24</date>
+                  <place>Bad Ischl</place>
+               </death>
+               <occupation>Komponist</occupation>
+               <note type="comment">irrt. von Ögg zugeteilte Stellen: 400/63, 418/25, 568/25, 588/38, 917/56, 61</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/8552</idno></person>
+            </listPerson></back></text>
+</TEI>

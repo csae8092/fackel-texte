@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_10076.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10075.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10077.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ein trotziger Bubikopf, in: Fackel Heft 26, Nr. 679, 1925, S. 56-57</title>
+            <title type="iso-date">1925-03-01</title>
+            <title type="id">tid_10076</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">26</title><title type="heft">679</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-26-679_n0056.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/679,056</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ein trotziger Bubikopf</head>
+            <p ana="pr137137">
+<space/>Daß <seg type="insult">Seeigeleies</seg> weiter getrieben wird, indem <rs type="pers" ana="n_84150" ref="#fk__p_49302">Karpath</rs> sich<lb/>
+nach Garmisch »begab« und dortselbst — wenngleich nicht lang —<lb/>
+»weilte«, mag hingehen. Aber was soll man dazu sagen, daß<lb/>
+<rs type="pers" ana="n_84151" ref="#fk__p_42799">Decsey</rs>, als ob nichts geschehen wäre, den Satz schreibt:<lb/>
+</p>
+            <p ana="pr137139">
+<seg type="symbol" subtype="3dots"/> Die Künstler entzückten durch den Vortrag der beiden<lb/>
+<rs type="title">Tosca-Duette</rs>, das Publikum war <seg type="spc">animatissimo</seg> und der Saal<lb/>
+<SPAN norm="ausverkauft"><seg type="spc">ausverkauftissimo</seg></SPAN>. <rs type="pers" ana="n_84152" ref="#fk__p_42799"><AUCTOR><abbr>E. D.</abbr></AUCTOR></rs><lb/>
+</p>
+            <p ana="pr137141">
+Das ist wohl der stärkste Mißerfolg, den ich bisher erzielt habe.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_49302">
+               <persName>Karpath, Ludwig</persName>
+               <birth>
+                  <date>1866-4-27</date>
+                  <place>Pest</place>
+               </birth>
+               <death>
+                  <date>1936-9-8</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Musikschriftsteller</occupation>
+               <note type="comment">NWT 01.04.1913, Seite 14 Ein in der ersten Reihe stehender junger Mann rief </note>
+               <note type="comment">unaufhörlich "L......!" worauf Herr Buschbeck vom Podium eilte und dem</note>
+               <note type="comment">betreffenden jungen Mann eine Ohrfeige versetzte.</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11885</idno></person>
+            <person xml:id="fk__p_42799">
+               <persName>Décsey, Ernst</persName>
+               <birth>
+                  <date>1870-4-13</date>
+                  <place>Hamburg</place>
+               </birth>
+               <death>
+                  <date>1941-3-12</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Kritiker</occupation>
+               <note type="comment">Chefred. der "Grazer Tagespost" 1908, Red. des NWT 1921</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

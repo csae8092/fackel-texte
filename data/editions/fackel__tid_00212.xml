@@ -1,0 +1,45 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00212.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00211.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00213.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Aus einem Referat des Herrn Julius Bauer), in: Fackel Heft 01, Nr. 010, 1899, S. 26-26</title>
+            <title type="iso-date">1899-07-01</title>
+            <title type="id">tid_00212</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">010</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-010_n0026.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/010,026</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Aus einem Referat des Herrn Julius Bauer)</head>
+            <p ana="pr2161">
+<space/><seg type="insult"><seg type="spc"><inciptit>Aus</inciptit> einem Referat des Herrn <rs type="pers" ana="n_1586" ref="#fk__p_47236">Julius Bauer</rs></seg></seg>. »Der<lb/>
+Verfasser hängt der <seg type="insult">landläufigen Philistermoral</seg> papierene Eselsohren<lb/>
+an die Frackschöße und versetzt ihr abwechselnd sanfte Nasenstüber<lb/>
+und derbe Rippenstöße. Und dabei blinzelt er satirisch mit seinen<lb/>
+klugen Augen oder schneidet <seg type="insult">widerliche Grimassen</seg>.«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_47236">
+               <persName>Bauer, Julius</persName>
+               <birth>
+                  <date>1853-10-15</date>
+                  <place>Raab-Szigeth</place>
+               </birth>
+               <death>
+                  <date>1941-6-11</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Kritiker</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2150</idno></person>
+            </listPerson></back></text>
+</TEI>

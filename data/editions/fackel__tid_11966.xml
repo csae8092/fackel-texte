@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_11966.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11965.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11967.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Humoristen untereinander, in: Fackel Heft 33, Nr. 864, 1931, S. 30-31</title>
+            <title type="iso-date">1931-12-01</title>
+            <title type="id">tid_11966</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">33</title><title type="heft">864</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-33-864_n0030.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/864,030</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Humoristen untereinander</head>
+            <p ana="pr173286">
+<space/>— — Das Sprachgefühl <rs type="pers" ana="n_103478" ref="#fk__p_45457"><seg type="spc">Reimanns</seg></rs> ist so lebendig und so<lb/>
+fein, daß ich ihm und uns <seg type="spc">nur eines wünschte</seg>: er sollte eimal<lb/>
+ das <seg type="spc">herrliche</seg> Buch des alten <rs type="pers" ana="n_103479" ref="#fk__p_45219"><seg type="spc">Wustmann</seg></rs> »<rs type="title">Allerlei Sprachdummheiten<lb/>
+</rs>« neu bearbeiten. Die Neuauflage dieser <seg type="spc">Sprachbibel</seg><lb/>
+ist gekürzt und lange nicht mehr so gut wie zu Lebzeiten <rs type="pers" ana="n_103480" ref="#fk__p_45219">Wustmanns</rs>,<lb/>
+und manches ist veraltet darin. — — <rs type="pers" ana="n_103481" ref="#fk__p_45457">Reimann</rs>, <seg type="spc">der Qualitätsgefühl<lb/>
+ hat</seg>, <seg type="spc">weiß</seg>, <seg type="spc">daß zum Beispiel <rs type="pers" ana="n_103482" ref="#fk__p_52385">Roda Roda</rs> eine<lb/>
+der saubersten Schreibarten sein eigen nennt</seg>, <seg type="spc">die wir<lb/>
+kennen</seg>, klipp und klar, aber er ist ja nur ein Humorist. Wenn es<lb/>
+einen <rs type="pers" ana="n_103483" ref="#fk__p_52385"><seg type="spc">Roda Roda-Ring</seg></rs> gäbe —: <rs type="pers" ana="n_103484" ref="#fk__p_45457">Hans Reimann</rs> hat ihn allemal<lb/>
+verdient. <rs type="pers" ana="n_103485" ref="#fk__p_48412"><AUCTOR><seg type="spc">Peter Panter</seg></AUCTOR></rs><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_45219">
+               <persName>Wustmann, Gustav</persName>
+               <birth>
+                  <date>1844-05-23</date>
+                  <place>Dresden</place>
+               </birth>
+               <death>
+                  <date>1910-12-22</date>
+                  <place>Leipzig</place>
+               </death>
+               <occupation>Kulturhistoriker</occupation>
+            </person>
+            <person xml:id="fk__p_52385">
+               <persName>Roda Roda, Alexander</persName>
+               <birth>
+                  <date>1872-4-13</date>
+                  <place>Drnowitz, Mähren</place>
+               </birth>
+               <death>
+                  <date>1945-8-20</date>
+                  <place>New York</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/9546</idno></person>
+            <person xml:id="fk__p_48412">
+               <persName>Tucholsky, Kurt</persName>
+               <birth>
+                  <date>1890-1-9</date>
+                  <place>Berlin</place>
+               </birth>
+               <death>
+                  <date>1935-12-21</date>
+                  <place>Hinda bei Göteborg</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Journalist</occupation>
+               <occupation>Kritiker</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10264</idno></person>
+            <person xml:id="fk__p_45457">
+               <persName>Reimann, Hans</persName>
+               <birth>
+                  <date>1889-11-18</date>
+                  <place>Leipzig</place>
+               </birth>
+               <death>
+                  <date>1969-6-13</date>
+                  <place>Schmalenbeck bei Hamburg</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Kritiker</occupation>
+               <occupation>Kabarettist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/9456</idno></person>
+            </listPerson></back></text>
+</TEI>

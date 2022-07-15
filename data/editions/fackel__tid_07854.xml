@@ -1,0 +1,46 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07854.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07853.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07855.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Auf dem Programm zu »Hannele«:, in: Fackel Heft 19, Nr. 457, 1234, S. 63-63</title>
+            <title type="iso-date">1234-01-01</title>
+            <title type="id">tid_07854</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">19</title><title type="heft">457</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-19-457_n0063.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/457,063</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Auf dem Programm zu »Hannele«:</head>
+            <p ana="pr105161_a">
+<space/>Auf dem Programm zu »<rs type="title"><rs type="pers">Hannele</rs></rs>«:<lb/>
+</p>
+            <p ana="pr105163">
+<space/>Die Vorführung dieser im <seg type="insult">neueren Deutschland</seg> einzigartigen<lb/>
+Dichtung geschieht, um häufig vorkommenden Verwechslungen<lb/>
+des Dichters <rs type="pers" ana="n_67308" ref="#fk__p_44354">Gerhart Hauptmann</rs> mit <seg type="insult">dem Kriegsdichter gleichen<lb/>
+Namens</seg> zu begegnen.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_44354">
+               <persName>Hauptmann, Gerhart</persName>
+               <birth>
+                  <date>1862-11-15</date>
+                  <place>Salzbrunn, Schlesien</place>
+               </birth>
+               <death>
+                  <date>1946-6-6</date>
+                  <place>Agnetendorf</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Ögg teilt die indirekte Stelle 521/64 zu, irrtümlich</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11617</idno></person>
+            </listPerson></back></text>
+</TEI>

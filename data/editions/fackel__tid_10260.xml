@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_10260.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10259.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10261.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Die Büchse der Pandora, in: Fackel Heft 27, Nr. 697, 1925, S. 39-40</title>
+            <title type="iso-date">1925-10-01</title>
+            <title type="id">tid_10260</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">27</title><title type="heft">697</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-27-697_n0039.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/697,039</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Die Büchse der Pandora</head>
+            <p ana="pr139782">
+<space/>In der Fußnote zu der Rede über »<rs type="title">Die Büchse der <rs type="pers">Pandora</rs></rs>«<lb/>
+(<abbr>S.</abbr> 53 des <rs type="selfRef" ana="werk_26984">letzten Heftes</rs>) war über ein Erlebnis während einer<lb/>
+Probe berichtet worden, das <rs type="pers" ana="n_85573" ref="#fk__p_43433">Wedekinds</rs> Schamgefühl zu einer so<lb/>
+sonderbaren Ernüchterung des Pathos der wichtigsten Stelle antrieb.<lb/>
+</p>
+            <p ana="pr139782">
+Eine Leserin macht mich nun darauf aufmerksam, daß es sich<lb/>
+bei der Änderung in der <rs type="inst"><rs type="pers" ana="n2_7608" ref="#fk__p_56035">Cassirerschen Ausgabe</rs></rs> von <date>1906</date><lb/>
+</p>
+            <p ana="pr139785">
+<seg type="i">(spricht von nun an in leichtem, muntrem Konversationston)</seg><lb/>
+</p>
+            <p ana="pr139787">
+nicht beruhigt hat, sondern in der Gesamtausgabe <date>1913</date> (<rs type="inst"><rs type="pers" ana="n2_7609" ref="#fk__p_44306">Georg<lb/>
+Müller</rs></rs>) noch weiter ging:<lb/>
+</p>
+            <p ana="pr139789">
+<rs type="pers">Alwa</rs> <seg type="i">(plötzlich wie neu belebt, sehr vergnügt)</seg> <seg type="symbol" subtype="4dots"/><lb/>
+</p>
+            <p ana="pr139791">
+Nach den Worten: »— — was wir erlebt haben« folgt dann die<lb/>
+Einschaltung:<lb/>
+</p>
+            <p ana="pr139793">
+<seg type="i">(Etwas elegisch):</seg> Wer sich diesen blühenden, schwellenden Lippen <seg type="symbol" subtype="2dots"/><lb/>
+gegenüber <seg type="symbol" subtype="4dots"/><lb/>
+</p>
+            <p ana="pr139795">
+Dafür ist hier die abschwächende Variante des Schlußsatzes:<lb/>
+»<seg type="symbol" subtype="3dots"/> der mag mit Verachtung auf uns herabsehen« aufgehoben<lb/>
+ und der ursprüngliche Text: »<seg type="symbol" subtype="3dots"/> der werfe den ersten<lb/>
+Stein auf uns« wiederhergestellt. Indem ich aber die <seg type="insult">Verwüstung</seg><lb/>
+des tragischen Tons der Bildepisode bis zur »Vergnügtheit«<lb/>
+vollendet fand und den Fall aufhebenswert, fiel mein Blick auf<lb/>
+die gleich anschließenden Worte:<lb/>
+</p>
+            <p ana="pr139797">
+<rs type="pers">Schigolch</rs>: Man muß es annageln.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_44306">
+               <persName>Müller, Georg</persName>
+               <birth>
+                  <date>1877-12-20</date>
+                  <place>Mainz</place>
+               </birth>
+               <death>
+                  <date>1917-12-29</date>
+                  <place>München</place>
+               </death>
+               <occupation>Verleger</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/5601</idno></person>
+            <person xml:id="fk__p_56035">
+               <persName>Cassirer, Bruno</persName>
+               <birth>
+                  <date>1872-12-12</date>
+                  <place>Breslau</place>
+               </birth>
+               <death>
+                  <date>1941-10-29</date>
+                  <place>Oxford</place>
+               </death>
+               <occupation>Verleger</occupation>
+               <occupation>Galerist</occupation>
+               <note type="comment">gründete mit Cousin Paul Cassirer 1898 in Berlin die Galerie und Verlagsbuchhandlung B. und P. Cassirer, beide wurden Sekretäre der Berliner Secession</note>
+            </person>
+            <person xml:id="fk__p_43433">
+               <persName>Wedekind, Frank</persName>
+               <birth>
+                  <date>1864-7-24</date>
+                  <place>Hannover</place>
+               </birth>
+               <death>
+                  <date>1918-3-9</date>
+                  <place>München</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/13068</idno></person>
+            </listPerson></back></text>
+</TEI>

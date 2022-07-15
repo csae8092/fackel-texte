@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02402.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02401.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02403.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Alldeutscher. (Ein alldeutscher Name), in: Fackel Heft 04, Nr. 102, 1902, S. 26-26</title>
+            <title type="iso-date">1902-05-7</title>
+            <title type="id">tid_02402</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">04</title><title type="heft">102</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-04-102_n0026.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/102,026</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Alldeutscher. (Ein alldeutscher Name)</head>
+            <p ana="pr23354">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="n_20297" key="#fk__p_38123">Alldeutscher</rs>.</seg></seg></seg> In <rs type="selfRef" ana="werk_7855"><abbr>Nr.</abbr> 101</rs> heisst es: »<seg type="insult">Herr <rs type="pers" ana="n_20298" ref="#fk__p_37664">Hlawitschka</rs></seg> ist<lb/>
+wohl — <seg type="spc">sein Name spricht dagegen</seg>, aber seine Bekanntschaft<lb/>
+mit <seg type="insult">Herrn <rs type="pers" ana="n_20299" ref="#fk__p_45233">Guttmann</rs></seg> dafür — ein <seg type="insult">Alldeutscher</seg>.« Ein Satz, der — Sie<lb/>
+haben ganz Recht — zu der sonstigen Auffassung der ‚<rs type="self" ana="werk_7856">Fackel</rs>‘ vom<lb/>
+<seg type="insult">österreichischen Nationalismus</seg> nicht passen will. Es hätte heissen<lb/>
+sollen: <seg type="insult">Herr <rs type="pers" ana="n_20300" ref="#fk__p_37664">Hlawitschka</rs></seg> ist wohl — sein Name spricht ebenso dafür<lb/>
+wie seine Bekanntschaft mit <seg type="insult">Herrn <rs type="pers" ana="n_20301" ref="#fk__p_45233">Guttmann</rs></seg> — ein <seg type="insult">Alldeutscher</seg>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_37664">
+               <persName>Hlawitschka, Anton</persName>
+               <birth>
+                  <date>1861-7-4</date>
+               </birth>
+               <note type="comment">ein ehemaliger Beamter des Zuckerkartells</note>
+               <note type="comment">19., Langackergasse 9; 3. Hainburgerstr. 66 (1904)</note>
+               <note type="comment">MA 8 keine Meldung</note>
+               <note type="comment">Hlawitschka ist die Schreibweise auf der Publikation</note>
+            </person>
+            <person xml:id="fk__p_45233">
+               <persName>Guttmann, Heinrich</persName>
+               <birth>
+                  <date>1869-7-15</date>
+                  <place>Mako/Ungarn</place>
+               </birth>
+               <death>
+                  <date>1936-4-23</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Zeitungsadministrator</occupation>
+               <occupation>Journalist</occupation>
+               <note type="comment">19., Döblinger Hauptstr. 33</note>
+               <note type="comment">Red. der "Ostdeutschen Rundschau"</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

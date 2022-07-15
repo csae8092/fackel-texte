@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02652.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02651.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02653.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Literat. (Ein redigierter Satz), in: Fackel Heft 04, Nr. 114, 1902, S. 23-23</title>
+            <title type="iso-date">1902-09-5</title>
+            <title type="id">tid_02652</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">04</title><title type="heft">114</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-04-114_n0023.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/114,023</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Literat. (Ein redigierter Satz)</head>
+            <p ana="pr25709">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="n_22276" ref="#fk__p_49045">Literat</rs>.</seg></seg></seg> In der Uebersetzung einer der prächtigen <choice><sic>Justizsatieren</sic><corr>Justizsatiren</corr></choice><lb/>
+<rs type="pers" ana="n_22277" ref="#fk__p_44327">Georges Courteline’s</rs>, die in <abbr>Nr.</abbr> 411 der ‚<rs type="magazine" ana="werk_8966">Zeit</rs>‘ erschienen ist, lautet ein<lb/>
+Satz: »Er verlangte hunderttausend Francs, ich bot ihm sechstausend.<lb/>
+Wir einigten <seg type="spc">sich</seg> auf siebentausendfünfhundert«. Der Uebersetzer heißt<lb/>
+<seg type="insult"><rs type="pers" ana="n_22278" ref="#fk__p_54249">Trebitsch</rs></seg>. Dennoch glaube ich nicht, daß die Construction von ihm<lb/>
+herrührt. Ich vermuthe vielmehr, daß es ursprünglich »wir einigten<lb/>
+<seg type="spc">uns</seg>« hieß und daß <seg type="insult">Herr Professor <rs type="pers" ana="n_22279" ref="#fk__p_46524"><abbr>J.</abbr> Singer</rs></seg> das Manuscript redigiert hat.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_49045">
+               <persName>Literat</persName>
+            </person>
+            <person xml:id="fk__p_44327">
+               <persName>Courteline, Georges</persName>
+               <birth>
+                  <date>1858-6-25</date>
+                  <place>Tours</place>
+               </birth>
+               <death>
+                  <date>1929-6-25</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/4865</idno></person>
+            <person xml:id="fk__p_54249">
+               <persName>Trebitsch, Siegfried</persName>
+               <birth>
+                  <date>1868-12-22</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1956-6-3</date>
+                  <place>Zürich</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Übersetzer</occupation>
+               <note type="comment">Eltern: Leopold Trebitsch (gest. 12.12.1906) und Malvine, geb. Singer (gest. 8.4.1918)</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_20796</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12968</idno></person>
+            <person xml:id="fk__p_46524">
+               <persName>Singer, Isidor</persName>
+               <birth>
+                  <date>1857-01-16</date>
+                  <place>Pest</place>
+               </birth>
+               <death>
+                  <date>1927-12-08</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Nationalökonom</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12790</idno></person>
+            </listPerson></back></text>
+</TEI>

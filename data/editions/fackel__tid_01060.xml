@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01060.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01059.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01061.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Herrn Stefan G. (Ein Rügeschreiben), in: Fackel Heft 02, Nr. 044, 1900, S. 32-32</title>
+            <title type="iso-date">1900-06-01</title>
+            <title type="id">tid_01060</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">044</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-044_n0032.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/044,032</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Herrn Stefan G. (Ein Rügeschreiben)</head>
+            <p ana="pr10079">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i">Herrn <rs type="pers" ana="n_8307" ref="#fk__p_53581">Stefan <abbr>G.</abbr></rs></seg></seg></seg> Sie müssen es schon mir überlassen, zu<lb/>
+entscheiden, was ich in meinem <rs type="selfRef" ana="werk_40067">Blatte</rs> über die Wiener socialistische<lb/>
+Kampfesweise zu sagen für nothwendig finde. Dass Sie in <seg type="insult">Ihrem<lb/>
+»Rügeschreiben«</seg> sich krampfhaft bemühen, <seg type="insult">die polemischen Manieren<lb/>
+des Herrn <rs type="pers" ana="n_8308" ref="#fk__p_42628">Habakuk</rs></seg> zu copieren, kann ich nur mit Rücksicht auf<lb/>
+<seg type="insult">Ihren jungen Eifer</seg>, rothe Farbe zu bekennen, entschuldigen. Sie<lb/>
+haben eben <seg type="spc">viel nachzuholen</seg>. Vergeuden Sie aber Ihr gutes<lb/>
+Talent nicht in zwecklosen Privatbriefen und lassen Sie es sich<lb/>
+künftig genügen, im Feuilleton der ‚<rs type="paper" ana="werk_2916">Arbeiter-Zeitung</rs>‘ für die Socialdemokratie<lb/>
+ zu sterben.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_53581">
+               <persName>Großmann, Stefan</persName>
+               <birth>
+                  <date>1875-05-18</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1935-01-03</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11527</idno></person>
+            <person xml:id="fk__p_42628">
+               <persName>Kralik, Emil</persName>
+               <birth>
+                  <date>1864-11-9</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1906-11-18</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Politiker</occupation>
+               <note type="comment">Genosse aus Wildwest</note>
+               <note type="comment">Helmut Schwarzer: starb an Trunksucht</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00816.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00815.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00817.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Technischer Chemiker. (Einem technischen Chemiker), in: Fackel Heft 01, Nr. 033, 1900, S. 31-31</title>
+            <title type="iso-date">1900-02-01</title>
+            <title type="id">tid_00816</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">033</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-033_n0031.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/033,031</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Technischer Chemiker. (Einem technischen Chemiker)</head>
+            <p ana="pr7653">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_6007" key="#fk__p_53989">Technischer Chemiker</rs>.</seg></seg> Ihnen wie allen Ihren Collegen herzlichen<lb/>
+ Dank für die Zustimmung. Sie sind der Meinung, dass die<lb/>
+Art, wie <seg type="insult">Herr <rs type="pers" ana="n_6008" ref="#fk__p_46340"><abbr>v.</abbr> <seg type="spc">Perger</seg></rs></seg> auf die »Angriffe« reagiert, ganz verfehlt<lb/>
+sei. <seg type="insult">Herr <rs type="pers" ana="n_6009" ref="#fk__p_46340"><abbr>v.</abbr> Perger</rs></seg> trachtet den Inspirator zu finden, während es<lb/>
+doch ausschließlich in seinem Interesse wäre, endlich den lange<lb/>
+gesuchten Farbstoff zu finden. Und wieder besuchte ihn ein Freund<lb/>
+in seinem Laboratorium, und wieder hatte er Gelegenheit, schmerzlich<lb/>
+ auszurufen: »Ich find’ halt nichts und ich find’ halt nichts!« <seg type="symbol" subtype="3dots"/><lb/>
+Nun ja, ich würde es ebenfalls für richtiger halten, wenn er<lb/>
+kurz entschlossen vom <rs type="inst">Unterrichtsministerium</rs> die Einleitung einer<lb/>
+<seg type="spc">Untersuchung</seg> verlangte, bei der sich ja auch die Berechtigung<lb/>
+oder Nichtberechtigung der <seg type="insult">»Angriffe«</seg> unbedingt herausstellen müsste.<lb/>
+— Der <rs type="inst">Chemikerverein</rs> hat nichts unternommen; vermuthlich aus dem<lb/>
+Grunde, weil <seg type="insult">einige demonstrationslüsterne Herren</seg> bemerkten, dass<lb/>
+die entschiedenen Gegner <rs type="pers" ana="n_6010" ref="#fk__p_46340">Pergers</rs> in der Majorität waren.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46340">
+               <persName>Perger, Hugo Ritter von</persName>
+               <birth>
+                  <date>1844-02-12</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1901-12-28</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Techniker</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

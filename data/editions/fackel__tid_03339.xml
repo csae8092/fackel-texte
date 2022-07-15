@@ -1,0 +1,44 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03339.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03338.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03340.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Berichtigung, in: Fackel Heft 05, Nr. 147, 1903, S. 28-28</title>
+            <title type="iso-date">1903-11-21</title>
+            <title type="id">tid_03339</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">05</title><title type="heft">147</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-05-147_n0028.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/147,028</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Berichtigung</head>
+            <p ana="pr32998">
+<space/><FCORR href="FK-05-146_n0001.xml" ferrID="fk_04_ferr_27348536" id="fk_04_fcorr_27348536">In <rs type="selfRef" ana="werk_12375"><abbr>Nr.</abbr> 146</rs>, <abbr>S.</abbr> 1, 1. Zeile von oben, ist statt »<rs type="pers" ana="name_200504" ref="#fk__p_39496">Brestl</rs>«:<lb/>
+<EM href="FK-05-146_n0001.xml" ferrID="fk_04_ferr_27348536" id="fk_04_em_27348539"><seg type="i"><rs type="pers" ana="name_200505" ref="#fk__p_39496">Brestel</rs></seg></EM>;</FCORR> <FCORR href="FK-05-146_n0002.xml" ferrID="fk_04_ferr_27348542" id="fk_04_fcorr_27348542"><abbr>S.</abbr> 2, 15. Zeile von unten, statt »zwänge«: <EM href="FK-05-146_n0002.xml" ferrID="fk_04_ferr_27348542" id="fk_04_em_27348545"><seg type="i">zwängte</seg></EM> zu lesen.</FCORR><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_39496">
+               <persName>Brestel, Rudolf Ernst</persName>
+               <birth>
+                  <date>1816-05-16</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1881-03-3</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Mathematiker</occupation>
+               <occupation>Politiker</occupation>
+               <note type="comment">ZF 4A/2 (FD)</note>
+               <note type="comment"/>
+               <note type="comment">Finanzminister</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

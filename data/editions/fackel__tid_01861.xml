@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01861.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01860.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01862.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Vom Raimundpreis.), in: Fackel Heft 03, Nr. 078, 1901, S. 23-23</title>
+            <title type="iso-date">1901-05-01</title>
+            <title type="id">tid_01861</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">03</title><title type="heft">078</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-03-078_n0023.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/078,023</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Vom Raimundpreis.)</head>
+            <p ana="pr18262">
+<space/><inciptit>Die</inciptit> Commission zur Ertheilung des <rs type="inst"><rs type="pers" ana="n2_1222" ref="#fk__p_43227"><seg type="spc">Raimund-Preises</seg></rs></rs> hat<lb/>
+ihre Pflicht nicht ganz erfüllt. Es genügt nicht, dass <seg type="insult">Herr <rs type="pers" ana="n_15414" ref="#fk__p_39122">Bernhard<lb/>
+Buchbinder</rs></seg> — trotz bangem Hoffen und <seg type="insult">der absichtsvollen Umtaufung<lb/>
+einer blöden und gemeinen Posse</seg> in ein <seg type="insult">»Volksstück«</seg> — den Preis<lb/>
+nicht erhalten hat. Es hätte auch ausdrücklich verlautbart werden<lb/>
+müssen, dass <seg type="insult">Herr <rs type="pers" ana="n_15415" ref="#fk__p_39122">Buchbinder</rs></seg> <seg type="spc">nie</seg> in Frage kam, nie in Frage kommen<lb/>
+<seg type="spc">wird</seg>, und dass keinen Moment ernstlich die Gefahr einer Verbindung<lb/>
+der Namen <rs type="pers" ana="n_15416" ref="#fk__p_43227">Raimund</rs> und <rs type="pers" ana="n_15417" ref="#fk__p_39122">Buchbinder</rs> bestanden hat. Ueberdies hätte<lb/>
+der »Ermunterungspreis« nicht in seiner Gänze an Herrn <rs type="pers" ana="n_15418" ref="#fk__p_53051">Schrottenbach<lb/>
+</rs> ausgezahlt werden dürfen, damit noch ein Rest als <seg type="spc">Entmuthigungspreis<lb/>
+</seg> für <seg type="insult">Herrn <rs type="pers" ana="n_15419" ref="#fk__p_39122">Buchbinder</rs></seg> bleibe.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_53051">
+               <persName>Schrottenbach, Heinrich</persName>
+               <birth>
+                  <date>1848-05-08</date>
+                  <place>Baden/NÖ</place>
+               </birth>
+               <death>
+                  <date>1937-02-20</date>
+                  <place>Graz</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Sportpionier</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/29050</idno></person>
+            <person xml:id="fk__p_39122">
+               <persName>Buchbinder, Bernhard</persName>
+               <birth>
+                  <date>1849-7-7</date>
+                  <place>Budapest</place>
+               </birth>
+               <death>
+                  <date>1922-6-24</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/6487</idno></person>
+            <person xml:id="fk__p_43227">
+               <persName>Raimund, Ferdinand</persName>
+               <birth>
+                  <date>1790-6-1</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1836-9-5</date>
+                  <place>Pottenstein, Niederösterreich</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Ögg teilt die Valentin-Stelle 254/4 Nestroy zu</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12468</idno></person>
+            </listPerson></back></text>
+</TEI>

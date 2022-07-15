@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02278.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02277.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02279.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">»Alter Abonnent.« (Zur »Neuen Freien Physik«), in: Fackel Heft 03, Nr. 096, 1902, S. 22-23</title>
+            <title type="iso-date">1902-03-82</title>
+            <title type="id">tid_02278</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">03</title><title type="heft">096</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-03-096_n0022.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/096,022</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>»Alter Abonnent.« (Zur »Neuen Freien Physik«)</head>
+            <p ana="pr22227">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i">»<rs type="pers" ana="n_19304" key="#fk__p_38164">Alter Abonnent</rs>.«</seg></seg></seg> Ihr Beispiel mit dem steigenden, seine<lb/>
+Eigenlast hebenden Menschen ist vollkommen richtig, jedoch auf den<lb/>
+von Professor <rs type="pers" ana="n_19305" ref="#fk__p_37830">Loos</rs> in <rs type="selfRef" ana="werk_7355"><abbr>Nr.</abbr> 94</rs> behandelten Fall nicht anwendbar. Es lag<lb/>
+ja in der ‚<rs type="paper" ana="werk_7356">Neuen Freien Presse</rs>‘ ein Fall der Energieumwandlung vor,<lb/>
+ein Vergleich zwischen Wärme, Elektricität und mechanischer Arbeit.<lb/>
+Demgemäss konnte <rs type="pers" ana="n_19306" ref="#fk__p_41143"><abbr>Dr.</abbr> Goldschmidt</rs> in seinem Vortrage nur die bekannten<lb/>
+ Äquivalenzzahlen gebraucht haben: 1 Calorie <seg type="symbol" subtype="equals"/> 425 Kilogrammmeter<lb/>
+, 75 Kilogrammeter <seg type="symbol" subtype="equals"/> 1 Pferdekraft (Pferdestärke) <seg type="symbol" subtype="equals"/> 736 Watt.<lb/>
+Gibt man also unter solchen Umständen eine Zahl von Kilogrammmmetern<lb/>
+</p>
+            <p ana="pr22227">
+ an, so ist das Aequivalent in Pferden offenbar durch die Division<lb/>
+ durch 75 zu finden, gleichwie die Zahl der Calorien durch die<lb/>
+Division durch 425 und die Wattzahl durch die Multiplication des<lb/>
+Pferdeäquivalentes mit 736 gefunden wird. Waren jedoch die Angaben<lb/>
+der ‚<rs type="paper" ana="werk_7357">Neuen Freien Presse</rs>‘, entgegen jedem wissenschaftlichen Gebrauch,<lb/>
+keine Secunden-Kilogrammeter, so war ja die Sache umso unsinniger.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_37830">
+               <persName>Loos, Adolf</persName>
+               <birth>
+                  <date>1870-12-10</date>
+                  <place>Brünn</place>
+               </birth>
+               <death>
+                  <date>1933-8-23</date>
+                  <place>Kalksburg, Niederösterreich</place>
+               </death>
+               <occupation>Architekt</occupation>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Liste "Theater der Dichtung"</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/3612</idno></person>
+            <person xml:id="fk__p_41143">
+               <persName>Goldschmidt, Hans</persName>
+               <birth>
+                  <date>1861-1-18</date>
+                  <place>Berlin</place>
+               </birth>
+               <death>
+                  <date>1923-5-21</date>
+                  <place>Baden-Baden</place>
+               </death>
+               <occupation>Chemiker</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

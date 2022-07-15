@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02956.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02955.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02957.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Der ewige „Frühling“, in: Fackel Heft 04, Nr. 131, 1903, S. 15-15</title>
+            <title type="iso-date">1903-03-4</title>
+            <title type="id">tid_02956</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">04</title><title type="heft">131</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-04-131_n0015.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/131,015</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Der ewige „Frühling“</head>
+            <p ana="pr29258">
+<space/><seg type="insult"><inciptit>Der</inciptit> ewige »<rs type="title">Frühling</rs>« des Herrn <rs type="pers" ana="n_25237" ref="#fk__p_52576">Rudolph Holzer</rs>!</seg> Jetzt<lb/>
+hat sich, weil er noch immer nicht aufgeführt ist, sogar das<lb/>
+Literaturblatt der ‚<rs type="paper" ana="werk_10675">Neuen Freien Presse</rs>‘ seiner angenommen. »Es<lb/>
+wäre wünschenswerth«, hieß es am Schlusse einer Recension des<lb/>
+Buches, »daß eine <seg type="spc">Berliner</seg> Bühne die edle und vornehme Dichtung<lb/>
+ des Oesterreichers aufführe, damit vielleicht <seg type="spc">auch Wiener<lb/>
+Theaterleiter</seg> auf dieses heimische Talent <seg type="spc">aufmerksam<lb/>
+würden</seg>.« Und ich habe, weil ich einen Wiener Theaterleiter auf<lb/>
+<seg type="insult">dieses heimische Talent</seg> aufmerksam machte, 1800 Kronen Strafe<lb/>
+zahlen müssen! Und wenn ich <seg type="insult">Herrn <rs type="pers" ana="n_25238" ref="#fk__p_42599">Bukovics</rs></seg> heute an sein<lb/>
+im Gerichtssaal gegebenes Versprechen, das Stück endlich aufzuführen<lb/>
+, erinnerte, er würde mich neuerdings klagen, und neuerdings<lb/>
+ würde <seg type="insult">der Zeuge <rs type="pers" ana="n_25239" ref="#fk__p_52576">Holzer</rs></seg> bekennen: »Ich kann mich nicht<lb/>
+erinnern <seg type="symbol" subtype="3dots"/>«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_52576">
+               <persName>Holzer, Rudolf</persName>
+               <birth>
+                  <date>1875-7-28</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1965-7-17</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Journalist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11771</idno></person>
+            <person xml:id="fk__p_42599">
+               <persName>Bukovics-Kis-Alacska, Emerich von</persName>
+               <birth>
+                  <date>1844-2-28</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1905-7-4</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Theaterleiter</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

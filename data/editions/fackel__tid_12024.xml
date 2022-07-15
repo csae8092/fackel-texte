@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_12024.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_12023.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_12025.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">An der Schwelle, in: Fackel Heft 33, Nr. 868, 1932, S. 66-67</title>
+            <title type="iso-date">1932-03-01</title>
+            <title type="id">tid_12024</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">33</title><title type="heft">868</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-33-868_n0066.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/868,066</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>An der Schwelle</head>
+            <p ana="pr174232">
+Originalbericht des <seg ana="»Neuen Wiener Journals«"/>.<lb/>
+</p>
+            <p ana="pr174233">
+<space/>Als Frau <rs type="pers" ana="n_104287" key="#fk__p_46968">Johanna <abbr>M.</abbr></rs> eines Tages die Stiege ihres Wohnhauses<lb/>
+hinabging, kam gerade ihre vielgeliebte Nachbarin <rs type="pers" ana="n_104288" ref="#fk__p_38303">Anna <abbr>W.</abbr></rs> herauf.<lb/>
+<foreign xml:lang="de-loc">»<seg type="insult">G’scherter Trampl</seg>,«</foreign> grüßte Frau <rs type="pers" ana="n_104289" ref="#fk__p_38303">Anna <abbr>W.</abbr></rs>, <seg type="insult"><foreign xml:lang="de-loc">»blödes Mensch«</foreign></seg> und<lb/>
+fügte noch <seg type="spc">das <rs type="title"><rs type="pers">Götz-Zitat</rs></rs></seg> in seiner populärsten Fassung hinzu.<lb/>
+Frau <rs type="pers" ana="n_104290" key="#fk__p_46968">Johanna</rs> verschlug es durchaus nicht die Rede. In ebenso derber,<lb/>
+nicht wiederzugebender Art gab sie ihre Bedingung für die Durchführung<lb/>
+ der Aufforderung der Frau <rs type="pers" ana="n_104291" ref="#fk__p_38303">Anna</rs> bekannt. Ins Hochdeutsche<lb/>
+und Zimmerreine übersetzt, besagte diese Bedingung nicht mehr und<lb/>
+</p>
+            <p ana="pr174233">
+nicht weniger, als daß Frau <rs type="pers" ana="n_104292" ref="#fk__p_38303">Anna</rs> vorher den in Betracht kommenden,<lb/>
+<seg type="spc">durch <rs type="pers" ana="n_104293" ref="#fk__p_46960">Goethe</rs> zur Literaturfähigkeit gelangten Teil<lb/>
+ihrer Persönlichkeit</seg> mindestens acht Tage lang in die große<lb/>
+Donau halten müßte. <OMED>— —</OMED><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_38303">
+               <persName>W., Anna</persName>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/26518</idno></person>
+            <person xml:id="fk__p_46960">
+               <persName>Goethe, Johann Wolfgang von</persName>
+               <birth>
+                  <date>1749-8-28</date>
+                  <place>Frankfurt am Main</place>
+               </birth>
+               <death>
+                  <date>1832-3-22</date>
+                  <place>Weimar</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">890/142f.</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11461</idno></person>
+            </listPerson></back></text>
+</TEI>

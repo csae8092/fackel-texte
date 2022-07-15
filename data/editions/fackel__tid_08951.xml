@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_08951.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08950.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08952.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Johann Klaj: An eine Linde), in: Fackel Heft 23, Nr. 568, 1921, S. 37-38</title>
+            <title type="iso-date">1921-05-01</title>
+            <title type="id">tid_08951</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">23</title><title type="heft">568</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-23-568_n0037.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/568,037</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Johann Klaj: An eine Linde)</head>
+            <lg>
+<l>Schöne Linde!</l>
+<l>Deine Rinde</l>
+<l>Nehm’ den Wunsch von meiner Hand:</l>
+<l>Kröne mit den sanften Schatten</l>
+<l>Diese saatbegrasten Matten,</l>
+<l>Stehe sicher vor dem Brand.</l>
+<l>Reißt die graue Zeit hier nieder</l>
+<l>Deine Brüder:</l>
+<l>Soll der Lenz diese Aest’</l>
+<l>Jedes Jahr belauben wieder</l>
+<l>Und dich hegen wurzelfest.</l>
+</lg>
+            <p ana="pr119240">
+<rs type="pers" ana="n_73359" ref="#fk__p_46906"><AUCTOR><seg type="spc">Johann Klaj</seg></AUCTOR></rs><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46906">
+               <persName>Klaj, Johann</persName>
+               <birth>
+                  <date>1616</date>
+                  <place>Meissen/Sachsen</place>
+               </birth>
+               <death>
+                  <date>1656-2-16</date>
+                  <place>Kitzingen/Franken</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/52659</idno></person>
+            </listPerson></back></text>
+</TEI>

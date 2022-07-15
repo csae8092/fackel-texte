@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_04596.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04595.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04597.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Eine Verwahrung), in: Fackel Heft 09, Nr. 244, 1908, S. 7-7</title>
+            <title type="iso-date">1908-02-17</title>
+            <title type="id">tid_04596</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">09</title><title type="heft">244</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-09-244_n0007.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/244,007</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Eine Verwahrung)</head>
+            <p ana="pr52331">
+<space/><seg type="sidehead">(Eine Verwahrung.)</seg> »Herr <rs type="pers" ana="n_41441" ref="#fk__p_43530">Lehar</rs> teilt uns mit,<lb/>
+daß er bei seiner Reise nach Berlin mit <rs type="pers" ana="n_41442" ref="#fk__p_37978"><seg type="spc">Girardi</seg></rs><lb/>
+wegen eines Auftretens im <rs type="inst">Theater an der Wien</rs><lb/>
+nicht verhandelt habe, sondern direkt mit <rs type="pers" ana="n_41443" ref="#fk__p_39956"><seg type="spc">Christians<lb/>
+</seg></rs> in Unterhandlungen getreten sei, die zu dem<lb/>
+schon bekannten Abschlusse führten, daß somit das<lb/>
+Engagement <rs type="pers" ana="n_41444" ref="#fk__p_39956">Christians’</rs> nicht als Notbehelf, sondern<lb/>
+als Zweck seiner Mission anzusehen sei.« <seg type="insult">Herr <rs type="pers" ana="n_41445" ref="#fk__p_43530">Lehar</rs></seg><lb/>
+hat vollkommen Recht gehabt. Man wird an <rs type="pers" ana="n_41446" ref="#fk__p_37978">Girardi</rs><lb/>
+herantreten, wenn man einen <rs type="pers" ana="n_41447" ref="#fk__p_39956">Christians</rs> haben kann!<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_43530">
+               <persName>Lehár, Franz</persName>
+               <birth>
+                  <date>1870-4-30</date>
+                  <place>Komorn, Ungarn</place>
+               </birth>
+               <death>
+                  <date>1948-10-24</date>
+                  <place>Bad Ischl</place>
+               </death>
+               <occupation>Komponist</occupation>
+               <note type="comment">irrt. von Ögg zugeteilte Stellen: 400/63, 418/25, 568/25, 588/38, 917/56, 61</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/8552</idno></person>
+            <person xml:id="fk__p_37978">
+               <persName>Girardi, Alexander</persName>
+               <birth>
+                  <date>1850-12-5</date>
+                  <place>Graz</place>
+               </birth>
+               <death>
+                  <date>1918-4-20</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11441</idno></person>
+            <person xml:id="fk__p_39956">
+               <persName>Christians, Rudolf</persName>
+               <birth>
+                  <date>1869-1-15</date>
+                  <place>Middoge/Oldenburg</place>
+               </birth>
+               <death>
+                  <date>1921-2-2</date>
+                  <place>New York</place>
+               </death>
+               <occupation>Sänger</occupation>
+               <note type="comment">Operettentenor</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11093</idno></person>
+            </listPerson></back></text>
+</TEI>

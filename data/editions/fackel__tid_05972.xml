@@ -1,0 +1,42 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_05972.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05971.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05973.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Nicht fünfzig, sondern sechzig, in: Fackel Heft 14, Nr. 360, 1912, S. 35-35</title>
+            <title type="iso-date">1912-11-01</title>
+            <title type="id">tid_05972</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">14</title><title type="heft">360</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-14-360_n0035.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/360,035</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Nicht fünfzig, sondern sechzig</head>
+            <p ana="pr80066">
+ist jetzt <rs type="pers" ana="n_56467" ref="#fk__p_37775">Müller-Guttenbrunn</rs>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_37775">
+               <persName>Müller-Guttenbrunn, Adam</persName>
+               <birth>
+                  <date>1852-10-22</date>
+                  <place>Guttenbrunn, Banat</place>
+               </birth>
+               <death>
+                  <date>1923-1-5</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Beamter</occupation>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Theaterleiter</occupation>
+               <note type="comment">F 146/32 Gärungen und Klärungen, Roman Wien 1903</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12331</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,43 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_05917.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05916.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05918.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Eine Erklärung des Verlags Albert Langen), in: Fackel Heft 14, Nr. 357, 1912, S. 48-48</title>
+            <title type="iso-date">1912-10-01</title>
+            <title type="id">tid_05917</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">14</title><title type="heft">357</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-14-357_n0048.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/357,048</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Eine Erklärung des Verlags Albert Langen)</head>
+            <p ana="pr79071">
+<space/>Der <rs type="inst">Verlag <rs type="pers" ana="n2_4923" ref="#fk__p_37927">Albert Langen</rs></rs> hat in freundlicher Weise die<lb/>
+Zitierung jener Kritik, in der mein Name in peinliche Nachbarschaft<lb/>
+ gebracht war, als das Versehen eines Angestellten erklärt,<lb/>
+das er »in einer etwaigen Neuauflage des Buches selbstverständlich<lb/>
+wieder gutmachen« werde.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_37927">
+               <persName>Langen, Albert</persName>
+               <birth>
+                  <date>1869-07-08</date>
+                  <place>Köln</place>
+               </birth>
+               <death>
+                  <date>1909-04-30</date>
+                  <place>München</place>
+               </death>
+               <occupation>Verleger</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/3379</idno></person>
+            </listPerson></back></text>
+</TEI>

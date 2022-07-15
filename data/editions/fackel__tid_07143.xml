@@ -1,0 +1,43 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07143.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07142.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07144.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Dem Schönfärber, in: Fackel Heft 18, Nr. 423, 1916, S. 16-16</title>
+            <title type="iso-date">1916-05-01</title>
+            <title type="id">tid_07143</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">18</title><title type="heft">423</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-18-423_n0016.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/423,016</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Dem Schönfärber</head>
+            <lg>
+<l>Der beste Teil ist noch das Eingeweide.</l>
+<l>Wie rosig malt <rs type="pers" ana="n_64584" ref="#fk__p_50893">Kokoschka</rs> <seg type="insult">manchen Wicht</seg>!</l>
+<l>Ihn zu entlarven, das gelingt ihm nicht.</l>
+<l>Wie anders Schattenstein. Der malt am Kleide!</l>
+</lg>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_50893">
+               <persName>Kokoschka, Oskar</persName>
+               <birth>
+                  <date>1886-3-1</date>
+                  <place>Pöchlarn, Niederösterreich</place>
+               </birth>
+               <death>
+                  <date>1980-2-22</date>
+                  <place>Villeneuve, Schweiz</place>
+               </death>
+               <occupation>Maler</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11958</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_11494.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11493.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11495.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Einer der besten Titel, in: Fackel Heft 32, Nr. 838, 1930, S. 99-99</title>
+            <title type="iso-date">1930-09-01</title>
+            <title type="id">tid_11494</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">32</title><title type="heft">838</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-32-838_n0099.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/838,099</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Einer der besten Titel</head>
+            <p ana="pr167025">
+die er je gesetzt hat:<lb/>
+</p>
+            <p ana="pr167027">
+Gerüchte über <seg type="spc">einen</seg> Tod <rs type="pers" ana="n_100053" ref="#fk__p_52950">Schmelings</rs>.<lb/>
+</p>
+            <p ana="pr167029">
+Hier hat die <seg type="insult">jüdische Zunge</seg> instinktiv, mit halbem Bewußtsein<lb/>
+um ein Problem der Sprachlehre, die Klippe gefühlt in den Gerüchten<lb/>
+»über den Tod <rs type="pers" ana="n_100054" ref="#fk__p_52950">Schmelings</rs>«: da wäre er nämlich tot gewesen<lb/>
+und an den Tod hätten sich überdies noch Gerüchte geknüpft. Wie<lb/>
+drückt man das also aus? »Gerüchte von <rs type="pers" ana="n_100055" ref="#fk__p_52950">Schmelings</rs> Tod«:<lb/>
+darauf verfällt doch ein <seg type="insult">Preßmensch</seg> nicht (dessen typische<lb/>
+Wendung der Tod »von <rs type="pers" ana="n_100056" ref="#fk__p_52950">Schmeling</rs>« wäre.) Aber er fühlt, wenngleich<lb/>
+ das »über« falsch ist, ganz richtig, daß das Gerüchthafte<lb/>
+im unbestimmten Artikel zum Ausdruck gelangen könnte: »Worüber<lb/>
+wird geredt?« »Etwas über einen Tod von <rs type="pers" ana="n_100057" ref="#fk__p_52950">Schmeling</rs>«. <seg type="spc">Das</seg><lb/>
+wollte er zum Ausdruck bringen!<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_52950">
+               <persName>Schmeling, Max</persName>
+               <birth>
+                  <date>1905-9-28</date>
+                  <place>Klein-Lukow/Uckermark</place>
+               </birth>
+               <death>
+                  <date>2005-2-2</date>
+                  <place>Wenzendorf/Hamburg</place>
+               </death>
+               <occupation>Boxchampion</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

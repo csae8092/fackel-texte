@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_09786.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09785.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09787.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Neuer Saal der Hofburg, 1. Mai, halb 8 Uhr:, in: Fackel Heft 26, Nr. 649, 1924, S. 82-82</title>
+            <title type="iso-date">1924-06-01</title>
+            <title type="id">tid_09786</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">26</title><title type="heft">649</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-26-649_n0082.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/649,082</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Neuer Saal der Hofburg, 1. Mai, halb 8 Uhr:</head>
+            <p ana="pr132573">
+<space/><rs type="inst">Neuer Saal der Hofburg</rs>, <date>1. Mai</date>, halb 8 Uhr:<lb/>
+</p>
+            <p ana="pr132574">
+<space/>(Veranstaltung der <rs type="inst">Kunststelle</rs>.)<lb/>
+</p>
+            <p ana="pr132575">
+<space/>I. <rs type="pers" ana="n_81013" ref="#fk__p_46919"><seg type="spc">Nestroy</seg></rs>: <rs type="title"><seg type="spc"><rs type="pers">Judith</rs> und <rs type="pers">Holofernes</rs></seg></rs>. (Mit den bekannten<lb/>
+ und einer neuen Zusatzstrophe.)<lb/>
+</p>
+            <p ana="pr132576">
+<space/>II. <rs type="pers" ana="n_81014" ref="#fk__p_46919"><seg type="spc">Nestroy</seg></rs>: <rs type="title"><seg type="spc">Das Notwendige und das Überflüssige<lb/>
+</seg></rs>. Begleitung: <rs type="pers" ana="n_81015" ref="#fk__p_54913">Viktor Junk</rs>.<lb/>
+</p>
+            <p ana="pr132577">
+<space/>Der volle Ertrag (inklusive Programmerlös): K 3,272.900 für<lb/>
+das <rs type="inst">Israelitische Blinden-Institut Wien</rs>, Hohe Warte.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_54913">
+               <persName>Junk, Viktor</persName>
+               <birth>
+                  <date>1875-4-18</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1948-4-5</date>
+                  <place>Frohnleiten/Steiermark</place>
+               </death>
+               <occupation>Germanist</occupation>
+               <occupation>Musikwissenschaftler</occupation>
+            </person>
+            <person xml:id="fk__p_46919">
+               <persName>Nestroy, Johann Nepomuk</persName>
+               <birth>
+                  <date>1801-12-7</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1862-5-25</date>
+                  <place>Graz</place>
+               </death>
+               <occupation>Sänger</occupation>
+               <occupation>Schauspieler</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12338</idno></person>
+            </listPerson></back></text>
+</TEI>

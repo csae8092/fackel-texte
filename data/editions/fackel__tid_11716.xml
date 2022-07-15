@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_11716.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11715.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11717.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Immer sozial, in: Fackel Heft 33, Nr. 852, 1931, S. 17-17</title>
+            <title type="iso-date">1931-05-01</title>
+            <title type="id">tid_11716</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">33</title><title type="heft">852</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-33-852_n0017.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/852,017</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Immer sozial</head>
+            <p ana="pr169969">
+<space/>Es gab wohl nie einen großen<lb/>
+ Schauspieler und großen<lb/>
+Dichter (<rs type="pers" ana="n_101595" ref="#fk__p_39900">Chaplin</rs> ist Schauspieler<lb/>
+, Dichter und Regisseur in<lb/>
+einer Person), der so deutlich<lb/>
+den <seg type="insult">Fürsten und Geldbaronen<lb/>
+seiner Zeit</seg> gesagt hätte, daß er<lb/>
+mit ihnen nichts zu tun haben<lb/>
+wolle.<lb/>
+</p>
+            <p ana="pr169972">
+<space/>Den Aufenthalt auf dem Schloß<lb/>
+des <rs type="pers" ana="n_101596" ref="#fk__p_46047">Herzogs von Westminster</rs> in der<lb/>
+Normandie unterbrach der Filmkünstler<lb/>
+ nur, um in Paris dem König<lb/>
+von Belgien, der in die französische<lb/>
+Hauptstadt zu einem Abschiedsbesuch<lb/>
+ beim Präsidenten <rs type="pers" ana="n_101597" ref="#fk__p_40651">Doumergue</rs><lb/>
+gekommen war, seine Aufwartung zu<lb/>
+machen.<lb/>
+</p>
+            <p ana="pr169974">
+<rs type="inst">Westminsterbar</rs> in Wien war die Fortsetzung.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46047">
+               <persName>Grosvenor, Hugh Richard Arthur, Herzog von Westminster</persName>
+               <birth>
+                  <date>1879-3-19</date>
+               </birth>
+               <death>
+                  <date>1953-7-19</date>
+               </death>
+               <note type="comment">fehlt bei Ögg; seit 1899 2nd Duke of Westminster</note>
+            </person>
+            <person xml:id="fk__p_39900">
+               <persName>Chaplin, Charles Spencer</persName>
+               <birth>
+                  <date>1889-4-16</date>
+                  <place>London</place>
+               </birth>
+               <death>
+                  <date>1977-12-25</date>
+                  <place>Vevey/Schweiz</place>
+               </death>
+               <occupation>Filmschauspieler</occupation>
+               <occupation>Filmregisseur</occupation>
+               <occupation>Filmproduzent</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/14920</idno></person>
+            <person xml:id="fk__p_40651">
+               <persName>Doumergue, Gaston</persName>
+               <birth>
+                  <date>1863-08-01</date>
+                  <place>Aigues-Vives</place>
+               </birth>
+               <death>
+                  <date>1937-06-18</date>
+                  <place>Aigues-Vives</place>
+               </death>
+               <occupation>Politiker</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

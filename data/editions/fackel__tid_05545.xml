@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_05545.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05544.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05546.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Hysterie in zehnter Auflage, in: Fackel Heft 13, Nr. 336, 1234, S. 34-35</title>
+            <title type="iso-date">1234-01-01</title>
+            <title type="id">tid_05545</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">13</title><title type="heft">336</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-13-336_n0034.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/336,034</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Hysterie in zehnter Auflage</head>
+            <p ana="pr72740">
+<space/>»Lebhaftes Aufsehen erregt die abenteuerliche Flucht einer<lb/>
+17jährigen Komtesse <seg type="symbol" subtype="3dots"/> Das Fräulein erzählte, es sei seit dem dritten<lb/>
+Lebensjahre in einem verrufenen Hause in Nizza gewesen und in diesem<lb/>
+Milieu aufgewachsen und habe dort bis vor wenigen Wochen gelebt <seg type="symbol" subtype="3dots"/><lb/>
+<seg type="spc">Dem Kriminalkommissär</seg>, dem, im Gegensatze zum Priester und<lb/>
+zur Schwester, <seg type="spc">die einschlägige Literatur</seg> vertraut war, <seg type="spc">fiel<lb/>
+sofort die Ähnlichkeit</seg> der Schilderungen mit den Erzählungen auf,<lb/>
+welche <seg type="insult"><seg type="spc">der bekannte Roman von <rs type="pers" ana="n_52517" ref="#fk__p_46832">Else Jerusalem</rs></seg> ‚<rs type="title">Der heilige<lb/>
+Skarabäus</rs>‘</seg> enthielt. Das junge Mädchen hatte sich offenbar das<lb/>
+Schicksal der <rs type="pers">Milada</rs> zurechtgelegt. Wenn man die Schilderungen des<lb/>
+Mädchens von dem Hause in Nizza hörte, glaubte man sich an den<lb/>
+Schauplatz dieses Romanes versetzt. Dem Kommissär kam die Sache<lb/>
+nicht ganz geheuer vor <seg type="symbol" subtype="4dots"/>«<lb/>
+</p>
+            <p ana="pr72742">
+<space/>Mir auch nicht.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46832">
+               <persName>Jerusalem, Else, geb. Kotányi</persName>
+               <birth>
+                  <date>1877-11-23</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1942</date>
+                  <place>Buenos Aires</place>
+               </death>
+               <occupation>Schriftstellerin</occupation>
+               <note type="comment">Hauptfigur ihres Romans "Der heilige Skarabäus" ist Milada</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11829</idno></person>
+            </listPerson></back></text>
+</TEI>

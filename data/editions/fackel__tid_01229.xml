@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01229.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01228.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01230.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Neugieriger Leser. (Ein geistvoller Deutscher), in: Fackel Heft 02, Nr. 052, 1900, S. 26-26</title>
+            <title type="iso-date">1900-09-01</title>
+            <title type="id">tid_01229</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">052</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-052_n0026.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/052,026</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Neugieriger Leser. (Ein geistvoller Deutscher)</head>
+            <p ana="pr11773">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_9614" ref="#fk__p_50610">Neugieriger Leser</rs>.</seg></seg> Sie machen mich auf das Referat des Herrn<lb/>
+<rs type="pers" ana="n_9615" ref="#fk__p_37986">Landesberg</rs> in der ‚<rs type="paper" ana="werk_3623">Oesterreichischen Volkszeitung</rs>‘ über eine Novität<lb/>
+des <rs type="inst">Josefstädter Theaters</rs> aufmerksam und fragen, wer <seg type="insult">der »<seg type="spc">geistvolle<lb/>
+ Deutsche <rs type="pers" ana="n_9616" ref="#fk__p_49288">Ludwig Fischl</rs></seg>«</seg> ist, den, wie’s in der Recension<lb/>
+ hieß, die Komödie zum Bearbeiter hat. Natürlich ein <seg type="insult">Redactionscollege<lb/>
+ des Deutschen <rs type="pers" ana="n_9617" ref="#fk__p_37986">Landesberg</rs></seg>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_50610">
+               <persName>Neugieriger Leser</persName>
+            </person>
+            <person xml:id="fk__p_37986">
+               <persName>Landesberg, Alexander</persName>
+               <birth>
+                  <date>1846-7-14</date>
+                  <place>Großwardein</place>
+               </birth>
+               <death>
+                  <date>1916-6-14</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Localzugs-Studien in der "Sonn- und Montags-Zeitung" Herr Bachsteiner ist eine Figur</note>
+               <note type="comment">"Schnüfferl "Aus dem Souffleurkasten"</note>
+               <note type="comment">lBachsteiner, von Ögg als Journalist ident., ist Figur. Siehe z. B. So- u. Mo.Ztg. 23.6.02</note>
+               <note type="comment">Ögg gibt ihm 378/24 mit Fragezeichen, wohl als vermutetem Autor des Zitats</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2577</idno></person>
+            <person xml:id="fk__p_49288">
+               <persName>Fischl, Ludwig</persName>
+               <birth>
+                  <date>1853-9-2</date>
+                  <place>Meritschau</place>
+               </birth>
+               <death>
+                  <date>1918-7-3</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Dramaturg</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/3319</idno></person>
+            </listPerson></back></text>
+</TEI>

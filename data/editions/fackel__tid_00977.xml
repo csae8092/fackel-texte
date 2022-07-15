@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00977.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00976.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00978.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Den Lehrern der Handelsakademie. (Den Lehrern der Handelsakademie), in: Fackel Heft 02, Nr. 041, 1900, S. 30-30</title>
+            <title type="iso-date">1900-05-01</title>
+            <title type="id">tid_00977</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">041</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-041_n0030.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/041,030</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Den Lehrern der Handelsakademie. (Den Lehrern der Handelsakademie)</head>
+            <p ana="pr9438">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i">Den Lehrern der <rs type="inst">Handelsakademie</rs>.</seg></seg></seg> Ich habe nie bezweifelt,<lb/>
+dass die <seg type="insult">Söhne von Bankdirectoren und Großindustriellen</seg> <seg type="insult">ein gutes<lb/>
+Leben an der Anstalt des Herrn <rs type="pers" ana="n_7677" ref="#fk__p_41773">Sonndorfer</rs> und Aussicht auf einen<lb/>
+natürlichen Tod</seg> haben. Da gab’s <abbr>z. B.</abbr> <seg type="insult">einen Neffen des <rs type="inst"><rs type="pers" ana="n_7678" ref="#fk__p_52741">Länderbank-Hahn<lb/>
+</rs></rs></seg>, der zwar ein schlechter Schüler, aber in dem Moment<lb/>
+gerettet war, als man <seg type="insult">Herrn <rs type="pers" ana="n_7679" ref="#fk__p_41773">Sonndorfer</rs></seg> mit <seg type="insult">hundert Bücklingen</seg><lb/>
+<seg type="insult">den besorgten Onkel</seg> bis zur Thür des Schulgebäudes begleiten<lb/>
+sah. <seg type="insult">Ein Sohn des berüchtigten <rs type="pers" ana="n_7680" ref="#fk__p_53920"><seg type="spc">Thalberg</seg></rs></seg> machte seit der Zeit, da<lb/>
+<seg type="insult">ein begeisterter Artikel über die Erziehungsmethode des Herrn<lb/>
+<rs type="pers" ana="n_7681" ref="#fk__p_41773">Sonndorfer</rs></seg> im ‚<rs type="" ana="werk_2663">Capitalist</rs>‘ erschien, auffallende Fortschritte. An dem<lb/>
+Aufkommen des jungen <rs type="pers" ana="n_7682" key="#fk__p_60273"><seg type="spc">Dreher</seg></rs> hat man allgemein gezweifelt. Er<lb/>
+brachte nur »Siebener« nachhause und kam am Ende doch glücklich<lb/>
+durch. Nachträglich hat einer von Ihnen auf Interpellation eines<lb/>
+ehemaligen Collegen <rs type="pers" ana="n_7683" key="#fk__p_60273">Drehers</rs>, der um des Räthsels Lösung bat,<lb/>
+frank und frei geantwortet: »Die Söhne der Großindustriellen muss<lb/>
+man unterstützen!«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_41773">
+               <persName>Sonndorfer, Rudolf</persName>
+               <birth>
+                  <date>1839-4-14</date>
+                  <place>Böhmischkrut</place>
+               </birth>
+               <death>
+                  <date>1910-12-04</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Lehrer an d. Wiener Handelsakademie</occupation>
+            </person>
+            <person xml:id="fk__p_53920">
+               <persName>Thalberg, Josef</persName>
+               <birth>
+                  <date>1838-6-24</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1902-12-8</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Kaufmann</occupation>
+               <occupation>Bankier</occupation>
+               <occupation>Publizist</occupation>
+               <note type="comment">kais. ottomanischer Generalkonsul</note>
+               <note type="comment">Großhändler</note>
+               <note type="comment">Eig. des Finanzblattes "Der Kapitalist"</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/41894</idno></person>
+            <person xml:id="fk__p_52741">
+               <persName>Hahn, Samuel Ritter von</persName>
+               <birth>
+                  <date>1837-3-15</date>
+                  <place>Ungarisch-Ostrau</place>
+               </birth>
+               <death>
+                  <date>1915-12-14</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Bankier</occupation>
+               <note type="comment">ZF, 1. Tor Gruppe 7/Reihe 1/ Grab Nr. 20</note>
+               <note type="comment">Gründer der Länderbank</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

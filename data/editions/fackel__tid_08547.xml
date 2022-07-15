@@ -1,0 +1,48 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_08547.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08546.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08548.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Es kann passieren, in: Fackel Heft 20, Nr. 484, 1918, S. 223-223</title>
+            <title type="iso-date">1918-10-01</title>
+            <title type="id">tid_08547</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">20</title><title type="heft">484</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-20-484_n0223.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/484,223</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Es kann passieren</head>
+            <p ana="pr112139">
+daß ein Artikel, der die Demission <seg type="insult">des Herrn <rs type="pers" ana="n_69619" ref="#fk__p_40948"><abbr>v.</abbr> Seidler</rs></seg> verlangt,<lb/>
+<seg type="insult">»<rs type="title">der nötige Ernst</rs>«</seg> betitelt ist und die Forderung aufstellt, es<lb/>
+müsse dem Volke die Gewißheit werden, daß er »oben nicht<lb/>
+fehlt«. Darum eben hat sich die Sache so lange hingezogen.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_40948">
+               <persName>Seidler-Feuchtenegg, Ernst Ritter von</persName>
+               <birth>
+                  <date>1862-6-5</date>
+                  <place>Schwechat</place>
+               </birth>
+               <death>
+                  <date>1931-1-23</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Bankdirektor</occupation>
+               <note type="comment">Friedhof Dornbach</note>
+               <note type="comment">Sohn Ernst 6.12.1888 bis 9.1.1958, verh. 1. Anna (1883-1939), 2. Josefine (1895-?)</note>
+               <note type="comment">Ministerpräsident 23.6.17-25.7.18</note>
+               <note type="comment">Italo-Wiener Creditbank</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_20031</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2530</idno></person>
+            </listPerson></back></text>
+</TEI>

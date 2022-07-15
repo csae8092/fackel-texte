@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02338.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02337.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02339.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Bibliophile. (Von der Universitätsbibliothek), in: Fackel Heft 03, Nr. 099, 1902, S. 23-24</title>
+            <title type="iso-date">1902-04-8</title>
+            <title type="id">tid_02338</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">03</title><title type="heft">099</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-03-099_n0023.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/099,023</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Bibliophile. (Von der Universitätsbibliothek)</head>
+            <p ana="pr22744">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_19798" key="#fk__p_39227">Bibliophile</rs>.</seg></seg> Sie klagen, dass die <rs type="inst">Universitätsbibliothek</rs> zu wenig<lb/>
+Dienerpersonal habe? An Dienern fehlt es wohl nicht, aber sie können<lb/>
+</p>
+            <p ana="pr22744">
+den Besuchern der Bibliothek nicht zur Verfügung stehen, weil sie mit<lb/>
+wichtigeren Arbeiten überhäuft sind. So müssen <abbr>z. B.</abbr> in der <rs type="inst">Universitätsbibliothek<lb/>
+</rs> sämmtliche Theaterzettel geordnet werden, was nicht wenig<lb/>
+Zeit in Anspruch nimmt. Nachher werden sie natürlich, wie alle Pflichteinsendungen<lb/>
+, auch gebunden. Die ‚<rs type="self" ana="werk_7608">Fackel</rs>‘ hat schon einmal darauf<lb/>
+verwiesen, dass die Kosten der Einbände von Pflichtsendungen einen<lb/>
+immer grösseren Theil der Dotation, welche die <rs type="inst">Universitätsbibliothek</rs><lb/>
+bezieht, verschlingen und dass infolge dessen die Neuanschaffungen<lb/>
+immer spärlicher werden. Aber was liegt schliesslich daran, dass <abbr>z. B.</abbr><lb/>
+ein künftiger Theaterhistoriker in der <rs type="inst">Universitätsbibliothek</rs> die wichtigsten<lb/>
+theatergeschichtlichen Werke vermissen wird? Für Originalforschung wird<lb/>
+er trotzdem dort schätzbares Material finden. Die dicken Volumina, in<lb/>
+denen sämmtliche Theaterzettel von <rs type="inst"><rs type="pers" ana="n2_1506" ref="#fk__p_40261">Danzers</rs> Orpheum</rs> und dem Sommertheater<lb/>
+ in »<rs type="inst">Venedig in Wien</rs>« vereinigt sind, werden es ihm nebst den<lb/>
+Zeitungsbänden, die <seg type="insult">zahllose Reclamen für <rs type="pers" ana="n_19799" ref="#fk__p_44157">Gabor Steiner</rs></seg> enthalten,<lb/>
+leicht machen, das Bild <seg type="insult">der culturhistorisch so bedeutungsvollen Wirksamkeit<lb/>
+ dieses Mannes</seg> zu zeichnen. Und die Frage, wann zum erstenmal<lb/>
+und ob wirklich an allen folgenden Tagen im englischen Garten »<rs type="title">Die<lb/>
+Landstreicher</rs>« gespielt wurden, wird jederzeit auf Grund zuverlässiger<lb/>
+Documente beantwortet werden können. Beim Ordnen <seg type="insult">sämmtlicher <rs type="pers" ana="n_19800" ref="#fk__p_44157">Gabor<lb/>
+ Steiner’scher Programmzettel</rs></seg> wurde neulich keuchend ein Diener<lb/>
+der <rs type="inst">Wiener Universitätsbibliothek</rs> betreten.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_44157">
+               <persName>Steiner, Gabor</persName>
+               <birth>
+                  <date>1858-5-28</date>
+                  <place>Temesvar/Siebenbürgen</place>
+               </birth>
+               <death>
+                  <date>1944-9-9</date>
+                  <place>Beverly Hills/Kalif.</place>
+               </death>
+               <occupation>Theaterleiter</occupation>
+               <note type="comment">IKG: 02.04.1858 als Geburtsdatum</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/62837</idno></person>
+            <person xml:id="fk__p_40261">
+               <persName>Danzer, Eduard</persName>
+               <birth>
+                  <date>1836-5-15</date>
+                  <place>Sangerberg/Böhmen</place>
+               </birth>
+               <death>
+                  <date>1906-10-1</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Realitätenbesitzer</occupation>
+               <occupation>Gastwirt</occupation>
+               <occupation>Varietédirektor</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

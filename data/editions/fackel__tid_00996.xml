@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00996.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00995.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00997.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Das Prädicat des Herrn Doczi.), in: Fackel Heft 02, Nr. 042, 1900, S. 19-19</title>
+            <title type="iso-date">1900-05-01</title>
+            <title type="id">tid_00996</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">042</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-042_n0019.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/042,019</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Das Prädicat des Herrn Doczi.)</head>
+            <p ana="pr9611">
+<space/><seg type="insult"><inciptit>Wieder</inciptit> ein Erfolg der auswärtigen Politik Oesterreichs!</seg><lb/>
+<seg type="insult">Herrn <rs type="pers" ana="n_7792" ref="#fk__p_40507"><seg type="spc">Doczi’s</seg></rs></seg> Name ist verlängert worden. Der <seg type="insult">Mann</seg>, der die<lb/>
+<seg type="insult">Presscampagne zu Gunsten <rs type="pers" ana="n_7793" ref="#fk__p_48031">Milans</rs></seg> so wacker geleitet hat, darf sich<lb/>
+jetzt <seg type="insult">»<rs type="pers" ana="n_7794" ref="#fk__p_40507"><seg type="spc">Doczi de Nemet Keresztur</seg></rs>«</seg> nennen. <seg type="insult">Herrn <rs type="pers" ana="n_7795" ref="#fk__p_44673">Goluchowski</rs></seg><lb/>
+war es peinlich, dass der Name seines Sectionschefs immer wieder<lb/>
+in Zusammenhang mit der <seg type="insult">Wiener und Budapester Schmutzpresse</seg><lb/>
+genannt wurde. <seg type="insult">Herr <rs type="pers" ana="n_7796" ref="#fk__p_40507">Doczi</rs></seg> muss <seg type="insult">seine journalistischen Verbindungen</seg><lb/>
+nicht aufgeben. Aber sein Name ist jetzt schwerer auszusprechen.<lb/>
+Recht bezeichnend ist es jedenfalls, dass einem Mann, der mit <seg type="insult">Presssachen<lb/>
+</seg> so viel zu thun hat, ein Adelsprädicat verliehen wurde, in<lb/>
+dem das Wörtchen <seg type="insult">»<seg type="spc">Nemet</seg>«</seg> vorkommt.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_40507">
+               <persName>Dóczi-Nemet, Ludwig Freiherr von </persName>
+               <birth>
+                  <date>1845-11-27</date>
+                  <place>Deutschkreuz</place>
+               </birth>
+               <death>
+                  <date>1919-8-29</date>
+                  <place>Budapest</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <occupation>Publizist</occupation>
+            </person>
+            <person xml:id="fk__p_48031">
+               <persName>Milan I. Obrenović, König von Serbien</persName>
+               <birth>
+                  <date>1854-8-22</date>
+                  <place>Jassy</place>
+               </birth>
+               <death>
+                  <date>1901-2-11</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>König</occupation>
+            </person>
+            <person xml:id="fk__p_44673">
+               <persName>Goluchowski, Agenor Graf</persName>
+               <birth>
+                  <date>1849-03-25</date>
+                  <place>Lemberg</place>
+               </birth>
+               <death>
+                  <date>1921-03-28</date>
+                  <place>Lemberg</place>
+               </death>
+               <occupation>Diplomat</occupation>
+               <occupation>Politiker</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

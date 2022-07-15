@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06113.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06112.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06114.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Türkei und Presse, in: Fackel Heft 14, Nr. 370, 1913, S. 8-9</title>
+            <title type="iso-date">1913-03-01</title>
+            <title type="id">tid_06113</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">14</title><title type="heft">370</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-14-370_n0008.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/370,008</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Türkei und Presse</head>
+            <p ana="pr82476">
+Konstantinopel, <date>1. Februar</date>.<lb/>
+</p>
+            <p ana="pr82477">
+<space/>Der Minister des Äußern <rs type="pers" ana="n_57743" ref="#fk__p_51728">Prinz Said Halim</rs> erklärte mir heute,<lb/>
+nachdem er mit dem <rs type="pers" ana="n_57744" ref="#fk__p_49748">Markgrafen Pallavicini</rs> in der <rs type="inst">österreichischen<lb/>
+Botschaft</rs> eine halbstündige Unterredung gehabt hatte:<lb/>
+</p>
+            <p ana="pr82478">
+<space/>»Die Lage ist unverändert. <seg type="spc">Rechnen Sie vorläufig noch<lb/>
+immer</seg> mit dem Wiederbeginn der Feindseligkeiten.«<lb/>
+</p>
+            <p ana="pr82480">
+<space/>Wenn es nicht ein Rat ist, <foreign xml:lang="fr">à la baisse</foreign> vorzugehen, sondern<lb/>
+wirklich die Anerkennung einer <seg type="insult">Großmacht</seg>, die vom Wiederbeginn<lb/>
+der Feindseligkeiten verständigt werden muß, dann gibt’s noch<lb/>
+eine Rettung. Ein <seg type="insult">Harem</seg> geht unter, und <seg type="insult">die türkischen Würdenträger<lb/>
+</seg> werden <seg type="insult">Eunuchen</seg> in einem Bordell.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_49748">
+               <persName>Pallavicini, Johann Markgraf von</persName>
+               <birth>
+                  <date>1848-03-18</date>
+                  <place>Padua</place>
+               </birth>
+               <death>
+                  <date>1941-5-04</date>
+                  <place>Pusztaradvány/Ung.</place>
+               </death>
+               <occupation>Diplomat</occupation>
+            </person>
+            <person xml:id="fk__p_51728">
+               <persName>Said Halim Pascha</persName>
+               <birth>
+                  <date>1864-2-19</date>
+                  <place>Shubra/Kairo</place>
+               </birth>
+               <death>
+                  <date>1921-12-7</date>
+                  <place>Rom</place>
+               </death>
+               <occupation>Politiker</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

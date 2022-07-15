@@ -1,0 +1,93 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00399.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00398.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00400.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Vor dem Courssturz der Gerechtigkeit., in: Fackel Heft 01, Nr. 016, 1899, S. 25-26</title>
+            <title type="iso-date">1899-09-01</title>
+            <title type="id">tid_00399</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">016</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-016_n0025.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/016,025</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Vor dem Courssturz der Gerechtigkeit.</head>
+            <p ana="pr3658">
+<space/>Ich erhalte folgenden Specialbericht:<lb/>
+</p>
+            <p ana="pr3660">
+<space/><seg type="insult">Die Freunde der Wahrheit an der <rs type="inst">Wiener Börse</rs></seg> waren Samstag<lb/>
+vormittags mit trüben Gesichtern umhergeschlichen. In Rennes stand<lb/>
+es übel und die Course wichen. Da plötzlich, es war gegen halb<lb/>
+zwei Uhr, entstand heftige Aufregung; alles drängte einem Manne<lb/>
+entgegen, der eine Depesche umherzeigend am Schranken stand:<lb/>
+Director <rs type="pers" ana="n_2587" ref="#fk__p_57412"><seg type="spc">Wiedmann</seg></rs> von der <rs type="inst"><seg type="spc">Unionbank</seg></rs> hatte aus Berlin die<lb/>
+erste Depesche bekommen, in der aus Frankfurt über Brüssel der<lb/>
+Ausgang des Processes gemeldet wurde: <seg type="spc"><rs type="pers" ana="n_2588" ref="#fk__p_38056">Dreyfus</rs> freigesprochen</seg>.<lb/>
+Ein Sturm erhebt sich und wirbelt den Cours der <seg type="spc">Alpinen Montanactien<lb/>
+</seg> in die Höhe. Erstaunt fragt ein Nebenstehender: Ja, hat denn<lb/>
+<rs type="pers" ana="n_2589" ref="#fk__p_38056">Dreyfus</rs> sofort nach seiner Freisprechung Kaufordres gegeben?<lb/>
+Genug, die Hausse dauert fort <seg type="symbol" subtype="3dots"/> Es vergeht eine <seg type="ELIDASH">Viertelstunde</seg>, eine halbe<lb/>
+Stunde — es kommt keine weitere Nachricht. Man wird verstimmt;<lb/>
+man hört, dass der Gerichtshof in Rennes um ¼ 11 Uhr — das ist<lb/>
+in Wien circa ¼ 12 Uhr — die Sitzung wieder aufgenommen habe,<lb/>
+um <rs type="pers" ana="n_2590" ref="#fk__p_40360">Demange</rs> sein Plaidoyer beendigen zu lassen; sollte so rasch<lb/>
+alles beendet und vor jedermann außer der Wiener <rs type="inst">Unionbank</rs> die<lb/>
+Sache bis auf weiteres geheimgehalten worden sein? Schließlich<lb/>
+</p>
+            <p ana="pr3660">
+ward man »flau«, und Alpine »schwächten sich ab«. <seg type="insult">Die Freunde<lb/>
+der Wahrheit</seg> aber müssen trauern: Denn die Wahrheit, die schon so<lb/>
+lange <foreign xml:lang="fr">en marche</foreign> ist, muss noch weiter marschieren; die <rs type="inst">Wiener<lb/>
+Börse</rs> will sie nicht herbergen.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_40360">
+               <persName>Demange, Charles Gabriel Edgar</persName>
+               <birth>
+                  <date>1841</date>
+                  <place>Versailles</place>
+               </birth>
+               <death>
+                  <date>1925</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Rechtsanwalt</occupation>
+               <note type="comment">Rechtsanwalt der Familie Dreyfus</note>
+            </person>
+            <person xml:id="fk__p_57412">
+               <persName>Wiedmann, Otto</persName>
+               <birth>
+                  <date>1846-5-23</date>
+                  <place>Bielitz</place>
+               </birth>
+               <death>
+                  <date>1913-10-19</date>
+                  <place>Brioni</place>
+               </death>
+               <occupation>Bankdirektor</occupation>
+               <note type="comment">seine Cousine ist mit Adolph Goldberg verheiratet</note>
+               <note type="comment">Börse-Rat, 1. Schottenbastei 5</note>
+               <note type="comment">Unionbank</note>
+            </person>
+            <person xml:id="fk__p_38056">
+               <persName>Dreyfus, Alfred</persName>
+               <birth>
+                  <date>1859-10-9</date>
+                  <place>Mühlhausen</place>
+               </birth>
+               <death>
+                  <date>1935-7-12</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Offizier</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/4216</idno></person>
+            </listPerson></back></text>
+</TEI>

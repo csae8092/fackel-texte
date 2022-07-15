@@ -1,0 +1,43 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03318.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03317.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03319.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Paralytiker. (Endlich ein Originalbeitrag!), in: Fackel Heft 05, Nr. 146, 1903, S. 31-31</title>
+            <title type="iso-date">1903-11-11</title>
+            <title type="id">tid_03318</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">05</title><title type="heft">146</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-05-146_n0031.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/146,031</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Paralytiker. (Endlich ein Originalbeitrag!)</head>
+            <p ana="pr32788">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="n_28327" key="#fk__p_51127">Paralytiker</rs>.</seg></seg></seg> Das ‚<rs type="paper" ana="werk_12297">Neue Wiener Journal</rs>‘ brachte am <date>27. Oktober<lb/>
+</date> die folgende <seg type="insult">»Personalnachricht«</seg>: »<seg type="spc">Der großbritannische<lb/>
+Gesandte in Klagenfurt</seg> <rs type="pers" ana="n_28328" ref="#fk__p_53348">Sir Edward Goschen</rs> hat sich gestern<lb/>
+von hier nach Kopenhagen begeben.« <seg type="symbol" subtype="3dots"/> <seg type="insult">Der erste wirkliche Originalbeitrag<lb/>
+</seg>, den das <rs type="paperRef" ana="werk_12298">Blatt</rs> seit zehn Jahren gebracht hat!<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_53348">
+               <persName>Goschen, Sir Edward</persName>
+               <birth>
+                  <date>1847-07-18</date>
+                  <place>London</place>
+               </birth>
+               <death>
+                  <date>1924-05-20</date>
+                  <place>London</place>
+               </death>
+               <occupation>Diplomat</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

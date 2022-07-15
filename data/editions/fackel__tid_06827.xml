@@ -1,0 +1,99 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06827.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06826.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06828.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Die Großen, in: Fackel Heft 16, Nr. 400, 1914, S. 18-19</title>
+            <title type="iso-date">1914-01-01</title>
+            <title type="id">tid_06827</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">16</title><title type="heft">400</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-16-400_n0018.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/400,018</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Die Großen</head>
+            <p ana="pr91818">
+<space/>Norwegen hat seinen <rs type="pers" ana="n_62294" ref="#fk__p_45852">Ibsen</rs>, Schweden seinen <rs type="pers" ana="n_62295" ref="#fk__p_38582">Strindberg</rs><lb/>
+und Dänemark <seg type="insult"><seg type="spc">seinen <rs type="pers" ana="n_62296" ref="#fk__p_44279">Brandes</rs></seg></seg> — soll im <rs type="paper" ana="werk_20236">Neuen Wiener<lb/>
+Journal</rs> erklärt worden sein. Und nur Deutschland war so<lb/>
+großmütig, zu verzichten und <seg type="insult">seinen <rs type="pers" ana="n_62297" ref="#fk__p_46698">Lippowitz</rs></seg> an Österreich<lb/>
+abzutreten, das doch ohnehin schon <seg type="insult">seinen <rs type="pers" ana="n_62298" ref="#fk__p_43175">Salten</rs></seg> hat.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_44279">
+               <persName>Brandes, Georg</persName>
+               <birth>
+                  <date>1842-2-4</date>
+                  <place>Kopenhagen</place>
+               </birth>
+               <death>
+                  <date>1927-2-19</date>
+                  <place>Kopenhagen</place>
+               </death>
+               <occupation>Literarhistoriker</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10992</idno></person>
+            <person xml:id="fk__p_45852">
+               <persName>Ibsen, Henrik</persName>
+               <birth>
+                  <date>1828-3-20</date>
+                  <place>Skien</place>
+               </birth>
+               <death>
+                  <date>1906-5-23</date>
+                  <place>Christiania</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment"/>
+               <note type="comment">Ögg ordnet 368/49 Baumeister Solneß Strindberg zu</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11798</idno></person>
+            <person xml:id="fk__p_46698">
+               <persName>Lippowitz, Jakob (Siegmund)</persName>
+               <birth>
+                  <date>1865-10-9</date>
+                  <place>Leipzig</place>
+               </birth>
+               <death>
+                  <date>1934-7-4</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17583</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/4054</idno></person>
+            <person xml:id="fk__p_38582">
+               <persName>Strindberg, August</persName>
+               <birth>
+                  <date>1849-1-22</date>
+                  <place>Stockholm</place>
+               </birth>
+               <death>
+                  <date>1912-5-14</date>
+                  <place>Stockholm</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12877</idno></person>
+            <person xml:id="fk__p_43175">
+               <persName>Salten, Felix</persName>
+               <birth>
+                  <date>1869-9-6</date>
+                  <place>Budapest</place>
+               </birth>
+               <death>
+                  <date>1945-10-8</date>
+                  <place>Zürich</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Zuordnung von 77/9: Saltens Vater stammte aus Miskolcz</note>
+               <note type="comment">Ögg gibt 249/15 sowohl Salten als auch Friedrich Schütz</note>
+               <note type="comment">Bruder Michael Emil Salzmann, gest. Wien 26.06.1908, im 50. Lj.</note>
+               <note type="comment">Der Gemeine, S. 60f. (O du mein Österreich), F 514/23</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2167</idno></person>
+            </listPerson></back></text>
+</TEI>

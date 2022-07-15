@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_09197.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09196.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09198.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ebenda, 13. Mai, 8 Uhr:, in: Fackel Heft 24, Nr. 595, 1922, S. 70-71</title>
+            <title type="iso-date">1922-07-01</title>
+            <title type="id">tid_09197</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">24</title><title type="heft">595</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-24-595_n0070.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/595,070</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ebenda, 13. Mai, 8 Uhr:</head>
+            <p ana="pr122374">
+<space/>Ebenda, <date>13. Mai</date>, 8 Uhr:<lb/>
+</p>
+            <p ana="pr122375">
+<space/><seg type="spc"><rs type="pers" ana="n_74883" ref="#fk__p_55589">Shakespeare</rs></seg>, <seg type="spc"><rs type="title">Die lustigen Weiber von Windsor</rs></seg> (mit<lb/>
+Vorwort). [Begleitung: <rs type="pers" ana="n_74884" ref="#fk__p_43973">Fritzi Pollak</rs>]<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_55589">
+               <persName>Shakespeare, William</persName>
+               <birth>
+                  <date>1564-4-23?</date>
+                  <place>Stratford-upon-Avon</place>
+               </birth>
+               <death>
+                  <date>1616-4-23</date>
+                  <place>Stratford-upon-Avon</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2412</idno></person>
+            <person xml:id="fk__p_43973">
+               <persName>Pollak, Friederike (Fritzi)</persName>
+               <birth>
+                  <date>1876-4-12</date>
+                  <place>Wien</place>
+               </birth>
+               <occupation>Pianistin</occupation>
+               <note type="comment">9., Pramergasse 12</note>
+               <note type="comment">Kalvierbegleiterin von KK</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

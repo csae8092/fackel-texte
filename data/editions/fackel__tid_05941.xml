@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_05941.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05940.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05942.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Der Finanzminister hat, in: Fackel Heft 14, Nr. 357, 1912, S. 69-69</title>
+            <title type="iso-date">1912-10-01</title>
+            <title type="id">tid_05941</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">14</title><title type="heft">357</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-14-357_n0069.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/357,069</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Der Finanzminister hat</head>
+            <p ana="pr79318">
+die Finanzsekretäre <rs type="pers" ana="n_56228" key="#fk__p_57065"><abbr>E. F.</abbr></rs>, <rs type="pers" ana="n_56229" key="#fk__p_59702"><abbr>M. W.</abbr></rs>, <rs type="pers" ana="n_56230" key="#fk__p_55121"><abbr>W. S.</abbr></rs>, <rs type="pers" ana="n_56231" key="#fk__p_57066"><abbr>E. F.</abbr></rs> und <rs type="pers" ana="n_56232" ref="#fk__p_41302"><abbr>Dr.</abbr> Julius<lb/>
+Preßfreund</rs> —<lb/>
+</p>
+            <p ana="pr79320">
+<space/>Was es für Sachen gibt! Ich las einst von einem Steuerbeamten<lb/>
+, der <rs type="pers" ana="n_56233" ref="#fk__p_47061">Josef Christenheit</rs> hieß. Ich mochte ihn nicht. Nun<lb/>
+aber denke ich oft mit Trauer an ihn.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_41302">
+               <persName>Preßfreund, Julius</persName>
+               <birth>
+                  <date>1870-7-29</date>
+                  <place>Zwittau/Mähren</place>
+               </birth>
+               <death>
+                  <date>1943-5-23</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Ministerialbeamter</occupation>
+               <note type="comment">Dr. Julius Preßfreund</note>
+               <note type="comment">18., Karl Beckgasse 37</note>
+               <note type="comment">Finanzsekretär</note>
+            </person>
+            <person xml:id="fk__p_47061">
+               <persName>Christenheit, Maximilian</persName>
+               <birth>
+                  <date>1876-9-2</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1947-11-30</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Finanzbeamter</occupation>
+               <note type="comment">Namenskorrektur!</note>
+               <note type="comment">Kanzleioffiziant bei der Steuer-Administration für den 4., 5. u. 10. Bezirk; 3., Rüdengasse 3</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

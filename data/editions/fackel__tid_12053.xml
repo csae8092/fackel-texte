@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_12053.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_12052.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_12054.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Jeden Sonntag, in: Fackel Heft 34, Nr. 876, 1932, S. 33-33</title>
+            <title type="iso-date">1932-10-01</title>
+            <title type="id">tid_12053</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">34</title><title type="heft">876</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-34-876_n0033.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/876,033</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Jeden Sonntag</head>
+            <p ana="pr175909">
+trifft <seg type="insult"><rs type="inst"><rs type="pers" ana="n2_9449" ref="#fk__p_47263">Krupnik</rs></rs>, der Freund des werktätigen Volkes</seg>, den <seg type="insult">populären<lb/>
+Ton</seg>:<lb/>
+</p>
+            <p ana="pr175911">
+<rs type="inst"><rs type="pers" ana="n2_9450" ref="#fk__p_47263">Krupnik-Preise</rs></rs><lb/>
+verbilligen Ferien, Urlaub und Reise!<lb/>
+</p>
+            <p ana="pr175913">
+So recht ins Ohr geht die schlichte Parole:<lb/>
+</p>
+            <p ana="pr175915">
+Das ist halt <rs type="inst"><rs type="pers" ana="n2_9451" ref="#fk__p_47263">Krupnik</rs></rs>!<lb/>
+</p>
+            <p ana="pr175917">
+Und man will uns sagen, daß das <seg type="insult"><seg ana="Zentralorgan"/></seg>, dessen er sich<lb/>
+für <seg type="insult">solche Intimität</seg> bedient, etwas gegen ihn hat? Gegen ihn<lb/>
+gar kämpft? Nimmermehr! Es baut auf ihn.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_47263">
+               <persName>Krupnik, Julius</persName>
+               <birth>
+                  <date>1877-11-5</date>
+                  <place>Trzowitz/Polen</place>
+               </birth>
+               <occupation>Kaufhausbesitzer</occupation>
+               <note type="comment">7., Kaiserstr. 111-115</note>
+               <note type="comment">verh. 1909 mit Olga Tausend</note>
+               <note type="comment">Emigration 1938 New York, 1947 Palästina</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

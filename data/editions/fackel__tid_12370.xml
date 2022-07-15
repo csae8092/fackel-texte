@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_12370.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_12369.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_12371.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">»Zeichen einer vielversprechenden Entwicklung«, in: Fackel Heft 37, Nr. 917, 1936, S. 73-74</title>
+            <title type="iso-date">1936-02-01</title>
+            <title type="id">tid_12370</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">37</title><title type="heft">917</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-37-917_n0073.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/917,073</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>»Zeichen einer vielversprechenden Entwicklung«</head>
+            <p ana="pr183919">
+Mit Recht wird gerade unter diesem Titel in Wien ein Zitat<lb/>
+aus dem Leitartikel des <seg ana="‚Česke Slovo‘"/> gebracht:<lb/>
+</p>
+            <p ana="pr183921">
+<seg type="spc">Wir haben anerkannt</seg> und anerkennen <seg type="spc">auch heute</seg>, daß sowohl<lb/>
+der brutal ermordete Kanzler <rs type="pers" ana="n_109104" ref="#fk__p_42698"><abbr>Dr.</abbr> Dollfuß</rs> als auch <rs type="pers" ana="n_109105" ref="#fk__p_41811"><abbr>Dr.</abbr> Schuschnigg</rs><lb/>
+</p>
+            <p ana="pr183921">
+ein verdienstvolles Werk von bleibender Bedeutung geschaffen<lb/>
+haben, wenn sie unter den schwierigsten Bedingungen ebenso tapfer<lb/>
+wie geschickt den Ansturm auf die österreichische Selbständigkeit abgewehrt<lb/>
+ haben. Wir haben deshalb <seg type="spc">mit Sympathie alle<lb/>
+Taten Österreichs verfolgt</seg>, die zur Festigung seiner Selbständigkeit<lb/>
+ geführt haben. <OMED>— —</OMED> Den Privatbesuch des österreichischen<lb/>
+Kanzlers betrachten wir als ein Zeichen einer <seg type="spc">vielversprechenden<lb/>
+Entwicklung <OMED>— —</OMED></seg><lb/>
+</p>
+            <p ana="pr183923">
+Nämlich <seg type="insult">der unwandelbaren Verehrer</seg>, die heute sagen müssen,<lb/>
+wofür sie den, der’s freiwillig vor zwei Jahren sagte, des <seg type="insult">»Widerspruchs<lb/>
+«</seg> geziehen haben. Zwar nicht — gelegentlich einer<lb/>
+unbezahlten Propagandafahrt — unter vier Augen; auch nicht<lb/>
+unter acht: es schien zu überzeugen, und ein <seg type="insult">Wortführer der<lb/>
+Prager Demokratie</seg>, der sich erklären ließ, was sie <rs type="pers" ana="n_109106" ref="#fk__p_42698">Dollfuß</rs><lb/>
+verdanke, sprach: »Da sieht man, der Dichter ist der wahre<lb/>
+Realpolitiker!«; und ein <seg type="insult">Dichter</seg> fand das gute Wort: »Man<lb/>
+wird Ihnen den Vorwurf machen, daß Sie sich widersprechen,<lb/>
+aber der <seg type="insult">Widerspruch</seg> ist in denen, die Ihnen den Vorwurf machen<lb/>
+werden.« Die so sprachen, mögen sich nicht widersprochen haben,<lb/>
+als sie es schwarz auf weiß hatten. Die <seg type="insult">Journalisten</seg> jedoch,<lb/>
+in Fragen der Gesinnung empfindlich, schöpften Verdacht auf<lb/>
+<seg type="insult">Schwarz</seg>. Die lassen keinen <seg type="insult">Widerspruch</seg> aufkommen. Da sie<lb/>
+unwandelbar sind, so können sie allenfalls in ihrer <seg type="insult">Verehrung</seg><lb/>
+der Person wanken, aber ihre Anerkennung der Sache, die von ihr<lb/>
+vertreten wurde, rückwirkend aussprechen und behaupten, daß<lb/>
+Sympathie im Spiel war, als sie alle Taten Österreichs verfolgten.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_42698">
+               <persName>Dollfuß, Engelbert</persName>
+               <birth>
+                  <date>1892-10-04</date>
+                  <place>Texing/Mank, NÖ</place>
+               </birth>
+               <death>
+                  <date>1934-07-25</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <note type="comment">zahlreiche 890er Stellen zu ergänzen: 14, 177, 183, 186, 264, 284f., 310</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/56719</idno></person>
+            <person xml:id="fk__p_41811">
+               <persName>Schuschnigg, Kurt von</persName>
+               <birth>
+                  <date>1897-12-14</date>
+                  <place>Riva/Gardasee</place>
+               </birth>
+               <death>
+                  <date>1977-11-18</date>
+                  <place>Mutters</place>
+               </death>
+               <occupation>Politiker</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38774</idno></person>
+            </listPerson></back></text>
+</TEI>

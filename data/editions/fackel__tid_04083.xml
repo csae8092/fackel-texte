@@ -1,0 +1,43 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_04083.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04082.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04084.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tetschen., in: Fackel Heft 07, Nr. 196, 1906, S. 4-5</title>
+            <title type="iso-date">1906-02-19</title>
+            <title type="id">tid_04083</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">07</title><title type="heft">196</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-07-196_n0004.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/196,004</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Tetschen.</head>
+            <p ana="pr42649">
+<space/>»Aus Tetschen wird gemeldet: »Vor dem hiesigen Bezirksgerichte<lb/>
+ hatte sich gestern die 18jährige Kellnerin <rs type="pers" ana="n_35214" ref="#fk__p_49786">Martha Knebel</rs><lb/>
+aus Dresden zu verantworten. Die Genannte hatte in der <DATERANGE>Nacht<lb/>
+vom 25. auf den 26. Jänner</DATERANGE> auf dem Perron des Bodenbacher<lb/>
+Bahnhofes in übermütiger Laune einem fremden Manne einen<lb/>
+Kuß gegeben. Der betreffende Herr ließ das Mädchen durch die<lb/>
+Bahnhofpolizei verhaften. Der Richter verurteilte die <seg type="insult">Kußräuberin</seg><lb/>
+zu 14 Tagen Arrests, verschärft durch 4 Fasttage. Nach verbüßter<lb/>
+Strafe wird die <rs type="pers" ana="n_35215" ref="#fk__p_49786">Knebel</rs> nach Dresden abgeschoben werden.«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_49786">
+               <persName>Knebel, Martha</persName>
+               <birth>
+                  <date>1888?</date>
+               </birth>
+               <occupation>Kellnerin</occupation>
+               <note type="comment">in Bodenbach</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

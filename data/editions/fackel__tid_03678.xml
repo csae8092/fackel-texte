@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03678.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03677.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03679.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Eine Erklärung des Vertreters August Strindberg’s, in: Fackel Heft 06, Nr. 167, 1904, S. 13-13</title>
+            <title type="iso-date">1904-10-26</title>
+            <title type="id">tid_03678</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">06</title><title type="heft">167</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-06-167_n0013.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/167,013</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Eine Erklärung des Vertreters August Strindberg’s</head>
+            <p ana="pr36718">
+<space/>Der Übersetzer der Werke <rs type="pers" ana="n_31493" ref="#fk__p_38582">August Strindberg’s</rs> ersucht mich<lb/>
+um die Aufnahme der folgenden<lb/>
+</p>
+            <p ana="pr36721">
+<space/>Am <date>1. August</date> wurde Schwedens Anschluß an die <rs type="title">Berner<lb/>
+Convention zum Schutze literarischen Eigentums</rs> perfekt. Unmittelbar<lb/>
+ vor Torschluß brachte der <rs type="inst"><seg type="spc">Wiener Verlag</seg></rs> eine Raubausgabe<lb/>
+ von <rs type="pers" ana="n_31494" ref="#fk__p_38582">Strindberg’s</rs> »<rs type="title">Ehegeschichten</rs>« (eigentlich »<rs type="title">Heiraten</rs>«)<lb/>
+in den Handel. Ist ein Verleger schon so unanständig, einen berühmten<lb/>
+, aber armen Autor wie <rs type="pers" ana="n_31495" ref="#fk__p_38582">Strindberg</rs> zu bestehlen, so sollten<lb/>
+wenigstens Sortimenter und kaufendes Publikum diesen Diebstahl<lb/>
+nicht unterstützen!<lb/>
+</p>
+            <p ana="pr36722">
+<space/>Berlin-Grunewald, <date>3. September 1904</date>.<lb/>
+</p>
+            <p ana="pr36723">
+<rs type="pers" ana="n_31496" ref="#fk__p_42643"><AUCTOR>Emil Schering</AUCTOR></rs><lb/>
+(als Übersetzer und Vertreter <rs type="pers" ana="n_31497" ref="#fk__p_38582">Strindberg’s</rs>)<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_42643">
+               <persName>Schering, Emil</persName>
+               <birth>
+                  <date>1873-04-14</date>
+                  <place>Minden/Hann.</place>
+               </birth>
+               <death>
+                  <date>1951-04-10</date>
+                  <place>Berlin</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Übersetzer</occupation>
+            </person>
+            <person xml:id="fk__p_38582">
+               <persName>Strindberg, August</persName>
+               <birth>
+                  <date>1849-1-22</date>
+                  <place>Stockholm</place>
+               </birth>
+               <death>
+                  <date>1912-5-14</date>
+                  <place>Stockholm</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12877</idno></person>
+            </listPerson></back></text>
+</TEI>

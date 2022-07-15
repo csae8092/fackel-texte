@@ -1,0 +1,100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00250.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00249.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00251.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Herr Bahr kennt Goethe nicht), in: Fackel Heft 01, Nr. 011, 1899, S. 30-30</title>
+            <title type="iso-date">1899-07-01</title>
+            <title type="id">tid_00250</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">011</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-011_n0030.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/011,030</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Herr Bahr kennt Goethe nicht)</head>
+            <p ana="pr2453">
+<space/><seg type="insult"><inciptit>Herr</inciptit> <rs type="pers" ana="n_1797" ref="#fk__p_45908">Bahr</rs></seg> spricht wohl wie <rs type="pers" ana="n_1798" ref="#fk__p_46960">Goethe</rs>, aber er kennt ihn nicht.<lb/>
+Beide Eigenschaften bewährt er in derselben Nummer der ‚<rs type="magazine" ana="werk_678">Zeit</rs><choice><sic>’</sic><corr>‘</corr></choice> (<date>8. Juli</date>).<lb/>
+Hier veröffentlicht er knapp vor seinen <seg type="insult">Auslassungen über den<lb/>
+dampfenden, wogenden Jüngling</seg> einen Artikel <seg type="insult">des Herrn <rs type="pers" ana="n_1799" ref="#fk__p_52558">Rudolf<lb/>
+Christoph Jenny</rs></seg>. <seg type="insult">Herr <rs type="pers" ana="n_1800" ref="#fk__p_52558">Jenny</rs></seg> beschreibt den Lebenslauf <rs type="pers" ana="n_1801" ref="#fk__p_37838">Adolf<lb/>
+Pichlers</rs> und widmet den Dorflehrern, unter denen die Jugend des<lb/>
+tirolischen Dichters zu leiden hatte, eine ironische Betrachtung.<lb/>
+Einer habe <rs type="pers" ana="n_1802" ref="#fk__p_46243">Homer</rs> als <seg type="insult">»groben Zoch«</seg> bezeichnet und über <rs type="pers" ana="n_1803" ref="#fk__p_46960">Goethes</rs><lb/>
+<rs type="title"><rs type="pers">Iphigenie</rs></rs> folgendes Urtheil abgegeben: <foreign xml:lang="de-loc">»Mei, wisst’s wohl, der<lb/>
+<rs type="pers" ana="n_1804" ref="#fk__p_46960">Goethe</rs> ist halt a <seg type="insult">Fack</seg></foreign> (tirolische Bezeichnung für ein sehr nützliches,<lb/>
+aber eben nicht sehr reinliches Hausthier) <foreign xml:lang="de-loc">g’west, und was ist dös<lb/>
+mit der <rs type="pers">Iphigenie</rs>? Dear <seg type="insult"><rs type="pers">Toas</rs></seg></foreign> (langweilige Kerl) <foreign xml:lang="de-loc">hat sie heiraten<lb/>
+wöll’n <abbr>u. s. w.</abbr>« —</foreign> Wir wissen also jetzt nicht nur, was auf tirolisch<lb/>
+<seg type="insult"><foreign xml:lang="de-loc">»Fack«</foreign></seg>, sondern auch, was <seg type="insult"><foreign xml:lang="de-loc">»<rs type="pers">Toas</rs>«</foreign></seg> bedeutet. <seg type="insult">Die Herren <rs type="pers" ana="n_1805" ref="#fk__p_52558">Jenny</rs> und<lb/>
+<rs type="pers" ana="n_1806" ref="#fk__p_45908">Bahr</rs></seg> halten den Namen — <seg type="spc"><rs type="pers">Thoas</rs></seg> — des um <rs type="pers">Iphigenie</rs> werbenden<lb/>
+Königs der Taurier für eine Dialectbezeichnung <seg type="symbol" subtype="4dots"/> Was bedeutet<lb/>
+<seg type="insult"><rs type="pers">Orestes</rs></seg>?<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46960">
+               <persName>Goethe, Johann Wolfgang von</persName>
+               <birth>
+                  <date>1749-8-28</date>
+                  <place>Frankfurt am Main</place>
+               </birth>
+               <death>
+                  <date>1832-3-22</date>
+                  <place>Weimar</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">890/142f.</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11461</idno></person>
+            <person xml:id="fk__p_45908">
+               <persName>Bahr, Hermann</persName>
+               <birth>
+                  <date>1863-7-19</date>
+                  <place>Linz</place>
+               </birth>
+               <death>
+                  <date>1934-1-15</date>
+                  <place>München</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Kritiker</occupation>
+               <note type="comment">Ögg teilt auch 307/52, 445/49, 800/67 (Rotte Korah) Bahr zu</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10815</idno></person>
+            <person xml:id="fk__p_52558">
+               <persName>Jenny, Rudolf Christoph</persName>
+               <birth>
+                  <date>1858-5-23</date>
+                  <place>Stuhlweißenburg</place>
+               </birth>
+               <death>
+                  <date>1917-2-18</date>
+                  <place>Graz</place>
+               </death>
+               <occupation>Offizier</occupation>
+               <occupation>Schauspieler</occupation>
+               <occupation>Schriftsteller</occupation>
+            </person>
+            <person xml:id="fk__p_46243">
+               <persName>Homer</persName>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2495</idno></person>
+            <person xml:id="fk__p_37838">
+               <persName>Pichler, Adolf</persName>
+               <birth>
+                  <date>1819-09-04</date>
+                  <place>Erl/Kufstein</place>
+               </birth>
+               <death>
+                  <date>1900-11-15</date>
+                  <place>Innsbruck</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Geologe</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/34875</idno></person>
+            </listPerson></back></text>
+</TEI>

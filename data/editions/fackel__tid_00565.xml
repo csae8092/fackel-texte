@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00565.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00564.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00566.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Fachmännische Gutachten über Tarnopoler Moral.), in: Fackel Heft 01, Nr. 023, 1899, S. 24-25</title>
+            <title type="iso-date">1899-11-01</title>
+            <title type="id">tid_00565</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">023</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-023_n0024.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/023,024</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Fachmännische Gutachten über Tarnopoler Moral.)</head>
+            <p ana="pr5291">
+<space/><inciptit>Ich</inciptit> weiß nicht, in wessen Hände das »<rs type="paperRef" ana="werk_1351">6 Uhr-Blatt</rs>« jetzt übergegangen<lb/>
+ ist; aber so viel steht fest, der Mann wird sie sich beim nächsten<lb/>
+Wechsel gewiss waschen wollen. Man erzählt, dass die <rs type="inst">Länderbank<lb/>
+</rs> <seg type="insult">die glückliche Besitzerin</seg> geworden sei. Möglich auch, dass ein<lb/>
+<seg type="insult">alter Zauber</seg> <seg type="insult">das <rs type="pers" ana="n_3950" ref="#fk__p_50393">Szeps’sche Blut</rs></seg> ausschließlich dem Polenclub verpflichtet<lb/>
+ hat. Für diese Annahme spricht, dass <seg type="insult">die Herren</seg> sich anlässlich<lb/>
+ des jüngsten galizischen Scandalprocesses gegen den Gebrauch<lb/>
+des Wortes von der <seg type="insult">»Tarnopoler Moral«</seg> gesträubt haben. Natürlich,<lb/>
+<seg type="insult">im Hause des Freigesprochenen</seg> spricht man nicht vom Strick! Da<lb/>
+war die ‚<rs type="paper" ana="werk_1352">Neue Freie Presse</rs>‘ schon muthiger. Sie rief »Haltet den<lb/>
+<seg type="insult">Dieb</seg>!«, gab Galizien preis und ließ zwischen den Zeilen durchblicken,<lb/>
+dass sie sich die <seg type="insult">Ausübung und Gutheißung der Tarnopoler Moral<lb/>
+in den zahlreichen übrigen im <rs type="inst">Reichsrathe</rs> vertretenen Königreichen<lb/>
+und Ländern</seg> vorbehalte. Bezüglich der Stellungnahme des ‚<rs type="paper" ana="werk_1353">Deutschen<lb/>
+Volksblatt</rs>‘ ist bloß zu erwähnen, dass das <seg type="insult"><rs type="paperRef" ana="werk_1354">Antisemitenblatt</rs></seg> als Haupttrumpf<lb/>
+ gegen <seg type="insult">Leute vom Schlage <rs type="pers" ana="n_3951" ref="#fk__p_53864">Szepanowskis</rs></seg> <seg type="insult">die bekannte treffende<lb/>
+Klimax: »Eiserne Stirne — Eiserne Cassa — Eiserne Krone«</seg> vorgebracht<lb/>
+ hat. Natürlich ohne Quellenangabe, da ja das Wort von<lb/>
+<seg type="insult"><rs type="pers" ana="n_3952" ref="#fk__p_40244">Daniel (!) Spitzer</rs> (!)</seg> herrührt.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_50393">
+               <persName>Szeps, Moriz</persName>
+               <birth>
+                  <date>1834-11-4</date>
+                  <place>Busk, Galizien</place>
+               </birth>
+               <death>
+                  <date>1902-8-9</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <note type="comment">Taufpate von Friedrich Wolff</note>
+               <note type="comment">Gründer des Neuen Wiener Tagblatt</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/25798</idno></person>
+            <person xml:id="fk__p_53864">
+               <persName>Szczepanowski, Stanislaw</persName>
+               <birth>
+                  <date>1846-12-12</date>
+                  <place>Koscianie/Polen</place>
+               </birth>
+               <death>
+                  <date>1900-10-31</date>
+                  <place>Bad Nauheim</place>
+               </death>
+               <occupation>Publizist</occupation>
+               <occupation>Politiker</occupation>
+               <occupation>Unternehmer</occupation>
+               <note type="comment">Das Elend Galiziens in Zahlen, und ein Programm der energischen Entwicklung der Wirtschaft des Landes, 1888</note>
+               <note type="comment">Reichsratsabgeordneter 1886-97</note>
+               <note type="comment">Grubenbesitzer in Lemberg</note>
+            </person>
+            <person xml:id="fk__p_40244">
+               <persName>Spitzer, Daniel </persName>
+               <birth>
+                  <date>1835-07-03</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1893-1-11</date>
+                  <place>Meran</place>
+               </death>
+               <occupation>Rechtsanwalt</occupation>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Journalist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/25237</idno></person>
+            </listPerson></back></text>
+</TEI>

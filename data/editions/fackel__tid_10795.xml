@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_10795.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10794.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10796.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">La vérité est en marche, in: Fackel Heft 28, Nr. 751, 1927, S. 12-12</title>
+            <title type="iso-date">1927-02-01</title>
+            <title type="id">tid_10795</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">28</title><title type="heft">751</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-28-751_n0012.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/751,012</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>La vérité est en marche</head>
+            <p ana="pr150285">
+»— — Man zeige uns das Zeitungsblatt, in dem sie, bevor <seg type="spc">wir ihn<lb/>
+gefällt</seg>, auch nur ein einzigesmal den Namen <rs type="pers" ana="n_90137" ref="#fk__p_46460">Bekessy</rs> genannt<lb/>
+hätten! — —«<lb/>
+</p>
+            <p ana="pr150288">
+»— — Es handelt sich um <seg type="insult">jene Schändlichkeit des <rs type="paperRef" ana="werk_24503"><rs type="pers" ana="n_90138" ref="#fk__p_46460">Bekessy-Blattes</rs></rs></seg>,<lb/>
+die damals so viel Empörung hervorgerufen hat, daß <seg type="spc">der Fall</seg> des<lb/>
+<rs type="pers" ana="n_90139" ref="#fk__p_46460">Bekessy</rs>, <seg type="spc">der schon begonnen hatte</seg>, unwiderruflich besiegelt<lb/>
+war — —«<lb/>
+</p>
+            <p ana="pr150291">
+»— — Diese ‚Leumundsnote‘ hat nun in dem <seg type="spc">berühmten Kampfe</seg>,<lb/>
+den <rs type="pers" ana="n_90140" ref="#fk__p_47565">Karl Kraus</rs> gegen <rs type="pers" ana="n_90141" ref="#fk__p_46460">Bekessy</rs> und seine Leute <seg type="spc">geführt hat</seg>, eine<lb/>
+Rolle gespielt — —«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_47565">
+               <persName>Kraus, Karl</persName>
+               <birth>
+                  <date>1874-4-28</date>
+                  <place>Jicin, Böhmen</place>
+               </birth>
+               <death>
+                  <date>1936-6-12</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Publizist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11988</idno></person>
+            <person xml:id="fk__p_46460">
+               <persName>Békessy, Imre</persName>
+               <birth>
+                  <date>1887-10-13</date>
+                  <place>Deutschkreuz</place>
+               </birth>
+               <death>
+                  <date>1951-3-15</date>
+                  <place>Budapest</place>
+               </death>
+               <occupation>Zeitungsverleger</occupation>
+               <note type="comment">Wikipedia gibt als Todesdatum an: "vor dem 17. März 1951"</note>
+               <note type="comment">Deutschkreuz</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37843</idno></person>
+            </listPerson></back></text>
+</TEI>

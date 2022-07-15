@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_09445.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09444.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09446.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Etymologie, in: Fackel Heft 25, Nr. 622, 1923, S. 39-39</title>
+            <title type="iso-date">1923-06-01</title>
+            <title type="id">tid_09445</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">25</title><title type="heft">622</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-25-622_n0039.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/622,039</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Etymologie</head>
+            <p ana="pr126091">
+<space/>Wenn Monarchisten auf richterliches Verständnis hoffen<lb/>
+dürfen, sobald sie Republikaner ermorden, so setzen sie es<lb/>
+umsomehr für jene Fälle voraus, wo sie sie nur beleidigen. Denn<lb/>
+hier können sie sich sogar damit rechtfertigen, daß sie es nicht<lb/>
+so gemeint haben. In dieser Methode werden täglich Fortschritte<lb/>
+erzielt. Während aber der Verteidiger <seg type="insult">des Herrn <rs type="pers" ana="n_77610" ref="#fk__p_46389">Hussarek</rs></seg> immerhin<lb/>
+ noch die Möglichkeit offen gelassen hat, daß das Wort<lb/>
+<seg type="insult">»Schurke«</seg> nicht nur »geschickt«, sondern auch »ehrlos« bedeute,<lb/>
+berief sich jetzt ein anderer monarchistischer Angeklagter, der<lb/>
+einen republikanischen Politiker <seg type="insult">»Schuft«</seg> genannt hatte, darauf,<lb/>
+daß dieses Wort überhaupt »keine Beleidigung sei: es stamme<lb/>
+aus dem Hebräischen <foreign xml:lang="he">‚Schofai‘</foreign> und dieses bedeute ‚Volksbeauftragter<lb/>
+‘ oder ‚Heerführer‘«. Damit konnte er natürlich kein<lb/>
+Glück haben, immerhin aber durch ehrliches Bestreben Sympathie<lb/>
+erwecken. Von vornherein verloren wäre dagegen ein Republikaner,<lb/>
+der etwa einen <rs type="pers" ana="n_77611" ref="#fk__p_45327">habsburgischen General</rs> einen <seg type="insult">Schurken</seg> und<lb/>
+<seg type="insult">Schuft</seg> genannt hätte. Denn daß er habe sagen wollen, jener sei<lb/>
+ein geschickter Heerführer, würde man ihm gewiß nicht glauben.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_45327">
+               <persName>Habsburg</persName>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/17702</idno></person>
+            <person xml:id="fk__p_46389">
+               <persName>Hussarek-Heinlein, Max Freiherr von</persName>
+               <birth>
+                  <date>1865-5-3</date>
+                  <place>Preßburg</place>
+               </birth>
+               <death>
+                  <date>1935-3-6</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Jurist</occupation>
+               <occupation>Politiker</occupation>
+               <note type="comment">1911-17 Minister f. Kultus u. Unterricht</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16420</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/7935</idno></person>
+            </listPerson></back></text>
+</TEI>

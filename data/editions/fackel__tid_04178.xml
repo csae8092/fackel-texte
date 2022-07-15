@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_04178.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04177.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04179.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Sammler. (Aus meiner Sammlung), in: Fackel Heft 08, Nr. 202, 1906, S. 28-28</title>
+            <title type="iso-date">1906-04-30</title>
+            <title type="id">tid_04178</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">08</title><title type="heft">202</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-08-202_n0028.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/202,028</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Sammler. (Aus meiner Sammlung)</head>
+            <p ana="pr44257">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="name_202356" ref="#fk__p_52736">Sammler</rs>.</seg></seg> ‚<rs type="paper" ana="werk_14583">Deutsches Volksblatt</rs>‘: »Der neuernannte Gesandte in<lb/>
+Wien <rs type="pers" ana="n_36095" ref="#fk__p_49043">Litchingmai</rs> stattete am jüngstverflossenen Samstag dem Minister<lb/>
+des Äußeren <rs type="pers" ana="n_36096" ref="#fk__p_44673">Grafen Goluchowski</rs> seine Antrittsvisite ab, zu welcher<lb/>
+derselbe im chinesischen Staatskleide erschien«. — Aus einem Rennbericht<lb/>
+ der ‚<rs type="paper" ana="werk_14584">Neuen Freien Presse</rs>‘: »In einer Loge Frau <rs type="pers" ana="n_36097" ref="#fk__p_59254">Wärndorfer</rs> mit<lb/>
+ihrer Tochter Frau <rs type="pers" ana="n_36098" ref="#fk__p_49030">Lisa des Renaudes</rs> und ihrer Schwiegertochter in<lb/>
+angenehm abgetönten Farben: Braun, Grün, Grau.«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_49030">
+               <persName>Sachs des Renaudes, Lisa, geb. Wärndorfer</persName>
+               <birth>
+                  <date>1872-4-28</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1958-5-20</date>
+                  <place>Beverly Hills</place>
+               </death>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_19508</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/23826</idno></person>
+            <person xml:id="fk__p_44673">
+               <persName>Goluchowski, Agenor Graf</persName>
+               <birth>
+                  <date>1849-03-25</date>
+                  <place>Lemberg</place>
+               </birth>
+               <death>
+                  <date>1921-03-28</date>
+                  <place>Lemberg</place>
+               </death>
+               <occupation>Diplomat</occupation>
+               <occupation>Politiker</occupation>
+            </person>
+            <person xml:id="fk__p_59254">
+               <persName>Wärndorfer, Bertha, geb. Neuman</persName>
+               <birth>
+                  <date>1844-7-31</date>
+                  <place>Preßburg</place>
+               </birth>
+               <death>
+                  <date>1921</date>
+                  <place>Bad Gastein</place>
+               </death>
+               <note type="comment">18., Weimarer Straße 76</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_21013</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/27383</idno></person>
+            <person xml:id="fk__p_49043">
+               <persName>Li Ching-Mai</persName>
+               <birth>
+                  <date>1876</date>
+               </birth>
+               <death>
+                  <date>1938</date>
+               </death>
+               <occupation>Diplomat</occupation>
+               <note type="comment">23.04 1906 der neuernannte chines. Gesandte in Wien, aber schon 1907 von Shên Jui-Lin abgelöst</note>
+               <note type="comment">Namenskorrektur!</note>
+               <note type="comment">Sohn des Li Hung-Chang</note>
+               <note type="comment">Kenneth E, Folsom, Friends, guests, and colleagues 1968, Seite 129</note>
+               <note type="comment">Eminent Chinese of the Ch'ing period (1644-1912)</note>
+               <note type="comment">chin. Ges. in Wien 1906/07</note>
+            </person>
+            <person xml:id="fk__p_52736">
+               <persName>Sammler</persName>
+            </person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,103 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02056.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02055.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02057.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Logiker. (Logisches), in: Fackel Heft 03, Nr. 086, 1901, S. 32-32</title>
+            <title type="iso-date">1901-11-26</title>
+            <title type="id">tid_02056</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">03</title><title type="heft">086</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-03-086_n0032.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/086,032</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Logiker. (Logisches)</head>
+            <p ana="pr20030">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="n_17149" ref="#fk__p_49080">Logiker</rs>.</seg></seg></seg> Eine Definition des Begriffes »Politik« ist sicherlich<lb/>
+schwer. Herr <rs type="pers" ana="n_17150" ref="#fk__p_40279"><seg type="spc">Davis</seg></rs>, der jetzt die ‚<rs type="" ana="werk_40161">Blitzblauen Briefe</rs>‘ herausgibt, sagt<lb/>
+in deren erstem, an die Clericalen adressierten, auf Seite 8: »Politik ist<lb/>
+die Kunst der erfolgreichen Anwendung politischer Mittel zu politischem<lb/>
+Zwecke.« Politische Mittel sind demnach jene Mittel, durch die die<lb/>
+Politik einen politischen Zweck erreicht, und völlig klar ist es dann,<lb/>
+dass ein politischer Zweck jener ist, zu dessen Erreichung sich die Politik<lb/>
+politischer Mittel bedient. <seg type="symbol" subtype="4dots"/> Auch <seg type="insult">Herr <rs type="pers" ana="n_17151" ref="#fk__p_52589">Rudolph <seg type="spc">Lothar</seg></rs></seg> hat<lb/>
+sich neulich als <seg type="insult">Logiker</seg> bewährt; und auch er gelegentlich der Anwendung<lb/>
+ des Wortes »politisch«. In einer Kritik über den »<rs type="title">Apostel</rs>«<lb/>
+schreibt er: »Er (<rs type="pers" ana="n_17152" ref="#fk__p_45908">Bahr</rs>) wollte dem <rs type="title"><rs type="pers">Nora-Stoff</rs></rs> die politische Seite abgewinnen<lb/>
+«. Offenbar hat <rs type="pers" ana="n_17153" ref="#fk__p_45852">Ibsen</rs>, da <rs type="pers">Hellmer</rs> ein Advocat ist, dem <seg type="insult">»Stoff«</seg><lb/>
+die <seg type="spc">juristische</seg> Seite »abgewinnen« wollen. <seg type="insult">Herr <rs type="pers" ana="n_17154" ref="#fk__p_52589">Lothar</rs></seg> gehört zu<lb/>
+<seg type="insult">jenen Unersättlichen</seg>, die sich mit dem Stoff eines Andern nicht begnügen<lb/>
+; sie wollen ihm immer noch etwas <seg type="spc">abgewinnen</seg>. Und wär’s<lb/>
+auch nur, wie beim <seg type="insult"><rs type="title">Harlekin-Stoff</rs></seg>, die <seg type="insult">Seite der Talentlosigkeit</seg>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_49080">
+               <persName>Logiker</persName>
+            </person>
+            <person xml:id="fk__p_45908">
+               <persName>Bahr, Hermann</persName>
+               <birth>
+                  <date>1863-7-19</date>
+                  <place>Linz</place>
+               </birth>
+               <death>
+                  <date>1934-1-15</date>
+                  <place>München</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Kritiker</occupation>
+               <note type="comment">Ögg teilt auch 307/52, 445/49, 800/67 (Rotte Korah) Bahr zu</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10815</idno></person>
+            <person xml:id="fk__p_45852">
+               <persName>Ibsen, Henrik</persName>
+               <birth>
+                  <date>1828-3-20</date>
+                  <place>Skien</place>
+               </birth>
+               <death>
+                  <date>1906-5-23</date>
+                  <place>Christiania</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment"/>
+               <note type="comment">Ögg ordnet 368/49 Baumeister Solneß Strindberg zu</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11798</idno></person>
+            <person xml:id="fk__p_52589">
+               <persName>Lothar, Rudolph</persName>
+               <birth>
+                  <date>1865-2-23</date>
+                  <place>Pest</place>
+               </birth>
+               <death>
+                  <date>1943-10-2</date>
+                  <place>Budapest</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Kritiker</occupation>
+               <note type="comment">743/107 Hans Müller ist offenbar für Thomas reserviert</note>
+               <note type="comment">Die Metternich-Pastete. Ein appetitliches Lustspiel in 3 Gängen. Leipzig, 1917. 96 S</note>
+               <note type="comment">fordert einen Offenbach-Querschnitt (F 845/14, 857/114)</note>
+            </person>
+            <person xml:id="fk__p_40279">
+               <persName>Davis, Gustav</persName>
+               <birth>
+                  <date>1856-3-3</date>
+                  <place>Preßburg</place>
+               </birth>
+               <death>
+                  <date>1951-8-21</date>
+                  <place>Waidhofen/Ybbs</place>
+               </death>
+               <occupation>Offizier</occupation>
+               <occupation>Journalist</occupation>
+               <occupation>Zeitungsherausgeber</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2207</idno></person>
+            </listPerson></back></text>
+</TEI>

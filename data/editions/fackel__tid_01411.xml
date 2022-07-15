@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01411.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01410.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01412.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Jobber. (Der Poet der Börse), in: Fackel Heft 02, Nr. 059, 1900, S. 30-30</title>
+            <title type="iso-date">1900-11-01</title>
+            <title type="id">tid_01411</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">059</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-059_n0030.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/059,030</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Jobber. (Der Poet der Börse)</head>
+            <p ana="pr13416">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="n_11167" ref="#fk__p_46862">Jobber</rs>.</seg></seg></seg> Sie meinen, <seg type="insult">Herr <rs type="pers" ana="n_11168" ref="#fk__p_50373">Benedikt</rs></seg> mache neuestens, um von <seg type="insult">dem<lb/>
+Epigonen <rs type="pers" ana="n_11169" ref="#fk__p_45709">Glogau</rs></seg> nicht beschämt zu werden, <seg type="insult">die unheimlichsten Anstrengungen<lb/>
+</seg>. Allerdings, die <rs type="paperRef" ana="werk_4329"><rs type="inst">Börsenwoche</rs></rs> vom <date>11. November</date> hat <seg type="insult">den alten<lb/>
+Stilgalopin</seg> wieder <seg type="insult">auf der Höhe poetischer Schöpferkraft</seg> gezeigt.<lb/>
+Da hieß es: »Die Erfindung des dreifach versteuerten Agios<lb/>
+zwingt doch, unserem theuersten Fiscus zu sagen, was der <seg type="spc">König<lb/>
+von Macedonien dem jungen <rs type="pers" ana="n_11170" ref="#fk__p_37970">Alexander</rs> gerathen hat</seg>:<lb/>
+<seg type="spc">Mein Sohn, suche dir ein anderes Land</seg>, <seg type="spc">Oesterreich ist<lb/>
+zu klein und zu arm für dich</seg>. Nein, der Gesündeste hält <seg type="insult">dieses<lb/>
+Klima</seg> nicht aus. Wünscht die hohe Regierung, dass es auch in<lb/>
+Oesterreich ein klein wenig besser werde, dann muss <seg type="insult">die barbarische<lb/>
+Actiensteuer</seg> schnell beseitigt werden. Immer werfen <seg type="insult">diese obrigkeitlichen<lb/>
+ Zufälle</seg> die Course nieder, wenn irgend eine Hoffnung sich<lb/>
+regt. Es ist schwer, von diesem gequälten und künstlich beunruhigten<lb/>
+Markte zu verlangen: <seg type="spc">Blicken Sie freundlich</seg>!« <seg type="symbol" subtype="3dots"/> Getrost konnte<lb/>
+die »nachstehende Courstabelle die wichtigsten Coursvariationen« zeigen.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_50373">
+               <persName>Benedikt, Moriz</persName>
+               <birth>
+                  <date>1849-5-27</date>
+                  <place>Kwatschitz/Mähren</place>
+               </birth>
+               <death>
+                  <date>1920-3-18</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <note type="comment">Geburtsort Kwatschitz bei Ungarisch Hradisch/Mähren, nicht Kwassitz bei Kremsier</note>
+               <note type="comment">1. Tor, 20/1/1a</note>
+               <note type="comment">Hrsg. der NFP (seit 1908 alleiniger Leiter)</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10875</idno></person>
+            <person xml:id="fk__p_45709">
+               <persName>Glogau, Heinrich</persName>
+               <birth>
+                  <date>1855-9-9</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1926-3-11</date>
+                  <place>Berlin-Schöneberg</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15472</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/17098</idno></person>
+            <person xml:id="fk__p_46862">
+               <persName>Jobber</persName>
+            </person>
+            <person xml:id="fk__p_37970">
+               <persName>Alexander der Große</persName>
+               <birth>
+                  <date>356</date>
+                  <place>Pella</place>
+               </birth>
+               <death>
+                  <date>323-6-13</date>
+                  <place>Babylon</place>
+               </death>
+               <occupation>König</occupation>
+               <occupation>Feldherr</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13146</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/13309</idno></person>
+            </listPerson></back></text>
+</TEI>

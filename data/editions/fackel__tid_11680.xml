@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_11680.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11679.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11681.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Von Benatzky — alles!, in: Fackel Heft 32, Nr. 847, 1931, S. 91-92</title>
+            <title type="iso-date">1931-03-01</title>
+            <title type="id">tid_11680</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">32</title><title type="heft">847</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-32-847_n0091.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/847,091</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Von Benatzky — alles!</head>
+            <p ana="pr169511">
+<space/>Während ein <seg type="insult">Schwachkopfhörer</seg> in Berlin (es kann auch ein<lb/>
+<seg type="insult">Vorlautsprecher</seg> sein) unaufhörlich von <rs type="pers" ana="n_101445" ref="#fk__p_46664">Offenbach</rs> einen »Querschnitt<lb/>
+« haben will — weil er während der Sendung hinausgegangen<lb/>
+ ist, den Faden verloren hat und die eigene <seg type="insult">Wirrnis</seg><lb/>
+dem Werk anlastet —, dringt <rs type="pers" ana="n_101446" ref="#fk__p_40281">Bach</rs> in Wien auf das unverkümmerte<lb/>
+ Kunstwerk:<lb/>
+</p>
+            <p ana="pr169513">
+<space/><seg type="spc">Viel Vergnügen</seg> bereitete den Hörern sicherlich die Übertragung<lb/>
+ aus dem <rs type="inst">Komödien-Theater</rs> »<rs type="title">Meine Schwester und ich</rs>« von<lb/>
+<rs type="pers" ana="n_101447" ref="#fk__p_52001"><seg type="spc">Benatzky</seg></rs>. Hoffentlich <seg type="spc">fällt es der <rs type="inst">Ravag</rs> nicht ein</seg>, später<lb/>
+etwa »<seg type="spc">Bruchstücke</seg>« daraus zu bringen. <seg type="spc">Ganze solche Werke</seg><lb/>
+lassen sich auch in direkter Sendung rechtfertigen; <seg type="spc">Bruchstücke<lb/>
+kaum</seg>.<lb/>
+</p>
+            <p ana="pr169515">
+Aber meinem Vergnügen genügt schon die Vorstellung, wie <seg type="insult">der<lb/>
+kunstpolitische Führer</seg> den Apparat umgeschnallt hat, um einen<lb/>
+vollen Abend bei <rs type="pers" ana="n_101448" ref="#fk__p_52001">Benatzky</rs> durchzuhalten.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_40281">
+               <persName>Bach, David Josef</persName>
+               <birth>
+                  <date>1874-8-13</date>
+                  <place>Lemberg/Galizien</place>
+               </birth>
+               <death>
+                  <date>1947-1-30</date>
+                  <place>London</place>
+               </death>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10803</idno></person>
+            <person xml:id="fk__p_52001">
+               <persName>Benatzky, Ralph</persName>
+               <birth>
+                  <date>1884-6-5</date>
+                  <place>Budweis</place>
+               </birth>
+               <death>
+                  <date>1957-10-16</date>
+                  <place>Zürich</place>
+               </death>
+               <occupation>Komponist</occupation>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Ögg Tppfehler: Rakph, sowie fälschlich die Stelle 852/50 zugeteilt (Donnay, Die Verliebten)</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/6216</idno></person>
+            <person xml:id="fk__p_46664">
+               <persName>Offenbach, Jacques</persName>
+               <birth>
+                  <date>1819-06-21</date>
+                  <place>Köln</place>
+               </birth>
+               <death>
+                  <date>1880-10-05</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Komponist</occupation>
+               <note type="comment">Ögg teilt Fortunato F 876/34 Shakespeare zu</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/9131</idno></person>
+            </listPerson></back></text>
+</TEI>

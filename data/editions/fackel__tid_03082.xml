@@ -1,0 +1,45 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03082.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03081.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03083.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Berichtigung, in: Fackel Heft 05, Nr. 135, 1903, S. 31-32</title>
+            <title type="iso-date">1903-04-16</title>
+            <title type="id">tid_03082</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">05</title><title type="heft">135</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-05-135_n0031.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/135,031</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Berichtigung</head>
+            <p ana="pr30262">
+<space/><FCORR id="fcorr_1" ferrID="ferr_1" href="FK-04-133_n0022.xml">In <rs type="selfRef" ana="werk_11239"><abbr>Nr.</abbr> 133</rs>, <abbr>S.</abbr> 22, 2., <abbr>bezw.</abbr> 10. Zeile von oben, ist statt<lb/>
+»<rs type="pers" ana="name_200167" ref="#fk__p_45813"><SPAN norm="Helmer">Hellmer</SPAN></rs>« zu lesen: <EM id="em_1" ferrID="ferr_1" href="FK-04-133_n0022.xml"><seg type="i"><rs type="pers" ana="name_200168" ref="#fk__p_45813">Helmer</rs></seg></EM>;</FCORR> <FCORR id="fcorr_2" ferrID="ferr_2" href="FK-04-133_n0027.xml"><abbr>S.</abbr> 27, in der Scharfrichter-Notiz<lb/>
+rechts oben, statt »<date>31. März</date>«: <EM id="em_2" ferrID="ferr_2" href="FK-04-133_n0027.xml"><date><seg type="i">11. März</seg></date></EM>.</FCORR> <FCORR id="fcorr_3" ferrID="ferr_3" href="FK-04-134_n0025.xml">In <rs type="selfRef" ana="werk_11240"><abbr>Nr.</abbr> 134</rs>, <abbr>S.</abbr> 25, 20. und<lb/>
+21. Zeile von oben, statt <seg type="insult">»jener <seg type="spc">schwarz und gelb gefärbte</seg><lb/>
+Wiener Typus«</seg>: <EM id="em_3" ferrID="ferr_3" href="FK-04-134_n0025.xml"><seg type="insult"><seg type="symbol" subtype="3dots"/> <seg type="i">schwarz und gelb gefleckte</seg> <seg type="symbol" subtype="3dots"/></seg></EM>;</FCORR> <FCORR id="fcorr_4" ferrID="ferr_4" href="FK-04-134_n0032.xml"><abbr>S.</abbr> 32, 20. und<lb/>
+21. Zeile von oben, statt »zu den <seg type="insult">Lieblingen</seg>«: <seg type="i"><EM id="em_4" ferrID="ferr_4" href="FK-04-134_n0032.xml">zum <seg type="insult">Liebling</seg></EM></seg>.</FCORR><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_45813">
+               <persName>Hellmer, Edmund Ritter von</persName>
+               <birth>
+                  <date>1850-11-12</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1935-03-09</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Bildhauer</occupation>
+               <note type="comment">F 135/31 korrigiert fälschlich auf Helmer</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

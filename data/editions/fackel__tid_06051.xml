@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06051.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06050.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06052.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Graf Berchtold hat heute die Gemeindevertretung von Ungarisch-Hradisch empfangen, in: Fackel Heft 14, Nr. 366, 1913, S. 14-14</title>
+            <title type="iso-date">1913-01-01</title>
+            <title type="id">tid_06051</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">14</title><title type="heft">366</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-14-366_n0014.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/366,014</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Graf Berchtold hat heute die Gemeindevertretung von Ungarisch-Hradisch empfangen</head>
+            <p ana="pr81721">
+— gut, aber was folgt daraus? Daraus folgt: <rs type="pers" ana="n_57159" ref="#fk__p_44637">Graf Berchtold</rs><lb/>
+hat heute einer Deputation aus Ungarisch-Hradisch auf ihre Frage<lb/>
+erklärt, er hege die Hoffnung auf Frieden. Ja, da könnte man aber<lb/>
+noch immer zweifeln. Darum noch einmal das Ganze: Zuversichtliche<lb/>
+Friedenshoffnung des <rs type="pers" ana="n_57160" ref="#fk__p_44637">Grafen Berchtold</rs>. (Eine Äußerung des<lb/>
+Ministers zu einer Abordnung der Gemeindevertretung von<lb/>
+Ungarisch-Hradisch.) Heute erschien in Wien eine Deputation der<lb/>
+neugewählten Gemeindevertretung von Ungarisch-Hradisch <seg type="symbol" subtype="3dots"/><lb/>
+Sein Sohn hat kürzlich im Gymnasium von Ungarisch-Hradisch<lb/>
+studiert und dort die Maturitätsprüfung abgelegt <seg type="symbol" subtype="3dots"/> daß der<lb/>
+Friede auch erhalten bleiben wird.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_44637">
+               <persName>Berchtold von und zu Ungarschitz, Leopold Graf</persName>
+               <birth>
+                  <date>1863-04-18</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1942-11-21</date>
+                  <place>Peresznye/Ödenburg</place>
+               </death>
+               <occupation>Politiker</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

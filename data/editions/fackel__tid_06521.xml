@@ -1,0 +1,147 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06521.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06520.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06522.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Anerkennung seitens, in: Fackel Heft 15, Nr. 389, 1913, S. 1-1</title>
+            <title type="iso-date">1913-12-01</title>
+            <title type="id">tid_06521</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">15</title><title type="heft">389</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-15-389_n0001.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/389,001</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Anerkennung seitens</head>
+            <p ana="pr88214">
+<space/>Die Rede über die Entlassung der italienischen Beamten von<lb/>
+Triest gibt dem <rs type="pers" ana="n_60528" ref="#fk__p_41326">Grafen Stürgkh</rs> Gelegenheit zu dem folgenden<lb/>
+Bekenntnis:<lb/>
+</p>
+            <p ana="pr88216">
+<space/>Das italienische <choice><sic>VoIkswesen</sic><corr>Volkswesen</corr></choice> und dessen <seg type="spc">altehrwürdige hohe<lb/>
+Kultur</seg> genießen auch in Österreich große Sympathien und sind wiederholt<lb/>
+ Gegenstand <seg type="spc">uneingeschränkter Anerkennung seitens der<lb/>
+österreichischen Regierung</seg> gewesen<seg type="symbol" subtype="4dots"/><lb/>
+</p>
+            <p ana="pr88218">
+<space/>Das wird den <rs type="pers" ana="n_60529" ref="#fk__p_50161"><SPAN norm="Michelangelo">Michel Angelo</SPAN></rs>, von dem es in <seg type="insult">Wien</seg> angesichts<lb/>
+der Werke <rs type="pers" ana="n_60530" ref="#fk__p_52605">Weyrs</rs> geheißen hat, daß er <foreign xml:lang="de-loc">zuspirrn</foreign> kann, gewiß<lb/>
+freuen, <rs type="pers" ana="n_60531" ref="#fk__p_40256">Dantes</rs> Hölle, die hier viel weniger Zuspruch fand als<lb/>
+<rs type="pers" ana="n_60532" ref="#fk__p_48828">Natzlers</rs>, wird sich heben, das Programm im <rs type="inst">Kolosseum</rs> bildet bereits<lb/>
+das <seg type="insult">Saisongespräch</seg>, und die sixtinische Kapelle, von der schon das<lb/>
+Gerücht ging, daß <rs type="pers" ana="n_60533" ref="#fk__p_42103">Drescher</rs> besser sei, hat auch ihre Genugtuung.<lb/>
+Man wird <rs type="pers" ana="n_60534" ref="#fk__p_54156">Tizian</rs> nicht mehr als <seg type="insult">Katzelmacher</seg> ablehnen, sondern<lb/>
+ihn mit <rs type="pers" ana="n_60535" ref="#fk__p_47633"><seg type="insult">Blaas</seg></rs>, der Venetianerinnen malt, in einem Atem nennen.<lb/>
+Man wird nicht mehr behaupten können, daß die italienische<lb/>
+Kultur kein Gegenstand sei. Sie ist <seg type="insult">ein Gegenstand uneingeschränkter<lb/>
+Anerkennung seitens der österreichischen Regierung</seg>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_54156">
+               <persName>Tizian</persName>
+               <birth>
+                  <date>1477/90</date>
+                  <place>Pieve di Cadore</place>
+               </birth>
+               <death>
+                  <date>1576-8-27</date>
+                  <place>Venedig</place>
+               </death>
+               <occupation>Maler</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/26079</idno></person>
+            <person xml:id="fk__p_48828">
+               <persName>Natzler, Leopold</persName>
+               <birth>
+                  <date>1860-6-17</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1926-1-3</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <occupation>Theaterleiter</occupation>
+               <occupation>Komponist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/21813</idno></person>
+            <person xml:id="fk__p_41326">
+               <persName>Stürgkh, Karl Graf </persName>
+               <birth>
+                  <date>1859-10-30</date>
+                  <place>Graz</place>
+               </birth>
+               <death>
+                  <date>1916-10-21</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <note type="comment">1909-11 Unterr.min., 1911-16 Ministerpräsident</note>
+            </person>
+            <person xml:id="fk__p_47633">
+               <persName>Blaas, Karl von</persName>
+               <birth>
+                  <date>1815-4-28</date>
+                  <place>Nauders/Tirol</place>
+               </birth>
+               <death>
+                  <date>1894-3-19</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Maler</occupation>
+            </person>
+            <person xml:id="fk__p_42103">
+               <persName>Drescher, Heinrich</persName>
+               <birth>
+                  <date>1865-01-01</date>
+                  <place>Wien</place>
+               </birth>
+               <occupation>Maler</occupation>
+               <note type="comment">MA 8 nicht eruiert</note>
+               <note type="comment">Sterbefall Nürnberg 19.04.1901, 31.03.1903,</note>
+            </person>
+            <person xml:id="fk__p_52605">
+               <persName>Weyr, Rudolf Ritter von</persName>
+               <birth>
+                  <date>1847-03-22</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1914-10-30</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Bildhauer</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2391</idno></person>
+            <person xml:id="fk__p_40256">
+               <persName>Dante Alighieri</persName>
+               <birth>
+                  <date>1265-5/6</date>
+                  <place>Florenz</place>
+               </birth>
+               <death>
+                  <date>1321-9-13/14</date>
+                  <place>Venedig</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/3326</idno></person>
+            <person xml:id="fk__p_50161">
+               <persName>Michelangelo Buonarroti</persName>
+               <birth>
+                  <date>1475-3-6</date>
+                  <place>Caprese/Casentino</place>
+               </birth>
+               <death>
+                  <date>1564-2-18</date>
+                  <place>Rom</place>
+               </death>
+               <occupation>Bildhauer</occupation>
+               <occupation>Maler</occupation>
+               <occupation>Architekt</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/3155</idno></person>
+            </listPerson></back></text>
+</TEI>

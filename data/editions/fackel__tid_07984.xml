@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07984.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07983.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07985.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Fronttheater?, in: Fackel Heft 19, Nr. 462, 1917, S. 103-104</title>
+            <title type="iso-date">1917-10-01</title>
+            <title type="id">tid_07984</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">19</title><title type="heft">462</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-19-462_n0103.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/462,103</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Fronttheater?</head>
+            <p ana="pr106675">
+— — Ergötzliche Episodenfiguren schufen die Herren <rs type="pers" ana="n_67897" ref="#fk__p_45202">Matschegg</rs> und<lb/>
+<rs type="pers" ana="n_67898" ref="#fk__p_56441">Kraft</rs>, ersterer als Diener <rs type="pers">Nepomuck</rs>, letzterer als stotternder und<lb/>
+<seg type="spc">konvulsivisch zuckender</seg> Auskunftsbureauangestellter — —<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_56441">
+               <persName>Krafft, Otto</persName>
+               <birth>
+                  <date>1885-9-16</date>
+                  <place>Wien</place>
+               </birth>
+               <occupation>Inspizient</occupation>
+               <note type="comment">21., St. Vendelinplatz 23; 2., Czerningasse 29</note>
+               <note type="comment">lt. MA 8 sogar 1917 in Zürich gemeldet!</note>
+               <note type="comment">Gastspiel Theater an der Wien in der Schweiz Juli 1917, mit Anton Matscheg</note>
+               <note type="comment">Namenskorrektur!</note>
+               <note type="comment">Theater an der Wien</note>
+            </person>
+            <person xml:id="fk__p_45202">
+               <persName>Matscheg, Anton</persName>
+               <birth>
+                  <date>1858-6-5</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1929-12-26</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <occupation>Sänger</occupation>
+               <occupation>Regisseur</occupation>
+               <note type="comment">Bjb 1914: Anton Matscheg, Sch. u. Reg., 6., Gumpendorferstr. 139</note>
+               <note type="comment">Schweizgastspiel Theater an der Wien mit "Eva", Juli 1917</note>
+               <note type="comment">Namenskorrektur!</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

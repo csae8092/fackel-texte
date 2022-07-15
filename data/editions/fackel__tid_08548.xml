@@ -1,0 +1,43 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_08548.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08547.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08549.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Der Admiral, in: Fackel Heft 20, Nr. 484, 1918, S. 223-223</title>
+            <title type="iso-date">1918-10-01</title>
+            <title type="id">tid_08548</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">20</title><title type="heft">484</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-20-484_n0223.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/484,223</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Der Admiral</head>
+            <p ana="pr112144">
+<space/><seg type="symbol" subtype="3dots"/> Im <rs type="inst">englischen Kabinett</rs> bestanden am <date>31. Juli 1914</date> zwei<lb/>
+Gruppen <seg type="symbol" subtype="4dots"/> Ganz allein stand in jenem Augenblick <rs type="pers" ana="n_69620" ref="#fk__p_55629">Winston<lb/>
+Churchill</rs>, der <seg type="spc">als Erster Lord der Admiralität die<lb/>
+Schiffe bereits hinter sich verbrannt und seine<lb/>
+Pflicht getan hatte</seg>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_55629">
+               <persName>Churchill, Winston Leonard</persName>
+               <birth>
+                  <date>1874-11-30</date>
+                  <place>Blenheim Palace/Woodstock</place>
+               </birth>
+               <death>
+                  <date>1965-01-24</date>
+                  <place>London</place>
+               </death>
+               <occupation>Politiker</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_10763.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10762.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10764.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Propheta in sua patria, in: Fackel Heft 28, Nr. 743, 1926, S. 110-110</title>
+            <title type="iso-date">1926-12-01</title>
+            <title type="id">tid_10763</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">28</title><title type="heft">743</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-28-743_n0110.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/743,110</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Propheta in sua patria</head>
+            <p ana="pr149749">
+<seg type="symbol" subtype="3dots"/> Die <rs type="pers" ana="n_89917" ref="#fk__p_44044">Trubetzkoische Arbeit</rs> ist sehr bekannt und ob ihres ungeheuren<lb/>
+ Schwunges und der temperamentvollen Lebendigkeit sehr oft<lb/>
+reproduziert worden. <rs type="pers" ana="n_89918" ref="#fk__p_39112">Shaw</rs> erzählte Frau <rs type="pers" ana="n_89919" ref="#fk__p_44991">Grammatica</rs> die Geschichte<lb/>
+dieses Porträts und sagte: »Von rechts sehe ich aus wie <rs type="pers" ana="n_89920" ref="#fk__p_46843">Christus</rs>,<lb/>
+während ich von links eher für <rs type="pers" ana="n_89921" ref="#fk__p_47193">Judas</rs> gehalten werden könnte. In<lb/>
+hundert Jahren wird diese Büste in einem Museum stehen und eine<lb/>
+Tafel tragen mit der Inschrift: ‚<rs type="pers" ana="n_89922" ref="#fk__p_44044">Fürst Trubetzkoi</rs>: Bildnis eines<lb/>
+Unbekannten‘.«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_47193">
+               <persName>Judas Ischarioth</persName>
+            </person>
+            <person xml:id="fk__p_44044">
+               <persName>Trubetzkoy, Pawell Petrowitsch Fürst</persName>
+               <birth>
+                  <date>1866-2-15</date>
+                  <place>Intra, Lago Maggiore</place>
+               </birth>
+               <death>
+                  <date>1938-2-12</date>
+                  <place>Pallanza, Lago Maggiore</place>
+               </death>
+               <occupation>Bildhauer</occupation>
+               <note type="comment">Rodin-Schüler</note>
+            </person>
+            <person xml:id="fk__p_44991">
+               <persName>Gramatica, Emma</persName>
+               <birth>
+                  <date>1875-3-22</date>
+                  <place>Fidenza</place>
+               </birth>
+               <death>
+                  <date>1965-11-8</date>
+                  <place>Ostia Lido/Latium</place>
+               </death>
+               <occupation>Schauspielerin</occupation>
+            </person>
+            <person xml:id="fk__p_39112">
+               <persName>Shaw, George Bernard</persName>
+               <birth>
+                  <date>1856-7-26</date>
+                  <place>Dublin</place>
+               </birth>
+               <death>
+                  <date>1950-11-2</date>
+                  <place>Ayot St. Lawrence</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">226/21: Tanner, Katechismus des Umstürzlers, zu "Mensch und Übermensch"</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2381</idno></person>
+            <person xml:id="fk__p_46843">
+               <persName>Jesus Christus</persName>
+            </person>
+            </listPerson></back></text>
+</TEI>

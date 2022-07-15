@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_09341.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09340.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09342.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Zum zweiten Sonett der Louise Labé), in: Fackel Heft 24, Nr. 608, 1922, S. 58-59</title>
+            <title type="iso-date">1922-12-01</title>
+            <title type="id">tid_09341</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">24</title><title type="heft">608</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-24-608_n0058.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/608,058</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Zum zweiten Sonett der Louise Labé)</head>
+            <p ana="pr124212">
+<space/>Auf dem Programm:<lb/>
+</p>
+            <p ana="pr124213">
+<space/>Zum <rs type="title">zweiten Sonett der <rs type="pers" ana="n2_6991" ref="#fk__p_49200">Louise Labé</rs></rs>:<lb/>
+</p>
+            <p ana="pr124214">
+<space/>Sie trägt, wie man noch hörend sieht, die initialen O als<lb/>
+eine Perlenkette der Tränen. In <seg type="insult"><rs type="pers" ana="n_76314" ref="#fk__p_51991">Rilkes</rs> Sachlyrik</seg> entbehrt sie<lb/>
+dieses Schmucks, ist die Leidende der Liebe ein <seg type="insult"><rs type="pers">Aschenbrödel</rs><lb/>
+der Wortgnade</seg>, sich bescheidend auf »Blicke weggekehrt«, auf<lb/>
+</p>
+            <p ana="pr124214">
+»Tage strahlend, aber ohne Wert«, und die schmerzensreiche<lb/>
+Gewalt des <foreign xml:lang="fr">»Tant de flambeaux pour ardre une femelle!«</foreign> verkümmert<lb/>
+ zu dem schmerzhaften Kontrast: »ein brennlich Weib<lb/>
+und lauter Flammen-Schwinger.« Von dieser Übertragung angeregt,<lb/>
+die neben dem Original gedruckt erschienen ist, habe ich eine<lb/>
+andere versucht.<lb/>
+</p>
+            <p ana="pr124215">
+<space/>Dem <rs type="inst">Grabsteinfonds</rs> sind zugeflossen: <seg type="symbol" subtype="4dots"/> <seg type="symbol" subtype="equals"/> K 3,935.500,<lb/>
+č. K 210, poln. M 10.000 und M 1000.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_49200">
+               <persName>Labé, Louise</persName>
+               <birth>
+                  <date>1524?</date>
+                  <place>Parcieux-en-Dombes/Lyon</place>
+               </birth>
+               <death>
+                  <date>1566-04-25</date>
+                  <place>Parcieux-en-Dombes/Lyon</place>
+               </death>
+               <occupation>Schriftstellerin</occupation>
+            </person>
+            <person xml:id="fk__p_51991">
+               <persName>Rilke, Rainer Maria</persName>
+               <birth>
+                  <date>1875-12-4</date>
+                  <place>Prag</place>
+               </birth>
+               <death>
+                  <date>1926-12-29</date>
+                  <place>Valmont bei Montreux</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/9531</idno></person>
+            </listPerson></back></text>
+</TEI>

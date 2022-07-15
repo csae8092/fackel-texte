@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01818.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01817.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01819.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Herrn Handelsminister Baron Call., in: Fackel Heft 03, Nr. 076, 1901, S. 24-24</title>
+            <title type="iso-date">1901-05-01</title>
+            <title type="id">tid_01818</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">03</title><title type="heft">076</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-03-076_n0024.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/076,024</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Herrn Handelsminister Baron Call.</head>
+            <p ana="pr17891">
+<space/><seg type="sidehead"><seg type="i">Herrn Handelsminister <rs type="pers" ana="n_15077" ref="#fk__p_54486">Baron Call</rs>.</seg></seg> Ist es <abbr>Ew.</abbr> Excellenz bekannt<lb/>
+, dass die armen Postmanipulantinnen jetzt unter vermehrter<lb/>
+Arbeitslast seufzen müssen, da sie zu ihren sonstigen Agenden auch<lb/>
+noch den Verkauf der <rs type="inst"><seg type="spc">Concordialose</seg></rs> (bekannt unter dem Namen<lb/>
+<seg type="insult">Revolverlose</seg>) übernommen haben? Ist <abbr>Ew.</abbr> Excellenz geneigt, die<lb/>
+<seg type="insult">staatliche Förderung privater Schnorrzwecke</seg> zu verbieten und <seg type="insult">dem<lb/>
+pressfreundlichen Hofrath oder Sectionschef</seg>, der die <seg type="insult">Prostituierung<lb/>
+eines <abbr>k. k.</abbr> Amtes</seg> bewilligt hat, einen Verweis zu ertheilen?<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_54486">
+               <persName>Call zu Rosenburg und Kulmbach, Guido Freiherr von</persName>
+               <birth>
+                  <date>1849-09-06</date>
+                  <place>Triest</place>
+               </birth>
+               <death>
+                  <date>1927-05-12</date>
+                  <place>Graz</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <occupation>Diplomat</occupation>
+               <note type="comment">als Diplomat in Konstantinopel, Sofia, Tokio</note>
+               <note type="comment">Handelsminister 1900-1905</note>
+               <note type="comment">Botschafter in Japan</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

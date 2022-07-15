@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06064.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06063.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06065.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Vorlesung in Berlin), in: Fackel Heft 14, Nr. 366, 1913, S. 33-33</title>
+            <title type="iso-date">1913-01-01</title>
+            <title type="id">tid_06064</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">14</title><title type="heft">366</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-14-366_n0033.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/366,033</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Vorlesung in Berlin)</head>
+            <p ana="pr81832">
+<space/>Berlin, im <rs type="inst">Choralionsaal</rs> am <date>10. Dezember</date>:<lb/>
+</p>
+            <p ana="pr81834">
+<space/>I. <rs type="title">Der Traum ein <seg type="insult">Wiener Leben</seg></rs> / <rs type="title"><seg type="insult">Die Welt der Plakate</seg></rs> II. <rs type="title"><seg type="insult">Die<lb/>
+chinesische Mauer</seg></rs> III. <rs type="title"><seg type="insult">Desperanto</seg></rs> mit Einleitung aus <rs type="selfRef" ana="werk_19151"><abbr>Nr.</abbr> 307/08</rs> und<lb/>
+Proben aus diesem und anderen Heften; Übersetzungen ins <seg type="insult">Desperanto</seg>:<lb/>
+Schluß der Glosse <seg type="insult">»<rs type="title">Der im Grunewald</rs>«</seg> und »<rs type="title">Eine Berliner Rundfrage</rs>« /<lb/>
+<rs type="title">Ostende, erster Morgen; Riedau und Lido</rs>; <rs type="title"><seg type="insult">Ein Satz</seg></rs>; <rs type="title">Angesichts</rs>;<lb/>
+<rs type="title">Blutiger Ausgang einer Faschingsunterhaltung</rs> (mit einer Abänderung);<lb/>
+<rs type="title">Ich rufe die Rettungsgesellschaft</rs>. — Zugaben: <rs type="title">Der Deutlichkeit halber</rs>;<lb/>
+<rs type="title"><seg type="insult">Das Ehrenkreuz</seg></rs>; Aus dem »<rs type="title">Prozeß <rs type="pers" ana="n2_5029" ref="#fk__p_49604">Veith</rs></rs>« (Anrede an den Staat).<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_49604">
+               <persName>Veith, Marcel</persName>
+               <birth>
+                  <date>1862-1-2</date>
+                  <place>Liboch/Böhmen</place>
+               </birth>
+               <death>
+                  <date>1936-3-22</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Agent</occupation>
+               <note type="comment">5., Kriehubergasse 13</note>
+               <note type="comment">verh. 05.02.1898 Dienstmagd Anna Wimmer</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

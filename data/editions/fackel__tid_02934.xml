@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02934.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02933.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02935.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Der Hofadvocat, in: Fackel Heft 04, Nr. 130, 1903, S. 9-10</title>
+            <title type="iso-date">1903-02-21</title>
+            <title type="id">tid_02934</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">04</title><title type="heft">130</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-04-130_n0009.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/130,009</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Der Hofadvocat</head>
+            <p ana="pr28978">
+<space/>[<seg type="insult"><inciptit>Personal-Nachricht</inciptit>.</seg>] <seg type="insult">Dem <seg type="ELIDASH">Hofadvocaten</seg> und Gerichtsadvocaten<lb/>
+<rs type="pers" ana="n_24987" ref="#fk__p_38658"><abbr>Dr.</abbr> Adolf <seg type="spc">Bachrach</seg></rs></seg> ist, da auch nach den an Fräulein <rs type="pers" ana="n_24988" ref="#fk__p_55560">Adamovics</rs><lb/>
+verübten Praktiken das Gericht mit ihm nichts zu thun haben will,<lb/>
+gestattet worden, fortan schlechtweg den Titel <seg type="insult">»Hofadvocat«</seg> zu führen.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_38658">
+               <persName>Bachrach, Adolf Edler von</persName>
+               <birth>
+                  <date>1853-12-27</date>
+                  <place>Sternberg/Mähren</place>
+               </birth>
+               <death>
+                  <date>1932-4-18</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Rechtsanwalt</occupation>
+               <note type="comment">1., Rosenbursenstr. 8</note>
+               <note type="comment">Stockhammer, mailing list 19. 1. 2008</note>
+               <note type="comment">ZF 1. Tor, 20/16/57</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/3618</idno></person>
+            <person xml:id="fk__p_55560">
+               <persName>Adamovics, Wilhelmine</persName>
+               <birth>
+                  <date>1877-5-1</date>
+                  <place>Lundenburg</place>
+               </birth>
+               <death>
+                  <date>1910-5-19</date>
+                  <place>Genf</place>
+               </death>
+            </person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,48 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00104.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00103.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00105.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Lapidares aus der ‚N. Fr. Pr.‘.), in: Fackel Heft 01, Nr. 006, 1899, S. 21-21</title>
+            <title type="iso-date">1899-05-01</title>
+            <title type="id">tid_00104</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">006</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-006_n0021.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/006,021</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Lapidares aus der ‚N. Fr. Pr.‘.)</head>
+            <p ana="pr1255">
+<space/><seg type="insult"><seg type="spc">Lapidares aus der <rs type="paper" ana="werk_353">Neuen Freien Presse</rs></seg></seg>. Das<lb/>
+<seg ana="Abendblatt vom 23. Mai"/> bringt zwei Beschreibungen des <rs type="pers" ana="n_923" ref="#fk__p_56495">Erzherzog<lb/>
+Albrecht-Monumentes</rs>. Im <rs type="paperRef" ana="werk_41119">Feuilletontheil</rs> erscheint der Kopf des Reiters<lb/>
+als »<QUOTE rn="1" sourceID="FK-01-006-0021_a"><seg type="spc">mit einer knappen Wendung nach rechts gerichtet<lb/>
+</seg></QUOTE>«, während nach der Versicherung des Localberichterstatters<lb/>
+der Kopf des Erzherzogs »<QUOTE rn="2" sourceID="FK-01-006-0021_a"><seg type="spc">mit einer leichten Wendung</seg><lb/>
+<seg type="spc">nach links schaut</seg></QUOTE>«. Sogar einem Standbild gegenüber vergißt<lb/>
+ die <rs type="paper" ana="werk_355">Neue Freie Presse</rs> <seg type="insult">ihre alte Fähigkeit</seg> nicht, auf Wunsch<lb/>
+nach rechts und nach links zu schreiben.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_56495">
+               <persName>Albrecht, Friedrich Rudolf Erzherzog</persName>
+               <birth>
+                  <date>1817-8-3</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1895-2-18</date>
+                  <place>Schloß Arco, Italien</place>
+               </death>
+               <occupation>Feldherr</occupation>
+               <occupation>Großindustrieller</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_08437.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08436.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08438.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">6. Mai, 7 Uhr:, in: Fackel Heft 20, Nr. 484, 1918, S. 143-143</title>
+            <title type="iso-date">1918-10-01</title>
+            <title type="id">tid_08437</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">20</title><title type="heft">484</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-20-484_n0143.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/484,143</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>6. Mai, 7 Uhr:</head>
+            <p ana="pr111092">
+<space/><date>6. Mai</date>, 7 Uhr:<lb/>
+</p>
+            <p ana="pr111093">
+<space/>I. »<rs type="title"><seg type="spc"><rs type="pers">Hanneles</rs> Himmelfahrt</seg></rs>« von <rs type="pers" ana="n_69367" ref="#fk__p_44354">Gerhart<lb/>
+<seg type="spc">Hauptmann</seg></rs> (Musikbegleitung: <rs type="pers" ana="n_69368" ref="#fk__p_49972">Max Saal</rs>).<lb/>
+</p>
+            <p ana="pr111094">
+<space/>II. <rs type="title">Beim Anblick einer Schwangeren</rs> / <rs type="title">Grabschrift</rs> / <rs type="title">Vor<lb/>
+einem Springbrunnen</rs> / <rs type="title">Wiedersehn mit Schmetterlingen</rs> / <rs type="title">Als<lb/>
+<rs type="pers" ana="n2_6212" ref="#fk__p_39336">Bobby</rs> starb</rs>/ <rs type="title">An einen alten Lehrer</rs> / <rs type="title">Der Reim</rs> / <rs type="title">Unterricht</rs> /<lb/>
+<rs type="title">Abenteuer der Arbeit</rs> / <rs type="title">Bange Stunde</rs> / <rs type="title">Gebet</rs>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_49972">
+               <persName>Saal, Max</persName>
+               <birth>
+                  <date>1882-9-5</date>
+                  <place>Weimar</place>
+               </birth>
+               <death>
+                  <date>1948-12-12</date>
+                  <place>Berlin</place>
+               </death>
+               <occupation>Pianist</occupation>
+               <note type="comment">Klavierbegleiter KK.s</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/43679</idno></person>
+            <person xml:id="fk__p_39336">
+               <persName>Bobby (Hund)</persName>
+            </person>
+            <person xml:id="fk__p_44354">
+               <persName>Hauptmann, Gerhart</persName>
+               <birth>
+                  <date>1862-11-15</date>
+                  <place>Salzbrunn, Schlesien</place>
+               </birth>
+               <death>
+                  <date>1946-6-6</date>
+                  <place>Agnetendorf</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Ögg teilt die indirekte Stelle 521/64 zu, irrtümlich</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11617</idno></person>
+            </listPerson></back></text>
+</TEI>

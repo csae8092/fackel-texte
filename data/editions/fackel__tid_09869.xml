@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_09869.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09868.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09870.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Kleiner Konzerthaussaal, 3. Juni, 7 Uhr:, in: Fackel Heft 26, Nr. 657, 1924, S. 98-98</title>
+            <title type="iso-date">1924-08-01</title>
+            <title type="id">tid_09869</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">26</title><title type="heft">657</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-26-657_n0098.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/657,098</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Kleiner Konzerthaussaal, 3. Juni, 7 Uhr:</head>
+            <p ana="pr133939">
+<space/><rs type="inst">Kleiner Konzerthaussaal</rs>, <date>3. Juni</date>, 7 Uhr:<lb/>
+</p>
+            <p ana="pr133940">
+<space/><rs type="pers" ana="n_81830" ref="#fk__p_46919"><seg type="spc">Nestroy</seg></rs>: <rs type="title"><rs type="pers"><seg type="spc">Lumpazivagabundus</seg></rs></rs>.<lb/>
+</p>
+            <p ana="pr133941">
+<space/>Begleitung: <rs type="pers" ana="n_81831" ref="#fk__p_54913">Viktor Junk</rs>.<lb/>
+</p>
+            <p ana="pr133942">
+<space/>Ein Teil des Ertrags (<abbr>inkl.</abbr> Programmerlös): K 1,813.220 für den<lb/>
+<rs type="inst">Bund für Mutterschutz</rs> (VII., Mariahilferstraße 12) und eine Notleidende.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_54913">
+               <persName>Junk, Viktor</persName>
+               <birth>
+                  <date>1875-4-18</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1948-4-5</date>
+                  <place>Frohnleiten/Steiermark</place>
+               </death>
+               <occupation>Germanist</occupation>
+               <occupation>Musikwissenschaftler</occupation>
+            </person>
+            <person xml:id="fk__p_46919">
+               <persName>Nestroy, Johann Nepomuk</persName>
+               <birth>
+                  <date>1801-12-7</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1862-5-25</date>
+                  <place>Graz</place>
+               </death>
+               <occupation>Sänger</occupation>
+               <occupation>Schauspieler</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12338</idno></person>
+            </listPerson></back></text>
+</TEI>

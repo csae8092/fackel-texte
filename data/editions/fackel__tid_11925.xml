@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_11925.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11924.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11926.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Der Druckfehlerteufel, in: Fackel Heft 33, Nr. 857, 1931, S. 115-115</title>
+            <title type="iso-date">1931-08-01</title>
+            <title type="id">tid_11925</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">33</title><title type="heft">857</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-33-857_n0115.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/857,115</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Der Druckfehlerteufel</head>
+            <p ana="pr172635">
+hat ihre Sprache gelernt:<lb/>
+</p>
+            <p ana="pr172637">
+<space/>Wir werden also mit unseren Lesern interessiert den weiteren<lb/>
+Verlauf der Reise verfolgen, um am Schluß feststellen zu können, ob<lb/>
+die Sicherheit des Verkehrs heute tatsächlich schon so weit gediehen<lb/>
+ist, daß <seg type="spc">ma</seg> sich unbedingt auf die normalen Fahrpläne und Verkehrsmittel<lb/>
+ verlassen kann.<lb/>
+</p>
+            <p ana="pr172639">
+<seg type="insult">Ma</seg> kann. Deshalb brauchte sich der <seg type="insult">Reisende</seg>, den <rs type="pers" ana="n_103092" ref="#fk__p_47606">Renner</rs> von<lb/>
+<rs type="pers" ana="n_103093" ref="#fk__p_46460">Bekessy</rs> übernommen hat, nicht bis China zu bemühen. <seg type="insult">Der<lb/>
+frühere Chef</seg> selbst ist doch bloß bis Budapest vorgedrungen.<lb/>
+Freilich war es zu seiner Zeit mit der Sicherheit des Verkehrs<lb/>
+(jeglichen) weit besser bestellt.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_47606">
+               <persName>Renner, Karl</persName>
+               <birth>
+                  <date>1870-12-14</date>
+                  <place>Untertannowitz, Südmähren</place>
+               </birth>
+               <death>
+                  <date>1950-12-31</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <note type="comment">Die Krise d. Dualismus u. d. Ende der Deákist. Episode in der Gesch. d. Habsb. Mon., Wien Deuticke 1904</note>
+               <note type="comment">155/24 (Rudolf Springer) fehlt bei Ögg</note>
+               <note type="comment">Okt. 1918 bis Juni 1920 Staatskanzler, Dez. 1945 bis Dez. 1950 Bundespräsident</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12507</idno></person>
+            <person xml:id="fk__p_46460">
+               <persName>Békessy, Imre</persName>
+               <birth>
+                  <date>1887-10-13</date>
+                  <place>Deutschkreuz</place>
+               </birth>
+               <death>
+                  <date>1951-3-15</date>
+                  <place>Budapest</place>
+               </death>
+               <occupation>Zeitungsverleger</occupation>
+               <note type="comment">Wikipedia gibt als Todesdatum an: "vor dem 17. März 1951"</note>
+               <note type="comment">Deutschkreuz</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37843</idno></person>
+            </listPerson></back></text>
+</TEI>

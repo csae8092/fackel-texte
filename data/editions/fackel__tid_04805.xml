@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_04805.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04804.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04806.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Ein Zitat aus Charles Baudelaires „Tagebüchern“), in: Fackel Heft 10, Nr. 272, 1909, S. 38-38</title>
+            <title type="iso-date">1909-02-15</title>
+            <title type="id">tid_04805</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">10</title><title type="heft">272</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-10-272_n0038.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/272,038</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Ein Zitat aus Charles Baudelaires „Tagebüchern“)</head>
+            <p ana="pr58970">
+<space/>In <rs type="pers" ana="n_44250" ref="#fk__p_39885">Charles <seg type="spc">Baudelaires</seg></rs> »<rs type="title">Tagebüchern</rs>« findet sich die<lb/>
+folgende Stelle:<lb/>
+</p>
+            <p ana="pr58972">
+<space/>Jede Zeitung, von der ersten bis zur letzten Zeile, ist nichts<lb/>
+als ein <seg type="insult">Gewebe von Schrecken</seg>. Kriege, Verbrechen, Diebstähle, Schamlosigkeiten<lb/>
+, Martern, Verbrechen der Fürsten, Verbrechen der Nationen,<lb/>
+Verbrechen der Einzelnen<ADD>,</ADD> ein <seg type="insult">Rausch von allgemeiner Scheußlichkeit</seg>.<lb/>
+Ich begreife nicht, wie eine reine Hand das anrühren kann, ohne vor<lb/>
+Ekel zu zucken!<lb/>
+</p>
+            <p ana="pr58974">
+<space/>»Es bedarf keines Hinweises«, bemerkt ein <rs type="perRef" ana="werk_16453">deutsches Blatt</rs> zu<lb/>
+diesem Zitat, »daß sich <rs type="pers" ana="n_44251" ref="#fk__p_39885">Baudelaire</rs> auch hier in einer <foreign xml:lang="en">splendid<lb/>
+isolation</foreign> sondergleichen befindet«. Aber ich nicht!<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_39885">
+               <persName>Baudelaire, Charles</persName>
+               <birth>
+                  <date>1821-04-09</date>
+                  <place>Paris</place>
+               </birth>
+               <death>
+                  <date>1867-08-31</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/4950</idno></person>
+            </listPerson></back></text>
+</TEI>

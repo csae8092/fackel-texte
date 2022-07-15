@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03632.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03631.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03633.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Patriot. (Kaiserworte auf Ansichtskarten), in: Fackel Heft 06, Nr. 163, 1904, S. 21-21</title>
+            <title type="iso-date">1904-05-31</title>
+            <title type="id">tid_03632</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">06</title><title type="heft">163</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-06-163_n0021.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/163,021</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Patriot. (Kaiserworte auf Ansichtskarten)</head>
+            <p ana="pr36110">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="name_202588" ref="#fk__p_51164">Patriot</rs>.</seg></seg></seg> Da der <seg type="insult">Unfug der publizistischen Ausschlachtung von<lb/>
+Kaiserworten</seg> ungestraft fortbetrieben werden kann, ist eine <seg type="insult">ambitiöse<lb/>
+Firma</seg> einen Schritt weiter gegangen. <seg type="insult">Der durch seinen politischen Idealismus<lb/>
+wie durch seine Schank-Artikel beliebte Herr <rs type="pers" ana="n_31024" ref="#fk__p_46957">Weißenböck</rs></seg> hat Ansichtskarten<lb/>
+ mit der Darstellung seines Ausstellungsobjektes in der <rs type="inst">Rotunde</rs><lb/>
+ausgegeben, an deren Spitze der Vermerk gedruckt ist: »Wurde von<lb/>
+<abbr>Sr.</abbr> Majestät dem <RS pers="Franz Joseph" globID="rs_438">Kaiser</RS> mit den Worten ‚<seg type="spc">höchst brillant</seg>‘ belobt.«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_51164">
+               <persName>Patriot</persName>
+            </person>
+            <person xml:id="fk__p_46957">
+               <persName>Weissenböck, Johann</persName>
+               <birth>
+                  <date>1848-10-22</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1907-5-13</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Gemischtwarenverschleißer</occupation>
+               <occupation>Politiker</occupation>
+               <note type="comment">1., Jasomirgottstr. 5</note>
+               <note type="comment">Gemeinderat</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

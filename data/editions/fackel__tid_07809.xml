@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07809.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07808.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07810.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Was aus einem Titel im Verlauf der Nachricht werden kann, in: Fackel Heft 19, Nr. 454, 1234, S. 56-57</title>
+            <title type="iso-date">1234-01-01</title>
+            <title type="id">tid_07809</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">19</title><title type="heft">454</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-19-454_n0056.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/454,056</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Was aus einem Titel im Verlauf der Nachricht werden kann</head>
+            <p ana="pr104327">
+<space/>Berlin, <date>12. März</date>. (Privattelegramm des ‚<rs type="paper" ana="werk_21108">Neuen Wiener Journals</rs>‘.)<lb/>
+Die ‚<rs type="paper" ana="werk_21109">Vossische Zeitung</rs>‘ meldet aus Christiania: In Halifax wurde der<lb/>
+Dampfer »Frederic VIII.« von den Engländern zwölf Tage aufgehalten,<lb/>
+ohne daß ein Grund angegeben wurde. Die Untersuchung war sehr<lb/>
+scharf. Von den Mitreisenden werden haarsträubende Dinge davon<lb/>
+erzählt. <seg type="spc">Sogar</seg> das wenige Monate alte <RS pers="Huberta Gräfin Hatzfeldt zu Trachenberg" globID="rs_783">Töchterchen</RS> der <rs type="pers" ana="n_66989" ref="#fk__p_44102">Fürstin<lb/>
+Hatzfeld</rs> wurde aus den Windeln gewickelt <seg type="symbol" subtype="4dots"/> Die <rs type="pers" ana="n_66990" ref="#fk__p_44102">Fürstin Hatzfeld</rs><lb/>
+wurde einer peinlichen Leibesuntersuchung unterworfen, die eine<lb/>
+Stunde dauerte. An ihren Zähnen wurde gezerrt, da man sie zuerst<lb/>
+für falsch hielt.<lb/>
+</p>
+            <p ana="pr104328">
+<space/>Vor jeder Kabine wurde während der Untersuchung mindestens<lb/>
+ein Wachposten aufgestellt. Zwei kanadische Zollbeamte, die die Passagiere<lb/>
+ zu untersuchen hatten, wurden <seg type="spc">vom Schiff weggeschickt<lb/>
+</seg>, weil sie sich sinnlos betrunken hatten, Gassenhauer<lb/>
+brüllten und vor den Kabinen tanzten.<lb/>
+</p>
+            <p ana="pr104329">
+<space/>Große Aufregung rief ein englischer Befehl hervor, daß alle Deutschen<lb/>
+ihr Geld bis auf einen geringen Betrag abliefern sollten. Es kam dabei<lb/>
+</p>
+            <p ana="pr104329">
+zu herzzerreißenden Tränen, als die Dienstboten ihre gesamten Ersparnisse<lb/>
+ herausgeben mußten. Später aber wurde <seg type="spc">auf Verwendung<lb/>
+des englischen Marinekommandanten der Befehl<lb/>
+zurückgenommen</seg> <seg type="symbol" subtype="4dots"/> <seg type="spc">Es wird von allen betont</seg>,<lb/>
+<seg type="spc">daß das Verhalten der britischen Marineoffiziere<lb/>
+völlig einwandfrei war</seg> im Gegensatz zu dem der<lb/>
+<seg type="spc">kanadischen Zollbeamten</seg> und den Frauen, die die Leibesuntersuchung<lb/>
+ vorzunehmen hatten. Die norwegischen und dänischen<lb/>
+Passagiere gaben <choice><sic>ihren</sic><corr>ihrem</corr></choice> Unwillen über das<lb/>
+</p>
+            <p ana="pr104330">
+<seg type="spc">unverschämte Auftreten der Kanadier</seg><lb/>
+</p>
+            <p ana="pr104331">
+lauten Ausdruck, was einem Norweger die <seg type="spc">vorübergehende</seg><lb/>
+Verhaftung eintrug. Viele Vorfälle bei der Untersuchung durch die<lb/>
+Kanadier können überhaupt nicht wiedergegeben werden. <seg type="spc">Ihr<lb/>
+Kommandant sagte darüber</seg>, wenn alles öffentlich bekannt<lb/>
+würde, gebe es einen großen Skandal, er sei aber <seg type="spc">außerstande</seg>,<lb/>
+die Kanadier zu Gentlemen zu erziehen <seg type="symbol" subtype="4dots"/><lb/>
+</p>
+            <p ana="pr104333">
+<space/><seg type="insult">Die Lügen im Krieg</seg> haben so kurze Beine, daß sie manchmal<lb/>
+ nur <seg type="insult">vom Titel bis zur Nachricht</seg> kommen.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_44102">
+               <persName>Hatzfeldt zu Trachenberg, Elisabeth Fürstin, geb. von Tschirschky und Bögendorff </persName>
+               <birth>
+                  <date>1889-11-3</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1975-6-19</date>
+                  <place>Köln</place>
+               </death>
+               <note type="comment">12. 3. 17 das wenige Wochen alte Töchterchen der Fürstin Hatzfeldt</note>
+               <note type="comment"/>
+            </person>
+            </listPerson></back></text>
+</TEI>

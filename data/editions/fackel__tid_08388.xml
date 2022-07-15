@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_08388.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08387.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08389.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Edda, in: Fackel Heft 20, Nr. 484, 1918, S. 72-73</title>
+            <title type="iso-date">1918-10-01</title>
+            <title type="id">tid_08388</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">20</title><title type="heft">484</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-20-484_n0072.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/484,072</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Edda</head>
+            <p ana="pr110550_a">
+<space/>»Sie haben recht«,<lb/>
+</p>
+            <p ana="pr110552">
+sagte <rs type="pers" ana="n_69082" ref="#fk__p_55493">Kaiser Wilhelm II.</rs> im <rs type="inst">Hauptquartier</rs> zum <seg type="insult">Dichter <rs type="pers" ana="n_69083" ref="#fk__p_49907">Max<lb/>
+Bewer</rs> vom <rs type="" ana="werk_21445">Lokalanzeiger</rs></seg>,<lb/>
+</p>
+            <p ana="pr110554">
+»<seg type="spc"><rs type="pers" ana="n_69084" ref="#fk__p_55030">Hindenburg</rs> ist unser <rs type="pers">Wotan</rs> und <rs type="pers" ana="n_69085" ref="#fk__p_55058">Ludendorff</rs> der<lb/>
+<rs type="pers">Siegfried</rs> unserer Zeit</seg>.«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_55058">
+               <persName>Ludendorff, Erich Friedrich Wilhelm</persName>
+               <birth>
+                  <date>1865-4-9</date>
+                  <place>Kruszewnia bei Posen</place>
+               </birth>
+               <death>
+                  <date>1937-12-20</date>
+                  <place>Tutzing</place>
+               </death>
+               <occupation>Offizier</occupation>
+               <occupation>Politiker</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17720</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12122</idno></person>
+            <person xml:id="fk__p_55493">
+               <persName>Wilhelm II., Kaiser</persName>
+               <birth>
+                  <date>1859-1-27</date>
+                  <place>Berlin</place>
+               </birth>
+               <death>
+                  <date>1941-6-4</date>
+                  <place>Doorn/Niederlande</place>
+               </death>
+               <occupation>Kaiser</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_21338</idno></person>
+            <person xml:id="fk__p_55030">
+               <persName>Beneckendorff-Hindenburg, Paul von</persName>
+               <birth>
+                  <date>1847-10-2</date>
+                  <place>Posen</place>
+               </birth>
+               <death>
+                  <date>1934-8-2</date>
+                  <place>Neudeck</place>
+               </death>
+               <occupation>Offizier</occupation>
+               <occupation>Politiker</occupation>
+               <note type="comment">Reichspräsident seit 1925</note>
+            </person>
+            <person xml:id="fk__p_49907">
+               <persName>Bewer, Max Paul Eugen</persName>
+               <birth>
+                  <date>1861-1-19</date>
+                  <place>Düsseldorf</place>
+               </birth>
+               <death>
+                  <date>1921-10-15</date>
+                  <place>Laubegast</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

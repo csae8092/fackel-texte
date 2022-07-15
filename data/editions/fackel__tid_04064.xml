@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_04064.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04063.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04065.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Sammler. (Überall Bachrach), in: Fackel Heft 07, Nr. 194, 1906, S. 26-26</title>
+            <title type="iso-date">1906-01-31</title>
+            <title type="id">tid_04064</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">07</title><title type="heft">194</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-07-194_n0026.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/194,026</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Sammler. (Überall Bachrach)</head>
+            <p ana="pr42347">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="name_201289" ref="#fk__p_52736">Sammler</rs>.</seg></seg> Daß die ‚<rs type="paper" ana="werk_14334">Neue Freie Presse</rs>‘ (Abendblatt vom<lb/>
+<date>17. Jänner</date>) aus Herrn <rs type="pers" ana="n_35010" ref="#fk__p_54439"><abbr>v.</abbr> <seg type="spc">Bacheracht</seg></rs>, dem Vertreter Rußlands<lb/>
+bei der <rs type="event">Marokko-Konferenz</rs>, einen <seg type="insult"><rs type="pers" ana="n_35011" ref="#fk__p_38658"><seg type="spc">Bachrach</seg></rs></seg> macht, ist begreiflich.<lb/>
+Der Name ist ihr sympathisch, auch wenn ihr sein bedeutendster<lb/>
+Träger nicht so sehr an’s Herz gewachsen wäre. Und warum könnte<lb/>
+<seg type="insult">unser <seg type="ELIDASH">Hofvermittler</seg> und Staatsvermittler</seg> nicht auch in Marokko seine Hand im<lb/>
+Spiele gehabt haben?<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_54439">
+               <persName>Bacheracht, Basil von</persName>
+               <birth>
+                  <date>1851</date>
+               </birth>
+               <death>
+                  <date>1916-10-18</date>
+                  <place>Bern</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <occupation>Diplomat</occupation>
+               <note type="comment">russ. Botschafter in der Schweiz</note>
+            </person>
+            <person xml:id="fk__p_38658">
+               <persName>Bachrach, Adolf Edler von</persName>
+               <birth>
+                  <date>1853-12-27</date>
+                  <place>Sternberg/Mähren</place>
+               </birth>
+               <death>
+                  <date>1932-4-18</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Rechtsanwalt</occupation>
+               <note type="comment">1., Rosenbursenstr. 8</note>
+               <note type="comment">Stockhammer, mailing list 19. 1. 2008</note>
+               <note type="comment">ZF 1. Tor, 20/16/57</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/3618</idno></person>
+            <person xml:id="fk__p_52736">
+               <persName>Sammler</persName>
+            </person>
+            </listPerson></back></text>
+</TEI>

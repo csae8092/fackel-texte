@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01222.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01221.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01223.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Eine Personalnachricht.), in: Fackel Heft 02, Nr. 052, 1900, S. 20-20</title>
+            <title type="iso-date">1900-09-01</title>
+            <title type="id">tid_01222</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">052</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-052_n0020.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/052,020</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Eine Personalnachricht.)</head>
+            <p ana="pr11738">
+<space/><inciptit>Als</inciptit> <seg type="insult">‚Personalnachricht‘</seg> brachte die ‚<rs type="paper" ana="werk_3593">Neue Freie Presse</rs>‘ am<lb/>
+<date>6. <abbr>d. M.</abbr></date> die nachstehende Meldung: »Wachcommandant <rs type="pers" ana="n_9587" ref="#fk__p_55819">Zaunmüller</rs><lb/>
+ist von seinem Urlaub zurückgekehrt und hat das Commando der<lb/>
+Justizwache wieder übernommen.«<lb/>
+</p>
+            <p ana="pr11739">
+<space/>Wir stehen hier vor <seg type="insult">einer eigenartigen Neuerung</seg>. Bisher<lb/>
+wurde bloß die Thatsache, dass <seg type="insult">ein reclamebedürftiger Arzt oder<lb/>
+Advokat</seg> vom Urlaube eingerückt ist, der Welt verkündet. Aber es<lb/>
+geschieht das erstemal, dass ein Soldat, der seinen Posten bezieht,<lb/>
+in den Tagesblättern genannt wird. Sollten auch schon Beamte und<lb/>
+Officiere das Erdendasein ohne <seg type="insult">Reclamenotiz</seg> unerträglich finden? Von<lb/>
+wannen datieren die <seg type="insult">Beziehungen eines Wachcommandanten zur<lb/>
+‚<rs type="paper" ana="werk_3594">Neuen Freien Presse</rs>‘</seg>? Und interessant wäre es, zu eruiren, ob Herr<lb/>
+<rs type="pers" ana="n_9588" ref="#fk__p_55819">Zaunmüller</rs>, bevor er das Commando wieder übernahm, sich <seg type="spc">freiwillig<lb/>
+</seg> bei <seg type="insult">Herrn <rs type="pers" ana="n_9589" ref="#fk__p_50373">Benedikt</rs></seg> gemeldet hat. Vielleicht geht das <rs type="inst">Kriegsministerium<lb/>
+</rs> diesen Fragen nach. Man stelle sich nur die Situation vor,<lb/>
+wenn etwa ein <seg type="insult">Gerichtssaalreporter</seg> sich während einer Verhandlung<lb/>
+unanständig benimmt und die Justizwache sich weigert, einzuschreiten<lb/>
+, weil sie sich’s mit <seg type="insult">dem Herrn</seg>, der <seg type="insult">so schöne Reclamenotizen<lb/>
+</seg> bringt, nicht verderben will <seg type="symbol" subtype="4dots"/><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_50373">
+               <persName>Benedikt, Moriz</persName>
+               <birth>
+                  <date>1849-5-27</date>
+                  <place>Kwatschitz/Mähren</place>
+               </birth>
+               <death>
+                  <date>1920-3-18</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <note type="comment">Geburtsort Kwatschitz bei Ungarisch Hradisch/Mähren, nicht Kwassitz bei Kremsier</note>
+               <note type="comment">1. Tor, 20/1/1a</note>
+               <note type="comment">Hrsg. der NFP (seit 1908 alleiniger Leiter)</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10875</idno></person>
+            <person xml:id="fk__p_55819">
+               <persName>Zaunmüller, Josef</persName>
+               <birth>
+                  <date>1852?</date>
+               </birth>
+               <death>
+                  <date>1908-5-20</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Justizwachebeamter</occupation>
+               <note type="comment">9., Viriotgasse 4</note>
+               <note type="comment">ZF 34C/4/21 (bis 27.4.2008)</note>
+               <note type="comment">http://anno.onb.ac.at/cgi-content/anno?apm=0&amp;aid=nfp&amp;datum=19080520&amp;seite=33&amp;zoom=2</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

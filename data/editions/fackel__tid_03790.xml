@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03790.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03789.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03791.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Publikum. (Tamagno in Wien), in: Fackel Heft 06, Nr. 174, 1905, S. 21-21</title>
+            <title type="iso-date">1905-01-31</title>
+            <title type="id">tid_03790</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">06</title><title type="heft">174</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-06-174_n0021.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/174,021</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Publikum. (Tamagno in Wien)</head>
+            <p ana="pr38012">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="name_201259" ref="#fk__p_51874">Publikum</rs>.</seg></seg> <rs type="pers" ana="n_32499" ref="#fk__p_53933">Tamagno</rs> in Wien<seg type="symbol" subtype="3dots"/> Natürlich wurde er interviewt.<lb/>
+Diesmal scheinen aber <seg type="insult">die verschiedenen Reporter</seg> bei verschiedenen<lb/>
+Hotelzimmertüren eingetreten zu sein. <seg type="insult">Der von der ‚<rs type="paper" ana="werk_13568">Neuen Freien Presse</rs>‘</seg><lb/>
+kam heraus und erzählte, <rs type="pers" ana="n_32500" ref="#fk__p_53933">Tamagno</rs> sei »untersetzt«, <seg type="insult">der Vertreter des<lb/>
+‚<rs type="paper" ana="werk_13569">Fremdenblatt</rs>‘</seg> versicherte, <rs type="pers" ana="n_32501" ref="#fk__p_53933">Tamagno</rs> habe eine »hünenhafte Gestalt«.<lb/>
+<seg type="insult">Der Mann von der ‚<rs type="paper" ana="werk_13570">Neuen Freien Presse</rs>‘</seg> meldete, daß der berühmte<lb/>
+Tenor 46 Jahre, der vom ‚<rs type="paper" ana="werk_13571">Fremdenblatt</rs>‘, daß er 54 Jahre alt sei. Dem<lb/>
+von der ‚<rs type="paper" ana="werk_13572">Neuen Freien Presse</rs>‘ hatte <rs type="pers" ana="n_32502" ref="#fk__p_53933">Tamagno</rs> gesagt, daß er nie eine<lb/>
+<rs type="pers" ana="n_32503" ref="#fk__p_52212">Wagner-Rolle</rs> gesungen habe, dem vom ‚<rs type="paper" ana="werk_13573">Fremdenblatt</rs>‘ hatte er von<lb/>
+jener Zeit erzählt, in der er in Mailand »den <rs type="pers">Tannhäuser</rs> sang«<seg type="symbol" subtype="3dots"/> Wenn<lb/>
+ein berühmter Mann nach Wien kommt, funktioniert der <seg type="insult">Apparat der<lb/>
+Wiener Presse</seg> tadellos. In jedem Stockwerke des Hotels wird er interviewt<lb/>
+. Und meistens ist er um diese Zeit auch schon abgestiegen.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_52212">
+               <persName>Wagner, Richard</persName>
+               <birth>
+                  <date>1813-5-22</date>
+                  <place>Leipzig</place>
+               </birth>
+               <death>
+                  <date>1883-2-13</date>
+                  <place>Venedig</place>
+               </death>
+               <occupation>Komponist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/13024</idno></person>
+            <person xml:id="fk__p_51874">
+               <persName>Publikum</persName>
+            </person>
+            <person xml:id="fk__p_53933">
+               <persName>Tamagno, Francesco</persName>
+               <birth>
+                  <date>1850-12-28</date>
+                  <place>Turin</place>
+               </birth>
+               <death>
+                  <date>1905-8-31</date>
+                  <place>Varese</place>
+               </death>
+               <occupation>Sänger</occupation>
+               <note type="comment">Tenor</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/25859</idno></person>
+            </listPerson></back></text>
+</TEI>

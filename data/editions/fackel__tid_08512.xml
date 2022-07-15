@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_08512.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08511.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08513.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ja von wem denn?, in: Fackel Heft 20, Nr. 484, 1918, S. 200-200</title>
+            <title type="iso-date">1918-10-01</title>
+            <title type="id">tid_08512</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">20</title><title type="heft">484</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-20-484_n0200.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/484,200</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ja von wem denn?</head>
+            <p ana="pr111720">
+<space/>— — Dann richtete <rs type="pers" ana="n_69545" ref="#fk__p_43714">Graf Conrad</rs> das Wort an die jüngsten<lb/>
+<rs type="pers" ana="n_69546" ref="#fk__p_49668">Theresienritter</rs>. Die <seg type="spc">von so vielen angefeindete</seg>, von ihren<lb/>
+Völkern aber abgöttisch geliebte <rs type="pers" ana="n_69547" ref="#fk__p_49668">Kaiserin Maria Theresia</rs> sei es gewesen<lb/>
+, die nach der Schlacht von Kolin — —<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_43714">
+               <persName>Conrad-Hötzendorf, Franz Graf </persName>
+               <birth>
+                  <date>1852-11-11</date>
+                  <place>Penzing bei Wien</place>
+               </birth>
+               <death>
+                  <date>1925-8-25</date>
+                  <place>Bad Mergentheim</place>
+               </death>
+               <occupation>Offizier</occupation>
+               <note type="comment">seit 1906 Chef des Generalstabs</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_14266</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11102</idno></person>
+            <person xml:id="fk__p_49668">
+               <persName>Maria Theresia </persName>
+               <death>
+                  <date>1780-11-29</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Königin</occupation>
+               <occupation>Kaiserin</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/4255</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06497.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06496.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06498.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Der Burgmusikreferent, in: Fackel Heft 15, Nr. 387, 1913, S. 6-6</title>
+            <title type="iso-date">1913-11-01</title>
+            <title type="id">tid_06497</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">15</title><title type="heft">387</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-15-387_n0006.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/387,006</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Der Burgmusikreferent</head>
+            <p ana="pr87870">
+<space/><seg type="symbol" subtype="4dots"/> Er hat uns leider nichts geschenkt, was die Banalität<lb/>
+seines Unternehmens hätte mildern können, nicht einmal den Marsch<lb/>
+von <rs type="pers" ana="n_60299" ref="#fk__p_46581"><abbr>J. F.</abbr> Wagner</rs> »<rs type="title">Unter dem Doppeladler</rs>«, unter dessen Klängen <seg type="spc">wir</seg><lb/>
+zur Wachablösung in den Burghof <seg type="spc">zu marschieren gewöhnt sind</seg>.<lb/>
+</p>
+            <p ana="pr87872">
+<space/>Das ist neu. <seg type="insult">Die Erscheinung <rs type="pers" ana="n_60300" ref="#fk__p_49302">Karpaths</rs></seg> ist mir unter denen,<lb/>
+die bei <rs type="pers" ana="n_60301" ref="#fk__p_52212">Wagner</rs> bis zur Wachablösung noch mitgehen, bisher nicht<lb/>
+aufgefallen. Ich hätte ihn bemerken müssen.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_49302">
+               <persName>Karpath, Ludwig</persName>
+               <birth>
+                  <date>1866-4-27</date>
+                  <place>Pest</place>
+               </birth>
+               <death>
+                  <date>1936-9-8</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Musikschriftsteller</occupation>
+               <note type="comment">NWT 01.04.1913, Seite 14 Ein in der ersten Reihe stehender junger Mann rief </note>
+               <note type="comment">unaufhörlich "L......!" worauf Herr Buschbeck vom Podium eilte und dem</note>
+               <note type="comment">betreffenden jungen Mann eine Ohrfeige versetzte.</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11885</idno></person>
+            <person xml:id="fk__p_46581">
+               <persName>Wagner, Josef Franz</persName>
+               <birth>
+                  <date>1856-3-20</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1908-6-5</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Komponist</occupation>
+               <occupation>Kapellmeister</occupation>
+               <note type="comment">schrieb den Marsch "Unter dem Doppeladler" op. 159 (1902)</note>
+            </person>
+            <person xml:id="fk__p_52212">
+               <persName>Wagner, Richard</persName>
+               <birth>
+                  <date>1813-5-22</date>
+                  <place>Leipzig</place>
+               </birth>
+               <death>
+                  <date>1883-2-13</date>
+                  <place>Venedig</place>
+               </death>
+               <occupation>Komponist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/13024</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,48 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_09621.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09620.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09622.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Nicht von mir erfunden, in: Fackel Heft 25, Nr. 632, 1923, S. 128-129</title>
+            <title type="iso-date">1923-10-01</title>
+            <title type="id">tid_09621</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">25</title><title type="heft">632</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-25-632_n0128.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/632,128</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Nicht von mir erfunden</head>
+            <p ana="pr129114">
+Und so grüßen wir ihn an seinem fünfzigsten Geburtstage als einen<lb/>
+der <seg type="insult"><seg type="spc">Hüter unserer heiligsten Vaterlandsgefühle</seg></seg><lb/>
+und wünschen ihm und uns, daß er sie noch recht lange mit<lb/>
+<seg type="insult"><seg type="spc">seiner gesegneten Kunst</seg></seg> zum Ausdruck bringen möge!<lb/>
+</p>
+            <p ana="pr129116">
+<seg type="insult">Nämlich der <rs type="pers" ana="n_79183" ref="#fk__p_43947">Schönpflug</rs>.</seg><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_43947">
+               <persName>Schönpflug, Fritz</persName>
+               <birth>
+                  <date>1873-06-15</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1951-02-18</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Maler</occupation>
+               <occupation>Zeichner</occupation>
+               <occupation>Illustrator</occupation>
+               <note type="comment">Ögg teilt 686/10f. mit Fragezeichen zu (Klischee-Arbeiter der Stunde, gefälschtes Kinderbild)</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

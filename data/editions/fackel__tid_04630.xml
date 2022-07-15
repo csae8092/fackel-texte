@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_04630.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04629.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04631.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Das Unterbewußtsein des Grafen Moltke), in: Fackel Heft 09, Nr. 249, 1908, S. 12-13</title>
+            <title type="iso-date">1908-04-1</title>
+            <title type="id">tid_04630</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">09</title><title type="heft">249</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-09-249_n0012.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/249,012</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Das Unterbewußtsein des Grafen Moltke)</head>
+            <p ana="pr53022">
+<space/><seg type="insult">Herr <rs type="pers" ana="n_41801" ref="#fk__p_49994">Harden</rs></seg> ist noch immer sehr böse darüber,<lb/>
+daß <rs type="pers" ana="n_41802" ref="#fk__p_48367">Graf Moltke</rs> in der zweiten Verhandlung »zum<lb/>
+Eid über Triebe, Regungen, Wünsche, die vielleicht<lb/>
+nie über die Schwelle des Bewußtseins krochen, sie<lb/>
+niemals überkriechen mochten«, zugelassen worden<lb/>
+ist. In der ersten Verhandlung hat bloß <seg type="insult">Herr <rs type="pers" ana="n_41803" ref="#fk__p_49994">Harden</rs></seg><lb/>
+über die Vorgänge im Unbewußten des <rs type="pers" ana="n_41804" ref="#fk__p_48367">Grafen<lb/>
+Moltke</rs> ausgesagt.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_48367">
+               <persName>Moltke, Kuno Augustus Graf</persName>
+               <birth>
+                  <date>1847-12-13</date>
+                  <place>Neustrelitz</place>
+               </birth>
+               <death>
+                  <date>1923-03-19</date>
+                  <place>Breslau</place>
+               </death>
+               <occupation>Generalleutnant</occupation>
+            </person>
+            <person xml:id="fk__p_49994">
+               <persName>Harden, Maximilian</persName>
+               <birth>
+                  <date>1861-10-20</date>
+                  <place>Berlin</place>
+               </birth>
+               <death>
+                  <date>1927-10-30</date>
+                  <place>Montana-Vermala, Schweiz</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Publizist</occupation>
+               <note type="comment">166/18 Johannes</note>
+               <note type="comment">Hrsg. der "Zukunft"</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11581</idno></person>
+            </listPerson></back></text>
+</TEI>

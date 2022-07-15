@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00344.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00343.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00345.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Valerie, Weidlingau., in: Fackel Heft 01, Nr. 014, 1899, S. 23-23</title>
+            <title type="iso-date">1899-08-01</title>
+            <title type="id">tid_00344</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">014</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-014_n0023.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/014,023</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Valerie, Weidlingau.</head>
+            <p ana="pr3192">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_2272" key="#fk__p_54778">Valerie</rs>, Weidlingau.</seg></seg> Herr <rs type="pers" ana="n_2273" ref="#fk__p_47805"><seg type="spc">Khittel</seg></rs> ist nicht kaiserlicher Rath,<lb/>
+sondern Hofrath in der Direction der Staatsbahnen. Sie haben trotzdem<lb/>
+mit Ihrer Beschwerde recht. <seg type="insult">Der Herr</seg> könnte ganz gut erster Classe<lb/>
+fahren, und wenn er schon einen eigenen Salonwagen für sich ankoppeln<lb/>
+ lässt, dann sollte die Procedur wenigstens rascher vor<lb/>
+sich gehen. <seg type="insult">20 Minuten Zugsverspätung wegen eines Hofrathes</seg> —<lb/>
+das ist denn doch eine <seg type="insult">ungebürliche Belästigung des reisenden<lb/>
+Publicums</seg>. Länger dauert’s ja auch nicht, wenn Herr <rs type="pers" ana="n_2274" ref="#fk__p_54042"><abbr>v.</abbr> Taussig</rs> befördert<lb/>
+ wird. (Vgl. <rs type="selfRef" ana="werk_837"><abbr>Nr.</abbr> 9</rs> der ‚<rs type="self" ana="werk_838">Fackel</rs>‘.)<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_47805">
+               <persName>Khittel von Westhort, Jaroslav</persName>
+               <birth>
+                  <date>1845-05-13</date>
+                  <place>Prag</place>
+               </birth>
+               <death>
+                  <date>1918-08-16</date>
+                  <place>Baden/NÖ</place>
+               </death>
+               <occupation>Eisenbahnfachmann</occupation>
+            </person>
+            <person xml:id="fk__p_54042">
+               <persName>Taussig, Theodor Ritter von</persName>
+               <birth>
+                  <date>1849-7-22</date>
+                  <place>Prag</place>
+               </birth>
+               <death>
+                  <date>1909-11-24</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Bankier</occupation>
+               <occupation>Industrieller</occupation>
+               <note type="comment">Gouverneur der Boden-Credit-Anstalt</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_20650</idno></person>
+            </listPerson></back></text>
+</TEI>

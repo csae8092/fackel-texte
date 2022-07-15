@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06775.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06774.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06776.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Die Kammerfrau Böjty — auch wer! Tausend solche gibt es, nicht genannt soll sie werden, in: Fackel Heft 16, Nr. 399, 1914, S. 18-19</title>
+            <title type="iso-date">1914-05-01</title>
+            <title type="id">tid_06775</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">16</title><title type="heft">399</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-16-399_n0018.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/399,018</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Die Kammerfrau Böjty — auch wer! Tausend solche gibt es, nicht genannt soll sie werden</head>
+            <p ana="pr91207">
+<space/>In Wirklichkeit gibt es in diesem aufsehenerregenden Prozesse<lb/>
+nur einen einzigen Angeklagten: den <rs type="pers" ana="n_62058" ref="#fk__p_38793">Baron Heinrich Stralendorff</rs>.<lb/>
+<seg type="spc">Wohl sitzt neben ihm</seg> auf der Bank die Kammerfrau <rs type="pers" ana="n_62059" ref="#fk__p_39370">Böjty</rs>, <seg type="spc">aber<lb/>
+schon</seg> nach ihrer Vernehmung war sie beinahe <seg type="spc">vollständig<lb/>
+erledigt</seg>, <seg type="spc">niemand kümmert sich um sie</seg>, <seg type="spc">kaum daß noch</seg><lb/>
+</p>
+            <p ana="pr91207">
+<seg type="spc">hie und da ihr Name fällt</seg>. <rs type="pers" ana="n_62060" ref="#fk__p_38793">Baron Stralendorff</rs> <seg type="spc">aber</seg> steht immer<lb/>
+wieder mit nach rückwärts verschränkten Armen vor dem Richtertisch,<lb/>
+korrigiert jede Zeugenaussage und bleibt mit gelassener Ruhe bei seinen<lb/>
+Behauptungen.<lb/>
+</p>
+            <p ana="pr91210">
+<space/>So gehört sichs. Die Kammerfrau <rs type="pers" ana="n_62061" ref="#fk__p_39370">Böjty</rs> aber scheint die<lb/>
+schwerste Enttäuschung für die <rs type="paper" ana="werk_20204">Neue Freie Presse</rs> zu sein. So<lb/>
+fallen gelassen wurde noch niemand. Sie ist fertig. Kein Hund<lb/>
+kräht nach ihr, kein Hahn nimmt von ihr einen Bissen, sie ist<lb/>
+keine <seg type="insult"><foreign xml:lang="fr">cause célèbre</foreign></seg> in der <seg type="insult"><foreign xml:lang="fr">chronique scandaleuse</foreign></seg>, würde <rs type="pers" ana="n_62062" ref="#fk__p_49302">Karpath</rs><lb/>
+sagen, der aber immerhin die Nachsicht der Erkenntnis hätte:<lb/>
+<foreign xml:lang="fr">tout pardonner c’est tout comprendre</foreign>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_49302">
+               <persName>Karpath, Ludwig</persName>
+               <birth>
+                  <date>1866-4-27</date>
+                  <place>Pest</place>
+               </birth>
+               <death>
+                  <date>1936-9-8</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Musikschriftsteller</occupation>
+               <note type="comment">NWT 01.04.1913, Seite 14 Ein in der ersten Reihe stehender junger Mann rief </note>
+               <note type="comment">unaufhörlich "L......!" worauf Herr Buschbeck vom Podium eilte und dem</note>
+               <note type="comment">betreffenden jungen Mann eine Ohrfeige versetzte.</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11885</idno></person>
+            <person xml:id="fk__p_39370">
+               <persName>Böjty, Emma</persName>
+               <birth>
+                  <date>1880-6-3</date>
+                  <place>Wien</place>
+               </birth>
+               <occupation>Kammerfrau</occupation>
+               <note type="comment">Das Tagebuch der Gräfin Vera Esterhazy, NFP 12.5.1914ff.</note>
+               <note type="comment">16., Wichtelgasse 14</note>
+            </person>
+            <person xml:id="fk__p_38793">
+               <persName>Stralendorff, Heinrich Baron von</persName>
+               <birth>
+                  <date>1882-8-14</date>
+                  <place>Schwarzwald/Komitat Bihar</place>
+               </birth>
+               <note type="comment">Prozeß Vera Esterházy; Angeklagter 1914</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

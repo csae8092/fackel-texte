@@ -1,0 +1,99 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07773.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07772.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07774.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Bibliographisches), in: Fackel Heft 19, Nr. 454, 1234, S. 36-36</title>
+            <title type="iso-date">1234-01-01</title>
+            <title type="id">tid_07773</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">19</title><title type="heft">454</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-19-454_n0036.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/454,036</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Bibliographisches)</head>
+            <p ana="pr104035">
+<space/><seg type="spc">Bibliographisches</seg>. ‚<rs type="magazine" ana="werk_21091">Die Glocke</rs>‘ (sozialistische Wochenschrift<lb/>
+, herausgegeben von <rs type="pers" ana="n_66933" ref="#fk__p_51142">Parvus</rs>), II. <abbr>Nr.</abbr> 48, <date>24. Februar</date>:<lb/>
+»<rs type="title">Ein Feind der Presse</rs>« von <rs type="pers" ana="n_66934" key="#fk__p_59777"><abbr>R. B.</abbr></rs> — ‚<rs type="paper" ana="werk_21092"><rs type="pers" ana="n_66935" ref="#fk__p_57322">Danzer’s</rs> Armee-Zeitung</rs>‘,<lb/>
+<date>11. Januar</date>: <seg type="insult">»<rs type="title">Der Ur-Schmock, Zur Verteidigung eines alten Journalisten<lb/>
+</rs>«</seg> von <rs type="pers" ana="n_66936" ref="#fk__p_49477"><abbr>M. v. B.</abbr></rs> — ‚<rs type="magazine" ana="werk_21093">Die Schaubühne</rs>‘ XIII. <abbr>Nr.</abbr> 11,<lb/>
+<date>15. März</date>: <rs type="pers" ana="n_66937" ref="#fk__p_47565">Karl Kraus</rs>, Vorwort von <rs type="pers" ana="n_66938" ref="#fk__p_39180">Berthold Viertel.</rs><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_47565">
+               <persName>Kraus, Karl</persName>
+               <birth>
+                  <date>1874-4-28</date>
+                  <place>Jicin, Böhmen</place>
+               </birth>
+               <death>
+                  <date>1936-6-12</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Publizist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11988</idno></person>
+            <person xml:id="fk__p_49477">
+               <persName>Berthof, Melanie von</persName>
+               <birth>
+                  <date>1863-8-24</date>
+                  <place>Wien</place>
+               </birth>
+               <note type="comment">Danzer's Armee-Zeitung 11.1.1917 "Der Ur-Schmock. Zur Verteidigung eines alten Journalisten"</note>
+               <note type="comment">lebte in Paris, übersetzte Barbey D'Aurevilly</note>
+            </person>
+            <person xml:id="fk__p_39180">
+               <persName>Viertel, Berthold</persName>
+               <birth>
+                  <date>1885-6-28</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1953-9-24</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Regisseur</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10364</idno></person>
+            <person xml:id="fk__p_51142">
+               <persName>Parvus, Alexander</persName>
+               <birth>
+                  <date>1867-9-8</date>
+                  <place>Beresino</place>
+               </birth>
+               <death>
+                  <date>1924-12-12</date>
+                  <place>Berlin</place>
+               </death>
+               <occupation>Publizist</occupation>
+               <occupation>Theoretiker</occupation>
+               <note type="comment">Ögg: "Geschäftemacher"</note>
+            </person>
+            <person xml:id="fk__p_57322">
+               <persName>Danzer, Karl Maria</persName>
+               <birth>
+                  <date>1876-5-1</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1936-11-29</date>
+                  <place>Klosterneuburg</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Publizist</occupation>
+               <occupation>Buchhändler</occupation>
+               <note type="comment">Danzer's Armee-Zeitung</note>
+               <note type="comment">18., Anton Frank-Gasse 17</note>
+               <note type="comment">ZF 3.12.1936, 72A/24/13; </note>
+               <note type="comment">Danzer's Armee-Zeitung</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

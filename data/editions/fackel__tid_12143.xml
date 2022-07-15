@@ -1,0 +1,32 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_12143.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_12142.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_12144.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Druckfehlerberichtigung), in: Fackel Heft 34, Nr. 876, 1932, S. 94-94</title>
+            <title type="iso-date">1932-10-01</title>
+            <title type="id">tid_12143</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">34</title><title type="heft">876</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-34-876_n0094.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/876,094</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Druckfehlerberichtigung)</head>
+            <p ana="pr176920">
+<space/><FCORR id="fcorr_206" ferrID="ferr_206" href="FK-33-868_n0025.xml">In <rs type="selfRef" ana="werk_33252"><abbr>Nr.</abbr> 868—872</rs> <abbr>S.</abbr> 25, <abbr>Z.</abbr> 17 statt »<date>19. Dezember</date>«: <seg type="i"><date><EM id="em_206">19. Februar</EM></date></seg></FCORR><seg type="i">;</seg><lb/>
+<FCORR id="fcorr_207" ferrID="ferr_207" href="FK-33-868_n0035.xml"><abbr>S.</abbr> 35, <abbr>Z.</abbr> 13 statt »Weit weniger als«: <EM id="em_207" ferrID="ferr_207" href="FK-33-868_n0035.xml">Weit weniger <seg type="i">erheblich</seg> als</EM>.</FCORR><lb/>
+</p>
+            <p ana="pr176921">
+<space/><FCORR href="FK-34-873_u0002.xml" ferrID="fk_04_ferr_30029007" id="fk_04_fcorr_30029007">In <rs type="selfRef" ana="werk_33253"><abbr>Nr.</abbr> 873—875</rs>, 4. Umschlagseite, Notiz <abbr>Z.</abbr> 4 <abbr>v. u.</abbr> statt<lb/>
+»einer«: <EM href="FK-34-873_u0002.xml" ferrID="fk_04_ferr_30029007" id="fk_04_em_30029010"><seg type="i">eines</seg></EM>.</FCORR><lb/>
+</p>
+         </div>
+      </body>
+  <back/></text>
+</TEI>

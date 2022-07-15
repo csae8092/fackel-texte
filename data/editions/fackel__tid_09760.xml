@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_09760.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09759.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09761.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Phonogramme), in: Fackel Heft 26, Nr. 649, 1924, S. 70-71</title>
+            <title type="iso-date">1924-06-01</title>
+            <title type="id">tid_09760</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">26</title><title type="heft">649</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-26-649_n0070.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/649,070</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Phonogramme)</head>
+            <p ana="pr132410">
+<space/>Angeregt durch eine in <rs type="selfRef" ana="werk_25740"><abbr>Nr.</abbr> 404</rs> (<date><abbr>Dez.</abbr> 1914</date>) erwähnte<lb/>
+Sammlung, welche die Gründung eines phonographischen Archivs<lb/>
+ermöglichen sollte und deren Ertrag dann für invalide Soldaten<lb/>
+verwendet wurde, haben sich anläßlich des 50. Geburtstags<lb/>
+Freunde der Vorlesungen (an ihrer Spitze die Herren <rs type="pers" ana="n_80939" ref="#fk__p_59636">Fritz<lb/>
+Engl</rs> und <rs type="pers" ana="n_80940" ref="#fk__p_42647">Emil Stein</rs>) in der gleichen Absicht liebenswürdig<lb/>
+bemüht und mitgeteilt, daß die <rs type="inst">Gemeinde Wien</rs> die Platten<lb/>
+samt den Originalen in Verwahrung nehmen würde. Die<lb/>
+Sammlung hat bis <DATERANGE>Mitte Mai</DATERANGE> den Betrag von K 7,386.825 erreicht.<lb/>
+Allen Beiträgern wird hiemit herzlicher Dank ausgesprochen.<lb/>
+Sollten die Phonogramme wieder nicht zur Ausführung gelangen —<lb/>
+mancherlei Bedenken stehen dem gutgemeinten Unternehmen<lb/>
+im Wege —, so würde die gesammelte Summe abermals wohltätigen<lb/>
+ Zwecken überlassen werden.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_42647">
+               <persName>Stein, Emil</persName>
+               <birth>
+                  <date>1895-6-17</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>leer</date>
+               </death>
+               <occupation>Kaufmann</occupation>
+               <note type="comment">die Herren Fritz Engl und Emil Stein haben sich an die Spitze der Freunde KK's gestellt</note>
+               <note type="comment">Verwahrung von Kraus-Aufnahmen durch die Gemeinde Wien</note>
+               <note type="comment">verh. mit Alice Mittler *11.09.1898; 17., Nattergasse 6/1/1/3</note>
+            </person>
+            <person xml:id="fk__p_59636">
+               <persName>Engl, Fritz</persName>
+               <birth>
+                  <date>1905-4-2</date>
+                  <place>Wien</place>
+               </birth>
+               <occupation>Buchhalter</occupation>
+               <note type="comment">zusammen mit Emil Stein an der Spitze von Freunden KK's 1924</note>
+               <note type="comment">Gmd. Wien soll Plattenaufnahmen KK's in Verwahrung nehmen</note>
+               <note type="comment">13., Lainzer Straße 64</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

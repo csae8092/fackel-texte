@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03173.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03172.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03174.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Clericaler. (Bischof und Börseaner), in: Fackel Heft 05, Nr. 139, 1903, S. 23-24</title>
+            <title type="iso-date">1903-05-30</title>
+            <title type="id">tid_03173</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">05</title><title type="heft">139</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-05-139_n0023.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/139,023</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Clericaler. (Bischof und Börseaner)</head>
+            <p ana="pr31123">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="n_26998" ref="#fk__p_40026">Clericaler</rs>.</seg></seg></seg> Vom verstorbenen Beichtvater der <rs type="pers" ana="n_26999" ref="#fk__p_47407">Kaiserin Eugenie</rs>,<lb/>
+dem Abbé <rs type="pers" ana="n_27000" ref="#fk__p_56044">Bauer</rs>, wird jetzt allerlei Anekdotisches und Schlimmes erzählt.<lb/>
+Er sei ursprünglich Financier gewesen und nach einem leichtfertigen<lb/>
+Leben als Bischof wieder in die <rs type="inst">Börsenhallen</rs> eingekehrt. Kein Grund zur<lb/>
+Aufregung für <seg type="insult">unsere antisemitischen Blätter</seg>! Ein Bischof, der erst später<lb/>
+wieder <seg type="insult"><rs type="inst">Börseaner</rs></seg> wird, ist so unsympathisch nicht. Es soll auch Geistliche<lb/>
+geben, die <seg type="insult"><rs type="inst">Börseaner</rs></seg> <seg type="spc">sind</seg>. Und was des Monsignore Verhältnis mit<lb/>
+einer Ballettänzerin anlangt, nun — es muß nicht immer eine Tänzerin<lb/>
+sein! Aber ernstlich: <seg type="insult">Traktätchen und <rs type="inst">Börsenbüchel</rs></seg> sollten nie verwechselt<lb/>
+werden, und wer so schwach ist, aus Sprüchen wie »Der Herr hat’s gegeben<lb/>
+</p>
+            <p ana="pr31123">
+, der Herr hat’s genommen« und »Geben ist seliger denn Nehmen«<lb/>
+immer nur das <seg type="insult">»Geben« und »Nehmen«</seg> herauszuhören, hat nie zum Priesteramt<lb/>
+ getaugt.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_47407">
+               <persName>Eugénie, Kaiserin</persName>
+               <birth>
+                  <date>1826-5-5</date>
+                  <place>Granada</place>
+               </birth>
+               <death>
+                  <date>1920-7-11</date>
+                  <place>Madrid</place>
+               </death>
+            </person>
+            <person xml:id="fk__p_56044">
+               <persName>Bauer, Bernhard</persName>
+               <birth>
+                  <date>1829</date>
+                  <place>Budapest</place>
+               </birth>
+               <death>
+                  <date>1903-05-14</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Priester</occupation>
+               <occupation>Publizist</occupation>
+               <note type="comment">verstorbener Beichtvater der Kaiserin Eugenie</note>
+               <note type="comment">Beichtvater der Kaiserin Eugenie</note>
+            </person>
+            <person xml:id="fk__p_40026">
+               <persName>Clericaler</persName>
+            </person>
+            </listPerson></back></text>
+</TEI>

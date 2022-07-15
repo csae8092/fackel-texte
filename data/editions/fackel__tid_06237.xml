@@ -1,0 +1,45 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06237.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06236.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06238.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Noch gebildeter, in: Fackel Heft 15, Nr. 374, 1913, S. 11-11</title>
+            <title type="iso-date">1913-05-01</title>
+            <title type="id">tid_06237</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">15</title><title type="heft">374</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-15-374_n0011.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/374,011</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Noch gebildeter</head>
+            <p ana="pr84035">
+<space/>Das französische Schlachtschiff »Edgar Quinet« wurde abberufen<lb/>
+und durch die »Ernest Renan« ersetzt.<lb/>
+</p>
+            <p ana="pr84037">
+Was <seg type="insult">einem Manne von Bildung</seg> wie dem <rs type="pers" ana="n_58458" ref="#fk__p_44037">König von Montenegro</rs><lb/>
+endlich zu denken geben sollte.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_44037">
+               <persName>Nikola I., König von Montenegro</persName>
+               <birth>
+                  <date>1841-10-7</date>
+                  <place>Njegosch</place>
+               </birth>
+               <death>
+                  <date>1921-3-1</date>
+                  <place>Antibes</place>
+               </death>
+               <note type="comment">Nikola I. Petrovic Njegos, 1860 bis 1918 König von Montenegro</note>
+               <note type="comment">Ögg teilt 360/48 Ferdinand von Bulgarien zu</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,103 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03666.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03665.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03667.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ungläubiger. (Apostolischer Segen für eine Firma), in: Fackel Heft 06, Nr. 165, 1904, S. 23-24</title>
+            <title type="iso-date">1904-07-8</title>
+            <title type="id">tid_03666</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">06</title><title type="heft">165</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-06-165_n0023.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/165,023</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ungläubiger. (Apostolischer Segen für eine Firma)</head>
+            <p ana="pr36466">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="name_203158" ref="#fk__p_54401">Ungläubiger</rs>.</seg></seg></seg> Die Firma <rs type="pers" ana="n_31311" ref="#fk__p_43489">Franz Hanfstaengel</rs>, Hofkunstanstalt in<lb/>
+München, veröffentlicht den nachstehenden, an sie gerichteten päpstlichen<lb/>
+Erlaß: »Vatikan, <date>4. Juni 1904</date>. Hochgeehrter Herr! Seine Heiligkeit<lb/>
+Papst <rs type="pers" ana="n_31312" ref="#fk__p_51122">Pius X.</rs> empfing mit größtem Danke die künstlerische und äußerst<lb/>
+gelungene Wiedergabe <seg type="spc">des hervorragenden Meisterwerkes <seg type="insult">des berühmten<lb/>
+ päpstlichen Malers, Geheimen Kämmerers <rs type="pers" ana="n_31313" ref="#fk__p_38633">Grafen<lb/>
+Bertoldo Domenico Lippay</rs></seg></seg>, der imstande war, das erhabene<lb/>
+Antlitz so glücklich zu treffen. Wer die prächtigen Reproduktionen,<lb/>
+die aus Ihrer Anstalt hervorgegangen sind, bewundert hat, kann nicht<lb/>
+umhin, die lebhaftesten Wünsche für deren weiteste Verbreitung auszusprechen<lb/>
+, so daß es einer großen Anzahl von Personen und Instituten<lb/>
+ermöglicht wäre, wenigstens indirekt sich in die Vollkommenheit des<lb/>
+Originalgemäldes vertiefen zu können. Indem Ihnen der Heilige Vater<lb/>
+für die liebenswürdige und kostbare Widmung dankt, erteilt er von<lb/>
+Herzen <seg type="spc">den apostolischen Segen</seg> Ihnen, Ihrer Familie und <seg type="spc">dem<lb/>
+Gedeihen <seg type="insult">Ihres Etablissements</seg></seg>. Ich ergreife diese Gelegenheit<lb/>
+gerne, um Sie meiner ausgezeichneten Hochachtung zu versichern. Ganz<lb/>
+ergebenst <rs type="pers" ana="n_31314" ref="#fk__p_44454">Giovanni Bressan</rs>, Geheimkapellan <abbr>Sr.</abbr> Heiligkeit.« — <seg type="insult">Los von Rom!</seg><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_51122">
+               <persName>Pius X., Papst</persName>
+               <birth>
+                  <date>1835-6-2</date>
+                  <place>Riese</place>
+               </birth>
+               <death>
+                  <date>1914-8-20</date>
+                  <place>Rom</place>
+               </death>
+               <occupation>Papst</occupation>
+               <note type="comment">Piusverein in Österreich benannt nach Pius X., gegründet 1905</note>
+               <note type="comment">4.8.1903-20.8.1914</note>
+            </person>
+            <person xml:id="fk__p_38633">
+               <persName>Lippay, Bartholomäus Dominik </persName>
+               <birth>
+                  <date>1864-9-21</date>
+                  <place>Turzófalva/Komitat Trencin, Ungarn</place>
+               </birth>
+               <death>
+                  <date>1919-12-17</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Maler</occupation>
+               <note type="comment">ZF 47B/5/6 (FD) 22.12.1919</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17580</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/20498</idno></person>
+            <person xml:id="fk__p_44454">
+               <persName>Bressan, Giovanni</persName>
+               <birth>
+                  <date>1861-11-29</date>
+                  <place>Nogara di Treviso</place>
+               </birth>
+               <death>
+                  <date>1950-7-2</date>
+                  <place>Rom</place>
+               </death>
+               <occupation>Kapellan</occupation>
+               <note type="comment">Karl Hausberger, Hermann Schell 1999</note>
+               <note type="comment">Privatsekretär Papst Pius' X.</note>
+            </person>
+            <person xml:id="fk__p_43489">
+               <persName>Hanfstaengel, Franz Seraph</persName>
+               <birth>
+                  <date>1804-03-01</date>
+                  <place>Bayernrain</place>
+               </birth>
+               <death>
+                  <date>1877-04-18</date>
+                  <place>München</place>
+               </death>
+               <occupation>Kunstverleger</occupation>
+               <occupation>Maler</occupation>
+               <occupation>Lithograph</occupation>
+               <occupation>Photograph</occupation>
+            </person>
+            <person xml:id="fk__p_54401">
+               <persName>Ungläubiger</persName>
+            </person>
+            </listPerson></back></text>
+</TEI>

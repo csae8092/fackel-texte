@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_12198.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_12197.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_12199.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Wirklich gedruckt, in: Fackel Heft 34, Nr. 876, 1932, S. 129-129</title>
+            <title type="iso-date">1932-10-01</title>
+            <title type="id">tid_12198</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">34</title><title type="heft">876</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-34-876_n0129.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/876,129</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Wirklich gedruckt</head>
+            <p ana="pr177458">
+als Bildtext in <rs type="pers" ana="n_105732" ref="#fk__p_50000">Schreiers</rs> <seg ana="‚Tag‘"/>:<lb/>
+</p>
+            <p ana="pr177460">
+(4) <seg type="spc"><rs type="pers" ana="n_105733" ref="#fk__p_38501">Schopenhauers</rs> Patenkind</seg>, <rs type="pers" ana="n_105734" ref="#fk__p_38510">Arthur von Gwinner</rs>, <seg type="spc">der<lb/>
+vom Taufpaten auch die Geschäftstüchtigkeit übernommen<lb/>
+ hatte</seg> — er war viele Jahre hindurch Direktor der<lb/>
+<rs type="inst">Deutschen Bank</rs> — ist gestorben.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_50000">
+               <persName>Schreier, Maximilian</persName>
+               <birth>
+                  <date>1877-5-23</date>
+                  <place>Brünn</place>
+               </birth>
+               <death>
+                  <date>1942-6-15</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <note type="comment">evtl. auch 521/75 "Retourkutscher" ?</note>
+               <note type="comment">Hrsg. des "Morgen" und des "Tag"</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/24502</idno></person>
+            <person xml:id="fk__p_38501">
+               <persName>Schopenhauer, Arthur</persName>
+               <birth>
+                  <date>1788-2-22</date>
+                  <place>Danzig</place>
+               </birth>
+               <death>
+                  <date>1860-9-21</date>
+                  <place>Frankfurt am Main</place>
+               </death>
+               <occupation>Philosoph</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/5787</idno></person>
+            <person xml:id="fk__p_38510">
+               <persName>Gwinner, Arthur Philipp Friedrich Wilhelm von</persName>
+               <birth>
+                  <date>1856-04-06</date>
+                  <place>Frankfurt/M.</place>
+               </birth>
+               <death>
+                  <date>1931-12-29</date>
+                  <place>Berlin</place>
+               </death>
+               <occupation>Bankier</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

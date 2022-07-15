@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07746.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07745.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07747.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Versöhnliche Wirkung einer Note, in: Fackel Heft 19, Nr. 454, 1234, S. 15-15</title>
+            <title type="iso-date">1234-01-01</title>
+            <title type="id">tid_07746</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">19</title><title type="heft">454</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-19-454_n0015.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/454,015</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Versöhnliche Wirkung einer Note</head>
+            <p ana="pr103834">
+<abbr>L.</abbr> Köln, <date>9. März</date> (<abbr>Priv.-Tel.</abbr>)<lb/>
+</p>
+            <p ana="pr103835">
+<space/>Die ‚<rs type="paper" ana="werk_21053">Kölnische Zeitung</rs>‘ meldet aus Washington: In amtlichen<lb/>
+Kreisen hat die Note des <rs type="pers" ana="n_66866" ref="#fk__p_44656">Grafen Czernin</rs> <seg type="spc">versöhnend gewirkt<lb/>
+</seg>. Zwar hat sich Österreich-Ungarn prinzipiell dem deutschen<lb/>
+System des verschärften U-Boot-Krieges angeschlossen, aber man<lb/>
+glaubt hier, Österreich-Ungarn <seg type="spc">habe keine Unterseeboote</seg>.<lb/>
+Hervorragende Persönlichkeiten erklärten daher, ein Bruch mit Österreich-Ungarn<lb/>
+, <seg type="spc">bloß der Worte wegen</seg>, sei unwahrscheinlich.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_44656">
+               <persName>Czernin-Chudenitz, Ottokar Theobald Graf </persName>
+               <birth>
+                  <date>1872-09-26</date>
+                  <place>Dimokur/Böhmen</place>
+               </birth>
+               <death>
+                  <date>1932-04-04</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <occupation>Diplomat</occupation>
+               <note type="comment"/>
+               <note type="comment">Sohn Theobald Peter Ottokar (Winař 29.4.1898 - Wien 14.5.1974)</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_14331</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/15184</idno></person>
+            </listPerson></back></text>
+</TEI>

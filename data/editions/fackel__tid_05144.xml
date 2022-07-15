@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_05144.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05143.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05145.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Was man in Amerika von Österreich weiß, in: Fackel Heft 12, Nr. 305, 1910, S. 50-50</title>
+            <title type="iso-date">1910-07-20</title>
+            <title type="id">tid_05144</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">12</title><title type="heft">305</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-12-305_n0050.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/305,050</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Was man in Amerika von Österreich weiß</head>
+            <p ana="pr65914">
+Aus dem <seg ana="New York Herald vom 5. Juli 1910"/>:<lb/>
+</p>
+            <p ana="pr65917">
+<space/><foreign xml:lang="en"><abbr>Mr.</abbr> and <abbr>Mrs.</abbr> <rs type="pers" ana="name_200412" ref="#fk__p_57110"><rs type="pers" ana="n_48117" ref="#fk__p_55142"><abbr>W. K.</abbr> Vanderbilt</rs></rs> and <abbr>Mr.</abbr> <rs type="pers" ana="n_48118" ref="#fk__p_55623">Winfield Hoyt</rs> have<lb/>
+arrived at the <rs type="inst">Hotel <rs type="pers" ana="n2_4148" ref="#fk__p_59638">Stern</rs></rs>, Marienbad.</foreign><lb/>
+</p>
+            <p ana="pr65918">
+<space/><foreign xml:lang="en"><rs type="pers" ana="n_48119" ref="#fk__p_41627"><abbr>Dr.</abbr> Paul Cohn</rs>, of Vienna, has arrived in Carlsbad for a short<lb/>
+sojourn.</foreign><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_59638">
+               <persName>Stern</persName>
+               <note type="comment">Hotel Stern, Marienbad, evtl. kein Personenname</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/25476</idno></person>
+            <person xml:id="fk__p_41627">
+               <persName>Cohn, Paul</persName>
+               <birth>
+                  <date>1872-9-25</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1944-9-2</date>
+                  <place>San Francisco, Kal.</place>
+               </death>
+               <occupation>Chemiker</occupation>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Tochter Charlotte (Loli) Altmünster 13.09.1898-1973</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/6681</idno></person>
+            <person xml:id="fk__p_55623">
+               <persName>Hoyt, Henry Winfield</persName>
+               <birth>
+                  <date>1847-5-11</date>
+                  <place>New York</place>
+               </birth>
+               <death>
+                  <date>1927-3-23</date>
+                  <place>Mesa/Colorado</place>
+               </death>
+               <occupation>Farmer</occupation>
+               <occupation>Rancher</occupation>
+               <occupation>Landvermesser</occupation>
+            </person>
+            <person xml:id="fk__p_55142">
+               <persName>Vanderbilt, William Kissam</persName>
+               <birth>
+                  <date>1849-12-12</date>
+                  <place>New Dorp/N. Y.</place>
+               </birth>
+               <death>
+                  <date>1920-7-22</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Pferdezüchter</occupation>
+            </person>
+            <person xml:id="fk__p_57110">
+               <persName>Vanderbilt, Anne Harriman, geb. Rutherford Sands</persName>
+               <birth>
+                  <date>1859</date>
+               </birth>
+               <death>
+                  <date>1940</date>
+               </death>
+               <occupation>Suffragette</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

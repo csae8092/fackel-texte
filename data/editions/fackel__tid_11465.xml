@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_11465.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11464.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11466.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Aus dem Übertreibhaus, in: Fackel Heft 32, Nr. 838, 1930, S. 82-82</title>
+            <title type="iso-date">1930-09-01</title>
+            <title type="id">tid_11465</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">32</title><title type="heft">838</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-32-838_n0082.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/838,082</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Aus dem Übertreibhaus</head>
+            <p ana="pr166707">
+<space/>— — Er gehörte lange zu den größten und berühmtesten Meistern<lb/>
+seines Faches in deutscher Sprache und war in seiner guten großen<lb/>
+Zeit an seinen glücklichen Abenden <seg type="spc">nicht schwächer und<lb/>
+geringer als</seg> die großen italienischen Tragöden <rs type="pers" ana="n_99961" ref="#fk__p_52497"><seg type="spc">Rossi</seg></rs> und<lb/>
+<rs type="pers" ana="n_99962" ref="#fk__p_50720">Novelli</rs> — —<lb/>
+</p>
+            <p ana="pr166709">
+Schreibt <rs type="pers"><seg type="insult">Schmock</seg></rs>, den <rs type="pers" ana="n_99963" ref="#fk__p_52608">Schildkraut</rs> tatsächlich sehr gut gespielt<lb/>
+hat.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_50720">
+               <persName>Novelli, Ermete</persName>
+               <birth>
+                  <date>1851-5-5</date>
+                  <place>Lucca</place>
+               </birth>
+               <death>
+                  <date>1919-1-30</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2189</idno></person>
+            <person xml:id="fk__p_52608">
+               <persName>Schildkraut, Rudolf</persName>
+               <birth>
+                  <date>1862-4-27</date>
+                  <place>Konstantinopel</place>
+               </birth>
+               <death>
+                  <date>1930-7-15</date>
+                  <place>Los Angeles</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12651</idno></person>
+            <person xml:id="fk__p_52497">
+               <persName>Rossi, Ernesto</persName>
+               <birth>
+                  <date>1827-3-27</date>
+                  <place>Livorno</place>
+               </birth>
+               <death>
+                  <date>1896-6-4</date>
+                  <place>Pescara</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/23623</idno></person>
+            </listPerson></back></text>
+</TEI>

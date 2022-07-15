@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03170.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03169.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03171.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Musiker. (Wagner-Gedenktag), in: Fackel Heft 05, Nr. 139, 1903, S. 22-22</title>
+            <title type="iso-date">1903-05-30</title>
+            <title type="id">tid_03170</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">05</title><title type="heft">139</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-05-139_n0022.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/139,022</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Musiker. (Wagner-Gedenktag)</head>
+            <p ana="pr31114">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_26985" ref="#fk__p_50471">Musiker</rs>.</seg></seg> Die <seg type="insult">Musikstadt Wien</seg> hat jetzt wichtigeres zu thun.<lb/>
+Sie bereitet sich darauf vor, nach dem 39jährigen im kommenden Herbst<lb/>
+<seg type="insult">das wirklich 40jährige Kapellmeisterjubiläum des Herrn <rs type="pers" ana="n_26986" ref="#fk__p_39675">Ziehrer</rs></seg> würdig<lb/>
+zu feiern. Und so hat man ganz vergessen, daß der <date>22. Mai</date> der<lb/>
+neunzigste Geburtstag <rs type="pers" ana="n_26987" ref="#fk__p_52212">Richard Wagner’s</rs> war. Die gebildete Welt hat<lb/>
+den Gedenktag in <seg type="ELIDASH">Opernhäusern</seg> und Concerthäusern geehrt. Bei uns gab’s<lb/>
+bloß im Prater, im <rs type="inst">dritten Caféhaus</rs>, ein Concert zweier Musikkapellen,<lb/>
+bei dem unter etwa 20 Programm-Nummern auch eine <rs type="title"><rs type="pers">Lohengrin-Phantasie<lb/>
+</rs></rs> vorgetragen wurde. Der Beifall war schwach. Der Kapellmeister<lb/>
+ bereute seine schlechte Programmwahl und entschädigte das<lb/>
+Publicum durch eine Zugabe: <foreign xml:lang="de-loc">»<rs type="title">Das Tischerl im Nischerl</rs>«</foreign>, Lied aus der<lb/>
+Posse »<rs type="title">Der Burengeneral</rs>«. Das Lied hatte einen brausenden Erfolg.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_39675">
+               <persName>Ziehrer, Carl Michael</persName>
+               <birth>
+                  <date>1843-5-2</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1922-11-14</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Komponist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10676</idno></person>
+            <person xml:id="fk__p_50471">
+               <persName>Musiker</persName>
+            </person>
+            <person xml:id="fk__p_52212">
+               <persName>Wagner, Richard</persName>
+               <birth>
+                  <date>1813-5-22</date>
+                  <place>Leipzig</place>
+               </birth>
+               <death>
+                  <date>1883-2-13</date>
+                  <place>Venedig</place>
+               </death>
+               <occupation>Komponist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/13024</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_10797.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10796.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10798.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Nur keine einseitige Information!, in: Fackel Heft 28, Nr. 751, 1927, S. 13-13</title>
+            <title type="iso-date">1927-02-01</title>
+            <title type="id">tid_10797</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">28</title><title type="heft">751</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-28-751_n0013.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/751,013</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Nur keine einseitige Information!</head>
+            <p ana="pr150304">
+<space/>Es genügt nicht, daß man <seg type="spc">ein</seg> Blatt liest; um die Wahrheit<lb/>
+zu erfahren, muß man zwei lesen. Zum Beispiel die <seg ana="‚Wiener&#10;Allgemeine Zeitung‘"/>:<lb/>
+</p>
+            <p ana="pr150306">
+<space/><seg type="spc">Die <rs type="inst">Korrespondenz <rs type="pers" ana="n2_7974" ref="#fk__p_58141">Herzog</rs></rs> meldet</seg>:<lb/>
+</p>
+            <p ana="pr150307">
+<space/><seg type="symbol" subtype="3dotsEditor"/> Nach den letzten hieher gelangten Nachrichten scheint es<lb/>
+jedoch, daß <seg type="symbol" subtype="2dotsEditor"/> selbst für den Fall, als ihn (<rs type="pers" ana="n_90149" ref="#fk__p_40688"><abbr>Dr.</abbr> Ahrer</rs>) die telegraphische<lb/>
+Aufforderung des <rs type="inst">Bundeskanzleramtes</rs>, sich dem <rs type="inst">Postsparkassenausschuß</rs><lb/>
+zur Einvernahme zu stellen, erreichen sollte, er <seg type="spc">es aus triftigen<lb/>
+Gründen vorziehen wird</seg>, <seg type="spc">nicht mehr nach Europa<lb/>
+zurückzukehren</seg>.<lb/>
+</p>
+            <p ana="pr150309">
+Und die <seg ana="‚Wiener Stimmen‘"/>:<lb/>
+</p>
+            <p ana="pr150311">
+<space/>Aus <rs type="inst">parlamentarischen Kreisen</rs> <seg type="spc">erfährt die <rs type="inst">Korrespondenz<lb/>
+<rs type="pers" ana="n2_7975" ref="#fk__p_58141">Herzog</rs></rs></seg>:<lb/>
+</p>
+            <p ana="pr150312">
+<space/><seg type="symbol" subtype="3dotsEditor"/> Es ist <seg type="spc">wahrscheinlich</seg>, daß <rs type="pers" ana="n_90150" ref="#fk__p_40688"><abbr>Dr.</abbr> Ahrer</rs>, wenn ihn die<lb/>
+Aufforderung des <rs type="inst">Bundeskanzleramtes</rs> erreicht, sich dem Ausschusse<lb/>
+zu stellen, <seg type="spc">nach Europa zurückkehren wird</seg>.<lb/>
+</p>
+            <p ana="pr150314">
+Wenn man nun beide Versionen erwägt und sich der Vermutung<lb/>
+hingibt, daß die Wahrheit wie immer auch hier in der Mitte<lb/>
+liegt, so wird man schließlich der Ansicht zuneigen, daß die<lb/>
+<rs type="inst">Korrespondenz <rs type="pers" ana="n2_7976" ref="#fk__p_58141">Herzog</rs></rs> insofern recht behalten dürfte, als er bei<lb/>
+aller Wahrscheinlichkeit, daß er nach Europa zurückkehren wird,<lb/>
+aus triftigen Gründen vorziehen wird, nicht mehr nach Europa<lb/>
+zurückzukehren.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_58141">
+               <persName>Herzog (Korrespondenzbüro)</persName>
+               <note type="comment">Philipp Herzog, Red. der Korrespondenz Herzog, 9., Althanplatz 9</note>
+            </person>
+            <person xml:id="fk__p_40688">
+               <persName>Ahrer, Jakob</persName>
+               <birth>
+                  <date>1888-11-28</date>
+                  <place>St. Stefan ob Leoben/Stmk.</place>
+               </birth>
+               <death>
+                  <date>1962-3-31</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <note type="comment">1924-26 Finanzminister</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

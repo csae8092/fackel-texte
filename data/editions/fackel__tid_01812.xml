@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01812.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01811.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01813.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Besucher des Ueberbrettl., in: Fackel Heft 03, Nr. 076, 1901, S. 23-23</title>
+            <title type="iso-date">1901-05-01</title>
+            <title type="id">tid_01812</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">03</title><title type="heft">076</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-03-076_n0023.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/076,023</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Besucher des Ueberbrettl.</head>
+            <p ana="pr17873">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="name_203309" key="#fk__p_60617">Besucher des <rs type="inst">Ueberbrettl</rs></rs>.</seg></seg> <seg type="insult">Die liberale Presse</seg>, so behaupten Sie,<lb/>
+lobte <seg type="insult">Herrn <rs type="pers" ana="n_15057" ref="#fk__p_50864">Oscar Straus</rs></seg>, weil er <seg type="insult">ein Verwandter des ihr nahestehenden<lb/>
+ Gemeinderaths <rs type="pers" ana="n_15058" ref="#fk__p_40518">Stern</rs></seg> ist? Das war doch schwerlich ausschlaggebend<lb/>
+. Man feiert in Herrn <rs type="pers" ana="n_15059" ref="#fk__p_50864">Straus</rs> <seg type="insult">den würdigen Repräsentanten<lb/>
+ des <rs type="inst">»Concordia«-Wien</rs> im Auslande</seg>. Und als <seg type="insult">Herr <rs type="pers" ana="n_15060" ref="#fk__p_42860"><abbr>v.</abbr> Wolzogen</rs></seg><lb/>
+seinen Capellmeister mit den Worten vorstellte: »Sie sehen es ihm<lb/>
+schon an der Nase an, dass er ein Wiener ist«, da nickte <seg type="insult">Herr<lb/>
+<rs type="pers" ana="n_15061" ref="#fk__p_47236">Julius Bauer</rs></seg> zufrieden. Er, dem man in Wien die Abstammung aus<lb/>
+Raab nicht vergessen kann, weiß jetzt, dass man ihn wenigstens in<lb/>
+Berlin für einen <seg type="insult">Wiener</seg> hält.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_42860">
+               <persName>Wolzogen, Ernst Ludwig Freiherr von</persName>
+               <birth>
+                  <date>1855-4-23</date>
+                  <place>Breslau</place>
+               </birth>
+               <death>
+                  <date>1934-7-30</date>
+                  <place>Puppling bei Wolfratshausen</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_21465</idno></person>
+            <person xml:id="fk__p_50864">
+               <persName>Straus, Oscar</persName>
+               <birth>
+                  <date>1870-3-6</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1954-1-11</date>
+                  <place>Bad Ischl</place>
+               </death>
+               <occupation>Komponist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12861</idno></person>
+            <person xml:id="fk__p_47236">
+               <persName>Bauer, Julius</persName>
+               <birth>
+                  <date>1853-10-15</date>
+                  <place>Raab-Szigeth</place>
+               </birth>
+               <death>
+                  <date>1941-6-11</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Kritiker</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2150</idno></person>
+            <person xml:id="fk__p_40518">
+               <persName>Stern, Alfred</persName>
+               <birth>
+                  <date>1831-8-29</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1918-12-1</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Präsident der Israelitischen Kultusgemeinde</occupation>
+               <occupation>Rechtsanwalt</occupation>
+               <note type="comment">Gemeinderat, Vertreter der IKG</note>
+               <note type="comment">1904-18</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/25459</idno></person>
+            </listPerson></back></text>
+</TEI>

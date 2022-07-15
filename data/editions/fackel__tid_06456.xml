@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06456.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06455.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06457.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Das bin ich nicht!, in: Fackel Heft 15, Nr. 384, 1913, S. 12-13</title>
+            <title type="iso-date">1913-10-01</title>
+            <title type="id">tid_06456</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">15</title><title type="heft">384</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-15-384_n0012.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/384,012</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Das bin ich nicht!</head>
+            <p ana="pr87175">
+<space/><seg type="symbol" subtype="4dots"/> <rs type="pers" ana="n_59978" ref="#fk__p_41332">Karl Kraus</rs> feierte die Presse, die zum Gelingen des<lb/>
+Kongresses wesentlich beigetragen habe, und wies auf den innigen<lb/>
+Zusammenhang zwischen modernem Kulturfortschritt und Presse hin.<lb/>
+</p>
+            <p ana="pr87177">
+<space/>Und das leider auch nicht:<lb/>
+</p>
+            <p ana="pr87179">
+<space/><seg type="symbol" subtype="4dots"/> <rs type="pers" ana="n_59979" key="#fk__p_59281">Karl Kraus</rs> <seg type="symbol" subtype="4dots"/> verlor das Gleichgewicht und stürzte drei<lb/>
+Stockwerke tief in das Stiegenhaus. Der Arzt der Filiale der <rs type="inst">Rettungsgesellschaft<lb/>
+</rs> stellte einen Leberriß fest und brachte den Verunglückten<lb/>
+in das <rs type="inst"><rs type="pers" ana="n2_5280" ref="#fk__p_43514">Kaiser-Franz-Josefsspital</rs></rs>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_41332">
+               <persName>Kraus, Carl</persName>
+               <birth>
+                  <date>1865-10-19</date>
+                  <place>Brandeis/Elbe</place>
+               </birth>
+               <death>
+                  <date>1923-8-21</date>
+                  <place>Reichenau</place>
+               </death>
+               <occupation>Arzt</occupation>
+               <occupation>Sanatoriumsleiter</occupation>
+               <note type="comment">Raum für alle hat die Erde! Ihr ganz ergebener Dr. Karl Kraus</note>
+               <note type="comment">6., Theobaldgasse 7</note>
+               <note type="comment">Grab in den Arkaden des Urnenhains</note>
+               <note type="comment">85. Versammlung deutscher Naturforscher und Ärzte. Wien 21.-28.09.1913</note>
+               <note type="comment">Chefarzt Kuranstalt Edlach</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/19710</idno></person>
+            <person xml:id="fk__p_43514">
+               <persName>Franz Joseph I., Kaiser</persName>
+               <birth>
+                  <date>1830-8-18</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1916-11-21</date>
+                  <place>Wien</place>
+               </death>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15150</idno></person>
+            </listPerson></back></text>
+</TEI>

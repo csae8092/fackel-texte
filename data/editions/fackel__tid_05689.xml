@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_05689.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05688.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05690.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Der Kunstkritiker, in: Fackel Heft 13, Nr. 343, 1912, S. 52-52</title>
+            <title type="iso-date">1912-03-01</title>
+            <title type="id">tid_05689</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">13</title><title type="heft">343</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-13-343_n0052.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/343,052</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Der Kunstkritiker</head>
+            <p ana="pr74955">
+<space/>»Ungern vermissen wir Meister des Plakats, wie <seg type="symbol" subtype="3dots"/> <rs type="pers" ana="n_53887" ref="#fk__p_43153"><seg type="spc">Rops</seg></rs>,<lb/>
+<rs type="pers" ana="n_53888" ref="#fk__p_55217"><seg type="spc">Walter Crane</seg></rs> und <seg type="spc">vor allem</seg> von Österreichern <rs type="pers" ana="n_53889" ref="#fk__p_37661"><abbr>A. H.</abbr> <seg type="spc">Schram</seg></rs>,<lb/>
+<rs type="pers" ana="n_53890" ref="#fk__p_56013"><seg type="spc">Veith</seg></rs>, <rs type="pers" ana="n_53891" ref="#fk__p_43947"><seg type="spc">Schönpflug</seg></rs> <seg type="symbol" subtype="3dots"/>«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_56013">
+               <persName>Veith, Eduard</persName>
+               <birth>
+                  <date>1858-3-30</date>
+                  <place>Neutitschein</place>
+               </birth>
+               <death>
+                  <date>1925-3-18</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Maler</occupation>
+            </person>
+            <person xml:id="fk__p_37661">
+               <persName>Schram, Alois Hans</persName>
+               <birth>
+                  <date>1864-08-20</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1919-04-08</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Maler</occupation>
+            </person>
+            <person xml:id="fk__p_55217">
+               <persName>Crane, Walter</persName>
+               <birth>
+                  <date>1845-8-15</date>
+                  <place>Liverpool</place>
+               </birth>
+               <death>
+                  <date>1915-3-15</date>
+                  <place>Horsham</place>
+               </death>
+               <occupation>Maler</occupation>
+               <occupation>Buchillustrator</occupation>
+            </person>
+            <person xml:id="fk__p_43153">
+               <persName>Rops, Félicien</persName>
+               <birth>
+                  <date>1833-7-7</date>
+                  <place>Namur</place>
+               </birth>
+               <death>
+                  <date>1898-8-23</date>
+                  <place>Corbeil-Essonnes</place>
+               </death>
+               <occupation>Maler</occupation>
+               <occupation>Zeichner</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/9566</idno></person>
+            <person xml:id="fk__p_43947">
+               <persName>Schönpflug, Fritz</persName>
+               <birth>
+                  <date>1873-06-15</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1951-02-18</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Maler</occupation>
+               <occupation>Zeichner</occupation>
+               <occupation>Illustrator</occupation>
+               <note type="comment">Ögg teilt 686/10f. mit Fragezeichen zu (Klischee-Arbeiter der Stunde, gefälschtes Kinderbild)</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

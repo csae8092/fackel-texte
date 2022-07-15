@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00954.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00953.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00955.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">M. H., Grunewald. (Zwei Kaiser), in: Fackel Heft 02, Nr. 040, 1900, S. 30-30</title>
+            <title type="iso-date">1900-05-01</title>
+            <title type="id">tid_00954</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">040</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-040_n0030.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/040,030</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>M. H., Grunewald. (Zwei Kaiser)</head>
+            <p ana="pr9212">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_7442" ref="#fk__p_49994"><abbr>M. H.</abbr></rs>, Grunewald.</seg></seg> Am meisten hat uns hier die letzte Tischrede<lb/>
+<rs type="pers" ana="n_7443" ref="#fk__p_55493">Wilhelm II.</rs> interessiert. Dass er, der vor nicht gar langer Zeit einen<lb/>
+guten Theil des deutschen Volkes eine <seg type="insult">»vaterlandslose Rotte«</seg> gescholten<lb/>
+ hat, die den Staub der Heimat je eher, je lieber von ihren<lb/>
+Füßen schütteln solle, sich heute mit dem Dank, den ihm der andre<lb/>
+Theil zollt, zu bescheiden weiß, ist seinem Gemüthszustand gewiss<lb/>
+zuträglich. Unbescheiden fanden wir es in Wien, dass er sich den<lb/>
+übrigen Monarchen zum Muster aufstellte. Seiner alten Neigung, <foreign xml:lang="la">Epitheta<lb/>
+ornantia</foreign> zu verleihen — siehe erst <seg type="insult"><rs type="pers" ana="n_7444" ref="#fk__p_55493">Wilhelm der Siegreiche</rs></seg>, dann <seg type="insult"><rs type="pers" ana="n_7445" ref="#fk__p_55493">Wilhelm<lb/>
+der Große</rs></seg> — hat Ihr Kaiser auch diesmal gefröhnt. Da er sich bei<lb/>
+<rs type="pers" ana="n_7446" ref="#fk__p_43514">Kaiser Franz Josef</rs> durch nichts anderes mehr für die Verleihung<lb/>
+der Feldmarschallswürde revanchieren konnte, gab er ihm gleich<lb/>
+zwei solche <foreign xml:lang="la">Epitheta</foreign>: <rs type="pers" ana="n_7447" ref="#fk__p_43514">Franz Josef der Große</rs>! <rs type="pers" ana="n_7448" ref="#fk__p_43514">Franz Josef der Weise</rs>!<lb/>
+Aber bei uns in Wien empfindet man kein Bedürfnis, historische<lb/>
+Titel zu schaffen. <rs type="pers" ana="n_7449" ref="#fk__p_55493">Wilhelm II.</rs> wird hier keinen Anklang finden.<lb/>
+Das Volk sagt »unser Kaiser«, wenn es vom Monarchen spricht.<lb/>
+Darin liegt viel Liebe. Aber Liebe bedarf keiner <seg type="insult">Prunkworte</seg>. Ihr<lb/>
+genügt’s zu wissen, dass der Kaiser ein vornehmer und guter Mensch<lb/>
+ist, der sich bemüht, seine Pflicht zu thun.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_55493">
+               <persName>Wilhelm II., Kaiser</persName>
+               <birth>
+                  <date>1859-1-27</date>
+                  <place>Berlin</place>
+               </birth>
+               <death>
+                  <date>1941-6-4</date>
+                  <place>Doorn/Niederlande</place>
+               </death>
+               <occupation>Kaiser</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_21338</idno></person>
+            <person xml:id="fk__p_43514">
+               <persName>Franz Joseph I., Kaiser</persName>
+               <birth>
+                  <date>1830-8-18</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1916-11-21</date>
+                  <place>Wien</place>
+               </death>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15150</idno></person>
+            <person xml:id="fk__p_49994">
+               <persName>Harden, Maximilian</persName>
+               <birth>
+                  <date>1861-10-20</date>
+                  <place>Berlin</place>
+               </birth>
+               <death>
+                  <date>1927-10-30</date>
+                  <place>Montana-Vermala, Schweiz</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Publizist</occupation>
+               <note type="comment">166/18 Johannes</note>
+               <note type="comment">Hrsg. der "Zukunft"</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11581</idno></person>
+            </listPerson></back></text>
+</TEI>

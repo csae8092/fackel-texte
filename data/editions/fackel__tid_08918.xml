@@ -1,0 +1,151 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_08918.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08917.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08919.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Festsaal des Niederösterreichischen Gewerbe-Vereines, Mittwoch,, in: Fackel Heft 22, Nr. 561, 1921, S. 79-79</title>
+            <title type="iso-date">1921-03-01</title>
+            <title type="id">tid_08918</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">22</title><title type="heft">561</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-22-561_n0079.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/561,079</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Festsaal des Niederösterreichischen Gewerbe-Vereines, Mittwoch,</head>
+            <p ana="pr118740">
+<space/><rs type="inst">Festsaal des Niederösterreichischen Gewerbe-Vereines</rs>, Mittwoch,<lb/>
+<date>12. Januar</date>, halb 7 Uhr:<lb/>
+</p>
+            <p ana="pr118741">
+<space/><rs type="title"><seg type="spc">Die lustigen Weiber von Windsor</seg></rs>, Lustspiel in<lb/>
+fünf Aufzügen von <rs type="pers" ana="n_73103" ref="#fk__p_55589"><seg type="spc">Shakespeare</seg></rs>, übersetzt von <rs type="pers" ana="n_73104" ref="#fk__p_55691">Wolf Heinrich Graf<lb/>
+Baudissin</rs> (<rs type="pers" ana="n_73105" ref="#fk__p_38587"><rs type="pers" ana="n_73106" ref="#fk__p_49337">Schlegel-Tieck’sche Ausgabe</rs></rs>), bearbeitet vom Vorleser.<lb/>
+</p>
+            <p ana="pr118742">
+<space/>Auf dem Programm die Bemerkung zur ersten Vorlesung<lb/>
+(<date>24. Mai 1916</date>, zur Feier von <rs type="pers" ana="n_73107" ref="#fk__p_55589">Shakespeares</rs> 300. Todestag). Die<lb/>
+<rs type="pers" ana="n_73108" ref="#fk__p_43854">Nicolai’sche Musik</rs> vor Beginn und in den Pausen, Verwendung von<lb/>
+Motiven in der Elfen-Szene: <rs type="pers" ana="n_73109" ref="#fk__p_54913"><abbr>Dr.</abbr> Viktor Junk</rs>.<lb/>
+</p>
+            <p ana="pr118743">
+<space/>Der volle Ertrag — siehe Vorlesung <date>14. Dezember</date>, Preise<lb/>
+etwas niedriger —: K 9002·60 ist zu zwei Dritteln dem <rs type="inst">Britischen<lb/>
+Kinderhilfswerk</rs> (<rs type="inst">Bankhaus <rs type="pers" ana="n2_6704" ref="#fk__p_52999">Schoeller</rs> und <abbr>Co.</abbr></rs>, I. Wildpretmarkt 10)<lb/>
+zugeführt worden; der Rest der <rs type="inst">Aktion »Rettet die Jugend«</rs> (Vizepräsident<lb/>
+ <rs type="pers" ana="n_73110" ref="#fk__p_41113"><abbr>Dr.</abbr> Gustav Harpner</rs>, I. Wipplingerstraße 14) und der Frau,<lb/>
+die eine Pfründe von monatlich 24 Kronen bezieht.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_55589">
+               <persName>Shakespeare, William</persName>
+               <birth>
+                  <date>1564-4-23?</date>
+                  <place>Stratford-upon-Avon</place>
+               </birth>
+               <death>
+                  <date>1616-4-23</date>
+                  <place>Stratford-upon-Avon</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2412</idno></person>
+            <person xml:id="fk__p_54913">
+               <persName>Junk, Viktor</persName>
+               <birth>
+                  <date>1875-4-18</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1948-4-5</date>
+                  <place>Frohnleiten/Steiermark</place>
+               </death>
+               <occupation>Germanist</occupation>
+               <occupation>Musikwissenschaftler</occupation>
+            </person>
+            <person xml:id="fk__p_52999">
+               <persName>Schoeller, Paul Eduard? von</persName>
+               <birth>
+                  <date>1853-6-15</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1920-11-2</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Großindustrieller</occupation>
+               <occupation>Bankier</occupation>
+               <note type="comment"/>
+            </person>
+            <person xml:id="fk__p_49337">
+               <persName>Tieck, Ludwig</persName>
+               <birth>
+                  <date>1773-5-31</date>
+                  <place>Berlin</place>
+               </birth>
+               <death>
+                  <date>1853-4-28</date>
+                  <place>Berlin</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Dramaturg</occupation>
+               <occupation>Übersetzer</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/4132</idno></person>
+            <person xml:id="fk__p_55691">
+               <persName>Baudissin, Wolf Heinrich Graf</persName>
+               <birth>
+                  <date>1789-01-30</date>
+                  <place>Kopenhagen</place>
+               </birth>
+               <death>
+                  <date>1878-04-04</date>
+                  <place>Dresden</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            </person>
+            <person xml:id="fk__p_38587">
+               <persName>Schlegel, August Wilhelm von</persName>
+               <birth>
+                  <date>1767-9-5</date>
+                  <place>Hannover</place>
+               </birth>
+               <death>
+                  <date>1845-5-12</date>
+                  <place>Bonn</place>
+               </death>
+               <occupation>Literarhistoriker</occupation>
+               <occupation>Übersetzer</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/24212</idno></person>
+            <person xml:id="fk__p_43854">
+               <persName>Nicolai, Christoph Friedrich</persName>
+               <birth>
+                  <date>1733-3-18</date>
+                  <place>Berlin</place>
+               </birth>
+               <death>
+                  <date>1811-1-8</date>
+                  <place>Berlin</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Verlagsbuchhändler</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/21933</idno></person>
+            <person xml:id="fk__p_41113">
+               <persName>Harpner, Gustav</persName>
+               <birth>
+                  <date>1864-3-25</date>
+                  <place>Brünn</place>
+               </birth>
+               <death>
+                  <date>1924-7-10</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Rechtsanwalt</occupation>
+               <note type="comment">Todesanzeige: 10. Juli 1924</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11590</idno></person>
+            </listPerson></back></text>
+</TEI>

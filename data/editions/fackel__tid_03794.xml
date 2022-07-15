@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03794.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03793.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03795.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Physiker. (Von Marconi), in: Fackel Heft 06, Nr. 174, 1905, S. 22-23</title>
+            <title type="iso-date">1905-01-31</title>
+            <title type="id">tid_03794</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">06</title><title type="heft">174</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-06-174_n0022.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/174,022</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Physiker. (Von Marconi)</head>
+            <p ana="pr38024">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="name_201263" ref="#fk__p_60341">Physiker</rs>.</seg></seg></seg> Sie schreiben: <seg type="insult">Einer der liberalsten österreichischen<lb/>
+Physiker und Kenner des Telegraphenwesens, Hofrat <rs type="pers" ana="n_32520" ref="#fk__p_47469"><seg type="spc">Kareis</seg></rs></seg>, hat uns<lb/>
+schon vor zwei Jahren in der ‚<rs type="paper" ana="werk_13579">Neuen Freien Presse</rs>‘ versichert, daß<lb/>
+<rs type="pers" ana="n_32521" ref="#fk__p_49619"><seg type="spc">Marconi</seg></rs> England mit Amerika drahtlos verbunden habe. Die Bestätigung<lb/>
+dieser Nachricht ist zwar bis heute noch nicht eingetroffen, aber offenbar<lb/>
+ nur deshalb, weil der berühmte Erfinder zu sehr an <seg type="insult">Heiratsfieber</seg><lb/>
+leidet, daher nicht arbeiten kann. Zeitungsnachrichten zufolge, hat er<lb/>
+</p>
+            <p ana="pr38024">
+sich der Reihe nach mit der Tochter des Präsidenten der Vereinigten<lb/>
+Staaten, mit einer italienischen Fürstin und zuletzt mit einer reichen<lb/>
+englischen Dame verlobt. Hofrat <rs type="pers" ana="n_32522" ref="#fk__p_47469">Kareis</rs> hätte also, um nicht zu fehlen,<lb/>
+zunächst das Prophezeien bei einer alten Kartenaufschlägerin erlernen<lb/>
+müssen, dann hätte er auch das Richtige vorausgesagt: daß <rs type="pers" ana="n_32523" ref="#fk__p_49619">Marconi</rs><lb/>
+sich verloben werde.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_60341">
+               <persName>Physiker</persName>
+               <note type="comment"/>
+            </person>
+            <person xml:id="fk__p_49619">
+               <persName>Marconi, Guglielmo</persName>
+               <birth>
+                  <date>1874-4-25</date>
+                  <place>Bologna</place>
+               </birth>
+               <death>
+                  <date>1937-7-20</date>
+                  <place>Rom</place>
+               </death>
+               <occupation>Physiker</occupation>
+               <occupation>Elektroingenieur</occupation>
+            </person>
+            <person xml:id="fk__p_47469">
+               <persName>Kareis, Josef</persName>
+               <birth>
+                  <date>1837-02-14</date>
+                  <place>Semitz/Böhmen</place>
+               </birth>
+               <death>
+                  <date>1913-05-21</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Techniker</occupation>
+               <occupation>Politiker</occupation>
+               <note type="comment">Reichsratsabgeordneter</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

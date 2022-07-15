@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07195.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07194.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07196.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Das Gesellschaftsspiel, in: Fackel Heft 18, Nr. 426, 1916, S. 26-27</title>
+            <title type="iso-date">1916-06-01</title>
+            <title type="id">tid_07195</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">18</title><title type="heft">426</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-18-426_n0026.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/426,026</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Das Gesellschaftsspiel</head>
+            <p ana="pr97472">
+<space/>» <seg type="symbol" subtype="3dots"/>Schon die Aufmachung der Sache mit der einleitenden<lb/>
+Schilderung des Speisewagens ist kennzeichnend für den <seg type="spc">italienischen</seg><lb/>
+Pressestil, der auf das oberflächliche Unterhaltungsbedürfnis berechnet<lb/>
+ist. Der »<rs type="title">Held von Laibach</rs>« ist kein anderer als der Fliegerhauptmann<lb/>
+<rs type="pers" ana="n_64869" ref="#fk__p_52721">Salomone</rs>, der den Angriff der <rs type="pers" ana="n_64870" ref="#fk__p_39727">Caproni-Flugzeuge</rs> auf die Hauptstadt<lb/>
+</p>
+            <p ana="pr97472">
+von Krain geführt hat, durch den zahlreiche friedliche Bürger der <seg type="spc">österreichischen<lb/>
+</seg> Stadt ums Leben gekommen sind. Als <seg type="spc">österreichische</seg><lb/>
+Flieger über <seg type="spc">italienischen</seg> Städten Norditaliens Bomben mit tödlicher<lb/>
+ Wirkung geworfen hatten, konnte die ‚<rs type="" ana="werk_20588"><seg type="spc">Tribuna</seg></rs>‘ sich nicht genug<lb/>
+tun im wüsten Schimpfen über <seg type="insult">die <seg type="spc">deutschen</seg> Mörder, Banditen</seg><lb/>
+<abbr>u. s. w.</abbr>, denen es Freude bereite, wehrlose Frauen und Kinder umzubringen<lb/>
+. Den <seg type="spc">italienischen</seg> Hauptmann dagegen sieht sie, da er an<lb/>
+<seg type="spc">österreichischen</seg> Bürgern dasselbe verübt hat, »im leuchtenden<lb/>
+und unauslöschlichen Glanze des Ruhmes« <seg type="symbol" subtype="4dots"/> Solche widerliche<lb/>
+Zeugnisse des in der Presse <seg type="spc">Italiens</seg> herrschenden Geistes könnte man<lb/>
+zu Hunderten sammeln, eines immer schlimmer als das andere. <seg type="spc">Man<lb/>
+kann wahrlich für weitaus die meisten Zeitungsschreiber<lb/>
+des uns ehemals verbündeten Landes nichts anderes mehr<lb/>
+empfinden als tiefste Verachtung</seg>.«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_39727">
+               <persName>Caproni, Gianni Graf von Taliedo</persName>
+               <birth>
+                  <date>1886-07-03</date>
+                  <place>Massone d’Arco</place>
+               </birth>
+               <death>
+                  <date>1957-10-20</date>
+                  <place>Rom</place>
+               </death>
+               <occupation>Flugzeugbauer</occupation>
+            </person>
+            <person xml:id="fk__p_52721">
+               <persName>Salomone, Oreste</persName>
+               <birth>
+                  <date>1879</date>
+                  <place>Capua</place>
+               </birth>
+               <death>
+                  <date>1918-2-2</date>
+               </death>
+               <occupation>Flieger</occupation>
+               <occupation>Offizier</occupation>
+               <note type="comment">Held von Laibach 18. 02. 1916, flog einen Caproni</note>
+               <note type="comment">Der Völkerkrieg: eine Chronik der Ereignisse seit dem 1. Juli 1914, Bd. 15/16</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

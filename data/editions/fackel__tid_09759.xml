@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_09759.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09758.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09760.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Vertonungen von Paul Emerich), in: Fackel Heft 26, Nr. 649, 1924, S. 70-70</title>
+            <title type="iso-date">1924-06-01</title>
+            <title type="id">tid_09759</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">26</title><title type="heft">649</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-26-649_n0070.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/649,070</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Vertonungen von Paul Emerich)</head>
+            <p ana="pr132407">
+<space/>Am <date>7. März</date> hat im <rs type="inst">Mittleren Konzerthaussaal</rs> die Uraufführung<lb/>
+ der Vertonungen von <rs type="pers" ana="n_80937" ref="#fk__p_51198">Paul <seg type="spc">Emerich</seg></rs>: »<rs type="title">Grabschrift</rs>«,<lb/>
+»<rs type="title">Vor einem Springbrunnen</rs>«, »<rs type="title">Verwandlung</rs>«, »<rs type="title">Sturm und Stille</rs>«,<lb/>
+»<rs type="title">Der Siebenschläfer</rs>« (für Gesang und Klavier) durch die Sängerin<lb/>
+der <rs type="inst">Staatsoper</rs> Frau <rs type="pers" ana="n_80938" ref="#fk__p_43151">Felicie Hüni-Mihacsek</rs> stattgefunden.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_43151">
+               <persName>Hüni-Mihacsek, Felicie</persName>
+               <birth>
+                  <date>1891-4-3</date>
+                  <place>Fünfkirchen/Ungarn</place>
+               </birth>
+               <death>
+                  <date>1976-3-26</date>
+                  <place>München</place>
+               </death>
+               <occupation>Sängerin</occupation>
+               <note type="comment">Sopran</note>
+            </person>
+            <person xml:id="fk__p_51198">
+               <persName>Emerich, Paul</persName>
+               <birth>
+                  <date>1895-11-12</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1977-4-28</date>
+                  <place>New York</place>
+               </death>
+               <occupation>Musikpädagoge</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03351.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03350.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03352.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Vom Herrn Gfrorner, in: Fackel Heft 05, Nr. 148, 1903, S. 22-23</title>
+            <title type="iso-date">1903-12-2</title>
+            <title type="id">tid_03351</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">05</title><title type="heft">148</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-05-148_n0022.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/148,022</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Vom Herrn Gfrorner</head>
+            <p ana="pr33158">
+<space/>Ich erhalte die folgende Zuschrift:<lb/>
+</p>
+            <p ana="pr33160">
+<space/>»Bezugnehmend auf Ihren Artikel in der ‚<rs type="self" ana="werk_12420">Fackel</rs>‘ <rs type="selfRef" ana="werk_12421"><abbr>Nr.</abbr> 147</rs><lb/>
+vom <date>21. <abbr>Nov.</abbr> <foreign xml:lang="la"><abbr>a. c.</abbr></foreign></date> betreffend Herrn <rs type="pers" ana="n_28621" ref="#fk__p_46891">Johann Gfrorner</rs>, erlaube ich<lb/>
+mir, Ihnen höflichst mitzuteilen, daß nicht Herr <rs type="pers" ana="n_28622" ref="#fk__p_46891">Gfrorner</rs>, sondern<lb/>
+der Gefertigte dieses Schreibens der Obmann des <rs type="inst"><rs type="pers" ana="n2_2212" ref="#fk__p_42522">Kaiserin Elisabeth<lb/>
+Denkmal-Komitees</rs></rs> ist, und bitte ferner, zur Kenntnis zu nehmen,<lb/>
+</p>
+            <p ana="pr33160">
+daß Herr <rs type="pers" ana="n_28623" ref="#fk__p_46891">Gfrorner</rs> seit <date>16. Oktober <foreign xml:lang="la"><abbr>a. c.</abbr></foreign></date> aus dem Exekutiv-Komitee<lb/>
+ ausgetreten ist. Hochachtungsvoll <rs type="pers" ana="n_28624" ref="#fk__p_47126">Josef Mayer</rs>, Obmann<lb/>
+des <rs type="inst"><rs type="pers" ana="n2_2213" ref="#fk__p_42522">Kaiserin Elisabeth Denkmal-Komitees</rs></rs>, <abbr>k. u. k.</abbr> <seg type="ELIDASH">Hof-Juwelier</seg> und Kammer-Juwelier<lb/>
+.«<lb/>
+</p>
+            <p ana="pr33162">
+<space/>Ich »nehme zur Kenntnis«.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_42522">
+               <persName>Elisabeth von Österreich, geb. Prinzessin von Bayern</persName>
+               <birth>
+                  <date>1837-12-24</date>
+                  <place>München</place>
+               </birth>
+               <death>
+                  <date>1898-9-10</date>
+                  <place>Genf</place>
+               </death>
+               <occupation>Kaiserin</occupation>
+               <occupation>Königin</occupation>
+            </person>
+            <person xml:id="fk__p_46891">
+               <persName>Gfrorner, Johann</persName>
+               <birth>
+                  <date>1844?</date>
+               </birth>
+               <death>
+                  <date>1922-2-6?</date>
+               </death>
+               <occupation>Konditor</occupation>
+               <note type="comment">Obmann des Elisabeth-Denkmal-Komités</note>
+               <note type="comment">Sept. 1902 Freispruch für Mörder</note>
+               <note type="comment">1., Sterngasse 3</note>
+               <note type="comment">Friedhof Baumgarten 08.02.1922, P/1155 (bis 07.02.1999)</note>
+            </person>
+            <person xml:id="fk__p_47126">
+               <persName>Mayer, Josef</persName>
+               <birth>
+                  <date>1851-10-7</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1913-7-2</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Juwelier</occupation>
+               <note type="comment">k. u. k. Hof- und Kammerjuwelier; 6., Mariahilferstraße 1 b</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

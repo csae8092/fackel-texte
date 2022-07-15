@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_11336.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11335.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11337.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Teplitz-Schönau, Kurhaussaal, 29. März, 8 Uhr:, in: Fackel Heft 32, Nr. 834, 1930, S. 29-29</title>
+            <title type="iso-date">1930-05-01</title>
+            <title type="id">tid_11336</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">32</title><title type="heft">834</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-32-834_n0029.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/834,029</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Teplitz-Schönau, Kurhaussaal, 29. März, 8 Uhr:</head>
+            <p ana="pr165060">
+<space/><seg type="spc">Teplitz-Schönau</seg>, <rs type="inst">Kurhaussaal</rs>, <date>29. März</date>, 8 Uhr:<lb/>
+</p>
+            <p ana="pr165061">
+<space/>I. <rs type="title"><rs type="pers" ana="n2_8832" ref="#fk__p_43221">Lassalle-Rede</rs></rs>. — <rs type="title"><seg type="insult">Lied des <rs type="pers">Schwarz-Drucker</rs></seg></rs>. — <rs type="title">Ich werde<lb/>
+sterben und es nicht erfahren</rs> / <rs type="title">Fast erraten</rs> / <rs type="title"><seg type="insult">Jüdelnde Hasen</seg></rs> / <rs type="title">Was<lb/>
+man für die Reise unter besonderen Umständen braucht</rs>. — Szene:<lb/>
+<rs type="title"><seg type="insult"><rs type="pers"><rs type="pers" ana="n2_8833" ref="#fk__p_38072">Kerr</rs></rs> am Schreibtisch</seg></rs>. — <rs type="title">Etymologie</rs>. — <rs type="title">Die Ballade vom Papagei</rs> /<lb/>
+<rs type="title">Das <rs type="pers" ana="n2_8834" ref="#fk__p_46939">Schoberlied</rs></rs> (wiederholt).<lb/>
+</p>
+            <p ana="pr165062">
+<space/>II. Zitat aus dem Vorwort zu »<rs type="title">Die letzten Tage der Menschheit</rs>«.<lb/>
+<rs type="title">Liebesmahl bei einem Korpskommando</rs>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_38072">
+               <persName>Kerr, Alfred</persName>
+               <birth>
+                  <date>1867-12-25</date>
+                  <place>Breslau</place>
+               </birth>
+               <death>
+                  <date>1948-10-12</date>
+                  <place>Hamburg</place>
+               </death>
+               <occupation>Kritiker</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11910</idno></person>
+            <person xml:id="fk__p_43221">
+               <persName>Lassalle, Ferdinand</persName>
+               <birth>
+                  <date>1825-4-11</date>
+                  <place>Breslau</place>
+               </birth>
+               <death>
+                  <date>1864-8-31</date>
+                  <place>Genf</place>
+               </death>
+               <occupation>Publizist</occupation>
+               <occupation>Politiker</occupation>
+               <note type="comment">Ögg weist ihm fälschlich 99"0 zu (korrekt ist Labori)</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/3471</idno></person>
+            <person xml:id="fk__p_46939">
+               <persName>Schober, Johannes</persName>
+               <birth>
+                  <date>1874-11-14</date>
+                  <place>Perg, Oberösterreich</place>
+               </birth>
+               <death>
+                  <date>1932-8-19</date>
+                  <place>Baden bei Wien</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <note type="comment">Pfarramt Perg: Taufregister: Johannes, Grabstein: Johannes Schober, nicht Johann</note>
+               <note type="comment">Vornamensschreibweise ebenso Czeike, ÖBL</note>
+               <note type="comment">Lebenslauf: NFP 26.9.1929, Seite 4</note>
+               <note type="comment">seit 21.06.1921 Bundeskanzler bis 26.01.1922, von 27.01.1922 bis 24.05.1922, von 26.09.1929 bis 25.09.1930</note>
+               <note type="comment">Polizeipräsident; 1921/22, 1929/30 Bundeskanzler und Außenminister</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/24444</idno></person>
+            </listPerson></back></text>
+</TEI>

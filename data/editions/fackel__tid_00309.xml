@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00309.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00308.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00310.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Herr Kaizl schäumt), in: Fackel Heft 01, Nr. 013, 1899, S. 16-16</title>
+            <title type="iso-date">1899-08-01</title>
+            <title type="id">tid_00309</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">013</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-013_n0016.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/013,016</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Herr Kaizl schäumt)</head>
+            <p ana="pr2892">
+<space/><inciptit>Der</inciptit> Finanzminister »tobt und schäumt«, — so<lb/>
+lautet der Bericht meines Gewährsmannes. Und warum?<lb/>
+Nimmt er sich die Verachtung der Arbeiterschaft zu<lb/>
+Herzen, die aus den Händen <seg type="insult">des einst modernsten<lb/>
+Volksmannes</seg> die Verordnung der Zuckersteuer empfangen<lb/>
+musste? Haben ihm die Angriffe der Opposition alle<lb/>
+Besinnung geraubt, dass er so zwischen den vier Wänden<lb/>
+seines Amtszimmers rast und dem bekümmerten Präsidialisten<lb/>
+ das bischen Schlaf stört? Nichts von alledem.<lb/>
+Herr <rs type="pers" ana="n_2040" ref="#fk__p_41280">Kaizl</rs> ist außer sich, weil ich in der letzten<lb/>
+Nummer der ‚<rs type="self" ana="werk_752">Fackel</rs>‘ sein <seg type="insult">Protectionsverhältnis</seg> zu Herrn<lb/>
+<seg type="spc"><rs type="pers" ana="n_2041" ref="#fk__p_51554">Ploj</rs></seg> enthüllt habe. So hat er sich denn nicht nur als<lb/>
+Politiker, sondern auch als Bureauchef sonderbar verwandelt<lb/>
+. Einst <seg type="insult">im Kreise begünstigter Beamten</seg> ein <seg type="insult">trautes<lb/>
+Strohmandelspiel</seg>, — jetzt Disciplinaruntersuchung. Ein<lb/>
+eifriges Fahnden nach dem <seg type="insult">»Inspirator« meiner Mittheilungen<lb/>
+</seg>. Aber Herr <rs type="pers" ana="n_2042" ref="#fk__p_41280">Kaizl</rs> wird kein Glück haben.<lb/>
+Er verbringe seine Zeit nicht damit, Unschuldige zu<lb/>
+inquirieren, sondern kehre, wenn’s schon mit der Socialpolitik<lb/>
+ nichts ist, doch wenigstens zu den Karten zurück.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_41280">
+               <persName>Kaizl, Josef</persName>
+               <birth>
+                  <date>1854-06-10</date>
+                  <place>Wolin</place>
+               </birth>
+               <death>
+                  <date>1901-08-19</date>
+                  <place>Myskowitz</place>
+               </death>
+               <occupation>Nationalökonom</occupation>
+               <occupation>Politiker</occupation>
+            </person>
+            <person xml:id="fk__p_51554">
+               <persName>Ploj, Friedrich</persName>
+               <birth>
+                  <date>1862-6-14</date>
+                  <place>Pettau/Steiermark</place>
+               </birth>
+               <death>
+                  <date>1944-1-22</date>
+                  <place>Marburg</place>
+               </death>
+               <occupation>Jurist</occupation>
+               <occupation>Politiker</occupation>
+               <note type="comment">Hofrat beim Verwaltungsgerichtshof</note>
+               <note type="comment">Reichsratsabgeordneter 1901-18</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

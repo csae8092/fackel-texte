@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07732.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07731.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07733.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Eisenbahnunglück, in: Fackel Heft 18, Nr. 445, 1234, S. 168-168</title>
+            <title type="iso-date">1234-01-01</title>
+            <title type="id">tid_07732</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">18</title><title type="heft">445</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-18-445_n0168.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/445,168</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Eisenbahnunglück</head>
+            <p ana="pr103571">
+<space/>»Der Sekretär des verstorbenen Ziviladlatus in Belgrad <rs type="pers" ana="n_66754" ref="#fk__p_53930"><abbr>v.</abbr> Thalloczy</rs><lb/>
+dementiert die Meldung, daß die Memoiren des <rs type="pers" ana="n_66755" ref="#fk__p_54734">Grafen Ladislaus Szögyenyi-Marich<lb/>
+</rs>, die <rs type="pers" ana="n_66756" ref="#fk__p_53930">Thalloczy</rs> in seinem Koffer mitgeführt hatte, verlorengegangen<lb/>
+seien. Die Memoiren sind wieder gefunden worden.«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_54734">
+               <persName>Szögyéni-Marich von Magyarszöyény und Szolgaegyház, Ladislaus Graf</persName>
+               <birth>
+                  <date>1841-11-12</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1916-06-11</date>
+                  <place>Csór/Komitat Weißenburg</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <occupation>Diplomat</occupation>
+            </person>
+            <person xml:id="fk__p_53930">
+               <persName>Thallóczy, Ludwig von</persName>
+               <birth>
+                  <date>1855-12-8</date>
+                  <place>Pest</place>
+               </birth>
+               <death>
+                  <date>1916-12-1</date>
+                  <place>bei Budapest</place>
+               </death>
+               <occupation>Historiker</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

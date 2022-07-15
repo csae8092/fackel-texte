@@ -1,0 +1,45 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07724.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07723.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07725.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Der Dichter, in: Fackel Heft 18, Nr. 445, 1234, S. 164-165</title>
+            <title type="iso-date">1234-01-01</title>
+            <title type="id">tid_07724</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">18</title><title type="heft">445</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-18-445_n0164.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/445,164</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Der Dichter</head>
+            <p ana="pr103510">
+<space/>Wie bereits mitgeteilt, veranstaltet die Direktion der <rs type="inst">Wiener<lb/>
+Konzerthausgesellschaft</rs> — — — Über Ersuchen der Direktion hat sich<lb/>
+<rs type="pers" ana="n_66737" ref="#fk__p_38379">Anton Wildgans</rs> bereitgefunden, ein Trauergedicht zu verfassen, welches<lb/>
+die Feier einleiten wird.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_38379">
+               <persName>Wildgans, Anton</persName>
+               <birth>
+                  <date>1881-4-17</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1932-5-3</date>
+                  <place>Mödling</place>
+               </death>
+               <occupation>Jurist</occupation>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Theaterleiter</occupation>
+               <note type="comment">1.2.21-31. 7.22, 1.7.30-31.12.31 Burgtheaterdir.</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/13122</idno></person>
+            </listPerson></back></text>
+</TEI>

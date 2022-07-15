@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00431.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00430.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00432.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">v. L., in: Fackel Heft 01, Nr. 017, 1899, S. 30-31</title>
+            <title type="iso-date">1899-09-01</title>
+            <title type="id">tid_00431</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">017</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-017_n0030.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/017,030</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>v. L.</head>
+            <p ana="pr3917">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_2839" key="#fk__p_54621"><abbr>v. L.</abbr></rs></seg></seg> Sie irren. Herr <rs type="pers" ana="n_2840" ref="#fk__p_38481">Arthur <seg type="spc">Holitscher</seg></rs>, der in diesem <rs type="selfRef" ana="werk_1013">Blatte</rs><lb/>
+zur <rs type="event"><rs type="pers" ana="n2_204" ref="#fk__p_38056">Dreyfus-Sache</rs></rs> gesprochen hat, war nie Mitglied einer Wiener<lb/>
+Redaction. Er ist Schriftsteller und Verfasser des Romanes »<rs type="title">Weiße<lb/>
+Liebe</rs>«. Mit <seg type="insult">dem Herrn</seg>, den Sie meinen, ist er nicht identisch;<lb/>
+würde sich wohl auch dagegen verwahren, mit ihm verwechselt<lb/>
+zu werden.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_38481">
+               <persName>Holitscher, Arthur</persName>
+               <birth>
+                  <date>1869-8-22</date>
+                  <place>Pest</place>
+               </birth>
+               <death>
+                  <date>1941-10-14</date>
+                  <place>Genf</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11749</idno></person>
+            <person xml:id="fk__p_38056">
+               <persName>Dreyfus, Alfred</persName>
+               <birth>
+                  <date>1859-10-9</date>
+                  <place>Mühlhausen</place>
+               </birth>
+               <death>
+                  <date>1935-7-12</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Offizier</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/4216</idno></person>
+            </listPerson></back></text>
+</TEI>

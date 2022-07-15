@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_08344.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08343.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08345.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Kein Geschäft, in: Fackel Heft 20, Nr. 484, 1918, S. 29-30</title>
+            <title type="iso-date">1918-10-01</title>
+            <title type="id">tid_08344</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">20</title><title type="heft">484</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-20-484_n0029.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/484,029</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Kein Geschäft</head>
+            <p ana="pr110120">
+<space/>Berlin, <date>14. April</date>. (Eigener Drahtbericht.) Der Kriegsberichterstatter<lb/>
+ des »<rs type="paper" ana="werk_21431">Lokalanzeigers</rs>« <rs type="pers" ana="n_68920" ref="#fk__p_47608">Karl Rosner</rs><lb/>
+</p>
+            <p ana="pr110122">
+(<seg type="insult">Sohn des braven Wiener Buchhändlers</seg>)<lb/>
+</p>
+            <p ana="pr110124">
+der die Erlaubnis erhielt, mit <rs type="pers" ana="n_68921" ref="#fk__p_55493">Kaiser Wilhelm</rs> auf dem westlichen<lb/>
+Kriegsschauplatz zusammenzukommen, notiert in seinem heutigen Berichte<lb/>
+ folgenden Vorgang: <rs type="pers" ana="n_68922" ref="#fk__p_55493">Kaiser Wilhelm</rs>, der zu Füßen der Höhe<lb/>
+Gouceaucourt über die ungeheuere Breite des Schlachtfeldes schaut,<lb/>
+<seg type="spc">ruft mich zu sich</seg>, <seg type="spc">nimmt mich am Arm und sagt</seg>: »Sehen<lb/>
+Sie, hier allein im Umkreis liegen neun zerschossene englische Tanks;<lb/>
+<seg type="spc">damit haben die Engländer auch kein Geschäft<lb/>
+gemacht</seg>.«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_47608">
+               <persName>Rosner, Karl Peter</persName>
+               <birth>
+                  <date>1873-2-5</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1951-5-6</date>
+                  <place>Berlin</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Verlagsleiter</occupation>
+               <note type="comment">"Der Sieger", 1903, Schlüsselroman über seinen Mitschüler KK</note>
+               <note type="comment">bei Cotta</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12564</idno></person>
+            <person xml:id="fk__p_55493">
+               <persName>Wilhelm II., Kaiser</persName>
+               <birth>
+                  <date>1859-1-27</date>
+                  <place>Berlin</place>
+               </birth>
+               <death>
+                  <date>1941-6-4</date>
+                  <place>Doorn/Niederlande</place>
+               </death>
+               <occupation>Kaiser</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_21338</idno></person>
+            </listPerson></back></text>
+</TEI>

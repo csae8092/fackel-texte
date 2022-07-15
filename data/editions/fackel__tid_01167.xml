@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01167.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01166.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01168.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Culturmensch. (Die Ringkämpfe), in: Fackel Heft 02, Nr. 049, 1900, S. 31-32</title>
+            <title type="iso-date">1900-08-01</title>
+            <title type="id">tid_01167</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">049</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-049_n0031.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/049,031</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Culturmensch. (Die Ringkämpfe)</head>
+            <p ana="pr11153">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="n_9103" key="#fk__p_40160">Culturmensch</rs>.</seg></seg></seg> Nein, den Ringkämpfen im <rs type="inst">Circus <rs type="pers" ana="n2_671" ref="#fk__p_57630">Busch</rs></rs> habe<lb/>
+ich nicht beigewohnt. Ich hatte mir gleich gedacht, dass <seg type="insult">derartige<lb/>
+Excesse der Brutalität</seg> <seg type="insult"><seg type="spc">nur</seg> unter dem Regime des <rs type="pers" ana="n_9104" ref="#fk__p_47583"><abbr>Dr.</abbr> Lueger</rs></seg> möglich<lb/>
+</p>
+            <p ana="pr11153">
+seien, und freute mich, diesen Gedanken bald in <seg type="insult">so vielen liberalen<lb/>
+Leitartikeln</seg> verwertet zu finden. Freilich, unter dem Regime des<lb/>
+Bürgermeisters <rs type="pers" ana="n_9105" ref="#fk__p_51822">Prix</rs> — ich glaube vor etwa sieben Jahren — ward im<lb/>
+<rs type="inst">Etablissement <rs type="pers" ana="n2_672" ref="#fk__p_58825">Ronacher</rs></rs> mehrere Wochen hindurch wettgerungen. Aber<lb/>
+dafür war eben Herr <rs type="pers" ana="n_9106" ref="#fk__p_51822">Prix</rs> nicht verantwortlich zu machen. Ja, wo sind<lb/>
+<seg type="insult">die Zeiten der Cultur und der liberal gemäßigten Sitte</seg>! <rs type="pers" ana="n_9107" ref="#fk__p_55848">Zelinka</rs> und<lb/>
+<rs type="pers" ana="n_9108" ref="#fk__p_43146">Felder</rs>, <rs type="pers" ana="n_9109" ref="#fk__p_43146">Felder</rs> und <rs type="pers" ana="n_9110" ref="#fk__p_55848">Zelinka</rs> <seg type="symbol" subtype="3dots"/> Es hat wohl ehedem auch schon athletische<lb/>
+Spiele gegeben, die die Schaulust des Volkes gewaltig erregten. Aber<lb/>
+das war zur Zeit der alten Griechen, also lange vor <rs type="pers" ana="n_9111" ref="#fk__p_55848">Zelinka</rs> und<lb/>
+<rs type="pers" ana="n_9112" ref="#fk__p_43146">Felder</rs>. Und damals gab’s wirklich keine <seg type="insult">Sportredacteure</seg>, die durch<lb/>
+spaltenlange Referate die Hitze der Gemüther künstlich steigerten.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_47583">
+               <persName>Lueger, Karl</persName>
+               <birth>
+                  <date>1844-10-24</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1910-3-10</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <note type="comment">Rosa Lueger (Schwester) gest. Wien 24.09.1920</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/3561</idno></person>
+            <person xml:id="fk__p_58825">
+               <persName>Ronacher (Vergnügungsetablissement)</persName>
+            </person>
+            <person xml:id="fk__p_57630">
+               <persName>Busch, Carl (Zirkus)</persName>
+               <note type="comment">gegründet 1891</note>
+            </person>
+            <person xml:id="fk__p_55848">
+               <persName>Zelinka, Andreas</persName>
+               <birth>
+                  <date>1802-2-23</date>
+                  <place>Wischau/Mähren</place>
+               </birth>
+               <death>
+                  <date>1868-12-21</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Jurist</occupation>
+               <occupation>Politiker</occupation>
+               <note type="comment">Bürgermeister von Wien</note>
+            </person>
+            <person xml:id="fk__p_43146">
+               <persName>Felder, Kajetan Freiherr von</persName>
+               <birth>
+                  <date>1814-09-19</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1894-11-30</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Jurist</occupation>
+               <occupation>Politiker</occupation>
+               <occupation>Entomologe</occupation>
+            </person>
+            <person xml:id="fk__p_51822">
+               <persName>Prix, Johann</persName>
+               <birth>
+                  <date>1836-05-06</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1894-02-25</date>
+                  <place>Rekawinkel/NÖ</place>
+               </death>
+               <occupation>Politiker</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

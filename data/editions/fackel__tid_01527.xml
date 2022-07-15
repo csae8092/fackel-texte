@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01527.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01526.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01528.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Theaterbesucher. (Theaterbesucher), in: Fackel Heft 02, Nr. 064, 1901, S. 32-32</title>
+            <title type="iso-date">1901-01-01</title>
+            <title type="id">tid_01527</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">064</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-064_n0032.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/064,032</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Theaterbesucher. (Theaterbesucher)</head>
+            <p ana="pr15001">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_12382" key="#fk__p_53984">Theaterbesucher</rs>.</seg></seg> Sie stellen eine unmögliche Forderung. Ich<lb/>
+soll »einmal eine Nachmittagsvorstellung im <rs type="inst"><rs type="pers" ana="n2_999" ref="#fk__p_57640">Carl-Theater</rs></rs> besuchen<lb/>
+und dem <seg type="insult">Treiben</seg>, das sich <seg type="insult">die Herrschaften</seg> auf der Bühne gestatten,<lb/>
+zusehen«. <seg type="insult">Die aufreizenden Extempores des Komikers</seg>, der im Tonfalle<lb/>
+ an die <rs type="title">Klabriaspartie</rs> erinnert, wirken, so versichern Sie, bloß<lb/>
+auf die Lachmuskeln der mitspielenden Damen, und diese sind nicht<lb/>
+imstande, ein Wort ihrer Rolle deutlich zu sprechen. Fünfmal in einem<lb/>
+Acte wurde neulich von der Bühne »Prosit Neujahr!« ins Haus gerufen,<lb/>
+und <seg type="insult">jener Herr</seg> sorgte überdies durch die entsprechende Inschrift auf<lb/>
+dem Rückentheile seines Rockes dafür, dass der Genuß <seg type="insult">dieses neuesten<lb/>
+»Schlagers«</seg> auch Schwerhörigen zugänglich wurde. Als Milderungsgrund<lb/>
+ führen Sie an, dass <seg type="insult">die Herrschaften</seg> so ziemlich unter sich<lb/>
+waren. Mir aber wollen Sie zumuthen, dass ich ein <seg type="insult">Spielverderber</seg><lb/>
+werde. Man muss sich’s nicht in der Nähe besehen, wenn <seg type="insult">Budapester<lb/>
+Komiker und Debrecziner Soubretten</seg> auf der einst von <rs type="pers" ana="n_12383" ref="#fk__p_46919">Nestroys</rs> Geist<lb/>
+belebten Stätte <seg type="insult">Unfug</seg> treiben.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46919">
+               <persName>Nestroy, Johann Nepomuk</persName>
+               <birth>
+                  <date>1801-12-7</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1862-5-25</date>
+                  <place>Graz</place>
+               </death>
+               <occupation>Sänger</occupation>
+               <occupation>Schauspieler</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12338</idno></person>
+            <person xml:id="fk__p_57640">
+               <persName>Carl, Carl</persName>
+               <birth>
+                  <date>1789-11-7</date>
+                  <place>Krakau</place>
+               </birth>
+               <death>
+                  <date>1854-8-14</date>
+                  <place>Bad Ischl</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <occupation>Regisseur</occupation>
+               <occupation>Theaterleiter</occupation>
+               <note type="comment">Ögg: Freiherr von Bernbrunn</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

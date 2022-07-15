@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_10444.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10443.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10445.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Weit gebracht, in: Fackel Heft 27, Nr. 717, 1926, S. 72-72</title>
+            <title type="iso-date">1926-04-01</title>
+            <title type="id">tid_10444</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">27</title><title type="heft">717</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-27-717_n0072.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/717,072</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Weit gebracht</head>
+            <p ana="pr143648">
+<space/>Aus dem <seg ana="Amtsblatt"/>:<lb/>
+</p>
+            <p ana="pr143650">
+Wien, 8. <abbr>Bez.</abbr>, Lange Gasse 63, <rs type="pers" ana="n_87497" ref="#fk__p_48808">Leopold <seg type="spc">Habsburg-Lothringen</seg></rs>.<lb/>
+Eingetreten als Gesellschafter <rs type="pers" ana="n_87498" ref="#fk__p_50541">Nathaniel <seg type="spc">Menkes</seg></rs>, Großkaufmann<lb/>
+in Wien, infolgedessen offene Handelsgesellschaft seit <date>1. <choice><sic>Oktoker</sic><corr>Oktober</corr></choice> 1925</date>.<lb/>
+<seg type="spc">Vertretungsbefugt</seg> nunmehr der Gesellschafter <rs type="pers" ana="n_87499" ref="#fk__p_50541">Nathaniel<lb/>
+<seg type="spc">Menkes</seg></rs><seg type="spc"> selbständig</seg> oder der Gesellschafter <rs type="pers" ana="n_87500" ref="#fk__p_48808">Leopold<lb/>
+<seg type="spc">Habsburg-Lothringen</seg></rs><seg type="spc"> gemeinsam mit ersterem</seg>.<lb/>
+Firmazeichnung: Die zeichnenden Gesellschafter setzen unter den<lb/>
+Firmawortlaut ihre Unterschriften. — A 47, 228 a.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_48808">
+               <persName>Habsburg-Lothringen, Leopold Maria Alphons von</persName>
+               <birth>
+                  <date>1897-1-30</date>
+                  <place>Agram</place>
+               </birth>
+               <death>
+                  <date>1958-3-14</date>
+                  <place>Willimantic, Conn.</place>
+               </death>
+               <note type="comment">Wr. Ztg. 1926: Offene Handelsges. Nathaniel Manker/Leopold Habsburg-Lothringen</note>
+               <note type="comment">8., Lange Gasse 63</note>
+               <note type="comment">Sohn von Erzherzog Leopold Salvator (1863-1931)</note>
+               <note type="comment">1927 in die USA, Versuche, in Hollywood Fuß zu fassen</note>
+            </person>
+            <person xml:id="fk__p_50541">
+               <persName>Menkes, Nathaniel</persName>
+               <birth>
+                  <date>1863-3-16</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1942-11-24</date>
+                  <place>Konzentrationslager Theresienstadt</place>
+               </death>
+               <occupation>Kaufmann</occupation>
+               <note type="comment">Großkaufmann, 8., Lange Gasse 63</note>
+               <note type="comment">Totenbuch Theresienstadt Nathan Menkes (16.03.1863-24.11.1942)</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

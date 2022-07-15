@@ -1,0 +1,44 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01042.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01041.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01043.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Glogau-Schwärmer. (Die italienische Reise des Herrn Glogau), in: Fackel Heft 02, Nr. 043, 1900, S. 32-32</title>
+            <title type="iso-date">1900-06-01</title>
+            <title type="id">tid_01042</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">043</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-043_n0032.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/043,032</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Glogau-Schwärmer. (Die italienische Reise des Herrn Glogau)</head>
+            <p ana="pr9918">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="n_8081" ref="#fk__p_45709">Glogau-Schwärmer</rs>.</seg></seg></seg> Der Herausgeber der ‚<rs type="paper" ana="werk_2844">Wiener Allgemeinen<lb/>
+Zeitung</rs>‘ ist von <seg type="insult">seiner »<rs type="title">Italienischen Reise</rs>«</seg>, deren ich in <rs type="selfRef" ana="werk_2845"><abbr>Nr.</abbr> 38</rs><lb/>
+gedacht habe, längst zurückgekehrt. Wann, kann ich nicht genau<lb/>
+sagen; aber wenn ich mich recht erinnere, fiel seine Abfahrt in die<lb/>
+Zeit der Erlassung der Gesetze gegen den <seg type="insult">Brigantaggio</seg>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_45709">
+               <persName>Glogau, Heinrich</persName>
+               <birth>
+                  <date>1855-9-9</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1926-3-11</date>
+                  <place>Berlin-Schöneberg</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15472</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/17098</idno></person>
+            </listPerson></back></text>
+</TEI>

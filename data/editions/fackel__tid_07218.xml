@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07218.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07217.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07219.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Vorlesung im Kleinen Konzerthaussaal, 12. Mai:, in: Fackel Heft 18, Nr. 426, 1916, S. 50-50</title>
+            <title type="iso-date">1916-06-01</title>
+            <title type="id">tid_07218</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">18</title><title type="heft">426</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-18-426_n0050.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/426,050</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Vorlesung im Kleinen Konzerthaussaal, 12. Mai:</head>
+            <p ana="pr97650">
+<space/>Vorlesung im <rs type="inst">Kleinen Konzerthaussaal</rs>, <date>12. Mai</date>:<lb/>
+</p>
+            <p ana="pr97651">
+<space/>I. <rs type="title"><seg type="insult">Ein Irrsinniger auf dem Einspännergaul</seg></rs> / <rs type="title">Aus <rs type="pers" ana="n2_5715" ref="#fk__p_49801">Luther</rs> (Vom Geschütz)</rs> /<lb/>
+<rs type="title"><seg type="spc">Der Aufstieg der Seele durchs Jahrhundert</seg>: <rs type="pers" ana="n2_5716" ref="#fk__p_46784">Jean Paul’s</rs> Schluß aus<lb/>
+dem »<rs type="title">Kampaner Thal</rs>«</rs> — <rs type="title"><seg type="insult">Wie ein König, mit Bomben beladen, wie<lb/>
+ein Gott!</seg></rs> / <rs type="title"><seg type="insult"><seg type="spc">Die chinesische Mauer</seg></seg></rs>. II. <rs type="title">Die Kinder der Zeit</rs> / <rs type="title">Beim<lb/>
+Anblick einer Schwangeren</rs> / »<rs type="title">Nachts</rs>« / <rs type="title">Vor einem Springbrunnen</rs> /<lb/>
+<rs type="title">Beim Anblick <seg type="insult">eines sonderbaren Plakates</seg></rs> / »<rs type="title">Nachts</rs>« / <rs type="title"><seg type="insult">Gedankenleser</seg></rs> /<lb/>
+<rs type="title">Es ist vorgesorgt</rs> / <rs type="title"><seg type="insult">Zur Darnachachtung</seg></rs> / <seg type="insult">»<rs type="title">Drückeberger in Frankreich</rs>«</seg><lb/>
+<abbr>u. s. w.</abbr> / <rs type="title">Bei uns ist es so!</rs> / <rs type="title"><seg type="spc">Zum ewigen Gedächtnis</seg> (<seg type="spc">Zwei Züge</seg>)</rs>.<lb/>
+<choice><sic>IlI.</sic><corr>III.</corr></choice> <rs type="title"><seg type="spc">Gebet an die Sonne von Gibeon</seg></rs>.<lb/>
+</p>
+            <p ana="pr97652">
+<space/>Ein Teil des Ertrages wurde der <rs type="inst"><seg type="ELIDASH">Kinder-Schutz-Gesellschaft</seg> und Rettungs-Gesellschaft<lb/>
+</rs> zugewendet.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_49801">
+               <persName>Luther, Martin</persName>
+               <birth>
+                  <date>1483-11-10</date>
+                  <place>Eisleben</place>
+               </birth>
+               <death>
+                  <date>1546-2-18</date>
+                  <place>Eisleben</place>
+               </death>
+               <occupation>Reformator</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12136</idno></person>
+            <person xml:id="fk__p_46784">
+               <persName>Paul, Jean</persName>
+               <birth>
+                  <date>1763-3-21</date>
+                  <place>Wunsiedel</place>
+               </birth>
+               <death>
+                  <date>1825-11-14</date>
+                  <place>Bayreuth</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

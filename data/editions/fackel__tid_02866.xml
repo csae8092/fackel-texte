@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02866.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02865.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02867.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ungläubiger Leser. (Die Sensationen der ‚Zeit‘), in: Fackel Heft 04, Nr. 126, 1903, S. 24-24</title>
+            <title type="iso-date">1903-01-10</title>
+            <title type="id">tid_02866</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">04</title><title type="heft">126</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-04-126_n0024.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/126,024</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ungläubiger Leser. (Die Sensationen der ‚Zeit‘)</head>
+            <p ana="pr28284">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_24304" ref="#fk__p_54402">Ungläubiger Leser</rs>.</seg></seg> Die ‚<rs type="paper" ana="werk_10179">Zeit</rs>‘ schreibt am <date>25. December</date>: »Aus<lb/>
+Dresden liegt uns eine <seg type="spc">sensationelle</seg> Meldung vor, die die Entfernung<lb/>
+der <RS pers="Luise von Sachsen" globID="name_202298">Kronprinzessin</RS> vom sächsischen Hof <seg type="insult"><seg type="spc">in neuer Beleuchtung</seg></seg><lb/>
+zeigt, in einer grellen, missfärbigen: Die Gattin, erkrankt durch die<lb/>
+Schuld des Gatten, empört und seelisch vernichtet!« Die ‚<rs type="paper" ana="werk_10180">Zeit</rs>‘ schreibt<lb/>
+am <date>27. December</date>: »Die Kronprinzessin ist die schwer beleidigte Frau, die<lb/>
+eine hässliche Krankheit, die sie vom Gatten überkommen, in die Flucht<lb/>
+treibt.« Die ‚<rs type="paper" ana="werk_10181">Zeit</rs>‘ schreibt am <date>28. December</date>: »<rs type="pers" ana="n_24305" ref="#fk__p_48804">Erzherzog Leopold<lb/>
+Ferdinand</rs> erklärte Ihrem Specialberichterstatter in bestimmter Weise die<lb/>
+Nachricht, daß seine Schwester, <rs type="pers" ana="n_24306" ref="#fk__p_49205">Kronprinzessin Louise</rs>, leidend aus ihrer<lb/>
+Ehe gegangen sei, für <seg type="spc">unwahr</seg>.« Die ‚<rs type="paper" ana="werk_10182">Zeit</rs>‘ schreibt am <date>30. December</date>:<lb/>
+»Aus all dem geht hervor, daß die Berichte über die ansteckende Krankheit<lb/>
+ des <RS pers="Friedrich August III. von Sachsen" globID="name_201581">Kronprinzen</RS> <seg type="spc">vollständig aus der Luft gegriffen</seg> sind <seg type="symbol" subtype="3dots"/><lb/>
+Diese Darstellung ist, da ihre Glaubwürdigkeit über jeden Zweifel<lb/>
+erhaben ist, von entscheidendem Interesse, weil sich von jetzt ab <seg type="insult">eine<lb/>
+<seg type="spc">neue Perspective</seg></seg> eröffnet.« (Diese Zusammenstellung war in der<lb/>
+‚<rs type="paper" ana="werk_10183">Arbeiter-Zeitung</rs>‘ enthalten).<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_54402">
+               <persName>Ungläubiger Leser</persName>
+            </person>
+            <person xml:id="fk__p_49205">
+               <persName>Sachsen, Luise von, geb. Erzherzogin von Österreich-Toscana</persName>
+               <birth>
+                  <date>1870-9-2</date>
+                  <place>Salzburg</place>
+               </birth>
+               <death>
+                  <date>1947-3-23</date>
+                  <place>Brüssel</place>
+               </death>
+               <note type="comment">Gräfin Montignoso, starb als Blumenfrau</note>
+               <note type="comment">Affaire mit André Giron</note>
+               <note type="comment">Ögg irrt. statt 126/19: 126/29</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_19511</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/23855</idno></person>
+            <person xml:id="fk__p_48804">
+               <persName>Leopold Ferdinand Salvator, Erzherzog</persName>
+               <birth>
+                  <date>1868-12-2</date>
+                  <place>Salzburg</place>
+               </birth>
+               <death>
+                  <date>1935-7-4</date>
+                  <place>Berlin</place>
+               </death>
+               <note type="comment">Scheidung April 1907</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17459</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/20328</idno></person>
+            </listPerson></back></text>
+</TEI>

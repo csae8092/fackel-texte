@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_09772.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09771.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09773.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">22. Februar:, in: Fackel Heft 26, Nr. 649, 1924, S. 74-74</title>
+            <title type="iso-date">1924-06-01</title>
+            <title type="id">tid_09772</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">26</title><title type="heft">649</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-26-649_n0074.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/649,074</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>22. Februar:</head>
+            <p ana="pr132469">
+<space/><date>22. Februar</date>:<lb/>
+</p>
+            <p ana="pr132470">
+<space/>I. <rs type="pers" ana="n_80958" ref="#fk__p_49277">Börne</rs>: <rs type="title">Monarchien und Republiken</rs>. — <rs type="title">Die Republik ist<lb/>
+schuld</rs>. — <rs type="title"><seg type="insult"><rs type="pers" ana="n2_7254" ref="#fk__p_50477">Mussolinis</rs> Bezähmung</seg></rs>. — Aus: <rs type="title"><seg type="insult">Ein Spaßvogel</seg></rs>. — <rs type="title"><seg type="insult">Die<lb/>
+Bürger</seg>, <seg type="insult">die Künstler</seg> und <seg type="insult">der Narr</seg></rs> / <rs type="title"><seg type="insult">Die Zeitung</seg></rs> / <rs type="title">Nächtliche Stunde</rs> /<lb/>
+<rs type="title"><seg type="insult">An den Bürger</seg></rs> / <rs type="title">Inschriften</rs>: <rs type="title"><seg type="insult">Naturgewalten</seg></rs>; <rs type="title"><seg type="insult">Habgier</seg> und <seg type="insult">Habgier</seg></rs>;<lb/>
+<rs type="title"><seg type="insult">Im Zeichen des Kreuzes</seg></rs> (mit Vorbemerkung); <rs type="title"><seg type="insult">An eine Kriegsgurgel</seg> (II)</rs>;<lb/>
+<rs type="title"><seg type="insult"><rs type="pers" ana="n2_7255" ref="#fk__p_55493">Wilhelm</rs></seg></rs>; <rs type="title">Schluß!</rs> — <rs type="title"><seg type="insult"><foreign xml:lang="la">Post festum</foreign></seg></rs>.<lb/>
+</p>
+            <p ana="pr132471">
+<space/>II. <rs type="title">Die letzten Tage der Menschheit</rs>: Schlußszene des V. Aktes.<lb/>
+</p>
+            <p ana="pr132472">
+<space/>Vorbemerkung:<lb/>
+</p>
+            <p ana="pr132474">
+<space/>In Österreich ist ein Gesetz geschaffen worden, <FERR href="FK-26-657_n0096.xml" fcorrID="fk_04_fcorr_29409173" id="fk_04_ferr_29409173" emID="fk_04_em_29409176"><ERR fcorr="das">daß</ERR></FERR> die<lb/>
+Zeitungen verpflichtet, bezahlte Notizen als solche deutlich<lb/>
+erkennbar zu machen. Sie werden dieser Verpflichtung gerecht,<lb/>
+indem sie unter die bezahlten Notizen ein Kreuz setzen.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_49277">
+               <persName>Börne, Ludwig</persName>
+               <birth>
+                  <date>1786-5-6</date>
+                  <place>Frankfurt am Main</place>
+               </birth>
+               <death>
+                  <date>1837-2-12</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/14780</idno></person>
+            <person xml:id="fk__p_50477">
+               <persName>Mussolini, Benito</persName>
+               <birth>
+                  <date>1883-7-29</date>
+                  <place>Predappio</place>
+               </birth>
+               <death>
+                  <date>1945-4-2</date>
+                  <place>Giulino di Mezzegra/Provinz Como</place>
+               </death>
+               <occupation>Lehrer</occupation>
+               <occupation>Politiker</occupation>
+               <note type="comment">Benito Amilcare Andrea Mussolini</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12314</idno></person>
+            <person xml:id="fk__p_55493">
+               <persName>Wilhelm II., Kaiser</persName>
+               <birth>
+                  <date>1859-1-27</date>
+                  <place>Berlin</place>
+               </birth>
+               <death>
+                  <date>1941-6-4</date>
+                  <place>Doorn/Niederlande</place>
+               </death>
+               <occupation>Kaiser</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_21338</idno></person>
+            </listPerson></back></text>
+</TEI>

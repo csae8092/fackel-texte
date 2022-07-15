@@ -1,0 +1,45 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02039.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02038.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02040.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Der einzige Ausweg aus der Krise, in: Fackel Heft 03, Nr. 086, 1901, S. 1-1</title>
+            <title type="iso-date">1901-11-26</title>
+            <title type="id">tid_02039</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">03</title><title type="heft">086</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-03-086_n0001.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/086,001</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Der einzige Ausweg aus der Krise</head>
+            <p ana="pr19898">
+<seg type="insult"><seg type="spc">Einziger Ausweg aus der Krise</seg></seg>:<lb/>
+</p>
+            <p ana="pr19899">
+<space/><seg type="insult">Absolutismus und Verwendung der Abgeordneten<lb/>
+ als Statisten in <rs type="pers" ana="n_16925" ref="#fk__p_45908">Bahr’s</rs> »<rs type="title">Apostel</rs>«.</seg><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_45908">
+               <persName>Bahr, Hermann</persName>
+               <birth>
+                  <date>1863-7-19</date>
+                  <place>Linz</place>
+               </birth>
+               <death>
+                  <date>1934-1-15</date>
+                  <place>München</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Kritiker</occupation>
+               <note type="comment">Ögg teilt auch 307/52, 445/49, 800/67 (Rotte Korah) Bahr zu</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10815</idno></person>
+            </listPerson></back></text>
+</TEI>

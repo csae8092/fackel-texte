@@ -1,0 +1,48 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_09531.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09530.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09532.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Der Kampfhahn, in: Fackel Heft 25, Nr. 622, 1923, S. 196-197</title>
+            <title type="iso-date">1923-06-01</title>
+            <title type="id">tid_09531</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">25</title><title type="heft">622</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-25-622_n0196.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/622,196</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Der Kampfhahn</head>
+            <lg>
+<l>Als er recht kämpfen wollte, <seg type="insult">jener Journaliste</seg>,</l>
+<l>da sagte er, ich sei ein <seg type="insult">Journalist</seg>.</l>
+<l>Nichts Ärgres weiß <seg type="insult">der <rs type="pers" ana="n_78543" ref="#fk__p_45353">Hahn</rs> auf seinem Mist</seg>,</l>
+<l>als abzugeben von dem <seg type="insult">Miste</seg>.</l>
+<l>Er hielt mich wohl für einen <rs type="pers" ana="n_78544" ref="#fk__p_45353"><seg type="insult">Hahn</seg></rs>.</l>
+<l>Ich aber stand bloß nebenan.</l>
+</lg>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_45353">
+               <persName>Hahn, Siegmund</persName>
+               <birth>
+                  <date>1844-11-21</date>
+                  <place>Dauba/Böhmen</place>
+               </birth>
+               <death>
+                  <date>1929-2-21</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <note type="comment">1., Wollzeile 24</note>
+               <note type="comment">ZF 4. Tor 11/5/10, beiges. am 24.02.1929, 84jährig</note>
+               <note type="comment">Red. der Bohemia, 1875-1919 Red. Volkswirtsch. beim NWT</note>
+               <note type="comment">Red. des NWT</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_10947.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10946.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10948.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ein Justizirrtum, in: Fackel Heft 29, Nr. 759, 1927, S. 102-102</title>
+            <title type="iso-date">1927-06-01</title>
+            <title type="id">tid_10947</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">29</title><title type="heft">759</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-29-759_n0102.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/759,102</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ein Justizirrtum</head>
+            <p ana="pr152828">
+<space/>Der <seg ana="‚Tag‘"/> — den die <rs type="paper" ana="werk_27840">Arbeiter-Zeitung</rs> <seg type="insult">»das Organ der<lb/>
+wirklichen Demokraten in Wien«</seg> nennt —; <seg type="insult">das <rs type="paperRef" ana="werk_27841">Organ des Herrn<lb/>
+<rs type="pers" ana="n_91233" ref="#fk__p_50000">Schreier</rs></rs></seg> — dem sie <seg type="insult">»eine rechtschaffene bürgerlich-demokratische<lb/>
+Stimme«</seg> zuschreibt —; <seg type="insult"><rs type="paperRef" ana="werk_27842">das von Herrn <rs type="pers" ana="n_91234" ref="#fk__p_53267">Bosel</rs> gegründete und<lb/>
+»meine Zeitung« genannte Blatt</rs></seg> — das zu <seg type="insult">den Lebensfakten<lb/>
+eines Erpressers</seg> taktvoll geschwiegen hat — meldet in fettestem<lb/>
+Druck:<lb/>
+</p>
+            <p ana="pr152830">
+Budapest, <date>25. April</date><lb/>
+(Eigenbericht)<lb/>
+</p>
+            <p ana="pr152831">
+<space/>»Tag und Jahr Ihrer Geburt?« — Der Richter lächelt und fügt<lb/>
+hinzu: »Eine sehr unangenehme Frage, aber was soll ich tun?«<lb/>
+</p>
+            <p ana="pr152832">
+<space/><rs type="pers" ana="n_91235" ref="#fk__p_52777">Sari Fedak</rs> macht »Brrr«, schüttelt sich und gibt keine Antwort.<lb/>
+</p>
+            <p ana="pr152833">
+<space/>Der Richter, <seg type="spc">an die Journalisten gewendet</seg>: »<seg type="spc">Ich<lb/>
+bin überzeugt</seg>, <seg type="spc">daß die Herren Redakteure taktvoll<lb/>
+sind</seg> und die Antwort der Künstlerin überhören. Wir wissen doch,<lb/>
+daß <rs type="pers" ana="n_91236" ref="#fk__p_52777">Sari Fedak</rs> ewig jung bleibt.«<lb/>
+</p>
+            <p ana="pr152834">
+<space/><seg type="spc">Nun kommt die schwerwiegende Antwort</seg>: »Ich bin<lb/>
+in Beregszasz geboren, <seg type="spc">im Jahre <date>1886</date></seg>, nach Budapest zuständig.«<lb/>
+</p>
+            <p ana="pr152835">
+<space/><seg type="spc">Zwischenrufe wollen auch diese Ziffer auf <date>1876</date><lb/>
+korrigieren</seg>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_50000">
+               <persName>Schreier, Maximilian</persName>
+               <birth>
+                  <date>1877-5-23</date>
+                  <place>Brünn</place>
+               </birth>
+               <death>
+                  <date>1942-6-15</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <note type="comment">evtl. auch 521/75 "Retourkutscher" ?</note>
+               <note type="comment">Hrsg. des "Morgen" und des "Tag"</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/24502</idno></person>
+            <person xml:id="fk__p_53267">
+               <persName>Bosel, Siegmund</persName>
+               <birth>
+                  <date>1893-1-10</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1942-2-10</date>
+                  <place>Riga</place>
+               </death>
+               <occupation>Industrieller</occupation>
+               <occupation>Bankier</occupation>
+               <note type="comment">Stockhammer mail vom 01.02.2010, bezieht sich auf Alfons Dür: Getrude Schneider</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/14428</idno></person>
+            <person xml:id="fk__p_52777">
+               <persName>Fedak, Sari</persName>
+               <birth>
+                  <date>1880-9-26</date>
+                  <place>Beregszasz/Ungarn</place>
+               </birth>
+               <death>
+                  <date>1955-5-5</date>
+                  <place>Budapest</place>
+               </death>
+               <occupation>Schauspielerin</occupation>
+               <occupation>Sängerin</occupation>
+               <note type="comment">bei Ögg unter Sari, Fedak</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

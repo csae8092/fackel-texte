@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_10829.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10828.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10830.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ebenda, 5. Februar:, in: Fackel Heft 28, Nr. 751, 1927, S. 80-81</title>
+            <title type="iso-date">1927-02-01</title>
+            <title type="id">tid_10829</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">28</title><title type="heft">751</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-28-751_n0080.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/751,080</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ebenda, 5. Februar:</head>
+            <p ana="pr150905">
+Ebenda, <date>5. Februar</date>:<lb/>
+</p>
+            <p ana="pr150906">
+<space/><rs type="title">Theater der Dichtung</rs><lb/>
+</p>
+            <p ana="pr150907">
+<space/><rs type="pers" ana="n_90386" ref="#fk__p_44354"><seg type="spc">Gerhart Hauptmann</seg></rs>: <rs type="title"><seg type="spc">Und <rs type="pers">Pippa</rs> tanzt</seg>!</rs> I. <seg type="spc">Akt</seg>. —<lb/>
+<rs type="title"><seg type="spc"><rs type="pers">Hannele Matterns</rs> Himmelfahrt</seg></rs>. Begleitung: <rs type="pers" ana="n_90387" ref="#fk__p_54913">Victor Junk</rs>.<lb/>
+</p>
+            <p ana="pr150908">
+<space/>Auf dem Programm:<lb/>
+</p>
+            <p ana="pr150909">
+<space/>Je offenbarer und schmerzlicher der Verfall dieses Dichters,<lb/>
+im Schaffen wie im äußern Gehaben, im <seg type="insult">Zeitgehorsam der<lb/>
+Produktion</seg> wie im <seg type="ELIDASH">wahllosen</seg> und wehrlosen Umgang, zu Tage kommt,<lb/>
+desto unerläßlicher wird es, sich zu den reinen Werken seiner<lb/>
+Vergangenheit zu bekennen.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_54913">
+               <persName>Junk, Viktor</persName>
+               <birth>
+                  <date>1875-4-18</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1948-4-5</date>
+                  <place>Frohnleiten/Steiermark</place>
+               </death>
+               <occupation>Germanist</occupation>
+               <occupation>Musikwissenschaftler</occupation>
+            </person>
+            <person xml:id="fk__p_44354">
+               <persName>Hauptmann, Gerhart</persName>
+               <birth>
+                  <date>1862-11-15</date>
+                  <place>Salzbrunn, Schlesien</place>
+               </birth>
+               <death>
+                  <date>1946-6-6</date>
+                  <place>Agnetendorf</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Ögg teilt die indirekte Stelle 521/64 zu, irrtümlich</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11617</idno></person>
+            </listPerson></back></text>
+</TEI>

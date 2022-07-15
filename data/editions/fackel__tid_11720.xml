@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_11720.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11719.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11721.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Mission, in: Fackel Heft 33, Nr. 852, 1931, S. 19-19</title>
+            <title type="iso-date">1931-05-01</title>
+            <title type="id">tid_11720</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">33</title><title type="heft">852</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-33-852_n0019.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/852,019</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Mission</head>
+            <p ana="pr170007">
+der Herren <rs type="pers" ana="n_101626" ref="#fk__p_52016">Aslan</rs>, <rs type="pers" ana="n_101627" ref="#fk__p_52080">Reimers</rs>, <rs type="pers" ana="n_101628" ref="#fk__p_51003">Treßler</rs>, <rs type="pers" ana="n_101629" ref="#fk__p_47637">Zeska</rs> <abbr>usw.</abbr>:<lb/>
+</p>
+            <p ana="pr170009">
+— — und wir, deren tägliche Aufgabe es ist, durch das Wort Menschen<lb/>
+über die Müdigkeit des Augenblicks hinweg <seg type="spc">zur Höhe geistiger<lb/>
+Entscheidung zu zwingen</seg>, dürfen Ihnen folgen, selber in unserem<lb/>
+ Sinne bestärkt.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_47637">
+               <persName>Zeska, Karl von</persName>
+               <birth>
+                  <date>1862-10-31</date>
+                  <place>Hamburg</place>
+               </birth>
+               <death>
+                  <date>1938-7-18</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <note type="comment">seit 1892 am Burgtheater, Hofschauspieler</note>
+            </person>
+            <person xml:id="fk__p_52016">
+               <persName>Aslan, Raoul</persName>
+               <birth>
+                  <date>1886-10-16</date>
+                  <place>Saloniki</place>
+               </birth>
+               <death>
+                  <date>1958-6-17</date>
+                  <place>Litzlberg/Seewalchen a. Attersee</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <occupation>Theaterleiter</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10780</idno></person>
+            <person xml:id="fk__p_52080">
+               <persName>Reimers, Georg</persName>
+               <birth>
+                  <date>1860-4-4</date>
+                  <place>Altona</place>
+               </birth>
+               <death>
+                  <date>1936-4-15</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <note type="comment">ab 1885 am Burgtheater, 1922 EM</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12498</idno></person>
+            <person xml:id="fk__p_51003">
+               <persName>Tressler, Otto</persName>
+               <birth>
+                  <date>1871-4-13</date>
+                  <place>Stuttgart</place>
+               </birth>
+               <death>
+                  <date>1965-4-27</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <occupation>Bildhauer</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12971</idno></person>
+            </listPerson></back></text>
+</TEI>

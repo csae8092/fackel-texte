@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03210.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03209.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03211.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Colporteur. (Extraausgaben), in: Fackel Heft 05, Nr. 141, 1903, S. 22-22</title>
+            <title type="iso-date">1903-06-20</title>
+            <title type="id">tid_03210</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">05</title><title type="heft">141</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-05-141_n0022.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/141,022</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Colporteur. (Extraausgaben)</head>
+            <p ana="pr31526">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="n_27303" key="#fk__p_40052">Colporteur</rs>.</seg></seg></seg> Am <date>17. Juni</date> las man: »<seg type="spc">Eine Extraausgabe</seg>.<lb/>
+betitelt: ‚<seg type="spc">Der König ist hier</seg>‘ wurde gestern vom <rs type="inst">Café <SPAN sug="(undefined)"><rs type="pers" ana="name_201200" key="#fk__p_60325">M....</rs></SPAN></rs>,<lb/>
+Praterstraße <abbr>Nr.</abbr> <seg type="symbol" subtype="3dots"/> ausgegeben und fand im Publicum reichlichen Absatz<lb/>
+, womit sich die Verkäufer ein schönes Stück Geld verdienten. Die<lb/>
+Käufer waren aber nicht wenig enttäuscht, als sie anstatt einer Mittheilung<lb/>
+ über den neugewählten Serbenkönig zu lesen bekamen: ‚Der<lb/>
+König ist hier‘, aber nicht der serbische, sondern der sogenannte<lb/>
+Zigeunerkönig <rs type="pers" ana="n_27304" ref="#fk__p_50455">Munczy Lajos</rs> sammt Gefolge im <rs type="inst">Café <SPAN sug="(undefined)"><rs type="pers" ana="name_201199" key="#fk__p_60325">M...</rs></SPAN></rs>, II.,<lb/>
+Praterstraße <abbr>Nr.</abbr> <seg type="symbol" subtype="3dots"/>« Lieblich, nicht wahr? Aber in dieser durch eine<lb/>
+<seg type="insult">geschäftswüthige Journaille</seg> aufgeregten Zeit ist <seg type="insult">der parodistische Betrug</seg><lb/>
+harmlos neben der <seg type="insult">speculativen Beunruhigung</seg> des Publicums, die neulich<lb/>
+ die <seg type="insult">Segnungen der freien Colportage</seg> anticipiert hat. <seg type="insult">Königsmord,<lb/>
+»Attentat« des <rs type="pers" ana="n_27305" key="#fk__p_46647">Jacob Reich</rs>, Keine Agonie des Papstes <seg type="symbol" subtype="3dots"/></seg> Und alle<lb/>
+Tabaktrafiken trugen Anzeigen: <seg type="insult">»‚<rs type="paper" ana="werk_11870">Die Zeit</rs>‘, Abendausgabe: Attentatsversuch<lb/>
+ auf <rs type="pers" ana="n_27306" ref="#fk__p_43514">Kaiser Franz Josef</rs>«!</seg> Aber es gab <seg type="insult">noch wichtigere Ereignisse<lb/>
+</seg>: In Extraausgaben ward verkündet, daß ein Erzherzog an <seg type="insult">»unserem<lb/>
+ Depeschensaal«</seg> vorübergegangen ist, und die Ermordung des<lb/>
+serbischen Königspaares trat hinter der Meldung zurück, daß <seg type="insult">wir</seg> <seg type="insult">unser<lb/>
+<rs type="paperRef" ana="werk_11871">Blatt</rs></seg> auch in die Sommerfrische zustellen <seg type="symbol" subtype="3dots"/> <seg type="insult">Tarnopolitik!</seg><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_50455">
+               <persName>Munczy, Lajos</persName>
+               <birth>
+                  <date>1846</date>
+               </birth>
+               <death>
+                  <date>1910</date>
+               </death>
+               <occupation>Violonist</occupation>
+               <note type="comment">Zigeunerkapelle</note>
+               <note type="comment">Albert M. Hyamson, A Dictionayr of Universal Biography, 1995</note>
+            </person>
+            <person xml:id="fk__p_43514">
+               <persName>Franz Joseph I., Kaiser</persName>
+               <birth>
+                  <date>1830-8-18</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1916-11-21</date>
+                  <place>Wien</place>
+               </death>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15150</idno></person>
+            </listPerson></back></text>
+</TEI>

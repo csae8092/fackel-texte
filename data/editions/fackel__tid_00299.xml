@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00299.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00298.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00300.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Eine Unbedeutende., in: Fackel Heft 01, Nr. 012, 1899, S. 28-28</title>
+            <title type="iso-date">1899-07-01</title>
+            <title type="id">tid_00299</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">012</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-012_n0028.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/012,028</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Eine Unbedeutende.</head>
+            <p ana="pr2752">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_1983" ref="#fk__p_42455">Eine Unbedeutende</rs>.</seg></seg> Die Widerlegung Ihrer philosophischen<lb/>
+Ausführungen kann nicht Inhalt eines Briefes sein. Sie findet sich<lb/>
+in jeder Geschichte der Philosophie. Nur eines: <rs type="pers" ana="n_1984" ref="#fk__p_53496">Spinoza</rs> lebte in<lb/>
+den Niederlanden, der Heimstätte protestantischer Glaubensfreiheit,<lb/>
+wo auch seines Lehrers <rs type="pers" ana="n_1985" ref="#fk__p_40385">Cartesius</rs> Werke zumeist entstanden. Und<lb/>
+die großen Aufklärer des deutschen Volkes waren Protestanten.<lb/>
+<foreign xml:lang="la">Ad vocem</foreign> Zionismus: Gegen die colonisatorischen Bestrebungen hat<lb/>
+sich mein Angriff nicht gewendet.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_40385">
+               <persName>Descartes, René</persName>
+               <birth>
+                  <date>1596-3-31</date>
+                  <place>La Haye en Touraine, Indre-et-Loire</place>
+               </birth>
+               <death>
+                  <date>1650-2-11</date>
+                  <place>Stockholm</place>
+               </death>
+               <occupation>Philosoph</occupation>
+               <occupation>Mathematiker</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/4103</idno></person>
+            <person xml:id="fk__p_42455">
+               <persName>Eine Unbedeutende</persName>
+            </person>
+            <person xml:id="fk__p_53496">
+               <persName>Spinoza, Baruch de</persName>
+               <birth>
+                  <date>1632-11-24</date>
+                  <place>Amsterdam</place>
+               </birth>
+               <death>
+                  <date>1677-2-21</date>
+                  <place>Den Haag</place>
+               </death>
+               <occupation>Philosoph</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/25217</idno></person>
+            </listPerson></back></text>
+</TEI>

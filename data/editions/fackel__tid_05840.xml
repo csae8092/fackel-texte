@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_05840.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05839.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05841.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Doch noch, in: Fackel Heft 14, Nr. 354, 1912, S. 14-14</title>
+            <title type="iso-date">1912-01-01</title>
+            <title type="id">tid_05840</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">14</title><title type="heft">354</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-14-354_n0014.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/354,014</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Doch noch</head>
+            <p ana="pr78250">
+<space/>»Aus <seg type="spc">Ostende</seg> wird uns geschrieben: Ihr interessanter Artikel<lb/>
+in der <rs type="perRef" ana="werk_18972">Sonntagsnummer</rs>: ‚<rs type="title"><rs type="pers" ana="n2_4872" ref="#fk__p_45715">Heines</rs> Grab als Liebesbriefkasten</rs>‘<lb/>
+ist auch mir vor die Augen gekommen; gestatten Sie mir,<lb/>
+eine kleine Bemerkung dazu zu machen, nachdem ich erst vorige<lb/>
+Woche zu <rs type="pers" ana="n_55521" ref="#fk__p_45715">Heines</rs> Grab auf dem Montmartre gepilgert bin. Es<lb/>
+mag wohl vorkommen, daß <rs type="pers" ana="n_55522" ref="#fk__p_45715">Heines</rs> Grabdenkmal vereinzelte Male als<lb/>
+<foreign xml:lang="fr">Poste restante</foreign> für Liebende verwendet wird, doch zeigt die große<lb/>
+Unzahl der dort niedergelegten Visitkarten, <seg type="spc">hauptsächlich von<lb/>
+Wienern</seg>, welch’ große Verehrung <seg type="spc">trotz alledem</seg> <rs type="pers" ana="n_55523" ref="#fk__p_45715">Heine</rs> besitzt. So<lb/>
+fand ich unter anderem eine Visitkarte folgenden Inhalts: ‚I. W., Wien,<lb/>
+Gersthof (genaue Adresse war abgeschnitten). <seg type="spc">Dem großen<lb/>
+Satyriker einen herzlichen Gruß aus Wien</seg>. Warte noch!<lb/>
+Die Sonne bringt es doch noch an den Tag!‘«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_45715">
+               <persName>Heine, Heinrich</persName>
+               <birth>
+                  <date>1797-12-13</date>
+                  <place>Düsseldorf</place>
+               </birth>
+               <death>
+                  <date>1856-2-17</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Journalist</occupation>
+               <note type="comment">Ögg separiert F 24/25 </note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11640</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,47 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02023.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02022.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02024.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Capitalist. (Das »grosse Tagblatt«), in: Fackel Heft 03, Nr. 085, 1901, S. 26-26</title>
+            <title type="iso-date">1901-11-16</title>
+            <title type="id">tid_02023</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">03</title><title type="heft">085</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-03-085_n0026.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/085,026</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Capitalist. (Das »grosse Tagblatt«)</head>
+            <p ana="pr19743">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="name_203312" ref="#fk__p_39724">Capitalist</rs>.</seg></seg></seg> Wie alljährlich, so geht auch heuer <seg type="insult">Herr Professor<lb/>
+<rs type="pers" ana="n_16865" ref="#fk__p_46524">Isi <seg type="spc">Singer</seg></rs></seg> von Haus zu Haus und sammelt für <seg type="insult">das geplante »<rs type="perRef" ana="werk_6533">grosse<lb/>
+Tagblatt</rs>«</seg>, das »sehr bald erscheinen soll«. <seg type="insult">Sein desorganisierendes Genie</seg><lb/>
+ist aus <seg type="insult">den Zeiten der socialpolitischen Campagne</seg> noch in allgemeiner<lb/>
+Erinnerung. Also — Vorsicht!<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_39724">
+               <persName>Capitalist</persName>
+            </person>
+            <person xml:id="fk__p_46524">
+               <persName>Singer, Isidor</persName>
+               <birth>
+                  <date>1857-01-16</date>
+                  <place>Pest</place>
+               </birth>
+               <death>
+                  <date>1927-12-08</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Nationalökonom</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12790</idno></person>
+            </listPerson></back></text>
+</TEI>

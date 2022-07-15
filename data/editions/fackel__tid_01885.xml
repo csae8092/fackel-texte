@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01885.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01884.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01886.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Ein inspirierter Druckfehler.), in: Fackel Heft 03, Nr. 079, 1901, S. 16-16</title>
+            <title type="iso-date">1901-06-01</title>
+            <title type="id">tid_01885</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">03</title><title type="heft">079</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-03-079_n0016.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/079,016</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Ein inspirierter Druckfehler.)</head>
+            <p ana="pr18474">
+<space/><inciptit>Die</inciptit> ‚<rs type="paper" ana="werk_5929">Neue Freie Presse</rs>‘ enthielt am <date>19. Mai</date> den Satz: »<rs type="pers" ana="n_15545" ref="#fk__p_56231">König<lb/>
+Alexander</rs> hat sich mit seinem <seg type="insult"><seg type="spc">Schicksel</seg></seg> ausgesöhnt.« Die<lb/>
+Münchener ‚<rs type="magazine" ana="werk_5930">Jugend</rs>‘ citiert diesen Satz als einen lustigen »Druckfehlerteufel<lb/>
+«. <seg type="insult"><RS persTitle="Goethe" title="Faust">Der ahnungslose Engel</RS>!</seg> Er weiß nicht, dass die ‚<rs type="paper" ana="werk_5931">Neue<lb/>
+Freie Presse</rs>‘ seit der Vermählung <rs type="pers" ana="n_15546" ref="#fk__p_56231">Alexanders</rs> mit <rs type="pers" ana="n_15547" ref="#fk__p_42081">Draga</rs> vom <rs type="inst">auswärtigen<lb/>
+ Amt</rs> gegen Serbien inspiriert wird und dass <seg type="insult">Herr <rs type="pers" ana="n_15548" ref="#fk__p_40507">Dóczi</rs></seg><lb/>
+einfach <seg type="insult">eine Bosheit in seiner Art</seg> verüben wollte.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_40507">
+               <persName>Dóczi-Nemet, Ludwig Freiherr von </persName>
+               <birth>
+                  <date>1845-11-27</date>
+                  <place>Deutschkreuz</place>
+               </birth>
+               <death>
+                  <date>1919-8-29</date>
+                  <place>Budapest</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <occupation>Publizist</occupation>
+            </person>
+            <person xml:id="fk__p_56231">
+               <persName>Alexander I. Obrenović, König von Serbien</persName>
+               <birth>
+                  <date>1876-8-14</date>
+                  <place>Belgrad</place>
+               </birth>
+               <death>
+                  <date>1903-6-11</date>
+                  <place>Belgrad</place>
+               </death>
+               <occupation>König</occupation>
+               <note type="comment">seit Abdankung seines Vaters 1889</note>
+            </person>
+            <person xml:id="fk__p_42081">
+               <persName>Draga Maschin, geb. Lunjevic, Königin von Serbien</persName>
+               <birth>
+                  <date>1867-09-23</date>
+                  <place>Gornji Milanovac</place>
+               </birth>
+               <death>
+                  <date>1903-06-11</date>
+                  <place>Belgrad</place>
+               </death>
+               <occupation>Königin</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

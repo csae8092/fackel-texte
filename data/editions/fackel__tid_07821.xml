@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07821.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07820.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07822.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Die große Zeit, in: Fackel Heft 19, Nr. 457, 1234, S. 20-21</title>
+            <title type="iso-date">1234-01-01</title>
+            <title type="id">tid_07821</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">19</title><title type="heft">457</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-19-457_n0020.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/457,020</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Die große Zeit</head>
+            <p ana="pr104716">
+hinterläßt mancherlei Spuren in <seg type="insult">unserem Geistesleben</seg>. Es wäre<lb/>
+weit gefehlt zu glauben, daß die Abkürzung der bekannten<lb/>
+Annonce: <foreign xml:lang="de-loc">»Wo gibt’s <seg type="insult">an guten Tropfen und a Hetz</seg>?«</foreign><lb/>
+in: <foreign xml:lang="de-loc">»Wo gibt’s <seg type="insult">an guten Tropfen</seg>?«</foreign> <seg type="insult">das einzige sichtbare<lb/>
+Zugeständnis</seg> bedeutet, das <seg type="insult">unsere Publizistik</seg> <seg type="insult">dem Ernst der Zeit</seg><lb/>
+gemacht hat. Nein, wir tändeln auch anderweitig nicht mehr.<lb/>
+Da ist zum Beispiel <seg type="insult">eine <rs type="perRef" ana="werk_21121">illustrierte Zeitung</rs></seg>, die sich ehedem<lb/>
+damit befaßt hat, dem Leben der Choristinnen eine pikante<lb/>
+Seite abzugewinnen, was bei einer Aufzahlung von zwanzig<lb/>
+Gulden sogar mit der Veröffentlichung der Photographie<lb/>
+verbunden war. Wo sind die Zeiten! Noch immer prangt oben<lb/>
+das Konterfei des Herausgebers, der, <seg type="insult">ein flotter Geist <foreign xml:lang="fr">en escarpines</foreign>,</seg><lb/>
+</p>
+            <p ana="pr104716">
+<seg type="insult"><foreign xml:lang="fr">Viveur</foreign> durch und durch</seg>, den lustigen Titel seiner Druckschrift<lb/>
+darreicht; aber unten ist es nicht mehr <seg type="insult">die <rs type="pers">Fritzi-Mitzi</rs></seg>, die<lb/>
+soeben in <seg type="insult">Friedek-Mistek</seg> <seg type="insult">den gefährlichen Sprung vom <foreign xml:lang="de-loc">Brettl</foreign> auf<lb/>
+die Bretter</seg> gewagt hat, sondern im Gegenteil: <rs type="pers" ana="n_67093" ref="#fk__p_51882"><seg type="insult">Puhallo<lb/>
+von Brdlog</seg></rs>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_51882">
+               <persName>Puhallo von Brlog, Paul</persName>
+               <birth>
+                  <date>1856-2-21</date>
+                  <place>Brlog/Kroatien</place>
+               </birth>
+               <death>
+                  <date>1926-10-12</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Offizier</occupation>
+               <note type="comment">Generaloberst, FML</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

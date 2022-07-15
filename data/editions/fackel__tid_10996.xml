@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_10996.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10995.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10997.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Druckfehler), in: Fackel Heft 30, Nr. 781, 1928, S. 68-68</title>
+            <title type="iso-date">1928-06-01</title>
+            <title type="id">tid_10996</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">30</title><title type="heft">781</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-30-781_n0068.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/781,068</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Druckfehler)</head>
+            <p ana="pr155536">
+<space/>In »<rs type="title">Epigramme</rs>«, <abbr>S.</abbr> 83, <abbr>Z.</abbr> 4 und in »<rs type="title">Worte in Versen</rs>«,<lb/>
+<abbr>Bd.</abbr> VIII, <abbr>S.</abbr> 41, <abbr>Z.</abbr> 4 statt »vor«: <seg type="i">von</seg>.<lb/>
+</p>
+            <p ana="pr155537">
+<space/>In »<rs type="title">Worte in Versen</rs>« VIII, <abbr>S.</abbr> 31, <abbr>Z.</abbr> 12 statt des Kommas ein Punkt.<lb/>
+</p>
+            <p ana="pr155538">
+<space/>In »<rs type="title">Worte in Versen</rs>« III, <abbr>S.</abbr> 84, <abbr>Z.</abbr> 4 statt »da Tal der<lb/>
+Täler du«: <seg type="i">du</seg> Tal der Täler du.<lb/>
+</p>
+            <p ana="pr155539">
+<space/>In »<rs type="title">Nachts</rs>«, <abbr>S.</abbr> 168, <abbr>Z.</abbr> 1 <abbr>v. u.</abbr> statt »sonden«: <seg type="i">sondern</seg>.<lb/>
+</p>
+            <p ana="pr155540">
+<space/>In <foreign xml:lang="fr">»<rs type="title">Madame l’Archiduc</rs>«</foreign>, <abbr>S.</abbr> 19, 4. Szene, ist die Bezeichnung<lb/>
+»<seg type="i">Der Wirt</seg>« nachzutragen.<lb/>
+</p>
+            <p ana="pr155541">
+<space/><FCORR id="fcorr_154" ferrID="ferr_154" href="FK-29-766_n0080.xml">In <rs type="selfRef" ana="werk_28265"><abbr>Nr.</abbr> 766—770</rs>, <abbr>S.</abbr> 80, Z 17 <abbr>v. u.</abbr> statt »der Buches«: <EM id="em_154" ferrID="ferr_154" href="FK-29-766_n0080.xml"><seg type="i">des</seg> Buches</EM>.</FCORR><lb/>
+</p>
+            <p ana="pr155542">
+<space/><FCORR id="fcorr_155" ferrID="ferr_155" href="FK-29-771_n0056.xml">In <rs type="selfRef" ana="werk_28266"><abbr>Nr.</abbr> 771—776</rs>, <abbr>S.</abbr> 56, <abbr>Z.</abbr> 17 statt »Schmiedl«: <rs type="pers" ana="n_92898" ref="#fk__p_48756"><seg type="i"><EM id="em_155" ferrID="ferr_155" href="FK-29-771_n0056.xml">Schmidl</EM></seg></rs>.</FCORR><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_48756">
+               <persName>Schmidl, Leo</persName>
+               <birth>
+                  <date>1904-12-17</date>
+                  <place>Budapest</place>
+               </birth>
+               <death>
+                  <date>1972-6</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/43660</idno></person>
+            </listPerson></back></text>
+</TEI>

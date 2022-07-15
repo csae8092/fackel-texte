@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00952.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00951.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00953.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Wippchens Gruß.), in: Fackel Heft 02, Nr. 040, 1900, S. 29-30</title>
+            <title type="iso-date">1900-05-01</title>
+            <title type="id">tid_00952</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">040</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-040_n0029.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/040,029</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Wippchens Gruß.)</head>
+            <p ana="pr9206">
+<space/><seg type="insult"><inciptit>Herr</inciptit> <rs type="pers" ana="n_7438" ref="#fk__p_47277">Julius Stettenheim</rs></seg> hat als <seg type="insult">unvermeidlicher Repräsentant des<lb/>
+Berliner Humors</seg> einen Gruß »<rs type="pers">Wippchens</rs>« an <rs type="pers" ana="n_7439" ref="#fk__p_43514">Kaiser Franz Josef</rs> gerichtet<lb/>
+; in einem längeren Gedicht erklärt er, von seinem Schreibtisch dem<lb/>
+Kaiser von Oesterreich die Hand reichen zu wollen. Hat unser <rs type="inst">auswärtiges<lb/>
+ Amt</rs> sofort die entsprechenden Repressalien angekündigt?<lb/>
+</p>
+            <p ana="pr9206">
+Wenn <rs type="pers" ana="n_7440" ref="#fk__p_55493">Wilhelm II.</rs> nächstens nach Wien kommen sollte, wird er sich’s<lb/>
+gefallen lassen müssen, dass ihm <seg type="insult">unser <rs type="pers" ana="n_7441" ref="#fk__p_47236">Julius Bauer</rs></seg> die Hand reicht.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_55493">
+               <persName>Wilhelm II., Kaiser</persName>
+               <birth>
+                  <date>1859-1-27</date>
+                  <place>Berlin</place>
+               </birth>
+               <death>
+                  <date>1941-6-4</date>
+                  <place>Doorn/Niederlande</place>
+               </death>
+               <occupation>Kaiser</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_21338</idno></person>
+            <person xml:id="fk__p_43514">
+               <persName>Franz Joseph I., Kaiser</persName>
+               <birth>
+                  <date>1830-8-18</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1916-11-21</date>
+                  <place>Wien</place>
+               </death>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15150</idno></person>
+            <person xml:id="fk__p_47277">
+               <persName>Stettenheim, Julius</persName>
+               <birth>
+                  <date>1831-11-2</date>
+                  <place>Hamburg</place>
+               </birth>
+               <death>
+                  <date>1916-10-30</date>
+                  <place>Berlin-Lichterfelde</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/25512</idno></person>
+            <person xml:id="fk__p_47236">
+               <persName>Bauer, Julius</persName>
+               <birth>
+                  <date>1853-10-15</date>
+                  <place>Raab-Szigeth</place>
+               </birth>
+               <death>
+                  <date>1941-6-11</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Kritiker</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2150</idno></person>
+            </listPerson></back></text>
+</TEI>

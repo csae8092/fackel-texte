@@ -1,0 +1,46 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07830.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07829.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07831.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Der Heldenbariton und die Helden, in: Fackel Heft 19, Nr. 457, 1234, S. 29-29</title>
+            <title type="iso-date">1234-01-01</title>
+            <title type="id">tid_07830</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">19</title><title type="heft">457</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-19-457_n0029.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/457,029</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Der Heldenbariton und die Helden</head>
+            <p ana="pr104813">
+<space/>»Der erste Heldenbariton des <rs type="inst">Dortmunder Stadttheaters</rs><lb/>
+<rs type="pers" ana="n_67138" ref="#fk__p_43814">Friedrich Braun</rs> ist durch Beschluß des <rs type="inst">Theaterausschusses</rs> sofort<lb/>
+entlassen worden, weil er sich in Gegenwart einiger Kollegen und<lb/>
+eines Offiziers abfällig über das Friedensangebot des deutschen<lb/>
+Kaisers und des deutschen Kronprinzen geäußert hat. <rs type="pers" ana="n_67139" ref="#fk__p_43814">Braun</rs>, der<lb/>
+Schweizer und mit einer Berlinerin verheiratet ist, hält sich schon seit<lb/>
+mehr als 20 Jahren in Deutschland auf.«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_43814">
+               <persName>Braun, Friedrich</persName>
+               <birth>
+                  <date>1872-8-27</date>
+                  <place>Zürich</place>
+               </birth>
+               <death>
+                  <date>1918-9-15</date>
+                  <place>Dortmund</place>
+               </death>
+               <occupation>Sänger</occupation>
+               <note type="comment">Bariton</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

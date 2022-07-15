@@ -1,0 +1,46 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02018.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02017.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02019.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">High-life, in: Fackel Heft 03, Nr. 085, 1901, S. 24-24</title>
+            <title type="iso-date">1901-11-16</title>
+            <title type="id">tid_02018</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">03</title><title type="heft">085</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-03-085_n0024.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/085,024</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>High-life</head>
+            <p ana="pr19728">
+<space/>[<seg type="insult"><foreign xml:lang="en"><seg type="spc">High-life</seg></foreign>.</seg>] <seg type="insult"><rs type="pers" ana="n_16850" ref="#fk__p_57134">Baron Lulu <seg type="spc">Erlanger</seg></rs></seg> hat sich nach dem Transvaal<lb/>
+ begeben und wird erst auf der Reise schlüssig werden, ob er<lb/>
+sich den Engländern oder den Buren anschliessen wird. Man erwartet<lb/>
+aber, dass er <seg type="insult">seine Tüchtigkeit im Ueberwinden von Bauern</seg> bewähren<lb/>
+und zugleich die Gelegenheit benützen wird, sich den Engländern<lb/>
+für die Erfindung des Pokerspieles dankbar zu erweisen.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_57134">
+               <persName>Erlanger, Ludwig (Lulu) Baron von</persName>
+               <birth>
+                  <date>1862-3-5</date>
+                  <place>London</place>
+               </birth>
+               <death>
+                  <date>1923-5-4</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Offizier</occupation>
+               <note type="comment">3., Neulinggasse 7</note>
+               <note type="comment">k. k. Major</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

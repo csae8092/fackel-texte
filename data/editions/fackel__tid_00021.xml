@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00021.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00020.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00022.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Der Bauernfeld-Preis.), in: Fackel Heft 01, Nr. 002, 1899, S. 29-30</title>
+            <title type="iso-date">1899-04-01</title>
+            <title type="id">tid_00021</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">002</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-002_n0029.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/002,029</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Der Bauernfeld-Preis.)</head>
+            <p ana="pr304">
+<space/>Der <rs type="pers" ana="n_321" ref="#fk__p_42332">Bauernfeld-Preis</rs> ist zur Vertheilung gelangt und hat, als<lb/>
+zwei Dichter schon versehen waren, auch noch eine <seg type="insult">»Aufmunterungsprämie<lb/>
+« für Herrn <rs type="pers" ana="n_322" ref="#fk__p_48742">Leo <seg type="spc">Hirschfeld</seg></rs></seg> erübrigt. Wie die Preisrichter<lb/>
+ein Verhältnis zwischen den Manen <rs type="pers" ana="n_323" ref="#fk__p_42332">Bauernfelds</rs> und dem <seg type="insult">Verfasser<lb/>
+einer kümmerlichen, nach drei Aufführungen vom Repertoire eines<lb/>
+Vorstadttheaters abgesetzten Kaffeehausstudie</seg> herzustellen gedachten,<lb/>
+wurde uns nicht verrathen. Schwerlich dürfte für sie die Erwägung<lb/>
+maßgebend gewesen sein, dass Herr <rs type="pers" ana="n_324" ref="#fk__p_48742">Hirschfeld</rs> auch einmal ein<lb/>
+Feuilleton über <rs type="pers" ana="n_325" ref="#fk__p_42332">Bauernfelds</rs> »<rs type="title"><rs type="pers">Resi</rs></rs>« geschrieben hat. Die Verleihung<lb/>
+eines mit einem Dichternamen verknüpften Stipendiums bedeutet<lb/>
+— jenseits der Wohlthat einer bloßen materiellen Unterstützung —<lb/>
+die vor Missbrauch nicht peinlich genug zu schützende Gelegenheit<lb/>
+, dem Auslande eine jährliche Musterkarte der heimischen Literatur<lb/>
+zu bieten. <rs type="pers" ana="n_326" ref="#fk__p_48742">Hirschfelds</rs> »<rs type="title">Lumpen</rs>« haben, wenn sie auch nicht in allen<lb/>
+Scenen das schroffe Urtheil der Tageskritik verdienten, doch in keinem<lb/>
+Worte jene Ursprünglichkeit verrathen, die heute einzig noch einer<lb/>
+Aufmunterung wert wäre. Wie arm wir geworden sind im Zwange<lb/>
+der <seg type="insult">literarischen Coterien</seg>, zeigt sich erst, wenn wir <seg type="insult">unsere Dichter</seg><lb/>
+zu krönen beginnen. Als <seg type="insult">Repräsentant der neuösterreichischen Dramatik</seg><lb/>
+</p>
+            <p ana="pr304">
+<seg type="insult"/> hat Herr <rs type="pers" ana="n_327" ref="#fk__p_48742">Hirschfeld</rs> einen Aufmunterungspreis erhalten; vielleicht<lb/>
+ könnte man jetzt, um endlich doch etwas zur Förderung der<lb/>
+heimischen Cultur zu thun, wenigstens für seinen Bruder <rs type="pers" ana="n_328" ref="#fk__p_54916">Victor <seg type="spc">Léon</seg></rs><lb/>
+eine <seg type="insult">Entmuthigungsprämie</seg> aussetzen.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_48742">
+               <persName>Hirschfeld, Leo, Ps. Leo Feld</persName>
+               <birth>
+                  <date>1869-2-14</date>
+                  <place>Augsburg</place>
+               </birth>
+               <death>
+                  <date>1924-9-5</date>
+                  <place>Florenz</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_14923</idno></person>
+            <person xml:id="fk__p_54916">
+               <persName>Léon, Victor</persName>
+               <birth>
+                  <date>1858-1-2/4</date>
+                  <place>Senica/Ungarn</place>
+               </birth>
+               <death>
+                  <date>1940-2-23</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Dramaturg</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2337</idno></person>
+            <person xml:id="fk__p_42332">
+               <persName>Bauernfeld, Eduard von</persName>
+               <birth>
+                  <date>1802-1-13</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1890-8-9</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Versdrama "Der Landfrieden" (1869) 912/24</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10854</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_11050.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11049.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11051.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Berlin, 13. Januar, ½12 Uhr vormittags:, in: Fackel Heft 31, Nr. 806, 1929, S. 10-11</title>
+            <title type="iso-date">1929-05-01</title>
+            <title type="id">tid_11050</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">31</title><title type="heft">806</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-31-806_n0010.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/806,010</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Berlin, 13. Januar, ½12 Uhr vormittags:</head>
+            <p ana="pr158990">
+<space/><seg type="spc">Berlin</seg>, <date>13. Januar</date>, ½12 Uhr vormittags:<lb/>
+</p>
+            <p ana="pr158991">
+<space/>(Veranstaltung des <rs type="inst">Theaters am Schiffbauerdamm</rs>)<lb/>
+</p>
+            <p ana="pr158992">
+<space/><rs type="inst">Harmonium-Saal</rs><lb/>
+</p>
+            <p ana="pr158993">
+<space/><rs type="pers" ana="n_95433" ref="#fk__p_46664"><seg type="spc">Offenbach</seg></rs>: <rs type="title"><seg type="spc">Die Briganten</seg></rs>.<lb/>
+</p>
+            <p ana="pr158994">
+<space/>Begleitung: <rs type="pers" ana="n_95434" ref="#fk__p_44298">Georg Knepler</rs>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_44298">
+               <persName>Knepler, Georg</persName>
+               <birth>
+                  <date>1906-12-21</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>2003-1-24</date>
+                  <place>Berlin</place>
+               </death>
+               <occupation>Pianist</occupation>
+               <occupation>Komponist</occupation>
+               <occupation>Musikwissenschaftler</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38611</idno></person>
+            <person xml:id="fk__p_46664">
+               <persName>Offenbach, Jacques</persName>
+               <birth>
+                  <date>1819-06-21</date>
+                  <place>Köln</place>
+               </birth>
+               <death>
+                  <date>1880-10-05</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Komponist</occupation>
+               <note type="comment">Ögg teilt Fortunato F 876/34 Shakespeare zu</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/9131</idno></person>
+            </listPerson></back></text>
+</TEI>

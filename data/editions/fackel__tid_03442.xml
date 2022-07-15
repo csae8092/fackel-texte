@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03442.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03441.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03443.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Kulturmensch. (Ein Brief Forel’s), in: Fackel Heft 05, Nr. 152, 1904, S. 24-24</title>
+            <title type="iso-date">1904-01-16</title>
+            <title type="id">tid_03442</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">05</title><title type="heft">152</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-05-152_n0024.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/152,024</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Kulturmensch. (Ein Brief Forel’s)</head>
+            <p ana="pr34132">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_29428" key="#fk__p_48354">Kulturmensch</rs>.</seg></seg> Zu einer Polemik des Professors <rs type="pers" ana="n_29429" ref="#fk__p_38569">Forel</rs> gegen den<lb/>
+Hygieniker <rs type="pers" ana="n_29430" ref="#fk__p_43211">Hueppe</rs> druckt die ‚<rs type="paper" ana="werk_12698">Arbeiter-Zeitung</rs>‘ einen Brief des<lb/>
+Psychiaters ab, in welchem er erzählt, daß er das Manuskript seines<lb/>
+Aufsatzes vor einigen Monaten der ‚<rs type="paper" ana="werk_12699">Zeit</rs>‘ übersendet habe. Es wurde<lb/>
+dort nicht gedruckt, der Autor aber, dem man zuerst überhaupt nicht<lb/>
+antwortete, in der schamlosesten Weise hingehalten. Schließlich hieß es,<lb/>
+das Manuskript sei verloren. »Es ist merkwürdig«, schließt <rs type="pers" ana="n_29431" ref="#fk__p_38569">Forel</rs>, »daß<lb/>
+die gleiche ‚<rs type="paper" ana="werk_12700">Zeit</rs>‘ und manche andere ähnliche Blätter mich wiederholt<lb/>
+und dringend um Aufsätze bitten, wenn es ihnen gerade in den Kram<lb/>
+paßt, solche jedoch zunächst nicht beantworten und dann verlieren, wenn<lb/>
+es ihnen <seg type="spc">nicht</seg> in den Kram paßt. Ich habe das schon mehrfach erlebt<lb/>
+und werde immer vorsichtiger. Die ‚<rs type="paper" ana="werk_12701">Zeit</rs>‘ <seg type="spc">telegraphierte</seg> mir sogar<lb/>
+um einen <seg type="spc">Aufsatz über die <rs type="pers" ana="n_29432" ref="#fk__p_49205">Prinzessin von Sachsen</rs></seg>. Ich<lb/>
+<seg type="spc">refusierte denselben selbstverständlich</seg>, <seg type="spc">da ein Arzt über<lb/>
+seine Kranken nicht schwätzt</seg>. Es ist aber bezeichnend: Das<lb/>
+Manuskript eines solchen Aufsatzes wäre sicher nicht ‚verloren‘ gegangen.<lb/>
+<foreign xml:lang="la">Sapienti sat.</foreign>« <seg type="symbol" subtype="3dots"/> <RS persTitle="Goethe" title="Faust">Nicht jeder Gelehrte hält so rein.</RS><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_43211">
+               <persName>Hueppe, Ferdinand</persName>
+               <birth>
+                  <date>1852-08-24</date>
+                  <place>Neuwied-Heddesdorf</place>
+               </birth>
+               <death>
+                  <date>1938-9-15</date>
+                  <place>Dresden</place>
+               </death>
+               <occupation>Hygieniker</occupation>
+            </person>
+            <person xml:id="fk__p_38569">
+               <persName>Forel, Auguste</persName>
+               <birth>
+                  <date>1848-9-1</date>
+                  <place>Morges/Kanton Waadt</place>
+               </birth>
+               <death>
+                  <date>1931-7-27</date>
+                  <place>Yvorne bei Aigle</place>
+               </death>
+               <occupation>Psychiater</occupation>
+               <occupation>Entomologe</occupation>
+            </person>
+            <person xml:id="fk__p_49205">
+               <persName>Sachsen, Luise von, geb. Erzherzogin von Österreich-Toscana</persName>
+               <birth>
+                  <date>1870-9-2</date>
+                  <place>Salzburg</place>
+               </birth>
+               <death>
+                  <date>1947-3-23</date>
+                  <place>Brüssel</place>
+               </death>
+               <note type="comment">Gräfin Montignoso, starb als Blumenfrau</note>
+               <note type="comment">Affaire mit André Giron</note>
+               <note type="comment">Ögg irrt. statt 126/19: 126/29</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_19511</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/23855</idno></person>
+            </listPerson></back></text>
+</TEI>

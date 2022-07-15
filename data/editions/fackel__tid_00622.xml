@@ -1,0 +1,48 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00622.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00621.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00623.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Pariser Depesche.), in: Fackel Heft 01, Nr. 025, 1899, S. 30-30</title>
+            <title type="iso-date">1899-12-01</title>
+            <title type="id">tid_00622</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">025</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-025_n0030.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/025,030</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Pariser Depesche.)</head>
+            <p ana="pr5794">
+<space/>Paris, <date>5. December</date> (Originaldepesche). <seg type="insult">Herr <rs type="pers" ana="n_4347" ref="#fk__p_40792">Berthold <seg type="spc">Frischauer<lb/>
+</seg></rs>, der des Französischen unkundige Pariser Correspondent der<lb/>
+‚<rs type="paper" ana="werk_1474">Neuen Freien Presse</rs>‘</seg>, der bekanntlich wegen seiner grimmigen<lb/>
+Feindschaft gegen die französische Armee, aber auch wegen schlechten<lb/>
+Benehmens im <date>Februar dieses Jahres</date> aus Frankreich ausgewiesen<lb/>
+wurde, ist hier soeben wieder eingetroffen. Die französische Armee<lb/>
+hat sich sofort — zum erstenmal seit <date>1870</date> — <seg type="spc">übergeben</seg>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_40792">
+               <persName>Frischauer, Berthold</persName>
+               <birth>
+                  <date>1851-9-9</date>
+                  <place>Brünn</place>
+               </birth>
+               <death>
+                  <date>1924-2-4</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <note type="comment">6., Linke Wienzeile 36</note>
+               <note type="comment">Ögg teilt ihm auch 56/23 zu, nicht erkennbar, weshalb</note>
+               <note type="comment">Red. der NFP</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/16710</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,107 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_08266.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08265.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08267.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Der Geist, in: Fackel Heft 20, Nr. 474, 1918, S. 130-130</title>
+            <title type="iso-date">1918-05-01</title>
+            <title type="id">tid_08266</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">20</title><title type="heft">474</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-20-474_n0130.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/474,130</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Der Geist</head>
+            <p ana="pr109270">
+<space/><rs type="pers" ana="n_68631" ref="#fk__p_55030">Hindenburg</rs> sagte zu <rs type="pers" ana="n_68632" ref="#fk__p_52017">Auernheimer</rs>, als die Rede auf die<lb/>
+englischen Tanks kam:<lb/>
+</p>
+            <p ana="pr109272">
+<space/>»Es ist immer ein schlechtes Zeichen, wenn eine Armee<lb/>
+versucht, <seg type="spc">durch derlei mechanische Erfindungen zu<lb/>
+ersetzen</seg>, was ihr <seg type="spc">an lebendigem Geiste</seg> abgeht. <seg type="spc">Der Geist<lb/>
+ist unersetzlich</seg> <seg type="symbol" subtype="3dots"/>«<lb/>
+</p>
+            <p ana="pr109274">
+<space/><rs type="pers" ana="n_68633" ref="#fk__p_55030">Hindenburg</rs> meinte aber nicht <seg type="insult">den Geist <rs type="pers" ana="n_68634" ref="#fk__p_52017">Auernheimers</rs></seg>,<lb/>
+sondern, wie dieser selbst zugibt, den Geist, von dem <rs type="pers" ana="n_68635" ref="#fk__p_48747">Tolstoi</rs> in<lb/>
+»<rs type="title">Krieg und Frieden</rs>« spricht:<lb/>
+</p>
+            <p ana="pr109276">
+<space/>»Er (<rs type="pers" ana="n_68636" ref="#fk__p_48427">Kutusow</rs>) wußte, daß das Schicksal der Schlachten<lb/>
+entschieden wird nicht durch die Anordnungen des Oberbefehlshabers,<lb/>
+nicht durch die Aufstellung der Truppen, nicht durch die Zahl<lb/>
+der Kanonen und die Summe der Gefallenen, sondern <seg type="spc">durch jene<lb/>
+unberechenbare Kraft</seg>, die der <seg type="spc">Geist des Heeres</seg><lb/>
+genannt wird <seg type="symbol" subtype="3dots"/>«<lb/>
+</p>
+            <p ana="pr109278">
+Und Durchbruchswirkungen erzielen kann, wie bei <seg type="insult">einer<lb/>
+nicht mechanischen, sondern mehr chemischen Kriegführung</seg><lb/>
+<seg type="insult">das Gas des Heeres</seg>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_48427">
+               <persName>Kutusow, Michail Illarionowitsch</persName>
+               <birth>
+                  <date>1745-9-19</date>
+                  <place>Sankt Petersburg</place>
+               </birth>
+               <death>
+                  <date>1813-4-28</date>
+                  <place>Bunzlau</place>
+               </death>
+               <occupation>Offizier</occupation>
+               <note type="comment">Ögg: Golenischtschew-Kutusow</note>
+               <note type="comment">Generalfeldmarschall</note>
+            </person>
+            <person xml:id="fk__p_55030">
+               <persName>Beneckendorff-Hindenburg, Paul von</persName>
+               <birth>
+                  <date>1847-10-2</date>
+                  <place>Posen</place>
+               </birth>
+               <death>
+                  <date>1934-8-2</date>
+                  <place>Neudeck</place>
+               </death>
+               <occupation>Offizier</occupation>
+               <occupation>Politiker</occupation>
+               <note type="comment">Reichspräsident seit 1925</note>
+            </person>
+            <person xml:id="fk__p_48747">
+               <persName>Tolstoi, Leo Nikolajewitsch</persName>
+               <birth>
+                  <date>1828-9-9</date>
+                  <place>Jasnaja Poljana (Gouv. Tula)</place>
+               </birth>
+               <death>
+                  <date>1910-11-20</date>
+                  <place>Astapowo (Gouv. Tambow)</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_20772</idno></person>
+            <person xml:id="fk__p_52017">
+               <persName>Auernheimer, Raoul</persName>
+               <birth>
+                  <date>1876-4-15</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1948-1-6</date>
+                  <place>Oakland/Kalifornien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Journalist</occupation>
+               <occupation>Kritiker</occupation>
+               <note type="comment">404/13 "vergleichen eine Festung", s. NFP 31.07.1914 (Hinweis Schwarzer)</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10788</idno></person>
+            </listPerson></back></text>
+</TEI>

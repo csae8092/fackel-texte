@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03656.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03655.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03657.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Der Graf, in: Fackel Heft 06, Nr. 165, 1904, S. 13-13</title>
+            <title type="iso-date">1904-07-8</title>
+            <title type="id">tid_03656</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">06</title><title type="heft">165</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-06-165_n0013.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/165,013</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Der Graf</head>
+            <p ana="pr36423">
+<space/><inciptit>Den</inciptit> <seg type="insult">Schießversuchen des <rs type="pers" ana="n_31246" ref="#fk__p_44729">Grafen Milewski</rs> auf<lb/>
+dem Nordbahnhofe</seg> steht <seg type="insult">unsere Behörde</seg> noch wohlwollender<lb/>
+ gegenüber als die ungarische den Stierkämpfen<lb/>
+, die schließlich doch abgesagt wurden. Die<lb/>
+Untersuchungshaft gedenkt <seg type="insult">der Herr Graf</seg> auf seiner<lb/>
+Yacht zu verbringen. Und dabei ist <seg type="insult">dieser Graf</seg> <seg type="insult">nur<lb/>
+ein römischer Graf</seg>, was bekanntlich auch <seg type="insult">der Maler<lb/>
+<rs type="pers" ana="n_31247" ref="#fk__p_38633">Lippay</rs></seg> ist, der freilich die Leute noch schlechter<lb/>
+trifft als <seg type="insult">der <rs type="pers" ana="n_31248" ref="#fk__p_44729">Graf Milewski</rs></seg>. Die Offenheit, mit der<lb/>
+man jetzt <seg type="insult">im amtlichen Österreich</seg> zugibt, daß der<lb/>
+Mensch beim Baron anfängt und der Häftling beim<lb/>
+Baron aufhört, entwaffnet alle Empörung. Als <seg type="insult">der gräfliche<lb/>
+ Kunstschütze</seg> im <rs type="inst">Landesgericht</rs> ankam — »Herr<lb/>
+Graf bemühen sich selbst?« hätte der Untersuchungsrichter<lb/>
+ beinahe gerufen —, wurde ihm mit Rücksicht<lb/>
+auf seinen aufgeregten Zustand das Verhör in der<lb/>
+dumpfen Stube erspart und »im Garten« serviert <seg type="symbol" subtype="3dots"/><lb/>
+Aber muß man denn in Österreich wirklich Graf sein,<lb/>
+um beim Schießen auf Menschen billig davon zu<lb/>
+kommen? In Korneuburg bekam neulich ein Wilderer<lb/>
+einen Monat schweren Kerkers für einen Fasan, der<lb/>
+Jäger, der dem Wilderer dafür die Lunge durchschoß<lb/>
+, vierzehn Tage einfachen Arrests. Des kriminalistischen<lb/>
+ Rätsels Lösung dürfte lauten, daß der<lb/>
+Fasan eben ein <seg type="insult">gräflicher Fasan</seg> war.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_44729">
+               <persName>Korwin-Milewski, Ignacy Karol Graf</persName>
+               <birth>
+                  <date>1846</date>
+               </birth>
+               <death>
+                  <date>1926</date>
+               </death>
+               <note type="comment">erwarb 1905 die istrische Insel Katarina; nach dem 1. WK verarmt nach Polen zurück</note>
+            </person>
+            <person xml:id="fk__p_38633">
+               <persName>Lippay, Bartholomäus Dominik </persName>
+               <birth>
+                  <date>1864-9-21</date>
+                  <place>Turzófalva/Komitat Trencin, Ungarn</place>
+               </birth>
+               <death>
+                  <date>1919-12-17</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Maler</occupation>
+               <note type="comment">ZF 47B/5/6 (FD) 22.12.1919</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17580</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/20498</idno></person>
+            </listPerson></back></text>
+</TEI>

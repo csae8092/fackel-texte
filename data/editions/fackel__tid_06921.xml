@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06921.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06920.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06922.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Das muß ein Kunstwerk sein, in: Fackel Heft 17, Nr. 406, 1915, S. 14-15</title>
+            <title type="iso-date">1915-10-01</title>
+            <title type="id">tid_06921</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">17</title><title type="heft">406</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-17-406_n0014.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/406,014</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Das muß ein Kunstwerk sein</head>
+            <p ana="pr93121">
+<space/><seg type="symbol" subtype="4dots"/> Das Gesicht ist von großer Ausdruckskraft, das ganze <choice><sic>StandbiId</sic><corr>Standbild</corr></choice><lb/>
+wohlgelungen. Den Sockel <seg type="spc">zieren</seg> etliche Reliefs, die <seg type="spc">Spottbilder</seg><lb/>
+unserer Feinde zeigen: eine <seg type="insult"><SPAN cont="Bärenfratze">Bäre<seg type="spc">nfratze</seg></SPAN> (Rußland)</seg>, eine <seg type="insult">Dogge (England)</seg>,<lb/>
+einen <seg type="insult">Hahn (Frankreich)</seg>, eine <seg type="insult"><SPAN cont="Löwenfratze">Löwe<seg type="spc">nfratze</seg></SPAN> (Belgien)</seg>, eine <seg type="insult">Schlange<lb/>
+(Serbien)</seg>, einen <seg type="insult">Drachenkopf (Japan)</seg> und ein <seg type="insult">Chamäleon (Italien)</seg>. Das<lb/>
+3 Meter hohe Denkmal, aus Lindenholz hergestellt, <seg type="spc">ziert</seg> die Vorhalle<lb/>
+des <seg type="spc">Kunstgebäudes</seg> neben dem Residenzschloß; es wurde am <rs type="event">Sedantag</rs><lb/>
+feierlich enthüllt. <rs type="pers" ana="n_62953" ref="#fk__p_48063">König Wilhelm</rs> und <rs type="pers" ana="n_62954" ref="#fk__p_48071">Königin Charlotte</rs> schlugen die<lb/>
+ersten <choice><sic>NägeI</sic><corr>Nägel</corr></choice> zur Panzerung des Schwabenritters ein.<lb/>
+</p>
+            <p ana="pr93123">
+<space/>Jetzt werden <seg type="insult">jene ekelhaften Humorkarten</seg>, mit denen das<lb/>
+<seg type="insult">Hinterland</seg> den Kämpfenden eine Freude bereiten wollte und die<lb/>
+von ihnen als unbrauchbar zurückgewiesen wurden, in Plastik umgesetzt<lb/>
+. Dabei bleibt noch immer eine Ungerechtigkeit zu beklagen.<lb/>
+Der <seg type="insult">Drache</seg> hat einen Kopf, selbst das <seg type="insult">Chamäleon</seg> wird als ganzes<lb/>
+anerkannt — warum haben der <seg type="insult">Bär</seg> und gar der <seg type="insult">Löwe</seg> eine <seg type="insult">Fratze</seg>?<lb/>
+Gehört sich denn das, die besten Tiere, die doch von den <seg type="insult">Industriestreitigkeiten<lb/>
+</seg> der Menschen gar nichts wissen, zu beleidigen? Der<lb/>
+Löwe ist schließlich der König der Tiere, er macht immerhin noch<lb/>
+eine bessere Figur als <seg type="insult">manche Persönlichkeiten des Hinterlandes</seg>,<lb/>
+die an <seg type="insult">Enthüllungen von Wehrmännern</seg> teilnehmen, und man<lb/>
+sollte Recht für Gnade ergehen lassen und die Neutralität seines<lb/>
+Königtums respektieren.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_48063">
+               <persName>Wilhelm II., König von Württemberg</persName>
+               <birth>
+                  <date>1848-2-25</date>
+                  <place>Stuttgart</place>
+               </birth>
+               <death>
+                  <date>1921-10-2</date>
+                  <place>Bebenhausen</place>
+               </death>
+               <note type="comment"/>
+            </person>
+            <person xml:id="fk__p_48071">
+               <persName>Charlotte, Königin von Württemberg, geb. Prinzessin von Schaumburg-Lippe</persName>
+               <birth>
+                  <date>1864-10-10</date>
+                  <place>Ratiboritz</place>
+               </birth>
+               <death>
+                  <date>1946-7-16</date>
+                  <place>Bebenhausen</place>
+               </death>
+            </person>
+            </listPerson></back></text>
+</TEI>

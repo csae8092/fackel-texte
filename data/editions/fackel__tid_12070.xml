@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_12070.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_12069.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_12071.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ein Bonze, in: Fackel Heft 34, Nr. 876, 1932, S. 44-44</title>
+            <title type="iso-date">1932-10-01</title>
+            <title type="id">tid_12070</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">34</title><title type="heft">876</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-34-876_n0044.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/876,044</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ein Bonze</head>
+            <p ana="pr176119">
+<space/>Durch seinen längeren Aufenthalt <seg type="spc">bei den <rs type="event">Friedensverhandlungen<lb/>
+ in Saint-Germain</rs></seg> war es <rs type="pers" ana="n_105044" ref="#fk__p_41103"><abbr>Dr.</abbr> Gruener</rs> möglich,<lb/>
+durch <seg type="spc">Käufe fremder Valuten</seg> sein Vermögen wertbeständig<lb/>
+zu erhalten. Mit diesem Vermögen <seg type="spc">sowie dem Erlös aus einem<lb/>
+Auto</seg>, das <rs type="pers" ana="n_105045" ref="#fk__p_41103"><abbr>Dr.</abbr> Gruener</rs> von der Landesregierung als Ehrengeschenk<lb/>
+erhalten hat, und mit den Geldern aus dem Verkauf des Seehofes<lb/>
+tätigte er dann <seg type="spc">umfassende Häuserkäufe</seg> in Berlin. <rs type="pers" ana="n_105046" ref="#fk__p_41103">Gruener</rs><lb/>
+besaß einige Jahre hindurch neun Häuser. <date>1925</date> kaufte <rs type="pers" ana="n_105047" ref="#fk__p_41103"><abbr>Dr.</abbr> Gruener</rs> das<lb/>
+Schloß Itter und die dazu gehörigen Liegenschaften <seg type="symbol" subtype="4dots"/><lb/>
+</p>
+            <p ana="pr176121">
+Sicherlich war er, nehmt alles nur in allem, <seg type="insult">einer der tüchtigsten<lb/>
+<foreign xml:lang="de-loc">Bonzen</foreign></seg>, die wir seit dem <seg type="insult">Umsturz</seg> hatten. Ob da aber nicht<lb/>
+doch übertrieben wird? Wie viel Häuser kann er denn schon<lb/>
+aus dem Erlös des Autos gekauft haben!<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_41103">
+               <persName>Gruener, Franz</persName>
+               <birth>
+                  <date>1879-11-24</date>
+                  <place>Krems</place>
+               </birth>
+               <death>
+                  <date>1953-06-25</date>
+                  <place>Innsbruck</place>
+               </death>
+               <occupation>Rechtsanwalt</occupation>
+               <occupation>Politiker</occupation>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">NR, LH-Stellvertr. Tirol</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

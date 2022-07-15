@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06295.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06294.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06296.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Nach und nach die volle Wahrheit, in: Fackel Heft 15, Nr. 376, 1913, S. 11-11</title>
+            <title type="iso-date">1913-06-01</title>
+            <title type="id">tid_06295</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">15</title><title type="heft">376</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-15-376_n0011.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/376,011</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Nach und nach die volle Wahrheit</head>
+            <p ana="pr84829">
+<space/><seg type="symbol" subtype="4dots"/> <seg type="spc">Nur</seg> die deutschen Bundesfürsten werden mit dem <rs type="pers" ana="n_58801" ref="#fk__p_55493">Kaiser<lb/>
+Wilhelm</rs> dessen Regierungsjubiläum feiern. <seg type="spc">Ausländische Fürstlichkeiten<lb/>
+</seg> werden <seg type="spc">voraussichtlich überhaupt nicht</seg> an der Feier<lb/>
+teilnehmen.<lb/>
+</p>
+            <p ana="pr84831">
+<space/>Wie Ihr Korrespondent <seg type="spc">weiter</seg> erfährt, wird der Zar zur Hochzeit<lb/>
+ im deutschen Kaiserhause allein kommen<seg type="symbol" subtype="4dots"/><lb/>
+</p>
+            <p ana="pr84833">
+<space/>Hingegen ist ein feierlicher Einzug des englischen Königspaares<lb/>
+in Berlin wahrscheinlich.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_55493">
+               <persName>Wilhelm II., Kaiser</persName>
+               <birth>
+                  <date>1859-1-27</date>
+                  <place>Berlin</place>
+               </birth>
+               <death>
+                  <date>1941-6-4</date>
+                  <place>Doorn/Niederlande</place>
+               </death>
+               <occupation>Kaiser</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_21338</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,48 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03788.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03787.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03789.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Politiker. (Ein ehrliches Wort), in: Fackel Heft 06, Nr. 174, 1905, S. 21-21</title>
+            <title type="iso-date">1905-01-31</title>
+            <title type="id">tid_03788</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">06</title><title type="heft">174</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-06-174_n0021.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/174,021</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Politiker. (Ein ehrliches Wort)</head>
+            <p ana="pr38006">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="name_201257" ref="#fk__p_51590">Politiker</rs>.</seg></seg></seg> Nach dem <seg type="insult">Zusammenbruch ihrer ungarischen Ideale</seg><lb/>
+hat die ‚<rs type="paper" ana="werk_13567">Neue Freie Presse</rs>‘ (<date>27. Jänner</date>) <seg type="insult">ein ehrliches Wort</seg> gefunden:<lb/>
+»Es ist <seg type="spc">jammerschade um die </seg><seg type="insult"><seg type="spc">Summe</seg> von Talent, politischer<lb/>
+Bildung, Redlichkeit, <seg type="ELIDASH">Willenskraft</seg> und Tatkraft</seg>, <seg type="spc">die sich in dem <rs type="pers" ana="n_32497" ref="#fk__p_54149">Grafen<lb/>
+Tisza</rs> verkörpert</seg>«.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_51590">
+               <persName>Politiker</persName>
+            </person>
+            <person xml:id="fk__p_54149">
+               <persName>Tisza de Borosjenö et Szeged, István Graf</persName>
+               <birth>
+                  <date>1861-4-22</date>
+                  <place>Pest</place>
+               </birth>
+               <death>
+                  <date>1918-10-31</date>
+                  <place>Budapest</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <note type="comment">ermordet von Soldaten während der "Chrysanthemen Revolution"</note>
+               <note type="comment">ungar. Ministerpräsident</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_20757</idno></person>
+            </listPerson></back></text>
+</TEI>

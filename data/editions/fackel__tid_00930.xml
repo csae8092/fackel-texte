@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00930.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00929.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00931.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Wert einer „Extra-Ausgabe“), in: Fackel Heft 02, Nr. 039, 1900, S. 24-25</title>
+            <title type="iso-date">1900-04-01</title>
+            <title type="id">tid_00930</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">039</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-039_n0024.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/039,024</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Wert einer „Extra-Ausgabe“)</head>
+            <p ana="pr8959">
+<space/><inciptit>Seit</inciptit> Montag, dem <date>23. April</date> wissen wir den Wert einer <seg type="insult">»<seg type="spc">Extra-Ausgabe<lb/>
+</seg></seg> zu schätzen. Wir hätten bis zum Nachmittag warten<lb/>
+müssen, um <seg type="insult">eine der unerwartetsten, sensationellsten und bedeutungsvollsten</seg><lb/>
+</p>
+            <p ana="pr8959">
+<seg type="insult"> Nachrichten</seg> zu vernehmen, wenn nicht glücklicherweise<lb/>
+die ‚<rs type="paper" ana="werk_2480">Neue Freie <choice><sic>Presse</sic><corr>Presse‘</corr></choice></rs> wieder <seg type="insult">eine ihrer so beliebten »Extra-Ausgaben<lb/>
+«</seg> veranstaltet hätte. Und so erfuhr man denn schon um<lb/>
+9 Uhr früh allerorten, auf der Straße riefen es die Leute einander<lb/>
+zu, dichte Gruppen von Passanten besprachen es in erregter Discussion<lb/>
+: »<seg type="spc"><rs type="pers" ana="n_7176" ref="#fk__p_44719">Graf und <rs type="pers" ana="n_7177" ref="#fk__p_48295">Gräfin Lonyay</rs></rs> sind heute in Rom eingetroffen<lb/>
+ und im <rs type="inst">Hotel Bristol</rs> abgestiegen</seg>.«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_44719">
+               <persName>Lónyay, Elémer Edmund Graf (1917 Fürst) von Nagy-Lónya und Vásáros</persName>
+               <birth>
+                  <date>1863-08-24</date>
+                  <place>Bodrog-Olaszi</place>
+               </birth>
+               <death>
+                  <date>1946-07-20</date>
+                  <place>Budapest</place>
+               </death>
+            </person>
+            <person xml:id="fk__p_48295">
+               <persName>Stefanie, Prinzessin von Belgien</persName>
+               <birth>
+                  <date>1864-5-21</date>
+                  <place>Schloß Laeken</place>
+               </birth>
+               <death>
+                  <date>1945-8-23</date>
+                  <place>Panonhalma, Ungarn</place>
+               </death>
+               <note type="comment">50. Geburtstag, NFP 22.05.1914, Seite 7</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

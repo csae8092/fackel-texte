@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07250.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07249.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07251.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Der Vorstoß des Pogatschnigg, in: Fackel Heft 18, Nr. 426, 1916, S. 80-81</title>
+            <title type="iso-date">1916-06-01</title>
+            <title type="id">tid_07250</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">18</title><title type="heft">426</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-18-426_n0080.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/426,080</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Der Vorstoß des Pogatschnigg</head>
+            <p ana="pr98053">
+<space/>Der <rs type="inst">Reichsbund <seg type="spc">deutscher Postler Österreichs</seg></rs> erläßt die<lb/>
+folgende Mitteilung: Der reichsdeutsche Abgeordnete <rs type="pers" ana="n_65068" ref="#fk__p_46317">Hubrich</rs>, der dem<lb/>
+Sozialdemokraten <rs type="pers" ana="n_65069" ref="#fk__p_47579">Liebknecht</rs> in gerechter Empörung über dessen <seg type="insult">vaterlandsverräterische<lb/>
+ Worte</seg> das Manuskript wegriß und zu Boden schleuderte,<lb/>
+ist seinem Beruf nach Postbeamter. Der <rs type="inst">Reichsbund deutscher <seg type="spc">Postler</seg><lb/>
+Österreichs</rs> hat ihm daher den folgenden Drahtgruß geschickt: Herrn<lb/>
+<rs type="pers" ana="n_65070" ref="#fk__p_46317">Hubrich</rs>, Mitglied des <rs type="inst">Reichstages</rs> und Generalsekretär des <rs type="inst">Verbandes<lb/>
+<seg type="spc">mittlerer</seg> <seg type="ELIDASH">Postbeamten</seg> und Telegraphenbeamten</rs>, Berlin. <seg type="spc">Die Kunde</seg> von Ihrem<lb/>
+mannhaften Auftreten gegen <seg type="insult">die schädlichen und schändlichen <seg type="spc">Phrasen</seg></seg><lb/>
+</p>
+            <p ana="pr98053">
+<rs type="pers" ana="n_65071" ref="#fk__p_47579">Liebknechts</rs> hat uns hoch erfreut und wir <seg type="spc">entbieten</seg> Ihnen in treuer<lb/>
+Bundesbrüderschaft herzlichen kameradschaftlichen Heilgruß. Für den<lb/>
+<rs type="inst">Reichsbund deutscher <seg type="spc">Postler</seg> Österreichs</rs>: <rs type="pers" ana="n_65072" ref="#fk__p_51236">Paul Pogatschnigg</rs>, Obmann.<lb/>
+</p>
+            <p ana="pr98055">
+<space/>Wenn die deutschen Postler Österreichs sich um die<lb/>
+schnellere Beförderung sonstiger Kunden aus Deutschland nach<lb/>
+Österreich kümmern wollten, so wäre das sehr verdienstvoll. <seg type="insult">Dieses<lb/>
+Herumposteln</seg> ist jetzt etwas unerfreulich.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46317">
+               <persName>Hubrich, Friedrich Wilhelm Louis</persName>
+               <birth>
+                  <date>1867-09-19</date>
+                  <place>Hohenleipisch/Kreis Liebenwerda</place>
+               </birth>
+               <death>
+                  <date>1925-1-23</date>
+                  <place>Berlin</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <occupation>Postfachmann</occupation>
+               <note type="comment">Reichstagsabg. Fortschrittliche Volkspartei</note>
+            </person>
+            <person xml:id="fk__p_47579">
+               <persName>Liebknecht, Karl</persName>
+               <birth>
+                  <date>1871-8-13</date>
+                  <place>Leipzig</place>
+               </birth>
+               <death>
+                  <date>1919-1-15</date>
+                  <place>Berlin-Charlottenburg</place>
+               </death>
+               <occupation>Politiker</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/8625</idno></person>
+            <person xml:id="fk__p_51236">
+               <persName>Pogatschnigg, Paul</persName>
+               <birth>
+                  <date>1873-3-19</date>
+                  <place>Fiume</place>
+               </birth>
+               <death>
+                  <date>1928-6-23</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Postbeamter</occupation>
+               <note type="comment">Obmann des Reichsbunds deutscher Postler Österreichs</note>
+               <note type="comment">7., Zieglergasse 88</note>
+               <note type="comment">Postamtsdirektor</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

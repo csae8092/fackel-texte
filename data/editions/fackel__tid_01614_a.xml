@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01614_a.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01614.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01615.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Die verwechselten Präsidenten.), in: Fackel Heft 02, Nr. 068, 1901, S. 20-20</title>
+            <title type="iso-date">1901-02-01</title>
+            <title type="id">tid_01614_a</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">068</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-068_n0020.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/068,020</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Die verwechselten Präsidenten.)</head>
+            <p ana="pr15932">
+<space/>Der Vicepräsident des <rs type="inst">Abgeordnetenhauses</rs>, Herr <rs type="pers" ana="n_13305" ref="#fk__p_51652"><seg type="spc">Prade</seg></rs>, soll<lb/>
+auf dem <rs type="inst">Concordiaball</rs> »<abbr>u. a.</abbr> bemerkt« worden sein. Er soll, aber er<lb/>
+will nicht. Er verwahrt sich sogar dagegen. Da ist denn nur zweierlei<lb/>
+möglich: Entweder hat Herr <rs type="pers" ana="n_13306" ref="#fk__p_51652">Prade</rs> die Einladungskarte unvorsichtigerweise<lb/>
+ nicht weggeschmissen, sondern etwa an einen <rs type="inst">Parlamentsdiener<lb/>
+</rs> verschenkt. Oder — die Reporter glaubten ihn, den deutschnationalen<lb/>
+ Abgeordneten, wirklich in ihrer Mitte gesehen zu haben,<lb/>
+indem sie ihn mit einem beliebigen Herrn verwechselten. Mit den<lb/>
+Präsidenten des neuen Hauses geht es den <seg type="insult">Zeitungsleuten</seg> überhaupt<lb/>
+seltsam. Als <rs type="pers" ana="n_13307" ref="#fk__p_44869">Graf Vetter von der Lilie</rs> gewählt wurde, versicherte<lb/>
+die ‚<rs type="paper" ana="werk_5028">Neue Freie Presse</rs>‘, »aus seinem <seg type="insult"><rs type="pers"><seg type="spc">Antinouskopf</seg></rs></seg>« blickten freundliche<lb/>
+ Augen. Glücklicherweise belehrte uns alsbald das ‚<rs type="" ana="werk_5029">Extrablatt</rs>‘<lb/>
+eines besseren, indem es uns das Bild eines älteren Herrn mit<lb/>
+Vollbart vorführte. Da nun <rs type="pers" ana="n_13308" ref="#fk__p_44869">Graf Vetter von der Lilie</rs> in der Präsenzliste<lb/>
+ des <rs type="inst">Concordiaballes</rs> figuriert, wäre es immerhin möglich, dass<lb/>
+wirklich <seg type="insult">irgend ein <rs type="pers">Antinous</rs></seg> den Ball besucht hat. <seg type="symbol" subtype="3dots"/><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_51652">
+               <persName>Prade, Heinrich</persName>
+               <birth>
+                  <date>1853-6-5</date>
+                  <place>Reichenberg</place>
+               </birth>
+               <death>
+                  <date>1927-4-22</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Kaufmann</occupation>
+               <occupation>Politiker</occupation>
+               <note type="comment">Reichsratsabgeordneter 1885-1911</note>
+            </person>
+            <person xml:id="fk__p_44869">
+               <persName>Vetter von der Lilie, Moritz Joseph Maria Graf </persName>
+               <birth>
+                  <date>1856-8-22</date>
+                  <place>Troppau</place>
+               </birth>
+               <death>
+                  <date>1945-9-20</date>
+                  <place>Retz</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <note type="comment">Herrenhausabgeordenter, Präsident </note>
+            </person>
+            </listPerson></back></text>
+</TEI>

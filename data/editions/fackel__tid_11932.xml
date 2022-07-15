@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_11932.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11931.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11933.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Pazifistisches, in: Fackel Heft 33, Nr. 857, 1931, S. 118-118</title>
+            <title type="iso-date">1931-08-01</title>
+            <title type="id">tid_11932</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">33</title><title type="heft">857</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-33-857_n0118.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/857,118</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Pazifistisches</head>
+            <p ana="pr172696">
+<space/><rs type="pers" ana="n_103120" ref="#fk__p_38237">Andreas Latzko</rs> muß eine Tat unvergessen bleiben: seine<lb/>
+Novellenfolge »<rs type="title">Menschen im Kriege</rs>«, die zu einer Zeit erschien, da<lb/>
+es noch lebensgefährlich war, gegen den <seg type="insult">Weltirrsinn</seg> Protest anzusagen.<lb/>
+</p>
+            <p ana="pr172698">
+Freilich in der Schweiz und für die erste Auflage anonym, aber<lb/>
+gewürdigt im <date>Oktober 1917</date> in der <rs type="self" ana="werk_32225">Fackel</rs>, als <seg type="insult">Herr <rs type="pers" ana="n_103121" ref="#fk__p_52578">Kreutz</rs></seg> noch<lb/>
+nicht einmal wußte, daß es jedenfalls zensurgefährlich war, in<lb/>
+Österreich auf das Buch — als menschliches Dokument —<lb/>
+hinzuweisen.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_38237">
+               <persName>Latzko, Andreas</persName>
+               <birth>
+                  <date>1876-9-1</date>
+                  <place>Budapest</place>
+               </birth>
+               <death>
+                  <date>1943-9-11</date>
+                  <place>Amsterdam</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/3135</idno></person>
+            <person xml:id="fk__p_52578">
+               <persName>Kreutz, Rudolf Jeremias</persName>
+               <birth>
+                  <date>1876-02-21</date>
+                  <place>Rožd’alowitz/Böhmen</place>
+               </birth>
+               <death>
+                  <date>1949-09-03</date>
+                  <place>Grundlsee</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Offizier</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/5521</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,46 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01031.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01030.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01032.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Hofrath Wetschl. (Hofrath Wetschl), in: Fackel Heft 02, Nr. 043, 1900, S. 29-29</title>
+            <title type="iso-date">1900-06-01</title>
+            <title type="id">tid_01031</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">043</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-043_n0029.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/043,029</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Hofrath Wetschl. (Hofrath Wetschl)</head>
+            <p ana="pr9885">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i">Hofrath <rs type="pers" ana="n_8029" ref="#fk__p_55422">Wetschl</rs>.</seg></seg></seg> Ich gratuliere Ihnen zu <seg type="insult">der sinnigen Idee</seg>,<lb/>
+durch die Sie dem Hofärar mit einem Schlag ein neues Einnahmsgebiet<lb/>
+ erobert haben. Für jeden Kinderwagen, den eine Amme in<lb/>
+den <abbr>k. k.</abbr> Volksgarten führen will, muss jetzt eine Taxe von 50 <abbr>kr.</abbr><lb/>
+für die Saison erlegt werden. So läppert man doch wieder dreißig<lb/>
+Gulden jährlich zusammen!<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_55422">
+               <persName>Wetschl, Franz</persName>
+               <birth>
+                  <date>1850-8-7</date>
+                  <place>Tarnopol</place>
+               </birth>
+               <death>
+                  <date>1944-5-20</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Hofbeamter</occupation>
+               <note type="comment">Kanzleidirektor des Obersthofmeisteramtes</note>
+               <note type="comment">3. Neulinggasse 3</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

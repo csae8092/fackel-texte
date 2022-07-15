@@ -1,0 +1,43 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02020.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02019.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02021.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Socialdemokratischer Liguorifeind. (Reservatio mentalis), in: Fackel Heft 03, Nr. 085, 1901, S. 24-24</title>
+            <title type="iso-date">1901-11-16</title>
+            <title type="id">tid_02020</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">03</title><title type="heft">085</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-03-085_n0024.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/085,024</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Socialdemokratischer Liguorifeind. (Reservatio mentalis)</head>
+            <p ana="pr19734">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="name_203314" key="#fk__p_60619">Socialdemokratischer <rs type="pers" ana="n_16851" ref="#fk__p_38043">Liguorifeind</rs></rs>.</seg></seg></seg> Wie rechtfertigen Socialdemokraten<lb/>
+ jene Eide, die sie beim Eintritt in Vertretungskörper wie<lb/>
+das <rs type="inst">Parlament</rs> und den <rs type="inst">Wiener Gemeinderath</rs> abzulegen gezwungen<lb/>
+werden und die doch der <seg type="insult">Parteiüberzeugung</seg> zuwiderlaufen? Die Argumente<lb/>
+ sind bei <rs type="pers" ana="n_16852" ref="#fk__p_38043">Liguori</rs> nachzulesen.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_38043">
+               <persName>Liguori, Alphonso Maria</persName>
+               <birth>
+                  <date>1696-9-27</date>
+                  <place>Marianella/Neapel</place>
+               </birth>
+               <death>
+                  <date>1787-8-1</date>
+                  <place>Pagani</place>
+               </death>
+               <occupation>Theologe</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

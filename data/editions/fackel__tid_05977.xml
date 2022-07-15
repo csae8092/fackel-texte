@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_05977.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05976.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05978.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ja wie denn sonst?, in: Fackel Heft 14, Nr. 360, 1912, S. 36-36</title>
+            <title type="iso-date">1912-11-01</title>
+            <title type="id">tid_05977</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">14</title><title type="heft">360</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-14-360_n0036.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/360,036</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ja wie denn sonst?</head>
+            <p ana="pr80103">
+<space/>» <seg type="symbol" subtype="4dots"/> Beide Automobile wurden leicht beschädigt, doch erlitten<lb/>
+weder die Chauffeure noch die Insassen einen weiteren Schaden und<lb/>
+kamen mit dem bloßen Schrecken davon. Bezirksrichter <rs type="pers" ana="n_56475" ref="#fk__p_57185"><abbr>Dr.</abbr> Guttmann</rs><lb/>
+sprach nach durchgeführter Verhandlung beide Angeklagte von der<lb/>
+erhobenen Anklage frei, da sämtliche Zeugenaussagen subjektiv gefärbt<lb/>
+seien und keine dem Gerichte die Basis für einen eventuell zu fällenden<lb/>
+Schuldspruch abgeben konnte. Was die Aussage der <rs type="pers" ana="n_56476" ref="#fk__p_44973">Gräfin Sylva-Tarouca</rs><lb/>
+betreffe, konnte das Gericht nicht zur Überzeugung gelangen, daß diese<lb/>
+als unbefangene Zeugin gelten könne. <seg type="spc">Ihre außerordentliche Subjektivität<lb/>
+</seg> gehe am besten aus der an das Gericht gelangten<lb/>
+Eingabe hervor, worin sie die Passanten, welche sich neugierig<lb/>
+angesammelt hatten, <seg type="spc">als <seg type="insult">Mob</seg> bezeichnete</seg>.«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_57185">
+               <persName>Gutmann, Rudolf</persName>
+               <birth>
+                  <date>1876-4-4</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1929-8-19</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Richter</occupation>
+               <note type="comment">13., Baumgartenstr. 83</note>
+               <note type="comment">Bezirksrichter Margarethen</note>
+            </person>
+            <person xml:id="fk__p_44973">
+               <persName>Silva-Tarouca, Marie Antonia Gräfin, geb. Gräfin Nostitz-Rieneck</persName>
+               <birth>
+                  <date>1863-1-31</date>
+                  <place>Prag</place>
+               </birth>
+               <death>
+                  <date>1934-7-23</date>
+                  <place>Pruhonitz</place>
+               </death>
+               <note type="comment">Namenskorrektur!</note>
+               <note type="comment">NFP 26.10.1912, Seite 15</note>
+               <note type="comment">4., Prinz Eugen-Straße 40</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

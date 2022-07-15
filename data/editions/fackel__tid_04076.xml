@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_04076.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04075.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04077.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Habitué. (Herr Ganz und die Erotik), in: Fackel Heft 07, Nr. 195, 1906, S. 26-27</title>
+            <title type="iso-date">1906-02-10</title>
+            <title type="id">tid_04076</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">07</title><title type="heft">195</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-07-195_n0026.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/195,026</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Habitué. (Herr Ganz und die Erotik)</head>
+            <p ana="pr42518">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="name_203479" ref="#fk__p_45322"><foreign xml:lang="fr">Habitué</foreign></rs>.</seg></seg> <seg type="insult">Einer der schwärzesten Alben</seg> ist auch <seg type="insult">Herr <rs type="pers" ana="n_35147" ref="#fk__p_46330">Hugo<lb/>
+Ganz</rs></seg>, der die ‚<rs type="paper" ana="werk_14356">Frankfurter Zeitung</rs>‘ aus Wien bedient. Er gehört zu<lb/>
+<seg type="insult">jenen literarischen Sittenrichtern</seg>, die ihre Feuilletons durch die <seg type="insult">Entrüstung<lb/>
+</seg> über die <seg type="insult">moralischen Gräuel</seg>, die sie auf der Bühne zu sehen<lb/>
+bekommen, pikant zu machen suchen. Daß in der Literatur nicht mehr<lb/>
+bloß entjungfert wird, »darüber kann kein Mann weg«. Das <seg type="insult">»Perverse«</seg><lb/>
+hat es <seg type="insult">dem Herrn <rs type="pers" ana="n_35148" ref="#fk__p_46330">Ganz</rs></seg> angetan. <rs type="pers" ana="n_35149" ref="#fk__p_38226">André Gide’s</rs> »<rs type="title"><rs type="pers">König Kandaules</rs></rs>« wurde<lb/>
+im <rs type="inst">Deutschen Volkstheater</rs> aufgeführt, ohne <seg type="insult">beim Publikum und bei der<lb/>
+seiner würdigen Kritik</seg> einer Spur des Verständnisses für das erotische<lb/>
+Problem des Werkes zu begegnen. <seg type="insult">Herr <rs type="pers" ana="n_35150" ref="#fk__p_46330">Ganz</rs></seg> wurde wenigstens schamrot.<lb/>
+»Nun erwarten wir« ruft er, »nur noch <seg type="spc">ein</seg> Stück, das nach <seg type="insult">allerlei<lb/>
+Brimborium</seg> die athenische Hetäre <seg type="spc">selbst</seg> auf die Bühne bringt, die<lb/>
+ihre Richter durch den Anblick ihrer nackten Schönheit blendet, und<lb/>
+</p>
+            <p ana="pr42518">
+dann sind wir wieder ganz im sonnigen Attika. Fehlt <seg type="insult">den neuen Attikern</seg><lb/>
+nur das bißchen attische Salz. Die Griechen, die das Nackte weder im<lb/>
+Leben noch in der Kunst gescheut haben, hätten einen Poeten gesteinigt,<lb/>
+der es gewagt hätte, sie durch eine Nuditätenszene ins Theater zu locken«.<lb/>
+Das wäre ja schrecklich, wenn man die leibhaftige <rs type="pers">Phryne</rs> auf die Bretter<lb/>
+bringen wollte! Aber mit den Griechen stand es so: sie nahmen an dem<lb/>
+Nackten im Leben keinen Anstoß und hätten darum den Dramatiker gesteinigt,<lb/>
+der sie mit einer Nuditätenszene belästigt hätte, hätten im <seg type="insult">Jargon unserer<lb/>
+Zeitgenossen</seg> gesprochen: »Die Kunst soll uns erheben. Das Nackte haben<lb/>
+wir auf der Gasse«. <seg type="insult">Unsere armselige Gegenwart</seg>, die im Leben heuchelt,<lb/>
+muß sich in der Kunst die verlorenen Menschlichkeiten zusammenklauben.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_45322">
+               <persName>Habitué</persName>
+            </person>
+            <person xml:id="fk__p_38226">
+               <persName>Gide, André</persName>
+               <birth>
+                  <date>1869-11-22</date>
+                  <place>Paris</place>
+               </birth>
+               <death>
+                  <date>1951-2-19</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11435</idno></person>
+            <person xml:id="fk__p_46330">
+               <persName>Ganz, Hugo</persName>
+               <birth>
+                  <date>1862-4-24</date>
+                  <place>Mainz</place>
+               </birth>
+               <death>
+                  <date>1922-1-2</date>
+                  <place>Frankfurt/Main</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <note type="comment">NFP, Zeit, Frankfurter Zeitung</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2618</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,46 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02033.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02032.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02034.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Augur. (Keinen Adel für Herrn Neumann!), in: Fackel Heft 03, Nr. 085, 1901, S. 28-29</title>
+            <title type="iso-date">1901-11-16</title>
+            <title type="id">tid_02033</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">03</title><title type="heft">085</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-03-085_n0028.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/085,028</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Augur. (Keinen Adel für Herrn Neumann!)</head>
+            <p ana="pr19773">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="n_16895" ref="#fk__p_38562">Augur</rs>.</seg></seg></seg> <seg type="insult">Herr <rs type="pers" ana="n_16896" ref="#fk__p_55533"><seg type="spc">Neumann</seg></rs> vom ‚<rs type="paper" ana="werk_6555">Fremdenblatt</rs>‘</seg> ist von der Regierung<lb/>
+ dazu verwendet worden, die Actien aus dem Besitze der <rs type="inst">Elbemühl</rs><lb/>
+in die Hände des »<rs type="inst">Industriellen Clubs</rs>« zu lotsen. Zwei Gulden für<lb/>
+jede Actie: Vielleicht. Den Adel: Nimmermehr!<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_38562">
+               <persName>Augur</persName>
+            </person>
+            <person xml:id="fk__p_55533">
+               <persName>Neumann, Wilhelm Friedrich</persName>
+               <birth>
+                  <date>1860-9-6</date>
+                  <place>Trencsin</place>
+               </birth>
+               <death>
+                  <date>1938-4-7</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <note type="comment">Redakteur des "Fremden-Blatt"</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_18424</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/21908</idno></person>
+            </listPerson></back></text>
+</TEI>

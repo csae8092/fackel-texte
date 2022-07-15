@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_05784.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05783.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05785.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Nachrichten, in: Fackel Heft 14, Nr. 351, 1912, S. 17-18</title>
+            <title type="iso-date">1912-06-01</title>
+            <title type="id">tid_05784</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">14</title><title type="heft">351</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-14-351_n0017.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/351,017</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Nachrichten</head>
+            <p ana="pr77406">
+<space/>»Was <rs type="pers" ana="n_54824" ref="#fk__p_42919">Erzherzog Rainer</rs> als Oberkommandant der Landwehr<lb/>
+gewirkt, ist allgemein bekannt. Oft und oft hat er die mühevollsten<lb/>
+Inspizierungen unternommen, und stets hat er auch im kleinsten Dorfe<lb/>
+alle Honoratioren zum Diner geladen.« — »Die hohe Ehre, die Braut,<lb/>
+Ihre königliche Hoheit <rs type="pers" ana="n_54825" ref="#fk__p_47419">Prinzessin Zita</rs>, und deren hohe Gäste zu<lb/>
+frisieren, wurde Herrn <rs type="pers" ana="n_54826" ref="#fk__p_50921">Otmar Schiff</rs>, Mitchef der <rs type="inst">Firma <rs type="pers" ana="n2_4818" key="#fk__p_57916">Franz Emmer</rs> &amp; <rs type="pers" ana="n2_4819" ref="#fk__p_50921">Otmar<lb/>
+Schiff</rs></rs>, zuteil.«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_47419">
+               <persName>Zita, Kaiserin</persName>
+               <birth>
+                  <date>1892-5-9</date>
+                  <place>Villa delle Pianore/Lucca</place>
+               </birth>
+               <death>
+                  <date>1989-3-14</date>
+                  <place>Zizers/Schweiz</place>
+               </death>
+            </person>
+            <person xml:id="fk__p_50921">
+               <persName>Schiff, Otmar</persName>
+               <birth>
+                  <date>1881-11-27</date>
+                  <place>Deta</place>
+               </birth>
+               <death>
+                  <date>1947-1-20</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Friseur</occupation>
+               <note type="comment">4., Wiedner Hauptstraße 36 (Geschäft: 1., Kärntnerring 6)</note>
+               <note type="comment">Zf: Othmar 15.10.1947, AGL/27, Othmar jun. 11.9.1996</note>
+            </person>
+            <person xml:id="fk__p_42919">
+               <persName>Rainer, Erzherzog</persName>
+               <birth>
+                  <date>1827-01-11</date>
+                  <place>Mailand</place>
+               </birth>
+               <death>
+                  <date>1913-01-27</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <occupation>Wissenschaftsförderer</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

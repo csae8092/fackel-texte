@@ -1,0 +1,47 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_11119.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11118.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11120.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">6. Juni:, in: Fackel Heft 31, Nr. 811, 1929, S. 66-66</title>
+            <title type="iso-date">1929-08-01</title>
+            <title type="id">tid_11119</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">31</title><title type="heft">811</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-31-811_n0066.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/811,066</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>6. Juni:</head>
+            <p ana="pr160544">
+<space/><date>6. Juni</date>:<lb/>
+</p>
+            <p ana="pr160545">
+<space/><rs type="title"><seg type="spc">Die <rs type="pers">Großherzogin von Gerolstein</rs></seg></rs>.<lb/>
+</p>
+            <p ana="pr160546">
+<space/>Auf dem Programm der Brief <rs type="pers" ana="n_96322" ref="#fk__p_45480">Hans von Bülows</rs> (siehe <rs type="selfRef" ana="werk_29362"><abbr>Nr.</abbr> 759—765</rs>)<lb/>
+und die Notizen: »<rs type="title">Verklungen und vertan</rs>« und »<rs type="title">Aus dem Annoncenteil<lb/>
+der <rs type="paper" ana="werk_29363">Arbeiter-Zeitung</rs></rs>«.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_45480">
+               <persName>Bülow, Hans Guido Freiherr von</persName>
+               <birth>
+                  <date>1830-1-8</date>
+                  <place>Dresden</place>
+               </birth>
+               <death>
+                  <date>1894-2-12</date>
+                  <place>Kairo</place>
+               </death>
+               <occupation>Dirigent</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

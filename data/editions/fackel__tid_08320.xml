@@ -1,0 +1,43 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_08320.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08319.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08321.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Im Sturze, in: Fackel Heft 20, Nr. 484, 1918, S. 18-18</title>
+            <title type="iso-date">1918-10-01</title>
+            <title type="id">tid_08320</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">20</title><title type="heft">484</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-20-484_n0018.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/484,018</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Im Sturze</head>
+            <p ana="pr109920">
+<space/>Madrid, <date>4. Juli</date>. Der <seg type="spc">Sturz</seg> <rs type="pers" ana="n_68826" ref="#fk__p_44326">Clemenceaus</rs> <seg type="spc">nähert sich<lb/>
+dem Stadium der Verwirklichung</seg> <seg type="symbol" subtype="4dots"/><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_44326">
+               <persName>Clemenceau, Georges</persName>
+               <birth>
+                  <date>1841-9-28</date>
+                  <place>Mouilleron-en-Pareds</place>
+               </birth>
+               <death>
+                  <date>1929-11-24</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Arzt</occupation>
+               <occupation>Politiker</occupation>
+               <note type="comment">25.10.1906-24.07.1909, 16.11.1917-20.01.1920 Ministerpräsident</note>
+               <note type="comment">1906-09, 1917-20 Ministerpräsident</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/4719</idno></person>
+            </listPerson></back></text>
+</TEI>

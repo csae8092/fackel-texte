@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_04745.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04744.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04746.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Ein feines und ehrliches Wort von Nietzsches Schwester), in: Fackel Heft 10, Nr. 266, 1908, S. 11-11</title>
+            <title type="iso-date">1908-11-30</title>
+            <title type="id">tid_04745</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">10</title><title type="heft">266</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-10-266_n0011.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/266,011</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Ein feines und ehrliches Wort von Nietzsches Schwester)</head>
+            <p ana="pr57378">
+<space/>Wenn auch <rs type="pers" ana="n_43551" ref="#fk__p_43855">Nietzsches</rs> Schwester für <seg type="insult">das große Papierkorbproblem<lb/>
+</seg>, das nicht zur Ruhe kommen will, des Guten zu viel<lb/>
+getan hat, um eines feinen und ehrlichen Wortes willen (<seg ana="‚Zeit‘,&#10;17. November)"/> sei ihr dieses Viele verziehen:<lb/>
+</p>
+            <p ana="pr57380">
+<space/>»<QUOTE rn="1" sourceID="FK-10-266_n0011_a">Der Unterschied zwischen <rs type="pers" ana="n_43552" ref="#fk__p_59455">Overbeck</rs> und mir lag eben darin,<lb/>
+daß ich von frühester Jugend an, ohne die ungeheuren Probleme meines<lb/>
+Bruders zu verstehen, doch seinen geistigen hohen Rang empfunden<lb/>
+und deshalb jede Niederschrift meines Bruders, die in meine Hände<lb/>
+kam, sorgfältig aufbewahrt habe; während <rs type="pers" ana="n_43553" ref="#fk__p_59455">Overbeck</rs> von der Größe<lb/>
+und Bedeutung des Freundes nichts verstanden hat und, wie mein<lb/>
+Bruder entschuldigend selbst bezeugt, seiner Art nach nichts davon<lb/>
+verstehen konnte.</QUOTE>«<lb/>
+</p>
+            <p ana="pr57382">
+<space/>Wie hat sich die literarische Frau erhöht, die sich so auf<lb/>
+das Maß des Weibes reduziert hat!<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_43855">
+               <persName>Nietzsche, Friedrich</persName>
+               <birth>
+                  <date>1844-10-15</date>
+                  <place>Röcken/Lützen, Sachsen</place>
+               </birth>
+               <death>
+                  <date>1900-8-25</date>
+                  <place>Weimar</place>
+               </death>
+               <occupation>Philosoph</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12358</idno></person>
+            <person xml:id="fk__p_59455">
+               <persName>Overbeck, Franz</persName>
+               <birth>
+                  <date>1837-11-16</date>
+                  <place>St. Petersburg</place>
+               </birth>
+               <death>
+                  <date>1905-06-26</date>
+                  <place>Basel</place>
+               </death>
+               <occupation>Theologe</occupation>
+               <note type="comment">Korrespondenz mit Nietzsche</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

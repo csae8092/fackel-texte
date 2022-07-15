@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_04497.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04496.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04498.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Musiker. (Der Nachfolger Mahlers), in: Fackel Heft 09, Nr. 229, 1907, S. 22-23</title>
+            <title type="iso-date">1907-07-2</title>
+            <title type="id">tid_04497</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">09</title><title type="heft">229</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-09-229_n0022.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/229,022</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Musiker. (Der Nachfolger Mahlers)</head>
+            <p ana="pr49889">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="name_203702" ref="#fk__p_50471">Musiker</rs>.</seg></seg></seg> <seg type="insult">Herr <rs type="pers" ana="n_39796" ref="#fk__p_45747">Heinrich Reinhardt</rs>, der Musikkritiker des ‚<rs type="paper" ana="werk_15572">Neuen<lb/>
+Wiener Journals</rs>‘</seg>, schreiben Sie, hat den Direktor <rs type="pers" ana="n_39797" ref="#fk__p_45200">Mahler</rs> entlassen, mit<lb/>
+seiner Berufung <rs type="pers" ana="n_39798" ref="#fk__p_43172">Mottl’s</rs> hingegen nicht reussiert. Das ‚<rs type="paper" ana="werk_15573">Neue Wiener<lb/>
+Journal</rs>‘ ist nun in Verlegenheit um einen Nachfolger <rs type="pers" ana="n_39799" ref="#fk__p_45200">Mahler’s</rs>. Aber<lb/>
+</p>
+            <p ana="pr49889">
+wie sonst im Leben, meinen Sie, ist auch hier das Gute so nah, und<lb/>
+übermitteln mir den folgenden Vorschlag: Der beste Nachfolger <rs type="pers" ana="n_39800" ref="#fk__p_45200">Mahler’s</rs><lb/>
+wäre im Sinne der vom ‚<rs type="paper" ana="werk_15574">Neuen Wiener Journal</rs>‘ gestellten Ansprüche<lb/>
+<rs type="pers" ana="n_39801" ref="#fk__p_45747">Heinrich Reinhardt</rs>. Der Direktor der <rs type="inst">Hofoper</rs> muß nicht unbedingt ein<lb/>
+Dirigent und soll <seg type="insult"><seg type="spc">kein Komponist</seg></seg> sein <seg type="symbol" subtype="3dots"/> Hoffentlich stößt er sich<lb/>
+nicht daran, daß der Posten eines <rs type="inst">Hoftheaterdirektors</rs> ein — wie<lb/>
+sagt man doch nur? — <seg type="insult">»Geschenk <FERR id="ferr_208" fcorrID="fcorr_208" href="FK-09-230_n0040.xml" emID="em_208"><ERR fcorr="der">des</ERR></FERR> <rs type="pers">Danaë</rs>«</seg> sein soll.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_43172">
+               <persName>Mottl, Felix</persName>
+               <birth>
+                  <date>1856-8-24</date>
+                  <place>Wien-Unter St. Veit</place>
+               </birth>
+               <death>
+                  <date>1911-7-2</date>
+                  <place>München</place>
+               </death>
+               <occupation>Dirigent</occupation>
+               <note type="comment">verh. (1) Henriette Standhartner, (2) Zdenka Fassbender</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12300</idno></person>
+            <person xml:id="fk__p_45200">
+               <persName>Mahler, Gustav</persName>
+               <birth>
+                  <date>1860-7-7</date>
+                  <place>Kalischt, Böhmen</place>
+               </birth>
+               <death>
+                  <date>1911-5-18</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Komponist</occupation>
+               <occupation>Dirigent</occupation>
+               <occupation>Theaterleiter</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12163</idno></person>
+            <person xml:id="fk__p_45747">
+               <persName>Reinhardt, Heinrich</persName>
+               <birth>
+                  <date>1865-4-13</date>
+                  <place>Pressburg</place>
+               </birth>
+               <death>
+                  <date>1922-1-31</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Komponist</occupation>
+               <occupation>Musikschriftsteller</occupation>
+               <note type="comment">"Das süße Mädel" 118/31</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12501</idno></person>
+            <person xml:id="fk__p_50471">
+               <persName>Musiker</persName>
+            </person>
+            </listPerson></back></text>
+</TEI>

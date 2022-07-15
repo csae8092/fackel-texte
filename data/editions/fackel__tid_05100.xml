@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_05100.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05099.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05101.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Der Komet, in: Fackel Heft 12, Nr. 301, 1910, S. 59-60</title>
+            <title type="iso-date">1910-05-3</title>
+            <title type="id">tid_05100</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">12</title><title type="heft">301</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-12-301_n0059.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/301,059</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Der Komet</head>
+            <p ana="pr65322">
+<space/>Jetzt kommt <seg type="insult">eine schöne Zeit</seg>.<lb/>
+</p>
+            <p ana="pr65324">
+<space/>»Die im letzten Sonntagsblatte Ihres <rs type="paperRef" ana="werk_17582">Journals</rs> erschienene Notiz<lb/>
+eines Herrn, welcher am <date>17. <abbr>d.</abbr></date> den <rs type="pers" ana="n_47582" ref="#fk__p_45370">Halleyschen Kometen</rs> von <seg type="spc">Schrems</seg><lb/>
+aus gesehen haben wollte, veranlaßte mich am <date>25. <abbr>d.</abbr></date> vor 3 Uhr morgens<lb/>
+ in den Prater über die Sophienbrücke zu eilen, zumal der heitere<lb/>
+Himmel des Vorabends die Möglichkeit einer guten Beobachtung versprach<lb/>
+ <seg type="symbol" subtype="2dots"/> Um beiläufig halb 4 Uhr morgens ging plötzlich ein ganz prächtiger<lb/>
+, heller Stern auf <seg type="symbol" subtype="2dots"/> Ich dachte sofort an <seg type="spc">Venus</seg>, jedoch ließ mein<lb/>
+kleines astronomisches Fernrohr die Konturen nicht erkennen, da das<lb/>
+Gestirn noch zu tief stand <seg type="symbol" subtype="2dots"/> Die <seg type="spc">Venus</seg>, denn sie war es, erschien in<lb/>
+der Gestalt, wie sie unser Mond am Schlusse des ersten Viertels aufweist<lb/>
+. <seg type="insult"><seg type="spc">Ein Rayonsicherheitswachmann</seg></seg>, der sich sehr bald bei<lb/>
+mir eingefunden hatte, konnte sich auch des ungewohnten Anblickes<lb/>
+erfreuen. Vom Kometen aber war mit freiem Auge nichts zu sehen <seg type="symbol" subtype="2dots"/>«<lb/>
+</p>
+            <p ana="pr65326">
+<space/>Der <seg type="insult">Beobachter</seg> nennt sich <seg type="insult">einen »Freund des <rs type="paper" ana="werk_17583">Neuen Wiener<lb/>
+ Tagblatts</rs>«</seg>. <seg type="insult">Ja, die Freunde!</seg><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_45370">
+               <persName>Halley, Edmund</persName>
+               <birth>
+                  <date>1656-11-8</date>
+                  <place>Haggerston/London</place>
+               </birth>
+               <death>
+                  <date>1742-01-14</date>
+                  <place>Greenwich</place>
+               </death>
+               <occupation>Astronom</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

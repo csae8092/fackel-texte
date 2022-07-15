@@ -1,0 +1,47 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03812.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03811.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03813.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Kinderarzt. (Von einem Kinderarzt), in: Fackel Heft 06, Nr. 175, 1905, S. 24-24</title>
+            <title type="iso-date">1905-02-17</title>
+            <title type="id">tid_03812</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">06</title><title type="heft">175</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-06-175_n0024.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/175,024</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Kinderarzt. (Von einem Kinderarzt)</head>
+            <p ana="pr38217">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="name_202343" ref="#fk__p_50327">Kinderarzt</rs>.</seg></seg> Ich erhalte die folgende Zuschrift: Auf Grund des<lb/>
+<rs type="title">§ 19</rs> des <rs type="title">Preßgesetzes</rs> fordere ich Sie auf, in der nächsten oder zweitnächsten<lb/>
+ Nummer Ihres <rs type="selfRef" ana="werk_13635">Blattes</rs> an derselben Stelle, mit denselben<lb/>
+Lettern die folgende Berichtigung der in <rs type="selfRef" ana="werk_13636"><abbr>Nr.</abbr> 174</rs> der ‚<rs type="self" ana="werk_13637">Fackel</rs>‘ auf<lb/>
+Seite 4 enthaltenen meine Person betreffenden Mitteilung abzudrucken:<lb/>
+Es ist unwahr, daß ich jemals gesagt habe: »Geben Sie eine Krone<lb/>
+drauf, und <seg type="spc">ich</seg> komme zu Ihnen«, wahr ist vielmehr, daß ich immer<lb/>
+nur gesagt habe: »Um <seg type="spc">dasselbe</seg> Geld komme <seg type="spc">ich</seg> zu Ihnen«. Mit<lb/>
+Achtung »der, den man zu den Kindlein kommen läßt«.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_50327">
+               <persName>Monti, Aloys</persName>
+               <birth>
+                  <date>1839-10-13</date>
+                  <place>Abiategrasso/Lombardei</place>
+               </birth>
+               <death>
+                  <date>1909-10-30</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Pädiater</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

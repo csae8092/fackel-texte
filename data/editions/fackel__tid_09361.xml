@@ -1,0 +1,103 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_09361.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09360.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09362.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Wien 1923, in: Fackel Heft 25, Nr. 613, 1923, S. 20-21</title>
+            <title type="iso-date">1923-04-01</title>
+            <title type="id">tid_09361</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">25</title><title type="heft">613</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-25-613_n0020.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/613,020</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Wien 1923</head>
+            <p ana="pr124733">
+<space/>Die mit Hochspannung erwartete Generalprobe zu »<rs type="title"><rs type="pers"><seg type="spc">Madame<lb/>
+Pompadour</seg></rs></rs>« hat gestern abend im <rs type="inst"><rs type="pers" ana="n2_7008" ref="#fk__p_57640">Carltheater</rs></rs> stattgefunden <seg type="symbol" subtype="4dots"/><lb/>
+</p>
+            <p ana="pr124734">
+<space/>Von den vielen musikalischen Schlagern wurde das Tanzduett<lb/>
+zwischen der <rs type="pers" ana="n_76623" ref="#fk__p_43972">Massary</rs> und <rs type="pers" ana="n_76624" ref="#fk__p_42854">Ernst Tautenhayn</rs>, ein Fall, der sich bei<lb/>
+einer Generalprobe noch niemals zugetragen hat, wiederholt. Wir<lb/>
+<seg type="spc">kennen</seg> den Refrain, den sicher bald ganz Wien singen wird,<lb/>
+unsern Lesern <seg type="spc">nicht vorenthalten</seg>; er lautet:<lb/>
+</p>
+            <lg>
+<l><rs type="pers">Josef</rs>, ach <rs type="pers">Josef</rs>, was bist du so keusch?</l>
+<l>Das Küssen macht so gut wie kein Geräusch.</l>
+<l>Ach <rs type="pers"><SPAN norm="Josef">Jojojojojosef</SPAN></rs>,</l>
+<l>Du wunderbarer Mann,</l>
+<l>Vor allem zieh’ den Mantel aus,</l>
+<l>Du hast ja viel zu viel noch an!</l>
+</lg>
+            <p ana="pr124738">
+<space/>Beim Verlassen des Theaters sah man nur zufriedene und<lb/>
+vergnügte Gesichter.<lb/>
+</p>
+            <p ana="pr124740">
+<space/>Auf jedem der einzelnen der <seg type="insult">Abglanz von <rs type="pers"><SPAN norm="Josef">Jojojojojosef</SPAN></rs></seg>.<lb/>
+Und in allen Nachtcafés <choice><sic>gröhlt</sic><corr>grölt</corr></choice> es bereits, wenn <seg type="insult">die für »Stimmung<lb/>
+« engagierte Mudelsaubere</seg> vortritt, die Menschheit, die<lb/>
+einen Weltkrieg überstanden hat. Sie kennen es einander nicht<lb/>
+vorenthalten; sie sind <foreign xml:lang="de-loc">vergniegt</foreign>. Das Küssen, ehedem bloß keine<lb/>
+Sind mit einem schönen Kind, macht jetzt so gut wie kein<lb/>
+Geräusch, während das Fressen, Sprechen und Sonstiges noch<lb/>
+Geräusch macht. Und keines <seg type="insult">der in Menschenhaut eingenähten<lb/>
+Nilpferde</seg> merkt, daß in der <seg type="insult">Gehirnjauche</seg>, aus der die Dichtung<lb/>
+geschöpft ist, offenbar eine unlösbare Verbindung von <rs type="pers">Pompadour<lb/>
+</rs> und <rs type="pers">Potiphar</rs> platzgegriffen hat, wodurch allerdings<lb/>
+das erotische Moment erheblich verstärkt erscheint.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_43972">
+               <persName>Massary, Fritzi</persName>
+               <birth>
+                  <date>1882-3-21</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1969-1-30</date>
+                  <place>Beverly Hills</place>
+               </death>
+               <occupation>Schauspielerin</occupation>
+               <occupation>Sängerin</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/21142</idno></person>
+            <person xml:id="fk__p_57640">
+               <persName>Carl, Carl</persName>
+               <birth>
+                  <date>1789-11-7</date>
+                  <place>Krakau</place>
+               </birth>
+               <death>
+                  <date>1854-8-14</date>
+                  <place>Bad Ischl</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <occupation>Regisseur</occupation>
+               <occupation>Theaterleiter</occupation>
+               <note type="comment">Ögg: Freiherr von Bernbrunn</note>
+            </person>
+            <person xml:id="fk__p_42854">
+               <persName>Tautenhayn, Ernst</persName>
+               <birth>
+                  <date>1873-4-3</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1944-8-30</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <occupation>Sänger</occupation>
+               <note type="comment">ZF, Gruppe 30E, Reihe 3, Nr. 8</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10181</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_10680.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10679.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10681.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Der ganze Urgroßpapa, in: Fackel Heft 28, Nr. 743, 1926, S. 24-24</title>
+            <title type="iso-date">1926-12-01</title>
+            <title type="id">tid_10680</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">28</title><title type="heft">743</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-28-743_n0024.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/743,024</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Der ganze Urgroßpapa</head>
+            <p ana="pr148851">
+<seg type="symbol" subtype="3dots"/> Oberst <rs type="pers" ana="n_89385" ref="#fk__p_55696">Wolff</rs> erklärte, daß die <rs type="magazine" ana="werk_24294"><seg type="spc">Zukunft</seg></rs> eine volle gerechte<lb/>
+historische Würdigung <rs type="pers" ana="n_89386" ref="#fk__p_43514">Franz Josephs</rs> bringen werde; zweifellos sei<lb/>
+aber der <RS pers="Franz Joseph" globID="rs_1108">Kaiser</RS> in seiner Würde und <seg type="spc">Vergangenheit</seg>, mit der er<lb/>
+bis zu seinem letzten Atemzuge die monarchische Idee verkörperte,<lb/>
+von keinem seiner gekrönten Zeitgenossen übertroffen worden.<lb/>
+</p>
+            <p ana="pr148853">
+Was aber die Gegenwart betrifft:<lb/>
+</p>
+            <p ana="pr148855">
+<seg type="symbol" subtype="3dots"/> der legitime Nachfolger <rs type="pers" ana="n_89387" ref="#fk__p_48281">Otto</rs>, durch harte Schicksalsschläge auf<lb/>
+das dornenvolle Amt einer Monarchie vorbereitet, <seg type="spc">gleiche <rs type="pers" ana="n_89388" ref="#fk__p_43514">Franz<lb/>
+Joseph</rs> in harter und strengster Pflichterfüllung</seg>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_48281">
+               <persName>Otto, Erzherzog</persName>
+               <birth>
+                  <date>1912-11-20</date>
+                  <place>Reichenau/Rax</place>
+               </birth>
+               <death>
+                  <date>2011-7-3</date>
+                  <place>Pöcking/Starnberger See</place>
+               </death>
+               <occupation>Politiker</occupation>
+            </person>
+            <person xml:id="fk__p_55696">
+               <persName>Wolff, Gustav</persName>
+               <birth>
+                  <date>1870-04-28</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1963-03-26</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Offizier</occupation>
+               <note type="comment">Prozeß 1920/21</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/27303</idno></person>
+            <person xml:id="fk__p_43514">
+               <persName>Franz Joseph I., Kaiser</persName>
+               <birth>
+                  <date>1830-8-18</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1916-11-21</date>
+                  <place>Wien</place>
+               </death>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15150</idno></person>
+            </listPerson></back></text>
+</TEI>

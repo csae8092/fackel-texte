@@ -1,0 +1,43 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_11672.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11671.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11673.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Analphabet meldet, in: Fackel Heft 32, Nr. 847, 1931, S. 89-89</title>
+            <title type="iso-date">1931-03-01</title>
+            <title type="id">tid_11672</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">32</title><title type="heft">847</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-32-847_n0089.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/847,089</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Analphabet meldet</head>
+            <p ana="pr169461">
+— — Sie mußte sofort nach Hause gebracht werden<seg type="symbol" subtype="4dots"/> Im letzten<lb/>
+Akt wurden die Szenen und Gesangspartien Frau <rs type="pers" ana="n_101428" ref="#fk__p_44475">Alpars</rs> <seg type="spc">provisorisch<lb/>
+ herausgelassen</seg>, im übrigen ging die Vorstellung<lb/>
+störungslos zu Ende.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_44475">
+               <persName>Alpar, Gitta</persName>
+               <birth>
+                  <date>1900-2-5</date>
+                  <place>Budapest</place>
+               </birth>
+               <death>
+                  <date>1991-2-17</date>
+                  <place>Palm Springs, Kalifornien</place>
+               </death>
+               <occupation>Schauspielerin</occupation>
+               <occupation>Sängerin</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

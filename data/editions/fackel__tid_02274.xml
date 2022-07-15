@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02274.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02273.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02275.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">»Nicht identisch.«, in: Fackel Heft 03, Nr. 096, 1902, S. 21-21</title>
+            <title type="iso-date">1902-03-82</title>
+            <title type="id">tid_02274</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">03</title><title type="heft">096</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-03-096_n0021.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/096,021</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>»Nicht identisch.«</head>
+            <p ana="pr22211">
+<space/><seg type="insult"><inciptit>Herr</inciptit> <rs type="pers" ana="n_19283" ref="#fk__p_48760">Leo Stein</rs>, der Mitlibrettist der Operette<lb/>
+»<rs type="title">Das süsse <foreign xml:lang="de-loc">Mädel</foreign></rs>«</seg>, ersucht mich, zu constatieren, dass<lb/>
+er mit <seg type="insult">dem Herausgeber des Blattes ‚<rs type="magazine" ana="werk_7336">Theater und<lb/>
+Brettl</rs>‘</seg> nicht identisch ist und der genannten Zeitschrift<lb/>
+ gänzlich ferne steht.<lb/>
+</p>
+            <p ana="pr22214">
+<space/><seg type="insult">Herr <rs type="pers" ana="n_19284" ref="#fk__p_48760">Leo Stein</rs>, der Herausgeber des Blattes ‚<rs type="magazine" ana="werk_7337">Theater und<lb/>
+Brettl</rs>‘</seg>, ersucht mich, zu constatieren, dass er mit <seg type="insult">dem Mitlibrettisten<lb/>
+des »<rs type="title">Süssen <foreign xml:lang="de-loc">Mädel</foreign></rs>«</seg> nicht identisch ist und der genannten Operette<lb/>
+gänzlich ferne steht.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_48760">
+               <persName>Stein, Leo</persName>
+               <birth>
+                  <date>1861-3-25</date>
+                  <place>Lemberg</place>
+               </birth>
+               <death>
+                  <date>1921-7-28</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Bibliographica Judaica gibt 1862 als Geburtsjahr an</note>
+               <note type="comment">Operettenlibrettist</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/25372</idno></person>
+            </listPerson></back></text>
+</TEI>

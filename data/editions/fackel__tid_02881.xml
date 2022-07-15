@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02881.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02880.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02882.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Socialpolitiker. (Aus dem arbeitsstatistischen Amt), in: Fackel Heft 04, Nr. 127, 1903, S. 22-22</title>
+            <title type="iso-date">1903-01-21</title>
+            <title type="id">tid_02881</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">04</title><title type="heft">127</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-04-127_n0022.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/127,022</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Socialpolitiker. (Aus dem arbeitsstatistischen Amt)</head>
+            <p ana="pr28460">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="n_24469" ref="#fk__p_53412">Socialpolitiker</rs>.</seg></seg></seg> Nein, darin, daß der Sohn <seg type="insult">des Scharfmachers<lb/>
+<rs type="pers" ana="n_24470" ref="#fk__p_45373"><seg type="spc">Hallwich</seg></rs></seg> Ministerialvicesecretär im <rs type="inst">arbeitsstatistischen Amt</rs> ist, vermag<lb/>
+ich nichts Arges zu finden. Der Sohn muß doch des Vaters Anschauungen<lb/>
+ nicht übernehmen. Und daß <rs type="pers" ana="n_24471" ref="#fk__p_45373">Herrmann Hallwich senior</rs> im Beirath<lb/>
+ des Amtes sitzt, dem <rs type="pers" ana="n_24472" ref="#fk__p_45985">Herrmann Hallwich junior</rs> angehört, ist<lb/>
+durchaus kein Fall von Incompatibilität. Incompatibel müßte bloß gefunden<lb/>
+ werden, daß zum Beirath eines socialpolitischen Ressorts ein<lb/>
+Mann ernannt wird, der sich, wie es <rs type="pers" ana="n_24473" ref="#fk__p_45373">Herrmann Hallwich senior</rs> jüngst<lb/>
+gethan hat, rühmt, er habe gemeinsam mit <seg type="insult">dem »<seg type="spc">unvergesslichen</seg>«<lb/>
+<rs type="pers" ana="n_24474" ref="#fk__p_43860">Leitenberger</rs></seg> den »<rs type="inst">Centralverband der Industriellen</rs>« eigens zu dem<lb/>
+Zweck gegründet, die socialpolitischen Bestrebungen zu bekämpfen. <seg type="insult">Der<lb/>
+vergessliche Herr <rs type="pers" ana="n_24475" ref="#fk__p_45373">Hallwich</rs></seg> könnte ja leicht auf den Gedanken kommen,<lb/>
+daß man ihn zum gleichen Zweck in den Arbeitsbeirath berufen habe.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_43860">
+               <persName>Leitenberger, Friedrich Ritter von</persName>
+               <birth>
+                  <date>1837-11-05</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1899-10-26</date>
+                  <place>Josefsthal/Böhmen</place>
+               </death>
+               <occupation>Textilindustrieller</occupation>
+            </person>
+            <person xml:id="fk__p_45373">
+               <persName>Hallwich, Hermann</persName>
+               <birth>
+                  <date>1838-05-09</date>
+                  <place>Teplitz-Schönau</place>
+               </birth>
+               <death>
+                  <date>1913-04-11</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Industrieller</occupation>
+               <occupation>Politiker</occupation>
+               <occupation>Nationalökonom</occupation>
+               <occupation>Historiker</occupation>
+            </person>
+            <person xml:id="fk__p_45985">
+               <persName>Hallwich, Hermann junior</persName>
+               <birth>
+                  <date>1867?</date>
+               </birth>
+               <death>
+                  <date>1912-6</date>
+               </death>
+               <occupation>Beamter</occupation>
+               <note type="comment">ZF 59C/16</note>
+            </person>
+            <person xml:id="fk__p_53412">
+               <persName>Socialpolitiker</persName>
+            </person>
+            </listPerson></back></text>
+</TEI>

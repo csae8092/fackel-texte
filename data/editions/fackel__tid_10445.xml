@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_10445.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10444.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10446.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Was sich der Beurteilung entzieht, in: Fackel Heft 27, Nr. 717, 1926, S. 72-73</title>
+            <title type="iso-date">1926-04-01</title>
+            <title type="id">tid_10445</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">27</title><title type="heft">717</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-27-717_n0072.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/717,072</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Was sich der Beurteilung entzieht</head>
+            <p ana="pr143655">
+<space/>Aus dem <seg ana="Neuen Wiener Journal"/>:<lb/>
+</p>
+            <p ana="pr143657">
+<OMED>— —</OMED> <seg type="spc">Inwieweit</seg> sich nun das Gerücht bewahrheitet, daß sich<lb/>
+zwischen dem jungen <rs type="pers" ana="n_87501" ref="#fk__p_60305">Baron Grödl</rs> und der <rs type="pers" ana="n_87502" ref="#fk__p_42937">Erzherzogin Margarete</rs><lb/>
+<seg type="spc">eine Neigung entsponnen</seg> habe, die jetzt zu einer<lb/>
+Verlobung führen soll, <seg type="spc">entzieht sich der Beurteilung</seg> um so<lb/>
+mehr, als<lb/>
+</p>
+            <p ana="pr143659">
+ausschließlich die Hundspeitsche in Frage kommt.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_60305">
+               <persName>Groedel de Gyulafalva et Bogdán, Victor? Freiherr </persName>
+               <birth>
+                  <date>1900-1-28</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1981-4-3</date>
+                  <place>Wien</place>
+               </death>
+               <note type="comment">Namenskorrektur!</note>
+            </person>
+            <person xml:id="fk__p_42937">
+               <persName>Margaretha, Erzherzogin</persName>
+               <birth>
+                  <date>1894-5-8</date>
+                  <place>Lemberg</place>
+               </birth>
+               <death>
+                  <date>1986-1-21</date>
+                  <place>Rom</place>
+               </death>
+               <occupation>Erzherzogin</occupation>
+               <occupation>Malerin</occupation>
+               <note type="comment">"Meg"</note>
+               <note type="comment">verh. 27.11.1937 Francesco Maria Taliani, Marchese di Marchio</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

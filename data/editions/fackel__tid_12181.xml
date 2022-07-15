@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_12181.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_12180.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_12182.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Wie ist das möglich?, in: Fackel Heft 34, Nr. 876, 1932, S. 114-115</title>
+            <title type="iso-date">1932-10-01</title>
+            <title type="id">tid_12181</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">34</title><title type="heft">876</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-34-876_n0114.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/876,114</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Wie ist das möglich?</head>
+            <p ana="pr177253">
+<space/><seg type="spc">Die Mutter</seg> dieser »<rs type="title">Mademoiselle</rs>«, deren Tragikomödie<lb/>
+<rs type="pers" ana="n_105633" ref="#fk__p_46657">Jacques Deval</rs> geschrieben hat, ist eine Deutsche: die <rs type="pers">Frau John</rs> aus<lb/>
+den <rs type="pers" ana="n_105634" ref="#fk__p_44354">Hauptmannschen »<rs type="title">Ratten</rs>«</rs>. Die <rs type="pers">Frau John</rs> (auf die übrigens auch<lb/>
+die Köchin in <rs type="pers" ana="n_105635" ref="#fk__p_43201">Bruckners</rs> »<rs type="title">Verbrechern</rs>« zurückgeht) <seg type="spc">wollte ein<lb/>
+Kind haben</seg> bei der physischen <seg type="spc">Unmöglichkeit</seg>, es zu empfangen.<lb/>
+</p>
+            <p ana="pr177255">
+Und hat nicht nur von <rs type="pers" ana="n_105636" ref="#fk__p_46657">Deval</rs> eins gekriegt, sondern auch schon<lb/>
+vorher vom <rs type="pers" ana="n_105637" ref="#fk__p_43201">Bruckner</rs>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_43201">
+               <persName>Bruckner, Ferdinand</persName>
+               <birth>
+                  <date>1891-8-26</date>
+                  <place>Sofia/Bulgarien</place>
+               </birth>
+               <death>
+                  <date>1958-12-5</date>
+                  <place>Berlin</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Dramaturg</occupation>
+               <occupation>Theaterleiter</occupation>
+            </person>
+            <person xml:id="fk__p_46657">
+               <persName>Deval, Jacques</persName>
+               <birth>
+                  <date>1895-6-27</date>
+                  <place>Paris</place>
+               </birth>
+               <death>
+                  <date>1972-12-19</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_14432</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/6810</idno></person>
+            <person xml:id="fk__p_44354">
+               <persName>Hauptmann, Gerhart</persName>
+               <birth>
+                  <date>1862-11-15</date>
+                  <place>Salzbrunn, Schlesien</place>
+               </birth>
+               <death>
+                  <date>1946-6-6</date>
+                  <place>Agnetendorf</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Ögg teilt die indirekte Stelle 521/64 zu, irrtümlich</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11617</idno></person>
+            </listPerson></back></text>
+</TEI>

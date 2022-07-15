@@ -1,0 +1,48 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02785.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02784.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02786.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Stilist. (Ein glücklicher Ausdruck), in: Fackel Heft 04, Nr. 122, 1902, S. 23-23</title>
+            <title type="iso-date">1902-11-29</title>
+            <title type="id">tid_02785</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">04</title><title type="heft">122</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-04-122_n0023.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/122,023</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Stilist. (Ein glücklicher Ausdruck)</head>
+            <p ana="pr27304">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="n_23536" ref="#fk__p_53679">Stilist</rs>.</seg></seg></seg> <seg type="insult">Einen sehr glücklichen Ausdruck</seg> hat die ‚<rs type="paper" ana="werk_9661">Neue Freie<lb/>
+Presse</rs>‘ (<date>23. November</date>) für die peinliche Empfindung gefunden, die sich<lb/>
+gegenüber dem Zusammenhang zwischen den Angriffen des ‚<rs type="" ana="werk_9662">Vorwärts</rs>‘<lb/>
+auf <rs type="pers" ana="n_23537" ref="#fk__p_43847">Krupp</rs> und seinem Tode einstellte: »Essen, <date>22. November</date>. <seg type="symbol" subtype="3dots"/> Die<lb/>
+Versammlung drückte einmüthig ihre Entrüstung über die ihrem um die<lb/>
+Vaterstadt hochverdienten Ehrenbürger <seg type="spc">so kurz vor dessen Hinscheiden<lb/>
+ angethane Kränkung</seg> aus. <seg type="symbol" subtype="3dots"/>«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_43847">
+               <persName>Krupp, Friedrich Alfred</persName>
+               <birth>
+                  <date>1854-02-17</date>
+                  <place>Essen</place>
+               </birth>
+               <death>
+                  <date>1902-11-22</date>
+                  <place>Essen</place>
+               </death>
+               <occupation>Großindustrieller</occupation>
+            </person>
+            <person xml:id="fk__p_53679">
+               <persName>Stilist</persName>
+            </person>
+            </listPerson></back></text>
+</TEI>

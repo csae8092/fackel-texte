@@ -1,0 +1,44 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01627.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01626.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01628.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">»Alpha«., in: Fackel Heft 02, Nr. 068, 1901, S. 26-26</title>
+            <title type="iso-date">1901-02-01</title>
+            <title type="id">tid_01627</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">068</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-068_n0026.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/068,026</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>»Alpha«.</head>
+            <p ana="pr15986">
+<space/><seg type="sidehead"><seg type="i">»<rs type="pers" ana="n_13344" ref="#fk__p_38027">Alpha</rs>«.</seg></seg> Ich dachte an die <seg type="spc">Wortverbindung</seg>: »Schellenlaut<lb/>
+und leer«, die <rs type="pers" ana="n_13345" ref="#fk__p_46353">Hofmannsthal</rs> anwendet. Dass »schellenlaut« an sich<lb/>
+ein im »<rs type="title"><rs type="pers">Faust</rs></rs>« gebrauchter Ausdruck ist, war mir bekannt.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_38027">
+               <persName>Alpha</persName>
+            </person>
+            <person xml:id="fk__p_46353">
+               <persName>Hofmannsthal, Hugo Edler von</persName>
+               <birth>
+                  <date>1874-2-1</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1929-7-15</date>
+                  <place>Rodaun bei Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16293</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11740</idno></person>
+            </listPerson></back></text>
+</TEI>

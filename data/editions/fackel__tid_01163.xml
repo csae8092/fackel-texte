@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01163.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01162.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01164.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">K. k. Statthalterei, Wien. (Das Wilhelminenspital), in: Fackel Heft 02, Nr. 049, 1900, S. 28-29</title>
+            <title type="iso-date">1900-08-01</title>
+            <title type="id">tid_01163</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">049</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-049_n0028.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/049,028</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>K. k. Statthalterei, Wien. (Das Wilhelminenspital)</head>
+            <p ana="pr11141">
+<space/><seg type="sidehead"><seg type="i"><rs type="inst"><abbr>K. k.</abbr> Statthalterei</rs>, Wien.</seg></seg> <rs type="pers" ana="n_9087" ref="#fk__p_51814">Prinzessin Wilhelmine von Montleart</rs><lb/>
+stiftete im Jahre <date>1878</date> in Ottakring ein Spital, das ursprünglich die<lb/>
+Bestimmung hatte, alten kranken <choice><sic>Leuren</sic><corr>Leuten</corr></choice> als Asyl und Pflegestätte<lb/>
+zu dienen. Diese Bestimmung hob die Prinzessin nach Fertigstellung<lb/>
+des Krankenhauses wieder auf und widmete es Lungenkranken unter<lb/>
+besonderer Berücksichtigung der heilbaren Fälle. Die Fürstin legte,<lb/>
+von der richtigen Voraussetzung ausgehend, dass zur Heilung<lb/>
+Lungenkranker in erster Linie gute Luft erforderlich sei, um das<lb/>
+Spital einen großartigen Park an, den sie der besonderen Sorgfalt<lb/>
+der Anstaltsleitung empfahl. Nach dem Tode der Prinzessin übernahm<lb/>
+ das Spital der Krankenhausfonds und zwar gegen die Verpflichtung<lb/>
+, die letztwilligen Verfügungen der Stifterin stets zu respectieren.<lb/>
+Bis jetzt geschah dies auch. Nun aber baut man auf den Krankhausgründen<lb/>
+</p>
+            <p ana="pr11141">
+, die das Spital umgeben, das <rs type="inst">Kaiserjubiläums-Kinderspital<lb/>
+</rs> der Gemeinde Wien und das <rs type="inst"><rs type="pers" ana="n2_668" ref="#fk__p_58341">Kellermann’sche Stiftungsspital</rs></rs>, das<lb/>
+auf den Gartengründen des <rs type="inst"><rs type="pers" ana="n2_669" ref="#fk__p_51814">Wilhelminenspitales</rs></rs> erstehen soll. So ist<lb/>
+denn der schöne Park der Verwüstung preisgegeben, und die Lungenkranken<lb/>
+ sind um eine Heilstätte gebracht, die unbedingt hätte erhalten<lb/>
+werden müssen — denn es ist statistisch erwiesen, dass gerade dank<lb/>
+der herrlichen Gartenanlage im <rs type="inst"><rs type="pers" ana="n2_670" ref="#fk__p_51814">Wilhelminenspital</rs></rs> percentuell die<lb/>
+meisten Heilerfolge bei Lungenkranken zu verzeichnen sind. Der<lb/>
+Director des Spitales, Primarius <rs type="pers" ana="n_9088" ref="#fk__p_41899"><abbr>Dr.</abbr> Tölg</rs>, protestierte in diesem<lb/>
+Sinne wiederholt maßgebenden Ortes gegen die Verwüstung des<lb/>
+Gartens, doch ohne jeden Erfolg. Interpellation: Ist die <rs type="inst"><abbr>k. k.</abbr> Statthalterei<lb/>
+</rs> geneigt, die Gründe zu »verlautbaren«, die für sie maßgebend<lb/>
+ waren, willkürlich über die Anordnungen der verstorbenen<lb/>
+<rs type="pers" ana="n_9089" ref="#fk__p_51814">Prinzessin Wilhelmine von Montleart</rs> zur Tagesordnung überzugehen?<lb/>
+Und was gedenkt <seg type="symbol" subtype="3dots"/><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_51814">
+               <persName>Montléart-Sachsen-Curland, Wilhelmine Prinzessin von, geb. von Arnold</persName>
+               <birth>
+                  <date>1820-3-23</date>
+                  <place>Dublin</place>
+               </birth>
+               <death>
+                  <date>1895-3-25</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Philanthropin</occupation>
+               <note type="comment">Stifterin des Wilhelminenspitals</note>
+               <note type="comment">urspr. Wilhelmine Marie von Arnold</note>
+               <note type="comment">Wien 1855 verh. mit Moritz Fürst Montleart (gest. 1887)</note>
+            </person>
+            <person xml:id="fk__p_58341">
+               <persName>Kellermann, Georg</persName>
+               <birth>
+                  <date>1827-3-7</date>
+               </birth>
+               <death>
+                  <date>1895-12-30</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Lederhändler</occupation>
+               <occupation>Philanthrop</occupation>
+               <note type="comment">Stifter von 600.000 Kronen zur Errichtung eines Kinderspitals</note>
+            </person>
+            <person xml:id="fk__p_41899">
+               <persName>Toelg, Josef</persName>
+               <birth>
+                  <date>1852-6-27</date>
+                  <place>Braunau/Böhmen</place>
+               </birth>
+               <death>
+                  <date>1912-4-21</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Arzt</occupation>
+               <note type="comment">Primararzt und Dir. des Wilhelminenspitals, Vorst. Mitgl. der Wr. Ärztekammer, 9., Alserstr. 22</note>
+               <note type="comment">ZF? 30B/12/9</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

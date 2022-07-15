@@ -1,0 +1,122 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03127.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03126.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03128.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Musiker. (Mottl und Hanslick), in: Fackel Heft 05, Nr. 137, 1903, S. 21-22</title>
+            <title type="iso-date">1903-05-11</title>
+            <title type="id">tid_03127</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">05</title><title type="heft">137</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-05-137_n0021.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/137,021</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Musiker. (Mottl und Hanslick)</head>
+            <p ana="pr30703">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_26602" ref="#fk__p_50471">Musiker</rs>.</seg></seg> <seg type="insult">Der Theaterschnüfferl vom ‚<rs type="paper" ana="werk_11512">Fremdenblatt</rs>‘</seg> erzählte am<lb/>
+<date>3. Mai</date>: »<rs type="pers" ana="n_26603" ref="#fk__p_55673">Wlassack</rs> war es auch, der seinen Chef <rs type="pers" ana="n_26604" ref="#fk__p_43660">Baron Bezecny</rs> so<lb/>
+eigentlich auf <rs type="pers" ana="n_26605" ref="#fk__p_45200">Gustav Mahler</rs> aufmerksam machte, nachdem <rs type="pers" ana="n_26606" ref="#fk__p_43172"><seg type="spc">Mottl</seg></rs> infolge<lb/>
+ des ablehnenden beiräthlichen Votums eines angesehenen Wiener<lb/>
+Musikkritikers definitiv aus der Candidatenliste ausgeschaltet worden<lb/>
+war«. <seg type="insult">Der angesehene Wiener Musikkritiker</seg> ist natürlich <rs type="pers" ana="n_26607" ref="#fk__p_42312"><seg type="spc">Hanslick</seg></rs>;<lb/>
+<rs type="pers" ana="n_26608" ref="#fk__p_43172">Mottl</rs> hat noch als Student Herrn <rs type="pers" ana="n_26609" ref="#fk__p_42312">Hanslick</rs> wegen einer seiner <rs type="pers" ana="n_26610" ref="#fk__p_52212">Wagnerkritiken<lb/>
+</rs> einen groben Brief geschrieben, und <rs type="pers" ana="n_26611" ref="#fk__p_42312">Hanslick</rs> hat 25 Jahre<lb/>
+</p>
+            <p ana="pr30703">
+nachher in einem <seg type="insult">beiräthlichen Votum</seg> geantwortet. Selbstverständlich<lb/>
+ablehnend. Man kann <seg type="insult">dem Hofrath <rs type="pers" ana="n_26612" ref="#fk__p_42312">Hanslick</rs></seg> auch wirklich nicht zumuthen<lb/>
+, grobe Briefe ruhig hinzunehmen, und muß es begreiflich<lb/>
+finden, daß er aus ihnen Capital schlägt. <rs type="pers" ana="n_26613" ref="#fk__p_43172">Mottl’s</rs> Brief ließ sich nicht<lb/>
+wie Widmungsexemplare verkaufen; so mußte er eben auf andere Art<lb/>
+verwerthet werden.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_43172">
+               <persName>Mottl, Felix</persName>
+               <birth>
+                  <date>1856-8-24</date>
+                  <place>Wien-Unter St. Veit</place>
+               </birth>
+               <death>
+                  <date>1911-7-2</date>
+                  <place>München</place>
+               </death>
+               <occupation>Dirigent</occupation>
+               <note type="comment">verh. (1) Henriette Standhartner, (2) Zdenka Fassbender</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12300</idno></person>
+            <person xml:id="fk__p_43660">
+               <persName>Bezecný, Josef Freiherr von</persName>
+               <birth>
+                  <date>1829-2-5</date>
+                  <place>Tabor</place>
+               </birth>
+               <death>
+                  <date>1904-6-17</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Intendant der Hoftheater</occupation>
+               <note type="comment">1885-98</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13707</idno></person>
+            <person xml:id="fk__p_55673">
+               <persName>Wlassak, Eduard</persName>
+               <birth>
+                  <date>1841-11-9</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1904-6-3</date>
+                  <place>Salzburg</place>
+               </death>
+               <occupation>Beamter</occupation>
+               <note type="comment">Kanzleidirektor der Hoftheater</note>
+            </person>
+            <person xml:id="fk__p_45200">
+               <persName>Mahler, Gustav</persName>
+               <birth>
+                  <date>1860-7-7</date>
+                  <place>Kalischt, Böhmen</place>
+               </birth>
+               <death>
+                  <date>1911-5-18</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Komponist</occupation>
+               <occupation>Dirigent</occupation>
+               <occupation>Theaterleiter</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12163</idno></person>
+            <person xml:id="fk__p_50471">
+               <persName>Musiker</persName>
+            </person>
+            <person xml:id="fk__p_42312">
+               <persName>Hanslick, Eduard</persName>
+               <birth>
+                  <date>1825-9-11</date>
+                  <place>Prag</place>
+               </birth>
+               <death>
+                  <date>1904-4-6</date>
+                  <place>Baden bei Wien</place>
+               </death>
+               <occupation>Musikkritiker</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11578</idno></person>
+            <person xml:id="fk__p_52212">
+               <persName>Wagner, Richard</persName>
+               <birth>
+                  <date>1813-5-22</date>
+                  <place>Leipzig</place>
+               </birth>
+               <death>
+                  <date>1883-2-13</date>
+                  <place>Venedig</place>
+               </death>
+               <occupation>Komponist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/13024</idno></person>
+            </listPerson></back></text>
+</TEI>

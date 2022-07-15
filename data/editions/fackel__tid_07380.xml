@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07380.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07379.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07381.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Die Planke, in: Fackel Heft 18, Nr. 437, 1916, S. 4-4</title>
+            <title type="iso-date">1916-11-01</title>
+            <title type="id">tid_07380</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">18</title><title type="heft">437</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-18-437_n0004.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/437,004</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Die Planke</head>
+            <p ana="pr99548">
+<rs type="title"><rs type="pers"><seg type="spc">Bogdan Stimoff</seg></rs></rs><lb/>
+</p>
+            <p ana="pr99549">
+Unter persönlicher Mitwirkung<lb/>
+ des <rs type="pers" ana="n_65571" ref="#fk__p_48012">Königs<lb/>
+Ferdinand<lb/>
+von Bulgarien</rs><lb/>
+</p>
+            <p ana="pr99552">
+<seg type="spc">Feierlicher<lb/>
+Gottesdienst</seg><lb/>
+</p>
+            <p ana="pr99553">
+Erstklassige Kantoren<lb/>
+</p>
+            <p ana="pr99556">
+<rs type="pers" ana="n_65572" key="#fk__p_54423"><seg type="spc">Urschula</seg></rs><lb/>
+</p>
+            <p ana="pr99557">
+geh her, genier dich<lb/>
+nicht!<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_48012">
+               <persName>Ferdinand I., König von Bulgarien, Prinz von Sachsen-Coburg-Gotha</persName>
+               <birth>
+                  <date>1861-2-26</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1948-9-10</date>
+                  <place>Coburg</place>
+               </death>
+               <occupation>König</occupation>
+               <note type="comment">Zar von Bulgarien 1896 bis zur Abdankung 1918</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

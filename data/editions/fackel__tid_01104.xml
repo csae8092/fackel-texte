@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01104.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01103.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01105.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Zahlreichen Fragern. (Zur Confiscation von Nr. 45 der ‚Fackel‘), in: Fackel Heft 02, Nr. 046, 1900, S. 26-26</title>
+            <title type="iso-date">1900-07-01</title>
+            <title type="id">tid_01104</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">046</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-046_n0026.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/046,026</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Zahlreichen Fragern. (Zur Confiscation von Nr. 45 der ‚Fackel‘)</head>
+            <p ana="pr10516">
+<space/><seg type="sidehead"><seg type="i">Zahlreichen Fragern.</seg></seg> Wie es möglich ist, dass eine den Tagesblättern<lb/>
+ wörtlich nachgedruckte Meldung in der ‚<rs type="self" ana="werk_3048">Fackel</rs>‘ confisciert<lb/>
+werden konnte? Die den Wiener Aufenthalt <rs type="pers" ana="n_8584" ref="#fk__p_48031">Milans</rs> betreffende Notiz<lb/>
+war der Rubrik <seg type="insult">»<seg type="ELIDASH">Hofnachrichten</seg> und Personalnachrichten«</seg> der ‚<rs type="paper" ana="werk_3049">Neuen Freien<lb/>
+Presse</rs>‘ entnommen und <seg type="spc">offenbar falsch</seg>. Aber erst, als er sie zum<lb/>
+zweitenmale, in der ‚<rs type="self" ana="werk_3050">Fackel</rs>‘, las, erkannte der Staatsanwalt — wie ich<lb/>
+nachträglich einsehe: mit Recht —, dass es einer <seg type="insult">Majestätsbeleidigung</seg><lb/>
+gleichkomme, dem Monarchen jenen Schritt zuzumuthen, den er der<lb/>
+Meldung der <seg type="insult"><rs type="perRef" ana="werk_3051"><rs type="pers" ana="n_8585" ref="#fk__p_44673">Goluchowski-Presse</rs></rs></seg> nach gethan haben sollte. Zu solcher<lb/>
+Erkenntnis verhalf aber dem Staatsanwalt erst die Lectüre des Artikels,<lb/>
+der der kleinen Notiz folgte. »Im Zusammenhalte« mit diesem Artikel —<lb/>
+der Staatsanwalt, nicht ich, hat beides zusammengehalten — musste,<lb/>
+wie das Urtheil des Pressgerichtes behauptet, die Notiz confisciert<lb/>
+werden. Ich vermag dieser Logik nicht zu folgen. »Zusammenhänge«<lb/>
+können keiner Judicatur unterliegen, und schafft sie sich ein anderer<lb/>
+zwischen den Dingen, die ich schreibe, so bin nicht ich verantwortlich,<lb/>
+— mag auch der andere zufällig ein Staatsanwalt sein. Freilich, wer strafbare<lb/>
+Zusammenhänge schafft, müsste gestraft werden, wenn er sie in <seg type="spc">Worten</seg><lb/>
+ausführte. Dies hat wohlweislich der Staatsanwalt nicht gethan. Es<lb/>
+scheint mir darum Uebereifer zu sein, wenn er seine strafbaren<lb/>
+<seg type="spc">Gedanken</seg>, die ihm bei der Lectüre der ‚<rs type="self" ana="werk_3052">Fackel</rs>‘ kommen,<lb/>
+confisciert.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_48031">
+               <persName>Milan I. Obrenović, König von Serbien</persName>
+               <birth>
+                  <date>1854-8-22</date>
+                  <place>Jassy</place>
+               </birth>
+               <death>
+                  <date>1901-2-11</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>König</occupation>
+            </person>
+            <person xml:id="fk__p_44673">
+               <persName>Goluchowski, Agenor Graf</persName>
+               <birth>
+                  <date>1849-03-25</date>
+                  <place>Lemberg</place>
+               </birth>
+               <death>
+                  <date>1921-03-28</date>
+                  <place>Lemberg</place>
+               </death>
+               <occupation>Diplomat</occupation>
+               <occupation>Politiker</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

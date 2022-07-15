@@ -1,0 +1,42 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01201.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01200.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01202.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Von Milans Detectiv.), in: Fackel Heft 02, Nr. 051, 1900, S. 25-25</title>
+            <title type="iso-date">1900-08-01</title>
+            <title type="id">tid_01201</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">051</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-051_n0025.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/051,025</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Von Milans Detectiv.)</head>
+            <p ana="pr11553">
+<space/><inciptit>Der</inciptit> Polizeipräsident hat sich infolge meiner Interpellation<lb/>
+entschlossen, den Detectiv, der <seg type="insult">Herrn <rs type="pers" ana="n_9426" ref="#fk__p_48031">Milan Obrenowitsch</rs></seg> in Wien,<lb/>
+Karlsbad und Semmering beigestellt ist, durch einen Detectiv überwachen<lb/>
+ zu lassen.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_48031">
+               <persName>Milan I. Obrenović, König von Serbien</persName>
+               <birth>
+                  <date>1854-8-22</date>
+                  <place>Jassy</place>
+               </birth>
+               <death>
+                  <date>1901-2-11</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>König</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

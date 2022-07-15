@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_11112.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11111.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11113.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Offenbach-Zyklus, in: Fackel Heft 31, Nr. 811, 1929, S. 59-59</title>
+            <title type="iso-date">1929-08-01</title>
+            <title type="id">tid_11112</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">31</title><title type="heft">811</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-31-811_n0059.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/811,059</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Offenbach-Zyklus</head>
+            <p ana="pr160441">
+<rs type="title">Theater der Dichtung</rs><lb/>
+</p>
+            <p ana="pr160442">
+<rs type="inst">Architektenvereinssaal</rs>, ½8 Uhr<lb/>
+</p>
+            <p ana="pr160443">
+<DATERANGE>3. Juni bis 10. Juni</DATERANGE><lb/>
+</p>
+            <p ana="pr160444">
+<rs type="title"><seg type="spc">Pariser Leben</seg></rs> / <rs type="title"><foreign xml:lang="fr"><seg type="spc">Madame l’Archiduc</seg></foreign></rs> / <rs type="title"><seg type="spc">Die Briganten</seg></rs> /<lb/>
+<rs type="title"><seg type="spc">Die <rs type="pers">Großherzogin von Gerolstein</rs></seg></rs> / <rs type="title"><rs type="pers"><seg type="spc">Blaubart</seg></rs></rs> / <rs type="title"><seg type="spc">Die<lb/>
+Prinzessin von Trapezunt</seg></rs> / <rs type="title"><seg type="spc"><rs type="pers">Fortunios</rs> Lied</seg></rs> und<lb/>
+<rs type="title"><seg type="spc">Die Insel Tulipatan</seg></rs>.<lb/>
+</p>
+            <p ana="pr160445">
+Begleitung: <rs type="pers" ana="n_96253" ref="#fk__p_44298">Georg Knepler</rs>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_44298">
+               <persName>Knepler, Georg</persName>
+               <birth>
+                  <date>1906-12-21</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>2003-1-24</date>
+                  <place>Berlin</place>
+               </death>
+               <occupation>Pianist</occupation>
+               <occupation>Komponist</occupation>
+               <occupation>Musikwissenschaftler</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38611</idno></person>
+            </listPerson></back></text>
+</TEI>

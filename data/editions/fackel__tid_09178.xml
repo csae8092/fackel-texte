@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_09178.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09177.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09179.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Festsaal des Ingenieur- und Architektenvereines, 10. März, 7 Uhr:, in: Fackel Heft 24, Nr. 595, 1922, S. 64-65</title>
+            <title type="iso-date">1922-07-01</title>
+            <title type="id">tid_09178</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">24</title><title type="heft">595</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-24-595_n0064.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/595,064</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Festsaal des Ingenieur- und Architektenvereines, 10. März, 7 Uhr:</head>
+            <p ana="pr122287">
+<space/><rs type="inst">Festsaal des <seg type="ELIDASH">Ingenieurvereines</seg> und Architektenvereines</rs>, <date>10. März</date>, 7 Uhr:<lb/>
+</p>
+            <p ana="pr122288">
+<space/><rs type="title"><seg type="spc">Der Zerrissene</seg></rs>, Posse mit Gesang in drei Akten von<lb/>
+<rs type="pers" ana="n_74839" ref="#fk__p_46919"><seg type="spc">Johann Nestroy</seg></rs>.<lb/>
+</p>
+            <p ana="pr122289">
+<space/>[Das Entree des <rs type="pers">Herrn von Lips</rs>: »Meiner Seel, <foreign xml:lang="de-loc">’s is a<lb/>
+fürchterlich’s G’fühl</foreign>, wenn man selber nicht weiß, was man will«<lb/>
+(I. Akt) und seine beiden Couplets: »<rs type="title">Sich so zu <foreign xml:lang="de-loc">verstell’n</foreign>, na da</rs><lb/>
+</p>
+            <p ana="pr122289">
+<rs type="title"><foreign xml:lang="de-loc">g’hört</foreign> was dazu</rs>« (II. Akt) und »<rs type="title">So gibt es halt allerhand Leut’ auf<lb/>
+der Welt</rs>« (III. Akt) mit Melodien von <rs type="pers" ana="n_74840" ref="#fk__p_50021">Mechtilde Lichnowsky</rs>. Zu<lb/>
+den beiden Couplets je eine Zusatzstrophe.]<lb/>
+</p>
+            <p ana="pr122290">
+<space/>Zugaben: Entree des <rs type="pers">Holzhackers Lorenz</rs> (»<rs type="title">Verhängnisvolle<lb/>
+Faschingsnacht</rs>«) / Entree des <rs type="pers">Knieriem</rs> (Fortsetzung des »<rs type="title"><rs type="pers">Lumpazivagabundus<lb/>
+</rs></rs>«) [Musik nach Angabe des Vortragenden] / Lied des<lb/>
+<rs type="pers">Knaben Willibald</rs> (»<rs type="title">Die schlimmen Buben in der Schule</rs>«) / Couplet<lb/>
+des <rs type="pers">Federl</rs>: »<rs type="title">Dieses <foreign xml:lang="de-loc">G’fühl</foreign> <seg type="symbol" subtype="3dots"/> ja da glaubt man, man sinkt in die<lb/>
+<foreign xml:lang="de-loc">Erd’</foreign></rs>«, mit zwei Zusatzstrophen (»<rs type="title">Papiere des Teufels</rs>«) [Musik zu<lb/>
+beiden letztgenannten Texten von <rs type="pers" ana="n_74841" ref="#fk__p_50021">Mechtilde Lichnowsky</rs>] / <rs type="title">Lied von<lb/>
+der Chimäre</rs> [Musik nach Angabe des Vortragenden] / Lied des<lb/>
+<rs type="pers">Willibald</rs> (wiederholt) / <rs type="pers">Chor der Gauner</rs> und <rs type="pers">Chor der Kellner</rs>;<lb/>
+<rs type="title">Quodlibet</rs> (»<rs type="title">Das Notwendige und das Überflüssige</rs>«) [Musik nach<lb/>
+Angabe des Vortragenden].<lb/>
+</p>
+            <p ana="pr122291">
+<space/>Die Verwendung des Ertrags dieser und der Veranstaltungen vom<lb/>
+<date>27.</date>, <date>29.</date> und <date>30. März</date> ist auf Seite 68 mitgeteilt.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_50021">
+               <persName>Lichnowsky, Mechtilde Fürstin, geb. Gräfin von und zu Arco-Zinneberg</persName>
+               <birth>
+                  <date>1879-3-8</date>
+                  <place>Schloß Schönburg</place>
+               </birth>
+               <death>
+                  <date>1958-6-4</date>
+                  <place>London</place>
+               </death>
+               <occupation>Schriftstellerin</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38988</idno></person>
+            <person xml:id="fk__p_46919">
+               <persName>Nestroy, Johann Nepomuk</persName>
+               <birth>
+                  <date>1801-12-7</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1862-5-25</date>
+                  <place>Graz</place>
+               </death>
+               <occupation>Sänger</occupation>
+               <occupation>Schauspieler</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12338</idno></person>
+            </listPerson></back></text>
+</TEI>

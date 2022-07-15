@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_09279.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09278.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09280.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ebenda, 8. Oktober, 3 Uhr:, in: Fackel Heft 24, Nr. 601, 1922, S. 92-92</title>
+            <title type="iso-date">1922-11-01</title>
+            <title type="id">tid_09279</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">24</title><title type="heft">601</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-24-601_n0092.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/601,092</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ebenda, 8. Oktober, 3 Uhr:</head>
+            <p ana="pr123424">
+<space/>Ebenda, <date>8. Oktober</date>, 3 Uhr:<lb/>
+</p>
+            <p ana="pr123425">
+<space/>I. <rs type="title">Krieg, Menschheit, Zeitungen</rs>. Von <rs type="pers" ana="n_75686" ref="#fk__p_47555">Karl Julius Weber</rs><lb/>
+(<rs type="title"><rs type="pers" ana="n2_6925" ref="#fk__p_47555">Demokritos</rs></rs>) [Mit Vorbemerkung]. — <rs type="title"><seg type="insult"><rs type="pers" ana="n2_6926" ref="#fk__p_55493">Wilhelms</rs> Autorschaft</seg></rs>. — <rs type="title"><seg type="insult">Allerlei<lb/>
+Lippen</seg></rs> / <rs type="title">Der <seg type="insult">Räuber</seg> rühmt den Wächter</rs> / <rs type="title">Von der Fruchtabtreibung</rs> <ADD>/</ADD><lb/>
+<rs type="title">Was man alles auf Lager haben kann</rs>.<lb/>
+</p>
+            <p ana="pr123426">
+<space/>II. <rs type="title"><seg type="insult">Preßburgtheater</seg></rs>. — <rs type="title"><seg type="insult">Wilde Sachen</seg></rs> / <rs type="title"><seg type="insult">Sonderbare Verknüpfungen<lb/>
+</seg></rs>. — <rs type="title"><seg type="insult">Der Reigen</seg></rs>. — <rs type="title">Kommen Sie mal ’raus und überzeugen<lb/>
+ sich selber, was los ist</rs>.<lb/>
+</p>
+            <p ana="pr123427">
+<space/>III. <rs type="title">Das Denkmal eines Schauspielers</rs> (<date>Januar 1914</date>).<lb/>
+</p>
+            <p ana="pr123428">
+<space/>Ein Teil des Ertrags — einschließlich des Programmerlöses<lb/>
+(mit Nachlaß der halben Druckkosten) und einer Spende von<lb/>
+K 200.000 —: K 1,235.000 für ehemalige <abbr>n.-ö.</abbr> Gemeindeärzte<lb/>
+und deren Hinterbliebene (<rs type="inst">Sammlung <rs type="pers" ana="n2_6927" ref="#fk__p_56269"><abbr>Dr.</abbr> Ziegler</rs></rs>, <rs type="inst"><abbr>N.-ö.</abbr> Landesregierung</rs>,<lb/>
+I., Herrengasse 11), notleidende Familien, einen Blinden, ein Kinderheim<lb/>
+ <abbr>etc.</abbr><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_56269">
+               <persName>Ziegler, Otto</persName>
+               <birth>
+                  <date>1877-12-2</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1967-9-26</date>
+                  <place>Neunkirchen</place>
+               </death>
+               <occupation>Beamter</occupation>
+               <note type="comment">Oberamtsrat Dr. Ziegler, Niederöst. Landesregierung, 1., Herrengasse 13 (1925)</note>
+               <note type="comment">8., Albertgasse 33</note>
+            </person>
+            <person xml:id="fk__p_55493">
+               <persName>Wilhelm II., Kaiser</persName>
+               <birth>
+                  <date>1859-1-27</date>
+                  <place>Berlin</place>
+               </birth>
+               <death>
+                  <date>1941-6-4</date>
+                  <place>Doorn/Niederlande</place>
+               </death>
+               <occupation>Kaiser</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_21338</idno></person>
+            <person xml:id="fk__p_47555">
+               <persName>Weber, Karl Julius</persName>
+               <birth>
+                  <date>1767-04-16</date>
+                  <place>Langenberg</place>
+               </birth>
+               <death>
+                  <date>1832-07-20</date>
+                  <place>Kupferzell</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Briefe eines in Deutschland reisenden Deutschen</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37986</idno></person>
+            </listPerson></back></text>
+</TEI>

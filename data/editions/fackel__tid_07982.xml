@@ -1,0 +1,103 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07982.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07981.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07983.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Eigentlich waren es Franzosen, in: Fackel Heft 19, Nr. 462, 1917, S. 102-102</title>
+            <title type="iso-date">1917-10-01</title>
+            <title type="id">tid_07982</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">19</title><title type="heft">462</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-19-462_n0102.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/462,102</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Eigentlich waren es Franzosen</head>
+            <p ana="pr106661">
+<space/><seg type="symbol" subtype="3dots"/> Unter den Herren war Herr <rs type="pers" ana="n_67873" ref="#fk__p_46312">Hubert Marischka</rs> ein höchst<lb/>
+»fescher«, bei aller <seg type="insult">lebemännischen Gewissenlosigkeit</seg> doch die Gutmütigkeit<lb/>
+ nicht verleugnender <rs type="pers"><seg type="spc">Oktav Flaubert</seg></rs>, der in dem<lb/>
+<rs type="pers"><seg type="spc">Prunelles</seg></rs> des Herrn <rs type="pers" ana="n_67874" ref="#fk__p_51212">Paul Guttmann</rs> einen nicht minder flotten<lb/>
+und tanzgewandten Partner fand <seg type="symbol" subtype="4dots"/> schuf Herr <rs type="pers" ana="n_67875" ref="#fk__p_50982">Otto Langer</rs> mit<lb/>
+dem <rs type="pers"><seg type="spc">Larousse</seg></rs> <seg type="symbol" subtype="4dots"/> die kleine Partie des <rs type="pers"><seg type="spc">Voisin</seg></rs> war bei<lb/>
+Herrn <rs type="pers" ana="n_67876" ref="#fk__p_45202">Gustav Matschegg</rs> in guten Händen.<lb/>
+</p>
+            <p ana="pr106663">
+<space/>Bekanntlich ist der ganze Esprit Frankreichs <seg type="insult">ein <foreign xml:lang="yi">tinéff</foreign></seg>,<lb/>
+sobald <seg type="insult">ein Wiener Librettist mit französischem Personenverzeichnis</seg><lb/>
+kommt. <seg type="insult">Die österreichische Propaganda</seg>, die es auf das <foreign xml:lang="de-loc">Beuschl</foreign> der<lb/>
+Neutralen abgesehen hat, läßt kein Mittel unversucht, auch ein<lb/>
+solches nicht, das momentan in Wien selbst anstößig wäre,<lb/>
+wo der <rs type="pers">Flaubert</rs> wieder <rs type="pers">Fleckeles</rs> heißen muß und der <rs type="pers">Prunelles</rs><lb/>
+<rs type="pers">Pruneles</rs>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46312">
+               <persName>Marischka, Hubert</persName>
+               <birth>
+                  <date>1882-8-27</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1959-12-4</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <occupation>Sänger</occupation>
+               <occupation>Regisseur</occupation>
+               <occupation>Theaterleiter</occupation>
+               <note type="comment">Tenor</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/8820</idno></person>
+            <person xml:id="fk__p_50982">
+               <persName>Langer, Otto</persName>
+               <birth>
+                  <date>1886-5-7</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1956-9-16</date>
+                  <place>Graz</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <occupation>Regisseur</occupation>
+            </person>
+            <person xml:id="fk__p_51212">
+               <persName>Guttmann, Paul</persName>
+               <birth>
+                  <date>1879-9-23</date>
+                  <place>Baden bei Wien</place>
+               </birth>
+               <death>
+                  <date>1942?</date>
+                  <place>Ghetto Minsk</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <occupation>Regisseur</occupation>
+               <note type="comment">5., Wehrgasse 22</note>
+               <note type="comment">Theater an der Wien</note>
+            </person>
+            <person xml:id="fk__p_45202">
+               <persName>Matscheg, Anton</persName>
+               <birth>
+                  <date>1858-6-5</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1929-12-26</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <occupation>Sänger</occupation>
+               <occupation>Regisseur</occupation>
+               <note type="comment">Bjb 1914: Anton Matscheg, Sch. u. Reg., 6., Gumpendorferstr. 139</note>
+               <note type="comment">Schweizgastspiel Theater an der Wien mit "Eva", Juli 1917</note>
+               <note type="comment">Namenskorrektur!</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

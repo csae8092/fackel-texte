@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_11768.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11767.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11769.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Eine Annonce, in: Fackel Heft 33, Nr. 852, 1931, S. 79-79</title>
+            <title type="iso-date">1931-05-01</title>
+            <title type="id">tid_11768</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">33</title><title type="heft">852</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-33-852_n0079.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/852,079</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Eine Annonce</head>
+            <p ana="pr170621">
+<seg type="spc">Ich bin um Worte verlegen</seg> <seg type="symbol" subtype="3dots"/><lb/>
+</p>
+            <p ana="pr170622">
+denn <seg type="spc">Worte</seg> können <seg type="spc">schwer den Eindruck<lb/>
+schildern</seg>, den <seg type="spc">meine neuen Frühjahrsmodelle<lb/>
+</seg> machen <seg type="symbol" subtype="3dots"/> Wenn Sie die entzückendsten<lb/>
+Damenschuhe, die elegantesten Herrenschuhe sehen<lb/>
+wollen, die gemacht werden können, besuchen Sie —<lb/>
+meine Damen, meine Herren<lb/>
+<rs type="inst"><rs type="pers" ana="n2_9148" ref="#fk__p_58446">Leopold Jellinek</rs></rs><lb/>
+<seg type="spc">den Schöpfer</seg> der elegantesten Frühjahrsschuhe<lb/>
+zu zeitgemäßen Preisen.<lb/>
+<HR emDashNum="14" type="emDash"/><lb/>
+</p>
+            <p ana="pr170624">
+Und <seg type="spc">ich</seg> bin eitel!<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_58446">
+               <persName>Jellinek, Leopold </persName>
+               <birth>
+                  <date>1862-9-21</date>
+                  <place>Znaim</place>
+               </birth>
+               <occupation>Schuhmacher</occupation>
+               <note type="comment">7., Burggasse 5</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

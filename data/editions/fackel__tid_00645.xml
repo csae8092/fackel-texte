@@ -1,0 +1,99 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00645.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00644.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00646.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Graf Goluchowski, Wien, I, Ballplatz. (Herrn Grafen Goluchowski), in: Fackel Heft 01, Nr. 026, 1899, S. 29-30</title>
+            <title type="iso-date">1899-12-01</title>
+            <title type="id">tid_00645</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">026</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-026_n0029.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/026,029</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Graf Goluchowski, Wien, I, Ballplatz. (Herrn Grafen Goluchowski)</head>
+            <p ana="pr6032">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_4540" ref="#fk__p_44673">Graf Goluchowski</rs>,</seg> <SPAN cont="Wien"><seg type="i">Wie</seg>n</SPAN><seg type="i">, I, Ballplatz</seg>.</seg> Sie behaupten, dass<lb/>
+nicht der Stil, nur die Gedanken des Exposés von Ihnen stammen.<lb/>
+Dann wären Sie also thatsächlich an dem Exposé <seg type="spc">ganz</seg> unbetheiligt.<lb/>
+Aber die Ausrede gilt nicht, dass der <seg type="insult">Stilblütenkranz Ihres diplomatischen<lb/>
+ Ruhmes</seg> von <seg type="insult">Herrn <seg type="spc"><rs type="pers" ana="n_4541" ref="#fk__p_40507">Doczi</rs></seg></seg> gewunden war. Erstens hat Ihr<lb/>
+Sectionschef als <seg type="insult">gewandter und sprachkundiger Feuilletonist</seg> schon<lb/>
+seinen Befähigungsnachweis erbracht, ehe Sie noch als sein <seg type="insult">Vorgesetzter<lb/>
+</seg> in Aussicht genommen waren. Und zweitens hätten Sie,<lb/>
+wenn er wirklich der Autor ist, <seg type="insult">dem Herrn</seg>, der nächstens aus<lb/>
+<seg type="insult">seinem Dichterstübchen im <rs type="inst">Auswärtigen Amte</rs></seg> in die <seg type="insult">Chefredactionsstube<lb/>
+ des ‚<rs type="paper" ana="werk_1572">Pester Lloyd</rs>‘</seg> übersiedeln wird, doch nachträglich die Sprachfehler<lb/>
+ ausbessern sollen. Leitartikeln mag er nach <seg type="insult">Herrn <rs type="pers" ana="n_4542" ref="#fk__p_49920">Max Falk</rs></seg>;<lb/>
+</p>
+            <p ana="fn48">
+<space/>*) <seg type="insult"><foreign xml:lang="de-loc">»Serwas <rs type="pers" ana="n_4543" ref="#fk__p_43580">Franz</rs>«</foreign></seg> scheint doch noch nicht die Bedeutung<lb/>
+<seg type="spc">aller</seg> Wiener Ausdrücke zu kennen.<lb/>
+</p>
+            <p ana="pr6032">
+die Leser werden keinen Unterschied merken. Aber ein Exposé muss<lb/>
+doch — die <seg type="insult">gedankliche Nichtigkeit</seg> zugestanden — wenigstens<lb/>
+stilistisch sauber gehalten sein.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_40507">
+               <persName>Dóczi-Nemet, Ludwig Freiherr von </persName>
+               <birth>
+                  <date>1845-11-27</date>
+                  <place>Deutschkreuz</place>
+               </birth>
+               <death>
+                  <date>1919-8-29</date>
+                  <place>Budapest</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <occupation>Publizist</occupation>
+            </person>
+            <person xml:id="fk__p_43580">
+               <persName>Servaes, Franz Theodor Hubert</persName>
+               <birth>
+                  <date>1862-7-17</date>
+                  <place>Köln</place>
+               </birth>
+               <death>
+                  <date>1947-7-14</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Kritiker</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_20068</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12772</idno></person>
+            <person xml:id="fk__p_49920">
+               <persName>Falk, Max</persName>
+               <birth>
+                  <date>1828-10-07</date>
+                  <place>Budapest</place>
+               </birth>
+               <death>
+                  <date>1908-09-10</date>
+                  <place>Budapest</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <occupation>Journalist</occupation>
+            </person>
+            <person xml:id="fk__p_44673">
+               <persName>Goluchowski, Agenor Graf</persName>
+               <birth>
+                  <date>1849-03-25</date>
+                  <place>Lemberg</place>
+               </birth>
+               <death>
+                  <date>1921-03-28</date>
+                  <place>Lemberg</place>
+               </death>
+               <occupation>Diplomat</occupation>
+               <occupation>Politiker</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

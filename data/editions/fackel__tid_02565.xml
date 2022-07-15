@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02565.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02564.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02566.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Sammler. (Sammler. Tröstliche Nachrichten. Am 16. Juli aus Venedig,), in: Fackel Heft 04, Nr. 110, 1902, S. 24-24</title>
+            <title type="iso-date">1902-07-26</title>
+            <title type="id">tid_02565</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">04</title><title type="heft">110</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-04-110_n0024.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/110,024</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Sammler. (Sammler. Tröstliche Nachrichten. Am 16. Juli aus Venedig,)</head>
+            <p ana="pr24911">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_21607" ref="#fk__p_52736">Sammler</rs>.</seg></seg> Tröstliche Nachrichten. Am <date>16. Juli</date> aus Venedig,<lb/>
+daß in der Libreria »die alten venetianischen <seg type="spc">Gaslustres</seg> erhalten<lb/>
+blieben«. — Bei der großen Truppenschau am <date>14. Juli</date> gab’s in Paris bloß<lb/>
+einen <seg type="insult">»<seg type="spc">Percentsatz</seg> von ½ <seg type="spc">per Tausend</seg> an Maroden«</seg>. (Abendblatt<lb/>
+vom <date>18. Juli</date>). — »<rs type="pers" ana="n_21608" ref="#fk__p_42338">König Eduard</rs> hat die Fähigkeit, seinen Willen, zu<lb/>
+herrschen, vermöge des Krönungseides zu bekunden, durch die Krankheit<lb/>
+ verloren gehabt; er hat diese Fähigkeit durch seine Genesung<lb/>
+wiedergewonnen. Solcherart wird durch ein merkwürdiges Spiel von<lb/>
+Ursache und Wirkung die Schwäche <seg type="spc">eines Organs</seg>, <seg type="spc">das der König<lb/>
+mit jedem seiner Unterthanen gemein hat</seg>, eine Thatsache<lb/>
+von hoher, politischer Bedeutung«. (<rs type="perRef" ana="werk_8589">Leitartikel</rs> vom <date>19. Juli</date>).<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_42338">
+               <persName>Eduard VII., König von England</persName>
+               <birth>
+                  <date>1841-11-9</date>
+                  <place>London</place>
+               </birth>
+               <death>
+                  <date>1910-5-6</date>
+                  <place>London</place>
+               </death>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_14622</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/15665</idno></person>
+            <person xml:id="fk__p_52736">
+               <persName>Sammler</persName>
+            </person>
+            </listPerson></back></text>
+</TEI>

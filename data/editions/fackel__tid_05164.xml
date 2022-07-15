@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_05164.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05163.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05165.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Zehntausend pietätvolle Besucher, in: Fackel Heft 12, Nr. 307, 1910, S. 33-33</title>
+            <title type="iso-date">1910-11-22</title>
+            <title type="id">tid_05164</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">12</title><title type="heft">307</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-12-307_n0033.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/307,033</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Zehntausend pietätvolle Besucher</head>
+            <p ana="pr66333">
+<space/>»Herr <rs type="pers" ana="n_48306" ref="#fk__p_41248"><abbr>Dr. J.</abbr> Goldenstein</rs> schreibt uns aus Jassy: Sehr geehrte<lb/>
+Redaktion! Als langjähriger Abonnent erlaube ich mir anläßlich Ihres<lb/>
+Artikels ‚<rs type="title">Ein Besuch an <rs type="pers" ana="n2_4174" ref="#fk__p_45715">Heines</rs> Grab</rs>‘ und der darauf bezüglichen Zuschriften<lb/>
+ mitzuteilen, daß ich im Jahre <date>1899</date> in Paris <rs type="pers" ana="n_48307" ref="#fk__p_45715">Heines</rs> Grab<lb/>
+besucht habe und zu den vielen Visitkarten auch die meinige <seg type="symbol" subtype="3dots"/>«<lb/>
+</p>
+            <p ana="pr66335">
+<space/>Genug! Wir glauben. Aber diesem <rs type="pers" ana="n_48308" ref="#fk__p_45715">Heine</rs> rühmt ja die<lb/>
+<seg type="insult">Gemeinde</seg> nach, daß er noch den Tod mit einem Witz empfangen<lb/>
+ habe. Warum rief er jetzt nicht, <seg type="ELIDASH">einmal</seg> für allemal: <rs type="pers" ana="n_48309" ref="#fk__p_41248">Goldenstein</rs>,<lb/>
+sagen Sie’s auch den andern, ich lass’ mich verleugnen!<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_45715">
+               <persName>Heine, Heinrich</persName>
+               <birth>
+                  <date>1797-12-13</date>
+                  <place>Düsseldorf</place>
+               </birth>
+               <death>
+                  <date>1856-2-17</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Journalist</occupation>
+               <note type="comment">Ögg separiert F 24/25 </note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11640</idno></person>
+            <person xml:id="fk__p_41248">
+               <persName>Goldenstein, Janku</persName>
+               <birth>
+                  <date>1873-4-18</date>
+                  <place>Roman/Rumänien</place>
+               </birth>
+               <occupation>Gynäkologe</occupation>
+               <note type="comment">aus Jassy</note>
+               <note type="comment">Zentralblatt für Gynäkologie, 1904, Seite 826</note>
+               <note type="comment">Diie Welt, Jg. 5 (1901) Nr. 38, S. 14</note>
+               <note type="comment">Rigorosen Univ. Wien 18. 07. 1898</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

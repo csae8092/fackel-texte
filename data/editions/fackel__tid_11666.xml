@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_11666.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11665.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11667.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Es, in: Fackel Heft 32, Nr. 847, 1931, S. 87-88</title>
+            <title type="iso-date">1931-03-01</title>
+            <title type="id">tid_11666</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">32</title><title type="heft">847</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-32-847_n0087.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/847,087</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Es</head>
+            <p ana="pr169418">
+<OMED>— —</OMED> <rs type="pers" ana="n_101412" ref="#fk__p_49848">Mathilde</rs>, das kleine <seg type="spc">Mädel</seg> aus dem Schuhgeschäft, das <seg type="spc">seinen</seg><lb/>
+<rs type="pers" ana="n_101413" ref="#fk__p_45715">Henri</rs> einundzwanzig Jahre lang mit der kindlichsten und wärmsten<lb/>
+Liebe umgeben und nach dem Tode des Dichters siebenundzwanzig<lb/>
+Jahre um diese Liebe getrauert hat, ist von den Zeitgenossen oft<lb/>
+verleumdet und verachtet worden, weil <seg type="spc">es</seg> nur der Stimme seines<lb/>
+Herzens folgend, ohne den Segen der Kirche, <rs type="pers" ana="n_101414" ref="#fk__p_45715">Heines</rs> Frau geworden,<lb/>
+und <seg type="spc">es</seg> ist von der Nachwelt wenig beachtet worden, weil <seg type="spc">es</seg> nur<lb/>
+seine Geliebte, aber nicht seine geistige Freundin, Kameradin seines<lb/>
+Schaffens, Sekundantin in seinen Kämpfen sein konnte. <rs type="pers" ana="n_101415" ref="#fk__p_55241">Walter Viktor</rs><lb/>
+hat aber gerade das Einfache und Natürliche <seg type="spc">ihres</seg> Wesens <seg type="symbol" subtype="2dotsEditor"/> zur<lb/>
+dichterischen Nachgestaltung gereizt.<lb/>
+</p>
+            <p ana="pr169420">
+Warum nicht »seines«, wenn doch das Mädel noch als <rs type="pers" ana="n_101416" ref="#fk__p_49848">Mathilde</rs>,<lb/>
+Frau, Geliebte, Freundin, Kameradin, Sekundantin immer ein<lb/>
+»es« war? Nun ja, weil sonst am Ende <seg type="insult">den Herrn <rs type="pers" ana="n_101417" ref="#fk__p_55241">Viktor</rs></seg> das<lb/>
+Natürliche seines eigenen Wesens zur Nachgestaltung gereizt<lb/>
+hätte.(»Sein <rs type="pers" ana="n_101418" ref="#fk__p_45715">Henri</rs>« ist natürlich nicht der vom Schuhgeschäft.) Der<lb/>
+Referent der <seg ana="Arbeiter-Zeitung"/> ist korrekt und vermeidet Klippen.<lb/>
+Er hält sich offenbar an das bekannte Paradigma: Ein Dienstbote<lb/>
+ hatte ein Verhältnis mit einer Ordonnanz, und da er<lb/>
+schwanger wurde, verlangte er, daß sie ihn heirate.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_49848">
+               <persName>Heine, Mathilde (d. i. Augustine Crescence), geb. Mirat</persName>
+               <birth>
+                  <date>1815-3-15</date>
+                  <place>Le Vinot de la Trétoire bei Meaux</place>
+               </birth>
+               <death>
+                  <date>1883-2-17</date>
+                  <place>Paris</place>
+               </death>
+            </person>
+            <person xml:id="fk__p_45715">
+               <persName>Heine, Heinrich</persName>
+               <birth>
+                  <date>1797-12-13</date>
+                  <place>Düsseldorf</place>
+               </birth>
+               <death>
+                  <date>1856-2-17</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Journalist</occupation>
+               <note type="comment">Ögg separiert F 24/25 </note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11640</idno></person>
+            <person xml:id="fk__p_55241">
+               <persName>Victor, Walther</persName>
+               <birth>
+                  <date>1895-4-21</date>
+                  <place>Bad Oeynhausen</place>
+               </birth>
+               <death>
+                  <date>1971-8-19</date>
+                  <place>Bad Berka</place>
+               </death>
+               <occupation>Publizist</occupation>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Namenskorrektur! Vor- und Zunamen</note>
+               <note type="comment">Mathilde. Ein Leben um Heinrich Heine. Mit 12 Bildern, 12 Vignetten und einem Faksimile. Leipzig und Wien 1931</note>
+               <note type="comment">Liste "Theater der Dichtung", Zwickau, Sachsen</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

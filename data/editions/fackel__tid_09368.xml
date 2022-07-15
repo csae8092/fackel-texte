@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_09368.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09367.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09369.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ebenda, 25. Januar, 7 Uhr:, in: Fackel Heft 25, Nr. 613, 1923, S. 46-46</title>
+            <title type="iso-date">1923-04-01</title>
+            <title type="id">tid_09368</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">25</title><title type="heft">613</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-25-613_n0046.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/613,046</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ebenda, 25. Januar, 7 Uhr:</head>
+            <p ana="pr124811">
+<space/>Ebenda, <date>25. Januar</date>, 7 Uhr:<lb/>
+</p>
+            <p ana="pr124812">
+<space/>I. <rs type="title"><seg type="spc">Das Notwendige und das Überflüssige</seg></rs> (Nach<lb/>
+»<rs type="title">Die beiden Nachtwandler</rs>«), Posse mit Gesang in zwei Akten, bearbeitet<lb/>
+ vom Vortragenden. Musik nach Angabe des Vortragenden<lb/>
+gesetzt von <rs type="pers" ana="n_76802" ref="#fk__p_50971">Otto Janowitz</rs> und Anderen. Das <rs type="title">Lied von der Chimäre</rs><lb/>
+aus den »<rs type="title">Papieren des Teufels</rs>« herübergenommen, der neue Text<lb/>
+des Quodlibets vom Bearbeiter.<lb/>
+</p>
+            <p ana="pr124813">
+<space/>II. <rs type="title"><seg type="spc">Tritschtratsch</seg></rs>, Posse mit Gesang in einem Akt.<lb/>
+Musik nach Angabe des Vortragenden (Lied der <rs type="pers"><choice><sic>Kotton</sic><corr>Katton</corr></choice></rs> von <rs type="pers" ana="n_76803" ref="#fk__p_50021">Mechtilde<lb/>
+Lichnowsky</rs>).<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_50971">
+               <persName>Janowitz, Otto</persName>
+               <birth>
+                  <date>1888-7-22</date>
+                  <place>Podjebrad/Böhmen</place>
+               </birth>
+               <death>
+                  <date>1965-7</date>
+                  <place>New York</place>
+               </death>
+               <occupation>Pianist</occupation>
+               <note type="comment">Klavierbegleiter von KK</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38543</idno></person>
+            <person xml:id="fk__p_50021">
+               <persName>Lichnowsky, Mechtilde Fürstin, geb. Gräfin von und zu Arco-Zinneberg</persName>
+               <birth>
+                  <date>1879-3-8</date>
+                  <place>Schloß Schönburg</place>
+               </birth>
+               <death>
+                  <date>1958-6-4</date>
+                  <place>London</place>
+               </death>
+               <occupation>Schriftstellerin</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38988</idno></person>
+            </listPerson></back></text>
+</TEI>

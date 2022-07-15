@@ -1,0 +1,47 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07871.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07870.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07872.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ein Stadtbild, ein Schlachtbild, in: Fackel Heft 19, Nr. 457, 1234, S. 83-83</title>
+            <title type="iso-date">1234-01-01</title>
+            <title type="id">tid_07871</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">19</title><title type="heft">457</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-19-457_n0083.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/457,083</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ein Stadtbild, ein Schlachtbild</head>
+            <p ana="pr105317">
+<space/>»Zum zweiten Male in diesem Jahre hat Frau <rs type="pers" ana="n_67407" ref="#fk__p_53181">Selma Halban-Kurz<lb/>
+</rs> <seg type="spc">eine Mobilisierung</seg> ihres Publikums im Konzertsaal<lb/>
+vorgenommen <seg type="symbol" subtype="4dots"/> <seg type="spc">Die weiche Stimme</seg>, <seg type="spc">die Fiorituren<lb/>
+ und Kopftöne der <rs type="pers" ana="n_67408" ref="#fk__p_53181">Kurz</rs> und gar ihr endloser<lb/>
+Triller</seg>, alle die Kostbarkeiten eines verfeinerten Koloraturgesanges,<lb/>
+<seg type="spc">sie gehören heute zum Stadtbild des modernen<lb/>
+Wiens</seg>. <rs type="pers" ana="n_67409" ref="#fk__p_53181">Kurz-Tage</rs> in der <rs type="inst">Wiener Hofoper</rs> sind seit langer Zeit<lb/>
+große Wiener Gesellschaftstage, und die sind es <seg type="spc">auch während<lb/>
+des Krieges</seg> geworden <seg type="symbol" subtype="3dots"/>«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_53181">
+               <persName>Halban-Kurz, Selma</persName>
+               <birth>
+                  <date>1874-10-15</date>
+                  <place>Bielitz</place>
+               </birth>
+               <death>
+                  <date>1933-5-10</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Sängerin</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

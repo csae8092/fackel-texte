@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02178.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02177.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02179.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Dichter. (Die seltamen Versmasse des Dichters Landesberg), in: Fackel Heft 03, Nr. 091, 1902, S. 26-27</title>
+            <title type="iso-date">1902-01-14</title>
+            <title type="id">tid_02178</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">03</title><title type="heft">091</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-03-091_n0026.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/091,026</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Dichter. (Die seltamen Versmasse des Dichters Landesberg)</head>
+            <p ana="pr21158">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="n_18393" ref="#fk__p_40429">Dichter</rs>.</seg></seg></seg> Für Uebungen im Scandieren wären vielleicht die <seg type="insult">Neujahrsverse<lb/>
+ des Herrn <rs type="pers" ana="n_18394" ref="#fk__p_37986"><seg type="spc">Landesberg</seg></rs></seg> in der ‚<seg ana="Oesterreichischen Volks-&#10;zeitung"/>‘ zu empfehlen. Versuchen Sie’s:<lb/>
+</p>
+            <lg>
+<l>Saturn ist heuer Jahres-Regent</l>
+<l>Der <SPAN cont="Mondesherrschaft-Ueberwinder">Mondesher<seg type="spc">rschaft</seg>-Ueberwinder</SPAN>.</l>
+<l>Er leuchte <seg type="insult">unserem hohen <rs type="inst">Parlament</rs></seg>,</l>
+<l>Das <seg type="spc">auch</seg> frisst die eigenen Kinder.</l>
+</lg>
+            <p ana="pr21162">
+oder:<lb/>
+</p>
+            <lg>
+<l><seg type="insult">Herrn <rs type="pers" ana="n_18395" ref="#fk__p_45195">Klimt</rs>, dem Professor der »<rs type="title">Philosophie</rs>«</seg></l>
+<l>Sammt <seg type="insult">Schülern</seg>, die zu ihm jetzt laufen,</l>
+<l>Wir wünschen eine Menge von <seg type="insult">Pinseln</seg>, die</l>
+<l>Die Bilder auch ihnen <seg type="spc">abkaufen</seg>.</l>
+</lg>
+            <p ana="pr21166">
+<space/>Sie finden da <seg type="insult">höchst seltene Versmasse in bunter Abwechslung</seg><lb/>
+vertreten, in der Regel herrscht der folgende Typus vor:<lb/>
+</p>
+            <p ana="pr21167">
+<seg type="symbol" subtype="breve"/> <seg type="symbol" subtype="macron"/> <seg type="symbol" subtype="breve"/> <seg type="symbol" subtype="breve"/> <seg type="symbol" subtype="breve"/> <seg type="symbol" subtype="breve"/> <seg type="symbol" subtype="breve"/> <seg type="symbol" subtype="breve"/> <seg type="symbol" subtype="breve"/> <seg type="symbol" subtype="breve"/> <seg type="symbol" subtype="macron"/><lb/>
+</p>
+            <p ana="pr21168">
+<space/>Lernen Sie und schreiben Sie dann ein Libretto! Die Wiener<lb/>
+werden es sich gewiss öfter als 75 Mal gefallen lassen.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_40429">
+               <persName>Dichter</persName>
+            </person>
+            <person xml:id="fk__p_37986">
+               <persName>Landesberg, Alexander</persName>
+               <birth>
+                  <date>1846-7-14</date>
+                  <place>Großwardein</place>
+               </birth>
+               <death>
+                  <date>1916-6-14</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Localzugs-Studien in der "Sonn- und Montags-Zeitung" Herr Bachsteiner ist eine Figur</note>
+               <note type="comment">"Schnüfferl "Aus dem Souffleurkasten"</note>
+               <note type="comment">lBachsteiner, von Ögg als Journalist ident., ist Figur. Siehe z. B. So- u. Mo.Ztg. 23.6.02</note>
+               <note type="comment">Ögg gibt ihm 378/24 mit Fragezeichen, wohl als vermutetem Autor des Zitats</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2577</idno></person>
+            <person xml:id="fk__p_45195">
+               <persName>Klimt, Gustav</persName>
+               <birth>
+                  <date>1862-7-14</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1918-2-6</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Maler</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11941</idno></person>
+            </listPerson></back></text>
+</TEI>

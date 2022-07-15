@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_04256.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04255.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04257.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Leichenschänder. (Der neueste Nordau), in: Fackel Heft 08, Nr. 208, 1906, S. 24-24</title>
+            <title type="iso-date">1906-10-4</title>
+            <title type="id">tid_04256</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">08</title><title type="heft">208</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-08-208_n0024.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/208,024</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Leichenschänder. (Der neueste Nordau)</head>
+            <p ana="pr45905">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="name_203643" key="#fk__p_60719">Leichenschänder</rs>.</seg></seg></seg> <seg type="insult">Der neueste <rs type="pers" ana="n_37130" ref="#fk__p_49957"><seg type="spc">Nordau</seg></rs></seg> (‚<rs type="paper" ana="werk_14809">Neue Freie Presse</rs>‘,<lb/>
+<date>29. September</date>): »Es genügte <seg type="insult">dem phrasendrechselnden Gecken <rs type="pers" ana="n_37131" ref="#fk__p_50868">Oskar<lb/>
+Wilde</rs></seg>, wegen <seg type="insult">Sittlichkeitsverbrechen</seg> ins Zuchthaus zu kommen, um<lb/>
+nach seinem Tode eine <seg type="insult">Gemeinde fanatischer Bewunderer</seg> um ihn zu<lb/>
+sammeln, allerdings nicht in England, wo man ihn kennt. — <rs type="pers" ana="n_37132" ref="#fk__p_51263">Verlaine</rs> gilt<lb/>
+vielen, die nie einen Vers von ihm gelesen haben, als großer Dichter,<lb/>
+weil er obdachlos war und abwechselnd im Krankenhaus und in Nachtcafés<lb/>
+ nächtigte«. <seg type="insult">Welch ein Deutsch! Welch eine Gesinnung!</seg><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_50868">
+               <persName>Wilde, Oscar Fingal O'Flaherty Wills</persName>
+               <birth>
+                  <date>1854-10-16</date>
+                  <place>Dublin</place>
+               </birth>
+               <death>
+                  <date>1900-11-30</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Ögg gibt die Salome-Stelle 912/45 Richard Strauss</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_21325</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/13115</idno></person>
+            <person xml:id="fk__p_49957">
+               <persName>Nordau, Max Simon</persName>
+               <birth>
+                  <date>1849-7-29</date>
+                  <place>Pest</place>
+               </birth>
+               <death>
+                  <date>1923-1-22</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Arzt</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_18472</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12365</idno></person>
+            <person xml:id="fk__p_51263">
+               <persName>Verlaine, Paul</persName>
+               <birth>
+                  <date>1844-3-30</date>
+                  <place>Metz</place>
+               </birth>
+               <death>
+                  <date>1896-1-8</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/13011</idno></person>
+            </listPerson></back></text>
+</TEI>

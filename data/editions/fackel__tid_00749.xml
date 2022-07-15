@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00749.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00748.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00750.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Schadenfroh. (Schadenfroh), in: Fackel Heft 01, Nr. 031, 1900, S. 28-28</title>
+            <title type="iso-date">1900-02-01</title>
+            <title type="id">tid_00749</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">031</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-031_n0028.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/031,028</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Schadenfroh. (Schadenfroh)</head>
+            <p ana="pr7165">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_5531" ref="#fk__p_52816">Schadenfroh</rs>.</seg></seg> Sie senden mir die letzte Nummer <seg type="insult">des gewissen<lb/>
+<rs type="perRef" ana="werk_1922">Montagblattes</rs></seg>, das — eine rühmliche Ausnahme unter <seg type="insult">den Schmutzfinken<lb/>
+ im Wiener Blätterwalde</seg> — schon öfters meinen Namen genannt<lb/>
+hat, und freuen sich, dass mir endlich etwas »nachgewiesen«<lb/>
+wurde. Ich habe in <rs type="selfRef" ana="werk_1923"><abbr>Nr.</abbr> 30</rs> unter den deutschen Schauspielern, die<lb/>
+ich schätze und <seg type="insult">Herrn <rs type="pers" ana="n_5532" ref="#fk__p_47103">Kainz</rs></seg> vorziehe, auch Einen namens<lb/>
+<seg type="spc"><rs type="pers" ana="n_5533" ref="#fk__p_52790">Sauer</rs></seg> genannt; dieser Herr, den ich noch dazu als einen jungen<lb/>
+Künstler bezeichnete, lebt aber gar nicht mehr, sondern hat vor undenklichen<lb/>
+ Zeiten in Prag Heldenväter <abbr>u. dgl.</abbr> gespielt und ist längst<lb/>
+begraben und vergessen. Fatal! Aber nicht für mich, sondern für<lb/>
+<seg type="insult">meinen tapfern Gegner</seg>, der mir so flink wie anonym eins am Zeug<lb/>
+zu flicken gedachte. Beruhigen Sie sich und ihn. Ich habe nicht den<lb/>
+alten <rs type="pers" ana="n_5534" ref="#fk__p_52790">Sauer</rs> gemeint, sondern wirklich einen jungen, der frisch und<lb/>
+gesund am <rs type="inst">Deutschen Theater</rs> in Berlin wirkt und durch Schärfe,<lb/>
+Eleganz und Natürlichkeit seiner Darstellung in den letzten Jahren<lb/>
+sehr bekannt geworden ist. Dass <seg type="insult">der vorlaute Montagsbursche</seg> von ihm<lb/>
+nichts weiß, ist weiter nicht interessant. Aber mich sollte er doch<lb/>
+darum nicht anfallen, weil ich den Mann kenne. Der <seg type="insult">Schmock</seg> capriciert<lb/>
+sich mit einer Hartnäckigkeit auf den Prager Schauspieler, als ob<lb/>
+er <seg type="insult">ein sogenannter Prager Schmock</seg> wäre. Und das sind, wie Sie<lb/>
+wissen, die ärgsten.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_52790">
+               <persName>Sauer, Oskar</persName>
+               <birth>
+                  <date>1856-12-11</date>
+                  <place>Berlin</place>
+               </birth>
+               <death>
+                  <date>1918-4-3</date>
+                  <place>Berlin</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <note type="comment">Vornamensvariante Oscar ebenfalls vielfach belegt</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2193</idno></person>
+            <person xml:id="fk__p_52816">
+               <persName>Schadenfroh</persName>
+            </person>
+            <person xml:id="fk__p_47103">
+               <persName>Kainz, Josef Gottfried Ignaz</persName>
+               <birth>
+                  <date>1858-1-2</date>
+                  <place>Wieselburg, Ungarn</place>
+               </birth>
+               <death>
+                  <date>1910-9-20</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <note type="comment"/>
+               <note type="comment">Handbuch österr. Autorinnen und Autoren jüd. Herkunft gibt an: urspr.. Kohn ???</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16646</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11851</idno></person>
+            </listPerson></back></text>
+</TEI>

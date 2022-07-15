@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_11712.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11711.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11713.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Geheimdiplomatie, in: Fackel Heft 33, Nr. 852, 1931, S. 15-15</title>
+            <title type="iso-date">1931-05-01</title>
+            <title type="id">tid_11712</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">33</title><title type="heft">852</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-33-852_n0015.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/852,015</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Geheimdiplomatie</head>
+            <p ana="pr169928">
+Fühlungnahme mit dem <rs type="inst">Burgtheater</rs> — wie es heißt, bis jetzt —<lb/>
+nicht erfolgt. Wie wir erfahren, gestern abends wieder abgereist.<lb/>
+Allerdings — wie verlautet — mit <rs type="pers" ana="n_101580" ref="#fk__p_55300">Weichert</rs> in Verbindung getreten.<lb/>
+<rs type="pers" ana="n_101581" ref="#fk__p_53929">Talleyrand</rs>, <rs type="pers" ana="n_101582" ref="#fk__p_44072">Metternich</rs>, <rs type="pers" ana="n_101583" ref="#fk__p_48980">Ligne</rs>, das waren doch arme Teufel.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_48980">
+               <persName>Ligne, Karl Josef Fürst von</persName>
+               <birth>
+                  <date>1735-05-23</date>
+                  <place>Brüssel</place>
+               </birth>
+               <death>
+                  <date>1814-12-13</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Offizier</occupation>
+               <occupation>Diplomat</occupation>
+            </person>
+            <person xml:id="fk__p_44072">
+               <persName>Metternich-Winneburg, Klemens Lothar Fürst von</persName>
+               <birth>
+                  <date>1773-5-15</date>
+                  <place>Koblenz</place>
+               </birth>
+               <death>
+                  <date>1859-6-11</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Politiker</occupation>
+            </person>
+            <person xml:id="fk__p_55300">
+               <persName>Weichert, Richard</persName>
+               <birth>
+                  <date>1880-05-22</date>
+                  <place>Berlin</place>
+               </birth>
+               <death>
+                  <date>1961-11-15</date>
+                  <place>Frankfurt</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <occupation>Theaterleiter</occupation>
+               <note type="comment">Wegbereiter des expression. Theaters</note>
+               <note type="comment">"Büchse der Pandora", Tabatiere, von KK an Albert Heine, danach Weichert, Barlog, Dieter Dorn</note>
+            </person>
+            <person xml:id="fk__p_53929">
+               <persName>Talleyrand, Charles Maurice de</persName>
+               <birth>
+                  <date>1754-2-2</date>
+                  <place>Paris</place>
+               </birth>
+               <death>
+                  <date>1838-5-17</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Bischof</occupation>
+               <occupation>Politiker</occupation>
+               <note type="comment">1797-1807 Außenminister</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/25845</idno></person>
+            </listPerson></back></text>
+</TEI>

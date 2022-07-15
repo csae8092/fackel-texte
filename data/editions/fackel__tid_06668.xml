@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06668.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06667.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06669.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Wien, im Kleinen Musikvereinssaal, am 11. März:, in: Fackel Heft 15, Nr. 395, 1914, S. 36-36</title>
+            <title type="iso-date">1914-01-01</title>
+            <title type="id">tid_06668</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">15</title><title type="heft">395</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-15-395_n0036.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/395,036</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Wien, im Kleinen Musikvereinssaal, am 11. März:</head>
+            <p ana="pr90055">
+<space/>Wien, im <rs type="inst">Kleinen Musikvereinssaal</rs>, am <date>11. März</date>:<lb/>
+</p>
+            <p ana="pr90057">
+<space/>I <rs type="title"><seg type="insult">Gegen die Jugend</seg></rs> (Schluß von »<rs type="title">Untergang der Welt durch<lb/>
+<seg type="insult">schwarze Magie</seg></rs>«) / <rs type="title"><seg type="insult"><foreign xml:lang="la">Non scholae, sed vitae</foreign></seg></rs>; <rs type="title"><seg type="insult">Arzt und Künstler</seg></rs>; <rs type="title">Der<lb/>
+denkende Hund</rs>; <rs type="title"><seg type="insult">Der kleine <rs type="pers" ana="n2_5409" ref="#fk__p_42772">Korngold</rs></seg></rs>; <rs type="title"><seg type="insult">Gralsjünger</seg></rs>; <rs type="title"><seg type="insult"><foreign xml:lang="en">Representative men</foreign></seg></rs><lb/>
+II <rs type="title">Das hätte ich nicht erfinden können</rs>; <rs type="title">Wie?</rs>; <rs type="title">Wenn ich einmal</rs>; <rs type="title">Wie<lb/>
+man <seg type="insult">deutsche Sänger</seg> behandelt, da hört sich alles auf</rs>; <rs type="title">Wo gibt es<lb/>
+noch <seg type="insult">eine so schöne Gegend</seg></rs>; <rs type="title"><seg type="insult">Albanische Präludien</seg></rs>; <rs type="title"><seg type="insult">Idyllen</seg></rs>; <rs type="title"><seg type="insult">Aus dem<lb/>
+Ungarischen</seg></rs>; <rs type="title">Selbstverständlich</rs>; <rs type="title">Die elektrische Bahn Wien-Preßburg<lb/>
+ist eröffnet worden</rs>; <rs type="title"><foreign xml:lang="de-loc">Außi möcht’ i</foreign> oder: Auf zum Südpol!</rs>; <rs type="title"><seg type="insult">Stadtverordnete<lb/>
+ besuchen Gemeinderäte</seg></rs>; <rs type="title">Jetzt ist die Zeit</rs> III <rs type="title">Ich habe ihn<lb/>
+gefunden</rs>; <rs type="title">Alle, die <seg type="insult">durch der Zeitung</seg></rs>; <rs type="title"><seg type="insult">Verleihungen und Ernennungen</seg></rs> /<lb/>
+<rs type="title">Ansprache an den Staat</rs> (aus dem »<rs type="title">Prozeß <rs type="pers" ana="n2_5410" ref="#fk__p_49604">Veith</rs></rs>«) / <rs type="title">Wie in Deutschland<lb/>
+ die <seg type="insult">Unsittlichkeit</seg> zustandekommt und wie die <seg type="insult">Sitte</seg> spricht</rs>.<lb/>
+</p>
+            <p ana="pr90059">
+<space/>Die nächste (VII.) Vorlesung findet Mittwoch den <date>22. April</date><lb/>
+im <rs type="inst"><seg type="spc">Großen <rs type="pers" ana="n2_5411" ref="#fk__p_49349">Beethovensaale</rs></seg></rs> statt.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_49604">
+               <persName>Veith, Marcel</persName>
+               <birth>
+                  <date>1862-1-2</date>
+                  <place>Liboch/Böhmen</place>
+               </birth>
+               <death>
+                  <date>1936-3-22</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Agent</occupation>
+               <note type="comment">5., Kriehubergasse 13</note>
+               <note type="comment">verh. 05.02.1898 Dienstmagd Anna Wimmer</note>
+            </person>
+            <person xml:id="fk__p_49349">
+               <persName>Beethoven, Ludwig van</persName>
+               <birth>
+                  <date>1770-12-17</date>
+                  <place>Bonn</place>
+               </birth>
+               <death>
+                  <date>1827-3-26</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Komponist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10866</idno></person>
+            <person xml:id="fk__p_42772">
+               <persName>Korngold, Erich Wolfgang</persName>
+               <birth>
+                  <date>1897-5-29</date>
+                  <place>Brünn</place>
+               </birth>
+               <death>
+                  <date>1957-11-29</date>
+                  <place>Hollywood</place>
+               </death>
+               <occupation>Komponist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11969</idno></person>
+            </listPerson></back></text>
+</TEI>

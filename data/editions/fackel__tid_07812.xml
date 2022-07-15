@@ -1,0 +1,137 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07812.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07811.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07813.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Da finde ich keinen Titel, in: Fackel Heft 19, Nr. 454, 1234, S. 60-60</title>
+            <title type="iso-date">1234-01-01</title>
+            <title type="id">tid_07812</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">19</title><title type="heft">454</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-19-454_n0060.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/454,060</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Da finde ich keinen Titel</head>
+            <p ana="pr104370">
+<space/>— — — —: <rs type="pers" ana="n_66997" ref="#fk__p_44027">Fürst Johann zu Schwarzenberg</rs>, Bischof von<lb/>
+Alessio Monsignore <rs type="pers" ana="n_66998" ref="#fk__p_39604">Bumei</rs>, Bischof von Sappa Monsignore <rs type="pers" ana="n_66999" ref="#fk__p_47966">Koletsi</rs>,<lb/>
+<seg type="spc">Feldzeugmeister</seg> <rs type="pers" ana="n_67000" ref="#fk__p_52271">Ritter Benigni</rs> in Müldenberg, <seg type="spc">Kommandant<lb/>
+</seg> des <seg type="ELIDASH">Marinevereines</seg> und Militärkriegervereines »<rs type="inst"><rs type="pers" ana="n2_5935" ref="#fk__p_53991">Tegethoff</rs></rs>« <rs type="pers" ana="n_67001" ref="#fk__p_49323"><seg type="spc">Ludwig<lb/>
+Riedl</seg></rs>, <seg type="spc">Feldmarschall </seg><rs type="pers" ana="n_67002" ref="#fk__p_43714"><seg type="spc">Freiherr Conrad </seg><abbr>v.</abbr> <seg type="spc">Hötzendorf<lb/>
+</seg></rs>, Arbeitsminister <rs type="pers" ana="n_67003" ref="#fk__p_43695">Freiherr <abbr>v.</abbr> Trnka</rs>.<lb/>
+</p>
+            <p ana="pr104372">
+<space/>Wenn man’s der Nachwelt nicht ausdrücklich mitteilte,<lb/>
+würde sie am Ende gar nicht auf die Vermutung kommen,<lb/>
+daß der in der Mitte eigentlich <seg type="insult">Kaffeesieder</seg> war.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_43714">
+               <persName>Conrad-Hötzendorf, Franz Graf </persName>
+               <birth>
+                  <date>1852-11-11</date>
+                  <place>Penzing bei Wien</place>
+               </birth>
+               <death>
+                  <date>1925-8-25</date>
+                  <place>Bad Mergentheim</place>
+               </death>
+               <occupation>Offizier</occupation>
+               <note type="comment">seit 1906 Chef des Generalstabs</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_14266</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11102</idno></person>
+            <person xml:id="fk__p_52271">
+               <persName>Benigni, Siegmund Graf</persName>
+               <birth>
+                  <date>1855-01-15</date>
+                  <place>Fiume</place>
+               </birth>
+               <death>
+                  <date>1922-10-13</date>
+                  <place>Graz</place>
+               </death>
+               <occupation>General</occupation>
+            </person>
+            <person xml:id="fk__p_49323">
+               <persName>Riedl, Ludwig</persName>
+               <birth>
+                  <date>1858-12-7</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1919-8-6</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Kaffeehausbesitzer </occupation>
+               <note type="comment">Inh. Café Europe; 1., Stephansplatz 8a (gegenüber dem Riesentor)</note>
+               <note type="comment">Whg.: 18., Ferrogasse 6</note>
+            </person>
+            <person xml:id="fk__p_44027">
+               <persName>Schwarzenberg, Johann Nepomuk Fürst zu</persName>
+               <birth>
+                  <date>1860-5-29</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1938-10-1</date>
+                  <place>Wien</place>
+               </death>
+               <note type="comment">neunter Fürst</note>
+            </person>
+            <person xml:id="fk__p_47966">
+               <persName>Koletsi, Giorgio</persName>
+               <birth>
+                  <date>1868-1-28</date>
+                  <place>Kalmetti</place>
+               </birth>
+               <death>
+                  <date>1928-1-2</date>
+                  <place>Sape, Albanien</place>
+               </death>
+               <occupation>Bischof</occupation>
+            </person>
+            <person xml:id="fk__p_43695">
+               <persName>Trnka, Ottokar Freiherr von</persName>
+               <birth>
+                  <date>1871-7-19</date>
+                  <place>Pardubitz</place>
+               </birth>
+               <death>
+                  <date>1919-6-25</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Politiker</occupation>
+            </person>
+            <person xml:id="fk__p_53991">
+               <persName>Tegetthoff, Wilhelm von</persName>
+               <birth>
+                  <date>1827-12-23</date>
+                  <place>Marburg/Steiermark</place>
+               </birth>
+               <death>
+                  <date>1871-4-7</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Marineoffizier</occupation>
+               <note type="comment">Admiral</note>
+            </person>
+            <person xml:id="fk__p_39604">
+               <persName>Bumei (Bumci), Luigi</persName>
+               <birth>
+                  <date>1872-11-7</date>
+                  <place>Scutari</place>
+               </birth>
+               <death>
+                  <date>1945</date>
+               </death>
+               <occupation>Bischof</occupation>
+               <note type="comment">von Alessio</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

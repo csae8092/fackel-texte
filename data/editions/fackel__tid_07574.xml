@@ -1,0 +1,47 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07574.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07573.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07575.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Aus dem hintersten Hinterland, in: Fackel Heft 18, Nr. 445, 1234, S. 24-24</title>
+            <title type="iso-date">1234-01-01</title>
+            <title type="id">tid_07574</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">18</title><title type="heft">445</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-18-445_n0024.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/445,024</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Aus dem hintersten Hinterland</head>
+            <p ana="pr101867">
+<space/><seg type="sidehead">(In der <rs type="inst">City-Bar Holländischer Teesalon</rs>,)</seg> 1. Bezirk Liliengasse 2<lb/>
+zwischen Singerstraße und Weihburggasse, findet sich täglich ein vornehmes<lb/>
+ Publikum zum Nachmittagstee ein, um abseits vom Lärm der<lb/>
+Großstadtbetriebe <seg type="spc">bei den gedämpften Klängen des Klaviermeisters<lb/>
+ <rs type="pers" ana="n_66051" ref="#fk__p_50790">Oertel</rs></seg> sich einige Stunden der Erholung zu gönnen,<lb/>
+auch um in dem gemütlich intimen Bar-Raum <seg type="spc">mit seinen Bekannten</seg><lb/>
+in <seg type="spc">zwangloser</seg> Plauderei <seg type="spc">die so wichtigen Tagesereignisse<lb/>
+ der jetzigen Zeit zu besprechen</seg>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_50790">
+               <persName>Oertel, Ernst</persName>
+               <birth>
+                  <date>1874-3-12</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1928-6-12</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Pianist</occupation>
+               <note type="comment">4., Floragasse 7</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_10093.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10092.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10094.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Die Habsburger und der Sommernachtstraum), in: Fackel Heft 26, Nr. 679, 1925, S. 83-83</title>
+            <title type="iso-date">1925-03-01</title>
+            <title type="id">tid_10093</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">26</title><title type="heft">679</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-26-679_n0083.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/679,083</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Die Habsburger und der Sommernachtstraum)</head>
+            <p ana="pr137365">
+<space/><seg type="symbol" subtype="3dots"/> daß er sich — im Eselskopf — die Elfen vorstellen ließ, genau<lb/>
+so wie Vorstellungen vor <rs type="pers" ana="n_84288" ref="#fk__p_43514">Franz Joseph</rs> berichtet werden (»<seg type="spc">Es ist<lb/>
+sehr schön</seg> — es hat mich sehr gefreut!), war ja sehr lustig und<lb/>
+satirisch, aber ich meine, die <rs type="pers" ana="n_84289" ref="#fk__p_45327">Habsburger</rs> gehören nun einmal überhaupt<lb/>
+ nicht in den »<rs type="title">Sommernachtstraum</rs>«.<lb/>
+</p>
+            <p ana="pr137367">
+<rs type="pers" ana="n_84290" ref="#fk__p_56377"><seg type="insult"><abbr>O. K.</abbr></seg></rs> hat Sinn für das <seg type="insult">Kindertümliche</seg>. Aber dafür scheint ihm<lb/>
+für das <seg type="insult">Greisentümliche</seg> das Ohr zu fehlen. Wie wäre dieses<lb/>
+Zitat sonst möglich? Und wie setzen sich Theatereindrücke in einem<lb/>
+<seg type="insult">Kopfe</seg> um, der <seg type="insult">das sozusagen geflügeltste Wort des österreichischen<lb/>
+Lebens</seg> in solcher Gestalt bewahrt? Wenn <seg type="insult">ein Untertan <rs type="pers" ana="n_84291" ref="#fk__p_43514">Franz Josephs</rs></seg><lb/>
+dessen <seg type="insult">siebzigjährigen Regierungsschlaf</seg> aus <seg type="insult">Pietät</seg> fortsetzte und<lb/>
+nicht zu derwecken wäre — könnte er noch immer eher daraus<lb/>
+die Worte sprechen: »Es war sehr schön, es freut mich sehr.«<lb/>
+Und weiß Gott, eher könnte einer zitieren: »Im Anfang ist das<lb/>
+Wort«, als jenes, dessen zufriedene Quittung unser Ende bedeutet<lb/>
+hat, so zu zitieren. Ich bin ja gewiß einer, ders mit dem Worttümlichen<lb/>
+ überspannt; aber wie an <seg type="insult">dem schlichten Sätzchen</seg>, in<lb/>
+dem unser ganzes Gedeih und Verderb enthalten ist, noch etwas<lb/>
+verdorben werden kann, das nur zu erraten setzt eine Phantasie<lb/>
+voraus, die fast an jene hinanreicht, die es trifft. Doch offenbar<lb/>
+gibt es im Bereich der literarischen Darstellung keinen noch so<lb/>
+übersichtlichen Sachverhalt, an dem nicht ein <seg type="insult">Loibusch</seg> <SPAN sug="(undefined)">verbroigt</SPAN><lb/>
+werden könnte.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_45327">
+               <persName>Habsburg</persName>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/17702</idno></person>
+            <person xml:id="fk__p_43514">
+               <persName>Franz Joseph I., Kaiser</persName>
+               <birth>
+                  <date>1830-8-18</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1916-11-21</date>
+                  <place>Wien</place>
+               </death>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15150</idno></person>
+            <person xml:id="fk__p_56377">
+               <persName>König, Otto</persName>
+               <birth>
+                  <date>1881-5-12</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1955-9-13</date>
+                  <place>Klosterneuburg</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Volksbildner</occupation>
+               <note type="comment">795/24 Verwechslungskritiker der AZ</note>
+               <note type="comment">Red. der AZ</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12019</idno></person>
+            </listPerson></back></text>
+</TEI>

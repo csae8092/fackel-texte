@@ -1,0 +1,100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_04302.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04301.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04303.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Mytholog. (Ein Musikkritiker), in: Fackel Heft 08, Nr. 212, 1906, S. 25-25</title>
+            <title type="iso-date">1906-11-23</title>
+            <title type="id">tid_04302</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">08</title><title type="heft">212</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-08-212_n0025.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/212,025</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Mytholog. (Ein Musikkritiker)</head>
+            <p ana="pr46810">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="name_203622" ref="#fk__p_60681">Mytholog</rs>.</seg></seg></seg> Im ‚<rs type="paper" ana="werk_14914">Neuen Wiener Journal</rs>‘ schreibt jetzt <seg type="insult">Herr <rs type="pers" ana="n_37730" ref="#fk__p_45747">Reinhardt<lb/>
+</rs>, der Komponist des »<rs type="title">Süßen <foreign xml:lang="de-loc">Mädels</foreign></rs>«</seg>, Musikkritiken. Er schreibt:<lb/>
+»Völlig kalt ließ die <rs type="title">E-dur-Rhapsodie</rs>. <rs type="pers" ana="n_37731" ref="#fk__p_40514">Dohnanyi</rs> begnügte sich damit,<lb/>
+sie ziemlich ausdruckslos herunterzuspielen.« Wahrscheinlich so ausdruckslos<lb/>
+, daß <seg type="insult">Herr <rs type="pers" ana="n_37732" ref="#fk__p_45747">Reinhardt</rs></seg> gar nicht wahrnahm, daß es die <RS pers="Franz Liszt"><rs type="title" ana="name_204000" ref="#fk__p_43534">Es-dur-Rhapsodie<lb/>
+</rs></RS> sei, und den Druckfehler des Konzertprogramms<lb/>
+getrost abschrieb. <seg type="insult">Herr <rs type="pers" ana="n_37733" ref="#fk__p_45747">Reinhardt</rs></seg> schreibt Musikkritiken. Fachleute<lb/>
+behaupten, daß dies ein großer Skandal sei. Möglich. Sicher aber ist,<lb/>
+daß sich <seg type="insult">Herr <rs type="pers" ana="n_37734" ref="#fk__p_45747">Reinhardt</rs></seg> durch einen einzigen Satz, den ich zitieren<lb/>
+will, bekannter machen wird, als seine sämtlichen Kollegen. Er war am<lb/>
+<date>30. Oktober</date> in seinem Referat über das <rs type="event">erste philharmonische Konzert</rs><lb/>
+zu lesen und lautet: »Was (in der Wiener Musiksaison) früher kommt,<lb/>
+bedeutet ein unverhofftes <seg type="spc">Geschenk</seg>, das freilich in weitaus den<lb/>
+meisten Fällen <seg type="spc"><rs type="pers">Danaë</rs> zu spenden pflegt</seg>.« Selbst in jenen Jahren,<lb/>
+in denen man noch mit hölzernen Pferden zu spielen pflegt, weiß man<lb/>
+gemeiniglich, was ein <rs type="pers">Danaergeschenk</rs> bedeutet; dann liest man <rs type="pers" ana="n_37735" ref="#fk__p_54849">Vergil</rs><lb/>
+und später allerdings das ‚<rs type="paper" ana="werk_14915">Neue Wiener Journal</rs>‘.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_43534">
+               <persName>Liszt, Franz von</persName>
+               <birth>
+                  <date>1811-10-22</date>
+                  <place>Raiding</place>
+               </birth>
+               <death>
+                  <date>1886-7-31</date>
+                  <place>Bayreuth</place>
+               </death>
+               <occupation>Pianist</occupation>
+               <occupation>Komponist</occupation>
+               <note type="comment">1859 geadelt</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17593</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/8679</idno></person>
+            <person xml:id="fk__p_60681">
+               <persName>Mytholog</persName>
+               <note type="comment"/>
+            </person>
+            <person xml:id="fk__p_40514">
+               <persName>Dohnányi, Ernst von</persName>
+               <birth>
+                  <date>1877-7-27</date>
+                  <place>Preßburg</place>
+               </birth>
+               <death>
+                  <date>1960-2-9</date>
+                  <place>New York</place>
+               </death>
+               <occupation>Pianist</occupation>
+               <occupation>Komponist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11165</idno></person>
+            <person xml:id="fk__p_45747">
+               <persName>Reinhardt, Heinrich</persName>
+               <birth>
+                  <date>1865-4-13</date>
+                  <place>Pressburg</place>
+               </birth>
+               <death>
+                  <date>1922-1-31</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Komponist</occupation>
+               <occupation>Musikschriftsteller</occupation>
+               <note type="comment">"Das süße Mädel" 118/31</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12501</idno></person>
+            <person xml:id="fk__p_54849">
+               <persName>Vergil</persName>
+               <birth>
+                  <date>70-10-15</date>
+                  <place>Andes (bei Mantua)</place>
+               </birth>
+               <death>
+                  <date>19-9-21</date>
+                  <place>Brundisium (Brindisi)</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

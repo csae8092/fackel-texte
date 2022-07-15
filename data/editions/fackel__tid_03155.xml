@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03155.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03154.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03156.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ohrenzeuge. (Die letzten Worte Schönekl’s), in: Fackel Heft 05, Nr. 138, 1903, S. 24-24</title>
+            <title type="iso-date">1903-05-20</title>
+            <title type="id">tid_03155</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">05</title><title type="heft">138</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-05-138_n0024.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/138,024</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ohrenzeuge. (Die letzten Worte Schönekl’s)</head>
+            <p ana="pr30908">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_26841" key="#fk__p_50804">Ohrenzeuge</rs>.</seg></seg> Ueber die letzten Worte des Raubmörders <rs type="pers" ana="n_26842" ref="#fk__p_53017">Schönekl</rs><lb/>
+war in Wien eine ganz falsche Version verbreitet. Die Zeitungen gefielen<lb/>
+sich in der frivolen Andeutung, daß der Delinquent einen Satz gemurmelt<lb/>
+habe, von dem nur die erste Silbe: »<SPAN sug="(undefined)">Le....</SPAN> « verständlich gewesen<lb/>
+sei. Nun versichern Sie mir, daß sich der Vorgang viel harmloser<lb/>
+abgespielt hat, als <seg type="insult">die sensationslüsternen Reporter der großen Blätter</seg><lb/>
+ihn darzustellen für gut befunden haben. Man muß nicht hinter allem<lb/>
+eine <seg type="insult">Schweinerei</seg> vermuthen. <rs type="pers" ana="n_26843" ref="#fk__p_53017">Schönekl</rs> wollte nichts weiter sagen als<lb/>
+»<seg type="spc">Lesen Sie die</seg> ‚<rs type="paper" ana="werk_11600"><seg type="spc">Zeit</seg></rs>‘!« <seg type="symbol" subtype="3dots"/> <seg type="insult">Ein publicistischer Erfolg seltener Art</seg>, den<lb/>
+natürlich die der ‚<rs type="paper" ana="werk_11601">Zeit</rs>‘ feindliche Wiener Presse todtschweigen mußte.<lb/>
+Wie <seg type="insult">Professor <rs type="pers" ana="n_26844" ref="#fk__p_46524">Singer</rs></seg> die <seg type="insult">sinnige Reclame</seg> ins Werk gesetzt hat, wird<lb/>
+ein ewiges Räthsel bleiben. Vielleicht hat er bloß die Stimmung<lb/>
+<rs type="pers" ana="n_26845" ref="#fk__p_53017">Schönekls</rs>, <seg type="insult">des mit der Welt und dem ‚<rs type="" ana="werk_11602">Extrablatt</rs>‘ Zerfallenen</seg>, geschickt<lb/>
+auszunützen verstanden und dem Delinquenten sein <rs type="paperRef" ana="werk_11603">Blatt</rs> in die Armensünderzelle<lb/>
+ geschickt. Unter dem Eindruck <seg type="insult">dieser Lectüre</seg> sprach dann<lb/>
+<rs type="pers" ana="n_26846" ref="#fk__p_53017">Schönekl</rs> <seg type="insult">die denkwürdigen Worte</seg>, deren erste Silbe Fernerstehenden allerdings<lb/>
+ wie der Anfang <seg type="insult">einer populäreren Zumuthung</seg> klingen mußte.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46524">
+               <persName>Singer, Isidor</persName>
+               <birth>
+                  <date>1857-01-16</date>
+                  <place>Pest</place>
+               </birth>
+               <death>
+                  <date>1927-12-08</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Nationalökonom</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12790</idno></person>
+            <person xml:id="fk__p_53017">
+               <persName>Schönekl, Anton</persName>
+               <birth>
+                  <date>1873?</date>
+               </birth>
+               <death>
+                  <date>1903-4-25</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Messerschmiedgehilfe</occupation>
+               <occupation>Mörder</occupation>
+               <note type="comment">letzte Wort des Raubmörders Schönekl (das Götz-Zitat)</note>
+               <note type="comment">Mörder der greisen Trafikantin Jüllich von Julienthal am 09.08.1902</note>
+               <note type="comment"/>
+            </person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,48 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_09107.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09106.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09108.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ebenda, 22. Dezember, halb 8 Uhr:, in: Fackel Heft 23, Nr. 588, 1922, S. 65-65</title>
+            <title type="iso-date">1922-03-01</title>
+            <title type="id">tid_09107</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">23</title><title type="heft">588</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-23-588_n0065.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/588,065</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ebenda, 22. Dezember, halb 8 Uhr:</head>
+            <p ana="pr121477">
+<space/>Ebenda, <date>22. Dezember</date>, halb 8 Uhr:<lb/>
+</p>
+            <p ana="pr121478">
+<space/>I. <rs type="pers" ana="n_74411" ref="#fk__p_46960">Goethe</rs>: <rs type="title"><rs type="pers">Helena</rs></rs>.<lb/>
+</p>
+            <p ana="pr121479">
+<space/>II. <rs type="title">Es werde Licht</rs> / <rs type="title">Ich habe einen Blick gesehn</rs> / <rs type="title">Der sterbende<lb/>
+Soldat</rs> / <rs type="title">Der Bauer, der Hund und der Soldat</rs> / <rs type="title">Verlöbnis</rs> / <rs type="title"><rs type="pers">Eros</rs><lb/>
+und der Dichter</rs> / <rs type="title">Sendung</rs> / <rs type="title">Todesfurcht</rs> / <rs type="title">Silvesterruf an die Welt</rs>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46960">
+               <persName>Goethe, Johann Wolfgang von</persName>
+               <birth>
+                  <date>1749-8-28</date>
+                  <place>Frankfurt am Main</place>
+               </birth>
+               <death>
+                  <date>1832-3-22</date>
+                  <place>Weimar</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">890/142f.</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11461</idno></person>
+            </listPerson></back></text>
+</TEI>

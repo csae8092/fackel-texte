@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07245.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07244.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07246.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Die Provinz will nicht zurückstehen, in: Fackel Heft 18, Nr. 426, 1916, S. 77-78</title>
+            <title type="iso-date">1916-06-01</title>
+            <title type="id">tid_07245</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">18</title><title type="heft">426</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-18-426_n0077.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/426,077</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Die Provinz will nicht zurückstehen</head>
+            <p ana="pr98013">
+<B>Operettenlibretti</B><lb/>
+</p>
+            <p ana="pr98014">
+mit <seg type="spc">herrlicher Poesie</seg> und <seg type="spc">lebenskräftiger<lb/>
+ Prosa</seg> und <seg type="spc">fascinierenden<lb/>
+Handlungen</seg> an tüchtige Komponisten<lb/>
+zu vergeben. Gefällige Zuschriften an<lb/>
+<B><seg type="spc"><rs type="pers" ana="n_65038" key="#fk__p_56596">Hans Müller</rs></seg>, <seg type="spc">Linz</seg>,</B> <abbr>Walterstr.</abbr> 2, 2. Stock.<lb/>
+</p>
+            <p ana="pr98016">
+<space/>Ja, hat denn jetzt jede Landeshauptstadt <seg type="insult">ihren <rs type="pers" ana="n_65039" ref="#fk__p_45448">Hans Müller</rs></seg>?<lb/>
+Da soll man nur beizeiten dazu schauen, daß nicht wieder dereinst,<lb/>
+wie beim <rs type="pers" ana="n_65040" ref="#fk__p_46243">Homer</rs>, ein Zuständigkeitskonflikt ausbricht!<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46243">
+               <persName>Homer</persName>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2495</idno></person>
+            <person xml:id="fk__p_45448">
+               <persName>Müller, Hans</persName>
+               <birth>
+                  <date>1882-10-25</date>
+                  <place>Brünn</place>
+               </birth>
+               <death>
+                  <date>1950-3-8</date>
+                  <place>Einigen/Thunersee</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12327</idno></person>
+            </listPerson></back></text>
+</TEI>

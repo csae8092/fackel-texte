@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03293.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03292.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03294.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lakai. (Leopold von Belgien), in: Fackel Heft 05, Nr. 145, 1903, S. 30-30</title>
+            <title type="iso-date">1903-10-28</title>
+            <title type="id">tid_03293</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">05</title><title type="heft">145</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-05-145_n0030.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/145,030</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Lakai. (Leopold von Belgien)</head>
+            <p ana="pr32524">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="n_28084" ref="#fk__p_48545">Lakai</rs>.</seg></seg></seg> Auch die Anwesenheit <seg type="insult"><rs type="pers" ana="n_28085" ref="#fk__p_48027">Leopolds von Belgien</rs>, eines der<lb/>
+zweifelhaftesten Monarchen Europas</seg>, hat die <seg type="insult">Zeremonialschmöcke</seg> in<lb/>
+Verwirrung gebracht. Über die wichtigsten Details konnte man keine<lb/>
+verläßliche Auskunft erhalten. In dem Bericht der ‚<rs type="paper" ana="werk_12213">Neuen Freien Presse</rs>‘<lb/>
+(Abendblatt vom <date>17. Oktober</date>) hieß es <abbr>z. B.</abbr>: »Nach wenigen Minuten schritten<lb/>
+die Monarchen dem Ausgange zu und begaben sich durch das Vestibül<lb/>
+des Hofsalons zu dem vor dem Bahnhofportal wartenden <seg type="spc">offenen Hofwagen<lb/>
+</seg>, der über die Mariahilferstraße hinab zur Hofburg fuhr <seg type="symbol" subtype="3dots"/><lb/>
+Während der Fahrt in die Burg bekamen die wenigsten aus dem Publikum<lb/>
+den König der Belgier zu Gesicht, der sich in der <seg type="spc">geschlossenen<lb/>
+Equipage</seg> tief in den Fond zurücklehnte <seg type="symbol" subtype="3dots"/>« Offen oder geschlossen?<lb/>
+Bei <seg type="insult">Herz und Börse von <rs type="pers" ana="n_28086" ref="#fk__p_48295">Stefaniens</rs> Vater</seg> gibt’s weniger Zweifel.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_48027">
+               <persName>Leopold II., König von Belgien</persName>
+               <birth>
+                  <date>1835-04-09</date>
+                  <place>Brüssel</place>
+               </birth>
+               <death>
+                  <date>1909-12-17</date>
+                  <place>Laeken</place>
+               </death>
+               <occupation/>
+            </person>
+            <person xml:id="fk__p_48545">
+               <persName>Lakai</persName>
+            </person>
+            <person xml:id="fk__p_48295">
+               <persName>Stefanie, Prinzessin von Belgien</persName>
+               <birth>
+                  <date>1864-5-21</date>
+                  <place>Schloß Laeken</place>
+               </birth>
+               <death>
+                  <date>1945-8-23</date>
+                  <place>Panonhalma, Ungarn</place>
+               </death>
+               <note type="comment">50. Geburtstag, NFP 22.05.1914, Seite 7</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

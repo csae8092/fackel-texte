@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_09931.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09930.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09932.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ein Stimmungskünstler, in: Fackel Heft 26, Nr. 668, 1924, S. 16-17</title>
+            <title type="iso-date">1924-12-01</title>
+            <title type="id">tid_09931</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">26</title><title type="heft">668</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-26-668_n0016.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/668,016</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ein Stimmungskünstler</head>
+            <p ana="pr134931">
+<space/>Die meisten Depeschen <rs type="pers" ana="n_82666" ref="#fk__p_43514">Franz Josephs</rs> an die <rs type="pers" ana="n_82667" ref="#fk__p_42522">Kaiserin<lb/>
+Elisabeth</rs>, die jetzt eine glückliche Hand ans Tageslicht gebracht<lb/>
+hat, beschränken sich auf sachliche Anfragen und <seg type="insult">gehaltvolle<lb/>
+Feststellungen</seg> wie etwa:<lb/>
+</p>
+            <p ana="pr134933">
+<seg type="symbol" subtype="3dots"/> Wie geht es Dir und was hörest Du von <rs type="pers" ana="n_82668" ref="#fk__p_57099">Valerie</rs>? <seg type="symbol" subtype="3dots"/> Wie<lb/>
+geht es Euch? <seg type="symbol" subtype="3dots"/> Wann kommt Ihr nach Schönbrunn? <seg type="symbol" subtype="3dots"/> Es<lb/>
+geht uns allen gut und ich umarme Dich herzlichst <seg type="symbol" subtype="3dots"/> Schönes, sehr<lb/>
+warmes Wetter <seg type="symbol" subtype="3dots"/> Wetter besser, aber kalt und noch regnerisch <seg type="symbol" subtype="3dots"/><lb/>
+</p>
+            <p ana="pr134935">
+Da kann man denn der <seg ana="Neuen Freien Presse"/> die <seg type="insult">starke Impression</seg><lb/>
+nachfühlen, die sie in dem folgenden Ausnahmsfall empfunden hat:<lb/>
+</p>
+            <p ana="pr134937">
+<space/><seg type="spc">Sehr stimmungsvoll</seg> ist die Depesche an seine in Miramar<lb/>
+weilende Gattin:<lb/>
+</p>
+            <p ana="pr134939">
+<space/>Glücklich in Landskron eingetroffen bei herrlichem Wetter, sind<lb/>
+meine Gedanken bei Dir und begleiten Dich auf der blauen See.<lb/>
+</p>
+            <p ana="pr134940">
+<rs type="pers" ana="n_82669" ref="#fk__p_43514"><AUCTOR notation="abbr"><abbr>Fj.</abbr></AUCTOR></rs><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_42522">
+               <persName>Elisabeth von Österreich, geb. Prinzessin von Bayern</persName>
+               <birth>
+                  <date>1837-12-24</date>
+                  <place>München</place>
+               </birth>
+               <death>
+                  <date>1898-9-10</date>
+                  <place>Genf</place>
+               </death>
+               <occupation>Kaiserin</occupation>
+               <occupation>Königin</occupation>
+            </person>
+            <person xml:id="fk__p_43514">
+               <persName>Franz Joseph I., Kaiser</persName>
+               <birth>
+                  <date>1830-8-18</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1916-11-21</date>
+                  <place>Wien</place>
+               </death>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15150</idno></person>
+            <person xml:id="fk__p_57099">
+               <persName>Marie Valerie, Erzherzogin</persName>
+               <birth>
+                  <date>1868-4-22</date>
+                  <place>Ofen</place>
+               </birth>
+               <death>
+                  <date>1924-9-6</date>
+                  <place>Schloß Wallsee</place>
+               </death>
+               <occupation>Erzherzogin</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17886</idno></person>
+            </listPerson></back></text>
+</TEI>

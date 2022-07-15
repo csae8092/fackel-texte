@@ -1,0 +1,42 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_11342.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11341.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11343.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ebenda, 3. April, 8 Uhr:, in: Fackel Heft 32, Nr. 834, 1930, S. 30-30</title>
+            <title type="iso-date">1930-05-01</title>
+            <title type="id">tid_11342</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">32</title><title type="heft">834</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-32-834_n0030.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/834,030</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ebenda, 3. April, 8 Uhr:</head>
+            <p ana="pr165082">
+<space/>Ebenda, <date>3. April</date>, 8 Uhr:<lb/>
+</p>
+            <p ana="pr165083">
+<space/><RS pers="William Shakespeare"><rs type="title" ana="name_202959" ref="#fk__p_55589"><rs type="pers"><seg type="spc">König Lear</seg></rs></rs></RS><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_55589">
+               <persName>Shakespeare, William</persName>
+               <birth>
+                  <date>1564-4-23?</date>
+                  <place>Stratford-upon-Avon</place>
+               </birth>
+               <death>
+                  <date>1616-4-23</date>
+                  <place>Stratford-upon-Avon</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2412</idno></person>
+            </listPerson></back></text>
+</TEI>

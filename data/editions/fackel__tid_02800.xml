@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02800.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02799.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02801.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Wir, in: Fackel Heft 04, Nr. 123, 1902, S. 21-21</title>
+            <title type="iso-date">1902-12-11</title>
+            <title type="id">tid_02800</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">04</title><title type="heft">123</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-04-123_n0021.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/123,021</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Wir</head>
+            <p ana="pr27473">
+<space/><inciptit>Wohin</inciptit> doch <seg type="insult">der geheimnisvoll-blöde <SPAN cont="Wir-Ton">»Wir«-Ton</SPAN> der Pressmajestät<lb/>
+</seg> führt! <seg type="insult">Herr <rs type="pers" ana="n_23725" ref="#fk__p_43866">Schütz</rs></seg> bespricht am <date>7. December</date> in der<lb/>
+‚<rs type="paper" ana="werk_9728">Neuen Freien Presse</rs>‘ die Aufführung von <rs type="pers" ana="n_23726" ref="#fk__p_45949">Sudermann’s</rs> »<rs type="title"><rs type="pers">Johannes</rs></rs>«,<lb/>
+verweist auf seine früher erschienene Recension des Buches und<lb/>
+schreibt: »<seg type="spc">Wir</seg> citieren den Satz aus einer Besprechung des<lb/>
+<seg type="spc">Schreibers dieser Zeilen</seg>, die vor längerer Zeit in der ‚<rs type="paper" ana="werk_9729">Neuen<lb/>
+Freien Presse</rs>‘ enthalten war.« Bisher wurde immer die Fiction<lb/>
+festgehalten, <seg type="insult">»wir«</seg> seien <seg type="insult">eine mystisch verborgene Vielheit</seg>. Aber<lb/>
+jetzt kommt heraus, daß es <seg type="insult">ein schlichter »Schreiber dieser Zeilen«</seg><lb/>
+ist. Wie wäre <rs type="pers" ana="n_23727" ref="#fk__p_38501">Schopenhauer</rs> überrascht!<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_38501">
+               <persName>Schopenhauer, Arthur</persName>
+               <birth>
+                  <date>1788-2-22</date>
+                  <place>Danzig</place>
+               </birth>
+               <death>
+                  <date>1860-9-21</date>
+                  <place>Frankfurt am Main</place>
+               </death>
+               <occupation>Philosoph</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/5787</idno></person>
+            <person xml:id="fk__p_45949">
+               <persName>Sudermann, Hermann</persName>
+               <birth>
+                  <date>1857-9-30</date>
+                  <place>Matziken, Memelland</place>
+               </birth>
+               <death>
+                  <date>1928-11-21</date>
+                  <place>Berlin</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">während seines Studiums als Hauslehrer bei Hans Hopfen und im Hause eines Bankiers tätig</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12899</idno></person>
+            <person xml:id="fk__p_43866">
+               <persName>Schütz, Friedrich</persName>
+               <birth>
+                  <date>1844-4-20</date>
+                  <place>Prag</place>
+               </birth>
+               <death>
+                  <date>1908-12-22</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">18., Anton Frankgasse 18</note>
+               <note type="comment">ÖBL: geb. 24. 04. 1844</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_19921</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2583</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_10805.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10804.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10806.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Einer, der das alte Burgtheater gekannt hat, in: Fackel Heft 28, Nr. 751, 1927, S. 25-26</title>
+            <title type="iso-date">1927-02-01</title>
+            <title type="id">tid_10805</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">28</title><title type="heft">751</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-28-751_n0025.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/751,025</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Einer, der das alte Burgtheater gekannt hat</head>
+            <p ana="pr150409">
+und <seg type="insult">Herrn <rs type="pers" ana="n_90195" ref="#fk__p_49914">Devrient</rs></seg> für <seg type="insult">eine letzte Säule</seg> hält:<lb/>
+</p>
+            <p ana="pr150411">
+Neben Frau <rs type="pers" ana="n_90196" ref="#fk__p_46412">Rolands</rs> Modernität spricht <rs type="pers" ana="n_90197" ref="#fk__p_49914">Devrient</rs> <seg type="spc">die berühmte<lb/>
+Erzählung</seg> von <rs type="pers">Hippolyths</rs> Ende, <seg type="spc">wie es tremolierende Sitte<lb/>
+im alten <rs type="inst">Burgtheater</rs> gewesen sein mag — —</seg><lb/>
+</p>
+            <p ana="pr150413">
+<seg type="insult">Der Herr <rs type="pers" ana="n_90198" ref="#fk__p_50897">Fontana</rs></seg> hat eine Ahnung, was Sitte im alten <rs type="inst">Burgtheater<lb/>
+</rs> war und wie <rs type="pers" ana="n_90199" ref="#fk__p_47115">Lewinsky</rs> diese Erzählung, die einzig durch<lb/>
+ihn berühmte, gesprochen hat! Fällt der Jugend gar nicht ein, bei<lb/>
+dem Wort zu tremolieren, mit dem sie schnell fertig ist; denn<lb/>
+mit <seg type="insult">der schönen Unbefangenheit</seg> wäre doch alle Grundlage ihres<lb/>
+Theaterwissens <choice><sic>kaput</sic><corr>kaputt</corr></choice>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46412">
+               <persName>Roland, Ida</persName>
+               <birth>
+                  <date>1881-2-18</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1951-3-27</date>
+                  <place>Nyon (Schweiz)</place>
+               </death>
+               <occupation>Schauspielerin</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12540</idno></person>
+            <person xml:id="fk__p_47115">
+               <persName>Lewinsky, Josef</persName>
+               <birth>
+                  <date>1835-9-20</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1907-2-27</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12061</idno></person>
+            <person xml:id="fk__p_50897">
+               <persName>Fontana, Oskar Maurus</persName>
+               <birth>
+                  <date>1889-04-13</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1969-05-04</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/7193</idno></person>
+            <person xml:id="fk__p_49914">
+               <persName>Devrient, Max</persName>
+               <birth>
+                  <date>1858-12-12</date>
+                  <place>Hannover</place>
+               </birth>
+               <death>
+                  <date>1929-6-13</date>
+                  <place>Chur</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <occupation>Regisseur</occupation>
+               <note type="comment">1882-1929 Burgth., Ehrenmitglied</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2446</idno></person>
+            </listPerson></back></text>
+</TEI>

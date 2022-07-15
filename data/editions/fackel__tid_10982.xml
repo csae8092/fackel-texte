@@ -1,0 +1,97 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_10982.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10981.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10983.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ebenda, 4. Februar, ¼8 Uhr:, in: Fackel Heft 30, Nr. 781, 1928, S. 56-57</title>
+            <title type="iso-date">1928-06-01</title>
+            <title type="id">tid_10982</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">30</title><title type="heft">781</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-30-781_n0056.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/781,056</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ebenda, 4. Februar, ¼8 Uhr:</head>
+            <p ana="pr155349">
+<space/>Ebenda, <date>4. Februar</date>, ¼8 Uhr:<lb/>
+</p>
+            <p ana="pr155350">
+<space/>I. Zum 7. Mal<lb/>
+</p>
+            <p ana="pr155351">
+<space/><rs type="pers" ana="n_92790" ref="#fk__p_46919"><seg type="spc">Nestroy</seg></rs>: <rs type="title"><seg type="spc"><rs type="pers">Judith</rs> und <rs type="pers">Holofernes</rs></seg></rs>. Musik von <rs type="pers" ana="n_92791" ref="#fk__p_54913">Victor<lb/>
+Junk</rs> (Marsch und Entree des <rs type="pers">Joab</rs> nach der Originalmusik von<lb/>
+<rs type="pers" ana="n_92792" ref="#fk__p_39736">Carl Binder</rs>).<lb/>
+</p>
+            <p ana="pr155352">
+<space/>II. Zum 5. Mal<lb/>
+</p>
+            <p ana="pr155353">
+<space/><rs type="pers" ana="n_92793" ref="#fk__p_46919"><seg type="spc">Nestroy</seg></rs>: <rs type="title"><seg type="spc">Tritschtratsch</seg></rs>. Musik nach Angabe des Vortragenden<lb/>
+ (Lied der <rs type="pers">Kotton</rs> von <rs type="pers" ana="n_92794" ref="#fk__p_50021">Mechtilde Lichnowsky</rs>).<lb/>
+</p>
+            <p ana="pr155354">
+<space/>Zum erstenmal mit dem Entreelied der <rs type="pers">Babette</rs> (in der Melodie<lb/>
+der <rs type="pers">Kotton</rs>).<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_50021">
+               <persName>Lichnowsky, Mechtilde Fürstin, geb. Gräfin von und zu Arco-Zinneberg</persName>
+               <birth>
+                  <date>1879-3-8</date>
+                  <place>Schloß Schönburg</place>
+               </birth>
+               <death>
+                  <date>1958-6-4</date>
+                  <place>London</place>
+               </death>
+               <occupation>Schriftstellerin</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38988</idno></person>
+            <person xml:id="fk__p_54913">
+               <persName>Junk, Viktor</persName>
+               <birth>
+                  <date>1875-4-18</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1948-4-5</date>
+                  <place>Frohnleiten/Steiermark</place>
+               </death>
+               <occupation>Germanist</occupation>
+               <occupation>Musikwissenschaftler</occupation>
+            </person>
+            <person xml:id="fk__p_46919">
+               <persName>Nestroy, Johann Nepomuk</persName>
+               <birth>
+                  <date>1801-12-7</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1862-5-25</date>
+                  <place>Graz</place>
+               </death>
+               <occupation>Sänger</occupation>
+               <occupation>Schauspieler</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12338</idno></person>
+            <person xml:id="fk__p_39736">
+               <persName>Binder, Carl</persName>
+               <birth>
+                  <date>1816-11-29</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1860-11-05</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Komponist</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

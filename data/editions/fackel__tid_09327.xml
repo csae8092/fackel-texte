@@ -1,0 +1,115 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_09327.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09326.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09328.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Kleiner Konzerthaussaal, 5. November, 7 Uhr:, in: Fackel Heft 24, Nr. 608, 1922, S. 43-43</title>
+            <title type="iso-date">1922-12-01</title>
+            <title type="id">tid_09327</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">24</title><title type="heft">608</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-24-608_n0043.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/608,043</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Kleiner Konzerthaussaal, 5. November, 7 Uhr:</head>
+            <p ana="pr124099">
+<space/><rs type="inst">Kleiner Konzerthaussaal</rs>, <date>5. November</date>, 7 Uhr:<lb/>
+</p>
+            <p ana="pr124100">
+<space/><rs type="title"><seg type="spc">Der böse Geist <rs type="pers">Lumpazivagabundus</rs></seg> oder <seg type="spc">Das<lb/>
+liederliche Kleeblatt</seg></rs>, Zauberposse mit Gesang in drei<lb/>
+Akten von <rs type="pers" ana="n_76227" ref="#fk__p_46919"><seg type="spc">Johann Nestroy</seg></rs>. Musik von <rs type="pers" ana="n_76228" ref="#fk__p_37834">Adolph Müller <abbr>sen.</abbr></rs><lb/>
+</p>
+            <p ana="pr124101">
+<space/>Der volle Ertrag — einschließlich des Programmerlöses (mit<lb/>
+Nachlaß der halben Druckkosten), bei Provisionsverzicht der <rs type="inst">Kartenverkaufsstelle<lb/>
+ <rs type="pers" ana="n2_6977" ref="#fk__p_52185">Lányi</rs></rs> —: K 4,117<ADD>.</ADD>973 für die <rs type="inst">Reichsanstalt für <seg type="ELIDASH">Mutterfürsorge</seg><lb/>
+und Säuglingsfürsorge</rs> (XVIII., Glanzinggasse 37), das <rs type="inst">Mütterheim in<lb/>
+Ottakring</rs> (Bezirksvorsteher <rs type="pers" ana="n_76229" ref="#fk__p_46931">Johann Pollitzer</rs>, Richard Wagnerplatz 19),<lb/>
+das <rs type="inst">Haus des Kindes</rs> (durch »<rs type="inst">Die Bereitschaft</rs>«, I., Annagasse 18)<lb/>
+und für ehemalige <abbr>n.-ö.</abbr> Gemeindeärzte und deren Hinterbliebene<lb/>
+(<rs type="inst">Sammlung <rs type="pers" ana="n2_6978" ref="#fk__p_56269"><abbr>Dr.</abbr> Ziegler</rs></rs>, <rs type="inst"><abbr>n.-ö.</abbr> Landesregierung</rs>, I., Herrengasse 11).<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_37834">
+               <persName>Müller, Adolf sen.</persName>
+               <birth>
+                  <date>1807-10-7</date>
+                  <place>Tolna/Ungarn</place>
+               </birth>
+               <death>
+                  <date>1886-7-29</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <occupation>Kapellmeister</occupation>
+               <occupation>Komponist</occupation>
+               <note type="comment">Ögg erteilt ihm die Lebensdaten von Adolph Müller jun.</note>
+            </person>
+            <person xml:id="fk__p_56269">
+               <persName>Ziegler, Otto</persName>
+               <birth>
+                  <date>1877-12-2</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1967-9-26</date>
+                  <place>Neunkirchen</place>
+               </death>
+               <occupation>Beamter</occupation>
+               <note type="comment">Oberamtsrat Dr. Ziegler, Niederöst. Landesregierung, 1., Herrengasse 13 (1925)</note>
+               <note type="comment">8., Albertgasse 33</note>
+            </person>
+            <person xml:id="fk__p_52185">
+               <persName>Lányi, Richard</persName>
+               <birth>
+                  <date>1884-12-9</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1942-5-28</date>
+                  <place>Konzentrationslager Auschwitz</place>
+               </death>
+               <occupation>Buchhändler</occupation>
+               <occupation>Verleger</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/20707</idno></person>
+            <person xml:id="fk__p_46919">
+               <persName>Nestroy, Johann Nepomuk</persName>
+               <birth>
+                  <date>1801-12-7</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1862-5-25</date>
+                  <place>Graz</place>
+               </death>
+               <occupation>Sänger</occupation>
+               <occupation>Schauspieler</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12338</idno></person>
+            <person xml:id="fk__p_46931">
+               <persName>Pollitzer, Johann</persName>
+               <birth>
+                  <date>1871-10-2</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1965-11-12</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Eisendreher</occupation>
+               <occupation>Politiker</occupation>
+               <note type="comment">16., Richard Wagner-Platz 19</note>
+               <note type="comment">Friedhof Ottakring 2/16 (bis 30.10.2011)</note>
+               <note type="comment">dasrotewien.at: gest. 1961</note>
+               <note type="comment">Bezirksvorsteher 16. Bezirk</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

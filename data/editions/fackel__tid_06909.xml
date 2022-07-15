@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06909.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06908.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06910.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Programm), in: Fackel Heft 16, Nr. 405, 1915, S. 4-5</title>
+            <title type="iso-date">1915-02-01</title>
+            <title type="id">tid_06909</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">16</title><title type="heft">405</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-16-405_n0004.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/405,004</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Programm)</head>
+            <p ana="pr92739">
+<space/>Die dritte Vorlesung, die am <date>13. Februar</date> im <rs type="inst">Kleinen<lb/>
+Musikvereinssaal</rs> stattfand und deren voller Reinertrag (587 Kronen<lb/>
+85 Heller) der Fürsorge für erblindete und invalide Soldaten<lb/>
+gewidmet wurde, hatte das folgende Programm:<lb/>
+</p>
+            <p ana="pr92740">
+<space/>I. Anrede (<rs type="title"><seg type="insult">Der Ernst der Zeit</seg> und die Satire der Vorzeit</rs>) /<lb/>
+<rs type="title"><rs type="pers" ana="n2_5552" ref="#fk__p_39266">Bismarck</rs> und die Presse</rs>; <rs type="title">Die Presse und <rs type="pers" ana="n2_5553" ref="#fk__p_39266">Bismarck</rs></rs>; <rs type="title"><seg type="insult">Bekenntnis eines<lb/>
+Journalisten</seg></rs>; <rs type="title">Und in Kriegszeiten</rs>; <rs type="title"><seg type="insult">Ischl und die Umgebung</seg></rs>.<lb/>
+II. <rs type="title"><seg type="insult">Aus dem dunkelsten Österreich</seg></rs>; <rs type="title"><seg type="insult">Auf der Suche nach Fremden</seg></rs>;<lb/>
+<rs type="title"><seg type="insult">Schlichte Worte</seg></rs>; <rs type="title"><seg type="insult">Ein Satz</seg></rs>; <rs type="title">Der Deutlichkeit halber</rs>; <rs type="title">Wir haben<lb/>
+es besser</rs>; <rs type="title">Das Grauen wächst</rs>; <rs type="title">Eine Schiffskatastrophe — wer ist<lb/>
+gerettet?</rs>; <rs type="title"><seg type="insult">Wiener Faschingsleben <date>1913</date></seg></rs>; <rs type="title">Jetzt ist die Zeit</rs>. III. <rs type="title">Der<lb/>
+kleine <rs type="title"><rs type="pers" ana="n2_5554" ref="#fk__p_57616">Brockhaus</rs></rs></rs>; <rs type="title">Vision vom <seg type="insult">Wagentürlaufmacher</seg></rs>; <rs type="title">Mein Weltuntergang<lb/>
+</rs>; <rs type="title">Ein <seg type="insult">Ruf</seg>, der bis ans Ende der Zeit dringt</rs>. — <rs type="title"><seg type="insult">Ein Tag aus<lb/>
+der großen Zeit</seg></rs>.<lb/>
+</p>
+            <p ana="pr92741">
+<space/>Die Anrede bildet den Schluß dieses <rs type="selfRef" ana="werk_41369">Heftes</rs>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_39266">
+               <persName>Bismarck, Otto Eduard Leopold Fürst</persName>
+               <birth>
+                  <date>1815-04-01</date>
+                  <place>Schönhausen</place>
+               </birth>
+               <death>
+                  <date>1898-07-30</date>
+                  <place>Friedrichsruh</place>
+               </death>
+               <occupation>Politiker</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13749</idno></person>
+            <person xml:id="fk__p_57616">
+               <persName>Brockhaus, F. A. (Verlag)</persName>
+               <note type="comment">in Leipzig</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

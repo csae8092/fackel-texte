@@ -1,0 +1,46 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01647.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01646.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01648.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">[Wilhelm Jordan:] (Mitteilung eines Gutachtens zum Bahrprozeß durch seine Tochter), in: Fackel Heft 02, Nr. 069, 1901, S. 31-31</title>
+            <title type="iso-date">1901-02-01</title>
+            <title type="id">tid_01647</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">069</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-069_n0031.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/069,031</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>[Wilhelm Jordan:] (Mitteilung eines Gutachtens zum Bahrprozeß durch seine Tochter)</head>
+            <p ana="pr16209">
+<space/><rs type="pers" ana="n_13584" ref="#fk__p_55520">Wilhelm <seg type="spc">Jordan</seg></rs> (Frankfurt) ließ mir am <date>16. Februar</date> durch<lb/>
+seine Tochter mittheilen, dass er meinen Wunsch, seine Meinung<lb/>
+zu hören, nicht erfüllen könne, weil er sich principiell allen ähnlichen<lb/>
+ Anfragen gegenüber nicht ausgesprochen habe. »Er kann<lb/>
+sich«, schrieb Fräulein <rs type="pers" ana="n_13585" key="#fk__p_42667">Emma Jordan</rs>, »nun, bei 82 Jahren, gar nicht<lb/>
+entschließen, von seiner Gewohnheit abzugehen, selbst wenn er im<lb/>
+Ganzen <seg type="spc">Ihren Ansichten nicht entgegensteht</seg>.«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_55520">
+               <persName>Jordan, Wilhelm</persName>
+               <birth>
+                  <date>1819-02-08</date>
+                  <place>Insterburg</place>
+               </birth>
+               <death>
+                  <date>1904-06-25</date>
+                  <place>Frankfurt</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/53280</idno></person>
+            </listPerson></back></text>
+</TEI>

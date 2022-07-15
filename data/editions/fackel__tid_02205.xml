@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02205.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02204.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02206.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Eine Gedächtnisprobe, in: Fackel Heft 03, Nr. 093, 1902, S. 29-29</title>
+            <title type="iso-date">1902-02-4</title>
+            <title type="id">tid_02205</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">03</title><title type="heft">093</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-03-093_n0029.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/093,029</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Eine Gedächtnisprobe</head>
+            <p ana="pr21479">
+<space/>»<QUOTE rn="1" sourceID="FK-03-093_n0029_a"><seg type="spc">Man erinnere sich</seg>, was sich <rs type="pers" ana="n_18749" ref="#fk__p_42287"><seg type="spc">Goncourt</seg></rs> einmal aus<lb/>
+den Mittheilungen eines Gelehrten über die <seg type="spc">chinesische</seg> Sprache,<lb/>
+an die sich ja die japanische wesentlich anlehnen soll, <seg type="spc">notiert</seg><lb/>
+hat: sie bestehe eigentlich nur aus dem <foreign xml:lang="fr">choc des idées, avec la suppression<lb/>
+ ou la sévère abreviation de <seg type="insult">toutes les inutilités des langues<lb/>
+occidentales</seg></foreign>.</QUOTE>«<lb/>
+</p>
+            <p ana="pr21481">
+<space/>Also schrieb <seg type="insult"><rs type="pers" ana="n_18750" ref="#fk__p_45908">Hermann Bahr</rs></seg> in einem Feuilleton über <rs type="pers" ana="n_18751" ref="#fk__p_52677">Sada<lb/>
+Yacco</rs>. <seg type="insult">Das mnemotechnische Experiment</seg>, das da mit <seg type="insult">den Abnehmern<lb/>
+ des <seg ana="Steyrermühlblattes"/></seg> angestellt wurde, soll missglückt<lb/>
+sein. Die ältesten Leute konnten sich <seg type="spc">nicht</seg> erinnern <seg type="symbol" subtype="5dots"/><lb/>
+<seg type="insult">»Kenner«</seg> versichern übrigens, dass selbst <rs type="pers" ana="n_18752" ref="#fk__p_45908">Bahr</rs> sich nicht erinnert<lb/>
+hätte, was sich <rs type="pers" ana="n_18753" ref="#fk__p_42287">Goncourt</rs> einmal aus den Mittheilungen eines Gelehrten<lb/>
+ über die chinesische Sprache notiert hat, wenn er durch<lb/>
+die Ankündigung des Gastspiels der <rs type="pers" ana="n_18754" ref="#fk__p_52677">Sada Yacco</rs> nicht daran<lb/>
+erinnert worden wäre, bei <rs type="pers" ana="n_18755" ref="#fk__p_42287">Goncourt</rs> nachzuschauen und sich alles,<lb/>
+was sich, wenn schon nicht auf die japanische, so doch wenigstens<lb/>
+auf die chinesische Sprache bezieht, zu »notieren« <seg type="symbol" subtype="4dots"/><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_52677">
+               <persName>Sada Yacco</persName>
+               <birth>
+                  <date>1871-7-18</date>
+                  <place>Tokio</place>
+               </birth>
+               <death>
+                  <date>1946-12-7</date>
+                  <place>Atami</place>
+               </death>
+               <occupation>Tänzerin</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/28897</idno></person>
+            <person xml:id="fk__p_45908">
+               <persName>Bahr, Hermann</persName>
+               <birth>
+                  <date>1863-7-19</date>
+                  <place>Linz</place>
+               </birth>
+               <death>
+                  <date>1934-1-15</date>
+                  <place>München</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Kritiker</occupation>
+               <note type="comment">Ögg teilt auch 307/52, 445/49, 800/67 (Rotte Korah) Bahr zu</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10815</idno></person>
+            <person xml:id="fk__p_42287">
+               <persName>Goncourt, Edmond-Louis-Antoine Huot de</persName>
+               <birth>
+                  <date>1822-5-26</date>
+                  <place>Nancy</place>
+               </birth>
+               <death>
+                  <date>1896-7-16</date>
+                  <place>Champrosay</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,46 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02906.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02905.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02907.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Schneider. (Strike und Reclame), in: Fackel Heft 04, Nr. 128, 1903, S. 23-23</title>
+            <title type="iso-date">1903-01-31</title>
+            <title type="id">tid_02906</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">04</title><title type="heft">128</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-04-128_n0023.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/128,023</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Schneider. (Strike und Reclame)</head>
+            <p ana="pr28660">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_24686" ref="#fk__p_52979">Schneider</rs>.</seg></seg> Ueber den Schneiderstrike berichtet die ‚<rs type="paper" ana="werk_10421">Zeit</rs>‘ am<lb/>
+<date>23. Januar</date>: »Für die Firmen <seg type="spc"><rs type="inst"><rs type="pers" ana="n2_1899" key="#fk__p_57852">Esders</rs></rs></seg>, <seg type="spc"><rs type="inst"><rs type="pers" ana="n2_1900" ref="#fk__p_58595">Neumann</rs></rs></seg> und <rs type="inst"><rs type="pers" ana="n2_1901" ref="#fk__p_52508"><seg type="spc">Rothberger</seg></rs></rs><lb/>
+wurden eigene Tarife aufgestellt, weil die genannten Firmen wegen <seg type="insult">ihres<lb/>
+<seg type="spc">besseren Kundenkreises</seg></seg> eine <seg type="spc">feinere Ausführung</seg> der Waare<lb/>
+verlangen«. Die ‚<rs type="paper" ana="werk_10422">Zeit</rs>‘ sollte, so meinen Sie, nicht versäumen, diesen<lb/>
+Satz in den Belehrungen über wirksame <seg type="insult">Reclame</seg>, die sie an Sonntagen<lb/>
+zu ertheilen pflegt, nochmals abzudrucken.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_58595">
+               <persName>Neumann, M. (Modewarenhaus)</persName>
+               <note type="comment">Kleiderhaus, 1., Kärntnerstraße 19</note>
+            </person>
+            <person xml:id="fk__p_52979">
+               <persName>Schneider</persName>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/24385</idno></person>
+            <person xml:id="fk__p_52508">
+               <persName>Rothberger (Bekleidungshaus)</persName>
+               <note type="comment">Stefansplatz</note>
+               <note type="comment">Moriz (1865-1944), Heinrich (1868-1953), Alfred (?-?)</note>
+               <note type="comment">NFP 1.10.1899 Jacob Rothberger</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

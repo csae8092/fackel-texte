@@ -1,0 +1,40 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03650.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03649.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03651.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Kunstturner. (Aus der Rede eines Staatsanwalts), in: Fackel Heft 06, Nr. 164, 1904, S. 20-20</title>
+            <title type="iso-date">1904-06-11</title>
+            <title type="id">tid_03650</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">06</title><title type="heft">164</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-06-164_n0020.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/164,020</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Kunstturner. (Aus der Rede eines Staatsanwalts)</head>
+            <p ana="pr36302">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i">Kunstturner.</seg></seg></seg> Nur dem gänzlichen Mangel an Beweisen, sagte <seg type="insult">der<lb/>
+Staatsanwalt-Substitut <rs type="pers" ana="n_31180" ref="#fk__p_54744"><abbr>v.</abbr> Türk</rs></seg>, habe es der Angeklagte bisher zu danken<lb/>
+gehabt, daß er der strafenden Gerechtigkeit entronnen sei. »Er hat stets<lb/>
+mit einem Fuße das Kriminal gestreift, aber heute, meine Herren Geschwornen,<lb/>
+<seg type="spc">sitzt er mit beiden Füßen auf der Anklagebank</seg>.« <seg type="insult">Türkisch!</seg><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_54744">
+               <persName>Türk-Karlovacgrad, Kamillo von</persName>
+               <birth>
+                  <date>1867-12-24</date>
+                  <place>Triest</place>
+               </birth>
+               <occupation>Jurist</occupation>
+               <note type="comment">Staatsanwalt-Substitut; 1., Kärntnerring 17</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

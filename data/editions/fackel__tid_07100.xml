@@ -1,0 +1,44 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07100.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07099.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07101.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Die Metapher ist keine!, in: Fackel Heft 18, Nr. 418, 1916, S. 64-64</title>
+            <title type="iso-date">1916-04-01</title>
+            <title type="id">tid_07100</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">18</title><title type="heft">418</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-18-418_n0064.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/418,064</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Die Metapher ist keine!</head>
+            <p ana="pr96120">
+<space/><seg type="symbol" subtype="3dots"/> Bei der Kaiserfeier im Rathaus hielt Oberbürgermeister <rs type="pers" ana="n_64437" ref="#fk__p_55399">Wermuth</rs><lb/>
+eine Rede, in der er hervorhob, daß kein noch so heftiger Anprall das<lb/>
+<seg type="spc">Guthaben</seg> der deutschen und verbündeten Heere zunichte machen<lb/>
+wird, das sie in unendlicher Mühsal in das <seg type="spc">Kontobuch</seg> der Länder<lb/>
+mit stählernem Griffel eingetragen haben <seg type="symbol" subtype="4dots"/><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_55399">
+               <persName>Wermuth, Adolf</persName>
+               <birth>
+                  <date>1855-3-23</date>
+                  <place>Hannover</place>
+               </birth>
+               <death>
+                  <date>1927-10-11</date>
+                  <place>Berlin</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <note type="comment">Berliner Oberbürgermeister</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

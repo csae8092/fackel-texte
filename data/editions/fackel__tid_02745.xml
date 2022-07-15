@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02745.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02744.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02746.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Leser. (‚Fackel‘-Gedanken im ‚Neuen Wiener Tagblatt‘), in: Fackel Heft 04, Nr. 120, 1902, S. 33-33</title>
+            <title type="iso-date">1902-11-8</title>
+            <title type="id">tid_02745</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">04</title><title type="heft">120</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-04-120_n0033.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/120,033</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Leser. (‚Fackel‘-Gedanken im ‚Neuen Wiener Tagblatt‘)</head>
+            <p ana="pr26886">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="name_203326" ref="#fk__p_48877">Leser</rs>.</seg></seg> Die <seg type="insult"><rs type="inst">Steyrermühl-Leute</rs></seg> lehnen sich gegen die »<rs type="inst">Concordia</rs>«<lb/>
+auf, sind aber auch untereinander uneinig. <seg type="insult">Herr <rs type="pers" ana="n_23191" ref="#fk__p_42322">Pötzl</rs></seg> lässt keine Gelegenheit<lb/>
+ vorübergehn, ohne <seg type="insult">Herrn <rs type="pers" ana="n_23192" ref="#fk__p_45908">Bahr</rs></seg> anzuulken, und kürzlich hat auch<lb/>
+<seg type="insult">Herr <rs type="pers" ana="n_23193" ref="#fk__p_49936">Max Kalbeck</rs></seg> gegen <seg type="insult">seinen Collegen vom Theatertheil</seg> polemisiert.<lb/>
+Es freute mich, zu sehen, daß er sich dabei nicht nur der Argumente,<lb/>
+sondern auch der Witze der ‚<rs type="self" ana="werk_9452">Fackel</rs>‘ bediente. Am <date>26. October</date> war<lb/>
+nämlich in einem Feuilleton <seg type="insult">des Herrn <rs type="pers" ana="n_23194" ref="#fk__p_49936">Kalbeck</rs></seg> über eine <rs type="inst">Burgtheaternovität<lb/>
+</rs>, in der ein Baumeister eine Rolle spielt, der folgende Satz zu<lb/>
+lesen: »Wird er dem romanischen oder gothischen Dome vielleicht die<lb/>
+<rs type="inst">secessionistische Spitze</rs> bieten, <seg type="symbol" subtype="4dots"/> kurz, die ganze Kirche <seg type="insult">den<lb/>
+<abbr><seg type="spc">St</seg>.</abbr> <seg type="spc">Veitstanz</seg> urmoderner Originalitätssucht</seg> mitmachen lassen?«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_48877">
+               <persName>Leser</persName>
+            </person>
+            <person xml:id="fk__p_49936">
+               <persName>Kalbeck, Max</persName>
+               <birth>
+                  <date>1850-1-4</date>
+                  <place>Breslau</place>
+               </birth>
+               <death>
+                  <date>1921-5-4</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Musikschriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11857</idno></person>
+            <person xml:id="fk__p_45908">
+               <persName>Bahr, Hermann</persName>
+               <birth>
+                  <date>1863-7-19</date>
+                  <place>Linz</place>
+               </birth>
+               <death>
+                  <date>1934-1-15</date>
+                  <place>München</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Kritiker</occupation>
+               <note type="comment">Ögg teilt auch 307/52, 445/49, 800/67 (Rotte Korah) Bahr zu</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10815</idno></person>
+            <person xml:id="fk__p_42322">
+               <persName>Pötzl, Eduard</persName>
+               <birth>
+                  <date>1851-3-17</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1914-8-21</date>
+                  <place>Mödling, Niederösterreich</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Journalist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12460</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_10700.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10699.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10701.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Wir, in: Fackel Heft 28, Nr. 743, 1926, S. 37-37</title>
+            <title type="iso-date">1926-12-01</title>
+            <title type="id">tid_10700</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">28</title><title type="heft">743</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-28-743_n0037.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/743,037</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Wir</head>
+            <p ana="pr149028">
+haben seit vierzehn Tagen ununterbrochen an <rs type="pers" ana="n_89436" ref="#fk__p_41233"><abbr>Dr.</abbr> Seipel</rs> den Appell<lb/>
+gerichtet, er möge <seg type="spc">sofort</seg> <rs type="pers" ana="n_89437" ref="#fk__p_40568"><abbr>Dr.</abbr> Ramek</rs> ablösen, da wir die Gefahr von<lb/>
+Provisionen erkannten. <rs type="pers" ana="n_89438" ref="#fk__p_41233"><abbr>Dr.</abbr> Seipel</rs> wollte aber erst kommen, bis — —<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_40568">
+               <persName>Ramek, Rudolf</persName>
+               <birth>
+                  <date>1881-04-12</date>
+                  <place>Teschen</place>
+               </birth>
+               <death>
+                  <date>1941-7-24</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <note type="comment">20.11.1924 bis 20.10.1926 Bundeskanzler</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/9420</idno></person>
+            <person xml:id="fk__p_41233">
+               <persName>Seipel, Ignaz</persName>
+               <birth>
+                  <date>1876-7-18</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1932-8-2</date>
+                  <place>Pernitz, Niederösterreich</place>
+               </death>
+               <occupation>Prälat</occupation>
+               <occupation>Politiker</occupation>
+               <note type="comment">1922-24, 1926-29 Bundeskanzler</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12762</idno></person>
+            </listPerson></back></text>
+</TEI>

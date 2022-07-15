@@ -1,0 +1,42 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_11563.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11562.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11564.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">30. Oktober:, in: Fackel Heft 32, Nr. 845, 1930, S. 17-17</title>
+            <title type="iso-date">1930-12-01</title>
+            <title type="id">tid_11563</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">32</title><title type="heft">845</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-32-845_n0017.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/845,017</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>30. Oktober:</head>
+            <p ana="pr168026">
+<space/><date>30. Oktober</date>:<lb/>
+</p>
+            <p ana="pr168027">
+<space/><RS pers="William Shakespeare"><rs type="title" ana="name_202962" ref="#fk__p_55589"><seg type="spc">Das Wintermärchen</seg></rs></RS>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_55589">
+               <persName>Shakespeare, William</persName>
+               <birth>
+                  <date>1564-4-23?</date>
+                  <place>Stratford-upon-Avon</place>
+               </birth>
+               <death>
+                  <date>1616-4-23</date>
+                  <place>Stratford-upon-Avon</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2412</idno></person>
+            </listPerson></back></text>
+</TEI>

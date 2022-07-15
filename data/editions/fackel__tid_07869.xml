@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07869.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07868.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07870.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Wer gibt das hinein in der Zeitung?, in: Fackel Heft 19, Nr. 457, 1234, S. 82-82</title>
+            <title type="iso-date">1234-01-01</title>
+            <title type="id">tid_07869</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">19</title><title type="heft">457</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-19-457_n0082.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/457,082</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Wer gibt das hinein in der Zeitung?</head>
+            <p ana="pr105299">
+<space/><seg type="sidehead">(Audienzen in Baden.)</seg> Aus Baden wird uns berichtet: Anläßlich<lb/>
+ der letzten Anwesenheit des Kaisers in Baden wurden auch die<lb/>
+Honoratioren der Kurstadt vom Monarchen in Audienz empfangen,<lb/>
+darunter die Vertreter der verschiedenen Konfessionen, die vom<lb/>
+Bezirkshauptmann dem Kaiser vorgestellt wurden.<lb/>
+</p>
+            <p ana="pr105301">
+<space/>Doch das ist nicht des Berichtes wert. Sondern:<lb/>
+</p>
+            <p ana="pr105303">
+<space/>Als nach einer Ansprache des Bürgermeisters die einzelnen<lb/>
+Herren vom Monarchen mit einer Ansprache ausgezeichnet wurden,<lb/>
+wendete sich der Kaiser <seg type="spc">auch</seg> an den <seg type="spc">Oberrabbiner <rs type="pers" ana="n_67402" ref="#fk__p_56764">Reich</rs></seg>,<lb/>
+dem er <seg type="spc">die Hand reichte</seg> und den er fragte, wie lange er<lb/>
+schon in Baden sei. Oberrabbiner <rs type="pers" ana="n_67403" ref="#fk__p_56764">Reich</rs> antwortete: »Euer Majestät<lb/>
+<seg type="spc">zu Befehl</seg>, seit dem Jahre <date>1880</date>. <seg type="spc">Jedoch</seg> während der 37 Jahre<lb/>
+meiner Amtstätigkeit ist der heutige Tag der glücklichste, der mir<lb/>
+durch die Gnade Gottes beschieden ist.« Der Kaiser fragte weiter,<lb/>
+wie <seg type="spc">Groß</seg> die Gemeinde sei, worauf Oberrabbiner <rs type="pers" ana="n_67404" ref="#fk__p_56764">Reich</rs> erwiderte:<lb/>
+»Euer Majestät, <seg type="spc">meine</seg> Gemeinde Baden zählt etwas mehr als<lb/>
+tausend <seg type="spc">Seelen</seg>; die <seg type="spc">Bedeutung</seg> der jüdischen Gemeinde hängt<lb/>
+<seg type="spc">jedoch</seg> mit der des Weltkurortes zusammen, <seg type="spc">so daß</seg> alljährlich<lb/>
+<seg type="spc">Tausende</seg> meiner Glaubensgenossen an den jüdischen Gemeindeinstitutionen<lb/>
+ teilnehmen. Auch gehört das Rabbinat der jüdischen<lb/>
+Gemeinde Neunkirchen hieher, in welcher <seg type="spc">auch Reichenau</seg>,<lb/>
+<seg type="spc">das Tuskulum Euer Majestät</seg>, sich befindet, worauf <seg type="spc">wir</seg><lb/>
+besonders <seg type="spc">stolz sind</seg>.« Der Kaiser verabschiedete sich hierauf von<lb/>
+dem Oberrabbiner, indem er ihm <seg type="spc">die Hand reichte</seg>.<lb/>
+</p>
+            <p ana="pr105305">
+<space/>Wer gibt das <seg type="insult">hinein in der <rs type="perRef" ana="werk_21159">Zeitung</rs></seg>? <seg type="insult">Die Vertreter der<lb/>
+andern Konfessionen</seg> dürften kaum so selbstlos gewesen sein.<lb/>
+Überhaupt ist das mehr geschrieben als gesprochen. Kein<lb/>
+Mensch und wäre er selbst <seg type="insult">Rabbiner</seg>, sagt: »jedoch«. Wie dem<lb/>
+immer nun sein mag, so ist zu hoffen, daß die Hofbehörden<lb/>
+<seg type="insult">solchen in Jahrzehnten eingewurzelten Bräuchen</seg> ein Ende<lb/>
+machen werden.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_56764">
+               <persName>Reich, Wilhelm</persName>
+               <birth>
+                  <date>1853-2</date>
+                  <place>Oroszvar/Ungarn</place>
+               </birth>
+               <death>
+                  <date>1929-7-24</date>
+                  <place>Baden bei Wien</place>
+               </death>
+               <occupation>Rabbiner</occupation>
+               <note type="comment">Oberrabbiner Baden bei Wien</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

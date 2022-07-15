@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07631.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07630.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07632.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Der Held hält sich, in: Fackel Heft 18, Nr. 445, 1234, S. 70-70</title>
+            <title type="iso-date">1234-01-01</title>
+            <title type="id">tid_07631</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">18</title><title type="heft">445</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-18-445_n0070.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/445,070</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Der Held hält sich</head>
+            <p ana="pr102549">
+also einen <rs type="pers" ana="n_66323" ref="#fk__p_46243">Homer</rs>, wenn er einen findet. Der Setzer der Glosse<lb/>
+aber, in der ich die Knappheit dieses Artikels besprochen habe,<lb/>
+war verführt durch den Hinweis auf den Eiermarkt und druckte<lb/>
+die Behauptung, daß »sich jeder Held einzeln eine <seg type="spc">Henne</seg> zu<lb/>
+halten berechtigt wäre«. Ohne <seg type="insult">der Henne wie dem Heldentum</seg><lb/>
+nahetreten zu wollen, möchte ich doch einmal die Frage aufs<lb/>
+Tapet bringen, ob zwischen der Art <seg type="insult">eines mehr den Journalen<lb/>
+als den Annalen zugewendeten Heroismus</seg> und der auffallenden<lb/>
+Tatsache, daß <seg type="insult">der Schrei nach einem <rs type="pers" ana="n_66324" ref="#fk__p_46243">Homer</rs></seg> unerfüllt bleibt, nicht doch<lb/>
+ein ursächlicher Zusammenhang bestehen dürfte. Das mit dem <rs type="pers" ana="n_66325" ref="#fk__p_46243">Homer</rs><lb/>
+entspringt vielleicht mehr <seg type="insult">dem unausrottbaren dekorativen Drang<lb/>
+einer sonst durch Personalnachrichten saturierten und in der<lb/>
+<rs type="paperRef" ana="werk_41097">Kleinen Chronik</rs> beruhigten großen Zeit</seg> und es wird für die Nachwelt<lb/>
+ den <seg type="insult">Humor dieser <rs type="pers" ana="n_66326" ref="#fk__p_46243">Homersuche</rs></seg> bilden, daß einer <seg type="insult">Epoche</seg>,<lb/>
+die <seg type="insult">täglich <rs type="pers" ana="n_66327" ref="#fk__p_46243">homerische Schreie</rs> nach einem <rs type="pers" ana="n_66328" ref="#fk__p_46243">Homer</rs></seg> ausgestoßen hat,<lb/>
+<seg type="insult">die <rs type="pers" ana="n_66329" ref="#fk__p_38111">Schalek</rs></seg> erstanden ist.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46243">
+               <persName>Homer</persName>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2495</idno></person>
+            <person xml:id="fk__p_38111">
+               <persName>Schalek, Alice</persName>
+               <birth>
+                  <date>1874-8-21</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1956-11-6</date>
+                  <place>New York</place>
+               </death>
+               <occupation>Journalistin</occupation>
+               <occupation>Schriftstellerin</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/9664</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03749.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03748.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03750.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Kritiker. (Programmkritik), in: Fackel Heft 06, Nr. 171, 1904, S. 24-24</title>
+            <title type="iso-date">1904-12-17</title>
+            <title type="id">tid_03749</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">06</title><title type="heft">171</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-06-171_n0024.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/171,024</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Kritiker. (Programmkritik)</head>
+            <p ana="pr37461">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="name_203422" ref="#fk__p_60644">Kritiker</rs>.</seg></seg></seg> »Das Programm des Abends bot reiche Abwechslung.<lb/>
+<seg type="symbol" subtype="3dots"/> Stürmisch akklamiert wurde Kammersänger <rs type="pers" ana="n_32086" ref="#fk__p_43949">Fritz Schrödter</rs>, der in<lb/>
+seiner meisterlichen Art Lieder von <rs type="pers" ana="n_32087" ref="#fk__p_46819">Jensen</rs>, <rs type="pers" ana="n_32088" ref="#fk__p_49349">Beethoven</rs> und <rs type="pers" ana="n_32089" ref="#fk__p_49836">Massenet</rs><lb/>
+vortrug<seg type="symbol" subtype="4dots"/>« (<date>11. Dezember</date>). Das Programm bot reichere Abwechslung<lb/>
+ als das Konzert. Herr <rs type="pers" ana="n_32090" ref="#fk__p_43949">Schrödter</rs> vergaß, <seg type="insult">den Vertreter der ‚<rs type="paper" ana="werk_13489">Neuen<lb/>
+Freien Presse</rs>‘</seg> zu verständigen, daß er krankheitshalber abgesagt <choice><sic>habe</sic><corr>habe.</corr></choice><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_43949">
+               <persName>Schrödter, Fritz Ernst Richard</persName>
+               <birth>
+                  <date>1855-3-15</date>
+                  <place>Leipzig</place>
+               </birth>
+               <death>
+                  <date>1924-1-14</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Sänger</occupation>
+               <note type="comment">Tenor, Hofoper</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_19895</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12726</idno></person>
+            <person xml:id="fk__p_60644">
+               <persName>Kritiker</persName>
+               <note type="comment"/>
+            </person>
+            <person xml:id="fk__p_46819">
+               <persName>Jensen, Adolf</persName>
+               <birth>
+                  <date>1837-01-12</date>
+                  <place>Königsberg</place>
+               </birth>
+               <death>
+                  <date>1879-01-23</date>
+                  <place>Baden-Baden</place>
+               </death>
+               <occupation>Komponist</occupation>
+            </person>
+            <person xml:id="fk__p_49836">
+               <persName>Massenet, Jules Emile Frederic</persName>
+               <birth>
+                  <date>1842-5-12</date>
+                  <place>Montaud</place>
+               </birth>
+               <death>
+                  <date>1912-8-13</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Komponist</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17964</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2467</idno></person>
+            <person xml:id="fk__p_49349">
+               <persName>Beethoven, Ludwig van</persName>
+               <birth>
+                  <date>1770-12-17</date>
+                  <place>Bonn</place>
+               </birth>
+               <death>
+                  <date>1827-3-26</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Komponist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10866</idno></person>
+            </listPerson></back></text>
+</TEI>

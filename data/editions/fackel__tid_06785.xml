@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06785.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06784.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06786.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Die historische Einstellung Peßls, in: Fackel Heft 16, Nr. 399, 1914, S. 27-27</title>
+            <title type="iso-date">1914-05-01</title>
+            <title type="id">tid_06785</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">16</title><title type="heft">399</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-16-399_n0027.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/399,027</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Die historische Einstellung Peßls</head>
+            <p ana="pr91374">
+<space/><seg type="symbol" subtype="4dots"/> <rs type="pers" ana="n_62155" ref="#fk__p_50298">Molmenti</rs> erzählt in seinen <rs type="title">Venezianer Skizzen</rs>, daß es<lb/>
+zur <rs type="pers" ana="n_62156" ref="#fk__p_44539"><seg type="spc">Goldoni-Zeit</seg></rs> nur einen großen Meister der Frisur in Venedig<lb/>
+gab — <rs type="pers"><seg type="spc">Monsieur Hippolite</seg></rs> hieß er, und daß <seg type="spc">die vornehmsten<lb/>
+Damen um seine Gunst buhlten</seg>, wenn ein großes Fest in Aussicht<lb/>
+stand. <seg type="spc">Alles</seg>, <seg type="spc">was er verlangte</seg>, <seg type="spc">wurde ihm gewährt</seg>, wenn er<lb/>
+nur versprach, sie schön zu machen. <seg type="spc">Ein solcher Fachmann ist<lb/>
+heute Monsieur <rs type="pers" ana="n_62157" ref="#fk__p_51372">Peßl</rs> in der Kärntnerstraße</seg>. Wenn er sagt, die<lb/>
+hohe, komplizierte Frisur ist Mode, so muß es wahr sein <seg type="symbol" subtype="4dots"/><lb/>
+</p>
+            <p ana="pr91376">
+<space/>Ich zweifle nicht. Es dürfte <seg type="insult">der <rs type="pers">Hippolit</rs> der <rs type="pers" ana="n_62158" ref="#fk__p_48732">Birinski-Zeit</rs></seg> sein.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_51372">
+               <persName>Peßl, Siegmund</persName>
+               <birth>
+                  <date>1869-11-23</date>
+                  <place>Theben bei Preßburg</place>
+               </birth>
+               <occupation>Friseur</occupation>
+               <note type="comment">4., Apfelgasse 6; Geschäft: 1., Kärntnerstraße 28</note>
+            </person>
+            <person xml:id="fk__p_50298">
+               <persName>Molmenti, Pompeo</persName>
+               <birth>
+                  <date>1853-09-00</date>
+                  <place>Venedig</place>
+               </birth>
+               <death>
+                  <date>1928-01-24</date>
+                  <place>Rom</place>
+               </death>
+               <occupation>Kunstschriftsteller</occupation>
+            </person>
+            <person xml:id="fk__p_48732">
+               <persName>Birinski, Leo</persName>
+               <birth>
+                  <date>1893-7-16</date>
+                  <place>Tysmenica/Bukowina</place>
+               </birth>
+               <death>
+                  <date>1920-3-17</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">IKG Wien, gest. 17.3.1920, 26 Jahre alt, bestätigt mail 25.7.2007</note>
+               <note type="comment">Hdb. jüd. Aut.: viele Jahre lang in einer Wr. Buchhandlung tätig (Antiqu. Löwit, Rotenturmstraße)</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/14233</idno></person>
+            <person xml:id="fk__p_44539">
+               <persName>Goldoni, Carlo</persName>
+               <birth>
+                  <date>1707-2-25</date>
+                  <place>Venedig</place>
+               </birth>
+               <death>
+                  <date>1793-2-6</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/5892</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,42 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07991.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07990.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07992.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Eine beruhigende Mitteilung, in: Fackel Heft 19, Nr. 462, 1917, S. 108-108</title>
+            <title type="iso-date">1917-10-01</title>
+            <title type="id">tid_07991</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">19</title><title type="heft">462</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-19-462_n0108.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/462,108</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Eine beruhigende Mitteilung</head>
+            <p ana="pr106732">
+<space/>» <seg type="symbol" subtype="3dots"/> Bürgermeister <rs type="pers" ana="n_67926" ref="#fk__p_42017"><abbr>Dr.</abbr> Weißkirchner</rs> hat bereits vor längerer<lb/>
+Zeit die <seg type="spc">zur Hebung des Brennholzmangels</seg> erforderlichen<lb/>
+ Schritte eingeleitet.«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_42017">
+               <persName>Weiskirchner, Richard</persName>
+               <birth>
+                  <date>1861-3-24</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1926-4-30</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <note type="comment">1912-19 Wr. Bürgermeister</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/13079</idno></person>
+            </listPerson></back></text>
+</TEI>

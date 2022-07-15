@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_05659.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05658.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05660.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Wie man deutsche Sänger behandelt, da hört sich alles auf, in: Fackel Heft 13, Nr. 343, 1912, S. 9-10</title>
+            <title type="iso-date">1912-03-01</title>
+            <title type="id">tid_05659</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">13</title><title type="heft">343</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-13-343_n0009.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/343,009</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Wie man deutsche Sänger behandelt, da hört sich alles auf</head>
+            <p ana="pr74533">
+<space/>»Aus Künstlerkreisen kommt uns folgende Mitteilung zu: Bekanntlich<lb/>
+nimmt der <rs type="inst">Wiener Männergesangverein</rs> <DATERANGE>Ende Juli <abbr>d. J.</abbr></DATERANGE> an dem deutschen<lb/>
+Sängerfest in Nürnberg teil. Aus diesem Anlaß sind große Festlichkeiten<lb/>
+in Nürnberg geplant und ist auch in Aussicht genommen, daß sehr viele<lb/>
+Mitglieder des <rs type="inst">Wiener Männergesangvereines</rs> in Nürnberg erscheinen<lb/>
+werden. In einem kleinen Kreise ist nun der Gedanke aufgetaucht, den<lb/>
+Aufenthalt in Nürnberg zu einem <seg type="spc">Ausflug nach Bayreuth</seg> zu benützen,<lb/>
+dort eventuell im <rs type="inst">Festspielhaus</rs> ein Konzert zu veranstalten und an den<lb/>
+Gräbern von <rs type="pers" ana="n_53492" ref="#fk__p_52212">Richard Wagner</rs> und <rs type="pers" ana="n_53493" ref="#fk__p_43534">Franz Liszt</rs> Kundgebungen der Wiener<lb/>
+Sängerschar zu veranlassen. Es sollen auch vertrauliche Verhandlungen<lb/>
+mit der Familie <rs type="pers" ana="n_53494" ref="#fk__p_52212">Richard Wagner</rs> in Bayreuth gepflogen worden sein.<lb/>
+Über das Resultat wird tiefes Stillschweigen gewahrt, doch scheint es,<lb/>
+daß <seg type="spc">irgend ein Zwischenfall eingetreten</seg> sein muß, denn die<lb/>
+Reise nach Bayreuth wurde fallen gelassen. Dieser Vorfall bildet in<lb/>
+Sängerkreisen den Gegenstand lebhafter Diskussion.«<lb/>
+</p>
+            <p ana="pr74535">
+<space/><seg type="insult">Depeschenwechsel zwischen Wien und Bayreuth</seg>: <seg type="insult"><foreign xml:lang="de-loc">»<rs type="title">Därf i ’s<lb/>
+Dirndl liab’n</rs>«</foreign> (Drahtantwort bezahlt).</seg> »Nein«. — Sie scheinen —<lb/>
+meinte <seg type="insult">der <rs type="pers">Rechnungsrat Hieferschwanzl</rs> (Tenor)</seg> — kein <seg type="insult">Gemüt</seg> nicht<lb/>
+zu haben dort in Bayreuth. Sie scheinen — versetzte <seg type="insult">der <rs type="pers">Bezirksausschuß<lb/>
+ Kruspelspitz</rs> (Bariton)</seg> — sich auf ein Ständchen nicht<lb/>
+einlassen zu wollen dort die <foreign xml:lang="de-loc">Leut’</foreign>. Sie scheinen — beruhigte <seg type="insult">der<lb/>
+<rs type="pers">Privatier Beuschl</rs> (Baßbariton)</seg> — <foreign xml:lang="de-loc">überhaupts</foreign> unmusikalisch zu sein!<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_43534">
+               <persName>Liszt, Franz von</persName>
+               <birth>
+                  <date>1811-10-22</date>
+                  <place>Raiding</place>
+               </birth>
+               <death>
+                  <date>1886-7-31</date>
+                  <place>Bayreuth</place>
+               </death>
+               <occupation>Pianist</occupation>
+               <occupation>Komponist</occupation>
+               <note type="comment">1859 geadelt</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17593</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/8679</idno></person>
+            <person xml:id="fk__p_52212">
+               <persName>Wagner, Richard</persName>
+               <birth>
+                  <date>1813-5-22</date>
+                  <place>Leipzig</place>
+               </birth>
+               <death>
+                  <date>1883-2-13</date>
+                  <place>Venedig</place>
+               </death>
+               <occupation>Komponist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/13024</idno></person>
+            </listPerson></back></text>
+</TEI>

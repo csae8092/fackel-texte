@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_11442.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11441.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11443.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Anerkennung der Würdigung, in: Fackel Heft 32, Nr. 838, 1930, S. 72-73</title>
+            <title type="iso-date">1930-09-01</title>
+            <title type="id">tid_11442</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">32</title><title type="heft">838</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-32-838_n0072.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/838,072</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Anerkennung der Würdigung</head>
+            <p ana="pr166514">
+<space/>— — So hat <rs type="pers" ana="n_99896" ref="#fk__p_43876">Schiller</rs> einen nicht unwesentlichen Bestandteil<lb/>
+des geistigen Bildungsschatzes <rs type="pers" ana="n_99897" ref="#fk__p_39266">Bismarcks</rs> ausgemacht. Die sehr interessanten<lb/>
+ Ausführungen <rs type="pers" ana="n_99898" ref="#fk__p_49304">Klinenbergers</rs> fanden beim Publikum starken<lb/>
+Anklang und wurden in der Berliner Presse sehr <seg type="spc">anerkennenswert<lb/>
+ gewürdigt</seg>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_49304">
+               <persName>Klinenberger, Ludwig</persName>
+               <birth>
+                  <date>1873-9-16</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1942-4-27</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/3916</idno></person>
+            <person xml:id="fk__p_39266">
+               <persName>Bismarck, Otto Eduard Leopold Fürst</persName>
+               <birth>
+                  <date>1815-04-01</date>
+                  <place>Schönhausen</place>
+               </birth>
+               <death>
+                  <date>1898-07-30</date>
+                  <place>Friedrichsruh</place>
+               </death>
+               <occupation>Politiker</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13749</idno></person>
+            <person xml:id="fk__p_43876">
+               <persName>Schiller, Friedrich von</persName>
+               <birth>
+                  <date>1759-11-10</date>
+                  <place>Marbach am Neckar</place>
+               </birth>
+               <death>
+                  <date>1805-5-9</date>
+                  <place>Weimar</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Mortimer 363/9, 679/69, 912/7 und 912/58 ist von Ögg Shakespeare zugeordnet</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12654</idno></person>
+            </listPerson></back></text>
+</TEI>

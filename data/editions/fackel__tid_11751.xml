@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_11751.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11750.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11752.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Wien, Architektenvereinssaal, ½8 Uhr, in: Fackel Heft 33, Nr. 852, 1931, S. 55-55</title>
+            <title type="iso-date">1931-05-01</title>
+            <title type="id">tid_11751</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">33</title><title type="heft">852</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-33-852_n0055.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/852,055</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Wien, Architektenvereinssaal, ½8 Uhr</head>
+            <p ana="pr170362">
+<space/><seg type="spc">Wien</seg>, <rs type="inst">Architektenvereinssaal</rs>, ½8 Uhr<lb/>
+</p>
+            <p ana="pr170363">
+<space/><date>17. April</date>:<lb/>
+</p>
+            <p ana="pr170364">
+<space/>Schülervorlesung<lb/>
+</p>
+            <p ana="pr170365">
+<space/>I. <rs type="pers" ana="n_101929" ref="#fk__p_43227"><seg type="spc">Raimund</seg></rs>: <rs type="title"><seg type="spc">Das Mädchen aus der Feenwelt</seg> oder<lb/>
+Der Bauer als Millionär</rs> II 4 bis 7.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_43227">
+               <persName>Raimund, Ferdinand</persName>
+               <birth>
+                  <date>1790-6-1</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1836-9-5</date>
+                  <place>Pottenstein, Niederösterreich</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Ögg teilt die Valentin-Stelle 254/4 Nestroy zu</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12468</idno></person>
+            </listPerson></back></text>
+</TEI>

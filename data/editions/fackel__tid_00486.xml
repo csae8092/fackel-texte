@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00486.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00485.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00487.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Herrn Grafen Goluchowski, I., Ballplatz. (Herrn Grafen Goluchowski, I., Ballplatz), in: Fackel Heft 01, Nr. 020, 1899, S. 29-29</title>
+            <title type="iso-date">1899-10-01</title>
+            <title type="id">tid_00486</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">020</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-020_n0029.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/020,029</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Herrn Grafen Goluchowski, I., Ballplatz. (Herrn Grafen Goluchowski, I., Ballplatz)</head>
+            <p ana="pr4550">
+<space/><seg type="sidehead"><seg type="i">Herrn <rs type="pers" ana="n_3467" ref="#fk__p_44673">Grafen Goluchowski</rs>, I., Ballplatz.</seg></seg> Nein, damit kann ich<lb/>
+natürlich nicht einverstanden sein, und das dürfen Sie ganz gewiss<lb/>
+nicht wieder thun. Sie lassen jetzt durch die ‚<rs type="" ana="werk_1185">Politische Correspondenz</rs>‘<lb/>
+verkünden, dass es den Belgrader Gefangenen <seg type="spc">gar nicht so schlecht</seg><lb/>
+<seg type="spc">ergehe</seg>. Serbische Flüchtlinge schildern die Martern, die ihre armen<lb/>
+Gesinnungsgenossen da unten erdulden müssen, und erzählen, dass der<lb/>
+Oberst <rs type="pers" ana="n_3468" ref="#fk__p_50635">Nikolić</rs>, der zu 20 Jahren Verurtheilte, schon jetzt ein völlig<lb/>
+gebrochener, schwer kranker Mann sei, der Kerker und Gefängniskost<lb/>
+eben noch ein paar Tage ertragen dürfte. Wir erfahren auch, dass<lb/>
+<rs type="pers" ana="n_3469" ref="#fk__p_50635">Nikolić’</rs> Gattin vor Gram wahnsinnig geworden sei und dass somit<lb/>
+<seg type="insult">der Bandit <rs type="pers" ana="n_3470" ref="#fk__p_48031">Milan</rs></seg> — lieben Sie ihn denn noch immer so? — ein neues<lb/>
+Menschenopfer auf dem Gewissen habe. Und Sie, der österreichische<lb/>
+Minister des Aeußern, haben nichts Eiligeres zu thun, als durch <seg type="insult">ihre<lb/>
+nach immer neuen Takowa-Orden verlangenden Zeitungsleute</seg> zu<lb/>
+verkünden, dass — alles nicht wahr sei. »Scham, wo ist dein Erröthen<lb/>
+?« ruft der bei <seg type="insult">den nämlichen Zeitungsleuten</seg> jetzt so beliebte<lb/>
+<rs type="pers">Hamlet</rs>. Wahrlich, auf Ihre Balkanpolitik passen seine Worte: »<seg type="insult">Seh’n<lb/>
+ohne Fühlen, Fühlen ohne Seh’n</seg> <seg type="symbol" subtype="3dots"/> ja, nur ein Theilchen <seg type="spc">eines</seg> echten<lb/>
+Sinns tappt nimmermehr so zu!« Aber ich kann Ihnen für heute nur<lb/>
+verrathen, dass <RS pers="Franz Joseph" globID="rs_32"><abbr>Se.</abbr> Majestät</RS> sich kürzlich — so erzählt man mir —<lb/>
+nach der Lectüre eines wahrheitsgetreuen Berichts über die serbischen<lb/>
+Vorgänge erschüttert und höchst indigniert gezeigt hat. Irrt mein<lb/>
+Gewährsmann nicht, so — Sie wissen schon!<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_50635">
+               <persName>Nikolić, Tihomilj</persName>
+               <occupation>Politiker</occupation>
+               <note type="comment">Funktion als Kriegsminister 21. 02. 1887 bis 10. 04. 1898</note>
+               <note type="comment">wegen Kritik an Milan verhaftet und eingesperrt</note>
+               <note type="comment">Kriegsminister </note>
+            </person>
+            <person xml:id="fk__p_48031">
+               <persName>Milan I. Obrenović, König von Serbien</persName>
+               <birth>
+                  <date>1854-8-22</date>
+                  <place>Jassy</place>
+               </birth>
+               <death>
+                  <date>1901-2-11</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>König</occupation>
+            </person>
+            <person xml:id="fk__p_44673">
+               <persName>Goluchowski, Agenor Graf</persName>
+               <birth>
+                  <date>1849-03-25</date>
+                  <place>Lemberg</place>
+               </birth>
+               <death>
+                  <date>1921-03-28</date>
+                  <place>Lemberg</place>
+               </death>
+               <occupation>Diplomat</occupation>
+               <occupation>Politiker</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

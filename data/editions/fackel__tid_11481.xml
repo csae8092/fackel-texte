@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_11481.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11480.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11482.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ersatz, in: Fackel Heft 32, Nr. 838, 1930, S. 92-93</title>
+            <title type="iso-date">1930-09-01</title>
+            <title type="id">tid_11481</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">32</title><title type="heft">838</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-32-838_n0092.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/838,092</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ersatz</head>
+            <p ana="pr166912">
+<space/><OMED>— —</OMED> wie soll eine <rs type="paperRef" ana="werk_30278">Zeitung</rs> den Schwung und die Leidenschaft<lb/>
+des politischen Kampfes bewahren, <seg type="spc">der</seg> doch die Pflicht und Aufgabe<lb/>
+der Presse ist, ohne <seg type="spc">die</seg> die Journalistik immer mehr zum <seg type="insult">öden<lb/>
+Geschäft der Nachrichtenlieferung</seg> oder zur <seg type="insult">üblen Gewohnheit der<lb/>
+Sensationen</seg> herabsinken muß, an denen nichts zu verantworten ist,<lb/>
+weil sie allesamt nichts sind als <seg type="insult">Aufmachung</seg> und <seg type="insult">Zubereitung</seg>?<lb/>
+</p>
+            <p ana="pr166914">
+Klagt der <seg type="insult">Liberalismus</seg> in der <seg ana="Arbeiter-Zeitung"/>, wiewohl es<lb/>
+gewiß die letzte Sorge einer <seg type="insult">reaktionären Regierung</seg> ist, der<lb/>
+Presse den Schwung und die Leidenschaft des Kampfes gegen<lb/>
+sie zu bewahren. Aber es sind goldene Worte der Erklärung<lb/>
+dafür, daß sich die <rs type="paper" ana="werk_30280">Arbeiter-Zeitung</rs> kurzerhand entschlossen hat,<lb/>
+sich in den <seg type="insult">Strudel <rs type="pers" ana="n_100028" ref="#fk__p_46698">Lippowitzischer Unterhaltungen</rs></seg> zu stürzen.<lb/>
+»<rs type="title">Allerlei Rendezvous</rs>« schließen an und die <seg type="insult">schöne <rs type="paperRef" ana="werk_30281">Gerichtssaalrubrik<lb/>
+</rs></seg> mit: »<rs type="title">Mädchen oder Mann?</rs>« (Alle <seg type="insult">Winkelzüge</seg> halfen<lb/>
+nichts: der Militärarzt stellte fest, daß es sich um ein junges<lb/>
+Mädchen handelt), »<rs type="title">Ehe mit einem Zwitter</rs>« (<rs type="pers" ana="n_100029" ref="#fk__p_57209">Anton</rs> war ein<lb/>
+56jähriger Witwer, als er im Jahre <date>1926</date> die damals auch schon<lb/>
+40jährige <rs type="pers" ana="n_100030" ref="#fk__p_56286">Hermine</rs> kennen lernte). Und welches <rs type="paperRef" ana="werk_30282">Blatt</rs> hätte<lb/>
+sich für den Verzicht auf Schwung und Leidenschaft des politischen<lb/>
+</p>
+            <p ana="pr166914">
+ Kampfes saftiger durch die <seg type="insult">Schlafwagengeschichte</seg> des<lb/>
+Prozesses <rs type="pers" ana="n_100031" ref="#fk__p_55857">Zerkowitz</rs> entschädigt? Durch eine Berichterstattung, die<lb/>
+unter <seg type="insult">sozialkritischem Vorwand</seg> den Spuren des Beischlafs folgte<lb/>
+und das »Schutzmittel« zum Selbstzweck erhob. (Noch grauslicher<lb/>
+durch gleichzeitige Absicht der Sprachreinigung.)<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_56286">
+               <persName>Hermine</persName>
+               <birth>
+                  <date>1886?</date>
+               </birth>
+            </person>
+            <person xml:id="fk__p_57209">
+               <persName>Anton</persName>
+               <birth>
+                  <date>1870?</date>
+               </birth>
+               <note type="comment">Gerichtssaalrubrik in der AZ vor Sept. 1930</note>
+            </person>
+            <person xml:id="fk__p_46698">
+               <persName>Lippowitz, Jakob (Siegmund)</persName>
+               <birth>
+                  <date>1865-10-9</date>
+                  <place>Leipzig</place>
+               </birth>
+               <death>
+                  <date>1934-7-4</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17583</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/4054</idno></person>
+            <person xml:id="fk__p_55857">
+               <persName>Zerkowitz, Theodor</persName>
+               <birth>
+                  <date>1896-1-25</date>
+               </birth>
+               <occupation>Fabrikant</occupation>
+               <note type="comment">Schlafwagengeschichte des Prozeß Zerkowitz, AZ 18.6.1930, Seite 8</note>
+               <note type="comment">7., Schottenfeldgasse 24</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

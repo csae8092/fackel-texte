@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03918.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03917.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03919.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Zeitgenosse. (Eine Huldigung für Schiller), in: Fackel Heft 07, Nr. 182, 1905, S. 26-26</title>
+            <title type="iso-date">1905-06-9</title>
+            <title type="id">tid_03918</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">07</title><title type="heft">182</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-07-182_n0026.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/182,026</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Zeitgenosse. (Eine Huldigung für Schiller)</head>
+            <p ana="pr39645">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="name_203531" ref="#fk__p_55841">Zeitgenosse</rs>.</seg></seg></seg> Zum <rs type="pers" ana="n_33644" ref="#fk__p_43876">Schillerfest</rs> wäre noch ein wichtiges Detail<lb/>
+nachzutragen, das den gefeierten Genius und <seg type="insult">den <foreign xml:lang="la">genius loci</foreign> des<lb/>
+feiernden Österreich</seg> in inniger Verschmelzung zeigt. Am Schluß eines<lb/>
+Berichtes über die <seg type="insult">festliche Huldigung von Bürgerschullehrern und<lb/>
+Gemeinderäten</seg> heißt es im ‚<rs type="paper" ana="werk_13936">Neuen Wiener Tagblatt</rs>‘: »<seg type="spc">Der Schuldiener<lb/>
+ <rs type="pers" ana="n_33645" ref="#fk__p_46240">Holzinger</rs> assistierte in voller Parade bei der<lb/>
+Feier</seg>.«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_55841">
+               <persName>Zeitgenosse</persName>
+            </person>
+            <person xml:id="fk__p_46240">
+               <persName>Holzinger-Janaburg, Ferdinand Ritter von</persName>
+               <birth>
+                  <date>1836-9-21</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1901-12-30</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Richter</occupation>
+               <note type="comment">7., Schottenfeldgasse 77</note>
+               <note type="comment">bei Ögg fälschlich Josef Holzinger</note>
+               <note type="comment">Vizepräsident des Landesgerichts</note>
+            </person>
+            <person xml:id="fk__p_43876">
+               <persName>Schiller, Friedrich von</persName>
+               <birth>
+                  <date>1759-11-10</date>
+                  <place>Marbach am Neckar</place>
+               </birth>
+               <death>
+                  <date>1805-5-9</date>
+                  <place>Weimar</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Mortimer 363/9, 679/69, 912/7 und 912/58 ist von Ögg Shakespeare zugeordnet</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12654</idno></person>
+            </listPerson></back></text>
+</TEI>

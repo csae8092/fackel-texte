@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03224.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03223.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03225.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Vom Erfinder Szczepanik, in: Fackel Heft 05, Nr. 142, 1903, S. 11-11</title>
+            <title type="iso-date">1903-07-3</title>
+            <title type="id">tid_03224</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">05</title><title type="heft">142</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-05-142_n0011.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/142,011</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Vom Erfinder Szczepanik</head>
+            <p ana="pr31726">
+<space/><seg type="insult"><inciptit>Herr</inciptit> <rs type="pers" ana="n_27395" ref="#fk__p_46730">Szczepanik</rs></seg> hat sich wieder einmal gemeldet. Er schrieb<lb/>
+in der ‚<rs type="paper" ana="werk_11916">Zeit</rs>‘ über die »<rs type="title">Photographie in der Weberei</rs>«. Darüber<lb/>
+wäre allerdings Interessanteres zu berichten, als man aus der ‚<rs type="paper" ana="werk_11917">Zeit</rs>‘<lb/>
+erfährt, nämlich: Die Barmener Patronieranstalt System <rs type="pers" ana="n_27396" ref="#fk__p_46730">Szczepanik</rs><lb/>
+ist im vorigen Jahre eingegangen; die <foreign xml:lang="fr">Société franco-belge</foreign><lb/>
+<rs type="pers" ana="n_27397" ref="#fk__p_46730">Szczepanik</rs> in Roubaix und Brüssel hat seit ihrer Gründung nicht<lb/>
+gearbeitet und befindet sich in Liquidation; und die Actiengesellschaft<lb/>
+ für <rs type="pers" ana="n_27398" ref="#fk__p_46730">Szczepanik’s</rs> Textilindustrie in Wien und Krakau hat<lb/>
+noch keine brauchbare Patrone nach <rs type="pers" ana="n_27399" ref="#fk__p_46730">Szczepanik’s</rs> Verfahren zu<lb/>
+erzeugen vermocht und soll demnächst eingehen, wenn sich nicht<lb/>
+abermals durch <seg type="insult">Zeitungsreclame</seg> Geld auftreiben lässt <seg type="symbol" subtype="3dots"/> Im<lb/>
+vorigen Jahre hat <seg type="insult">Herr <rs type="pers" ana="n_27400" ref="#fk__p_46730">Szczepanik</rs></seg> dem <rs type="inst">Kriegsministerium</rs> seine<lb/>
+Apparate für drahtlose Telegraphie angeboten. Nach gründlicher<lb/>
+Erprobung der <rs type="pers" ana="n_27401" ref="#fk__p_46730">Szczepanik’schen Apparate</rs> wurden soeben diejenigen<lb/>
+nach dem <rs type="pers" ana="n_27402" ref="#fk__p_53390"><rs type="pers" ana="n_27403" ref="#fk__p_57212">System Slaby-Arco</rs></rs> in Berlin bestellt.<lb/>
+</p>
+            <p ana="pr31727">
+<rs type="pers" ana="n_27404" ref="#fk__p_59604"><AUCTOR notation="symbol"><seg type="symbol" subtype="+"/></AUCTOR></rs><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46730">
+               <persName>Szczepanik, Jan</persName>
+               <birth>
+                  <date>1872-4-13</date>
+                  <place>Rudniki bei Mostyska/Ukraine</place>
+               </birth>
+               <death>
+                  <date>1926-4-18</date>
+                  <place>Tarnów/Polen</place>
+               </death>
+               <occupation>Erfinder</occupation>
+            </person>
+            <person xml:id="fk__p_57212">
+               <persName>Arco, Georg Graf</persName>
+               <birth>
+                  <date>1869-08-30</date>
+                  <place>Großgorschütz/Ratibor</place>
+               </birth>
+               <death>
+                  <date>1940-05-05</date>
+                  <place>Berlin</place>
+               </death>
+               <occupation>Techniker</occupation>
+            </person>
+            <person xml:id="fk__p_59604">
+               <persName>mm</persName>
+               <note type="comment"/>
+            </person>
+            <person xml:id="fk__p_53390">
+               <persName>Slaby, Adolf</persName>
+               <birth>
+                  <date>1849-04-18</date>
+                  <place>Berlin</place>
+               </birth>
+               <death>
+                  <date>1913-04-06</date>
+                  <place>Berlin</place>
+               </death>
+               <occupation>Hochfrequenztechniker</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,44 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07707.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07706.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07708.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Die Frau im Beruf, in: Fackel Heft 18, Nr. 445, 1234, S. 159-159</title>
+            <title type="iso-date">1234-01-01</title>
+            <title type="id">tid_07707</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">18</title><title type="heft">445</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-18-445_n0159.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/445,159</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Die Frau im Beruf</head>
+            <p ana="pr103395">
+<space/><seg type="symbol" subtype="3dots"/> Man wird mich mitleidig <seg type="insult">einen <seg type="spc">unpraktischen Schwärmer</seg></seg><lb/>
+schelten <seg type="symbol" subtype="4dots"/><lb/>
+</p>
+            <p ana="pr103397">
+<space/>Sagt <seg type="insult">die <rs type="pers" ana="n_66728" ref="#fk__p_39160">Zuckerkandl</rs></seg>, die sich einzubilden scheint, daß sie<lb/>
+ein <rs type="pers"><seg type="insult">Schmock</seg></rs> ist.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_39160">
+               <persName>Zuckerkandl, Berta, geb. Szeps</persName>
+               <birth>
+                  <date>1864-4-12</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1945-10-16</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Journalistin</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2312</idno></person>
+            </listPerson></back></text>
+</TEI>

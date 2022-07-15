@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03826.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03825.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03827.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ein ungedrucktes Epigramm von Daniel Spitzer, in: Fackel Heft 06, Nr. 176, 1905, S. 19-20</title>
+            <title type="iso-date">1905-02-28</title>
+            <title type="id">tid_03826</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">06</title><title type="heft">176</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-06-176_n0019.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/176,019</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ein ungedrucktes Epigramm von Daniel Spitzer</head>
+            <p ana="pr38437">
+<seg type="spc">Der Philosoph</seg>:<lb/>
+</p>
+            <lg>
+<l>Wenn Jeder täte seine Pflicht,</l>
+<l>Dann brauchte man Gesetze nicht.</l>
+</lg>
+            <p ana="pr38439">
+<seg type="insult"><seg type="spc">Der Jurist</seg></seg>:<lb/>
+</p>
+            <lg>
+<l>Und hätten wir Gesetze nicht,</l>
+<l>Wie wüßten wir, was uns’re Pflicht?</l>
+</lg>
+            <p ana="pr38441">
+<seg type="insult"><seg type="spc">Der Politiker</seg></seg>:<lb/>
+</p>
+            <lg>
+<l>Geht, laßt doch einmal das <seg type="insult">Geschwätz</seg>, </l>
+<l>Wen kümmern Pflicht oder Gesetz!</l>
+</lg>
+            <p ana="fn210">
+<FN0_TEXT0>
+<space/>*) Diese bisher unveröffentlichten Verse hat mir ein Freund<lb/>
+<rs type="pers" ana="n_32792" ref="#fk__p_40244">Daniel Spitzer’s</rs> zur Verfügung gestellt. Sie sind recht zeitgemäß und<lb/>
+schon darum ein Unikum, weil der berühmte Wiener Spaziergänger —<lb/>
+außer zu <DATERANGE>Beginn der Sechziger Jahre</DATERANGE> als lyrischer »<rs type="title">Wiener Flaneur</rs>« —<lb/>
+nie Verse verfaßt hat. Der Freund, dem <rs type="pers" ana="n_32793" ref="#fk__p_40244">Spitzer</rs> einmal das Epigramm<lb/>
+aufschrieb und schenkte, hat mich auch durch die Übersendung des Manuskriptes<lb/>
+ eines »<rs type="title">Wiener Spaziergangs</rs>«, das nie gedruckt wurde und<lb/>
+einem Verbote des Autors gemäß auch heute nicht gedruckt werden darf,<lb/>
+geehrt. Hoffentlich nimmt’s die ‚<rs type="paper" ana="werk_13667">Neue Freie Presse</rs>‘ ihm und dem Andenken<lb/>
+ ihres neben <rs type="pers" ana="n_32794" ref="#fk__p_49331">Ludwig Speidel</rs> bedeutendsten Mitarbeiters nicht übel.<lb/>
+<abbr>Anm. d.</abbr> Herausgebers.</FN0_TEXT0><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_40244">
+               <persName>Spitzer, Daniel </persName>
+               <birth>
+                  <date>1835-07-03</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1893-1-11</date>
+                  <place>Meran</place>
+               </death>
+               <occupation>Rechtsanwalt</occupation>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Journalist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/25237</idno></person>
+            <person xml:id="fk__p_49331">
+               <persName>Speidel, Ludwig</persName>
+               <birth>
+                  <date>1830-4-11</date>
+                  <place>Ulm</place>
+               </birth>
+               <death>
+                  <date>1906-2-3</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Kritiker</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12816</idno></person>
+            </listPerson></back></text>
+</TEI>

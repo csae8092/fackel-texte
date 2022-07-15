@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06151.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06150.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06152.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ein Tag aus dem Leben des Prinzen Eitel Friedrich, in: Fackel Heft 14, Nr. 370, 1913, S. 41-42</title>
+            <title type="iso-date">1913-03-01</title>
+            <title type="id">tid_06151</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">14</title><title type="heft">370</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-14-370_n0041.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/370,041</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ein Tag aus dem Leben des Prinzen Eitel Friedrich</head>
+            <p ana="pr82940">
+<space/>»Um ½6 Uhr früh fuhr der Prinz mit seinem Gefolge vor<lb/>
+dem <rs type="inst">Hotel <rs type="pers" ana="n2_5096" ref="#fk__p_58809">Ritz</rs></rs> vor, wo ihn die Besitzerin, Frau <rs type="pers" ana="n_58004" key="#fk__p_52309">Ritz</rs>, begrüßte.<lb/>
+Der Prinz grüßte militärisch und <seg type="spc">stellte sich vor</seg>: »<rs type="pers" ana="n_58005" ref="#fk__p_42484">Eitel Friedrich,<lb/>
+Prinz von Preußen</rs>.« <seg type="spc">Den ungarischen Gruß des Portiers</seg><lb/>
+<foreign xml:lang="hu">»<seg type="spc">Jo est et</seg>«</foreign> (<seg type="spc">Guten Abend</seg>) <seg type="spc">erwiderte der Prinz mit den<lb/>
+gleichen Worten in ungarischer Sprache</seg>. Dann stellte er<lb/>
+</p>
+            <p ana="pr82940">
+<seg type="spc">eigenhändig</seg> den Meldezettel aus und schrieb seinen Namen ein:<lb/>
+<rs type="pers" ana="n_58006" ref="#fk__p_42484">Eitel Friedrich, Prinz von Preußen</rs>, Major und Bataillonskommandant<lb/>
+des ersten Garderegiments zu Fuß. Wohnort: Potsdam. Als der Prinz<lb/>
+ersucht wurde, sich die Zimmer auszuwählen, sagte er, <seg type="spc">er wolle erst<lb/>
+sein Gepäck abwarten</seg> und indessen einen Spaziergang unternehmen.<lb/>
+Er begab sich zum Donaukai, wo gerade ein lebhafter Korso war. Da<lb/>
+man besorgte, daß der Prinz <seg type="spc">sich verirren könnte</seg>, <seg type="spc">eilte ihm</seg> der<lb/>
+<rs type="inst">Generalkonsul</rs> <rs type="pers" ana="n_58007" ref="#fk__p_44668">Graf Fürstenberg-Stammheim</rs> <seg type="spc">nach</seg>, mit dem der Prinz<lb/>
+dann eine Stunde lang spazieren ging. Nach seiner Rückkehr ins Hotel<lb/>
+erledigte er in seinen Appartements einige Briefe und nahm dann um<lb/>
+8 Uhr <seg type="spc">im Smoking</seg> mit seiner Suite im öffentlichen Speisesaal mitten<lb/>
+unter den anderen Gästen das Diner. Um 9 Uhr begab er sich in die<lb/>
+Halle, wo der <seg type="spc">schwarze Kaffee genommen und geraucht<lb/>
+wurde</seg>. Nachher besuchte der Prinz mit einigen Herren des Gefolges<lb/>
+das <rs type="inst">Orpheum</rs>, wo er in einer Proszeniumsloge <seg type="spc">mit großem Interesse</seg><lb/>
+der Vorstellung folgte. Morgen um ½3 Uhr reist der Prinz von<lb/>
+Budapest ab.«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_44668">
+               <persName>Fürstenberg-Stammheim, Egon Franz Graf</persName>
+               <birth>
+                  <date>1869-11-24</date>
+                  <place>Herdringen/Westfalen</place>
+               </birth>
+               <death>
+                  <date>1925-5-25</date>
+               </death>
+               <occupation>Diplomat</occupation>
+               <note type="comment">Ögg: Franz Egon</note>
+               <note type="comment">Legationssekr. bei der dt. Botschaft in Wien</note>
+            </person>
+            <person xml:id="fk__p_58809">
+               <persName>Ritz (Hotel)</persName>
+            </person>
+            <person xml:id="fk__p_42484">
+               <persName>Eitel Friedrich, Prinz von Preußen</persName>
+               <birth>
+                  <date>1883-7-7</date>
+                  <place>Potsdam</place>
+               </birth>
+               <death>
+                  <date>1942-12-8</date>
+                  <place>Potsdam</place>
+               </death>
+            </person>
+            </listPerson></back></text>
+</TEI>

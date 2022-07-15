@@ -1,0 +1,93 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01500.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01499.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01501.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Personalnachrichten.), in: Fackel Heft 02, Nr. 063, 1900, S. 28-28</title>
+            <title type="iso-date">1900-12-01</title>
+            <title type="id">tid_01500</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">063</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-063_n0028.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/063,028</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Personalnachrichten.)</head>
+            <p ana="pr14683">
+<space/>[<seg type="insult"><seg type="spc">Personal-Nachrichten</seg>.</seg>] <seg type="insult"><rs type="pers" ana="n_12127" ref="#fk__p_50377">Moriz <seg type="spc">Handl</seg></rs>, der aus <rs type="selfRef" ana="werk_4664"><abbr>Nr.</abbr> 47</rs><lb/>
+der ‚<rs type="self" ana="werk_4665">Fackel</rs>‘ bekannte frühere Londoner Correspondent der ‚<rs type="paper" ana="werk_4666">Neuen<lb/>
+Freien Presse</rs>‘</seg>, wird den Neujahrstag in Wien bei <seg type="insult"><rs type="pers" ana="n_12128" ref="#fk__p_50373"><choice><sic>Benedict</sic><corr>Benedikt</corr></choice></rs><lb/>
+&amp; <rs type="pers" ana="n_12129" ref="#fk__p_38657">Bacher</rs></seg> zubringen, um mit ihnen einig zu werden, ob seine derzeitigen<lb/>
+ Berichte aus <seg type="spc">Berlin</seg> des besseren Incognito wegen mit<lb/>
+<seg type="insult"><rs type="pers" ana="n_12130" ref="#fk__p_50377"><abbr>m. h.</abbr></rs>, <rs type="pers" ana="n_12131" ref="#fk__p_50377"><abbr>M. H.</abbr></rs> oder <rs type="pers" ana="n_12132" ref="#fk__p_50377"><abbr>Dr.</abbr> <SPAN norm="Handl">H—l</SPAN></rs></seg> signiert werden sollen. Die Rückreise<lb/>
+wird <rs type="pers" ana="n_12133" ref="#fk__p_50377">Handl</rs> via London machen, um dort die <foreign xml:lang="en">stockbrokers</foreign> <rs type="inst"><rs type="pers" ana="n2_980" key="#fk__p_58251"><abbr>J.</abbr> Mayer</rs><lb/>
+and <abbr>Co.</abbr></rs> bezüglich der Kleinigkeit von 8562 Pfd. Sterling 10 Shilling<lb/>
+zu <seg type="spc">interviewen</seg>. — Am zweiten Weihnachtstage russischen Stils<lb/>
+wird <rs type="pers" ana="n_12134" ref="#fk__p_42482">Angelo <seg type="spc">Eisner von Eisenhof</seg></rs> in der russischen Kirche<lb/>
+(Rennweg) anlässlich der Wiedergenesung des Zaren die russische<lb/>
+Volkshymne singen.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_50373">
+               <persName>Benedikt, Moriz</persName>
+               <birth>
+                  <date>1849-5-27</date>
+                  <place>Kwatschitz/Mähren</place>
+               </birth>
+               <death>
+                  <date>1920-3-18</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <note type="comment">Geburtsort Kwatschitz bei Ungarisch Hradisch/Mähren, nicht Kwassitz bei Kremsier</note>
+               <note type="comment">1. Tor, 20/1/1a</note>
+               <note type="comment">Hrsg. der NFP (seit 1908 alleiniger Leiter)</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10875</idno></person>
+            <person xml:id="fk__p_42482">
+               <persName>Eisner-Eisenhof, Angelo Franz Baron von</persName>
+               <birth>
+                  <date>1857-1-24</date>
+                  <place>Triest</place>
+               </birth>
+               <death>
+                  <date>1938-4-2</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Großgrundbesitzer</occupation>
+               <occupation>Industrieller</occupation>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Hrsg. der "Information", dilettierte als Bariton</note>
+               <note type="comment">ZF 34B/2/G 1 Gruft Winter - Eisner - Martini ohne Daten auf dem Grabstein</note>
+               <note type="comment">18.8.1911 Kurgast Angel --- bei den Kaiser-Geburtstagsfeiern 331/31</note>
+               <note type="comment">Friedhofsdatei Eisner, Angela!!</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/15810</idno></person>
+            <person xml:id="fk__p_38657">
+               <persName>Bacher, Eduard</persName>
+               <birth>
+                  <date>1846-03-07</date>
+                  <place>Postelberg/Böhmen</place>
+               </birth>
+               <death>
+                  <date>1908-01-16</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <note type="comment">Ögg: 177/8 als indirekt gekennzeichnet</note>
+               <note type="comment">Daten stimmen mit Grabstein überein</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10809</idno></person>
+            <person xml:id="fk__p_50377">
+               <persName>Handl, Moriz</persName>
+               <birth>
+                  <date>1867-10-31</date>
+                  <place>Wien</place>
+               </birth>
+               <occupation>Journalist</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

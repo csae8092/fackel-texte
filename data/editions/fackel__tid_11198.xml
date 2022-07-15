@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_11198.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11197.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11199.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ungefähr, in: Fackel Heft 31, Nr. 820, 1929, S. 53-53</title>
+            <title type="iso-date">1929-10-01</title>
+            <title type="id">tid_11198</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">31</title><title type="heft">820</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-31-820_n0053.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/820,053</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ungefähr</head>
+            <p ana="pr162247">
+<space/><rs type="pers" ana="n_97305" ref="#fk__p_49270">Ludovic Halévy</rs> — der für <rs type="pers" ana="n_97306" ref="#fk__p_45865">Meilhac</rs> das war, <seg type="spc">was <rs type="pers" ana="n_97307" ref="#fk__p_38066">Grünwald</rs><lb/>
+für <rs type="pers" ana="n_97308" ref="#fk__p_47240">Brammer</rs> ist</seg> — <seg type="symbol" subtype="4dots"/><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_45865">
+               <persName>Meilhac, Henri</persName>
+               <birth>
+                  <date>1831-2-21</date>
+                  <place>Paris</place>
+               </birth>
+               <death>
+                  <date>1897-7-6</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12222</idno></person>
+            <person xml:id="fk__p_47240">
+               <persName>Brammer, Julius</persName>
+               <birth>
+                  <date>1877-3-9</date>
+                  <place>Sehraditz/Mähren</place>
+               </birth>
+               <death>
+                  <date>1943-4-18</date>
+                  <place>Juan-les-Pins</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <occupation>Dramaturg</occupation>
+               <occupation>Schriftsteller</occupation>
+            </person>
+            <person xml:id="fk__p_38066">
+               <persName>Grünwald, Alfred</persName>
+               <birth>
+                  <date>1884-2-16</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1951-2-25</date>
+                  <place>Forest Hills, N. Y.</place>
+               </death>
+               <occupation>Theateragent</occupation>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Kritiker</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/7587</idno></person>
+            <person xml:id="fk__p_49270">
+               <persName>Halévy, Ludovic</persName>
+               <birth>
+                  <date>1834-1-1</date>
+                  <place>Paris</place>
+               </birth>
+               <death>
+                  <date>1908-5-8</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15864</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/4197</idno></person>
+            </listPerson></back></text>
+</TEI>

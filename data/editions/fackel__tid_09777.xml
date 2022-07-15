@@ -1,0 +1,48 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_09777.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09776.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09778.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">2. März:, in: Fackel Heft 26, Nr. 649, 1924, S. 75-75</title>
+            <title type="iso-date">1924-06-01</title>
+            <title type="id">tid_09777</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">26</title><title type="heft">649</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-26-649_n0075.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/649,075</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>2. März:</head>
+            <p ana="pr132488">
+<space/><date>2. März</date>:<lb/>
+</p>
+            <p ana="pr132489">
+<space/>I. <rs type="pers" ana="n_80970" ref="#fk__p_46919"><seg type="spc">Nestroy</seg></rs>: <rs type="title"><seg type="spc"><rs type="pers">Judith</rs> und <rs type="pers">Holofernes</rs></seg></rs>.<lb/>
+</p>
+            <p ana="pr132490">
+<space/>II. <rs type="pers" ana="n_80971" ref="#fk__p_46919"><seg type="spc">Nestroy</seg></rs>: <rs type="title"><seg type="spc">Das Notwendige und das</seg> Überflüssige<lb/>
+</rs> (»<rs type="title">Lied von der Chimäre</rs>« wiederholt).<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46919">
+               <persName>Nestroy, Johann Nepomuk</persName>
+               <birth>
+                  <date>1801-12-7</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1862-5-25</date>
+                  <place>Graz</place>
+               </death>
+               <occupation>Sänger</occupation>
+               <occupation>Schauspieler</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12338</idno></person>
+            </listPerson></back></text>
+</TEI>

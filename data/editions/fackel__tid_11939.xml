@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_11939.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11938.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11940.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Vieillard terrible, in: Fackel Heft 33, Nr. 857, 1931, S. 123-123</title>
+            <title type="iso-date">1931-08-01</title>
+            <title type="id">tid_11939</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">33</title><title type="heft">857</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-33-857_n0123.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/857,123</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Vieillard terrible</head>
+            <p ana="pr172801">
+<space/><rs type="pers" ana="n_103169" ref="#fk__p_39112">Bernard Shaw</rs> hat <rs type="pers" ana="n_103170" ref="#fk__p_54249">Siegfried Trebitsch</rs> die Mitteilung zukommen<lb/>
+lassen, daß er mit der Fertigstellung einer neuen Komödie beschäftigt<lb/>
+sei. — — Das Stück befaßt sich mit der durch den Krieg und seine<lb/>
+Folgen zusammengebrochenen Moral der Welt. <rs type="pers" ana="n_103171" ref="#fk__p_39112">Shaw</rs> schreibt, seine<lb/>
+neue Arbeit sei eine »<seg type="spc">sträflich-lustige</seg> Komödie«.<lb/>
+</p>
+            <p ana="pr172803">
+Eine Satire auf die durch den Krieg und seine Folgen zusammengebrochene<lb/>
+ Moral der Welt wäre der purste Undank <seg type="insult">des Herrn<lb/>
+<rs type="pers" ana="n_103172" ref="#fk__p_39112">Shaw</rs></seg>, der diesem Zusammenbruch seine europäische Geltung als<lb/>
+Dramatiker und die <seg type="insult">tägliche Überlieferung seiner ermüdenden<lb/>
+Bonmots</seg> verdankt.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_39112">
+               <persName>Shaw, George Bernard</persName>
+               <birth>
+                  <date>1856-7-26</date>
+                  <place>Dublin</place>
+               </birth>
+               <death>
+                  <date>1950-11-2</date>
+                  <place>Ayot St. Lawrence</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">226/21: Tanner, Katechismus des Umstürzlers, zu "Mensch und Übermensch"</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2381</idno></person>
+            <person xml:id="fk__p_54249">
+               <persName>Trebitsch, Siegfried</persName>
+               <birth>
+                  <date>1868-12-22</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1956-6-3</date>
+                  <place>Zürich</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Übersetzer</occupation>
+               <note type="comment">Eltern: Leopold Trebitsch (gest. 12.12.1906) und Malvine, geb. Singer (gest. 8.4.1918)</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_20796</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12968</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,47 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_09319.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09318.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09320.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Druckfehlerverzeichnis zur Fackel), in: Fackel Heft 24, Nr. 608, 1922, S. 37-38</title>
+            <title type="iso-date">1922-12-01</title>
+            <title type="id">tid_09319</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">24</title><title type="heft">608</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-24-608_n0037.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/608,037</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Druckfehlerverzeichnis zur Fackel)</head>
+            <p ana="pr123995">
+<space/><FCORR href="FK-24-601_n0053.xml" ferrID="fk_04_ferr_28909502" id="fk_04_fcorr_28909502">In <rs type="selfRef" ana="werk_23700"><abbr>Nr.</abbr> 601—607</rs>, <abbr>S.</abbr> 53, <abbr>Z.</abbr> 10 statt »kommt mir wenig an«:<lb/>
+<EM href="FK-24-601_n0053.xml" ferrID="fk_04_ferr_28909502" id="fk_04_em_28909504">kommt <seg type="i">es</seg> mir wenig an</EM>;</FCORR> <FCORR href="FK-24-601_n0067.xml" ferrID="fk_04_ferr_28909507" id="fk_04_fcorr_28909507"><abbr>S.</abbr> 67, <abbr><SPAN cont="Z.">Z<ADD>.</ADD></SPAN></abbr> 8 <abbr>v. u.</abbr> statt »besammen«:<lb/>
+<EM href="FK-24-601_n0067.xml" ferrID="fk_04_ferr_28909507" id="fk_04_em_28909510"><SPAN cont="beisammen"><seg type="i">bei</seg>sammen</SPAN></EM>;</FCORR> <FCORR href="FK-24-601_n0077.xml" ferrID="fk_04_ferr_28909513" id="fk_04_fcorr_28909513"><abbr>S.</abbr> 77, <abbr>Z.</abbr> 10 statt »Kontreadmirals <rs type="pers" ana="n_76176" ref="#fk__p_51365">Persius</rs>«: <EM href="FK-24-601_n0077.xml" ferrID="fk_04_ferr_28909513" id="fk_04_em_28909518"><seg type="i">Kapitäns zur<lb/>
+See</seg> <rs type="pers" ana="n_76177" ref="#fk__p_51365">Persius</rs></EM>;</FCORR> <FCORR href="FK-24-601_n0077.xml" ferrID="fk_04_ferr_28909522" id="fk_04_fcorr_28909522"><abbr>ebda.</abbr> <abbr>Z.</abbr> 18 statt »haben.!«: <seg type="i"><EM href="FK-24-601_n0077.xml" ferrID="fk_04_ferr_28909522" id="fk_04_em_28909524">haben!</EM>;</seg></FCORR> <FCORR href="FK-24-601_n0087.xml" ferrID="fk_04_ferr_28909527" id="fk_04_fcorr_28909527"><abbr>S.</abbr> 87, <abbr>Z.</abbr> 6 statt »von«:<lb/>
+<seg type="i"><EM href="FK-24-601_n0087.xml" ferrID="fk_04_ferr_28909527" id="fk_04_em_28909530">vor</EM>;</seg></FCORR> <FCORR href="FK-24-601_n0101.xml" ferrID="fk_04_ferr_28909533" id="fk_04_fcorr_28909533"><abbr>S.</abbr> 101, <abbr>Z.</abbr> 14 statt »wider«: <seg type="i"><EM href="FK-24-601_n0101.xml" ferrID="fk_04_ferr_28909533" id="fk_04_em_28909535">wieder</EM></seg>;</FCORR> <FCORR href="FK-24-601_n0126.xml" ferrID="fk_04_ferr_28909543" id="fk_04_fcorr_28909543"><abbr>S.</abbr> 126, <abbr>Z.</abbr> 12 <abbr>v. u.</abbr> <EM href="FK-24-601_n0126.xml" ferrID="fk_04_ferr_28909543" id="fk_04_em_28909546">das Wort »zu«<lb/>
+zu streichen</EM>;</FCORR> <FCORR href="FK-24-601_n0129.xml" ferrID="fk_04_ferr_28909549" id="fk_04_fcorr_28909549"><abbr>S.</abbr> 129, <abbr>Z.</abbr> 18, 19 statt »zurückzuführen«: <seg type="i"><EM href="FK-24-601_n0129.xml" ferrID="fk_04_ferr_28909549" id="fk_04_em_28909552">zurückführen</EM></seg>.</FCORR><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_51365">
+               <persName>Persius, Lothar</persName>
+               <birth>
+                  <date>1864-4-19</date>
+                  <place>Kyritz</place>
+               </birth>
+               <death>
+                  <date>1944-8-31</date>
+                  <place>Ascona</place>
+               </death>
+               <occupation>Marineoffizier</occupation>
+               <occupation>Journalist</occupation>
+               <note type="comment">"Der Seekrieg", Charlottenburg 1918</note>
+               <note type="comment">Kontre-Admiral</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

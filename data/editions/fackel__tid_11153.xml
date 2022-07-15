@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_11153.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11152.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11154.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Eine Reklamenotiz, in: Fackel Heft 31, Nr. 820, 1929, S. 21-21</title>
+            <title type="iso-date">1929-10-01</title>
+            <title type="id">tid_11153</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">31</title><title type="heft">820</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-31-820_n0021.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/820,021</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Eine Reklamenotiz</head>
+            <p ana="pr161677">
+<space/>Gestern mittag <seg type="spc">erschien</seg> der Wiener <seg type="spc">amerikanische<lb/>
+Gesandte <abbr>Mr.</abbr> <rs type="pers" ana="n_97132" ref="#fk__p_55268">Washburne</rs></seg> im <rs type="inst">Polizeipräsidium</rs> und <seg type="spc">stattete</seg><lb/>
+dem neuen Bundeskanzler <rs type="pers" ana="n_97133" ref="#fk__p_46939"><seg type="spc">Schober</seg></rs> einen Besuch ab. Die Konferenz<lb/>
+dauerte drei Viertelstunden. <seg type="spc">Wie wir erfahren</seg>, <seg type="spc">nahm</seg><abbr> Mr.</abbr> <rs type="pers" ana="n_97134" ref="#fk__p_55268">Washburne<lb/>
+</rs> <seg type="spc">Gelegenheit</seg>, die <seg type="spc">Frage</seg> der Übernahme des <rs type="inst">Bundeskanzleramtes<lb/>
+</rs> durch den Polizeipräsidenten <rs type="pers" ana="n_97135" ref="#fk__p_46939">Schober</rs> <seg type="spc">vom Standpunkt der<lb/>
+Wirkung auf das Ausland</seg> zu <seg type="spc">erörtern</seg>. Gesandter <rs type="pers" ana="n_97136" ref="#fk__p_55268">Washburne</rs><lb/>
+<seg type="spc">war in der Lage</seg>, dem neuen Kanzler <seg type="spc">vor Augen zu führen</seg>,<lb/>
+daß eine neue Regierung <seg type="spc">unter der Führung <rs type="pers" ana="n_97137" ref="#fk__p_46939">Schobers</rs></seg> in<lb/>
+neu einzuleitenden Anleiheverhandlungen <seg type="spc">eine ungleich<lb/>
+günstigere Position</seg> hätte, als die vorangegangene.<lb/>
+</p>
+            <p ana="pr161679">
+Aus der <seg type="insult"><rs type="perRef" ana="werk_29542">Würdenträgerpresse</rs></seg>? <FERR id="ferr_191" fcorrID="fcorr_191" href="FK-31-827_n0116.xml" emID="em_191"><ERR fcorr="Nein,">Nein</ERR></FERR> aus dem <seg ana="‚Kleinen Blatt‘"/>, das<lb/>
+einst, als ich in der Lage war, jenem etwas vor Augen zu führen,<lb/>
+den Titel hatte<lb/>
+</p>
+            <p ana="pr161683">
+<seg type="insult">Der »<rs type="pers" ana="n_97138" key="#fk__p_43236"><foreign xml:lang="de-loc">Ferdl</foreign></rs> vom <rs type="paper" ana="werk_29544">Kleinen Blatt</rs>«</seg> soll erklärt haben, daß er nicht<lb/>
+mehr mitspiele. Er ist zum ‚<rs type="magazine" ana="werk_29545">Kuckuck</rs>‘ gegangen, wo er als<lb/>
+<seg type="insult"><foreign xml:lang="de-loc">»<rs type="pers" ana="n_97139" key="#fk__p_43236"><SPAN cont="Kuckuck-Tonl"><rs type="magazine" ana="werk_29546">Kuckuck</rs>-Tonl</SPAN></rs>«</foreign></seg> fröhliche Urständ feiert. Wer das <rs type="paper" ana="werk_29547">Kleine Blatt</rs><lb/>
+erkennt und mit der alten Tendenz in der Hand verhaftet, erhält<lb/>
+eine Ergreiferprämie.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_55268">
+               <persName>Washburn, Albert Henry</persName>
+               <birth>
+                  <date>1866-4-11</date>
+                  <place>Middleborough, Mass.</place>
+               </birth>
+               <death>
+                  <date>1930-3-29</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Diplomat</occupation>
+               <note type="comment">Ögg: Washburn, Richard</note>
+               <note type="comment">1922-30 US-Botschafter in Wien</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/26685</idno></person>
+            <person xml:id="fk__p_46939">
+               <persName>Schober, Johannes</persName>
+               <birth>
+                  <date>1874-11-14</date>
+                  <place>Perg, Oberösterreich</place>
+               </birth>
+               <death>
+                  <date>1932-8-19</date>
+                  <place>Baden bei Wien</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <note type="comment">Pfarramt Perg: Taufregister: Johannes, Grabstein: Johannes Schober, nicht Johann</note>
+               <note type="comment">Vornamensschreibweise ebenso Czeike, ÖBL</note>
+               <note type="comment">Lebenslauf: NFP 26.9.1929, Seite 4</note>
+               <note type="comment">seit 21.06.1921 Bundeskanzler bis 26.01.1922, von 27.01.1922 bis 24.05.1922, von 26.09.1929 bis 25.09.1930</note>
+               <note type="comment">Polizeipräsident; 1921/22, 1929/30 Bundeskanzler und Außenminister</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/24444</idno></person>
+            </listPerson></back></text>
+</TEI>

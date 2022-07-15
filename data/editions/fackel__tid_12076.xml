@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_12076.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_12075.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_12077.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Sic transit, in: Fackel Heft 34, Nr. 876, 1932, S. 50-50</title>
+            <title type="iso-date">1932-10-01</title>
+            <title type="id">tid_12076</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">34</title><title type="heft">876</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-34-876_n0050.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/876,050</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Sic transit</head>
+            <p ana="pr176192">
+<space/>Die <seg type="insult">Schlamperei des <SPAN cont="Vorkriegsösterreichs">Vorkriegsösterre<seg type="spc">ichs</seg></SPAN></seg>, die Zersetzung<lb/>
+der Armee im Kriege, hat <rs type="pers" ana="n_105070" ref="#fk__p_52385"><seg type="spc">Roda Roda</seg></rs>, nicht als Ankläger, aber als<lb/>
+überlegener Spötter, deutlicher als <seg type="spc">mancher andere</seg> aufgezeigt.<lb/>
+</p>
+            <p ana="pr176194">
+Sagt im <seg type="insult"><seg ana="Zentralorgan"/> gegen <rs type="pers" ana="n_105071" ref="#fk__p_47263">Krupnik</rs></seg> einer, der <seg type="insult">sämtliche<lb/>
+satirischen Motive des <seg type="ELIDASH">Vorkriegsösterreich(s)</seg> wie des Nachkriegsösterreich(s)</seg><lb/>
+von manchem anderen übernommen hat — mit Ausnahme der<lb/>
+Sprachlehre —, während mancher andere von sozialdemokratischer<lb/>
+Seite bloß das Motiv »Verklungen und vertan« zu übernehmen<lb/>
+pflegt. Oder nunmehr: ausgerodet. Es dürfte wohl <seg type="insult">der stärkste<lb/>
+Fall von Transit-Verkehr</seg> vorliegen, den eine <seg type="insult"><foreign xml:lang="la">gloria mundi</foreign></seg><lb/>
+jemals erlebt hat. Die stärkste Analogie zu dem Verhältnis <seg type="insult">des<lb/>
+deutschen Mannes</seg> zu dem Franzen, der die Weine hat: jene<lb/>
+finden andauernd Geschmack an mir, die mich nicht schmecken<lb/>
+können. Freilich, so groß könnte der Genuß niemals sein wie die<lb/>
+Enttäuschung. Sie glaubten, ich trüge eine rote Weste.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_52385">
+               <persName>Roda Roda, Alexander</persName>
+               <birth>
+                  <date>1872-4-13</date>
+                  <place>Drnowitz, Mähren</place>
+               </birth>
+               <death>
+                  <date>1945-8-20</date>
+                  <place>New York</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/9546</idno></person>
+            <person xml:id="fk__p_47263">
+               <persName>Krupnik, Julius</persName>
+               <birth>
+                  <date>1877-11-5</date>
+                  <place>Trzowitz/Polen</place>
+               </birth>
+               <occupation>Kaufhausbesitzer</occupation>
+               <note type="comment">7., Kaiserstr. 111-115</note>
+               <note type="comment">verh. 1909 mit Olga Tausend</note>
+               <note type="comment">Emigration 1938 New York, 1947 Palästina</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,93 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01032.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01031.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01033.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Musiker. (Goldmark-Jubiläum), in: Fackel Heft 02, Nr. 043, 1900, S. 29-29</title>
+            <title type="iso-date">1900-06-01</title>
+            <title type="id">tid_01032</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">043</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-043_n0029.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/043,029</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Musiker. (Goldmark-Jubiläum)</head>
+            <p ana="pr9888">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_8030" ref="#fk__p_50471">Musiker</rs>.</seg></seg> Sie theilen mir mit, dass anlässlich des <rs type="pers" ana="n_8031" ref="#fk__p_44538"><seg type="spc">Goldmark-Jubiläums</seg><lb/>
+</rs> <seg type="insult">außer den Herren <rs type="pers" ana="n_8032" ref="#fk__p_52178">Heuberger</rs> und <rs type="pers" ana="n_8033" ref="#fk__p_49936">Kalbeck</rs> auch noch Herr<lb/>
+<rs type="pers" ana="n_8034" ref="#fk__p_49302">Karpath</rs></seg> gefeiert wurde. Das habe ich in der That übersehen. Nun<lb/>
+erklärt sich’s, warum der arme <rs type="pers" ana="n_8035" ref="#fk__p_44538">Goldmark</rs> so völlig verdunkelt wurde.<lb/>
+»Um ihn stand« — so hieß es in den <seg type="insult">Festberichten</seg> — <seg type="insult">»<abbr>u. a.</abbr> der<lb/>
+Musikschriftsteller <rs type="pers" ana="n_8036" ref="#fk__p_49302">Karpath</rs>«</seg>; und <seg type="insult">Herr <rs type="pers" ana="n_8037" ref="#fk__p_49302">Karpath</rs></seg> ist bekanntlich <seg type="insult">von<lb/>
+<seg type="spc">größtem</seg> Ansehen</seg> und <seg type="insult">eine der gewichtigsten Erscheinungen der<lb/>
+Wiener Musikerwelt</seg>. Wenn er an so markanter Stelle gleich neben<lb/>
+dem Jubilar gefeiert wurde, so hat sich dies übrigens <seg type="insult">Herr <rs type="pers" ana="n_8038" ref="#fk__p_49302">Karpath</rs></seg><lb/>
+<seg type="spc">selbst zuzuschreiben</seg>. Er ist nämlich, wie Sie mir mittheilen,<lb/>
+der Verfasser der Festberichte.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_52178">
+               <persName>Heuberger, Richard</persName>
+               <birth>
+                  <date>1850-6-18</date>
+                  <place>Graz</place>
+               </birth>
+               <death>
+                  <date>1914-10-28</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Komponist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11684</idno></person>
+            <person xml:id="fk__p_49302">
+               <persName>Karpath, Ludwig</persName>
+               <birth>
+                  <date>1866-4-27</date>
+                  <place>Pest</place>
+               </birth>
+               <death>
+                  <date>1936-9-8</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Musikschriftsteller</occupation>
+               <note type="comment">NWT 01.04.1913, Seite 14 Ein in der ersten Reihe stehender junger Mann rief </note>
+               <note type="comment">unaufhörlich "L......!" worauf Herr Buschbeck vom Podium eilte und dem</note>
+               <note type="comment">betreffenden jungen Mann eine Ohrfeige versetzte.</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11885</idno></person>
+            <person xml:id="fk__p_50471">
+               <persName>Musiker</persName>
+            </person>
+            <person xml:id="fk__p_44538">
+               <persName>Goldmark, Karl</persName>
+               <birth>
+                  <date>1830-5-18</date>
+                  <place>Keszthely</place>
+               </birth>
+               <death>
+                  <date>1915-1-2</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Komponist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/17172</idno></person>
+            <person xml:id="fk__p_49936">
+               <persName>Kalbeck, Max</persName>
+               <birth>
+                  <date>1850-1-4</date>
+                  <place>Breslau</place>
+               </birth>
+               <death>
+                  <date>1921-5-4</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Musikschriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11857</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_04920.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04919.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04921.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(„Mit der Presse spreche ich in keiner Sprache“), in: Fackel Heft 11, Nr. 285, 1909, S. 37-38</title>
+            <title type="iso-date">1909-07-27</title>
+            <title type="id">tid_04920</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">11</title><title type="heft">285</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-11-285_n0037.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/285,037</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(„Mit der Presse spreche ich in keiner Sprache“)</head>
+            <p ana="pr61287">
+<space/>»Wie schon erwähnt, werden diese von einer dem Hause<lb/>
+<rs type="pers" ana="n_45307" ref="#fk__p_60254">Rothschild</rs> näher bekannten Persönlichkeit mitgeteilten Einzelheiten<lb/>
+ wohl nicht bestätigt, wenn auch — was ja in diesem Falle<lb/>
+selbstverständlich ist — von seiten der Familie über die Todesursache<lb/>
+</p>
+            <p ana="pr61287">
+ ein gewisses Stillschweigen beobachtet wird.« Und an den<lb/>
+Verstorbenen selbst kann sich <seg type="insult">Herr <rs type="pers" ana="n_45308" ref="#fk__p_46698">Lippowitz</rs></seg> nicht wenden. Der<lb/>
+junge <rs type="pers" ana="n_45309" ref="#fk__p_60254">Rothschild</rs> würde gewiß noch jetzt, da er eine lokale Sensation<lb/>
+ verursacht hat, einem <seg type="insult">Reporter</seg> jede Auskunft verweigern.<lb/>
+Bei Lebzeiten war er nämlich so. Er ist von einer Weltreise zurückgekehrt<lb/>
+, um zu sterben. Aber schon auf der Weltreise wollte<lb/>
+er von den <seg type="insult">Reportern</seg> nichts wissen. Vielleicht schneidet <seg type="insult">Herr<lb/>
+<rs type="pers" ana="n_45310" ref="#fk__p_46698">Lippowitz</rs></seg> den Artikel von <foreign xml:lang="en">‚<rs type="paper" ana="werk_16901">The San Francisco Call</rs>‘</foreign> (<date>22. Mai</date>) aus.<lb/>
+Der Vertreter des <rs type="paperRef" ana="werk_16902">Blattes</rs> hatte den jungen Baron glücklich photographiert<lb/>
+, aber er konnte ihn nicht interviewen. Er hatte den<lb/>
+Dampfer in der Quarantäne aufgesucht und erfuhr nichts weiter,<lb/>
+als daß der Baron in Begleitung eines österreichischen Offiziers<lb/>
+reise. »Daß aber der junge Baron auch imstande wäre, auf sich<lb/>
+selbst acht zu geben, bewies er bei seinem ersten Zusammentreffen<lb/>
+mit der Presse. ‚Sprechen Sie englisch, Baron?‘ ‚Gewiß, mit meinen<lb/>
+ Bekannten. Wer sind <seg type="spc">Sie</seg>?‘ ‚Ich repräsentiere die Presse.‘<lb/>
+‚<seg type="spc">Mit der <seg type="insult">Presse</seg> spreche ich in keiner Sprache</seg>.‘ Sprachs<lb/>
+und wandte sich einer Dame zu« <seg type="symbol" subtype="3dots"/> Ehre seinem Andenken!<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46698">
+               <persName>Lippowitz, Jakob (Siegmund)</persName>
+               <birth>
+                  <date>1865-10-9</date>
+                  <place>Leipzig</place>
+               </birth>
+               <death>
+                  <date>1934-7-4</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17583</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/4054</idno></person>
+            <person xml:id="fk__p_60254">
+               <persName>Rothschild, Oscar Ruben Freiherr von</persName>
+               <birth>
+                  <date>1888-4-29</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1909-7-12</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Student</occupation>
+               <note type="comment">junger Rothschild, nach einer Weltreise in Wien gestorben, vielleicht ident mit 114/13</note>
+               <note type="comment">Prokurist Emil Horner übergibt dem Bürgermeister 10.000 K. für die Armen Wiens, die Baron Albert Rothschild anläßlich des Todes seines Sohnes Oskar gespendet hat NFP 14.7.09 (A), S. 1</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

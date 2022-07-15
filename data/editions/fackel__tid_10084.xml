@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_10084.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10083.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10085.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Aus einer „Geschichte der deutschen Literatur von den Anfängen bis zur Gegenwart“ von Karl Borinski), in: Fackel Heft 26, Nr. 679, 1925, S. 72-72</title>
+            <title type="iso-date">1925-03-01</title>
+            <title type="id">tid_10084</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">26</title><title type="heft">679</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-26-679_n0072.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/679,072</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Aus einer „Geschichte der deutschen Literatur von den Anfängen bis zur Gegenwart“ von Karl Borinski)</head>
+            <p ana="pr137261">
+<space/>In einer »<rs type="title">Geschichte der deutschen Literatur von den<lb/>
+Anfängen bis zur Gegenwart</rs>« von <rs type="pers" ana="n_84213" ref="#fk__p_47492">Karl Borinski</rs> (<rs type="inst">Union-Deutsche<lb/>
+Verlagsgesellschaft</rs>, ohne Angabe des Erscheinungsjahres) heißt es<lb/>
+nach einer Betrachtung <seg type="insult">des Herrn <rs type="pers" ana="n_84214" ref="#fk__p_43159">Dörmann</rs></seg>:<lb/>
+</p>
+            <p ana="pr137263">
+Seit den <DATERANGE>90er Jahren</DATERANGE> übt <seg type="insult">»<rs type="self" ana="werk_26526">Die Fackel</rs>«, <seg type="spc">ein kleines Wochenblatt<lb/>
+ von dem Böhmen <rs type="pers" ana="n_84215" ref="#fk__p_47565">Karl Kraus</rs></seg></seg> (<abbr>geb.</abbr> <date>1874</date>) unwillkommene<lb/>
+ ätzende Kritik an den Zuständen des Wiener Lebens und der<lb/>
+Wiener Gesellschaft.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_47565">
+               <persName>Kraus, Karl</persName>
+               <birth>
+                  <date>1874-4-28</date>
+                  <place>Jicin, Böhmen</place>
+               </birth>
+               <death>
+                  <date>1936-6-12</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Publizist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11988</idno></person>
+            <person xml:id="fk__p_47492">
+               <persName>Borinski, Karl</persName>
+               <birth>
+                  <date>1861-06-11</date>
+                  <place>Kattowitz</place>
+               </birth>
+               <death>
+                  <date>1922-01-12</date>
+                  <place>München</place>
+               </death>
+               <occupation>Literarhistoriker</occupation>
+            </person>
+            <person xml:id="fk__p_43159">
+               <persName>Dörmann, Felix</persName>
+               <birth>
+                  <date>1870-5-29</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1928-10-26</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Cousine Mizi von Stankowitz (Dickel, Salten)</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2425</idno></person>
+            </listPerson></back></text>
+</TEI>

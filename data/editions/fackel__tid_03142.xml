@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03142.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03141.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03143.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Kunstkritik, in: Fackel Heft 05, Nr. 138, 1903, S. 17-17</title>
+            <title type="iso-date">1903-05-20</title>
+            <title type="id">tid_03142</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">05</title><title type="heft">138</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-05-138_n0017.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/138,017</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Kunstkritik</head>
+            <p ana="pr30855">
+<seg type="insult"><seg type="spc">Herr <rs type="pers" ana="n_26775" ref="#fk__p_49299">Hevesi</rs></seg></seg>:<lb/>
+</p>
+            <p ana="pr30857">
+<space/>»Ein Kraftwesen mit titanischen<lb/>
+ Armen zerdrückt mit der<lb/>
+Faust den Kopf einer <rs type="pers"><seg type="spc">Hydra</seg></rs>,<lb/>
+diese aber reckt nur desto riesenhafter<lb/>
+ den anderen <seg type="spc">Hals</seg>, mit<lb/>
+dem anderen Kopfe, in die<lb/>
+oberen lichten Regionen auf <seg type="symbol" subtype="3dots"/>«<lb/>
+</p>
+            <p ana="pr30859">
+<seg type="insult"><seg type="spc">Herr <rs type="pers" ana="n_26776" ref="#fk__p_43580">Servaes</rs></seg></seg>.<lb/>
+</p>
+            <p ana="pr30861">
+<space/>»Vor ihm gleitet ein fischartiges<lb/>
+ Ungethüm nieder, auf<lb/>
+dessen steil gestrecktem <seg type="spc">Schweif</seg><lb/>
+sich ein schmerzvoll verzerrtes<lb/>
+<rs type="pers"><seg type="spc">Medusenhaupt</seg></rs> hebt <seg type="symbol" subtype="3dots"/>«
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_49299">
+               <persName>Hevesi, Ludwig</persName>
+               <birth>
+                  <date>1843-12-20</date>
+                  <place>Heves, Ungarn</place>
+               </birth>
+               <death>
+                  <date>1910-2-27</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11687</idno></person>
+            <person xml:id="fk__p_43580">
+               <persName>Servaes, Franz Theodor Hubert</persName>
+               <birth>
+                  <date>1862-7-17</date>
+                  <place>Köln</place>
+               </birth>
+               <death>
+                  <date>1947-7-14</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Kritiker</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_20068</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12772</idno></person>
+            </listPerson></back></text>
+</TEI>

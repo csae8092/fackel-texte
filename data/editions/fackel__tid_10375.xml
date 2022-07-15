@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_10375.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10374.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10376.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Mittlerer Konzerthaussaal, 8. Oktober, 7 Uhr:, in: Fackel Heft 27, Nr. 706, 1925, S. 85-85</title>
+            <title type="iso-date">1925-12-01</title>
+            <title type="id">tid_10375</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">27</title><title type="heft">706</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-27-706_n0085.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/706,085</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Mittlerer Konzerthaussaal, 8. Oktober, 7 Uhr:</head>
+            <p ana="pr141707">
+<space/><rs type="inst">Mittlerer Konzerthaussaal</rs>, <date>8. Oktober</date>, 7 Uhr:<lb/>
+</p>
+            <p ana="pr141708">
+<space/>I. <rs type="title"><seg type="insult">Radio</seg></rs>. — <rs type="title">Zitat aus <rs type="pers" ana="n2_7681" ref="#fk__p_46893">Herder</rs></rs> / <rs type="title">Inschriften</rs>: <rs type="title"><seg type="insult">Die Zeitung</seg></rs>;<lb/>
+<rs type="title"><seg type="insult">Analyse</seg></rs>; <rs type="title">Verschiedene Sachlichkeit</rs>; <rs type="title"><seg type="insult">Das Berufsgeheimnis</seg></rs>; <rs type="title">Die <seg type="insult">Freiheit</seg>,<lb/>
+die ich nicht meine</rs>; <rs type="title"><seg type="insult"><foreign xml:lang="la">Tempora, mores</foreign></seg></rs>; <rs type="title"><seg type="insult"><rs type="paper" ana="werk_27288">Die Stunde</rs></seg></rs>; <rs type="title">Produktion</rs>. —<lb/>
+<rs type="title"><seg type="insult">Ein teuflischer Plan</seg></rs> / <rs type="title"><seg type="insult">Ein merkwürdiger Zwischenfall und seine<lb/>
+natürliche Erklärung</seg> (<seg type="insult">Versuch einer Traumanalyse</seg>)</rs>. — <rs type="title"><seg type="insult">Aus der Barockzeit<lb/>
+</seg></rs>. — <rs type="title">Inschriften</rs>: <rs type="title"><seg type="insult">Die Journalisten</seg></rs>; <rs type="title"><seg type="insult">Die neuen Räuber</seg></rs>; <rs type="title"><seg type="insult"><rs type="pers" ana="n2_7682" ref="#fk__p_51499">Pirandello</rs></seg></rs>;<lb/>
+<rs type="title"><seg type="insult">Die Prominenten</seg></rs>; <rs type="title"><seg type="insult">Fortschritt</seg></rs>. — <rs type="title"><seg type="insult">Literatur und Lüge</seg></rs>. — <rs type="title">Inschriften</rs>:<lb/>
+<rs type="title">Jedem das Seine</rs>; <rs type="title"><seg type="insult">Die Schnüffler</seg></rs>; <rs type="title"><seg type="insult">Das Ideal</seg></rs>; <rs type="title">Ersatz</rs>; <rs type="title">Metamorphose</rs>. —<lb/>
+<rs type="title"><seg type="insult">Die Welt der ‚<rs type="magazine" ana="werk_27289">Bühne</rs>‘</seg></rs>.<lb/>
+</p>
+            <p ana="pr141709">
+<space/>II. <rs type="title"><seg type="insult"><RS pers="Imre Békessy">Hinaus aus Wien mit dem Schuft!</RS></seg></rs><lb/>
+</p>
+            <p ana="pr141710">
+<space/>Ein Teil des Ertrags (<abbr>inkl.</abbr> Programmerlös): S 118·17 für<lb/>
+Bedürftige.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46893">
+               <persName>Herder, Johann Gottfried von</persName>
+               <birth>
+                  <date>1744-08-25</date>
+                  <place>Mohrungen/Ostpreußen</place>
+               </birth>
+               <death>
+                  <date>1803-12-18</date>
+                  <place>Weimar</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Literaturtheoretiker</occupation>
+               <occupation>Theologe</occupation>
+               <note type="comment">geadelt 1802</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/4996</idno></person>
+            <person xml:id="fk__p_51499">
+               <persName>Pirandello, Luigi</persName>
+               <birth>
+                  <date>1867-6-28</date>
+                  <place>Agrigent</place>
+               </birth>
+               <death>
+                  <date>1936-12-10</date>
+                  <place>Rom</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12421</idno></person>
+            </listPerson></back></text>
+</TEI>

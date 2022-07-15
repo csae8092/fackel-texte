@@ -1,0 +1,48 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_10722.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10721.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10723.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(»Die letzten Tage der Menschheit«), in: Fackel Heft 28, Nr. 743, 1926, S. 64-64</title>
+            <title type="iso-date">1926-12-01</title>
+            <title type="id">tid_10722</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">28</title><title type="heft">743</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-28-743_n0064.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/743,064</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(»Die letzten Tage der Menschheit«)</head>
+            <p ana="pr149265">
+<space/>Am <date>25. Oktober</date> ist die neue Auflage der »<rs type="title"><seg type="spc">Letzten Tage<lb/>
+der Menschheit</seg></rs>« (17. bis 23. Tausend, einschließlich der Aktausgabe<lb/>
+) im <rs type="inst">Verlag ‚Die Fackel‘</rs> Wien—Leipzig erschienen. Diese<lb/>
+Neuauflage unterscheidet sich von den früheren durch ein neu<lb/>
+eingerichtetes Personenverzeichnis, das, die Seiten XI bis XXXV<lb/>
+umfassend, die Personen und die Örtlichkeit jeder einzelnen<lb/>
+Szene anführt wie auch die Seite des Werkes, auf der sie beginnt,<lb/>
+so daß ein rasches Auffinden ermöglicht ist. Die Anlegung dieses<lb/>
+Personenverzeichnisses stammt von <rs type="pers" ana="n_89617" ref="#fk__p_44294"><seg type="spc">Georg Jahoda</seg></rs>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_44294">
+               <persName>Jahoda, Georg</persName>
+               <birth>
+                  <date>1863-11-28</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1926-11-24</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Drucker</occupation>
+               <note type="comment">Miteigentümer der Druckerei Jahoda &amp; Siegel, in der die Fackel erschien</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/47142</idno></person>
+            </listPerson></back></text>
+</TEI>

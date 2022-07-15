@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01257.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01256.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01258.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Confuser Leser. (Wieder eine Verwechslung), in: Fackel Heft 02, Nr. 053, 1900, S. 32-32</title>
+            <title type="iso-date">1900-09-01</title>
+            <title type="id">tid_01257</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">053</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-053_n0032.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/053,032</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Confuser Leser. (Wieder eine Verwechslung)</head>
+            <p ana="pr12009">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="n_9882" ref="#fk__p_40067">Confuser Leser</rs>.</seg></seg></seg> Auf freien Fuß gesetzt wurde der <seg type="insult"><rs type="inst">Börsencomptoirsinhaber<lb/>
+</rs> <rs type="pers" ana="n_9883" ref="#fk__p_47921"><seg type="spc">Knöpflmacher</seg></rs></seg>. Der <seg type="insult"><rs type="inst">Börsencomptoirsinhaber</rs><lb/>
+<rs type="pers" ana="n_9884" ref="#fk__p_53920"><seg type="spc">Thalberg</seg></rs></seg> war <seg type="spc">stets</seg> auf freiem Fuße. Das Gesetz, das jene, die<lb/>
+»gewohnheitsmäßig in gewinnsüchtiger Absicht andere unter <seg type="insult">Ausbeutung<lb/>
+</seg> ihrer Unerfahrenheit oder ihres Leichtsinnes zu <rs type="inst">Börsenspeculationsgeschäften<lb/>
+</rs> verleiten«, mit Gefängnis und Ehrverlust bestraft,<lb/>
+gilt ja nur im Deutschen Reich.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_53920">
+               <persName>Thalberg, Josef</persName>
+               <birth>
+                  <date>1838-6-24</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1902-12-8</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Kaufmann</occupation>
+               <occupation>Bankier</occupation>
+               <occupation>Publizist</occupation>
+               <note type="comment">kais. ottomanischer Generalkonsul</note>
+               <note type="comment">Großhändler</note>
+               <note type="comment">Eig. des Finanzblattes "Der Kapitalist"</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/41894</idno></person>
+            <person xml:id="fk__p_47921">
+               <persName>Knöpflmacher, Sigmund</persName>
+               <birth>
+                  <date>1867</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1943-5-12</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Börsenmakler</occupation>
+               <note type="comment">Ges. der Fa. Herm. Knöpflmacher, 1., Graben 28</note>
+               <note type="comment">Bruder? Knöpflmacher, Arthur, Ges. der Fa. Herm. Knöpflmacher; Hrsg. der Oesterr.-ung. Finanz-Rundschau</note>
+               <note type="comment">heiratet 1893 Katharina Grund</note>
+            </person>
+            <person xml:id="fk__p_40067">
+               <persName>Confuser Leser</persName>
+            </person>
+            </listPerson></back></text>
+</TEI>

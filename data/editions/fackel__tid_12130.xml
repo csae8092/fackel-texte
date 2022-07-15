@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_12130.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_12129.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_12131.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Wissen Sie schon?, in: Fackel Heft 34, Nr. 876, 1932, S. 81-82</title>
+            <title type="iso-date">1932-10-01</title>
+            <title type="id">tid_12130</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">34</title><title type="heft">876</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-34-876_n0081.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/876,081</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Wissen Sie schon?</head>
+            <p ana="pr176776">
+<space/>daß <rs type="pers" ana="n_105290" ref="#fk__p_50826">Olly Gebauer</rs> regelrecht vermählt ist, und zwar mit dem<lb/>
+Filmregisseur <rs type="pers" ana="n_105291" ref="#fk__p_50713">Nossek</rs> <seg type="symbol" subtype="3dots"/><lb/>
+</p>
+            <p ana="pr176777">
+<space/>daß <rs type="pers" ana="n_105292" ref="#fk__p_50265">Mitzi Günther</rs> mit <rs type="pers" ana="n_105293" ref="#fk__p_43637">Fred Hennings</rs>, ohne daß man davon etwas<lb/>
+erfahren hätte, einen Sohn hat, der jetzt schon über ein Jahr zählt <seg type="symbol" subtype="3dots"/><lb/>
+</p>
+            <p ana="pr176779">
+Nein! Hatte ja keine Ahnung!<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_43637">
+               <persName>Hennings, Fred</persName>
+               <birth>
+                  <date>1895-1-26</date>
+                  <place>Klagenfurt</place>
+               </birth>
+               <death>
+                  <date>1981-11-22</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11654</idno></person>
+            <person xml:id="fk__p_50826">
+               <persName>Gebauer, Olly</persName>
+               <birth>
+                  <date>1908-5-29</date>
+                  <place>Spittal an der Drau</place>
+               </birth>
+               <death>
+                  <date>1937-2-22</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schauspielerin</occupation>
+               <occupation>Soubrette</occupation>
+               <note type="comment">unter Nossek, Olly liegt kein Totenbeschaubefund auf</note>
+            </person>
+            <person xml:id="fk__p_50713">
+               <persName>Nosseck, Max</persName>
+               <birth>
+                  <date>1902-9-19</date>
+                  <place>Nakel/Bromberg</place>
+               </birth>
+               <death>
+                  <date>1972-9-29</date>
+                  <place>Bad Wiessee</place>
+               </death>
+               <occupation>Filmregisseur</occupation>
+            </person>
+            <person xml:id="fk__p_50265">
+               <persName>Günther, Mizzi</persName>
+               <birth>
+                  <date>1879-2-8</date>
+                  <place>Warnsdorf/Böhmen</place>
+               </birth>
+               <death>
+                  <date>1961-3-18</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Sängerin</occupation>
+               <note type="comment">verh. mit 1. A. Fischer, 2. Fred Hennings</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

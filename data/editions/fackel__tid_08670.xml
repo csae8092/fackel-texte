@@ -1,0 +1,111 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_08670.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08669.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08671.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Kleiner Konzerthaussaal, 16. November, ½3 Uhr:, in: Fackel Heft 21, Nr. 521, 1920, S. 96-96</title>
+            <title type="iso-date">1920-02-01</title>
+            <title type="id">tid_08670</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">21</title><title type="heft">521</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-21-521_n0096.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/521,096</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Kleiner Konzerthaussaal, 16. November, ½3 Uhr:</head>
+            <p ana="pr114243">
+<space/><rs type="inst">Kleiner Konzerthaussaal</rs>, <date>16. November</date>, ½3 Uhr:<lb/>
+</p>
+            <p ana="pr114244">
+<space/>Ouverture: <rs type="pers" ana="n_70613" ref="#fk__p_46942">Bach</rs>, <rs type="title">Präludium G-moll</rs>.<lb/>
+</p>
+            <p ana="pr114245">
+<space/>I. Szenen aus <rs type="title"><rs type="pers"><seg type="spc">König Heinrich VI.</seg></rs></rs> von <rs type="pers" ana="n_70614" ref="#fk__p_55589"><seg type="spc">Shakespeare</seg></rs>.<lb/>
+Übersetzt von <rs type="pers" ana="n_70615" ref="#fk__p_38587"><abbr>A. W.</abbr> von Schlegel</rs> (wie <date>21. April</date>.)<lb/>
+</p>
+            <p ana="pr114246">
+<space/>II. <rs type="title"><seg type="spc">Das Notwendige und das Überflüssige</seg></rs> von <rs type="pers" ana="n_70616" ref="#fk__p_46919"><seg type="spc">Johann<lb/>
+Nestroy</seg></rs>. (Nach den »<rs type="title">Beiden Nachtwandlern</rs>« vom Vorleser bearbeitet.<lb/>
+Musik nach dessen Angabe.) Einlage: Das Lied des <rs type="pers">Federl</rs> aus »<rs type="title">Papiere<lb/>
+des Teufels</rs>«.<lb/>
+</p>
+            <p ana="pr114247">
+<space/>Begleitende Musik: <rs type="pers" ana="n_70617" ref="#fk__p_54913"><abbr>Dr.</abbr> Viktor Junk</rs>.<lb/>
+</p>
+            <p ana="pr114248">
+<space/>Der volle Ertrag (zu erhöhten Preisen: 2356·15 K) für die<lb/>
+<rs type="inst">Wiener Freiwillige Rettungsgesellschaft</rs>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_55589">
+               <persName>Shakespeare, William</persName>
+               <birth>
+                  <date>1564-4-23?</date>
+                  <place>Stratford-upon-Avon</place>
+               </birth>
+               <death>
+                  <date>1616-4-23</date>
+                  <place>Stratford-upon-Avon</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2412</idno></person>
+            <person xml:id="fk__p_54913">
+               <persName>Junk, Viktor</persName>
+               <birth>
+                  <date>1875-4-18</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1948-4-5</date>
+                  <place>Frohnleiten/Steiermark</place>
+               </death>
+               <occupation>Germanist</occupation>
+               <occupation>Musikwissenschaftler</occupation>
+            </person>
+            <person xml:id="fk__p_38587">
+               <persName>Schlegel, August Wilhelm von</persName>
+               <birth>
+                  <date>1767-9-5</date>
+                  <place>Hannover</place>
+               </birth>
+               <death>
+                  <date>1845-5-12</date>
+                  <place>Bonn</place>
+               </death>
+               <occupation>Literarhistoriker</occupation>
+               <occupation>Übersetzer</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/24212</idno></person>
+            <person xml:id="fk__p_46942">
+               <persName>Bach, Johann Sebastian</persName>
+               <birth>
+                  <date>1685-3-21</date>
+                  <place>Eisenach</place>
+               </birth>
+               <death>
+                  <date>1750-7-28</date>
+                  <place>Leipzig</place>
+               </death>
+               <occupation>Komponist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10806</idno></person>
+            <person xml:id="fk__p_46919">
+               <persName>Nestroy, Johann Nepomuk</persName>
+               <birth>
+                  <date>1801-12-7</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1862-5-25</date>
+                  <place>Graz</place>
+               </death>
+               <occupation>Sänger</occupation>
+               <occupation>Schauspieler</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12338</idno></person>
+            </listPerson></back></text>
+</TEI>

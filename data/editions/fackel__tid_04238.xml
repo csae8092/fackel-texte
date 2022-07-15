@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_04238.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04237.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04239.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Hallstätter Kretin. (Aus dem Vorleben der Mizzi), in: Fackel Heft 08, Nr. 207, 1906, S. 26-26</title>
+            <title type="iso-date">1906-07-23</title>
+            <title type="id">tid_04238</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">08</title><title type="heft">207</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-08-207_n0026.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/207,026</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Hallstätter Kretin. (Aus dem Vorleben der Mizzi)</head>
+            <p ana="pr45706">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="name_203655" ref="#fk__p_45372">Hallstätter Kretin</rs>.</seg></seg></seg> Das ‚<rs type="paper" ana="werk_14750">Deutsche Volksblatt</rs>‘ läßt sich unter<lb/>
+dem schwer belastenden Titel: <seg type="insult">»Aus dem Vorleben der <rs type="pers" ana="n_36887" ref="#fk__p_49731">Mizzi</rs>«</seg> aus<lb/>
+»Ofen-Pest« (nicht Budapest), <date>6. Juli</date>, die folgende »eigene Drahtnachricht<lb/>
+« schicken: »<rs type="pers" ana="n_36888" ref="#fk__p_49731">Mizzi Zeller</rs> war auch in Ofen-Pest Büfettmädchen<lb/>
+und wohnte während dieser Zeit bei <seg type="insult">einer gewissen Frau <rs type="pers" ana="n_36889" ref="#fk__p_48637"><seg type="spc">Beer</seg></rs> (!!)</seg>,<lb/>
+der sie eine Photographie hinterließ mit der Widmung: ‚Der lieben<lb/>
+Frau <rs type="pers" ana="n_36890" ref="#fk__p_48637">Beer</rs> zum Andenken. <rs type="pers" ana="n_36891" ref="#fk__p_49731">Mizzi</rs>.‘« <seg type="insult">Diese Enthüllung</seg>, in der die beiden<lb/>
+Rufzeichen den Kommentar oder das »Kommentar überflüssig« vertreten,<lb/>
+wird nicht verfehlen — —<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_45372">
+               <persName>Hallstätter Kretin</persName>
+            </person>
+            <person xml:id="fk__p_48637">
+               <persName>Beer, Laura, geb. Eissler</persName>
+               <birth>
+                  <date>1883-9-3</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1906-3-26</date>
+                  <place>Clarens/Genfersee</place>
+               </death>
+               <note type="comment">Eltern: Max, Großindustrieller aus Bisenz (1850-1911), Aurelie Kohn (1852-1938) aus Kremsier</note>
+               <note type="comment">Übertritt HB 10.07.1903, Taufe 01.08.03</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13542</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/13915</idno></person>
+            <person xml:id="fk__p_49731">
+               <persName>Zeller, Marie</persName>
+               <birth>
+                  <date>1888</date>
+                  <place>Neuberg/Steiermark</place>
+               </birth>
+               <occupation>Buffetmädchen</occupation>
+               <note type="comment">des Mordes verdächtigte Delinquentin Mürzzuschlag 1906</note>
+               <note type="comment">der Raubmord im Raxental NFP 8.2.06, S. 14</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

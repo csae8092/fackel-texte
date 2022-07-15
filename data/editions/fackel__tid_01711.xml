@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01711.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01710.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01712.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Die Zwischenrufe.), in: Fackel Heft 02, Nr. 072, 1901, S. 11-12</title>
+            <title type="iso-date">1901-03-01</title>
+            <title type="id">tid_01711</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">072</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-072_n0011.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/072,011</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Die Zwischenrufe.)</head>
+            <p ana="pr17060">
+<space/><inciptit>Die</inciptit> <seg type="insult">Reclame-Vertheidiger</seg> haben jetzt gute Zeiten. Einer nach<lb/>
+dem andern wird durch Zwischenrufe von der Geschwornenbank<lb/>
+unterbrochen, und die Zwischenrufe werden jedesmal durch <seg type="insult">das angenehme</seg><lb/>
+</p>
+            <p ana="pr17060">
+<seg type="insult"> Echo der Tagespresse</seg> verstärkt. Neulich war <seg type="insult">Herr <rs type="pers" ana="n_14146" ref="#fk__p_41553"><seg type="spc">Morgenstern<lb/>
+</seg></rs></seg> an der Reihe. Ich hatte ihn kurz vorher als <seg type="insult">geeignetsten Candidaten<lb/>
+ für eine Unterbrechung durch Geschworne</seg> empfohlen, hatte<lb/>
+bedauert, dass ihm nicht schon während <seg type="insult">seines <rs type="inst"><rs type="pers" ana="n2_1144" ref="#fk__p_58889">Schenker &amp; Comp.-Plaidoyers<lb/>
+</rs></rs></seg> diese Ehre zu theil geworden ist. Nun vertheidigte er <seg type="insult">den<lb/>
+Herausgeber eines unserer gemeinsten Zotenblätter</seg> und ließ sich<lb/>
+die Gelegenheit sicherlich nicht entgehen, die <seg type="insult">Freiheit der Kunst</seg><lb/>
+gegen <seg type="insult"><rs type="title"><rs type="pers" ana="n2_1145" ref="#fk__p_45777"><foreign xml:lang="la">Lex</foreign> Heinze-ähnliche Bestrebungen</rs></rs></seg> zu proclamieren. Darauf<lb/>
+gibt es — zur Wahrung des Anstandes im Gerichtssaal — nur die<lb/>
+eine Antwort: Schluss! Schluss! Freilich wird auf der Geschwornenbank<lb/>
+ das <seg type="insult">Temperament</seg> bald wieder der Besonnenheit Platz machen<lb/>
+müssen. Je öfter man nämlich die <seg type="insult">Reclame-Vertheidiger</seg> unterbricht,<lb/>
+desto üppiger werden sie. <seg type="insult">Der gute Zwischenruf</seg> ist für <seg type="insult">die Leute vom<lb/>
+<foreign xml:lang="fr">‚<rs type="magazine" ana="werk_5384">Barreau</rs>‘</foreign></seg> <seg type="insult">ein Surrogat für den guten Ruf</seg>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_45777">
+               <persName>Heinze </persName>
+               <occupation>Zuhälter</occupation>
+               <note type="comment">Berliner Ehepaar, das Sept. 1891 wegen Mordes, Prostitution, Zuhälterei, Kuppelei verurteilt wurde</note>
+               <note type="comment">Gerichtsurteil hatte eine Verschärfung der Sittlichkeits-Gesetzgebung zur Folge</note>
+               <note type="comment">Theodor Mommsen und Adolf Harnack. Wissenschaft und Politik im Berlin... 1997</note>
+               <note type="comment">Couplet von Otto Reutter</note>
+               <note type="comment">"Lex Heinze"</note>
+            </person>
+            <person xml:id="fk__p_58889">
+               <persName>Schenker (Schenker &amp; Comp., Speditionsfirma)</persName>
+            </person>
+            <person xml:id="fk__p_41553">
+               <persName>Morgenstern, Gustav Christian</persName>
+               <birth>
+                  <date>1857-2-21</date>
+                  <place>Budapest</place>
+               </birth>
+               <death>
+                  <date>1922-4-14</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Rechtsanwalt</occupation>
+               <occupation>Publizist</occupation>
+               <note type="comment">Hrsg. "Das Forum"</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

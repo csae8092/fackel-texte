@@ -1,0 +1,97 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06945.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06944.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06946.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Drei Tage aus der großen Zeit, in: Fackel Heft 17, Nr. 406, 1915, S. 35-35</title>
+            <title type="iso-date">1915-10-01</title>
+            <title type="id">tid_06945</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">17</title><title type="heft">406</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-17-406_n0035.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/406,035</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Drei Tage aus der großen Zeit</head>
+            <p ana="pr93382">
+<space/><rs type="pers" ana="n_63089" ref="#fk__p_48030">König Ludwig von Bayern</rs> hat dem sich zur Zeit in Franzensbad<lb/>
+aufhaltenden Bezirksrabbiner <rs type="pers" ana="n_63090" ref="#fk__p_39081">Benzion Katz</rs> von Borszczow auf dessen<lb/>
+anläßlich der <rs type="event">Einnahme von Warschau</rs> gesendetes Huldigungstelegramm<lb/>
+telegraphisch seinen Dank ausdrücken lassen.<lb/>
+</p>
+            <p ana="pr93384">
+<space/>Herr <rs type="pers" ana="n_63091" ref="#fk__p_39081">Benzion Katz</rs>, Bezirksrabbiner zu Borszczow, derzeit in<lb/>
+Franzensbad, hat anläßlich der <rs type="event">Einnahme von Warschau und Iwangorod</rs><lb/>
+an den Armeeoberkommandanten Feldmarschall <rs type="pers" ana="n_63092" ref="#fk__p_56128">Erzherzog Friedrich</rs><lb/>
+eine Huldigungsdepesche gerichtet, auf die folgende Antwort eingetroffen<lb/>
+ist: »<abbr>Se.</abbr> <abbr>k. u. k.</abbr> Hoheit der durchlauchtigste Herr Armeeoberkommandant<lb/>
+Feldmarschall <rs type="pers" ana="n_63093" ref="#fk__p_56128">Erzherzog Friedrich</rs> dankt bestens für die patriotische<lb/>
+Kundgebung. Im höchsten Auftrage: Flügeladjutant Oberst <rs type="pers" ana="n_63094" ref="#fk__p_54636"><abbr>v.</abbr> Lorx</rs>.«<lb/>
+</p>
+            <p ana="pr93386">
+<space/><rs type="pers" ana="n_63095" ref="#fk__p_48030">König Ludwig von Bayern</rs> hat an den sich in Franzensbad<lb/>
+aufhaltenden Bezirksrabbiner <rs type="pers" ana="n_63096" ref="#fk__p_39081">Benzion Katz</rs> von Borszczow auf dessen<lb/>
+anläßlich der <rs type="event">Einnahme von Warschau</rs> gesendetes Glückwunschtelegramm<lb/>
+folgende Antwort gerichtet: »Ihnen und Ihren in Franzensbad weilenden<lb/>
+Landsleuten danke ich bestens für die Glückwünsche zur <rs type="event">Besetzung<lb/>
+Warschaus</rs>. <rs type="pers" ana="n_63097" ref="#fk__p_48030">Ludwig</rs>.«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_56128">
+               <persName>Friedrich Maria Albrecht, Erzherzog</persName>
+               <birth>
+                  <date>1856-6-4</date>
+                  <place>Groß-Seelowitz/Böhmen</place>
+               </birth>
+               <death>
+                  <date>1936-12-30</date>
+                  <place>Ung. Altenburg</place>
+               </death>
+               <occupation>Offizier</occupation>
+               <note type="comment">FML, Oberbefehlshaber der k.k. Armee</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15242</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/16687</idno></person>
+            <person xml:id="fk__p_39081">
+               <persName>Katz, Ben-Tziyyon (Ben-Zion)</persName>
+               <birth>
+                  <date>1875</date>
+               </birth>
+               <death>
+                  <date>1958</date>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Publizist</occupation>
+               <note type="comment">Hg. "Ha-Zeman"</note>
+            </person>
+            <person xml:id="fk__p_54636">
+               <persName>Lorx von Ruszkin, Viktor</persName>
+               <birth>
+                  <date>1873</date>
+                  <place>Iglo/Leutschau/Ung.</place>
+               </birth>
+               <death>
+                  <date>1922-7-29</date>
+                  <place>Várpalota</place>
+               </death>
+               <occupation>Offizier</occupation>
+               <note type="comment">Aug. 1917 bis Mai 1918 im Gen.stab</note>
+            </person>
+            <person xml:id="fk__p_48030">
+               <persName>Ludwig III., König von Bayern</persName>
+               <birth>
+                  <date>1845-1-7</date>
+                  <place>München</place>
+               </birth>
+               <death>
+                  <date>1921-10-18</date>
+                  <place>Sarvar/Ungarn</place>
+               </death>
+            </person>
+            </listPerson></back></text>
+</TEI>

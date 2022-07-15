@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00488.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00487.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00489.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Geschichtslehrer. (Einem Geschichtslehrer), in: Fackel Heft 01, Nr. 020, 1899, S. 30-30</title>
+            <title type="iso-date">1899-10-01</title>
+            <title type="id">tid_00488</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">020</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-020_n0030.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/020,030</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Geschichtslehrer. (Einem Geschichtslehrer)</head>
+            <p ana="pr4556">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_3478" key="#fk__p_44394">Geschichtslehrer</rs>.</seg></seg> Jawohl, jetzt haben wir statt eines Unterrichtsministers<lb/>
+ <seg type="insult">einen <seg type="spc">Leiter</seg> des <rs type="inst">Unterrichtsministeriums</rs></seg>. Das wird<lb/>
+voraussichtlich ein recht deplaciertes Wort sein <seg type="symbol" subtype="3dots"/> Warum <seg type="insult"><rs type="pers" ana="n_3479" ref="#fk__p_44443">Gindelys</rs><lb/>
+berüchtigtes Lehrbuch</seg> nach wie vor das Um und Auf des historischen<lb/>
+Unterrichtes bildet, weiß ich nicht. Sie wünschten, wenn schon<lb/>
+keine tiefere pragmatische Auffassung, doch wenigstens ein besseres<lb/>
+Deutsch? Beim besten Willen nicht mehr möglich: 10. Auflage vom<lb/>
+Jahre <date>1895</date> ist bereits »umgearbeitet«, und da heißt es (Seite 3 des<lb/>
+3. Theiles) von <rs type="pers" ana="n_3480" ref="#fk__p_49995">Maximilian I.</rs>: <seg type="spc">Sein früh ergrautes Haar war</seg><lb/>
+<seg type="spc">hellblond</seg>. Sie müssen sich schon bis zur nächsten Auflage<lb/>
+gedulden; — dann ist freilich <seg type="insult">Herr <rs type="pers" ana="n_3481" ref="#fk__p_55511">Hartel</rs></seg> längst nicht mehr <seg type="insult">»Leiter«</seg>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_44443">
+               <persName>Gindely, Anton</persName>
+               <birth>
+                  <date>1829-09-03</date>
+                  <place>Prag</place>
+               </birth>
+               <death>
+                  <date>1892-10-24</date>
+                  <place>Prag</place>
+               </death>
+               <occupation>Historiker</occupation>
+            </person>
+            <person xml:id="fk__p_55511">
+               <persName>Hartel, Wilhelm Ritter von</persName>
+               <birth>
+                  <date>1839-05-28</date>
+                  <place>Hof/Mähren</place>
+               </birth>
+               <death>
+                  <date>1907-01-14</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Altphilologe</occupation>
+               <occupation>Politiker</occupation>
+               <note type="comment">Friedhof Penzing (=Kontrahentenfriedhof) Tel. 985 64 07</note>
+               <note type="comment">Unterrichtsminister 1900-05</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15937</idno></person>
+            <person xml:id="fk__p_49995">
+               <persName>Maximilian I.</persName>
+               <birth>
+                  <date>1459-3-22</date>
+                  <place>Wiener Neustadt</place>
+               </birth>
+               <death>
+                  <date>1519-1-12</date>
+                  <place>Wels</place>
+               </death>
+               <occupation>Kaiser</occupation>
+               <note type="comment">Teuerdank</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/21215</idno></person>
+            </listPerson></back></text>
+</TEI>

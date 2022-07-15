@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_11873.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11872.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11874.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Zitate), in: Fackel Heft 33, Nr. 857, 1931, S. 71-71</title>
+            <title type="iso-date">1931-08-01</title>
+            <title type="id">tid_11873</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">33</title><title type="heft">857</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-33-857_n0071.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/857,071</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Zitate)</head>
+            <p ana="pr172000">
+<space/>In den nicht immer erfreulichen, geistig durchaus hoch<lb/>
+über seinen berühmtesten Dramen stehenden <rs type="title">Tagebüchern</rs><lb/>
+<rs type="pers" ana="n_102696" ref="#fk__p_43482"><seg type="spc">Grillparzers</seg></rs> findet sich eine Eintragung, die ein Blitzlicht<lb/>
+auf die Gestalt wirft <seg type="insult">jenes von der mitteleuropäischen Intelligenz<lb/>
+noch immer verzogenen Lieblings der Grazien</seg>, nachdem er ihn<lb/>
+an anderer Stelle als »hübschen, runden, jungen Mann« sympathisch<lb/>
+gefunden hat, der »wie die Lebenslust und, mit seinem breiten<lb/>
+Nacken, wie die Lebenskraft aussieht«. <seg type="insult">Die ganze Welt des<lb/>
+Journalismus</seg>, dessen eigentlicher Urheber jener war, bevor sie ihn<lb/>
+für den Erfinder der Lyrik ausgeben konnte, ist mit den Worten<lb/>
+abgezeichnet:<lb/>
+</p>
+            <p ana="pr172002">
+<space/>Hierauf zu <rs type="pers" ana="n_102697" ref="#fk__p_52713"><seg type="spc">Rothschild</seg></rs> zu Tische. Vortreffliches Diner. Man<lb/>
+kann nicht gemeiner aussehen und zum Teil sich benehmen, als der<lb/>
+Hausherr. Die Hausfrau gegen ihn eine Göttin, obschon sie mir weniger<lb/>
+gefiel als das erste Mal. <rs type="pers" ana="n_102698" ref="#fk__p_45715"><seg type="spc">Heine</seg></rs> ist da, unwohl, leidend. Man<lb/>
+<seg type="spc">fetiert</seg> ihn sehr, <seg type="spc"><foreign xml:lang="la">ne noceat</foreign></seg>, <seg type="spc">wie man sagt</seg>. — —<lb/>
+</p>
+            <p ana="pr172005">
+<space/>»Die <seg type="insult">Journalisten</seg> sind wie die <rs type="pers">Scheherezade</rs> gegen das Publikum,<lb/>
+sie halten es mit ihren abgerissenen und unterbrochenen Erzählungen<lb/>
+nur so hin, daß es ihnen nicht den Kopf abschlage.«<lb/>
+</p>
+            <p ana="pr172006">
+<seg/><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_45715">
+               <persName>Heine, Heinrich</persName>
+               <birth>
+                  <date>1797-12-13</date>
+                  <place>Düsseldorf</place>
+               </birth>
+               <death>
+                  <date>1856-2-17</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Journalist</occupation>
+               <note type="comment">Ögg separiert F 24/25 </note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11640</idno></person>
+            <person xml:id="fk__p_43482">
+               <persName>Grillparzer, Franz</persName>
+               <birth>
+                  <date>1791-1-15</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1872-1-21</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Beamter</occupation>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Ögg teilt 912/23 Traum ein Leben Calderon zu</note>
+               <note type="comment">Ögg teilt irrt. 229/2, 305/50 zu</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11518</idno></person>
+            <person xml:id="fk__p_52713">
+               <persName>Rothschild, Salomo Mayer Freiherr von</persName>
+               <birth>
+                  <date>1774-09-09</date>
+                  <place>Frankfurt</place>
+               </birth>
+               <death>
+                  <date>1855-07-27</date>
+                  <place>Paris</place>
+               </death>
+            </person>
+            </listPerson></back></text>
+</TEI>

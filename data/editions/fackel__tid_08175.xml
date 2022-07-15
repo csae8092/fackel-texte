@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_08175.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08174.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08176.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Mein Ehrenwort, daß das nicht von mir ist, in: Fackel Heft 20, Nr. 474, 1918, S. 38-38</title>
+            <title type="iso-date">1918-05-01</title>
+            <title type="id">tid_08175</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">20</title><title type="heft">474</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-20-474_n0038.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/474,038</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Mein Ehrenwort, daß das nicht von mir ist</head>
+            <p ana="pr108406">
+sondern in der <seg ana="Wiener Allgemeinen Zeitung, Organ des Aus-&#10;wärtigen Amtes, vom 12. März 1918"/> zu lesen war:<lb/>
+</p>
+            <p ana="pr108408">
+<space/><seg type="sidehead">[Künstlerbühne <rs type="inst"><rs type="pers" ana="n2_6065" ref="#fk__p_58825">Ronacher</rs></rs>.]</seg> Der aufregende Sketch »<rs type="title">Morphium</rs>«,<lb/>
+dessen Hauptrolle <rs type="pers" ana="n_68300" ref="#fk__p_52608">Rudolf Schildkraut</rs> allabendlich an der Künstlerbühne<lb/>
+ <rs type="inst"><rs type="pers" ana="n2_6066" ref="#fk__p_58825">Ronacher</rs></rs> auf Grund seiner an Nervenkliniken vorgenommenen<lb/>
+Studien an Morphinisten mit erschütternder Lebenswahrheit zur Darstellung<lb/>
+ bringt, erhält das Publikum in höchster Spannung. Die<lb/>
+Charakterisierung des im Morphiumrausch zum Gattenmörder<lb/>
+gewordenen Barons gelingt dem Künstler in so meisterhafter Weise,<lb/>
+daß die Zuschauer während der Aufführung des Einakters völlig in<lb/>
+den Bann der Vorgänge auf der Bühne gezwungen wurden. <seg type="spc">Dieser<lb/>
+Tage wurde ein Budapester Gast</seg>, <seg type="spc">der Kaufmann</seg><lb/>
+<rs type="pers" ana="n_68301" key="#fk__p_54672"><abbr>v.</abbr> <seg type="spc">Pantz</seg></rs>, <seg type="spc">von der Maske und dem Spiel <rs type="pers" ana="n_68302" ref="#fk__p_52608">Schildkrauts<lb/>
+</rs> derart ergriffen</seg>, <seg type="spc">daß er ohnmächtig aus<lb/>
+dem Saal getragen und vom Theaterarzt </seg><rs type="pers" ana="n_68303" ref="#fk__p_41180"><abbr>Dr.</abbr> <seg type="spc">Heitler</seg></rs><lb/>
+<seg type="spc">gelabt werden mußte</seg>. Am Samstag ereignete sich ein<lb/>
+ähnlicher Zwischenfall. <seg type="spc">Ein Techniker geriet in Ekstase</seg>,<lb/>
+wollte sich aber <seg type="spc">nicht dazu bequemen</seg>, <seg type="spc">den Saal zu<lb/>
+verlassen</seg>, <seg type="spc">ehe der Vorhang gefallen war</seg>. Der junge<lb/>
+Mann, den die Kunst <rs type="pers" ana="n_68304" ref="#fk__p_52608">Schildkrauts</rs> <seg type="spc">in so hohem Maße hingerissen<lb/>
+ hatte</seg>, <seg type="spc">erholte sich dann rasch und wohnte<lb/>
+dem Rest der Elitevorstellung bis zum Schlusse bei</seg>.<lb/>
+</p>
+            <p ana="pr108410">
+<space/>Höher dürften wir’s kaum mehr bringen. Es erklärt am<lb/>
+Ende auch den <seg type="insult">Weltmord</seg> und alles. Ein <seg type="insult">Techniker</seg> geriet in<lb/>
+<seg type="insult">Ekstase</seg>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_52608">
+               <persName>Schildkraut, Rudolf</persName>
+               <birth>
+                  <date>1862-4-27</date>
+                  <place>Konstantinopel</place>
+               </birth>
+               <death>
+                  <date>1930-7-15</date>
+                  <place>Los Angeles</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12651</idno></person>
+            <person xml:id="fk__p_58825">
+               <persName>Ronacher (Vergnügungsetablissement)</persName>
+            </person>
+            <person xml:id="fk__p_41180">
+               <persName>Heitler, Carl?</persName>
+               <birth>
+                  <date>1845-7-20</date>
+                  <place>Lipto/Szent-Miklos</place>
+               </birth>
+               <death>
+                  <date>1929-3-27</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Arzt</occupation>
+               <note type="comment">1., Wollzeile 12</note>
+               <note type="comment">evtl. Dr. Karl Heitler, geb. 1846?, gest. 31.3.1929 (IKG)</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

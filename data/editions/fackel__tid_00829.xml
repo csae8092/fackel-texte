@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00829.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00828.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00830.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Wiener Warenmarkt., in: Fackel Heft 01, Nr. 034, 1900, S. 30-30</title>
+            <title type="iso-date">1900-03-01</title>
+            <title type="id">tid_00829</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">034</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-034_n0030.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/034,030</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Wiener Warenmarkt.</head>
+            <p ana="pr7872">
+<space/>Der <RS pers="Mutsuhito" globID="rs_61">Kaiser von Japan</RS> hat <seg type="insult">das von <rs type="pers" ana="n_6155" ref="#fk__p_48818"><abbr>L. K.</abbr> <seg type="spc">Nolston</seg></rs> herausgegebene<lb/>
+ Werk</seg>: »<rs type="title">Ein Andenken an <rs type="pers" ana="n2_457" ref="#fk__p_42522">Kaiserin und Königin Elisabeth</rs></rs>«<lb/>
+angenommen und dem Verfasser den Dank durch die japanische<lb/>
+Legation in Wien ausdrücken lassen. — <seg type="spc">Leder</seg> tendierte fest,<lb/>
+<seg type="spc">Knoppern</seg> waren gut beachtet.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_48818">
+               <persName>Nolston, Leopold</persName>
+               <birth>
+                  <date>1847-11-14</date>
+                  <place>Nikolsburg/Mähren</place>
+               </birth>
+               <death>
+                  <date>1905-3-4</date>
+                  <place>Wien</place>
+               </death>
+               <note type="comment">Namensänderung bewilligt am 2.12.1904</note>
+               <note type="comment">ZF 1. Tor 51/5/88</note>
+            </person>
+            <person xml:id="fk__p_42522">
+               <persName>Elisabeth von Österreich, geb. Prinzessin von Bayern</persName>
+               <birth>
+                  <date>1837-12-24</date>
+                  <place>München</place>
+               </birth>
+               <death>
+                  <date>1898-9-10</date>
+                  <place>Genf</place>
+               </death>
+               <occupation>Kaiserin</occupation>
+               <occupation>Königin</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

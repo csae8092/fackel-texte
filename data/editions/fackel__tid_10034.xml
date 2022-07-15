@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_10034.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10033.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10035.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Festsaal des Ingenieur-und Architektenvereines, 6. Dezember, 7 Uhr:, in: Fackel Heft 26, Nr. 676, 1925, S. 41-42</title>
+            <title type="iso-date">1925-01-01</title>
+            <title type="id">tid_10034</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">26</title><title type="heft">676</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-26-676_n0041.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/676,041</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Festsaal des Ingenieur-und Architektenvereines, 6. Dezember, 7 Uhr:</head>
+            <p ana="pr136416">
+<space/><rs type="inst">Festsaal des Ingenieur-und Architektenvereines</rs>, <date>6. Dezember</date>, 7 Uhr:<lb/>
+</p>
+            <p ana="pr136417">
+<space/>I. <rs type="pers" ana="n_83822" ref="#fk__p_44354"><seg type="spc">Gerhart Hauptmann</seg></rs>: <rs type="title"><seg type="spc"><rs type="pers">Hannele Matterns</rs><lb/>
+Himmelfahrt</seg></rs>. Musik nach Angabe des Vortragenden.<lb/>
+</p>
+            <p ana="pr136418">
+<space/>II. <rs type="title"><seg type="spc">Traumstück</seg></rs>. Musik von <rs type="pers" ana="n_83823" ref="#fk__p_41168">Heinrich Jalowetz</rs>.<lb/>
+</p>
+            <p ana="pr136419">
+<space/>Begleitung: <rs type="pers" ana="n_83824" ref="#fk__p_54913"><abbr>Dr.</abbr> Viktor Junk</rs>.<lb/>
+</p>
+            <p ana="pr136420">
+<space/>Die Hälfte des Ertrags (<abbr>inkl.</abbr> Programmerlös): K 2,495.700<lb/>
+für das <rs type="inst">Blinden-Erziehungs-Institut</rs> (Wien, II., Wittelsbachstraße 5) und<lb/>
+das <rs type="inst">Israelitische Blinden-Institut Hohe Warte</rs>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_54913">
+               <persName>Junk, Viktor</persName>
+               <birth>
+                  <date>1875-4-18</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1948-4-5</date>
+                  <place>Frohnleiten/Steiermark</place>
+               </death>
+               <occupation>Germanist</occupation>
+               <occupation>Musikwissenschaftler</occupation>
+            </person>
+            <person xml:id="fk__p_41168">
+               <persName>Jalowetz, Heinrich</persName>
+               <birth>
+                  <date>1882-12-3</date>
+                  <place>Brünn</place>
+               </birth>
+               <death>
+                  <date>1946-2-2</date>
+                  <place>Black Mountain, N. C.</place>
+               </death>
+               <occupation>Dirigent</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/8005</idno></person>
+            <person xml:id="fk__p_44354">
+               <persName>Hauptmann, Gerhart</persName>
+               <birth>
+                  <date>1862-11-15</date>
+                  <place>Salzbrunn, Schlesien</place>
+               </birth>
+               <death>
+                  <date>1946-6-6</date>
+                  <place>Agnetendorf</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Ögg teilt die indirekte Stelle 521/64 zu, irrtümlich</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11617</idno></person>
+            </listPerson></back></text>
+</TEI>

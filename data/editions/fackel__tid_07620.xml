@@ -1,0 +1,48 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07620.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07619.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07621.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Gute Zeiten, in: Fackel Heft 18, Nr. 445, 1234, S. 65-65</title>
+            <title type="iso-date">1234-01-01</title>
+            <title type="id">tid_07620</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">18</title><title type="heft">445</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-18-445_n0065.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/445,065</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Gute Zeiten</head>
+            <p ana="pr102474">
+<space/>» <seg type="symbol" subtype="3dots"/> Zwei Tage später, erzählte die Zeugin, habe sie, von einer<lb/>
+inneren Unruhe getrieben, sich zu den Eheleuten <rs type="pers" ana="n_66280" key="#fk__p_45501"><rs type="pers" ana="name_200872" key="#fk__p_60130">Hanke</rs></rs> begeben, um<lb/>
+ihren »<rs type="pers" ana="n_66281" key="#fk__p_43359">Flocki</rs>« zurückzunehmen, und habe dann gesehen, wie <rs type="pers" ana="n_66282" ref="#fk__p_56747">Rößler</rs><lb/>
+aus dem Ofen ein <seg type="spc">Reindel</seg> herausnahm, in welchem <seg type="spc">zwei<lb/>
+Hundebiegel schön gebraten</seg> lagen <seg type="symbol" subtype="4dots"/> Der <rs type="pers" ana="n_66283" key="#fk__p_45501">Hanke</rs> habe sich<lb/>
+noch nachträglich gerühmt, daß er schon lange nicht ein so saftiges<lb/>
+Stück Fleisch gegessen und <seg type="spc">daß er sich jetzt einen Monat<lb/>
+nicht um Fett anstellen müsse</seg>, weil er gar so viel Fett<lb/>
+von dem Hund ausgelassen habe <seg type="symbol" subtype="4dots"/>«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_56747">
+               <persName>Rößler, Karl</persName>
+               <birth>
+                  <date>1861-3-3</date>
+                  <place>Morechenstern/Kreis Gablonz</place>
+               </birth>
+               <death>
+                  <date>1946-2-20</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Kutscher</occupation>
+               <note type="comment">hat einen Hund verzeht; NFP 19.12.1916, Seite 12</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

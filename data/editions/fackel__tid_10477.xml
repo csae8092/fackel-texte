@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_10477.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10476.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10478.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Für den Arbeiter- und Arbeiterinnen-Bildungsverein »Bildungshort«, in: Fackel Heft 27, Nr. 717, 1926, S. 108-109</title>
+            <title type="iso-date">1926-04-01</title>
+            <title type="id">tid_10477</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">27</title><title type="heft">717</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-27-717_n0108.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/717,108</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Für den Arbeiter- und Arbeiterinnen-Bildungsverein »Bildungshort«</head>
+            <p ana="pr144188">
+<space/>Für den <rs type="inst"><seg type="ELIDASH">Arbeiter-Bildungsverein</seg> und Arbeiterinnen-Bildungsverein »Bildungshort«<lb/>
+Wien IX.</rs><lb/>
+</p>
+            <p ana="pr144189">
+<space/><rs type="inst">Saal »Zum Auge Gottes«</rs>, <date>22. März</date>, 7 Uhr:<lb/>
+</p>
+            <p ana="pr144190">
+<space/><rs type="pers" ana="n_87706" ref="#fk__p_50661"><seg type="spc">Gogol</seg></rs>: <rs type="title"><seg type="spc">Der Revisor</seg></rs>, übersetzt von <rs type="pers" ana="n_87707" ref="#fk__p_53286">Sigismund von Radecki</rs>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_53286">
+               <persName>Radecki, Sigismund von</persName>
+               <birth>
+                  <date>1891-11-19</date>
+                  <place>Riga</place>
+               </birth>
+               <death>
+                  <date>1970-03-13</date>
+                  <place>Gladbeck/Westf.</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Übersetzer</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38477</idno></person>
+            <person xml:id="fk__p_50661">
+               <persName>Gogol, Nikolai Wassiljewitsch</persName>
+               <birth>
+                  <date>1809-3-31</date>
+                  <place>Sorotschinzy/Poltawa</place>
+               </birth>
+               <death>
+                  <date>1852-3-4</date>
+                  <place>Moskau</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15510</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/17144</idno></person>
+            </listPerson></back></text>
+</TEI>
