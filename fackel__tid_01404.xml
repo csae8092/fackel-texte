@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01404.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01403.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01405.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(‚Fackel‘ und Requiem.), in: Fackel Heft 02, Nr. 059, 1900, S. 27-27</title>
+            <title type="iso-date">1900-11-01</title>
+            <title type="id">tid_01404</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">059</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-059_n0027.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/059,027</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(‚Fackel‘ und Requiem.)</head>
+            <p ana="pr13392">
+<space/><inciptit>Das</inciptit> ‚<rs type="paper" ana="werk_4312">Deutsche Volksblatt</rs>‘ bespricht in erregter Weise den<lb/>
+unerhörten Vorfall, dass bei der Aufführung eines Requiems in der<lb/>
+Hofkapelle am Allerseelentage Einer »eifrig« die ‚<rs type="self" ana="werk_4313">Fackel</rs>‘ studiert<lb/>
+habe, während andere — natürlich <seg type="insult">Juden</seg> — sich damit begnügten,<lb/>
+zu plaudern oder sonst irgendwie die Andacht zu stören. Mit Beziehung<lb/>
+ auf den Mann, der während eines Requiems — ich bedauere<lb/>
+diesen Geschmack — die ‚<rs type="self" ana="werk_4314">Fackel</rs>‘ las, ruft das ‚<rs type="paper" ana="werk_4315">Deutsche Volksblatt</rs>‘<lb/>
+ein zornerfülltes »Hinaus mit <seg type="insult">dem frechen Pack</seg>, welches die religiösen<lb/>
+ Gefühle der anderen in so gemeiner Weise beleidigt!« Ich<lb/>
+halte die Lectüre der ‚<rs type="self" ana="werk_4316">Fackel</rs>‘ während einer musikalischen Andacht<lb/>
+für überflüssig. Aber das ‚<rs type="paper" ana="werk_4317">Deutsche Volksblatt</rs>‘ übersieht, dass am<lb/>
+Allerseelentage bloß das <rs type="title">Requiem</rs> von <rs type="pers" ana="n_11125" ref="#fk__p_38531">Aßmayer</rs> aufgeführt wurde.<lb/>
+Wäre, wie ursprünglich geplant war, das große <rs type="title">Requiem</rs> von <rs type="pers" ana="n_11126" ref="#fk__p_55699">Mozart</rs><lb/>
+aufgeführt worden, <seg type="insult">der Zeitungsleser an geweihter Stätte</seg> hätte<lb/>
+gewiss zur Erhöhung der Andacht das ‚<rs type="paper" ana="werk_4318">Deutsche Volksblatt</rs>‘ hervorgezogen<lb/>
+ und die Berichte über den Process <rs type="pers" ana="n_11127" ref="#fk__p_48811">Hülsner</rs> »eifrig studiert«.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_55699">
+               <persName>Mozart, Wolfgang Amadeus</persName>
+               <birth>
+                  <date>1756-1-27</date>
+                  <place>Salzburg</place>
+               </birth>
+               <death>
+                  <date>1791-12-5</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Komponist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12303</idno></person>
+            <person xml:id="fk__p_48811">
+               <persName>Hilsner, Leopold</persName>
+               <birth>
+                  <date>1876</date>
+               </birth>
+               <death>
+                  <date>1928-1-8</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schuhmacher</occupation>
+            </person>
+            <person xml:id="fk__p_38531">
+               <persName>Aßmayer, Ignaz</persName>
+               <birth>
+                  <date>1790-02-11</date>
+                  <place>Salzburg</place>
+               </birth>
+               <death>
+                  <date>1862-08-31</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Organist</occupation>
+               <occupation>Komponist</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

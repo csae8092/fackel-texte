@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_08757.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08756.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08758.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Künstlerhaus, 31. Mai, 8 Uhr:, in: Fackel Heft 22, Nr. 546, 1920, S. 3-3</title>
+            <title type="iso-date">1920-07-01</title>
+            <title type="id">tid_08757</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">22</title><title type="heft">546</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-22-546_n0003.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/546,003</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Künstlerhaus, 31. Mai, 8 Uhr:</head>
+            <p ana="pr116106">
+<space/><rs type="inst">Künstlerhaus</rs>, <date>31. Mai</date>, 8 Uhr:<lb/>
+</p>
+            <p ana="pr116107">
+<space/>I. <rs type="title">Vorwort</rs>. — <rs type="pers" ana="n_71675" ref="#fk__p_55589"><seg type="spc">Shakespeare</seg></rs>: <rs type="title"><rs type="pers">Heinrich VI.</rs></rs> dritter Teil II 5 /<lb/>
+<rs type="pers" ana="n_71676" ref="#fk__p_43227"><seg type="spc">Raimund</seg></rs>: <rs type="title">Der Alpenkönig</rs> I 11, aus 15, 16 bis 21; <rs type="title">Der Bauer<lb/>
+als Millionär</rs> II 4 bis 6; Monolog und Lied des <rs type="pers">Valentin</rs>. (Begleitung:<lb/>
+<rs type="pers" ana="n_71677" ref="#fk__p_41178"><abbr>Dr.</abbr> Heinrich Zellner</rs>).<lb/>
+</p>
+            <p ana="pr116108">
+<space/>II. <rs type="title">Rückkehr in die Zeit</rs> / <rs type="title">Verlöbnis</rs> / <rs type="title">Wollust</rs> / <rs type="title">Verwandlung<lb/>
+ (II)</rs> / <rs type="title">Unter dem Wasserfall</rs> / <rs type="title">Der Reim</rs> / <rs type="title">Die Verse der Erscheinungen<lb/>
+</rs> aus der Schlußszene des V. Aktes.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_55589">
+               <persName>Shakespeare, William</persName>
+               <birth>
+                  <date>1564-4-23?</date>
+                  <place>Stratford-upon-Avon</place>
+               </birth>
+               <death>
+                  <date>1616-4-23</date>
+                  <place>Stratford-upon-Avon</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2412</idno></person>
+            <person xml:id="fk__p_41178">
+               <persName>Zellner, Heinrich</persName>
+               <birth>
+                  <date>1869-4-7</date>
+                  <place>Ostrowo/Posen</place>
+               </birth>
+               <occupation>Pianist</occupation>
+               <occupation>Komponist</occupation>
+               <note type="comment">musikal. Begleiter von KK bei Lesungen in Berlin 31.5.1920 und 24.1.1921</note>
+               <note type="comment">Emigration nach Norwegen</note>
+               <note type="comment">Klavierbegleiter KKs</note>
+            </person>
+            <person xml:id="fk__p_43227">
+               <persName>Raimund, Ferdinand</persName>
+               <birth>
+                  <date>1790-6-1</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1836-9-5</date>
+                  <place>Pottenstein, Niederösterreich</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Ögg teilt die Valentin-Stelle 254/4 Nestroy zu</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12468</idno></person>
+            </listPerson></back></text>
+</TEI>

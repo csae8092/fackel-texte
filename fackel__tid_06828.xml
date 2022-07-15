@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06828.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06827.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06829.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Warum pflegen Leute mit Kultur ihr Haar nur mit Javol?, in: Fackel Heft 16, Nr. 400, 1914, S. 19-19</title>
+            <title type="iso-date">1914-01-01</title>
+            <title type="id">tid_06828</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">16</title><title type="heft">400</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-16-400_n0019.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/400,019</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Warum pflegen Leute mit Kultur ihr Haar nur mit Javol?</head>
+            <p ana="pr91823">
+In allen Apotheken, Drogerien und Parfümerien erhältlich.<lb/>
+</p>
+            <p ana="pr91825">
+<abbr>Phot.</abbr>: <rs type="inst"><rs type="pers" ana="n2_5514" ref="#fk__p_57772">Dührkoop</rs></rs>, Berlin<lb/>
+</p>
+            <lg><seg type="i">
+<l>„Javol“ bereitet mir viel Behagen,</l>
+<l>Ich brauch es schon seit vielen Tagen</l>
+<l>Zu stärken meinen blonden Schopf</l>
+<l>Zu erfrischen meinen Dichterkopf</l>
+<l>Und überhaupt weil es sehr gut</l>
+<l>Dem Haar, der Haut, dem Kopfe tut</l></seg>
+</lg>
+            <p ana="pr91828">
+<rs type="pers" ana="n_62299" ref="#fk__p_45503"><seg type="i"><abbr>Dr.</abbr> <AUCTOR>Hanns Heinz Ewers</AUCTOR></seg></rs>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_57772">
+               <persName>Dührkoop, Rudolf</persName>
+               <birth>
+                  <date>1848</date>
+                  <place>Hamburg</place>
+               </birth>
+               <death>
+                  <date>1918</date>
+                  <place>Hamburg</place>
+               </death>
+               <occupation>Photograph</occupation>
+            </person>
+            <person xml:id="fk__p_45503">
+               <persName>Ewers, Hanns Heinz</persName>
+               <birth>
+                  <date>1871-11-3</date>
+                  <place>Düsseldorf</place>
+               </birth>
+               <death>
+                  <date>1943-6-12</date>
+                  <place>Berlin</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11281</idno></person>
+            </listPerson></back></text>
+</TEI>

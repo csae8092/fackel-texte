@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03025.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03024.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03026.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Juror. (Ein Kenner), in: Fackel Heft 04, Nr. 133, 1903, S. 27-27</title>
+            <title type="iso-date">1903-03-26</title>
+            <title type="id">tid_03025</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">04</title><title type="heft">133</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-04-133_n0027.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/133,027</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Juror. (Ein Kenner)</head>
+            <p ana="pr29779">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_25807" key="#fk__p_47309">Juror</rs>.</seg></seg> Ein <seg type="insult">Kenner</seg> äußert sich in der ‚<rs type="paper" ana="werk_10990">Zeit</rs>‘ (<date>17. März</date>) über<lb/>
+den an <rs type="pers" ana="n_25808" ref="#fk__p_38500">Arthur Schnitzler</rs> verliehenen <rs type="pers" ana="n_25809" ref="#fk__p_42332">Bauernfeldpreis</rs>. Er entschuldigt<lb/>
+das Curatorium, das erst jetzt, zwei Jahre nach seiner Entstehung,<lb/>
+den Dramencyclus »<rs type="title">Lebendige Stunden</rs>« prämiiert hat: es müsse sich <seg type="spc">an<lb/>
+seine Statuten halten und warten</seg>, <seg type="spc">bis eine Wiener Bühne<lb/>
+den Dichter aufführt</seg>«. <seg type="insult">Ein Kenner!</seg> Der annoch unaufgeführte<lb/>
+»<rs type="title">Herr von Abadessa</rs>« <seg type="insult">des Herrn <rs type="pers" ana="n_25810" ref="#fk__p_43159">Dörmann</rs></seg> ist aber als Manuscript belohnt<lb/>
+ worden, und auch die <rs type="pers" ana="n_25811" ref="#fk__p_42332">Bauernfeld-Biographie</rs> <seg type="insult">des Herrn <rs type="pers" ana="n_25812" ref="#fk__p_41214"><abbr>Dr.</abbr> Horner</rs></seg><lb/>
+war meines Wissens noch nicht an einer Wiener Bühne aufgeführt, als<lb/>
+das Curatorium ihrem Verfasser überflüssigerweise einen Betrag aus der<lb/>
+<rs type="pers" ana="n_25813" ref="#fk__p_42332">Bauernfeld-Stiftung</rs> zuwandte.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_41214">
+               <persName>Horner, Emil</persName>
+               <birth>
+                  <date>1869-10-10</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>leer</date>
+               </death>
+               <occupation>Literarhistoriker</occupation>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">9., Seegasse 6</note>
+               <note type="comment">Prof. an der N. Wr. Handelsakad.</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/29060</idno></person>
+            <person xml:id="fk__p_42332">
+               <persName>Bauernfeld, Eduard von</persName>
+               <birth>
+                  <date>1802-1-13</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1890-8-9</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Versdrama "Der Landfrieden" (1869) 912/24</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10854</idno></person>
+            <person xml:id="fk__p_38500">
+               <persName>Schnitzler, Arthur</persName>
+               <birth>
+                  <date>1862-5-15</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1931-10-21</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Arzt</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2121</idno></person>
+            <person xml:id="fk__p_43159">
+               <persName>Dörmann, Felix</persName>
+               <birth>
+                  <date>1870-5-29</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1928-10-26</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Cousine Mizi von Stankowitz (Dickel, Salten)</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2425</idno></person>
+            </listPerson></back></text>
+</TEI>

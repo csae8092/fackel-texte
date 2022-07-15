@@ -1,0 +1,99 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_08666.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08665.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08667.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Kleiner Konzerthaussaal, 21. April, 3 Uhr:, in: Fackel Heft 21, Nr. 521, 1920, S. 93-93</title>
+            <title type="iso-date">1920-02-01</title>
+            <title type="id">tid_08666</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">21</title><title type="heft">521</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-21-521_n0093.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/521,093</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Kleiner Konzerthaussaal, 21. April, 3 Uhr:</head>
+            <p ana="pr114191">
+<space/><rs type="inst">Kleiner Konzerthaussaal</rs>, <date>21. April</date>, 3 Uhr:<lb/>
+</p>
+            <p ana="pr114192">
+<space/>I. Szenen aus <rs type="title"><rs type="pers"><seg type="spc">König Heinrich VI.</seg></rs></rs> von <rs type="pers" ana="n_70607" ref="#fk__p_55589"><seg type="spc">Shakespeare</seg></rs>.<lb/>
+Übersetzt von <rs type="pers" ana="n_70608" ref="#fk__p_38587"><abbr>A. W.</abbr> von Schlegel</rs>: 1. Teil, II 4 (<rs type="pers">Die Grafen von<lb/>
+Somerset</rs>, <rs type="pers">Suffolk</rs> und <rs type="pers">Warwick</rs>, <rs type="pers">Richard Plantagenet</rs>, <rs type="pers">Vernon</rs> und<lb/>
+ein anderer <rs type="pers">Rechtsgelehrter</rs>.) / 2. Teil, III 2 (<rs type="pers">Zwei Mörder</rs>, <rs type="pers">Suffolk</rs>,<lb/>
+<rs type="pers">König Heinrich</rs>, <rs type="pers">Königin Margaretha</rs>, <rs type="pers">Kardinal Beaufort</rs> [<rs type="pers">Bischof von<lb/>
+Winchester</rs>], <rs type="pers">Somerset</rs>, <rs type="pers">Warwick</rs>, <rs type="pers">Salisbury</rs>, <rs type="pers">Volk</rs>.) / IV 8 (<rs type="pers">Cade</rs>,<lb/>
+<rs type="pers">Buckingham</rs>, der <rs type="pers">alte Clifford</rs>, <rs type="pers">Volk</rs>) / 3. Teil, I 4 (<rs type="pers">York</rs>, <rs type="pers">Margaretha</rs>,<lb/>
+<rs type="pers">Clifford</rs>, <rs type="pers">Northumberland</rs>.) / II 5 (<rs type="pers">König Heinrich</rs>, <rs type="pers">Ein Sohn der<lb/>
+seinen Vater umgebracht hat</rs>, <rs type="pers">Ein Vater der seinen Sohn umgebracht hat</rs>.)<lb/>
+</p>
+            <p ana="pr114193">
+<space/>II. <rs type="title"><seg type="spc"><rs type="pers">Hannele Matterns</rs> Himmelfahrt</seg></rs>, Traumdichtung in<lb/>
+zwei Teilen von <rs type="pers" ana="n_70609" ref="#fk__p_44354">Gerhart <seg type="spc">Hauptmann</seg></rs>. (Begleitende Musik:<lb/>
+<rs type="pers" ana="n_70610" ref="#fk__p_41334"><abbr>Dr.</abbr> Karl Meyer</rs>.)<lb/>
+</p>
+            <p ana="pr114194">
+<space/>Der volle Ertrag war einem kranken Mittelschüler zugedacht<lb/>
+und wurde dann zum Teil für dessen Begräbnis verwendet. — Der andere<lb/>
+Teil fiel der Gründung »<rs type="inst">Haus des Kindes</rs>« zu.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_55589">
+               <persName>Shakespeare, William</persName>
+               <birth>
+                  <date>1564-4-23?</date>
+                  <place>Stratford-upon-Avon</place>
+               </birth>
+               <death>
+                  <date>1616-4-23</date>
+                  <place>Stratford-upon-Avon</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2412</idno></person>
+            <person xml:id="fk__p_38587">
+               <persName>Schlegel, August Wilhelm von</persName>
+               <birth>
+                  <date>1767-9-5</date>
+                  <place>Hannover</place>
+               </birth>
+               <death>
+                  <date>1845-5-12</date>
+                  <place>Bonn</place>
+               </death>
+               <occupation>Literarhistoriker</occupation>
+               <occupation>Übersetzer</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/24212</idno></person>
+            <person xml:id="fk__p_41334">
+               <persName>Meyer, Karl</persName>
+               <birth>
+                  <date>1891-12-2</date>
+                  <place>Vöslau</place>
+               </birth>
+               <death>
+                  <date>leer</date>
+               </death>
+               <occupation>Komponist</occupation>
+               <note type="comment">mit Baldur von Schirach ein Werk im Zentralverlag der NSDAP, ca. 1935</note>
+               <note type="comment">Dr. Karl Meyer-Frenner</note>
+            </person>
+            <person xml:id="fk__p_44354">
+               <persName>Hauptmann, Gerhart</persName>
+               <birth>
+                  <date>1862-11-15</date>
+                  <place>Salzbrunn, Schlesien</place>
+               </birth>
+               <death>
+                  <date>1946-6-6</date>
+                  <place>Agnetendorf</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Ögg teilt die indirekte Stelle 521/64 zu, irrtümlich</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11617</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_09157.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09156.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09158.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ein bisher ungedruckter Brief Adalbert Stifters, in: Fackel Heft 24, Nr. 595, 1922, S. 48-49</title>
+            <title type="iso-date">1922-07-01</title>
+            <title type="id">tid_09157</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">24</title><title type="heft">595</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-24-595_n0048.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/595,048</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ein bisher ungedruckter Brief Adalbert Stifters</head>
+            <p ana="pr122147">
+Hochgeehrter Herr!<lb/>
+</p>
+            <p ana="pr122148">
+<space/>Ihr Schreiben vom <date>10. <abbr>d. M.</abbr></date> hat mir viele Freude gemacht<lb/>
+<abbr>u.</abbr> daß ich es erst heute beantworte hat seinen Grund darin<lb/>
+daß ich mehrere Schreiben zu beantworten habe <abbr>u.</abbr> als noch<lb/>
+nicht völlig hergestellt nach einer langen <abbr>u.</abbr> schleppenden<lb/>
+Krankheit nicht viel auf einmal schreiben darf. Wenn meine<lb/>
+in früheren Zeiten veröffentlichten Schriften einen freundlichen<lb/>
+Eindruck auf Sie machen, so ist mir da ich diesen Schriften<lb/>
+einen großen künstlerischen Wert nicht beilegen kann dieß<lb/>
+insoferne lieb als ich glaube daß ein warmes Herz <abbr>u.</abbr> ein für<lb/>
+Höheres empfänglicher Sinn in denselben liegt <abbr>u.</abbr> dieß dadurch<lb/>
+ersichtlich wird daß Sie auf ähnlich fühlende Menschen zu<lb/>
+denen ich Sie Ihrem Briefe nach zu urteilen rechne, einen<lb/>
+guten Eindruck machen. Ich hätte gerne recht Großes<lb/>
+Hohes <abbr>u.</abbr> Außerordentliches geleistet, aber die Kräfte sind eben<lb/>
+wie sie sind <abbr>u.</abbr> Niemand kann über sie hinaus. Mehr als<lb/>
+die Studien könnte ich Ihnen den <rs type="title">Nachsommer</rs> empfehlen eine<lb/>
+Erzählung in drei Bänden, aber dieses Werk dürften Sie wol<lb/>
+vor mehreren Jahren nicht lesen da es eine gereiftere Frucht<lb/>
+längeren Lebens ist <abbr>u.</abbr> Ihnen sehr vieles darin noch unbekannt<lb/>
+sein dürfte. Es wäre mir lieb gewesen, wenn ich Sie in Ihren<lb/>
+Ferien kennen gelernt hätte, ich war eben zur Erholung im<lb/>
+bairischen Walde an den drei Sesseln, welche Erholung aber<lb/>
+der vergangene abscheuliche Sommer sehr sauer machte. Wenn<lb/>
+Sie wieder einmal nach Linz kommen so klopfen Sie an meine<lb/>
+Thür sie wird Ihnen freundlich geöffnet werden. Eine Anempfehlung<lb/>
+ brauchen Sie nicht, so wie ich es nicht für nötig<lb/>
+gehalten habe mich um Ihr Wesen erst bei <rs type="pers" ana="n_74781" ref="#fk__p_41136"><abbr>Dr.</abbr> Haller</rs> zu erkundigen.<lb/>
+</p>
+            <p ana="pr122149">
+<space/>Mit größter Hochachtung zeichne ich mich Ihren Ergebenen<lb/>
+</p>
+            <p ana="pr122150">
+Linz <date>22. <abbr>Dez.</abbr> 1864</date> <rs type="pers" ana="n_74782" ref="#fk__p_37770"><AUCTOR>Adalbert Stifter</AUCTOR></rs>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_37770">
+               <persName>Stifter, Adalbert</persName>
+               <birth>
+                  <date>1805-10-23</date>
+                  <place>Oberplan/Böhmerwald</place>
+               </birth>
+               <death>
+                  <date>1868-1-28</date>
+                  <place>Lunz</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12851</idno></person>
+            <person xml:id="fk__p_41136">
+               <persName>Haller, Adam</persName>
+               <birth>
+                  <date>1805</date>
+                  <place>Steyr</place>
+               </birth>
+               <death>
+                  <date>1875-8-20</date>
+                  <place>Linz</place>
+               </death>
+               <occupation>Arzt</occupation>
+               <note type="comment">erwähnt in Brief Stifters aus Linz 1864</note>
+               <note type="comment">Otto Erich Deutsch, Schubert, die Dokumente seines Lebens 1996, Seite 390</note>
+               <note type="comment">Stadtarzt Linz</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

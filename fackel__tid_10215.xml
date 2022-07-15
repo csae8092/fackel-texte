@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_10215.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10214.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10216.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Empfang beim Papst, in: Fackel Heft 27, Nr. 691, 1925, S. 61-62</title>
+            <title type="iso-date">1925-07-01</title>
+            <title type="id">tid_10215</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">27</title><title type="heft">691</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-27-691_n0061.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/691,061</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Empfang beim Papst</head>
+            <lg>
+<l>Im Himmel herrschet ein Frohgelock</l>
+<l>über das, was ihm neulich begegnet:</l>
+<l>der Papst hat durch einen <seg type="insult">Presseschmock</seg></l>
+<l>die gläubigen Völker gesegnet.</l>
+</lg>
+            <lg>
+<l>Im <foreign xml:lang="la">anno santo</foreign> hat sichs geschickt</l>
+<l>und die Engel freun sich nach Noten:</l>
+<l><seg type="insult">der <rs type="pers" ana="n_85129" ref="#fk__p_51123">Pius</rs></seg> hat <seg type="insult">dem <rs type="pers" ana="n_85130" ref="#fk__p_42795">Benedikt</rs></seg></l>
+<l>einen Herzensgruß entboten.</l>
+</lg>
+            <lg>
+<l>Der Grund zur Freude ist leicht durchdacht,</l>
+<l>wenn man sich von Bedenken losmacht:</l>
+<l>Der Papst, er hat es weit gebracht,</l>
+<l>er verkehrt mit einer <seg type="insult">Großmacht</seg>.</l>
+</lg>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_51123">
+               <persName>Pius XI., Papst</persName>
+               <birth>
+                  <date>1857-5-31</date>
+                  <place>Desio</place>
+               </birth>
+               <death>
+                  <date>1939-2-10</date>
+                  <place>Rom</place>
+               </death>
+               <occupation>Papst</occupation>
+               <note type="comment">6.2.1922-10.2.1939</note>
+            </person>
+            <person xml:id="fk__p_42795">
+               <persName>Benedikt, Ernst</persName>
+               <birth>
+                  <date>1882-05-20</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1973-12-28</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10872</idno></person>
+            </listPerson></back></text>
+</TEI>

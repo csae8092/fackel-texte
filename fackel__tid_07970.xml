@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07970.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07969.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07971.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Was es in Berlin noch gibt), in: Fackel Heft 19, Nr. 462, 1917, S. 89-89</title>
+            <title type="iso-date">1917-10-01</title>
+            <title type="id">tid_07970</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">19</title><title type="heft">462</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-19-462_n0089.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/462,089</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Was es in Berlin noch gibt)</head>
+            <p ana="pr106475">
+<space/>Was es in Berlin noch gibt:<lb/>
+</p>
+            <p ana="pr106477">
+<space/>Der <rs type="inst"><rs type="pers" ana="n2_6003" key="#fk__p_58109">Heinz Barger-Verlag</rs></rs>, Berlin — — hervorragende Liebhaberdrucke<lb/>
+ moderner lebender Autoren — — <rs type="pers" ana="n_67808" ref="#fk__p_40140">Cranach-Presse</rs> des<lb/>
+<rs type="pers" ana="n_67809" ref="#fk__p_45542">Grafen Harry von Keßler</rs> in Weimar — — — »<rs type="title">Sulamith</rs>« von <rs type="pers" ana="n_67810" ref="#fk__p_55447">Wieland<lb/>
+Herzfelde</rs> und »<rs type="title">Eroberung</rs>« von <rs type="pers" ana="n_67811" ref="#fk__p_46981">Johannes <abbr>R.</abbr> Becher</rs> — — einhundert<lb/>
+<abbr>resp.</abbr> zweihundert numerierte und signierte Exemplare — — auf<lb/>
+Old Stratford, <rs type="inst"><rs type="pers" ana="n2_6004" ref="#fk__p_59168">Zanders</rs></rs> Bütten und <rs type="inst"><rs type="pers" ana="n2_6005" ref="#fk__p_59070">van Geldern-Zonen</rs></rs> abgezogen<lb/>
+und mit der Hand in Leder <abbr>resp.</abbr> Seide gebunden.<lb/>
+</p>
+            <p ana="pr106479">
+<space/>Es sei. Wäre es eine Angelegenheit der Sprache und<lb/>
+nicht bloß <seg type="insult">jener Literatur</seg>, die durch Druckfehler ihre Bereicherung<lb/>
+erfährt, so wär’s unter den heutigen typographischen Umständen<lb/>
+tragisch. So ist es <seg type="insult">Berlin auf Old Stratford</seg>. Gott strafe England.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_59070">
+               <persName>Geldern, van (Papierfabrik)</persName>
+            </person>
+            <person xml:id="fk__p_55447">
+               <persName>Herzfelde, Wieland</persName>
+               <birth>
+                  <date>1896-4-11</date>
+                  <place>Weggis/Schweiz</place>
+               </birth>
+               <death>
+                  <date>1988-11-23</date>
+                  <place>Berlin</place>
+               </death>
+               <occupation>Verleger</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/56728</idno></person>
+            <person xml:id="fk__p_59168">
+               <persName>Zander, Marie (Schreibwarenhandel)</persName>
+               <note type="comment">Zander's Bütten</note>
+               <note type="comment">1., Seilerstätte 2</note>
+            </person>
+            <person xml:id="fk__p_40140">
+               <persName>Cranach, Lucas d. Ä.</persName>
+               <birth>
+                  <date>1472-00-00</date>
+                  <place>Kronach</place>
+               </birth>
+               <death>
+                  <date>1553-10-16</date>
+                  <place>Weimar</place>
+               </death>
+               <occupation>Maler</occupation>
+               <occupation>Kupferstecher</occupation>
+               <occupation>Zeichner</occupation>
+            </person>
+            <person xml:id="fk__p_45542">
+               <persName>Keßler, Harry Graf</persName>
+               <birth>
+                  <date>1868-5-23</date>
+                  <place>Paris</place>
+               </birth>
+               <death>
+                  <date>1937-11-30</date>
+                  <place>Lyon</place>
+               </death>
+               <occupation>Diplomat</occupation>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Verleger</occupation>
+            </person>
+            <person xml:id="fk__p_46981">
+               <persName>Becher, Johannes Robert</persName>
+               <birth>
+                  <date>1891-5-22</date>
+                  <place>München</place>
+               </birth>
+               <death>
+                  <date>1958-10-11</date>
+                  <place>Berlin</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Politiker</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/45539</idno></person>
+            </listPerson></back></text>
+</TEI>

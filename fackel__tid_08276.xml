@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_08276.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08275.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08277.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Czernin und Goethe, in: Fackel Heft 20, Nr. 474, 1918, S. 134-135</title>
+            <title type="iso-date">1918-05-01</title>
+            <title type="id">tid_08276</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">20</title><title type="heft">474</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-20-474_n0134.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/474,134</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Czernin und Goethe</head>
+            <p ana="pr109344">
+<space/><seg type="insult">Den Wiener Gemeinderäten</seg> hat <seg type="insult">der <rs type="pers" ana="n_68649" ref="#fk__p_44656">Graf Czernin</rs></seg> zugerufen:<lb/>
+</p>
+            <p ana="pr109346">
+<space/><seg type="symbol" subtype="4dots"/> und ich möchte an das schöne Wort <rs type="pers" ana="n_68650" ref="#fk__p_46960">Goethes</rs> erinnern:<lb/>
+</p>
+            <lg>
+<l>»<seg type="insult">Weibisches Zagen</seg>,</l>
+<l>Ängstliches Klagen,</l>
+<l>Wendet kein Elend,</l>
+<l>Macht dich nicht frei.</l>
+<l><seg type="spc">Allen Gewalten</seg></l>
+<l><seg type="spc">Zum Trutz sich erhalten</seg>,</l>
+<l>Nimmer sich beugen,</l>
+<l>Kräftig sich zeigen,</l>
+<l>Rufet die Hilfe</l>
+<l>Der Götter herbei,«</l>
+</lg>
+            <p ana="pr109351">
+<space/>Die Version »Rufet die Arme der Götter herbei« ist<lb/>
+offenbar wegen der Mißdeutungsmöglichkeit <seg type="insult">»Armee der Götter«<lb/>
+(Herr der Heerscharen)</seg> geflissentlich vermieden worden. Ich hätte<lb/>
+erwartet, daß <rs type="pers" ana="n_68651" ref="#fk__p_44656">Czernin</rs>, wenn er schon <rs type="pers" ana="n_68652" ref="#fk__p_46960">Goethe</rs> zitiert, von den<lb/>
+»drei maßvollen, aber ehrenvollen Frieden«, die er bisher geschlossen<lb/>
+ hat, eher das Folgende heimbringen würde:<lb/>
+</p>
+            <lg>
+<l>Verflucht sei, wer nach falschem Rat,</l>
+<l>Mit <seg type="insult">überfrechem Mut</seg>,</l>
+<l>Das was <seg type="insult">der Corse-Franke</seg> tat,</l>
+<l>Nun als ein Deutscher tut.</l>
+<l>Er fühle spät, er fühle früh,</l>
+<l>Es sei ein dauernd Recht;</l>
+<l>Ihm geh’ es, trotz Gewalt und Müh’,</l>
+<l>Ihm und den Seinen schlecht!</l>
+</lg>
+            <p ana="pr109355">
+<space/><rs type="pers" ana="n_68653" ref="#fk__p_46960">Goethe</rs> hat mit <rs type="pers" ana="n_68654" ref="#fk__p_44656">Czernin</rs> eben gemeinsam, daß er sich<lb/>
+nicht nur gegen die <seg type="insult">Defaitisten</seg>, sondern auch gegen die<lb/>
+<seg type="insult">Annexionisten</seg> wendet. Ich aber lasse mir von ihnen beiden<lb/>
+nicht zweimal sagen, daß man allen Gewalten zum Trutz sich<lb/>
+erhalten muß — was, wie ich hoffe, mir sogar besser als <seg type="insult">dem<lb/>
+<rs type="pers" ana="n_68655" ref="#fk__p_44656">Grafen Czernin</rs></seg> gelingen wird.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46960">
+               <persName>Goethe, Johann Wolfgang von</persName>
+               <birth>
+                  <date>1749-8-28</date>
+                  <place>Frankfurt am Main</place>
+               </birth>
+               <death>
+                  <date>1832-3-22</date>
+                  <place>Weimar</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">890/142f.</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11461</idno></person>
+            <person xml:id="fk__p_44656">
+               <persName>Czernin-Chudenitz, Ottokar Theobald Graf </persName>
+               <birth>
+                  <date>1872-09-26</date>
+                  <place>Dimokur/Böhmen</place>
+               </birth>
+               <death>
+                  <date>1932-04-04</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <occupation>Diplomat</occupation>
+               <note type="comment"/>
+               <note type="comment">Sohn Theobald Peter Ottokar (Winař 29.4.1898 - Wien 14.5.1974)</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_14331</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/15184</idno></person>
+            </listPerson></back></text>
+</TEI>

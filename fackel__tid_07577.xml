@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07577.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07576.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07578.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Die müssen gute Nerven haben, in: Fackel Heft 18, Nr. 445, 1234, S. 24-25</title>
+            <title type="iso-date">1234-01-01</title>
+            <title type="id">tid_07577</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">18</title><title type="heft">445</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-18-445_n0024.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/445,024</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Die müssen gute Nerven haben</head>
+            <p ana="pr101887">
+<space/><seg type="symbol" subtype="3dots"/> in diese Salons wird der Besucher geführt. Der Generalfeldmarschall<lb/>
+ <seg type="spc">hat die Güte gehabt</seg>, <seg type="spc">den Vertreter der</seg><lb/>
+»<rs type="paper" ana="werk_20901"><seg type="spc">Neuen Freien Presse</seg></rs>« <seg type="spc">zum Abendessen einzuladen</seg>.<lb/>
+Die höchsten Offiziere des <rs type="inst">Generalstabes</rs>, die an der gemeinschaftlichen<lb/>
+Tafel teilnehmen, versammeln sich wenige Minuten vor der Essensstunde.<lb/>
+Um 8 Uhr erscheinen <rs type="pers" ana="n_66054" ref="#fk__p_55030">Hindenburg</rs> und <rs type="pers" ana="n_66055" ref="#fk__p_55058">Ludendorff</rs>.<lb/>
+</p>
+            <p ana="pr101888">
+<space/><seg type="symbol" subtype="3dots"/> Diese Äußerungen <rs type="pers" ana="n_66056" ref="#fk__p_55030">Hindenburgs</rs> und <rs type="pers" ana="n_66057" ref="#fk__p_55058">Ludendorffs</rs> geben —<lb/>
+und darum wurden sie auch aufgezeichnet — <seg type="spc">allen wünschenswerten<lb/>
+ Aufschluß</seg> darüber, <seg type="spc">wie die Nerven der Männer<lb/>
+beschaffen sind</seg>, von denen heute unser aller Schicksal abhängt.<lb/>
+</p>
+            <p ana="pr101889">
+<rs type="pers" ana="n_66058" ref="#fk__p_51209"><AUCTOR>Paul Goldmann</AUCTOR></rs>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_55058">
+               <persName>Ludendorff, Erich Friedrich Wilhelm</persName>
+               <birth>
+                  <date>1865-4-9</date>
+                  <place>Kruszewnia bei Posen</place>
+               </birth>
+               <death>
+                  <date>1937-12-20</date>
+                  <place>Tutzing</place>
+               </death>
+               <occupation>Offizier</occupation>
+               <occupation>Politiker</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17720</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12122</idno></person>
+            <person xml:id="fk__p_55030">
+               <persName>Beneckendorff-Hindenburg, Paul von</persName>
+               <birth>
+                  <date>1847-10-2</date>
+                  <place>Posen</place>
+               </birth>
+               <death>
+                  <date>1934-8-2</date>
+                  <place>Neudeck</place>
+               </death>
+               <occupation>Offizier</occupation>
+               <occupation>Politiker</occupation>
+               <note type="comment">Reichspräsident seit 1925</note>
+            </person>
+            <person xml:id="fk__p_51209">
+               <persName>Goldmann, Paul</persName>
+               <birth>
+                  <date>1865-1-31</date>
+                  <place>Breslau</place>
+               </birth>
+               <death>
+                  <date>1935-9-25</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11485</idno></person>
+            </listPerson></back></text>
+</TEI>

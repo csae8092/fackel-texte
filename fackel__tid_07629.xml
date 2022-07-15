@@ -1,0 +1,45 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07629.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07628.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07630.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Jungtürkisch, in: Fackel Heft 18, Nr. 445, 1234, S. 69-69</title>
+            <title type="iso-date">1234-01-01</title>
+            <title type="id">tid_07629</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">18</title><title type="heft">445</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-18-445_n0069.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/445,069</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Jungtürkisch</head>
+            <p ana="pr102534">
+<space/>» <seg type="symbol" subtype="3dots"/> Gottes Zuversicht ist im Herzen jedes Türken tief gewurzelt,<lb/>
+<seg type="spc">und dieser Faktor allein wird genügen</seg>, bald die Lorbeeren<lb/>
+ des endgültigen Sieges auf den Häuptern zu tragen. <rs type="pers" ana="n_66307" ref="#fk__p_42718"><AUCTOR>Enver</AUCTOR></rs>.«<lb/>
+</p>
+            <p ana="pr102536">
+<space/>Ich glaube kaum, daß man das Gottvertrauen eines alten<lb/>
+Türken so hätte ins Deutsche übersetzen können.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_42718">
+               <persName>Enver Pascha</persName>
+               <birth>
+                  <date>1881-03-09</date>
+                  <place>Monastir</place>
+               </birth>
+               <death>
+                  <date>1922-08-04</date>
+                  <place>bei Baldschuwan/Pamir</place>
+               </death>
+               <occupation>Politiker</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/15935</idno></person>
+            </listPerson></back></text>
+</TEI>

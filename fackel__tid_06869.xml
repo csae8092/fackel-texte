@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06869.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06868.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06870.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Der letzte Schrei der Wollust, in: Fackel Heft 16, Nr. 400, 1914, S. 67-68</title>
+            <title type="iso-date">1914-01-01</title>
+            <title type="id">tid_06869</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">16</title><title type="heft">400</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-16-400_n0067.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/400,067</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Der letzte Schrei der Wollust</head>
+            <p ana="pr92223">
+<seg type="spc">Momentphotographien kämpfender Suffragetten</seg>.<lb/>
+</p>
+            <p ana="pr92224">
+(Aufgenommen während der letzten Suffragettenschlacht vor dem<lb/>
+Königspalaste.)<lb/>
+</p>
+            <p ana="pr92225">
+<space/>»<seg type="symbol" subtype="4dots"/> Die Aufnahmen sind nach dem <foreign xml:lang="en">‚<rs type="paper" ana="werk_20332">Daily Mirror</rs>‘</foreign> reproduziert.<lb/>
+Das Bild in der Mitte ist das der Miß <rs type="pers" ana="n_62618" ref="#fk__p_39953"><SPAN sug="Christabel Pankhurst">....</SPAN></rs>, der Hauptführerin<lb/>
+der militanten Suffragettenbewegung. Sie wurde <seg type="spc">in dem Momente</seg><lb/>
+photographiert,als sie nach heftiger Gegenwehr <seg type="spc">von einem Konstabler</seg><lb/>
+aufgehoben und in ein Auto getragen wurde.«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_39953">
+               <persName>Pankhurst, Christabel</persName>
+               <birth>
+                  <date>1880-9-22</date>
+                  <place>Manchester</place>
+               </birth>
+               <death>
+                  <date>1958-2-13</date>
+                  <place>Los Angeles</place>
+               </death>
+               <occupation>Suffragette</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

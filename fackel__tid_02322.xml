@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02322.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02321.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02323.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Leserin. (Ein unerständlicher Satz der ‚Fackel‘), in: Fackel Heft 03, Nr. 098, 1902, S. 22-22</title>
+            <title type="iso-date">1902-03-27</title>
+            <title type="id">tid_02322</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">03</title><title type="heft">098</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-03-098_n0022.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/098,022</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Leserin. (Ein unerständlicher Satz der ‚Fackel‘)</head>
+            <p ana="pr22586">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_19677" ref="#fk__p_48890">Leserin</rs>.</seg></seg> Ich glaube es ohneweiters: dem an ein <seg type="insult">Zeitungsdeutsch</seg>,<lb/>
+das alle Sprachcultur gemordet hat, gewöhnten Ohr mag mancher Satz,<lb/>
+der in der ‚<rs type="self" ana="werk_7482">Fackel</rs>‘ steht, fremdartig oder unverständlich klingen. Die<lb/>
+in <rs type="selfRef" ana="werk_7483"><abbr>Nr.</abbr> 94</rs> enthaltene Wendung: »Dem Volksschullehrer wird, wenn er<lb/>
+sich lange genug gerackert, wenigstens der eine Lohn: er darf <seg type="spc">in den<lb/>
+Sielen sterben</seg>« ist sicherlich nicht journalüblich. Siele bedeutet ein<lb/>
+<seg type="spc">Pferdegeschirr</seg>. Die deutsche Sprache verdankt ihre Bereicherung<lb/>
+um dieses, wie um so viele kräftige Bilder aus dem agrarischen Leben dem<lb/>
+Fürsten <rs type="pers" ana="n_19678" ref="#fk__p_39266">Bismarck</rs>: »Ein braves Pferd stirbt in den Sielen.« (<rs type="title">Reden</rs> 12,39).<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_39266">
+               <persName>Bismarck, Otto Eduard Leopold Fürst</persName>
+               <birth>
+                  <date>1815-04-01</date>
+                  <place>Schönhausen</place>
+               </birth>
+               <death>
+                  <date>1898-07-30</date>
+                  <place>Friedrichsruh</place>
+               </death>
+               <occupation>Politiker</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13749</idno></person>
+            <person xml:id="fk__p_48890">
+               <persName>Leserin</persName>
+            </person>
+            </listPerson></back></text>
+</TEI>

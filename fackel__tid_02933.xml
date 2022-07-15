@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02933.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02932.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02934.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Eingestellt!, in: Fackel Heft 04, Nr. 130, 1903, S. 9-9</title>
+            <title type="iso-date">1903-02-21</title>
+            <title type="id">tid_02933</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">04</title><title type="heft">130</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-04-130_n0009.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/130,009</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Eingestellt!</head>
+            <p ana="pr28975">
+<space/><inciptit>Eingestellt</inciptit>! <seg type="insult">Jubel in der <rs type="inst">Länderbank</rs>!</seg> Vier Millionen endgiltig<lb/>
+ verschwunden! <seg type="insult">Hofrath <rs type="pers" ana="n_24985" ref="#fk__p_52741">Hahn</rs></seg> soll gedrahtet haben: <RS persTitle="Schiller" title="Kabale und Liebe">Legt’s<lb/>
+zu dem Uebrigen</RS>! <seg type="symbol" subtype="3dots"/> Niemals werden wir erfahren, wie das mobile<lb/>
+Capital der <rs type="inst">Länderbank</rs> automobil gemacht wurde. Daß es so gekommen<lb/>
+ ist, hat freilich niemanden überrascht. Man weiß doch in<lb/>
+Oesterreich, was es bedeutet, wenn eine <seg type="insult">Untersuchung <foreign xml:lang="la">»usque ad<lb/>
+finem«</foreign></seg> angekündigt wird. Diesmal hat es sich um das Ende des<lb/>
+Defraudanten <rs type="pers" ana="n_24986" ref="#fk__p_42293">Jellinek</rs> gehandelt. Jenes Ende war gut. Und jetzt<lb/>
+ist alles gut.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_42293">
+               <persName>Jellinek, Edmund</persName>
+               <birth>
+                  <date>1868-1-17</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1902-9-19</date>
+                  <place>Altenwörth</place>
+               </death>
+               <occupation>Bankdirektor</occupation>
+               <note type="comment">3., Mathäusgasse 5; 9., Porzellangasse 22A</note>
+               <note type="comment">Photo vom Grabstein: mail Wolf-Erich Eckstein 22.12.08, 11.59 Uhr</note>
+               <note type="comment">hoher Beamter der Länderbank</note>
+            </person>
+            <person xml:id="fk__p_52741">
+               <persName>Hahn, Samuel Ritter von</persName>
+               <birth>
+                  <date>1837-3-15</date>
+                  <place>Ungarisch-Ostrau</place>
+               </birth>
+               <death>
+                  <date>1915-12-14</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Bankier</occupation>
+               <note type="comment">ZF, 1. Tor Gruppe 7/Reihe 1/ Grab Nr. 20</note>
+               <note type="comment">Gründer der Länderbank</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

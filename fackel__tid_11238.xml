@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_11238.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11237.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11239.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Das richtige Maß, in: Fackel Heft 31, Nr. 820, 1929, S. 118-118</title>
+            <title type="iso-date">1929-10-01</title>
+            <title type="id">tid_11238</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">31</title><title type="heft">820</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-31-820_n0118.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/820,118</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Das richtige Maß</head>
+            <p ana="pr162963">
+zwischen dem <seg type="insult">Wortpomp</seg>, mit dem einst kein hundertfältiger<lb/>
+<rs type="pers" ana="n_97642" ref="#fk__p_39266">Bismarck</rs> begraben worden wäre (»Er hatte seinen Namen mit<lb/>
+Flammenschrift an die Sternendecke geschrieben«):<lb/>
+</p>
+            <p ana="pr162965">
+— — mit Rat und Tat wirksam unterstützt und durch seine gewinnenden<lb/>
+persönlichen Eigenschaften die ganz besondere Wertschätzung aller<lb/>
+erworben, die mit ihm zusammen arbeiten durften.<lb/>
+</p>
+            <p ana="pr162966">
+<AUCTOR>Aufsichtsrat und Vorstand<lb/>
+der <rs type="inst">Sachsenwerk,<lb/>
+<seg type="ELIDASH"/> und Kraft-Aktiengesellschaft</rs></AUCTOR><lb/>
+Niedersedlitz / Dresden<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_39266">
+               <persName>Bismarck, Otto Eduard Leopold Fürst</persName>
+               <birth>
+                  <date>1815-04-01</date>
+                  <place>Schönhausen</place>
+               </birth>
+               <death>
+                  <date>1898-07-30</date>
+                  <place>Friedrichsruh</place>
+               </death>
+               <occupation>Politiker</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13749</idno></person>
+            </listPerson></back></text>
+</TEI>

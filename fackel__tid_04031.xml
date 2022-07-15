@@ -1,0 +1,117 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_04031.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04030.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04032.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Chirurg. (Der Unfall des Erzherzogs), in: Fackel Heft 07, Nr. 192, 1906, S. 31-31</title>
+            <title type="iso-date">1906-01-5</title>
+            <title type="id">tid_04031</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">07</title><title type="heft">192</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-07-192_n0031.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/192,031</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Chirurg. (Der Unfall des Erzherzogs)</head>
+            <p ana="pr41933">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="name_203284" key="#fk__p_60598">Chirurg</rs>.</seg></seg></seg> Widerlich sind die Berichte der ‚<rs type="paper" ana="werk_14257">Neuen Freien Presse</rs>‘<lb/>
+über den Beinbruch des <rs type="pers" ana="n_34774" ref="#fk__p_47385">Erzherzogs Karl</rs>. Der <seg type="insult"><rs type="paperRef" ana="werk_14258">Preßköter</rs></seg> kann sich an den<lb/>
+Knochensplittern einer so hohen Persönlichkeit nicht satt nagen. Was<lb/>
+<seg type="insult">eine »informierte Seite«</seg> sagt. Was <seg type="insult">eine »andere Seite«</seg> sagt. Was man<lb/>
+uns Abends meldet. Was man uns Nachts meldet. Was der Eislauflehrer<lb/>
+erzählt. Was der Eismeister berichtet. Was <seg type="insult">eine »ärztliche Seite«</seg> meint <seg type="symbol" subtype="3dots"/><lb/>
+»Mit dem Automobil der Rettungsgesellschaft wurde der Erzherzog in<lb/>
+das Augartenpalais gebracht, wo schon der Chefarzt, kaiserlicher Rat<lb/>
+<rs type="pers" ana="n_34775" ref="#fk__p_39881"><abbr>Dr.</abbr> Charas</rs>, der inzwischen verständigt worden war, auf den Transport<lb/>
+wartete«. Wozu? »Zur Untersuchung mit Röntgen-Strahlen wird <rs type="pers" ana="n_34776" ref="#fk__p_47385">Erzherzog<lb/>
+ Karl</rs> morgen ins <rs type="inst">Sanatorium <rs type="pers" ana="n2_2771" ref="#fk__p_57761">Löw</rs></rs> gebracht werden.«. Die Nachricht<lb/>
+ wird vielleicht dementiert werden, so daß also das <rs type="inst">Sanatorium <rs type="pers" ana="n2_2772" ref="#fk__p_57761">Löw</rs></rs><lb/>
+noch einmal genannt werden kann. Was der <RS pers="Franz Joseph" globID="rs_494">Kaiser</RS> sagte. Was die<lb/>
+<rs type="pers" ana="n_34777" ref="#fk__p_42941">Erzherzogin Maria Josefa</rs> sagte. Was der <rs type="pers" ana="n_34778" ref="#fk__p_42916">Erzherzog Otto</rs> sagte. Einer<lb/>
+sagte, daß der Verband der Rettungsgesellschaft »sehr schön« ist. Das<lb/>
+war aber nicht, wie man auf den ersten Blick vermuten könnte, eine<lb/>
+der vielen höchsten Persönlichkeiten, die sich über den Unfall geäußert<lb/>
+haben, sondern <seg type="insult">bloß der Professor <rs type="pers" ana="n_34779" ref="#fk__p_41936">Hochenegg</rs></seg>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_39881">
+               <persName>Charas, Heinrich</persName>
+               <birth>
+                  <date>1860-11-19</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1940-6-29</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Arzt</occupation>
+               <note type="comment">Leiter der Freiwilligen Rettungsgesellschaft</note>
+            </person>
+            <person xml:id="fk__p_42916">
+               <persName>Otto Franz Josef, Erzherzog</persName>
+               <birth>
+                  <date>1865-04-21</date>
+                  <place>Graz</place>
+               </birth>
+               <death>
+                  <date>1906-11-01</date>
+                  <place>Wien</place>
+               </death>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_18612</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/22253</idno></person>
+            <person xml:id="fk__p_57761">
+               <persName>Loew, Anton</persName>
+               <birth>
+                  <date>1847-10-20</date>
+                  <place>Preßburg</place>
+               </birth>
+               <death>
+                  <date>1907-9-14</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Arzt</occupation>
+               <occupation>Sanatoriumsleiter</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/20565</idno></person>
+            <person xml:id="fk__p_42941">
+               <persName>Maria Josepha, Erzherzogin, geb. Prinzessin von Sachsen</persName>
+               <birth>
+                  <date>1867-5-31</date>
+                  <place>Dresden</place>
+               </birth>
+               <death>
+                  <date>1944-5-28</date>
+                  <place>Schloß Wildenwart</place>
+               </death>
+            </person>
+            <person xml:id="fk__p_47385">
+               <persName>Karl I., Kaiser</persName>
+               <birth>
+                  <date>1887-08-17</date>
+                  <place>Persenbeug/NÖ</place>
+               </birth>
+               <death>
+                  <date>1922-04-01</date>
+                  <place>Quinta do Monte/Madeira</place>
+               </death>
+               <occupation>Kaiser</occupation>
+               <note type="comment">Ögg teilt irrt. 561/21 zu, da ist Franz Joseph I. gemeint</note>
+            </person>
+            <person xml:id="fk__p_41936">
+               <persName>Hochenegg, Julius von</persName>
+               <birth>
+                  <date>1859-8-2</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1940-5-11</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Chirurg</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/7882</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,40 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_05523.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05522.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05524.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Die Märchen von Tausend und eine Nacht, in: Fackel Heft 13, Nr. 336, 1234, S. 12-12</title>
+            <title type="iso-date">1234-01-01</title>
+            <title type="id">tid_05523</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">13</title><title type="heft">336</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-13-336_n0012.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/336,012</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Die Märchen von Tausend und eine Nacht</head>
+            <p ana="pr72460">
+sind ein <seg type="insult"><foreign xml:lang="de-loc">Pofel</foreign></seg> gegen die<lb/>
+</p>
+            <p ana="pr72462">
+<B>Fortsetzung der Schilderungen, welche aus den<lb/>
+Erzählungen des Chefs des <rs type="inst">Teppichhauses <rs type="pers" ana="n2_4619" ref="#fk__p_50843">Orendi</rs></rs><lb/>
+anläßlich seiner Reise nach dem Orient behufs<lb/>
+Einkaufes von Teppichen entnommen sind.</B><lb/>
+</p>
+            <p ana="pr72464">
+Und wir lauschten.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_50843">
+               <persName>Orendi (C. Genersich &amp; Orendi, Teppichhandlung)</persName>
+               <note type="comment">1., Sonnenfelsgasse 2</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

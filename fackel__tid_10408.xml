@@ -1,0 +1,97 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_10408.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10407.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10409.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">9. Januar:, in: Fackel Heft 27, Nr. 712, 1926, S. 48-49</title>
+            <title type="iso-date">1926-01-01</title>
+            <title type="id">tid_10408</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">27</title><title type="heft">712</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-27-712_n0048.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/712,048</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>9. Januar:</head>
+            <p ana="pr142332">
+<space/><date>9. Januar</date>:<lb/>
+</p>
+            <p ana="pr142333">
+<space/><rs type="pers" ana="n_86839" ref="#fk__p_55589"><seg type="spc">Shakespeare</seg></rs>: <rs type="title"><seg type="spc">Maß für Maß</seg></rs>, nach der Übersetzung von<lb/>
+<rs type="pers" ana="n_86840" ref="#fk__p_55691">Wolf Heinrich Graf Baudissin</rs> <FERR href="FK-27-717_n0039.xml" fcorrID="fk_04_fcorr_29677808" id="fk_04_ferr_29677808" emID="fk_04_em_29677811"><ERR fcorr="(Schlegel-Tieck’sche Ausgabe)">(<rs type="pers" ana="n_86841" ref="#fk__p_38587"><rs type="pers" ana="n_86842" ref="#fk__p_49337">Schlegel-Tieck’sche Ausgabe</rs></rs>),</ERR></FERR> bearbeitet<lb/>
+vom Vortragenden.<lb/>
+</p>
+            <p ana="pr142334">
+<space/>Die Schlußverse des <rs type="pers">Herzogs</rs> an <rs type="pers">Isabella</rs>:<lb/>
+</p>
+            <lg>
+<l><space/>Zum Palast dann: und hört aus meinem Munde</l>
+<l><space/>Von dem, was noch zu sagen bleibt, die Kunde</l>
+</lg>
+            <p ana="pr142338">
+ersetzt durch:<lb/>
+</p>
+            <lg>
+<l><space/>Hin zum Palast! Nichts mag der Mund mehr künden,</l>
+<l><space/>Wo Herzen ihre hohe Sprache finden.</l>
+</lg>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_55589">
+               <persName>Shakespeare, William</persName>
+               <birth>
+                  <date>1564-4-23?</date>
+                  <place>Stratford-upon-Avon</place>
+               </birth>
+               <death>
+                  <date>1616-4-23</date>
+                  <place>Stratford-upon-Avon</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2412</idno></person>
+            <person xml:id="fk__p_38587">
+               <persName>Schlegel, August Wilhelm von</persName>
+               <birth>
+                  <date>1767-9-5</date>
+                  <place>Hannover</place>
+               </birth>
+               <death>
+                  <date>1845-5-12</date>
+                  <place>Bonn</place>
+               </death>
+               <occupation>Literarhistoriker</occupation>
+               <occupation>Übersetzer</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/24212</idno></person>
+            <person xml:id="fk__p_49337">
+               <persName>Tieck, Ludwig</persName>
+               <birth>
+                  <date>1773-5-31</date>
+                  <place>Berlin</place>
+               </birth>
+               <death>
+                  <date>1853-4-28</date>
+                  <place>Berlin</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Dramaturg</occupation>
+               <occupation>Übersetzer</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/4132</idno></person>
+            <person xml:id="fk__p_55691">
+               <persName>Baudissin, Wolf Heinrich Graf</persName>
+               <birth>
+                  <date>1789-01-30</date>
+                  <place>Kopenhagen</place>
+               </birth>
+               <death>
+                  <date>1878-04-04</date>
+                  <place>Dresden</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

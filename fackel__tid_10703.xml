@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_10703.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10702.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10704.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Sie muß es wissen, in: Fackel Heft 28, Nr. 743, 1926, S. 38-38</title>
+            <title type="iso-date">1926-12-01</title>
+            <title type="id">tid_10703</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">28</title><title type="heft">743</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-28-743_n0038.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/743,038</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Sie muß es wissen</head>
+            <p ana="pr149050">
+Diese auffallende Schärfe gegenüber dem ehemals hervorragenden<lb/>
+Parteigenossen ist unseren Informationen zufolge nicht auf Korruptionsfälle<lb/>
+ zurückzuführen, in deren Kenntnis die <rs type="inst">christlichsoziale Partei</rs><lb/>
+etwa gelangt wäre, sondern vorwiegend auf die<lb/>
+<space/>inzwischen bekanntgewordenen Umstände einer <seg type="spc">rein</seg><lb/>
+<space/><seg type="spc">privaten</seg> Affäre des ehemaligen Finanzministers,<lb/>
+die nach Auffassung der klerikalen Kreise der Partei offenbar diese<lb/>
+weit schärfere Verurteilung rechtfertigt. Den äußeren Anlaß zu dieser<lb/>
+Maßregelung bildet<lb/>
+<space/>der Beschluß der <rs type="inst">Grazer katholischen Studentenverbindung<lb/>
+<space/></rs>, der <rs type="pers" ana="n_89448" ref="#fk__p_40688"><abbr>Dr.</abbr> <seg type="spc">Ahrer</seg></rs> angehört, diesen wegen<lb/>
+<space/>der in Rede stehenden <seg type="spc">Privatangelegenheit</seg>, die<lb/>
+<space/>mit einer an dem Minister verübten Erpressungsaffäre<lb/>
+<space/> im Zusammenhang steht, auszuschließen.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_40688">
+               <persName>Ahrer, Jakob</persName>
+               <birth>
+                  <date>1888-11-28</date>
+                  <place>St. Stefan ob Leoben/Stmk.</place>
+               </birth>
+               <death>
+                  <date>1962-3-31</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <note type="comment">1924-26 Finanzminister</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

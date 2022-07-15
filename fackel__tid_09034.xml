@@ -1,0 +1,48 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_09034.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09033.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09035.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Zusatzstrophen), in: Fackel Heft 23, Nr. 577, 1921, S. 74-74</title>
+            <title type="iso-date">1921-11-01</title>
+            <title type="id">tid_09034</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">23</title><title type="heft">577</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-23-577_n0074.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/577,074</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Zusatzstrophen)</head>
+            <lg>
+<l>Man liest was von <rs type="pers" ana="n_73915" ref="#fk__p_46919">Nestroy</rs> und es kommt einem vor</l>
+<l>Wie eine höhere Welt und ein tieferer Humor.</l>
+<l>Doch die unsrige Welt liebt ganz andere Stück’,</l>
+<l>Denn sie schreitet im <seg type="insult">Fortschritt</seg> gewaltig zurück.</l>
+<l>So riskiert man, wenn ein Stück von <rs type="pers" ana="n_73916" ref="#fk__p_46919">Nestroy</rs> is aus,</l>
+<l>Daß sich keine Hand rührt, daß man hört <foreign xml:lang="de-loc">kein’</foreign> Applaus;</l>
+<l>Und die Leut’ finden fad, was man selber verehrt <seg type="symbol" subtype="3dots"/></l>
+<l>Dieses <foreign xml:lang="de-loc">G’fühl</foreign> <seg type="symbol" subtype="3dots"/> ja da glaubt man, man sinkt in die <foreign xml:lang="de-loc">Erd’</foreign>!</l>
+</lg>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46919">
+               <persName>Nestroy, Johann Nepomuk</persName>
+               <birth>
+                  <date>1801-12-7</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1862-5-25</date>
+                  <place>Graz</place>
+               </death>
+               <occupation>Sänger</occupation>
+               <occupation>Schauspieler</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12338</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_10475.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10474.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10476.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ebenda, 9. März, ½7 Uhr:, in: Fackel Heft 27, Nr. 717, 1926, S. 108-108</title>
+            <title type="iso-date">1926-04-01</title>
+            <title type="id">tid_10475</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">27</title><title type="heft">717</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-27-717_n0108.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/717,108</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ebenda, 9. März, ½7 Uhr:</head>
+            <p ana="pr144179">
+<space/>Ebenda, <date>9. März</date>, ½7 Uhr:<lb/>
+</p>
+            <p ana="pr144180">
+<space/>(Ansprache des Professors <rs type="pers" ana="n_87701" ref="#fk__p_45847"><abbr>H. St.</abbr> Sedlmayer</rs>)<lb/>
+</p>
+            <p ana="pr144181">
+<space/>I. <rs type="pers" ana="n_87702" ref="#fk__p_43227"><seg type="spc">Raimund</seg></rs>: <rs type="title"><seg type="spc">Das Mädchen aus der Feenwelt</seg> oder<lb/>
+<seg type="spc">Der Bauer als Millionär</seg></rs> II 4 bis 7.<lb/>
+</p>
+            <p ana="pr144182">
+<space/>II. <rs type="pers" ana="n_87703" ref="#fk__p_46919"><seg type="spc">Nestroy</seg></rs>: <rs type="title"><seg type="spc">Die schlimmen Buben in der Schule</seg></rs>.<lb/>
+</p>
+            <p ana="pr144183">
+<space/>Begleitung zu beiden Vorträgen: <rs type="pers" ana="n_87704" ref="#fk__p_54913">Victor Junk</rs>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_54913">
+               <persName>Junk, Viktor</persName>
+               <birth>
+                  <date>1875-4-18</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1948-4-5</date>
+                  <place>Frohnleiten/Steiermark</place>
+               </death>
+               <occupation>Germanist</occupation>
+               <occupation>Musikwissenschaftler</occupation>
+            </person>
+            <person xml:id="fk__p_46919">
+               <persName>Nestroy, Johann Nepomuk</persName>
+               <birth>
+                  <date>1801-12-7</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1862-5-25</date>
+                  <place>Graz</place>
+               </death>
+               <occupation>Sänger</occupation>
+               <occupation>Schauspieler</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12338</idno></person>
+            <person xml:id="fk__p_45847">
+               <persName>Sedlmayer, Heinrich Stephan</persName>
+               <birth>
+                  <date>1855-12-26</date>
+                  <place>Brünn, Mähren</place>
+               </birth>
+               <death>
+                  <date>1928-7-15</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Altphilologe</occupation>
+               <occupation>Gymnasiallehrer</occupation>
+               <note type="comment">F 423/39 Ode an ihn</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/57453</idno></person>
+            <person xml:id="fk__p_43227">
+               <persName>Raimund, Ferdinand</persName>
+               <birth>
+                  <date>1790-6-1</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1836-9-5</date>
+                  <place>Pottenstein, Niederösterreich</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Ögg teilt die Valentin-Stelle 254/4 Nestroy zu</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12468</idno></person>
+            </listPerson></back></text>
+</TEI>

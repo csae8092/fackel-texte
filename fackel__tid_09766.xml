@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_09766.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09765.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09767.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ebenda, 16. Januar, 7 Uhr:, in: Fackel Heft 26, Nr. 649, 1924, S. 72-72</title>
+            <title type="iso-date">1924-06-01</title>
+            <title type="id">tid_09766</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">26</title><title type="heft">649</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-26-649_n0072.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/649,072</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ebenda, 16. Januar, 7 Uhr:</head>
+            <p ana="pr132440">
+<space/>Ebenda, <date>16. Januar</date>, 7 Uhr:<lb/>
+</p>
+            <p ana="pr132441">
+<space/>(Wegen stimmlicher Indisposition anstatt »<rs type="title">Eine Wohnung zu<lb/>
+vermieten <abbr>u. s. w.</abbr></rs>«)<lb/>
+</p>
+            <p ana="pr132442">
+<space/><rs type="pers" ana="n_80950" ref="#fk__p_46919"><seg type="spc">Nestroy</seg></rs>: <rs type="title"><seg type="spc">Das Notwendige und das Überflüssige</seg></rs>.<lb/>
+Zugabe: Entree des <rs type="pers">Herrn von Gundelhuber</rs> (mit den bekannten und<lb/>
+zwei neuen Zusatzstrophen).<lb/>
+</p>
+            <p ana="pr132443">
+<space/>Der volle Ertrag (<abbr>inkl.</abbr> Programmerlös): K 3,809.000 für die<lb/>
+<rs type="inst">Internationale Arbeiterhilfe</rs>, Österreichisches Komitee, die <rs type="inst">Bereitschaft</rs><lb/>
+(Ortsgruppe Ottakring-Hernals), das <rs type="inst">Kinderasyl »Kahlenbergerdorf«</rs>,<lb/>
+die hungernden Kinder in Favoriten (»<rs type="inst">Societas</rs>«, Wien, X. Keplerplatz,<lb/>
+Bezirksvorsteher <rs type="pers" ana="n_80951" ref="#fk__p_53287">Sigl</rs>), das <rs type="inst"><rs type="pers" ana="n2_7238" ref="#fk__p_42522">Elisabeth-Heim</rs> für Kriegswaisen, Lehrmädchen<lb/>
+ und Arbeiterinnen</rs>, das <rs type="inst">Settlement</rs> und für den <rs type="inst">Unterrichtsverband<lb/>
+ der Arbeitervereine im Gemeindebezirk Landstraße</rs>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_42522">
+               <persName>Elisabeth von Österreich, geb. Prinzessin von Bayern</persName>
+               <birth>
+                  <date>1837-12-24</date>
+                  <place>München</place>
+               </birth>
+               <death>
+                  <date>1898-9-10</date>
+                  <place>Genf</place>
+               </death>
+               <occupation>Kaiserin</occupation>
+               <occupation>Königin</occupation>
+            </person>
+            <person xml:id="fk__p_46919">
+               <persName>Nestroy, Johann Nepomuk</persName>
+               <birth>
+                  <date>1801-12-7</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1862-5-25</date>
+                  <place>Graz</place>
+               </death>
+               <occupation>Sänger</occupation>
+               <occupation>Schauspieler</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12338</idno></person>
+            <person xml:id="fk__p_53287">
+               <persName>Sigl, August</persName>
+               <birth>
+                  <date>1868-4-21</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1936-5-14</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Angestellter</occupation>
+               <occupation>Politiker</occupation>
+               <note type="comment">Landtagsabg., Bezirksvorsteher</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_05563.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05562.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05564.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ein Hörfehler, in: Fackel Heft 13, Nr. 338, 1911, S. 7-7</title>
+            <title type="iso-date">1911-12-01</title>
+            <title type="id">tid_05563</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">13</title><title type="heft">338</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-13-338_n0007.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/338,007</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ein Hörfehler</head>
+            <p ana="pr73057">
+<space/>Vor einem <rs type="inst">Prager Gericht</rs> wurde, wie die <seg ana="Neue Freie Presse"/><lb/>
+behauptet, <rs type="pers" ana="n_52627" ref="#fk__p_55589">Shakespeare</rs> folgendermaßen zitiert:<lb/>
+</p>
+            <p ana="pr73059">
+<space/><abbr>Dr.</abbr> <abbr>W.</abbr> hob ferner hervor, daß es eine Versündigung an dem<lb/>
+Geiste der <rs type="title">Strafprozeßordnung</rs> bedeute, wenn fertige Urteile in die Verhandlung<lb/>
+ mitgebracht würden. Wenn man diesem Vorwurf gegenüber<lb/>
+darauf verweise, daß dies allgemein üblich sei, so sei dies <seg type="spc">ein Brauch</seg>,<lb/>
+»<seg type="spc">von dem der Brauch mehr ehrt, als seine Übung</seg>«.<lb/>
+</p>
+            <p ana="pr73061">
+<space/>In Wirklichkeit verhält sich die Sache so: Auf die Frage<lb/>
+<rs type="pers">Horatios</rs>, ob das Gebrauch sei (nämlich daß an des Königs Tafel<lb/>
+unter Musik und Lärm gesoffen werde), antwortet <rs type="pers">Hamlet</rs>:<lb/>
+»Nun freilich wohl: Doch meines Dünkens (bin ich eingeboren<lb/>
+und drin erzogen schon) ists ein Gebrauch, wovon der Bruch mehr<lb/>
+ehrt als die Befolgung.« Nun besteht ja kein Zweifel, daß in Prag<lb/>
+zwar nicht der Wortlaut, aber der Sinn richtig zitiert und gesagt<lb/>
+wurde, es sei ein Brauch, von dem der Bruch mehr ehrt als seine<lb/>
+Übung. Ferner besteht auch kein Zweifel, daß genau berichtet<lb/>
+wurde, was gesagt wurde. Aber die Berichte werden telephonisch<lb/>
+übermittelt, und wenn sich zwischen die Aussprache in Prag<lb/>
+und das Gehör in Wien solch ein Hindernis stellt, dann kann<lb/>
+man für nichts gut stehen. In Prag wurde nämlich ganz richtig<lb/>
+hineingerufen: »<seg type="symbol" subtype="2dots"/> so sei dies ein <seg type="insult">Broch</seg>, von dem der Bruch <seg type="symbol" subtype="3dots"/>«<lb/>
+In Wien wurde zwar der <seg type="insult">Broch</seg> ganz richtig verstanden, aber<lb/>
+auch der Bruch klang wie <seg type="insult">Broch</seg> und wurde infolgedessen als<lb/>
+Brauch geschrieben. Telegramme sind, besonders wenn es sich um<lb/>
+<rs type="pers" ana="n_52628" ref="#fk__p_55589">Shakespeare</rs> handelt, verläßlicher. Denn das Telephonieren, meines<lb/>
+Dünkens (bin ich eingeboren und drin erzogen schon), das ist ein<lb/>
+<seg type="insult">Broch</seg>, von dem der Bruch mehr ehrt als seine Übung.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_55589">
+               <persName>Shakespeare, William</persName>
+               <birth>
+                  <date>1564-4-23?</date>
+                  <place>Stratford-upon-Avon</place>
+               </birth>
+               <death>
+                  <date>1616-4-23</date>
+                  <place>Stratford-upon-Avon</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2412</idno></person>
+            </listPerson></back></text>
+</TEI>

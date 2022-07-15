@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_12120.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_12119.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_12121.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Radioglück, in: Fackel Heft 34, Nr. 876, 1932, S. 78-78</title>
+            <title type="iso-date">1932-10-01</title>
+            <title type="id">tid_12120</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">34</title><title type="heft">876</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-34-876_n0078.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/876,078</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Radioglück</head>
+            <p ana="pr176698">
+muß man haben. Bemühte mich in Südfrankreich vergebens,<lb/>
+Paris für <RS pers="Jacques Offenbach"><rs type="title" ana="name_202437" ref="#fk__p_46664"><rs type="pers">Perichole</rs></rs></RS> und <RS pers="Jacques Offenbach"><rs type="title" ana="name_202438" ref="#fk__p_46664"><foreign xml:lang="fr">Madame l’Archiduc</foreign></rs></RS> zu bekommen,<lb/>
+ward aber reich entschädigt: eine Stimme, die <foreign xml:lang="de-loc">»zwo«</foreign> sagt,<lb/>
+verkündet mit unerhörter Deutlichkeit: <seg type="symbol" subtype="2dots"/> die <rs type="pers" ana="n_105262" ref="#fk__p_46960">Goethemedaille</rs><lb/>
+verliehen an <rs type="pers" ana="n_105263" ref="#fk__p_50477">Mussolini</rs> — in diesem Moment erhob sich ein<lb/>
+Aufruhr unter den Elementen, wie ihn diese selbst noch nicht<lb/>
+erlebt hatten. Es schien endlich auf den Planeten abgesehen,<lb/>
+dessen ganze Richtung ihnen nicht paßt. Gleichwohl gab’s am<lb/>
+nächsten Morgen Zeitungen, aus denen zu erfahren war, <seg type="insult">welche<lb/>
+Herren</seg> sich an <rs type="pers" ana="n_105264" ref="#fk__p_50477">Mussolini</rs> anschlossen. Und doch behaupten<lb/>
+viele, daß ich die »<rs type="title"><rs type="pers">Pandora</rs></rs>« besser vortrage als jene und<lb/>
+selbst als <rs type="pers" ana="n_105265" ref="#fk__p_50477">Mussolini</rs>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46960">
+               <persName>Goethe, Johann Wolfgang von</persName>
+               <birth>
+                  <date>1749-8-28</date>
+                  <place>Frankfurt am Main</place>
+               </birth>
+               <death>
+                  <date>1832-3-22</date>
+                  <place>Weimar</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">890/142f.</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11461</idno></person>
+            <person xml:id="fk__p_46664">
+               <persName>Offenbach, Jacques</persName>
+               <birth>
+                  <date>1819-06-21</date>
+                  <place>Köln</place>
+               </birth>
+               <death>
+                  <date>1880-10-05</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Komponist</occupation>
+               <note type="comment">Ögg teilt Fortunato F 876/34 Shakespeare zu</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/9131</idno></person>
+            <person xml:id="fk__p_50477">
+               <persName>Mussolini, Benito</persName>
+               <birth>
+                  <date>1883-7-29</date>
+                  <place>Predappio</place>
+               </birth>
+               <death>
+                  <date>1945-4-2</date>
+                  <place>Giulino di Mezzegra/Provinz Como</place>
+               </death>
+               <occupation>Lehrer</occupation>
+               <occupation>Politiker</occupation>
+               <note type="comment">Benito Amilcare Andrea Mussolini</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12314</idno></person>
+            </listPerson></back></text>
+</TEI>

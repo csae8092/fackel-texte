@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01505.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01504.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01506.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Jingo. (Jingo), in: Fackel Heft 02, Nr. 063, 1900, S. 30-31</title>
+            <title type="iso-date">1900-12-01</title>
+            <title type="id">tid_01505</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">063</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-063_n0030.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/063,030</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Jingo. (Jingo)</head>
+            <p ana="pr14698">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_12149" key="#fk__p_46847"><foreign xml:lang="en">Jingo</foreign></rs>.</seg></seg> Im Anschluss an ein Citat aus einem <seg type="insult">Leitartikel</seg>, den<lb/>
+die ‚<rs type="paper" ana="werk_4677">Neue Freie Presse</rs>‘ über die Präsidentenwahl in den Vereinigten<lb/>
+Staaten gebracht hatte, schrieb die ‚<rs type="" ana="werk_4678"><abbr>Ill.</abbr> Staats-Zeitung</rs>‘: »<seg type="insult">So viel Unsinn<lb/>
+in so wenigen Zeilen!</seg> — — Ein Blatt von der Bedeutung der ‚<rs type="paper" ana="werk_4679">Neuen<lb/>
+Freien Presse</rs>‘ sollte besser unterrichtet sein und in ihrer Redaction<lb/>
+wenigstens einen Menschen haben, welcher die amerikanischen Zustände<lb/>
+und Einrichtungen genügend kennt, um sie vor so auffälligen Schnitzern<lb/>
+zu bewahren, wie sie von <seg type="insult">diesem <rs type="paperRef" ana="werk_4680">Weltblatt</rs></seg> so häufig bei Besprechung<lb/>
+amerikanischer Angelegenheiten gemacht werden.« Die Ansichten, die<lb/>
+die ‚<rs type="paper" ana="werk_4681">Neue Freie Presse</rs>‘ damals über die politische Stellung <rs type="pers" ana="n_12150" ref="#fk__p_50926"><seg type="spc">Ottendorfers<lb/>
+</seg></rs> geäußert hat, musste sie jetzt, da er gestorben, in einem<lb/>
+</p>
+            <p ana="pr14698">
+Feuilleton selbst berichtigen. Sie hatte ihn für <seg type="insult">einen Führer der ihr<lb/>
+sympathischen corrupten Republikanerpartei</seg> gehalten, nahm aber neulich<lb/>
+ von Herrn <abbr>Prof.</abbr> <rs type="pers" ana="n_12151" ref="#fk__p_54028">Gomperz</rs> die Belehrung an, dass <rs type="pers" ana="n_12152" ref="#fk__p_50926">Ottendorfer</rs> die<lb/>
+Candidatur des anticorruptionistischen Demokraten <rs type="pers" ana="n_12153" ref="#fk__p_40028">Cleveland</rs> unterstützt<lb/>
+ habe.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_50926">
+               <persName>Ottendorfer, Valentin Oswald</persName>
+               <birth>
+                  <date>1826-2-26</date>
+                  <place>Zwittau/Mähren</place>
+               </birth>
+               <death>
+                  <date>1900-12</date>
+                  <place>New York</place>
+               </death>
+               <occupation>Schriftsetzer</occupation>
+               <occupation>Journalist</occupation>
+               <occupation>Philanthrop</occupation>
+               <note type="comment">fehlt bei Ögg</note>
+               <note type="comment">New Yorker Staatszeitung</note>
+            </person>
+            <person xml:id="fk__p_40028">
+               <persName>Cleveland, Stephen Grover</persName>
+               <birth>
+                  <date>1837-3-18</date>
+                  <place>Caldwell/New York</place>
+               </birth>
+               <death>
+                  <date>1908-6-24</date>
+                  <place>Princeton</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <note type="comment">einziger Präsident mit zwei nicht aufeinander folgenden Amtsperioden</note>
+               <note type="comment">24. Präsident der USA</note>
+            </person>
+            <person xml:id="fk__p_54028">
+               <persName>Gomperz, Theodor</persName>
+               <birth>
+                  <date>1832-3-29</date>
+                  <place>Brünn</place>
+               </birth>
+               <death>
+                  <date>1912-8-29</date>
+                  <place>Baden bei Wien</place>
+               </death>
+               <occupation>Altphilologe</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11497</idno></person>
+            </listPerson></back></text>
+</TEI>

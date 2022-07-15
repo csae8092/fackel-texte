@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06728.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06727.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06729.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Eine Beauté, in: Fackel Heft 16, Nr. 398, 1914, S. 11-11</title>
+            <title type="iso-date">1914-04-01</title>
+            <title type="id">tid_06728</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">16</title><title type="heft">398</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-16-398_n0011.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/398,011</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Eine Beauté</head>
+            <p ana="pr90762">
+<space/>»Aus Berlin berichtet unser <rs type="perRef" ana="werk_40674"><SPN cont="K. W.-Korrespondent"><abbr>K. W.</abbr>-Korrespondent</SPN></rs>: Zu den unterhaltsamen<lb/>
+ Abwechslungen, die das zwölfnächtige <rs type="event">Berliner Künstlerfest<lb/>
+‚Maske und Palette‘</rs> in den Ausstellungshallen am Zoo bot, gehörte<lb/>
+auch eine weiblich-männliche Schönheitskonkurrenz, die am Mittwoch<lb/>
+Abend stattfand. An weiblichen, prämienreifen Schönheiten fehlte es<lb/>
+nicht, die <seg type="spc">maskulinen <foreign xml:lang="fr">Beautés</foreign></seg> waren indessen dünner gesäet: ihnen<lb/>
+konnte weder erster noch zweiter Preis verliehen werden. Nur einen<lb/>
+dritten Preis konnten sie erobern und ihn trug <seg type="spc">kein andrer als <rs type="pers" ana="n_61804" ref="#fk__p_45503">Hanns<lb/>
+Heinz Ewers</rs> davon</seg>, der ‚dämonische‘ Schriftsteller, Kinopionier und<lb/>
+Vater des ‚<rs type="title">Wundermädchens von Berlin</rs>‘, dem er sich nun als Wunderknabe<lb/>
+ von Berlin an die Seite stellen darf. Er wurde denn auch<lb/>
+genügend angestaunt <seg type="symbol" subtype="4dots"/>«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_45503">
+               <persName>Ewers, Hanns Heinz</persName>
+               <birth>
+                  <date>1871-11-3</date>
+                  <place>Düsseldorf</place>
+               </birth>
+               <death>
+                  <date>1943-6-12</date>
+                  <place>Berlin</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11281</idno></person>
+            </listPerson></back></text>
+</TEI>

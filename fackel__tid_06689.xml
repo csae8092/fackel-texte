@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06689.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06688.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06690.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Im eigenen Blatt gegen das eigene Kind, in: Fackel Heft 15, Nr. 395, 1914, S. 54-55</title>
+            <title type="iso-date">1914-01-01</title>
+            <title type="id">tid_06689</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">15</title><title type="heft">395</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-15-395_n0054.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/395,054</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Im eigenen Blatt gegen das eigene Kind</head>
+            <p ana="pr90283">
+<space/>»<seg type="symbol" subtype="4dots"/> Professor <rs type="pers" ana="n_61652" ref="#fk__p_54527"><abbr>v.</abbr> Frankl</rs> warnt die Eltern davor, die bei <seg type="spc">Knaben</seg><lb/>
+und Mädchen mit der Pubertät eintretende <seg type="spc">Überbegabung</seg> nicht zu<lb/>
+überschätzen und <seg type="spc">Talente</seg> zu entdecken und zu <seg type="spc">pflegen</seg>, die in<lb/>
+Wirklichkeit <seg type="spc">nur während dieser Periode vorhanden sind</seg>.«<lb/>
+</p>
+            <p ana="pr90285">
+<space/>Und <seg type="insult">der kleine <rs type="pers" ana="n_61653" ref="#fk__p_42772">Korngold</rs></seg>?<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_42772">
+               <persName>Korngold, Erich Wolfgang</persName>
+               <birth>
+                  <date>1897-5-29</date>
+                  <place>Brünn</place>
+               </birth>
+               <death>
+                  <date>1957-11-29</date>
+                  <place>Hollywood</place>
+               </death>
+               <occupation>Komponist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11969</idno></person>
+            <person xml:id="fk__p_54527">
+               <persName>Frankl-Hochwart, Lothar Amadeus Ritter von</persName>
+               <birth>
+                  <date>1862-7-12</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1914-12-19</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Neurologe</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15144</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/16498</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,99 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_09558.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09557.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09559.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Es braucht wohl oft ein Zeitl, in: Fackel Heft 25, Nr. 632, 1923, S. 33-34</title>
+            <title type="iso-date">1923-10-01</title>
+            <title type="id">tid_09558</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">25</title><title type="heft">632</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-25-632_n0033.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/632,033</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Es braucht wohl oft ein Zeitl</head>
+            <p ana="pr127966">
+wie der Tiroler sagt<lb/>
+</p>
+            <p ana="pr127968">
+tröstet in derselben <seg ana="Zeitschrift"/> <seg type="insult">der <abbr>P.</abbr> <rs type="pers" ana="n_78677" ref="#fk__p_49892">Maurus Carnot</rs></seg>, bis wir<lb/>
+wieder so weit sind, und benützt die Gelegenheit, <rs type="pers" ana="n_78678" ref="#fk__p_55616">Wilson</rs><lb/>
+einen <seg type="insult">Welterzgauner</seg> und <rs type="pers" ana="n_78679" ref="#fk__p_54982">Voltaire</rs> <seg type="insult">den größten Schurken</seg><lb/>
+zu nennen, während <seg type="insult">die <rs type="pers" ana="n_78680" ref="#fk__p_48295">Prinzessin Stephanie Lonyay</rs>, die<lb/>
+bekannte Aphoristikerin</seg>, den Tod des <rs type="pers" ana="n_78681" ref="#fk__p_47385">Kaisers Karl</rs> auf »Not,<lb/>
+Hunger und Elend« zurückführt. Und was <seg type="insult">dergleichen <foreign xml:lang="de-loc">Zeitlvertreib<lb/>
+</foreign></seg> mehr ist.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_48295">
+               <persName>Stefanie, Prinzessin von Belgien</persName>
+               <birth>
+                  <date>1864-5-21</date>
+                  <place>Schloß Laeken</place>
+               </birth>
+               <death>
+                  <date>1945-8-23</date>
+                  <place>Panonhalma, Ungarn</place>
+               </death>
+               <note type="comment">50. Geburtstag, NFP 22.05.1914, Seite 7</note>
+            </person>
+            <person xml:id="fk__p_54982">
+               <persName>Voltaire</persName>
+               <birth>
+                  <date>1694-11-21</date>
+                  <place>Paris</place>
+               </birth>
+               <death>
+                  <date>1778-5-30</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Philosoph</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/3124</idno></person>
+            <person xml:id="fk__p_55616">
+               <persName>Wilson, Thomas Woodrow</persName>
+               <birth>
+                  <date>1856-12-28</date>
+                  <place>Staunton, Va.</place>
+               </birth>
+               <death>
+                  <date>1924-2-3</date>
+                  <place>Washington, D. C.</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <note type="comment">1913-21 der 28. Präs. der USA</note>
+            </person>
+            <person xml:id="fk__p_47385">
+               <persName>Karl I., Kaiser</persName>
+               <birth>
+                  <date>1887-08-17</date>
+                  <place>Persenbeug/NÖ</place>
+               </birth>
+               <death>
+                  <date>1922-04-01</date>
+                  <place>Quinta do Monte/Madeira</place>
+               </death>
+               <occupation>Kaiser</occupation>
+               <note type="comment">Ögg teilt irrt. 561/21 zu, da ist Franz Joseph I. gemeint</note>
+            </person>
+            <person xml:id="fk__p_49892">
+               <persName>Carnot, P. Maurus</persName>
+               <birth>
+                  <date>1865-01-26</date>
+                  <place>Samnaun/Engadin</place>
+               </birth>
+               <death>
+                  <date>1935-01-02</date>
+                  <place>Ilanz</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

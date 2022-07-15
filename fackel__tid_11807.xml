@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_11807.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11806.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11808.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Goldene Worte, in: Fackel Heft 33, Nr. 852, 1931, S. 95-95</title>
+            <title type="iso-date">1931-05-01</title>
+            <title type="id">tid_11807</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">33</title><title type="heft">852</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-33-852_n0095.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/852,095</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Goldene Worte</head>
+            <p ana="pr171000">
+<space/>— — Man gedenkt an diesem Tage der Worte <rs type="pers" ana="n_102197" ref="#fk__p_38379">Anton Wildgans’</rs> zu<lb/>
+<rs type="pers" ana="n_102198" ref="#fk__p_51003">Treßlers</rs> Bühnenjubiläum: daß man sich das <rs type="inst">Burgtheater</rs> nicht ohne<lb/>
+<rs type="pers" ana="n_102199" ref="#fk__p_51003">Treßler</rs>, <rs type="pers" ana="n_102200" ref="#fk__p_51003">Treßler</rs> nicht ohne das <rs type="inst">Burgtheater</rs> vorzustellen vermag. <rs type="pers" ana="n_102201" ref="#fk__p_51267"><AUCTOR><abbr>P. W.</abbr></AUCTOR></rs><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_51267">
+               <persName>Wertheimer, Paul</persName>
+               <birth>
+                  <date>1874-2-4</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1937-3-10</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Rechtsanwalt</occupation>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Journalist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2888</idno></person>
+            <person xml:id="fk__p_38379">
+               <persName>Wildgans, Anton</persName>
+               <birth>
+                  <date>1881-4-17</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1932-5-3</date>
+                  <place>Mödling</place>
+               </death>
+               <occupation>Jurist</occupation>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Theaterleiter</occupation>
+               <note type="comment">1.2.21-31. 7.22, 1.7.30-31.12.31 Burgtheaterdir.</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/13122</idno></person>
+            <person xml:id="fk__p_51003">
+               <persName>Tressler, Otto</persName>
+               <birth>
+                  <date>1871-4-13</date>
+                  <place>Stuttgart</place>
+               </birth>
+               <death>
+                  <date>1965-4-27</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <occupation>Bildhauer</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12971</idno></person>
+            </listPerson></back></text>
+</TEI>

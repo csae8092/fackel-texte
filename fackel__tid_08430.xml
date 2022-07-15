@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_08430.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08429.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08431.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">17. September, halb 7 Uhr:, in: Fackel Heft 20, Nr. 484, 1918, S. 135-135</title>
+            <title type="iso-date">1918-10-01</title>
+            <title type="id">tid_08430</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">20</title><title type="heft">484</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-20-484_n0135.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/484,135</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>17. September, halb 7 Uhr:</head>
+            <p ana="pr111036">
+<space/><date>17. September</date>, halb 7 Uhr:<lb/>
+</p>
+            <p ana="pr111037">
+<space/>»<rs type="title"><rs type="pers"><seg type="spc">König Lear</seg></rs></rs>«, wie oben (<rs type="pers" ana="n_69342" ref="#fk__p_44499">Gluck</rs>: Ouvertüre zu »<rs type="title"><rs type="pers">Iphigenie</rs><lb/>
+in Aulis</rs>«; <rs type="pers" ana="n_69343" ref="#fk__p_46942">Bach</rs>: <rs type="title">Präludium in b-moll aus dem Wohltemperierten<lb/>
+Klavier</rs>; Zeltmusik: <rs type="pers" ana="n_69344" ref="#fk__p_54913"><abbr>Dr.</abbr> Victor Junk</rs>).<lb/>
+</p>
+            <p ana="pr111038">
+<space/>Der volle Ertrag für den Arbeiterverein »<rs type="inst">Kinderfreunde</rs>«<lb/>
+und einige Notleidende.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_44499">
+               <persName>Gluck, Christoph Willibald Ritter von</persName>
+               <birth>
+                  <date>1714-7-2</date>
+                  <place>Erasbach bei Berching (Oberpfalz)</place>
+               </birth>
+               <death>
+                  <date>1787-11-15</date>
+                  <place>Wien</place>
+               </death>
+               <occupation/>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15476</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11450</idno></person>
+            <person xml:id="fk__p_46942">
+               <persName>Bach, Johann Sebastian</persName>
+               <birth>
+                  <date>1685-3-21</date>
+                  <place>Eisenach</place>
+               </birth>
+               <death>
+                  <date>1750-7-28</date>
+                  <place>Leipzig</place>
+               </death>
+               <occupation>Komponist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10806</idno></person>
+            <person xml:id="fk__p_54913">
+               <persName>Junk, Viktor</persName>
+               <birth>
+                  <date>1875-4-18</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1948-4-5</date>
+                  <place>Frohnleiten/Steiermark</place>
+               </death>
+               <occupation>Germanist</occupation>
+               <occupation>Musikwissenschaftler</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

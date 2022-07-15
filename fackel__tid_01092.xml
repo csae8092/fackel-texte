@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01092.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01091.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01093.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Genosse. (Ein alter Veteraner), in: Fackel Heft 02, Nr. 045, 1900, S. 32-32</title>
+            <title type="iso-date">1900-06-01</title>
+            <title type="id">tid_01092</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">045</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-045_n0032.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/045,032</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Genosse. (Ein alter Veteraner)</head>
+            <p ana="pr10325">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="n_8487" ref="#fk__p_44267">Genosse</rs>.</seg></seg></seg> <seg type="insult">Herr <rs type="pers" ana="n_8488" ref="#fk__p_42628">Habakuk</rs></seg> hat Recht behalten. An dem <seg type="insult">»Kaiserhuldigungs-Fackelzug<lb/>
+«</seg> habe ich nicht theilgenommen, trotzdem ich<lb/>
+<seg type="insult">»wie ein alter Veteraner«</seg> über die Wiener Socialdemokratie zu<lb/>
+schimpfen pflege. Aber ich <seg type="spc">schimpfe</seg> nicht, sondern gehe als <seg type="insult">alter<lb/>
+Veteraner</seg> hinter <seg type="insult">einer »schönen Leich’«</seg> einher <seg type="symbol" subtype="3dots"/><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_42628">
+               <persName>Kralik, Emil</persName>
+               <birth>
+                  <date>1864-11-9</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1906-11-18</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Politiker</occupation>
+               <note type="comment">Genosse aus Wildwest</note>
+               <note type="comment">Helmut Schwarzer: starb an Trunksucht</note>
+            </person>
+            <person xml:id="fk__p_44267">
+               <persName>Genosse</persName>
+            </person>
+            </listPerson></back></text>
+</TEI>

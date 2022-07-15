@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00003.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00002.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00004.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Kein Zeitungsstempel.), in: Fackel Heft 01, Nr. 001, 1899, S. 8-8</title>
+            <title type="iso-date">1899-04-01</title>
+            <title type="id">tid_00003</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">001</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-001_n0008.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/001,008</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Kein Zeitungsstempel.)</head>
+            <p ana="pr54">
+<space/>»<seg type="spc"><rs type="self" ana="werk_46">Die Fackel</rs></seg>« erscheint bloß dreimal im Monat. So erspart sie<lb/>
+sich den bekannten <rs type="event">Zeitungsstempel</rs> und dem Finanzminister <rs type="pers" ana="n_6" ref="#fk__p_41280"><seg type="spc">Kaizl</seg></rs><lb/>
+ein schamvolles Erröthen. Herrn <rs type="pers" ana="n_7" ref="#fk__p_41280">Kaizl</rs> hat zwar <seg type="insult">die gepresste Luft<lb/>
+eines Cabinets</seg>, das näher dem Hofe als der Straße zu gelegen ist,<lb/>
+ein wenig den Kopf verwirrt, sonst aber ist er gewiss mit den meisten<lb/>
+der in diesem <rs type="selfRef" ana="werk_47">Blatte</rs> vertretenen Anschauungen einverstanden.<lb/>
+Drum wäre ihm der Anblick einer anständigen, auf sich selbst<lb/>
+gestellten und nur durch ihre Leser subventionierten <rs type="selfRef" ana="werk_48">Zeitung</rs> immerhin<lb/>
+peinlich gewesen, die mit der Fußfessel der <rs type="event">Stempelpflicht</rs> den<lb/>
+ohnehin beschwerlichen Weg zum Interesse der österreichischen<lb/>
+Öffentlichkeit antreten soll. So lasse ich denn, Herrn <rs type="pers" ana="n_8" ref="#fk__p_41280">Kaizl</rs> zuliebe,<lb/>
+die »<rs type="self" ana="werk_49">Fackel</rs>« nicht, wie ursprünglich geplant, allwöchentlich erscheinen<lb/>
+, versage dem Staate die sonst fällige Zahlung einer<lb/>
+jährlichen Steuer von mehr als tausend Gulden und glaube zu<lb/>
+diesem Entschlusse die Zustimmung des Finanzministers in vollem<lb/>
+Maße zu besitzen. Denn trotz dem <seg type="insult">Ehrgeiz des Emporkömmlings</seg><lb/>
+und ungeachtet der <seg type="insult">Erniedrigungen</seg>, die ein Portefeuille in Österreich<lb/>
+auferlegt, halte ich ihn noch immer eher für einen »modernen und<lb/>
+vernünftigen Mann«, als <abbr>z. B.</abbr> <seg type="insult">Herrn <rs type="pers" ana="n_9" ref="#fk__p_47448">Heinrich <seg type="spc">Kanner</seg></rs></seg>, der dies<lb/>
+seit einem Jahr an jedem Samstag bestreitet.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_47448">
+               <persName>Kanner, Heinrich</persName>
+               <birth>
+                  <date>1864-11-9</date>
+                  <place>Galatz, Rumänien</place>
+               </birth>
+               <death>
+                  <date>1930-2-15</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Publizist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11867</idno></person>
+            <person xml:id="fk__p_41280">
+               <persName>Kaizl, Josef</persName>
+               <birth>
+                  <date>1854-06-10</date>
+                  <place>Wolin</place>
+               </birth>
+               <death>
+                  <date>1901-08-19</date>
+                  <place>Myskowitz</place>
+               </death>
+               <occupation>Nationalökonom</occupation>
+               <occupation>Politiker</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

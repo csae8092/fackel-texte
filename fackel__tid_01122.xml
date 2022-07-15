@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01122.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01121.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01123.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Leser. (Der klimatische Curort), in: Fackel Heft 02, Nr. 047, 1900, S. 31-31</title>
+            <title type="iso-date">1900-07-01</title>
+            <title type="id">tid_01122</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">047</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-047_n0031.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/047,031</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Leser. (Der klimatische Curort)</head>
+            <p ana="pr10711">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_8722" ref="#fk__p_48877">Leser</rs>.</seg></seg> Nein. Seit <seg type="insult"><rs type="pers" ana="n_8723" ref="#fk__p_41891">Herzl-Kunz</rs></seg> Wien als den einzig möglichen<lb/>
+»klimatischen Curort« gepriesen hat, beginnt’s auch hier unerträglich<lb/>
+zu werden. <seg type="insult">Das nette Geständnis</seg>, das ihm hiebei entschlüpfte, hat auch<lb/>
+mich gerührt. »Einer meiner Freunde« — schrieb er — »schwärmte<lb/>
+von einem Nest in Tirol, <seg type="spc">wie wenn er dafür bezahlt worden<lb/>
+wäre</seg>.« <seg type="insult">Herr <rs type="pers" ana="n_8724" ref="#fk__p_41891">Herzl</rs></seg> kennt <seg type="insult">seine Collegen von der ‚<rs type="paper" ana="werk_3194">Neuen Freien Presse</rs>‘</seg>.<lb/>
+Einer hat jüngst in einem Feuilleton über <rs type="pers" ana="n_8725" ref="#fk__p_49349">Beethoven</rs> für die Anstalt<lb/>
+des Herrn <rs type="pers" ana="n_8726" ref="#fk__p_48596"><abbr>Dr.</abbr> Lantin</rs> in Baden geschwärmt. Nun, da erklären Sie die<lb/>
+Sache ganz richtig damit, dass <seg type="insult">mehrere Herren von der ‚<rs type="paper" ana="werk_3195">Neuen Freien<lb/>
+Presse</rs>‘</seg> Curgäste in jener Anstalt sind, und rufen befriedigt: <seg type="insult"><foreign xml:lang="la">»Hinc illae<lb/>
+reclamae!«</foreign></seg> <seg type="symbol" subtype="4dots"/><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_48877">
+               <persName>Leser</persName>
+            </person>
+            <person xml:id="fk__p_48596">
+               <persName>Lantin, Gustav</persName>
+               <birth>
+                  <date>1866-10-3</date>
+                  <place>Aachen</place>
+               </birth>
+               <death>
+                  <date>1934-2-3</date>
+                  <place>Aussig</place>
+               </death>
+               <occupation>Arzt</occupation>
+               <occupation>Sanatoriumsleiter</occupation>
+               <note type="comment">Gutenbrunn, Rolletgasse 6 (High-Life 1914)</note>
+               <note type="comment">erwarb 1897 Schloß Gutenbrunn</note>
+               <note type="comment">seine Ehefrau Marie, verw. Berger gest. Baden 10.03.1911, Friedhof Gainfarn-Vöslau</note>
+               <note type="comment">Sohn Wilhelm Lantin 1895-Jänner 1982, Friedhof Grinzing 22/8/30</note>
+               <note type="comment">wohnt 1926 mit seiner 2. Frau Emma in Aussig, Lange Gasse 27/29</note>
+               <note type="comment">Kaltwasserheilanstalt Baden bei Wien</note>
+            </person>
+            <person xml:id="fk__p_49349">
+               <persName>Beethoven, Ludwig van</persName>
+               <birth>
+                  <date>1770-12-17</date>
+                  <place>Bonn</place>
+               </birth>
+               <death>
+                  <date>1827-3-26</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Komponist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10866</idno></person>
+            <person xml:id="fk__p_41891">
+               <persName>Herzl, Theodor</persName>
+               <birth>
+                  <date>1860-5-2</date>
+                  <place>Pest</place>
+               </birth>
+               <death>
+                  <date>1904-7-3</date>
+                  <place>Edlach, Niederösterreich</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11673</idno></person>
+            </listPerson></back></text>
+</TEI>

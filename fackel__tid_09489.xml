@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_09489.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09488.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09490.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Spendenausweis), in: Fackel Heft 25, Nr. 622, 1923, S. 118-119</title>
+            <title type="iso-date">1923-06-01</title>
+            <title type="id">tid_09489</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">25</title><title type="heft">622</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-25-622_n0118.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/622,118</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Spendenausweis)</head>
+            <p ana="pr126803">
+<space/>Von <DATERANGE>Mitte März bis Ende Mai</DATERANGE> wurden die folgenden Beträge<lb/>
+abgeführt:<lb/>
+</p>
+            <p ana="pr126804">
+<space/>Dem <rs type="inst">Haus des Kindes</rs> (Porti, Abonnement-Reste, Erlös aus<lb/>
+Buchautogrammen, Rezensionsexemplaren, Zeitschriften) K 172.740 und<lb/>
+M 2130.<lb/>
+</p>
+            <p ana="pr126805">
+<space/>Der <rs type="inst">Gesellschaft der Freunde</rs> durch die <rs type="inst">Buchhandlung <rs type="pers" ana="n2_7077" ref="#fk__p_52185">Lányi</rs></rs><lb/>
+(für Photographien und Karten) K 196.000.<lb/>
+</p>
+            <p ana="pr126806">
+<space/>Dem <rs type="inst">Verband der Kriegsblinden Österreichs</rs> (6. Abrechnung<lb/>
+»<rs type="title">Das Notwendige und das Überflüssige</rs>«) K 144.000.<lb/>
+</p>
+            <p ana="pr126807">
+<space/>Der freigesprochenen Frau <rs type="pers" ana="n_78149" ref="#fk__p_53201"><abbr>S. P.</abbr></rs> anonym K 50.000.<lb/>
+</p>
+            <p ana="pr126808">
+<space/>Dem <rs type="inst">Deutschen sozialdemokratischen Kinderfürsorgeverein</rs>,<lb/>
+Brünn (Tantiemen der beiden Brünner Aufführungen der »<rs type="title">Letzten<lb/>
+Nacht</rs>«) č K 1239·88<lb/>
+</p>
+            <p ana="pr126809">
+<space/>Von dem Ertrag der Vorlesungen <date>30. April</date>, <date>1.</date>, <date>5.</date>, <date>12.</date>, <date>14.</date><lb/>
+und <date>19. Mai</date> an die unter den Programm-Notizen angegebenen<lb/>
+Zwecke: K 6,439.355<lb/>
+</p>
+            <p ana="pr126810">
+<space/>Gesamtsumme seit <DATERANGE>Mitte Juli</DATERANGE> (<abbr>s.</abbr> <rs type="selfRef" ana="werk_25205"><abbr>Nr.</abbr> 601—607</rs>, <rs type="selfRef" ana="werk_25206"><abbr>Nr.</abbr> 608—612</rs>,<lb/>
+<rs type="selfRef" ana="werk_25207"><abbr>Nr.</abbr> 613—621</rs>): K 78,596.153, č K 3097·88, M 11.833, belgische <abbr>Frcs.</abbr> 5.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_53201">
+               <persName>P., Seraphine</persName>
+               <occupation>Bedienerin</occupation>
+            </person>
+            <person xml:id="fk__p_52185">
+               <persName>Lányi, Richard</persName>
+               <birth>
+                  <date>1884-12-9</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1942-5-28</date>
+                  <place>Konzentrationslager Auschwitz</place>
+               </death>
+               <occupation>Buchhändler</occupation>
+               <occupation>Verleger</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/20707</idno></person>
+            </listPerson></back></text>
+</TEI>

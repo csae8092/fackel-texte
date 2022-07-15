@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_08273.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08272.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08274.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Männer der Tat, in: Fackel Heft 20, Nr. 474, 1918, S. 133-134</title>
+            <title type="iso-date">1918-05-01</title>
+            <title type="id">tid_08273</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">20</title><title type="heft">474</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-20-474_n0133.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/474,133</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Männer der Tat</head>
+            <p ana="pr109328">
+<space/>— — Aber es kam auch hier schon vor, daß Direktor <rs type="pers" ana="n_68643" ref="#fk__p_55522">Karczag</rs><lb/>
+ein Libretto innerhalb 24 Stunden annahm. Ein Mann der raschen<lb/>
+Entscheidungen ist der neue <RS pers="Max von Millenkovich"><rs type="inst" ana="name_203193" ref="#fk__p_41958">Burgtheaterdirektor</rs></RS>. Er nahm die neueste<lb/>
+Komödie von <rs type="pers" ana="n_68644" ref="#fk__p_45448">Hans Müller</rs> innerhalb eines Tages an <seg type="symbol" subtype="3dots"/><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_55522">
+               <persName>Karczág, Wilhelm</persName>
+               <birth>
+                  <date>1857-8-28</date>
+                  <place>Karczag, Ungarn</place>
+               </birth>
+               <death>
+                  <date>1923-10-11</date>
+                  <place>Baden bei Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Theaterleiter</occupation>
+               <occupation>Musikverleger</occupation>
+               <note type="comment">Hietzing</note>
+            </person>
+            <person xml:id="fk__p_45448">
+               <persName>Müller, Hans</persName>
+               <birth>
+                  <date>1882-10-25</date>
+                  <place>Brünn</place>
+               </birth>
+               <death>
+                  <date>1950-3-8</date>
+                  <place>Einigen/Thunersee</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12327</idno></person>
+            <person xml:id="fk__p_41958">
+               <persName>Millenkovich, Max von</persName>
+               <birth>
+                  <date>1866-03-02</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1945-02-05</date>
+                  <place>Baden/NÖ</place>
+               </death>
+               <occupation>Theaterleiter</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/4048</idno></person>
+            </listPerson></back></text>
+</TEI>

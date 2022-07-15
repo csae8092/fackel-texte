@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06721.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06720.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06722.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Et hoc meminisse juvabit, in: Fackel Heft 16, Nr. 398, 1914, S. 9-9</title>
+            <title type="iso-date">1914-04-01</title>
+            <title type="id">tid_06721</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">16</title><title type="heft">398</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-16-398_n0009.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/398,009</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Et hoc meminisse juvabit</head>
+            <p ana="pr90691">
+<space/>»Einer der ersten, die <rs type="pers" ana="n_61790" ref="#fk__p_48717">Lemoine</rs> Hilfe leisten konnten, war Herr<lb/>
+<rs type="pers" ana="n_61791" ref="#fk__p_42309">Eduard <seg type="spc">Engel</seg></rs>, der sich außerhalb des Hangarraumes auf dem Aufstiegplatze<lb/>
+ befunden hatte. Er begleitete dann mit Chefarzt <rs type="pers" ana="n_61792" ref="#fk__p_39881"><abbr>Dr.</abbr> <seg type="spc">Charas</seg></rs> den<lb/>
+Verletzten auch in die Unfallstation und suchte ihn durch Trostworte<lb/>
+in seiner Muttersprache zu beruhigen, was ihm schließlich auch gelang<lb/>
+und wofür ihm der Arzt dankte.«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_39881">
+               <persName>Charas, Heinrich</persName>
+               <birth>
+                  <date>1860-11-19</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1940-6-29</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Arzt</occupation>
+               <note type="comment">Leiter der Freiwilligen Rettungsgesellschaft</note>
+            </person>
+            <person xml:id="fk__p_48717">
+               <persName>Lemoine, Édouard Georges Charles</persName>
+               <birth>
+                  <date>1884-2-15</date>
+                  <place>Nantes</place>
+               </birth>
+               <death>
+                  <date>1915-8-9</date>
+               </death>
+               <occupation>Offizier</occupation>
+               <occupation>Aviatiker</occupation>
+            </person>
+            <person xml:id="fk__p_42309">
+               <persName>Engel, Eduard</persName>
+               <birth>
+                  <date>1851-11-12</date>
+                  <place>Stolp</place>
+               </birth>
+               <death>
+                  <date>1938-11-23</date>
+                  <place>Bornim/Potsdam</place>
+               </death>
+               <occupation>Literarhistoriker</occupation>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">"Deutsche Stilkunst", Wien 1911</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

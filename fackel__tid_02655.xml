@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02655.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02654.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02656.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Leser in Ischl. (Eine bevorstehende Docorierung), in: Fackel Heft 04, Nr. 114, 1902, S. 24-24</title>
+            <title type="iso-date">1902-09-5</title>
+            <title type="id">tid_02655</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">04</title><title type="heft">114</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-04-114_n0024.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/114,024</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Leser in Ischl. (Eine bevorstehende Docorierung)</head>
+            <p ana="pr25718">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_22287" ref="#fk__p_48884">Leser in Ischl</rs>.</seg></seg> <seg type="insult">Der Theateragent <rs type="pers" ana="n_22288" ref="#fk__p_40466"><abbr>J.</abbr> Wild</rs></seg>, seit etlichen Sommern<lb/>
+Pächter des <rs type="inst">Ischler Sommertheaters</rs>, wird demnächst den <rs type="pers" ana="n_22289" ref="#fk__p_43514">Franz Josefsorden<lb/>
+</rs> bekommen. <seg type="insult">Herr <rs type="pers" ana="n_22290" ref="#fk__p_40466">Wild</rs></seg>, der nicht nur, wenn der <rs type="pers" ana="n_22291" ref="#fk__p_48058">König von Rumänien<lb/>
+</rs> in seinem Theater erscheint, erhöhte Eintrittspreise vom Publicum<lb/>
+ einhebt, sondern auch dann, wenn der <rs type="pers" ana="n_22292" ref="#fk__p_48058">König von Rumänien</rs> auf<lb/>
+dem Schafberg weilt, erlebt spät genug die Erfüllung <seg type="insult">seines Herzenswunsches<lb/>
+</seg>. Denn lange Zeit war es kein Herzenswunsch des <RS pers="Franz Joseph" globID="rs_381">Kaisers</RS>,<lb/>
+<seg type="insult">Herrn <rs type="pers" ana="n_22293" ref="#fk__p_40466">Wild</rs></seg> den <rs type="pers" ana="n_22294" ref="#fk__p_43514">Franz Josefsorden</rs> zu verleihen. Die <seg type="insult">»Berichte«</seg> lauteten<lb/>
+nicht eben glänzend, und besonders soll den Monarchen die Mär, welche<lb/>
+von 30 Gulden-Gagen für weibliche Mitglieder raunte, indigniert haben.<lb/>
+Ob nun jemand dem <RS pers="Franz Joseph" globID="rs_382">Kaiser</RS> nahegelegt hat, daß solches Bedenken auch<lb/>
+dazu führen müßte, <seg type="insult">den obersthofmeisterlichen Vorgesetzten des Wiener<lb/>
+Balletcorps</seg> ihre Orden abzunehmen, oder ob sonstwie unter <seg type="insult">den gunstvermittelnden<lb/>
+ Persönlichkeiten</seg> <seg type="insult">Herrn <rs type="pers" ana="n_22295" ref="#fk__p_40466">Wild</rs></seg> ein <seg type="insult">Protector</seg> erstanden ist, —<lb/>
+die <seg type="insult">»Berichte«</seg> lauten jetzt günstiger <seg type="symbol" subtype="4dots"/><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_48058">
+               <persName>Carol I., König von Rumänien</persName>
+               <birth>
+                  <date>1839-4-20</date>
+                  <place>Sigmaringen</place>
+               </birth>
+               <death>
+                  <date>1914-10-10</date>
+                  <place>Sinaia</place>
+               </death>
+               <occupation>König</occupation>
+               <note type="comment">Prinz Karl Eitel Friedrich Zephyrinus Ludwig von Hohenzollern-Sigmaringen</note>
+               <note type="comment">mehrere Ögg-Fehler: statt 52/25: 51/26; 217/7 ist falsch; 296/45 statt 296/44</note>
+               <note type="comment">Ögg gibt die Stellen 321/1-5 irrtümlich Ferdinand von Bulgarien</note>
+               <note type="comment">1881-1914</note>
+            </person>
+            <person xml:id="fk__p_48884">
+               <persName>Leser in Ischl</persName>
+            </person>
+            <person xml:id="fk__p_43514">
+               <persName>Franz Joseph I., Kaiser</persName>
+               <birth>
+                  <date>1830-8-18</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1916-11-21</date>
+                  <place>Wien</place>
+               </death>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15150</idno></person>
+            <person xml:id="fk__p_40466">
+               <persName>Wild, Ignaz</persName>
+               <birth>
+                  <date>1849-5-13</date>
+                  <place>Trebitsch/Mähren</place>
+               </birth>
+               <death>
+                  <date>1909-10-19</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Theaterleiter</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/5336</idno></person>
+            </listPerson></back></text>
+</TEI>

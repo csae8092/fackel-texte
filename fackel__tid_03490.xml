@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03490.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03489.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03491.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Salzburger Literaturleben, in: Fackel Heft 05, Nr. 155, 1904, S. 10-11</title>
+            <title type="iso-date">1904-02-24</title>
+            <title type="id">tid_03490</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">05</title><title type="heft">155</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-05-155_n0010.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/155,010</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Salzburger Literaturleben</head>
+            <p ana="pr34669">
+<space/>In Salzburg herrscht große Aufregung. Das Stück <seg type="insult">eines<lb/>
+»Heimatkünstlers«</seg> — man versteht darunter <seg type="insult">Literaten</seg>, deren<lb/>
+<seg type="insult">Talentlosigkeit</seg> sich auf jenen Ort, wo sie zuständig sind, erstreckt<lb/>
+— ist im dortigen Theater durchgefallen. Bei der zweiten Vorstellung<lb/>
+ kam es sogar zu einem Skandal. Darauf erschien im<lb/>
+<seg ana="‚Salzburger Tagblatt‘ (No. 30. vom 8. Februar, Seite 6)"/> das nachstehende<lb/>
+ Inserat:<lb/>
+</p>
+            <p ana="pr34671">
+<B>Erklärung!</B><lb/>
+</p>
+            <p ana="pr34672">
+<space/>Die »<rs type="title">Glockenspielkinder</rs>« wurden von Kommissionären des Institutsinhabers<lb/>
+ <rs type="pers" ana="n_29756" ref="#fk__p_56380">Kaiser</rs> ausgepfiffen und lassen sich alle anderen Dienstmänner<lb/>
+zu solchen, <seg type="spc">dem hohen Publikum abfälligen</seg> Handlungen nicht<lb/>
+herbei und bitten, bei eventuellen Aufträgen dieses zu berücksichtigen.<lb/>
+</p>
+            <p ana="pr34673">
+Die hiesigen<lb/>
+<B><AUCTOR>Packträger, Stadtträger, Expreß und Dienstmänner</AUCTOR>.</B><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_56380">
+               <persName>Kaiser, Franz</persName>
+               <birth>
+                  <date>1844-12-27</date>
+                  <place>Oberösterreich</place>
+               </birth>
+               <death>
+                  <date>1935-9-14</date>
+                  <place>Salzburg</place>
+               </death>
+               <occupation>Inhaber eines Dienstmänner-Instituts</occupation>
+               <note type="comment">Institutsinhaber</note>
+               <note type="comment">UA der Lokalposse "Glockenspielkinder" von Hans Seebach und Julius Waldt</note>
+               <note type="comment">Salzburger Stadtthteaer 07. 02. 1904</note>
+               <note type="comment">Inhaber eines Dienstmänner-Instituts für Kommissionäre, Salzburg, Linzergasse 3</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

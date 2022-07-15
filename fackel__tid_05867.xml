@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_05867.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05866.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05868.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Dangl, in: Fackel Heft 14, Nr. 354, 1912, S. 30-30</title>
+            <title type="iso-date">1912-01-01</title>
+            <title type="id">tid_05867</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">14</title><title type="heft">354</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-14-354_n0030.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/354,030</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Dangl</head>
+            <p ana="pr78452">
+bedeutet nicht immer <rs type="pers" ana="n_55640" ref="#fk__p_40240"><seg type="insult">Dangl</seg></rs>, es gibt auch <rs type="pers" ana="n_55641" ref="#fk__p_42146"><seg type="insult">Dungl</seg></rs>. Wenn aber zweimal<lb/>
+<rs type="pers" ana="n_55642" ref="#fk__p_42146"><seg type="insult">Dungl</seg></rs> steht, so ist es einmal falsch und bedeutet <rs type="pers" ana="n_55643" ref="#fk__p_40240"><seg type="insult">Dangl</seg></rs>. <rs type="pers" ana="n_55644" ref="#fk__p_49323"><seg type="insult">Riedl</seg></rs><lb/>
+aber bedeutet immer <rs type="pers" ana="n_55645" ref="#fk__p_49323"><seg type="insult">Riedl</seg></rs>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_40240">
+               <persName>Dangl, Josef</persName>
+               <birth>
+                  <date>1858-1-23</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1926-1-18</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Hotelier</occupation>
+               <occupation>Politiker</occupation>
+               <note type="comment">Bürgermeister von Semmering</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/15221</idno></person>
+            <person xml:id="fk__p_42146">
+               <persName>Dungl, Ignaz</persName>
+               <birth>
+                  <date>1857-1-2</date>
+                  <place>Güntersdorf</place>
+               </birth>
+               <death>
+                  <date>1936-5-18</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Hotelier</occupation>
+               <note type="comment">1., Gluckgasse 1 (Neuer Markt)</note>
+               <note type="comment">ZF 23/4/95 (22.5.1936)</note>
+            </person>
+            <person xml:id="fk__p_49323">
+               <persName>Riedl, Ludwig</persName>
+               <birth>
+                  <date>1858-12-7</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1919-8-6</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Kaffeehausbesitzer </occupation>
+               <note type="comment">Inh. Café Europe; 1., Stephansplatz 8a (gegenüber dem Riesentor)</note>
+               <note type="comment">Whg.: 18., Ferrogasse 6</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03443.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03442.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03444.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Literat. (Eine Direktionsnotiz), in: Fackel Heft 05, Nr. 152, 1904, S. 24-24</title>
+            <title type="iso-date">1904-01-16</title>
+            <title type="id">tid_03443</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">05</title><title type="heft">152</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-05-152_n0024.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/152,024</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Literat. (Eine Direktionsnotiz)</head>
+            <p ana="pr34135">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="n_29433" ref="#fk__p_49045">Literat</rs>.</seg></seg></seg> Nein, »<rs type="title">Zapfenstreich</rs>« ist keine Dramatisierung der<lb/>
+<rs type="pers" ana="n_29434" ref="#fk__p_39250">Bilse’schen Sensation</rs> und hat mit dieser nicht das mindeste zu schaffen.<lb/>
+Wenn die Direktion des <rs type="inst">Deutschen Volkstheaters</rs> trotzdem eine Notiz<lb/>
+an die Blätter versendet, in der es heißt: »Das am Samstag dem <date>16. <abbr>d.</abbr></date><lb/>
+zur ersten Aufführung gelangende militärische Drama ‚<rs type="title">Zapfenstreich</rs>‘<lb/>
+von <rs type="pers" ana="n_29435" ref="#fk__p_43449">Franz Adam Beyerlein</rs> spielt <seg type="spc">in einer kleinen deutschen<lb/>
+Garnison an der französischen Grenze</seg>«, so erwächst aus<lb/>
+solcher Methode bloß die bittere Erkenntnis, daß heutzutage die Literatur<lb/>
+an der <seg type="insult">Popularität des Schunds</seg> schmarotzen muß.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_39250">
+               <persName>Bilse, Fritz Oswald </persName>
+               <birth>
+                  <date>1878-3-31</date>
+                  <place>Kirn/Rheinland</place>
+               </birth>
+               <death>
+                  <date>1951</date>
+                  <place>Eberswalde/Brandenburg</place>
+               </death>
+               <occupation>Offizier</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/3349</idno></person>
+            <person xml:id="fk__p_49045">
+               <persName>Literat</persName>
+            </person>
+            <person xml:id="fk__p_43449">
+               <persName>Beyerlein, Franz Adam</persName>
+               <birth>
+                  <date>1871-3-22</date>
+                  <place>Meißen</place>
+               </birth>
+               <death>
+                  <date>1949-2-27</date>
+                  <place>Leipzig</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10915</idno></person>
+            </listPerson></back></text>
+</TEI>

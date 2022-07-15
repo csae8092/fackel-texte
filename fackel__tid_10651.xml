@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_10651.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10650.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10652.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Nach dem Preßgesetz, in: Fackel Heft 28, Nr. 735, 1926, S. 147-147</title>
+            <title type="iso-date">1926-10-01</title>
+            <title type="id">tid_10651</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">28</title><title type="heft">735</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-28-735_n0147.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/735,147</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Nach dem Preßgesetz</head>
+            <p ana="pr148452">
+<space/>— — und kündigte ihm das Erscheinen weiterer Artikel in<lb/>
+der »<rs type="" ana="werk_24239">Nachtwelt</rs>« an. Tags darauf kam <rs type="pers" ana="n_89305" ref="#fk__p_47024">Jonas</rs> selbst und erklärte, <seg type="spc">nach<lb/>
+dem <rs type="title">Preßgesetz</rs></seg> hätte <rs type="pers" ana="n_89306" ref="#fk__p_56846">Sauer</rs> <seg type="spc">das Recht</seg>, <seg type="spc">25 Millionen<lb/>
+Schweigegeld zu fordern</seg>. Am folgenden Tag wies er dem<lb/>
+Bedrohten einen Probedruck der »<rs type="" ana="werk_24240">Nachtwelt</rs>« vor, die am Kopf die<lb/>
+Aufschrift <seg type="insult">»Der Gastwirtssohn als homosexueller <foreign xml:lang="de-loc">Peitscherlbua</foreign>«</seg> trug.<lb/>
+</p>
+            <p ana="pr148454">
+Ob auch <rs type="pers" ana="n_89307" ref="#fk__p_46460">Bekessy</rs> mit Berufung auf das <rs type="title">Preßgesetz</rs> <rs type="pers" ana="n_89308" ref="#fk__p_42973"><SPAN norm="Forda"><SPAN norm="gefordert">gefordat</SPAN></SPAN></rs><lb/>
+hat, ist bisher nicht bekannt geworden.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_42973">
+               <persName>Forda, Eugen</persName>
+               <birth>
+                  <date>1878-6-20</date>
+                  <place>Budapest</place>
+               </birth>
+               <occupation>Angestellter</occupation>
+               <note type="comment">Anzeigenleiter der "Stunde" in Wien</note>
+               <note type="comment">8., Wickenburggasse 3</note>
+            </person>
+            <person xml:id="fk__p_46460">
+               <persName>Békessy, Imre</persName>
+               <birth>
+                  <date>1887-10-13</date>
+                  <place>Deutschkreuz</place>
+               </birth>
+               <death>
+                  <date>1951-3-15</date>
+                  <place>Budapest</place>
+               </death>
+               <occupation>Zeitungsverleger</occupation>
+               <note type="comment">Wikipedia gibt als Todesdatum an: "vor dem 17. März 1951"</note>
+               <note type="comment">Deutschkreuz</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37843</idno></person>
+            <person xml:id="fk__p_47024">
+               <persName>Jonas, Johann</persName>
+               <birth>
+                  <date>1871-1-26</date>
+                  <place>Waltsch</place>
+               </birth>
+               <death>
+                  <date>1944-5-3</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Kellner</occupation>
+               <note type="comment">"Die Nachtwelt" 1926, Erpressungen</note>
+               <note type="comment">NFP 06.07.1926, Seite 9f.</note>
+            </person>
+            <person xml:id="fk__p_56846">
+               <persName>Sauer, Karl</persName>
+               <occupation>Erpresser</occupation>
+               <note type="comment">zusammen mit Jonas Erpresser-Affaire 1926 "Nachtwelt"</note>
+               <note type="comment">NFP 06.07.1926, Seite 9f.</note>
+               <note type="comment">ÖNB: Jg. 1926, 601902-D.Neu Mag "Die Wiener Nachtwelt"</note>
+               <note type="comment">Impressum: 10., Steudelgasse 22</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07306.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07305.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07307.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Der ruhmlosere Abschluß, in: Fackel Heft 18, Nr. 431, 1916, S. 50-51</title>
+            <title type="iso-date">1916-08-01</title>
+            <title type="id">tid_07306</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">18</title><title type="heft">431</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-18-431_n0050.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/431,050</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Der ruhmlosere Abschluß</head>
+            <p ana="pr98692">
+<space/>» <seg type="symbol" subtype="4dots"/> hat durch übereinstimmende Zeugenaussagen der zwölf<lb/>
+überlebenden Matrosen Aufschluß über die letzten Augenblicke des<lb/>
+britischen Generals gegeben <seg type="symbol" subtype="4dots"/> daß <rs type="pers" ana="n_65290" ref="#fk__p_47846">Kitchener</rs> das Schiff nicht verließ,<lb/>
+sondern mit ihm unterging <seg type="symbol" subtype="4dots"/> verlor keinen Augenblick seine bekannte<lb/>
+Kaltblütigkeit und Geistesgegenwart, vielmehr trug er eine erstaunliche<lb/>
+Ruhe und Gleichgültigkeit zur Schau. Als die Minenexplosion eintrat,<lb/>
+kam <rs type="pers" ana="n_65291" ref="#fk__p_47846">Kitchener</rs>, der sich gerade in seiner Kabine befand, ruhigen Schrittes<lb/>
+ans Deck, wo er gleichmütig mit zwei Offizieren sprach <seg type="symbol" subtype="4dots"/> so daß<lb/>
+die Boote und alle, die darin Platz genommen hatten, mit in die Tiefe<lb/>
+herabgezogen wurden. Während das Dutzend Matrosen sich auf etliche<lb/>
+schwimmende Flöße retteten <seg type="symbol" subtype="4dots"/> stand <rs type="pers" ana="n_65292" ref="#fk__p_47846">Kitchener</rs> noch immer an Deck<lb/>
+im Gespräch mit seinen Adjutanten. Er und der Kommandant waren<lb/>
+die letzten, welche mit dem »Hampshire« untergingen.«<lb/>
+</p>
+            <p ana="pr98694">
+<space/>Oder auf deutsch:<lb/>
+</p>
+            <lg>
+<l>Man fühlt es schmerzlich und betroffen:</l>
+<l><seg type="insult">Herr <rs type="pers" ana="n_65293" ref="#fk__p_47846">Kitchener</rs></seg> ist nun <seg type="spc">zwar ersoffen</seg> —</l>
+<l>Doch <rs type="pers" ana="n_65294" ref="#fk__p_53349">Grey</rs>? Da bleibt <seg type="spc">noch viel zu hoffen</seg>.</l>
+</lg>
+            <p ana="pr98698">
+<space/>Das ist im <seg ana="Simplicissimus"/> gestanden, in <seg type="insult">jenem <rs type="magazine" ana="werk_20663">Simplicissimus</rs></seg>,<lb/>
+der seine Vergangenheit an das <seg type="insult">Vaterland</seg> verraten hat;<lb/>
+dessen <seg type="insult">ruhmloses Ende</seg> <seg type="insult">der traurigste Witz der Zeitgeschichte</seg> war<lb/>
+und dessen wir uns unter allem was seit <date>1914</date> in deutscher Sprache<lb/>
+erschienen ist, dereinst am meisten zu schämen haben werden.<lb/>
+Kein Zweifel, <seg type="insult">diesen Bulldogg</seg> hätte <rs type="pers" ana="n_65295" ref="#fk__p_38501">Schopenhauer</rs> an die<lb/>
+Kette gewünscht!<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_53349">
+               <persName>Grey, Edward Viscount of Fallodon</persName>
+               <birth>
+                  <date>1862-04-25</date>
+                  <place>Fallodon</place>
+               </birth>
+               <death>
+                  <date>1933-09-07</date>
+                  <place>Fallodon</place>
+               </death>
+               <occupation>Politiker</occupation>
+            </person>
+            <person xml:id="fk__p_38501">
+               <persName>Schopenhauer, Arthur</persName>
+               <birth>
+                  <date>1788-2-22</date>
+                  <place>Danzig</place>
+               </birth>
+               <death>
+                  <date>1860-9-21</date>
+                  <place>Frankfurt am Main</place>
+               </death>
+               <occupation>Philosoph</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/5787</idno></person>
+            <person xml:id="fk__p_47846">
+               <persName>Kitchener, Horatio Herbert Viscount</persName>
+               <birth>
+                  <date>1850-6-24</date>
+                  <place>Ballylongford/Count Kerry/Irland</place>
+               </birth>
+               <death>
+                  <date>1916-6-5</date>
+                  <place>bei den Orkney Islands/Schottland</place>
+               </death>
+               <occupation>Offizier</occupation>
+               <occupation>Diplomat</occupation>
+               <occupation>Politiker</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16863</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/19366</idno></person>
+            </listPerson></back></text>
+</TEI>

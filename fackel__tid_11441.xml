@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_11441.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11440.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11442.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ein deutscher Dichter, in: Fackel Heft 32, Nr. 838, 1930, S. 72-72</title>
+            <title type="iso-date">1930-09-01</title>
+            <title type="id">tid_11441</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">32</title><title type="heft">838</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-32-838_n0072.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/838,072</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ein deutscher Dichter</head>
+            <p ana="pr166505">
+<rs type="pers" ana="n_99894" ref="#fk__p_50236">Jelusich</rs>, gestrandet, beschreibt in einem <rs type="perRef" ana="werk_30254">jüdischen Blatt</rs> die<lb/>
+Rettung:<lb/>
+</p>
+            <p ana="pr166507">
+<space/>Wir wurden von den Bewohnern des Ortes außerordentlich hilfreich<lb/>
+ und entgegenkommend aufgenommen. Ich muß betonen, daß<lb/>
+besonders die Familie des Hofrates <rs type="pers" ana="n_99895" ref="#fk__p_42609">Ertl</rs>, die in der Nähe der Unfallstelle<lb/>
+ ein Landhaus besitzt, sich in unbeschreiblich gastfreundlicher<lb/>
+und zuvorkommender Weise verhielt <seg type="spc">und der ich auch</seg> an dieser<lb/>
+Stelle meinen besonderen Dank ausspreche.<lb/>
+</p>
+            <p ana="pr166509">
+Wo immer man den Satz anpackt, unmöglich ans Land zu kommen.<lb/>
+Ratlos steht der Retter, der gleichfalls ein deutscher Dichter ist.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_50236">
+               <persName>Jelusich, Mirko</persName>
+               <birth>
+                  <date>1886-12-12</date>
+                  <place>Podmoklitz bei Semily/Böhmen</place>
+               </birth>
+               <death>
+                  <date>1969-6-22</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Sieveringer Friedhof 2/16/14 (FD)</note>
+            </person>
+            <person xml:id="fk__p_42609">
+               <persName>Ertl, Emil Adolf Victor</persName>
+               <birth>
+                  <date>1860-3-11</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1935-5-8</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Bibliothekar</occupation>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Hofrat (Degener)</note>
+               <note type="comment">Friedhof Matzleinsdorf, Grab GRPL-153</note>
+               <note type="comment">3., Klimpfgasse 1</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_14807</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11270</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_10005.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10004.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10006.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Kurz und bündig, in: Fackel Heft 26, Nr. 668, 1924, S. 117-117</title>
+            <title type="iso-date">1924-12-01</title>
+            <title type="id">tid_10005</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">26</title><title type="heft">668</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-26-668_n0117.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/668,117</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Kurz und bündig</head>
+            <p ana="pr135819">
+Eindrücke zu formulieren und Erfolg oder Mißerfolg einer Première<lb/>
+darzustellen, ist längst nicht mehr Sache der <seg type="insult">Kritik</seg>, die gern in<lb/>
+Adjektiven zerflattert. Umso anerkennenswerter die Ausnahme,<lb/>
+die einmal zu verzeichnen ist:<lb/>
+</p>
+            <p ana="pr135821">
+<space/><seg type="symbol" subtype="3dots"/> <rs type="pers" ana="n_83184" ref="#fk__p_44406">Geyer</rs> hat ausgesorgt <seg type="symbol" subtype="4dots"/><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_44406">
+               <persName>Geyer, Siegfried</persName>
+               <birth>
+                  <date>1883-1-23</date>
+                  <place>Marchegg</place>
+               </birth>
+               <death>
+                  <date>1945</date>
+                  <place>Budapest</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Dramaturg</occupation>
+               <occupation>Theaterleiter</occupation>
+               <occupation>Journalist</occupation>
+               <note type="comment">Tätigkeit im Kriegspressequartier 1916 durch mail vom 31.3.09 bestätigt, vgl. AS Tgb 23/2/16</note>
+               <note type="comment">Advokaturskandidat Dr. Siegfried Geyerhahn, NFP 21.11.1906, Seite 13</note>
+               <note type="comment">Pseud. "Bac." in "Stunde" und "Bühne"</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/7399</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07824.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07823.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07825.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Aufgeschoben ist nicht aufgehoben, in: Fackel Heft 19, Nr. 457, 1234, S. 25-26</title>
+            <title type="iso-date">1234-01-01</title>
+            <title type="id">tid_07824</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">19</title><title type="heft">457</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-19-457_n0025.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/457,025</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Aufgeschoben ist nicht aufgehoben</head>
+            <p ana="pr104765">
+<space/><seg type="sidehead">* (Verschiebung des <rs type="pers" ana="n_67113" ref="#fk__p_51017">Kernstockabends</rs>.)</seg> Der von dem Verein<lb/>
+»<rs type="inst"><seg type="spc">Kernige Alservorstädter</seg></rs>« am <date>25. <abbr>d.</abbr></date> geplante <rs type="pers" ana="n_67114" ref="#fk__p_51017">Kernstockabend<lb/>
+</rs> wird eingetretener Hindernisse halber bis nach Ostern verschoben<lb/>
+. Die gelösten Karten behalten ihre Gültigkeit.<lb/>
+</p>
+            <p ana="pr104767">
+<space/>Und ich hätte geglaubt, daß <seg type="insult">die »<rs type="inst">Kernigen Alservorstädter</rs>«</seg><lb/>
+— erfreulich, daß es noch <seg type="insult">so etwas</seg> gibt, sprich: <seg type="insult"><foreign xml:lang="de-loc">»<rs type="inst">d’ kernigen<lb/>
+Alservorstädter</rs>«</foreign></seg> — jetzt <seg type="insult">mehr beim <rs type="pers" ana="n_67115" ref="#fk__p_51017"><SPAN norm="Kernstock">Krnstock</SPAN></rs> als beim<lb/>
+<rs type="pers" ana="n_67116" ref="#fk__p_51017">Kernstock</rs></seg> zu tun haben. Die eingetretenen Hindernisse<lb/>
+ließen darauf schließen; aber da diese schon nach Ostern behoben<lb/>
+sein werden, ohne daß bis dahin Friede sein wird, so ist gar<lb/>
+kein Grund, besorgt zu sein. <seg type="insult">Der hochwürdige Kriegsdichter</seg><lb/>
+dürfte immerhin Zeit finden, bis dahin <seg type="insult">etwas Neues, Kerniges</seg><lb/>
+— über <seg type="insult">das Motiv <foreign xml:lang="de-loc">»Haut’s eahm!«</foreign></seg> — zu schaffen, und<lb/>
+Gottseidank behalten die gelösten Karten ihre Gültigkeit.<lb/>
+</p>
+            <p ana="pr104767">
+(Natürlich spricht purer Neid aus mir, weil <rs type="inst"><seg type="insult"><foreign xml:lang="de-loc">d’ kernigen Alservorstädter<lb/>
+</foreign></seg></rs> mich noch nicht zu einer Vorlesung in ihrer Mitte<lb/>
+eingeladen haben.)<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_51017">
+               <persName>Kernstock, Ottokar</persName>
+               <birth>
+                  <date>1848-7-25</date>
+                  <place>Marburg/Drau</place>
+               </birth>
+               <death>
+                  <date>1928-11-4</date>
+                  <place>auf der Festenburg</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/8183</idno></person>
+            </listPerson></back></text>
+</TEI>

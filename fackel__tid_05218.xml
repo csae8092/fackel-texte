@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_05218.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05217.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05219.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Der Tonfall, in: Fackel Heft 12, Nr. 313, 1910, S. 11-11</title>
+            <title type="iso-date">1910-12-31</title>
+            <title type="id">tid_05218</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">12</title><title type="heft">313</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-12-313_n0011.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/313,011</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Der Tonfall</head>
+            <p ana="pr67515">
+ist es, was mich schaudern macht:<lb/>
+</p>
+            <p ana="pr67517">
+<space/>Der Richter <rs type="pers" ana="n_48899" ref="#fk__p_42060"><abbr>Dr.</abbr> Wüstinger</rs> sprach die Angeklagte, die wiederholt<lb/>
+wegen <seg type="insult">unsittlichen Lebenswandels</seg> vorbestraft ist, von der Übertretung<lb/>
+der Sittlichkeit frei, verurteilte sie aber wegen versuchter Übertretung<lb/>
+des <rs type="title">Vagabundengesetzes</rs> zu acht Tagen strengen Arrests.<lb/>
+</p>
+            <p ana="pr67519">
+<space/><seg type="insult">Diese irre Gerechtigkeit</seg> geht von der Voraussetzung aus,<lb/>
+daß es im Menschenleben Augenblicke gibt, in denen sich eine<lb/>
+Frau sagt: Unsittlich bin ich nicht, weiß Gott, aber ich versuche<lb/>
+soeben das <rs type="title">Vagabundengesetz</rs> zu übertreten.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_42060">
+               <persName>Wüstinger, Oskar</persName>
+               <birth>
+                  <date>1872-11-28</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1940-11-16</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Richter</occupation>
+               <note type="comment">9., Löblichgasse 1</note>
+               <note type="comment">Bezirksrichter</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

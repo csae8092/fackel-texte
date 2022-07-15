@@ -1,0 +1,46 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_11839.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11838.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11840.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Etwas Vollkommenes, in: Fackel Heft 33, Nr. 857, 1931, S. 25-25</title>
+            <title type="iso-date">1931-08-01</title>
+            <title type="id">tid_11839</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">33</title><title type="heft">857</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-33-857_n0025.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/857,025</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Etwas Vollkommenes</head>
+            <p ana="pr171445">
+<space/>Aus der Ansprache eines Führers der <rs type="inst">deutschen Studentenschaft<lb/>
+</rs>:<lb/>
+</p>
+            <p ana="pr171447">
+<space/>Wir wollen beweisen, daß wir <seg type="spc">hinter</seg> dem Schöpfer der<lb/>
+Studentenordnung, Prorektor <rs type="pers" ana="n_102373" ref="#fk__p_44671">Gleispach</rs>, und <seg type="spc">hinter</seg> dem derzeitigen<lb/>
+Rektor <seg type="spc">stehen</seg>, der mit dem <seg type="spc">ganzen</seg> <rs type="inst">akademischen Senat</rs> stets<lb/>
+<seg type="spc">voll und ganz hinter</seg> der <rs type="inst">deutschen Studentenschaft</rs> <seg type="spc">steht</seg>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_44671">
+               <persName>Gleispach, Wenzeslaus Graf</persName>
+               <birth>
+                  <date>1876-08-22</date>
+                  <place>Graz</place>
+               </birth>
+               <death>
+                  <date>1944-03-12</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Jurist</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

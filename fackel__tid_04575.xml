@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_04575.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04574.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04576.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Der deutsche Kaiser ist indigniert, in: Fackel Heft 09, Nr. 237, 1907, S. 26-27</title>
+            <title type="iso-date">1907-12-2</title>
+            <title type="id">tid_04575</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">09</title><title type="heft">237</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-09-237_n0026.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/237,026</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Der deutsche Kaiser ist indigniert</head>
+            <p ana="pr51164">
+<space/>Was ist der <RS pers="Wilhelm II." globID="name_203165">deutsche Kaiser</RS>? Indigniert. Worüber? Über<lb/>
+alles. Darüber, daß man ihn nicht aufmerksam gemacht hat.<lb/>
+Darüber, daß man ihn aufmerksam gemacht hat. Darüber,<lb/>
+</p>
+            <p ana="pr51164">
+worauf man ihn aufmerksam gemacht hat. Darüber, worauf<lb/>
+man ihn nicht aufmerksam gemacht hat. Wer in Gunst<lb/>
+gestanden, fällt in Ungnade. Wer in Gnade gefallen, steigt in<lb/>
+Ungunst. Wer in Ungnade gestiegen, fällt in Gunst. Wer in Ungunst<lb/>
+ gestiegen, fällt in Gnade. Und wer was dawider hat, wird zerschmettert<lb/>
+ und schüttle den Staub von <seg type="insult">den schönen Kürassierstiefeln</seg>!<lb/>
+Wenn aber in <seg type="insult">Sodom</seg> <seg type="insult">nur zwei Männer</seg> sind, die »erweislich« nicht<lb/>
+normwidrig sind: <seg type="insult">Herr <rs type="pers" ana="n_40686" ref="#fk__p_49994">Harden</rs> und <rs type="pers" ana="n_40687" ref="#fk__p_55493">Wilhelm II.</rs></seg>, so möge <seg type="insult">Sodom</seg><lb/>
+erhalten bleiben. Man kann ja weiter vor Gericht feststellen, aus<lb/>
+wieviel Prozent »M« und wieviel Prozent »W« ein der <seg type="insult">Normwidrigkeit<lb/>
+</seg> Beschuldigter zusammengesetzt ist. <seg type="insult"><abbr>M. W.</abbr></seg> — machen<lb/>
+wir. Aber <seg type="insult"><rs type="pers" ana="n_40689" ref="#fk__p_55493"><abbr>S. M.</abbr></rs> oder <SPAN sug="Wilhelm II.">W2</SPAN></seg> — wenn nur <seg type="insult">der deutsche Mann</seg> <seg type="insult"><seg type="spc">diesen</seg><lb/>
+Wesensinhalt</seg> hat, dann kann er getrost und in alle Zukunft <seg type="insult">das<lb/>
+patriotische Gefühl</seg> an einer blanken Uniform weiden.<lb/>
+</p>
+            <p ana="pr51166">
+<rs type="pers" ana="n_40690" ref="#fk__p_47565"><AUCTOR><abbr>K. K.</abbr></AUCTOR></rs><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_47565">
+               <persName>Kraus, Karl</persName>
+               <birth>
+                  <date>1874-4-28</date>
+                  <place>Jicin, Böhmen</place>
+               </birth>
+               <death>
+                  <date>1936-6-12</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Publizist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11988</idno></person>
+            <person xml:id="fk__p_55493">
+               <persName>Wilhelm II., Kaiser</persName>
+               <birth>
+                  <date>1859-1-27</date>
+                  <place>Berlin</place>
+               </birth>
+               <death>
+                  <date>1941-6-4</date>
+                  <place>Doorn/Niederlande</place>
+               </death>
+               <occupation>Kaiser</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_21338</idno></person>
+            <person xml:id="fk__p_49994">
+               <persName>Harden, Maximilian</persName>
+               <birth>
+                  <date>1861-10-20</date>
+                  <place>Berlin</place>
+               </birth>
+               <death>
+                  <date>1927-10-30</date>
+                  <place>Montana-Vermala, Schweiz</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Publizist</occupation>
+               <note type="comment">166/18 Johannes</note>
+               <note type="comment">Hrsg. der "Zukunft"</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11581</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_05713.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05712.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05714.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Der König amüsiert sich!, in: Fackel Heft 13, Nr. 345, 1912, S. 47-47</title>
+            <title type="iso-date">1912-04-01</title>
+            <title type="id">tid_05713</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">13</title><title type="heft">345</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-13-345_n0047.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/345,047</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Der König amüsiert sich!</head>
+            <p ana="pr75408">
+<space/>»Als der Bruder <rs type="pers" ana="n_54165" ref="#fk__p_38199">Amundsens</rs> gestern beim <rs type="pers" ana="n_54166" ref="#fk__p_48019">König Hakon</rs> zur<lb/>
+Audienz erschien, zeigte ihm dieser lachend ein Telegramm, das ihm<lb/>
+von einer <rs type="perRef" ana="werk_18773">großen amerikanischen Zeitung</rs> zugegangen war, und worin<lb/>
+der König aufgefordert wurde, dem <rs type="perRef" ana="werk_18774">Blatte</rs> telegraphisch mitzuteilen, was<lb/>
+er über <rs type="pers" ana="n_54167" ref="#fk__p_38199">Amundsen</rs> wisse.«<lb/>
+</p>
+            <p ana="pr75410">
+<space/>Warum nicht? Da gibts gar nichts zu lachen. Die <rs type="perRef" ana="werk_18775">Zeitung</rs><lb/>
+ist nicht zudringlich, sondern ehrlich. Warum solche Regungen<lb/>
+abstoßen? Ist es denn nicht besser, man bringt, was der König<lb/>
+gesagt hat, als man bringt, was der König nicht gesagt hat?<lb/>
+Ist es nicht besser, der König hat gesagt, was man bringt, als<lb/>
+der König hat’s nicht gesagt? Wenn der König sich amüsiert, wird<lb/>
+er nur erreichen, daß man nicht bringt, was er gesagt hat der König.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_38199">
+               <persName>Amundsen, Roald Engelbregt Gravning</persName>
+               <birth>
+                  <date>1872-07-16</date>
+                  <place>Borge</place>
+               </birth>
+               <death>
+                  <date>1928-6-18?</date>
+                  <place>Spitzbergen?</place>
+               </death>
+               <occupation>Polarforscher</occupation>
+               <note type="comment">verschollen nahe der Bäreninsel</note>
+            </person>
+            <person xml:id="fk__p_48019">
+               <persName>Hakon VII., König von Norwegen</persName>
+               <birth>
+                  <date>1872-08-03</date>
+                  <place>Charlottenlund</place>
+               </birth>
+               <death>
+                  <date>1957-09-21</date>
+                  <place>Oslo</place>
+               </death>
+               <occupation>König</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

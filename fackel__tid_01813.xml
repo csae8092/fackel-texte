@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01813.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01812.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01814.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Habitué., in: Fackel Heft 03, Nr. 076, 1901, S. 23-24</title>
+            <title type="iso-date">1901-05-01</title>
+            <title type="id">tid_01813</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">03</title><title type="heft">076</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-03-076_n0023.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/076,023</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Habitué.</head>
+            <p ana="pr17876">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_15062" ref="#fk__p_45322">Habitué</rs>.</seg></seg> Die Referate der ‚<rs type="paper" ana="werk_5737">Neuen Freien Presse</rs>‘ über das<lb/>
+<rs type="inst">Jubiläumstheater</rs> sind wortkarg, wiewohl sie von einer <seg type="spc">Frau</seg> geschrieben<lb/>
+ werden. Das glauben Sie natürlich nicht. Und dennoch ist<lb/>
+es so. Fragen Sie nächstens den Billeteur, wo der Kritiker der<lb/>
+‚<rs type="paper" ana="werk_5738">Neuen Freien Presse</rs>‘ sitzt, und Sie werden seinen Platz von <seg type="spc">Frau<lb/>
+<rs type="pers" ana="n_15063" ref="#fk__p_59765">Schütz</rs></seg> eingenommen finden. Seit <seg type="insult">Herr <rs type="pers" ana="n_15064" ref="#fk__p_41891">Herzl</rs></seg>, wie man mir mittheilt<lb/>
+, einst in der Redaction erklärt hat, er verachte den Juden, der<lb/>
+die Schwelle des <rs type="inst">Jubiläumstheaters</rs> betritt, schickt <seg type="insult">Herr <rs type="pers" ana="n_15065" ref="#fk__p_43866">Schütz</rs></seg>, aus<lb/>
+<seg type="insult">Glaubenseifer</seg> und damit die Referentensitze in der Familie bleiben, seine<lb/>
+Frau. Selbst <seg type="insult">Herr <rs type="pers" ana="n_15066" ref="#fk__p_45908">Bahr</rs></seg> nimmt an <seg type="insult">der legeren Art</seg>, in der der<lb/>
+Kritiker der ‚<rs type="paper" ana="werk_5739">Neuen Freien Presse</rs>‘ sein Amt auffasst, Anstoß. Bei<lb/>
+der <rs type="title"><rs type="pers">»Tantalos«-Première</rs></rs> sagte er zu einem Collegen: »<rs type="pers" ana="n_15067" ref="#fk__p_43866">Schütz</rs> ist auch<lb/>
+heute nicht da? Das übersteigt doch die Grenzen des Erlaubten!«<lb/>
+Es wäre gar nicht übel, wenn <seg type="insult">Herr <rs type="pers" ana="n_15068" ref="#fk__p_45908">Bahr</rs></seg> dem Beispiel folgte und<lb/>
+sich bei Premièren des <rs type="inst">Deutschen Volkstheaters</rs> durch seine Frau<lb/>
+</p>
+            <p ana="pr17876">
+vertreten ließe. Ganz abgesehen vom besseren Deutsch, wäre das<lb/>
+Problem der »Incompatibilität« beinahe aus der Welt geschafft.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_45908">
+               <persName>Bahr, Hermann</persName>
+               <birth>
+                  <date>1863-7-19</date>
+                  <place>Linz</place>
+               </birth>
+               <death>
+                  <date>1934-1-15</date>
+                  <place>München</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Kritiker</occupation>
+               <note type="comment">Ögg teilt auch 307/52, 445/49, 800/67 (Rotte Korah) Bahr zu</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10815</idno></person>
+            <person xml:id="fk__p_41891">
+               <persName>Herzl, Theodor</persName>
+               <birth>
+                  <date>1860-5-2</date>
+                  <place>Pest</place>
+               </birth>
+               <death>
+                  <date>1904-7-3</date>
+                  <place>Edlach, Niederösterreich</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11673</idno></person>
+            <person xml:id="fk__p_45322">
+               <persName>Habitué</persName>
+            </person>
+            <person xml:id="fk__p_59765">
+               <persName>Schütz, Bertha, geb. von Dillner-Dillnersdorf</persName>
+               <birth>
+                  <date>1847-11-10</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1916-6-27</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Sängerin</occupation>
+               <note type="comment">Frau von Friedrich Schütz; Großmutter von Wolfgang und Hertha Pauli</note>
+               <note type="comment">Döblinger Friedhof 13/2/5 (FD), auf dem Grabstein Berta</note>
+               <note type="comment">Hofopernsängerin</note>
+            </person>
+            <person xml:id="fk__p_43866">
+               <persName>Schütz, Friedrich</persName>
+               <birth>
+                  <date>1844-4-20</date>
+                  <place>Prag</place>
+               </birth>
+               <death>
+                  <date>1908-12-22</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">18., Anton Frankgasse 18</note>
+               <note type="comment">ÖBL: geb. 24. 04. 1844</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_19921</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2583</idno></person>
+            </listPerson></back></text>
+</TEI>

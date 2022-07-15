@@ -1,0 +1,95 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_09929.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09928.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09930.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Was sagt die Gehirnanatomie zu dem Fall?, in: Fackel Heft 26, Nr. 668, 1924, S. 15-15</title>
+            <title type="iso-date">1924-12-01</title>
+            <title type="id">tid_09929</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">26</title><title type="heft">668</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-26-668_n0015.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/668,015</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Was sagt die Gehirnanatomie zu dem Fall?</head>
+            <p ana="pr134906">
+<space/><seg type="spc">Ein eigenartiges Jubiläum <rs type="pers" ana="n_82655" ref="#fk__p_54324">Turl Wieners</rs></seg>. Montag<lb/>
+ den <date>27. <abbr>d.</abbr></date> gelangt in der <rs type="inst"><rs type="pers" ana="n2_7371" ref="#fk__p_52371">Robert Stolz-Bühne</rs></rs> »<rs type="title">Das Fräulein aus<lb/>
+1001 Nacht</rs>« zum fünfundzwanzigstenmal zur Aufführung. Der Komiker<lb/>
+ <rs type="pers" ana="n_82656" ref="#fk__p_54324">Turl Wiener</rs> begeht im Rahmen dieses Abends das Jubiläum<lb/>
+des 2500. Auftretens in einer <rs type="pers" ana="n_82657" ref="#fk__p_52371">Robert Stolzschen Operette</rs>. <rs type="pers" ana="n_82658" ref="#fk__p_54324">Turl Wiener</rs><lb/>
+war schon im Jahre <date>1908</date> in der ersten Operette dieses Komponisten<lb/>
+»<rs type="title">Die lustigen Weiber von Wien</rs>«, zu der <rs type="pers" ana="n_82659" ref="#fk__p_47240">Brammer</rs> und <rs type="pers" ana="n_82660" ref="#fk__p_38066">Grünwald</rs> das<lb/>
+Buch geschrieben hatten, beschäftigt, in dieser 150mal, später in<lb/>
+»<rs type="title">Mädel küsse mich</rs>« 500mal, in »<rs type="title">Lang, lang ists her</rs>« 600mal, im<lb/>
+»<rs type="title">Tanz ums Glück</rs>« 125mal und im <foreign xml:lang="de-loc">»<rs type="title">Sperrsechserl</rs>«</foreign> 1100mal.<lb/>
+</p>
+            <p ana="pr134908">
+<space/>Das ist offenbar der <seg type="insult">Wiener</seg>, der nicht untergeht.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_52371">
+               <persName>Stolz, Robert</persName>
+               <birth>
+                  <date>1880-8-25</date>
+                  <place>Graz</place>
+               </birth>
+               <death>
+                  <date>1975-6-27</date>
+                  <place>Berlin</place>
+               </death>
+               <occupation>Komponist</occupation>
+               <occupation>Dirigent</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10055</idno></person>
+            <person xml:id="fk__p_47240">
+               <persName>Brammer, Julius</persName>
+               <birth>
+                  <date>1877-3-9</date>
+                  <place>Sehraditz/Mähren</place>
+               </birth>
+               <death>
+                  <date>1943-4-18</date>
+                  <place>Juan-les-Pins</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <occupation>Dramaturg</occupation>
+               <occupation>Schriftsteller</occupation>
+            </person>
+            <person xml:id="fk__p_38066">
+               <persName>Grünwald, Alfred</persName>
+               <birth>
+                  <date>1884-2-16</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1951-2-25</date>
+                  <place>Forest Hills, N. Y.</place>
+               </death>
+               <occupation>Theateragent</occupation>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Kritiker</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/7587</idno></person>
+            <person xml:id="fk__p_54324">
+               <persName>Wiener, Turl</persName>
+               <birth>
+                  <date>1875-12-7</date>
+                  <place>Asparn an der Zaya</place>
+               </birth>
+               <death>
+                  <date>1971-8-15</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <occupation>Sänger</occupation>
+               <occupation>Varietédirektor</occupation>
+               <note type="comment">9., Nußdorferstraße 4</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

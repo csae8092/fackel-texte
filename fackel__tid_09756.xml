@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_09756.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09755.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09757.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Zuschrift des Verlags an die ‚Weltbühne‘), in: Fackel Heft 26, Nr. 649, 1924, S. 69-69</title>
+            <title type="iso-date">1924-06-01</title>
+            <title type="id">tid_09756</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">26</title><title type="heft">649</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-26-649_n0069.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/649,069</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Zuschrift des Verlags an die ‚Weltbühne‘)</head>
+            <p ana="pr132392">
+<date>8. Februar 1924</date><lb/>
+</p>
+            <p ana="pr132393">
+<space/>Sie zitieren in <rs type="magazineRef" ana="werk_25735"><abbr>Nr.</abbr> 6</rs> unter »<rs type="title">Antworten</rs>« eine Stelle aus<lb/>
+dem <rs type="selfRef" ana="werk_25736">letzten Heft</rs> der <rs type="self" ana="werk_25737">Fackel</rs>, an deren Schluß es angeblich<lb/>
+heißt: »Von <seg type="insult">einem imperialen Pfuscher</seg> um Gut und Blut betrogen,<lb/>
+gibt Deutschland den Sattel, in den es <rs type="pers" ana="n_80931" ref="#fk__p_39266">Bismarck</rs> gesetzt hat,<lb/>
+einem Mann in Obhut, der gerade darin seine fachmännische<lb/>
+Vergangenheit verleugnet und lieber dartut, daß er schon selbst<lb/>
+reiten kann, <seg type="spc">er holt</seg> sich Rats bei <seg type="insult">Wunderdoktoren, Tapezierergehilfen<lb/>
+ und Spenglern</seg>, und der Untergang des Abendlands<lb/>
+vollzieht sich so, daß es auf ihn hereinfällt.« Stil und Sinn dieses<lb/>
+Satzes sind zerstört, denn im Original heißt es: »<seg type="spc">erholt</seg> sich<lb/>
+Rats«, nämlich Deutschland und nicht <seg type="insult">Herr <rs type="pers" ana="n_80932" ref="#fk__p_43913">Ebert</rs></seg>, dem solches<lb/>
+ganz und gar fern liegt. Da man sich ebensogut Rats »holen«<lb/>
+wie »erholen« kann, so muß der Leser den falschen Sinn<lb/>
+empfangen und kann den richtigen gar nicht einmal erraten.<lb/>
+Eine weitere grammatische Folge ist noch, daß nunmehr das<lb/>
+Abendland nicht auf den Untergang, sondern auf <seg type="insult">Herrn <rs type="pers" ana="n_80933" ref="#fk__p_43913">Ebert</rs></seg><lb/>
+hereinfällt, was ja immerhin seine Richtigkeit haben mag, aber<lb/>
+doch vom ursprünglichen Gedanken abweicht. Wir ersuchen Sie<lb/>
+dringend, die Korrektur vorzunehmen, und müssen Sie mit allem<lb/>
+Dank für Ihre so freundliche Absicht bitten, künftighin Zitierungen<lb/>
+aus der <rs type="self" ana="werk_25738">Fackel</rs> lieber zu unterlassen, wenn (was ja auch keineswegs<lb/>
+ zu verlangen ist) an den Nachdruck nicht annähernd die<lb/>
+Sorgfalt gewendet werden kann wie an den Druck des Originals.<lb/>
+</p>
+            <p ana="pr132395">
+<space/>Diese Zuschrift wurde ohne den Schlußsatz abgedruckt<lb/>
+und dazu etwa gesagt, daß jeder Leser den Druckfehler gewiß<lb/>
+selbst bemerkt und den Text des Originals sich wiederhergestellt<lb/>
+habe. Das gerade Gegenteil ist der Fall und es besteht eher die<lb/>
+Vermutung, daß der Setzer »erholt« für einen Druckfehler gehalten<lb/>
+hatte, den er korrigieren zu müssen glaubte.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_43913">
+               <persName>Ebert, Friedrich</persName>
+               <birth>
+                  <date>1871-2-4</date>
+                  <place>Heidelberg</place>
+               </birth>
+               <death>
+                  <date>1925-2-28</date>
+                  <place>Berlin</place>
+               </death>
+               <occupation>Politiker</occupation>
+            </person>
+            <person xml:id="fk__p_39266">
+               <persName>Bismarck, Otto Eduard Leopold Fürst</persName>
+               <birth>
+                  <date>1815-04-01</date>
+                  <place>Schönhausen</place>
+               </birth>
+               <death>
+                  <date>1898-07-30</date>
+                  <place>Friedrichsruh</place>
+               </death>
+               <occupation>Politiker</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13749</idno></person>
+            </listPerson></back></text>
+</TEI>

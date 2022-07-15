@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07774.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07773.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07775.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Druckfehlerverzeichnis), in: Fackel Heft 19, Nr. 454, 1234, S. 36-37</title>
+            <title type="iso-date">1234-01-01</title>
+            <title type="id">tid_07774</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">19</title><title type="heft">454</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-19-454_n0036.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/454,036</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Druckfehlerverzeichnis)</head>
+            <p ana="pr104038">
+<space/>Fehler der ersten Auflage der <rs type="selfRef" ana="werk_21094"><abbr>Nr.</abbr> 445—453</rs>, die in einer<lb/>
+zweiten korrigiert sind: <abbr>S.</abbr> 5, 9. Zeile, steht ein falsches Anführungszeichen<lb/>
+; <abbr>S.</abbr> 13, 5. Zeile, ist anstatt »Mittagmal«: <seg type="i">Mittagmahl</seg> zu<lb/>
+lesen; <abbr>S.</abbr> 51 in der ersten Aufschrift nach »<rs type="pers" ana="n_66939" ref="#fk__p_50864">Straus</rs>« ein Punkt zu setzen;<lb/>
+<abbr>S.</abbr> 54, 7. Zeile von unten, anstatt »Füßeh«: <seg type="i">Füßen</seg>; <abbr>S.</abbr> 70, 18. Zeile,<lb/>
+ist nach »Epoche« ein Komma zu setzen; <abbr>S.</abbr> 76, 2. Zeile, anstatt<lb/>
+»das Wort erteilt«: <seg type="i">das Wort erteilt, wie folgt</seg>; ebenda, 4. Zeile von<lb/>
+unten, anstatt <foreign xml:lang="fr">»Toujour«</foreign>: <foreign xml:lang="fr"><seg type="i">Toujours</seg></foreign>; <abbr>S.</abbr> 108, 6. Zeile von unten,<lb/>
+anstatt »nich«: <seg type="i">nicht</seg>; <abbr>S.</abbr> 109, 11. Zeile von unten, anstatt »Lachkabinet<lb/>
+«: <seg type="i">Lachkabinett</seg>; <abbr>S.</abbr> 113, 7. Zeile von unten, fehlt nach dem<lb/>
+Wort »Absonderliche« das Ausführungszeichen; <abbr>S.</abbr> 121, letzte Zeile<lb/>
+der ersten Glosse, hat das Ausführungszeichen nach der Klammer<lb/>
+des Wortes »Kaftan« zu stehen; <abbr>S.</abbr> 122, 2. Zeile des Textes, ist<lb/>
+nach »klingt« ein Komma zu setzen; <abbr>S.</abbr> 130, 15. und 14. Zeile<lb/>
+von unten, ist anstatt »was er las und und was«: <seg type="i">was er las und<lb/>
+was</seg> zu lesen; <abbr>S.</abbr> 139, 5. Zeile, hat das Ausführungszeichen nach<lb/>
+dem Punkt zu stehen; <abbr>S.</abbr> 155, letzte Zeile des Zitats, anstatt des<lb/>
+Punkts nach »pest« ein Komma; <abbr>S.</abbr> 170, 11. Vers, ist anstatt<lb/>
+»Richter, doch«: <seg type="i">Richter. Doch</seg> zu lesen.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_50864">
+               <persName>Straus, Oscar</persName>
+               <birth>
+                  <date>1870-3-6</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1954-1-11</date>
+                  <place>Bad Ischl</place>
+               </death>
+               <occupation>Komponist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12861</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_04808.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04807.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04809.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Eine Zuschrift. Von Elisabeth Förster-Nietzsche, in: Fackel Heft 10, Nr. 272, 1909, S. 39-40</title>
+            <title type="iso-date">1909-02-15</title>
+            <title type="id">tid_04808</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">10</title><title type="heft">272</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-10-272_n0039.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/272,039</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Eine Zuschrift. Von Elisabeth Förster-Nietzsche</head>
+            <p ana="pr58987">
+<space/>Zuschrift:<lb/>
+</p>
+            <p ana="pr58989">
+<space/>Weimar <abbr>d.</abbr> <date>21. <abbr>Jan.</abbr> 1909</date>. Sehr geehrter Herr! Verbindlichen<lb/>
+Dank für die liebenswürdige Erwähnung jenes Zitats. Ich möchte<lb/>
+hinzufügen, daß in diesen Worten in der Tat meine bescheidene<lb/>
+Stellung, die ich <seg type="spc">stets</seg> zu den Lehren meines Bruders eingenommen<lb/>
+ habe, ausgedrückt ist. Die Gegner haben hier, wie in<lb/>
+hundert andern Fällen, diese einfache Wahrheit auf den Kopf<lb/>
+gestellt. Ich habe mich <seg type="spc">immer alles Urteils</seg> über meinen<lb/>
+Bruder enthalten. Mit vorzüglicher Hochachtung Ihre<lb/>
+</p>
+            <p ana="pr58990">
+<rs type="pers" ana="n_44254" ref="#fk__p_42511"><AUCTOR><seg type="spc">Elisabeth Förster-Nietzsche</seg></AUCTOR></rs>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_42511">
+               <persName>Förster-Nietzsche, Elisabeth</persName>
+               <birth>
+                  <date>1846-07-10</date>
+                  <place>Röcken/Lützen</place>
+               </birth>
+               <death>
+                  <date>1935-11-08</date>
+                  <place>Weimar</place>
+               </death>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/43786</idno></person>
+            </listPerson></back></text>
+</TEI>

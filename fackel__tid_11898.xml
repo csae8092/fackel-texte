@@ -1,0 +1,47 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_11898.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11897.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11899.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Die Analphabeten, in: Fackel Heft 33, Nr. 857, 1931, S. 104-104</title>
+            <title type="iso-date">1931-08-01</title>
+            <title type="id">tid_11898</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">33</title><title type="heft">857</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-33-857_n0104.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/857,104</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Die Analphabeten</head>
+            <p ana="pr172398">
+<space/>So wird auch jetzt vielfach behauptet, daß <rs type="pers" ana="n_103010" ref="#fk__p_38575">August Lederer</rs> bedeutende<lb/>
+ Vermögenswerte seiner Firma auf sein Privatkonto geschrieben<lb/>
+hat, was der Struktur seiner Betriebe gemäß rechtlich ohne weiteres<lb/>
+möglich war, und daß er jetzt einfach die Regelung anderen überläßt,<lb/>
+während er selbst <seg type="spc">sein Schärflein im Trockenen</seg> hat.<lb/>
+</p>
+            <p ana="pr172400">
+Nur ein <seg type="insult">Schäflein als Beitrag zum Kapitel journalistischer Bildung</seg>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_38575">
+               <persName>Lederer, August</persName>
+               <birth>
+                  <date>1857-5-3</date>
+                  <place>Böhmisch Leipa</place>
+               </birth>
+               <death>
+                  <date>1936-4-30</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Industrieller</occupation>
+               <note type="comment">Raaber Spiritusfabrik</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

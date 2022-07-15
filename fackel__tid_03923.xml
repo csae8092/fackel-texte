@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03923.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03922.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03924.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Sammler. (Aus meiner Sammlung), in: Fackel Heft 07, Nr. 182, 1905, S. 28-28</title>
+            <title type="iso-date">1905-06-9</title>
+            <title type="id">tid_03923</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">07</title><title type="heft">182</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-07-182_n0028.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/182,028</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Sammler. (Aus meiner Sammlung)</head>
+            <p ana="pr39660">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="name_203529" ref="#fk__p_52736">Sammler</rs>.</seg></seg> Ob <seg type="insult">Herr <rs type="pers" ana="n_33670" ref="#fk__p_40792">Frischauer</rs>, der Pariser Korrespondent der<lb/>
+‚<rs type="paper" ana="werk_13940">Neuen Freien Presse</rs>‘</seg>, Aussätzige heilen kann, ist fraglich. Sicher ist,<lb/>
+daß er Tote lebendig macht. Der Eröffnungsfeier einer »Heimstätte für<lb/>
+alte Komödianten« wohnten, so depeschiert er, »einige hundert Personen<lb/>
+bei, welche dem Kunstleben nahestehen, darunter der ehemalige Minister<lb/>
+<rs type="pers" ana="n_33671" ref="#fk__p_55187"><seg type="spc">Waldeck-Rousseau</seg></rs>, <rs type="pers" ana="n_33672" ref="#fk__p_46776">Jean Dupuy</rs> <abbr>etc. etc.</abbr>« <seg type="insult">Die Pariser Korrespondenten<lb/>
+ der ‚<rs type="paper" ana="werk_13941">Neuen Freien Presse</rs>‘</seg> verschlafen in der Regel den Tod<lb/>
+der französischen Staatsmänner. Das macht manche spätere Unregelmäßigkeit<lb/>
+ in der Berichterstattung erklärlich.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46776">
+               <persName>Dupuy, Jean</persName>
+               <birth>
+                  <date>1844-10-1</date>
+                  <place>Saint-Palais/Gironde</place>
+               </birth>
+               <death>
+                  <date>1919-12-31</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Politiker</occupation>
+            </person>
+            <person xml:id="fk__p_55187">
+               <persName>Waldeck-Rousseau, Pierre Marie Ernest</persName>
+               <birth>
+                  <date>1846-12-02</date>
+                  <place>Nantes</place>
+               </birth>
+               <death>
+                  <date>1904-08-10</date>
+                  <place>Corbeil</place>
+               </death>
+               <occupation>Politiker</occupation>
+            </person>
+            <person xml:id="fk__p_52736">
+               <persName>Sammler</persName>
+            </person>
+            <person xml:id="fk__p_40792">
+               <persName>Frischauer, Berthold</persName>
+               <birth>
+                  <date>1851-9-9</date>
+                  <place>Brünn</place>
+               </birth>
+               <death>
+                  <date>1924-2-4</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <note type="comment">6., Linke Wienzeile 36</note>
+               <note type="comment">Ögg teilt ihm auch 56/23 zu, nicht erkennbar, weshalb</note>
+               <note type="comment">Red. der NFP</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/16710</idno></person>
+            </listPerson></back></text>
+</TEI>

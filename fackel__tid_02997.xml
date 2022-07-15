@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02997.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02996.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02998.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Musiker. (Hermann Bahr über Hugo Wolf), in: Fackel Heft 04, Nr. 132, 1903, S. 27-27</title>
+            <title type="iso-date">1903-03-14</title>
+            <title type="id">tid_02997</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">04</title><title type="heft">132</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-04-132_n0027.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/132,027</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Musiker. (Hermann Bahr über Hugo Wolf)</head>
+            <p ana="pr29554">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_25583" ref="#fk__p_50471">Musiker</rs>.</seg></seg> Einen Leidenden anzugreifen, ist peinlich. Darum sollte<lb/>
+sich <seg type="insult">Herr <rs type="pers" ana="n_25584" ref="#fk__p_45908">Bahr</rs></seg> während seiner Krankheit jedes Feuilletons enthalten.<lb/>
+Bisher glaubte ich, der Arzt habe ihm bloß erlaubt, über <rs type="pers" ana="n_25585" ref="#fk__p_54249">Trebitsch</rs> zu<lb/>
+schreiben. Da erschienen aber plötzlich »<rs type="title">Erinnerungen an <rs type="pers" ana="n2_1955" ref="#fk__p_46358">Hugo Wolf</rs></rs>«<lb/>
+(‚<rs type="paper" ana="werk_10890">Neues Wiener Tagblatt</rs>‘ <date>5. März</date>). Neun Spalten weiß <seg type="insult">Herr <rs type="pers" ana="n_25586" ref="#fk__p_45908">Bahr</rs></seg> mit<lb/>
+Schilderungen aus seinem Verkehr mit <rs type="pers" ana="n_25587" ref="#fk__p_46358">Hugo Wolf</rs> zu füllen. Ein Bruder<lb/>
+<rs type="pers" ana="n_25588" ref="#fk__p_46358">Wolf’s</rs> versichert mir, daß über <rs type="pers" ana="n_25589" ref="#fk__p_46358">Hugo’s</rs> Lippen nie der Name <seg type="insult">»<rs type="pers" ana="n_25590" ref="#fk__p_45908">Bahr</rs>«</seg><lb/>
+gekommen ist. Wie aber hat <seg type="insult">Herr <rs type="pers" ana="n_25591" ref="#fk__p_45908">Bahr</rs></seg> mit dem Tondichter verkehrt?<lb/>
+Auf seine Weise. »<seg type="spc">Von mir gereizt</seg>, der ich ihm <seg type="spc">behaglich</seg>, wie<lb/>
+man so zu sagen pflegt, <seg type="spc">das Hölzel zu werfen verstand</seg>, konnte<lb/>
+er Stunden lang <seg type="symbol" subtype="3dots"/> förmlich rasen«. <seg type="insult">Dieses unverhüllte <seg type="spc">Bekenntnis</seg><lb/>
+einer seltenen Gemüthsroheit</seg> mag fast mit dem Einfall versöhnen, einen<lb/>
+eben verstorbenen Meister seiner Kunst in neun Spalten ausschließlich<lb/>
+als einen <seg type="insult">unausstehlichen Narren</seg> zu schildern.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_45908">
+               <persName>Bahr, Hermann</persName>
+               <birth>
+                  <date>1863-7-19</date>
+                  <place>Linz</place>
+               </birth>
+               <death>
+                  <date>1934-1-15</date>
+                  <place>München</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Kritiker</occupation>
+               <note type="comment">Ögg teilt auch 307/52, 445/49, 800/67 (Rotte Korah) Bahr zu</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10815</idno></person>
+            <person xml:id="fk__p_54249">
+               <persName>Trebitsch, Siegfried</persName>
+               <birth>
+                  <date>1868-12-22</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1956-6-3</date>
+                  <place>Zürich</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Übersetzer</occupation>
+               <note type="comment">Eltern: Leopold Trebitsch (gest. 12.12.1906) und Malvine, geb. Singer (gest. 8.4.1918)</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_20796</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12968</idno></person>
+            <person xml:id="fk__p_50471">
+               <persName>Musiker</persName>
+            </person>
+            <person xml:id="fk__p_46358">
+               <persName>Wolf, Hugo</persName>
+               <birth>
+                  <date>1860-3-13</date>
+                  <place>Windischgraz</place>
+               </birth>
+               <death>
+                  <date>1903-2-22</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Komponist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/13152</idno></person>
+            </listPerson></back></text>
+</TEI>

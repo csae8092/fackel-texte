@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01011.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01010.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01012.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Genosse. (‚Arbeiter-Zeitung’), in: Fackel Heft 02, Nr. 042, 1900, S. 31-32</title>
+            <title type="iso-date">1900-05-01</title>
+            <title type="id">tid_01011</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">042</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-042_n0031.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/042,031</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Genosse. (‚Arbeiter-Zeitung’)</head>
+            <p ana="pr9684">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="n_7867" ref="#fk__p_44267">Genosse</rs>.</seg></seg></seg> Ich hatte und habe nicht Lust, meinen Lesern <seg type="insult">solch<lb/>
+formale Polemiken</seg> aufzutischen. Die Verdrehungen und falschen<lb/>
+Citate vom <date>20. Mai</date> habe ich am <date>29.</date> an Ort und Stelle aus der<lb/>
+Welt schaffen lassen. Was die ‚<rs type="paper" ana="werk_2762">Arbeiter-Zeitung</rs>‘ sonst vorgebracht,<lb/>
+lohnte nicht die Erwiderung. Dass der Vorwurf der <seg type="insult">Verpöbelung</seg> des<lb/>
+Tones berechtigt war, kann der Verfasser des Artikels nicht leugnen:<lb/>
+er <seg type="spc">bestätigt</seg> ihn neuerlich. Mit einem <seg type="insult"><choice><sic>Besenstil</sic><corr>Besenstiel</corr></choice></seg> kreuze ich meine<lb/>
+Klinge nicht. Zu Dank hat mich die ‚<rs type="paper" ana="werk_2763">Arbeiter-Zeitung</rs>‘ verpflichtet,<lb/>
+da sie <seg type="spc">einige</seg> der gegen sie vorgebrachten Behauptungen <seg type="spc">ohne</seg><lb/>
+jede Entstellung wiederholte. Wenn sie nachträglich versichert, dass<lb/>
+alles erlogen sei, so thut das dem guten Reproductionswerke weiter<lb/>
+keinen Eintrag. Die Leser der ‚<rs type="paper" ana="werk_2764">Arbeiter-Zeitung</rs>‘ erinnern sich ja<lb/>
+ganz genau der Notiz (<date>23. Februar</date>), wo <seg type="insult">Herrn <rs type="pers" ana="n_7868" ref="#fk__p_55546">Wilhelm Singer</rs>,</seg><lb/>
+</p>
+            <p ana="pr9684">
+<seg type="insult">Verwaltungsrath der <rs type="inst">Steyrermühl</rs></seg>, <seg type="spc">thatsächlich</seg> seine Pauschalienreinheit<lb/>
+ bestätigt war, gedenken wehmüthig der <seg type="insult"><RS pers="Alfred Dreyfus" globID="name_201418">Renneser Botschaften</RS></seg>,<lb/>
+die <seg type="spc">thatsächlich</seg> durch ihren <seg type="insult">synagogalen Tonfall</seg> ergreifend<lb/>
+wirkten, und wissen auch ganz gut, dass die Ereignisse auf dem<lb/>
+<rs type="event">Pariser Socialistencongresse</rs>, die hitzige Erörterung der <rs type="pers" ana="n_7869" ref="#fk__p_55531">Liebknecht’schen<lb/>
+Publicationen</rs> in der ganzen <seg type="spc">socialdemokratischen</seg> Presse Frankreichs<lb/>
+ und Deutschlands in der ‚<rs type="paper" ana="werk_2765">Arbeiter-Zeitung</rs>‘ (siehe <date>15. December<lb/>
+ 1899</date>) <seg type="spc">thatsächlich</seg> einen verdächtig schwachen Widerhall<lb/>
+fanden.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_55546">
+               <persName>Singer, Wilhelm (Vilmos, Wolwele)</persName>
+               <birth>
+                  <date>1847-11-26</date>
+                  <place>Bisenz/Mähren</place>
+               </birth>
+               <death>
+                  <date>1917-10-10</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <note type="comment">Ögg gibt 706/56 Sándor Singer</note>
+               <note type="comment">Ögg gibt Wilhelm Singer auch F 25/12</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_20141</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2202</idno></person>
+            <person xml:id="fk__p_55531">
+               <persName>Liebknecht, Wilhelm</persName>
+               <birth>
+                  <date>1826-03-29</date>
+                  <place>Gießen</place>
+               </birth>
+               <death>
+                  <date>1900-08-07</date>
+                  <place>Charlottenburg</place>
+               </death>
+               <occupation>Sozialist</occupation>
+               <occupation>Journalist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/51864</idno></person>
+            <person xml:id="fk__p_44267">
+               <persName>Genosse</persName>
+            </person>
+            </listPerson></back></text>
+</TEI>

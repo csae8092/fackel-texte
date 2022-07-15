@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_04662.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04661.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04663.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Eine Rundfrage), in: Fackel Heft 10, Nr. 251, 1908, S. 25-26</title>
+            <title type="iso-date">1908-04-28</title>
+            <title type="id">tid_04662</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">10</title><title type="heft">251</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-10-251_n0025.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/251,025</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Eine Rundfrage)</head>
+            <p ana="pr53650">
+<space/>Ein <rs type="perRef" ana="werk_16067">Blatt</rs> hat, weil die Dummheit immer noch<lb/>
+überboten werden kann, eine Rundfrage nach dem<lb/>
+</p>
+            <p ana="pr53650">
+schönsten Wiener Lied gestellt, und eine Sängerin<lb/>
+hat geantwortet, am liebsten sei ihr das Lied:<lb/>
+</p>
+            <lg>
+<l><foreign xml:lang="de-loc">Du guater Himmelvoder</foreign></l>
+<l><foreign xml:lang="de-loc">I brauch kein Paradies</foreign></l>
+<l><foreign xml:lang="de-loc">I bleib viel lieber doder</foreign></l>
+<l><foreign xml:lang="de-loc">Weil mei Wien für mi ’s Himmelreich is.</foreign></l>
+</lg>
+            <p ana="pr53654">
+<space/>Richtig, das ist’s! Ich habe lange <foreign xml:lang="de-loc">doder</foreign> gelebt,<lb/>
+aber die Formel für <seg type="insult">die Gräßlichkeit des <foreign xml:lang="de-loc">Doderseins</foreign></seg><lb/>
+nicht gefunden. Das ist’s also. Und ich frage ernsthaft<lb/>
+, ob man in einer Stadt leben kann, in der sich<lb/>
+»Vater« auf »da« reimt.<lb/>
+</p>
+            <p ana="pr53656">
+<rs type="pers" ana="n_42155" ref="#fk__p_47565"><AUCTOR><abbr>K. K.</abbr></AUCTOR></rs><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_47565">
+               <persName>Kraus, Karl</persName>
+               <birth>
+                  <date>1874-4-28</date>
+                  <place>Jicin, Böhmen</place>
+               </birth>
+               <death>
+                  <date>1936-6-12</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Publizist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11988</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,105 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_08161.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08160.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08162.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Auf Deutsch, in: Fackel Heft 20, Nr. 474, 1918, S. 27-28</title>
+            <title type="iso-date">1918-05-01</title>
+            <title type="id">tid_08161</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">20</title><title type="heft">474</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-20-474_n0027.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/474,027</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Auf Deutsch</head>
+            <p ana="pr108290">
+<space/><seg type="insult"><rs type="pers" ana="n_68259" ref="#fk__p_44646">Burian</rs>, der nüchterne <rs type="pers" ana="n_68260" ref="#fk__p_44646">Burian</rs></seg>, nicht zu verwechseln mit<lb/>
+<seg type="insult">dem gleichnamigen <RS pers="Karl Burian" globID="rs_809">Opernsänger</RS></seg>, der als <RS pers="Richard Wagner"><rs type="pers" ana="name_203114" ref="#fk__p_52212">Lohengrin</rs></RS> anläßlich<lb/>
+der <seg type="insult">Verabschiedung des Schwans <rs type="pers" ana="n_68261" ref="#fk__p_44656">Czernin</rs></seg> sich einen Rausch<lb/>
+angetrunken hat, darf sich schon am ersten Tage seiner Amtsführung<lb/>
+ nachsagen lassen, daß er deutscher fühlt als schreibt.<lb/>
+War es nach dem kaiserlichen Handschreiben <seg type="insult">dem <rs type="pers" ana="n_68262" ref="#fk__p_44656">Grafen<lb/>
+Czernin</rs></seg> vergönnt, »mit in <seg type="spc">vorderster Linie</seg>« die<lb/>
+ersten Friedensschlüsse vermitteln zu können, so will <seg type="insult">der <rs type="pers" ana="n_68263" ref="#fk__p_44646">Burian</rs></seg><lb/>
+den Weg nicht aus dem Auge verlieren, auf dem jener »grundlegende<lb/>
+ und wichtige <seg type="spc">Etappen</seg> zurücklegte«. Den <rs type="pers" ana="n_68264" ref="#fk__p_44683">Grafen<lb/>
+Hertling</rs> aber bat er, Hochdieselben möchten »das Vertrauen<lb/>
+und <seg type="spc">Entgegenkommen</seg>«, dessen sich sein Amtsvorgänger<lb/>
+»in so hohem Maße erfreuen durfte«, auch seiner Person<lb/>
+»<seg type="spc">entgegenbringen</seg>«. Denn <seg type="insult">»die Befestigung und der<lb/>
+<seg type="spc">Ausbau</seg>« des und so weiter</seg> »bildete seit jeher die Grundlage«<lb/>
+seines politischen Denkens und Fühlens, und er erachte es als<lb/>
+seine vornehmste Pflicht, auf dieser unverrückbaren Grundlage<lb/>
+auch fernerhin — also <seg type="insult">auf der Grundlage des Ausbaues</seg> — »<seg type="spc">weiterzubauen<lb/>
+</seg>«. So führt <seg type="insult">diese babylonische Verwirrung einer und<lb/>
+derselben Sprache</seg>, an der man jetzt ausschließlich <seg type="insult">das deutsche<lb/>
+Wesen</seg> erkennt, zu dem Zweifel, ob <seg type="insult">der grundlegende Ausbau<lb/>
+des Bündnisses</seg> wirklich identisch mit <seg type="insult">der grundlegenden Etappe<lb/>
+zum Frieden</seg> ist und ob uns selbst <seg type="insult">ein entgegengebrachtes Entgegenkommen<lb/>
+</seg> vor dem Schicksal bewahren wird, dem wir<lb/>
+entgegengehen.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_52212">
+               <persName>Wagner, Richard</persName>
+               <birth>
+                  <date>1813-5-22</date>
+                  <place>Leipzig</place>
+               </birth>
+               <death>
+                  <date>1883-2-13</date>
+                  <place>Venedig</place>
+               </death>
+               <occupation>Komponist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/13024</idno></person>
+            <person xml:id="fk__p_44683">
+               <persName>Hertling, Georg Friedrich Freiherr von</persName>
+               <birth>
+                  <date>1843-08-31</date>
+                  <place>Darmstadt</place>
+               </birth>
+               <death>
+                  <date>1919-01-04</date>
+                  <place>Ruhpolding</place>
+               </death>
+               <occupation>Philosoph</occupation>
+               <occupation>Politiker</occupation>
+               <note type="comment">1.11.1917 bis 30.9.1918 Reichskanzler</note>
+            </person>
+            <person xml:id="fk__p_44656">
+               <persName>Czernin-Chudenitz, Ottokar Theobald Graf </persName>
+               <birth>
+                  <date>1872-09-26</date>
+                  <place>Dimokur/Böhmen</place>
+               </birth>
+               <death>
+                  <date>1932-04-04</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <occupation>Diplomat</occupation>
+               <note type="comment"/>
+               <note type="comment">Sohn Theobald Peter Ottokar (Winař 29.4.1898 - Wien 14.5.1974)</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_14331</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/15184</idno></person>
+            <person xml:id="fk__p_44646">
+               <persName>Burián-Rajecz, Stefan Graf</persName>
+               <birth>
+                  <date>1851-1-16</date>
+                  <place>Stampfen/Preßburg</place>
+               </birth>
+               <death>
+                  <date>1922-10-20</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Diplomat</occupation>
+               <occupation>Politiker</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

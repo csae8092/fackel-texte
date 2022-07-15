@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07235.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07234.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07236.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ein sympathischer Planet!, in: Fackel Heft 18, Nr. 426, 1916, S. 73-73</title>
+            <title type="iso-date">1916-06-01</title>
+            <title type="id">tid_07235</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">18</title><title type="heft">426</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-18-426_n0073.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/426,073</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ein sympathischer Planet!</head>
+            <p ana="pr97932">
+<space/>»Vor dem <rs type="inst">Margaretener Bezirksrichter</rs> <rs type="pers" ana="n_65030" ref="#fk__p_41234"><abbr>Dr.</abbr> Immervoll</rs> stand gestern<lb/>
+der <seg type="spc">taubstumme</seg> Privatangestellte <rs type="pers" ana="n_65031" key="#fk__p_55378">Wenzel Haller</rs>, <choice><sic>weil.</sic><corr>weil</corr></choice> er auf der<lb/>
+Wiedener Hauptstraße eine große Scheibe eines Schuhgeschäftes, die<lb/>
+150 Kronen wert war, zertrümmert hatte. Der Angeklagte verständigte<lb/>
+sich mit dem Richter auf <seg type="spc">schriftlichem Wege</seg>. Er gab an, er sei von<lb/>
+Prag nach Wien gekommen. Hier sei ihm das Geld ausgegangen und er<lb/>
+sei <seg type="spc">hungrig und obdachlos</seg> gewesen. <seg type="spc">Um Kost und Unterstand<lb/>
+zu bekommen</seg>, <seg type="spc">habe er das Auslagefenster eingeschlagen</seg>.<lb/>
+Der Richter verurteilte den Angeklagten zu vierundzwanzig Stunden<lb/>
+Arrest. <seg type="spc">Als der Stumme das ihm vom Richter aufgeschriebene<lb/>
+Urteil gelesen hatte</seg>, <seg type="spc">schüttelte er betrübt den Kopf und<lb/>
+gab durch Zeichen zu verstehen</seg>, <seg type="spc">daß er eine viel höhere<lb/>
+Strafe erwartet habe</seg>.«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_41234">
+               <persName>Immervoll, Johann</persName>
+               <birth>
+                  <date>1879-1-21</date>
+                  <place>Hollerbach</place>
+               </birth>
+               <death>
+                  <date>1918-12-9</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Richter</occupation>
+               <note type="comment">4., Schönburgstr. 11</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

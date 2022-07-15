@@ -1,0 +1,43 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_09011.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09010.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09012.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Maximilian Harden), in: Fackel Heft 23, Nr. 577, 1921, S. 40-41</title>
+            <title type="iso-date">1921-11-01</title>
+            <title type="id">tid_09011</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">23</title><title type="heft">577</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-23-577_n0040.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/577,040</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Maximilian Harden)</head>
+            <p ana="pr120210">
+<space/><rs type="pers" ana="n_73781" ref="#fk__p_49994">Maximilian Harden</rs> ist sechzig Jahre alt geworden. Und<lb/>
+kann noch immer nicht Deutsch.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_49994">
+               <persName>Harden, Maximilian</persName>
+               <birth>
+                  <date>1861-10-20</date>
+                  <place>Berlin</place>
+               </birth>
+               <death>
+                  <date>1927-10-30</date>
+                  <place>Montana-Vermala, Schweiz</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Publizist</occupation>
+               <note type="comment">166/18 Johannes</note>
+               <note type="comment">Hrsg. der "Zukunft"</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11581</idno></person>
+            </listPerson></back></text>
+</TEI>

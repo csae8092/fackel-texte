@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_08920.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08919.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08921.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Klindworth-Scharwenka-Saal, 24. Januar, 7 Uhr:, in: Fackel Heft 22, Nr. 561, 1921, S. 80-80</title>
+            <title type="iso-date">1921-03-01</title>
+            <title type="id">tid_08920</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">22</title><title type="heft">561</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-22-561_n0080.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/561,080</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Klindworth-Scharwenka-Saal, 24. Januar, 7 Uhr:</head>
+            <p ana="pr118750">
+<space/><rs type="inst"><rs type="pers" ana="n2_6706" ref="#fk__p_58362"><rs type="pers" ana="n2_6707" ref="#fk__p_58880">Klindworth-Scharwenka-Saal</rs></rs></rs>, <date>24. Januar</date>, 7 Uhr:<lb/>
+</p>
+            <p ana="pr118751">
+<space/>I. <rs type="title">Vorwort</rs>.<FOOTNOTE0_START/>*) — <rs type="title"><rs type="pers"><seg type="spc">Pandora</seg></rs></rs>. Von <rs type="pers" ana="n_73111" ref="#fk__p_46960"><seg type="spc">Goethe</seg></rs>.<lb/>
+</p>
+            <p ana="pr118752">
+<space/>II. <rs type="title"><seg type="spc">Worte in Versen</seg></rs>: <rs type="title">Die Flamme der <rs type="pers">Epimeleia</rs></rs> / <rs type="title">Memoiren</rs> /<lb/>
+<rs type="title">Magie</rs> / <rs type="title">Der Anlaß</rs> / <rs type="title">Leben ohne Eitelkeit</rs> / <rs type="title">Bange Stunde</rs> / <rs type="title">Vor dem<lb/>
+Einschlafen</rs> / <rs type="title"><seg type="insult">Hypnagogische Gestalten</seg></rs> / <rs type="title">Jugend</rs> / <rs type="title">Traum</rs> / <rs type="title"><rs type="pers">Eros</rs> und der<lb/>
+Dichter</rs> / <rs type="title">Der tote Wald</rs> / <rs type="title">Die weiblichen Hilfskräfte</rs> / <rs type="title">Silvesterruf an die Welt</rs>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_58362">
+               <persName>Klindworth, Karl</persName>
+               <birth>
+                  <date>1830-9-25</date>
+                  <place>Hannover</place>
+               </birth>
+               <death>
+                  <date>1916-7-27</date>
+                  <place>Stolpe</place>
+               </death>
+               <occupation>Pianist</occupation>
+               <occupation>Komponist</occupation>
+            </person>
+            <person xml:id="fk__p_46960">
+               <persName>Goethe, Johann Wolfgang von</persName>
+               <birth>
+                  <date>1749-8-28</date>
+                  <place>Frankfurt am Main</place>
+               </birth>
+               <death>
+                  <date>1832-3-22</date>
+                  <place>Weimar</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">890/142f.</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11461</idno></person>
+            <person xml:id="fk__p_58880">
+               <persName>Scharwenka, Xaver</persName>
+               <birth>
+                  <date>1850-1-6</date>
+                  <place>Samter/Posen</place>
+               </birth>
+               <death>
+                  <date>1924-12-8</date>
+                  <place>Berlin</place>
+               </death>
+               <occupation>Komponist</occupation>
+               <occupation>Musikpädagoge</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12633</idno></person>
+            </listPerson></back></text>
+</TEI>

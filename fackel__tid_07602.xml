@@ -1,0 +1,47 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07602.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07601.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07603.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Hat ihn schon!, in: Fackel Heft 18, Nr. 445, 1234, S. 53-53</title>
+            <title type="iso-date">1234-01-01</title>
+            <title type="id">tid_07602</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">18</title><title type="heft">445</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-18-445_n0053.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/445,053</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Hat ihn schon!</head>
+            <p ana="pr102310">
+Wien, <date>21. Oktober</date>.<lb/>
+</p>
+            <p ana="pr102311">
+<space/><rs type="pers" ana="n_66184" ref="#fk__p_41326">Graf Stürgkh</rs> ist heute, von drei Schüssen getroffen, leblos hingesunken<lb/>
+. Wenn die Persönlichkeit des ermordeten Ministerpräsidenten<lb/>
+bis in die kleinsten <seg type="spc">Einzelheiten zerfasert</seg> und mit dem<lb/>
+letzten Reste <seg type="spc">ausgeschöpft wird</seg>, kann nichts gefunden werden,<lb/>
+was ein solches Ende hätte voraussehen lassen.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_41326">
+               <persName>Stürgkh, Karl Graf </persName>
+               <birth>
+                  <date>1859-10-30</date>
+                  <place>Graz</place>
+               </birth>
+               <death>
+                  <date>1916-10-21</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <note type="comment">1909-11 Unterr.min., 1911-16 Ministerpräsident</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

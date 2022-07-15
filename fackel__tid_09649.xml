@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_09649.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09648.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09650.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Mit einem Blick, in: Fackel Heft 25, Nr. 640, 1924, S. 13-13</title>
+            <title type="iso-date">1924-01-01</title>
+            <title type="id">tid_09649</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">25</title><title type="heft">640</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-25-640_n0013.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/640,013</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Mit einem Blick</head>
+            <p ana="pr129677">
+denn zwei wären für <seg type="insult">diesen schon ganz hoffnungslosen neuen<lb/>
+Journalismus</seg> zu viel:<lb/>
+<space/><lb/>
+</p>
+            <p ana="pr129680">
+Einer jener Aussprachefehler, wie<lb/>
+sie sich oft im Vokabular <seg type="insult">der<lb/>
+intelligenten Trotteln</seg> finden:<lb/>
+falsch, aber, weiß Gott, wie<lb/>
+gebildet!<lb/>
+</p>
+            <p ana="pr129683">
+<space/>Ich schielte hin: richtig, vor<lb/>
+einem der Weisen des Altertums<lb/>
+stand ein Glas Wasser.<lb/>
+</p>
+            <p ana="pr129684">
+<space/><seg type="symbol" subtype="3dots"/> Rasch besann ich mich auf<lb/>
+eine passende Antwort und erwiderte<lb/>
+ dem Tibetaner, daß jenes<lb/>
+Standbild den <rs type="pers" ana="n_79492" ref="#fk__p_38428">Aristoteles</rs> ehre,<lb/>
+der ja behauptet habe, daß<lb/>
+Wasser das Beste sei.<lb/>
+</p>
+            <p ana="pr129686">
+Vermutlich ehrt das Standbild (im <rs type="inst">Parlament</rs>) eher den<lb/>
+<rs type="pers" ana="n_79493" ref="#fk__p_38423">Aristides</rs> als den <rs type="pers" ana="n_79494" ref="#fk__p_38428">Aristoteles</rs>, der wieder mit <rs type="pers" ana="n_79495" ref="#fk__p_45873">Heraklit</rs> verwechselt<lb/>
+wird, welcher den von <rs type="pers" ana="n_79496" ref="#fk__p_38428">Aristoteles</rs> überlieferten Ausspruch getan<lb/>
+hat: »Alles fließt«, während der Ausspruch »Das Beste ist das<lb/>
+Wasser« weder von diesem noch von jenem ist, sondern von<lb/>
+<rs type="pers" ana="n_79497" ref="#fk__p_51485">Pindar</rs>, jedoch <seg type="insult">die »intelligenten Trotteln«</seg> richtig <seg type="insult">»intelligente<lb/>
+Trottel«</seg> und von mir sind. Aber im Wesentlichen stimmt es;<lb/>
+nämlich im letzten Punkt.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_51485">
+               <persName>Pindar</persName>
+               <birth>
+                  <date>522 BC</date>
+                  <place>Cynoscephalae/Böotien</place>
+               </birth>
+               <death>
+                  <date>443 BC</date>
+                  <place>Argos</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            </person>
+            <person xml:id="fk__p_45873">
+               <persName>Heraklit</persName>
+               <birth>
+                  <date>540/535 BC</date>
+               </birth>
+               <death>
+                  <date>483/475 BC</date>
+               </death>
+               <occupation>Philosoph</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/18133</idno></person>
+            <person xml:id="fk__p_38428">
+               <persName>Aristoteles</persName>
+               <birth>
+                  <date>384 BC</date>
+                  <place>Stageira/Makedonien</place>
+               </birth>
+               <death>
+                  <date>322 BC</date>
+                  <place>Chalkis/Euböa</place>
+               </death>
+               <occupation>Philosoph</occupation>
+            </person>
+            <person xml:id="fk__p_38423">
+               <persName>Aristides</persName>
+               <birth>
+                  <date>530 BC</date>
+               </birth>
+               <death>
+                  <date>468 BC</date>
+               </death>
+               <occupation>Feldherr</occupation>
+               <occupation>Politiker</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

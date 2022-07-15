@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02068.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02067.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02069.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">»Wieder Einer!«, in: Fackel Heft 03, Nr. 087, 1901, S. 28-29</title>
+            <title type="iso-date">1901-12-7</title>
+            <title type="id">tid_02068</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">03</title><title type="heft">087</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-03-087_n0028.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/087,028</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>»Wieder Einer!«</head>
+            <p ana="pr20245">
+<space/>Die ‚<seg ana="Arbeiter-Zeitung"/>‘ bereitete neulich ihren Lesern <seg type="insult">eine<lb/>
+sinnige Ueberraschung</seg>, indem sie die folgende Notiz brachte:<lb/>
+</p>
+            <p ana="pr20247">
+<space/>»<QUOTE rn="1" sourceID="FK-03-087_n0028_b"><seg type="spc">Vom schönen Sänger <rs type="pers" ana="n_17328" ref="#fk__p_52315">Rizzio</rs></seg>, dem ermordeten Geliebten<lb/>
+ der <rs type="pers" ana="n_17329" ref="#fk__p_48081">Königin Maria Stuart</rs>, sollen sich nach der ‚<rs type="paper" ana="werk_6682">Frankfurter<lb/>
+ Zeitung</rs>‘ im Archiv des Vaticans Briefe gefunden haben,<lb/>
+die erweisen, dass <rs type="pers" ana="n_17330" ref="#fk__p_52315">Rizzio</rs> kein Sänger von Beruf gewesen sei.<lb/>
+Vielmehr war er ein <seg type="spc">Priester</seg>, der die Verkleidung des fahrenden<lb/>
+ Sängersmannes nur angenommen habe, um der schottischen<lb/>
+Königin in Sicherheit die Messe lesen zu können.</QUOTE>«<lb/>
+</p>
+            <p ana="pr20249">
+<space/><seg type="insult">Also — »wieder Einer«!</seg><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_48081">
+               <persName>Maria Stuart, Königin von Schottland</persName>
+               <birth>
+                  <date>1542-12-08</date>
+                  <place>Linlithgow</place>
+               </birth>
+               <death>
+                  <date>1586-02-08</date>
+                  <place>Fotheringhay</place>
+               </death>
+            </person>
+            <person xml:id="fk__p_52315">
+               <persName>Rizzio, David</persName>
+               <birth>
+                  <date>1533?</date>
+                  <place>Pancalieri bei Turin</place>
+               </birth>
+               <death>
+                  <date>1566-3-9</date>
+                  <place>Edinburgh</place>
+               </death>
+               <occupation>Minnesänger</occupation>
+               <note type="comment">Günstling Maria Stuarts, ermordet im Palace of Holyroodhouse Edinburgh</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

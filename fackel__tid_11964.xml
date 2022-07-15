@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_11964.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11963.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11965.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Weit gebracht, in: Fackel Heft 33, Nr. 864, 1931, S. 28-28</title>
+            <title type="iso-date">1931-12-01</title>
+            <title type="id">tid_11964</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">33</title><title type="heft">864</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-33-864_n0028.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/864,028</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Weit gebracht</head>
+            <p ana="pr173245">
+<space/>Aus den <seg ana="‚Hamburger Nachrichten‘"/>:<lb/>
+</p>
+            <p ana="pr173247">
+<space/><OMED>— —</OMED> Das neue Stück, an dem <rs type="pers" ana="n_103470" ref="#fk__p_39764">Zuckmayer</rs> arbeitet, »<rs type="title"><rs type="pers">Eduard VII.</rs></rs>«,<lb/>
+behandelt die historische Gestalt des englischen Königs und soll eine<lb/>
+Rolle für <rs type="pers" ana="n_103471" ref="#fk__p_55406">Karl Kraus</rs> oder <rs type="pers" ana="n_103472" ref="#fk__p_42624">Emil Jannings</rs> werden.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_42624">
+               <persName>Jannings, Emil</persName>
+               <birth>
+                  <date>1884-7-23</date>
+                  <place>Rorschach am Bodensee</place>
+               </birth>
+               <death>
+                  <date>1950-1-2</date>
+                  <place>Strobl am Wolfgangsee</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11816</idno></person>
+            <person xml:id="fk__p_39764">
+               <persName>Zuckmayer, Carl</persName>
+               <birth>
+                  <date>1896-12-27</date>
+                  <place>Nackenheim/Rhein</place>
+               </birth>
+               <death>
+                  <date>1977-01-18</date>
+                  <place>Visp/Schweiz</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10692</idno></person>
+            <person xml:id="fk__p_55406">
+               <persName>Krauß, Werner</persName>
+               <birth>
+                  <date>1884-6-23</date>
+                  <place>Gestungshausen, Bayern</place>
+               </birth>
+               <death>
+                  <date>1959-10-20</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

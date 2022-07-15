@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_11846.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11845.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11847.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Woran arbeiten Sie?, in: Fackel Heft 33, Nr. 857, 1931, S. 31-31</title>
+            <title type="iso-date">1931-08-01</title>
+            <title type="id">tid_11846</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">33</title><title type="heft">857</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-33-857_n0031.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/857,031</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Woran arbeiten Sie?</head>
+            <p ana="pr171543">
+Berlin, <date>9. Juni</date>.<lb/>
+</p>
+            <p ana="pr171544">
+<space/>In einer Sitzung der physikalisch-mathematischen Klasse der<lb/>
+<rs type="inst">preußischen Akademie der Wissenschaften</rs> überreichte Professor<lb/>
+<rs type="pers" ana="n_102394" ref="#fk__p_37911">Albert Einstein</rs> eine Arbeit, betitelt: »<rs type="title">Systematische Untersuchung<lb/>
+über kompatible Feldgleichungen, welche in einem <rs type="pers" ana="n2_9167" ref="#fk__p_52236">Riemannschen<lb/>
+Raum</rs> mit Fernparallelismus gesetzt werden können</rs>.« Es wird eine<lb/>
+allgemeine Methode gegeben und durchgeführt, welche die gewissen<lb/>
+entsprechenden kompatiblen Feldgleichungen für einen <rs type="pers" ana="n_102395" ref="#fk__p_52236">Riemann-Raum</rs><lb/>
+mit Fernparallelismus systematisch abzuleiten gestattet. Es ergeben<lb/>
+sich so vier verschiedene Gleichungstypen, von denen zwei die Feldgleichungen<lb/>
+ der Gravitation in ihrer bisherigen Form als Sonderfall<lb/>
+enthalten.<lb/>
+</p>
+            <p ana="pr171546">
+Schön, aber welchen Leser des <rs type="paper" ana="werk_32085">Neuen Wiener Journals</rs> hätte nicht<lb/>
+doch mehr interessiert, wo er den Sommer verbringt!<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_52236">
+               <persName>Riemann, Bernhard</persName>
+               <birth>
+                  <date>1826-09-17</date>
+                  <place>Breselenz/Hannover</place>
+               </birth>
+               <death>
+                  <date>1866-07-20</date>
+                  <place>Selasca/Lago Maggiore</place>
+               </death>
+               <occupation>Mathematiker</occupation>
+            </person>
+            <person xml:id="fk__p_37911">
+               <persName>Einstein, Albert</persName>
+               <birth>
+                  <date>1879-3-14</date>
+                  <place>Ulm</place>
+               </birth>
+               <death>
+                  <date>1955-4-18</date>
+                  <place>Princeton</place>
+               </death>
+               <occupation>Physiker</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11237</idno></person>
+            </listPerson></back></text>
+</TEI>

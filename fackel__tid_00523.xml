@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00523.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00522.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00524.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Milans Sohn.), in: Fackel Heft 01, Nr. 022, 1899, S. 1-2</title>
+            <title type="iso-date">1899-11-01</title>
+            <title type="id">tid_00523</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">022</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-022_n0001.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/022,001</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Milans Sohn.)</head>
+            <p ana="pr4928">
+<space/><seg type="insult"><inciptit><rs type="pers" ana="n_3709" ref="#fk__p_48031">Milans</rs></inciptit> Sohn</seg> hat unserer Stadt den Rücken<lb/>
+gekehrt, da er merkte, dass die Wiener ihn in<lb/>
+derselben Stellung empfangen hatten. Und doch<lb/>
+waren Ovationen zu verzeichnen. Vor dem <rs type="inst">Hotel<lb/>
+Impérial</rs> drängte sich <seg type="insult">eine festlich gestimmte Menge,<lb/>
+bestehend aus einem Redacteur der ‚<rs type="paper" ana="werk_1267">Neuen Freien<lb/>
+Presse</rs>‘ und etwa noch dem <rs type="pers" ana="n_3710" ref="#fk__p_44673">Grafen Goluchowski</rs></seg>. Die<lb/>
+beiden reichten einander unaufhörlich die Thürklinke<lb/>
+des Empfangszimmers, und man gewann den Eindruck<lb/>
+eines förmlichen Gedränges. Einen Moment konnte man<lb/>
+<seg type="insult">Schmock, Minister und König in traulichem Verein</seg><lb/>
+beobachten. <rs type="pers" ana="n_3711" ref="#fk__p_44673">Graf Goluchowski</rs> kam verstört und deutete<lb/>
+an, dass der Kaiser von Oesterreich die <seg type="insult">Zumuthung</seg>,<lb/>
+<seg type="insult"><rs type="pers" ana="n_3712" ref="#fk__p_48031">Milans</rs> Sohn</seg> bei sich zu empfangen, lebhaft zurückgewiesen<lb/>
+ habe; <seg type="insult">Schmock</seg> machte sich erbötig, diese<lb/>
+Nachricht im <rs type="paperRef" ana="werk_1268">Abendblatte</rs> zu dementieren und den<lb/>
+Besuch <rs type="pers" ana="n_3713" ref="#fk__p_56231">König Alexanders</rs> am Wiener Hofe »für<lb/>
+dessen Rückreise« aufzuschieben. <seg type="insult"><rs type="pers" ana="n_3714" ref="#fk__p_48031">Milans</rs> Sohn</seg> wehrte<lb/>
+diesen Trost ab und schlich bekümmert ins Nebenzimmer<lb/>
+, um einige <seg type="insult">Blutspuren</seg> von seinen Fingern zu<lb/>
+waschen. Der Redacteur hielt ihn zurück und verwies<lb/>
+auf die <seg type="insult">Tintenspuren</seg>, die er sich aus dem gleichen<lb/>
+Anlasse zugezogen hätte. Und so ließ eine Hand die<lb/>
+andere ungewaschen. <seg type="insult"><rs type="pers" ana="n_3715" ref="#fk__p_48031">Milans</rs> Sohn</seg> aber richtete sich<lb/>
+auf und sagte: »Serbien steht heute auf dem besten<lb/>
+Fuße mit Oesterreich-Ungarn, und ich will, dass<lb/>
+es so bleibe.«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_56231">
+               <persName>Alexander I. Obrenović, König von Serbien</persName>
+               <birth>
+                  <date>1876-8-14</date>
+                  <place>Belgrad</place>
+               </birth>
+               <death>
+                  <date>1903-6-11</date>
+                  <place>Belgrad</place>
+               </death>
+               <occupation>König</occupation>
+               <note type="comment">seit Abdankung seines Vaters 1889</note>
+            </person>
+            <person xml:id="fk__p_48031">
+               <persName>Milan I. Obrenović, König von Serbien</persName>
+               <birth>
+                  <date>1854-8-22</date>
+                  <place>Jassy</place>
+               </birth>
+               <death>
+                  <date>1901-2-11</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>König</occupation>
+            </person>
+            <person xml:id="fk__p_44673">
+               <persName>Goluchowski, Agenor Graf</persName>
+               <birth>
+                  <date>1849-03-25</date>
+                  <place>Lemberg</place>
+               </birth>
+               <death>
+                  <date>1921-03-28</date>
+                  <place>Lemberg</place>
+               </death>
+               <occupation>Diplomat</occupation>
+               <occupation>Politiker</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

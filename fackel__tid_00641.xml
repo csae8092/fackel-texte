@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00641.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00640.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00642.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Die Correspondenten der ‚Neuen Freien Presse‘.), in: Fackel Heft 01, Nr. 026, 1899, S. 28-28</title>
+            <title type="iso-date">1899-12-01</title>
+            <title type="id">tid_00641</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">026</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-026_n0028.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/026,028</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Die Correspondenten der ‚Neuen Freien Presse‘.)</head>
+            <p ana="pr6005">
+<space/><seg type="insult"><inciptit>Der</inciptit> Pariser Correspondent der ‚<rs type="paper" ana="werk_1563">Neuen Freien Presse</rs>‘</seg> kann<lb/>
+bekanntlich nicht Französisch. Nun stellt es sich aber heraus, dass auch<lb/>
+<seg type="insult">der römische Correspondent</seg> nicht Italienisch kann. Nur zur Uebersetzung<lb/>
+ seines Namens <seg type="spc"><rs type="pers" ana="n_4530" ref="#fk__p_57279">Blum</rs></seg> in <seg type="insult">»<seg type="spc"><rs type="pers" ana="n_4531" ref="#fk__p_57279">de Fiori</rs></seg>«</seg> haben seine Sprachkenntnisse<lb/>
+ knapp hingereicht. Im <rs type="paperRef" ana="werk_1564">Abendblatt</rs> vom <date>7. December</date> schreibt<lb/>
+<seg type="insult">der Herr</seg> — in einem Berichte über den Process gegen die Maffia —<lb/>
+den Satz: »Und zwei Jahre darauf <seg type="symbol" subtype="4dots"/> wurde <rs type="pers" ana="n_4532" ref="#fk__p_50716">Notarbartolo</rs>, während<lb/>
+die Staatsregierung ihn wieder an die Spitze der vielgeprüften <rs type="inst">Zettelbank<lb/>
+</rs> berufen, in grausamer Weise <seg type="spc">unterdrückt</seg>.« Die unsinnige<lb/>
+Verwendung der Conjunction »während« und des Wortes »unterdrückt<lb/>
+« statt »ermordet« könnte den Leser auf die Vermuthung<lb/>
+bringen, dass <seg type="insult">Herr <rs type="pers" ana="n_4533" ref="#fk__p_57279">Blum</rs></seg> nicht Deutsch kann, — eine naheliegende<lb/>
+Präsumption bei einem <seg type="insult">Redacteur der ‚<rs type="paper" ana="werk_1565">Neuen Freien Presse</rs>‘</seg>. Aber<lb/>
+diese Vermuthung ist nur theilweise richtig, und die Sache hängt<lb/>
+wirklich mit der Unkenntnis des Italienischen zusammen. Die <seg type="insult">Originalberichte<lb/>
+ des Herrn <rs type="pers" ana="n_4534" ref="#fk__p_57279">Blum</rs></seg> sind nämlich Uebersetzungen von Notizen<lb/>
+der römischen Zeitungen. Da stand nun das Wort: <foreign xml:lang="it"><seg type="spc">soppresso</seg></foreign>;<lb/>
+und da <seg type="insult">Herr <rs type="pers" ana="n_4535" ref="#fk__p_57279">Blum</rs></seg> im Taschenlexikon dafür lediglich die Uebersetzung<lb/>
+ <seg type="spc">unterdrückt</seg> fand, kam ihm nicht in den Sinn, dass es<lb/>
+vielleicht auch »ermordet« heißen könne. — So steht es mit <seg type="insult">den Correspondenten<lb/>
+ in Frankreich und Italien</seg>. Und in London weilt jetzt<lb/>
+<seg type="insult">Herr <rs type="pers" ana="n_4536" ref="#fk__p_50377">Handl</rs></seg>, der zwar Englisch versteht, aber sonst nichts, und der<lb/>
+ein paar frozzelnde Aeußerungen, mit denen der Gouverneur der<lb/>
+<rs type="inst">Bank von England</rs> <seg type="insult">den lästigen Frager</seg> abwies, zu einem ernsthaften<lb/>
+ Berichte über die Absichten der Bank verarbeitet.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_50716">
+               <persName>Notarbartolo di San Giovanni, Emanuele Marchese</persName>
+               <birth>
+                  <date>1834-2-23</date>
+                  <place>Palermo</place>
+               </birth>
+               <death>
+                  <date>1893-2-1</date>
+                  <place>Trabia</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <occupation>Bankdirektor</occupation>
+            </person>
+            <person xml:id="fk__p_50377">
+               <persName>Handl, Moriz</persName>
+               <birth>
+                  <date>1867-10-31</date>
+                  <place>Wien</place>
+               </birth>
+               <occupation>Journalist</occupation>
+            </person>
+            <person xml:id="fk__p_57279">
+               <persName>Blum, Robert</persName>
+               <occupation>Journalist</occupation>
+               <note type="comment">Robert Blum *Wien 1881, Sohn von Julius und Sara Josefine Jordan ???</note>
+               <note type="comment">NFP ital. Korrespondent 1899-ca. 1908</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

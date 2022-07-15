@@ -1,0 +1,41 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00370.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00369.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00371.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Ein Witz des Herrn Kanner), in: Fackel Heft 01, Nr. 015, 1899, S. 30-30</title>
+            <title type="iso-date">1899-08-01</title>
+            <title type="id">tid_00370</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">015</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-015_n0030.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/015,030</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Ein Witz des Herrn Kanner)</head>
+            <p ana="pr3423">
+<space/><seg type="sidehead">[<seg type="insult"><seg type="spc">Ein Witz des Herrn <rs type="pers" ana="n_2463" ref="#fk__p_47448">Kanner</rs></seg></seg>.]</seg> »Gegen die Zuckersteuer<lb/>
+protestieren diejenigen Parteien nicht, welche von der Regierung ihre<lb/>
+<seg type="spc">Zuckerl</seg> schon erhalten haben.«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_47448">
+               <persName>Kanner, Heinrich</persName>
+               <birth>
+                  <date>1864-11-9</date>
+                  <place>Galatz, Rumänien</place>
+               </birth>
+               <death>
+                  <date>1930-2-15</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Publizist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11867</idno></person>
+            </listPerson></back></text>
+</TEI>

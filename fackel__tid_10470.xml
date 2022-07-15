@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_10470.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10469.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10471.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">11. März:, in: Fackel Heft 27, Nr. 717, 1926, S. 107-107</title>
+            <title type="iso-date">1926-04-01</title>
+            <title type="id">tid_10470</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">27</title><title type="heft">717</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-27-717_n0107.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/717,107</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>11. März:</head>
+            <p ana="pr144155_a">
+<space/><date>11. März</date>:<lb/>
+</p>
+            <p ana="pr144156">
+<space/>Zum ersten Male:<lb/>
+</p>
+            <p ana="pr144157">
+<space/><rs type="pers" ana="n_87688" ref="#fk__p_55589"><seg type="spc">Shakespeare</seg></rs>: <rs type="title"><rs type="pers"><seg type="spc">Hamlet</seg></rs></rs>, nach der Übersetzung von <rs type="pers" ana="n_87689" ref="#fk__p_38587"><abbr>A. W.</abbr><lb/>
+von Schlegel</rs> vom Vortragenden bearbeitet.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_55589">
+               <persName>Shakespeare, William</persName>
+               <birth>
+                  <date>1564-4-23?</date>
+                  <place>Stratford-upon-Avon</place>
+               </birth>
+               <death>
+                  <date>1616-4-23</date>
+                  <place>Stratford-upon-Avon</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2412</idno></person>
+            <person xml:id="fk__p_38587">
+               <persName>Schlegel, August Wilhelm von</persName>
+               <birth>
+                  <date>1767-9-5</date>
+                  <place>Hannover</place>
+               </birth>
+               <death>
+                  <date>1845-5-12</date>
+                  <place>Bonn</place>
+               </death>
+               <occupation>Literarhistoriker</occupation>
+               <occupation>Übersetzer</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/24212</idno></person>
+            </listPerson></back></text>
+</TEI>

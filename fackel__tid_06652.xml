@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06652.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06651.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06653.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Hugo Salus), in: Fackel Heft 15, Nr. 395, 1914, S. 28-28</title>
+            <title type="iso-date">1914-01-01</title>
+            <title type="id">tid_06652</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">15</title><title type="heft">395</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-15-395_n0028.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/395,028</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Hugo Salus)</head>
+            <p ana="pr89934">
+<space/>Wer vorgestern aufgeregt von den erhitzten politischen Debatten<lb/>
+des Tages am Abend den kleinen stillen Saal des <rs type="inst">Zoo-Restaurants</rs> betrat,<lb/>
+wo <rs type="pers" ana="n_61504" ref="#fk__p_46342">Hugo <seg type="spc">Salus</seg></rs> auf Einladung des Vereines der hiesigen Österreicher<lb/>
+aus seinen Werken vorlas, dem mußte die milde, wohltuende Abgeklärtheit,<lb/>
+die von der Persönlichkeit dieses Poeten ausgeht, ganz besonders zu<lb/>
+Herzen sprechen — — — Versonnenheit — — — Ein Mann, der<lb/>
+beim Anblick des Ladenschildes eines ihm gegenüberwohnenden Schneiders<lb/>
+den ganzen Zauber des <choice><sic>Landes. Italia</sic><corr>Landes Italia</corr></choice> vor seinen Augen erstehen lassen<lb/>
+kann, nur weil der Schneider <rs type="pers" ana="n_61505" key="#fk__p_51105">Paolo Garabella</rs> heißt: dem <seg type="spc">muß</seg> man<lb/>
+gut sein — — — Weniger groß war der Eindruck seiner Offiziersballaden<lb/>
+, die er nachher vortrug —<lb/>
+</p>
+            <p ana="pr89936">
+<space/>Und grad die sind die schönsten.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46342">
+               <persName>Salus, Hugo</persName>
+               <birth>
+                  <date>1866-8-3</date>
+                  <place>Böhmisch-Leipa</place>
+               </birth>
+               <death>
+                  <date>1929-2-4</date>
+                  <place>Prag</place>
+               </death>
+               <occupation>Arzt</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12611</idno></person>
+            </listPerson></back></text>
+</TEI>

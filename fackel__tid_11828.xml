@@ -1,0 +1,47 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_11828.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11827.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11829.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Wer ist das?, in: Fackel Heft 33, Nr. 857, 1931, S. 18-18</title>
+            <title type="iso-date">1931-08-01</title>
+            <title type="id">tid_11828</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">33</title><title type="heft">857</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-33-857_n0018.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/857,018</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Wer ist das?</head>
+            <p ana="pr171335">
+<space/>Er kann so und er kann auch anders; seine Persönlichkeit gibt<lb/>
+keine Gewähr für den Kurs seiner Regierung.<lb/>
+</p>
+            <p ana="pr171337">
+Weil er es nämlich eine Zeit lang mit der <rs type="inst">Heimwehr</rs> hielt. Aber<lb/>
+gemeint ist Herr <rs type="pers" ana="n_102335" ref="#fk__p_40826">Buresch</rs>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_40826">
+               <persName>Buresch, Karl</persName>
+               <birth>
+                  <date>1878-10-12</date>
+                  <place>Großenzersdorf/Niederösterreich</place>
+               </birth>
+               <death>
+                  <date>1936-9-16</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <note type="comment">Landseshauptmann NÖ, Juni 1931 bis Mai 1932 BK, 1933-35 Finanzminister</note>
+               <note type="comment">Ögg teilt ihm auch 864/70 zu, wohl zu Unrecht</note>
+               <note type="comment">LH Niederöst., Bundeskanzler 1931</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

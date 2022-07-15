@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07676.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07675.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07677.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Was man in ihren Kreisen ausdrücklich versichern muß, in: Fackel Heft 18, Nr. 445, 1234, S. 120-120</title>
+            <title type="iso-date">1234-01-01</title>
+            <title type="id">tid_07676</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">18</title><title type="heft">445</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-18-445_n0120.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/445,120</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Was man in ihren Kreisen ausdrücklich versichern muß</head>
+            <p ana="pr103118">
+<space/>Wir erhalten folgende Zuschrift:<lb/>
+</p>
+            <p ana="pr103120">
+»Wien am <date>24. Oktober 1916</date>.<lb/>
+An die geehrte Redaktion der <seg ana="‚Neuen Freien Presse‘"/> 1. Bezirk Fichtegasse 11.<lb/>
+</p>
+            <p ana="pr103121">
+<space/>Für die Übersendung des Betrages von 5000 <abbr>K.</abbr>, welcher Ihnen<lb/>
+zugunsten der Aktion »<rs type="inst">Frühstück für die Schulkinder</rs>« aus verschiedenen<lb/>
+Spenden zugekommen ist, beehre ich mich, meinen verbindlichsten Dank<lb/>
+<seg type="spc">mit dem Bemerken</seg> auszudrücken, <seg type="spc">daß der Betrag der<lb/>
+widmungsmäßigen Verwendung zugeführt werden<lb/>
+wird</seg>.<lb/>
+</p>
+            <p ana="pr103122">
+<space/>Mit dem Ausdrucke der vorzüglichsten Hochachtung zeichnet<lb/>
+</p>
+            <p ana="pr103123">
+<rs type="pers" ana="n_66502" ref="#fk__p_42017"><AUCTOR>Weißkirchner</AUCTOR></rs>.«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_42017">
+               <persName>Weiskirchner, Richard</persName>
+               <birth>
+                  <date>1861-3-24</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1926-4-30</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <note type="comment">1912-19 Wr. Bürgermeister</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/13079</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,36 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07925.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07924.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07926.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Aus dem Fenriswolff-Büro, in: Fackel Heft 19, Nr. 462, 1917, S. 42-42</title>
+            <title type="iso-date">1917-10-01</title>
+            <title type="id">tid_07925</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">19</title><title type="heft">462</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-19-462_n0042.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/462,042</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Aus dem Fenriswolff-Büro</head>
+            <p ana="pr105892">
+<space/>Berlin, <date>11. Juli</date>. (<rs type="inst"><rs type="pers" ana="n2_5986" ref="#fk__p_59343">Wolff</rs></rs>.)<lb/>
+</p>
+            <p ana="pr105894">
+<space/>Die Evakuierung der <seg type="insult">Festung London</seg> ist demnach <seg type="insult">ein<lb/>
+Gebot der Menschlichkeit</seg>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_59343">
+               <persName>Wolff'sches Telegraphisches Bureau</persName>
+               <note type="comment">Nachrichten-Agentur</note>
+               <note type="comment">Gründer Bernhard Wolff (Berlin 3.3.1811-ebd. 11.5.1879), verk. das Büro 1864</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

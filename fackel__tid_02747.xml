@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02747.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02746.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02748.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Dialektforscher. (Naturlaute), in: Fackel Heft 04, Nr. 120, 1902, S. 34-34</title>
+            <title type="iso-date">1902-11-8</title>
+            <title type="id">tid_02747</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">04</title><title type="heft">120</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-04-120_n0034.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/120,034</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Dialektforscher. (Naturlaute)</head>
+            <p ana="pr26892">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="name_201802" ref="#fk__p_40425">Dialektforscher</rs>.</seg></seg> »<seg type="spc">Also gar nichts soll sein</seg>?« ließ neulich<lb/>
+<seg type="insult">Herr <rs type="pers" ana="n_23199" ref="#fk__p_52589">Lothar-Thomas</rs></seg> die <rs type="pers" ana="n_23200" ref="#fk__p_49698">Geistinger</rs> fragen. <seg type="insult">Der Leitartikler des ‚<rs type="paper" ana="werk_9454">Neuen<lb/>
+Wiener Tagblatt</rs>‘</seg> ließ den <rs type="pers" ana="n_23201" ref="#fk__p_53357">Sir Horace Rumbold</rs> fragen: »<seg type="spc">Wie denn<lb/>
+stehen wir heute thatsächlich</seg> mit den Großmächten des<lb/>
+Continents?« »<seg type="spc">Woso</seg>?« fragte <seg type="insult">der Sportredacteur des ‚<rs type="paper" ana="werk_9455">Neuen Wiener<lb/>
+Tagblatt</rs>‘</seg>, als er von übertriebenen Gerüchten über Automobilunfälle erfuhr.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_40425">
+               <persName>Dialektforscher</persName>
+            </person>
+            <person xml:id="fk__p_52589">
+               <persName>Lothar, Rudolph</persName>
+               <birth>
+                  <date>1865-2-23</date>
+                  <place>Pest</place>
+               </birth>
+               <death>
+                  <date>1943-10-2</date>
+                  <place>Budapest</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Kritiker</occupation>
+               <note type="comment">743/107 Hans Müller ist offenbar für Thomas reserviert</note>
+               <note type="comment">Die Metternich-Pastete. Ein appetitliches Lustspiel in 3 Gängen. Leipzig, 1917. 96 S</note>
+               <note type="comment">fordert einen Offenbach-Querschnitt (F 845/14, 857/114)</note>
+            </person>
+            <person xml:id="fk__p_49698">
+               <persName>Geistinger, Marie</persName>
+               <birth>
+                  <date>1836-07-26</date>
+                  <place>Graz</place>
+               </birth>
+               <death>
+                  <date>1903-09-29</date>
+                  <place>Klagenfurt</place>
+               </death>
+               <occupation>Operettensängerin</occupation>
+            </person>
+            <person xml:id="fk__p_53357">
+               <persName>Rumbold, Sir Horace George Montague Baronet</persName>
+               <birth>
+                  <date>1869-2-5</date>
+               </birth>
+               <death>
+                  <date>1941-5-24</date>
+                  <place>Tisbury/Wiltshire</place>
+               </death>
+               <occupation>Diplomat</occupation>
+               <note type="comment">brit. Gesandter in Berlin</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

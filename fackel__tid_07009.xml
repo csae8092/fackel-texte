@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07009.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07008.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07010.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Aus einem Meldezettel, in: Fackel Heft 17, Nr. 413, 1915, S. 88-88</title>
+            <title type="iso-date">1915-12-01</title>
+            <title type="id">tid_07009</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">17</title><title type="heft">413</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-17-413_n0088.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/413,088</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Aus einem Meldezettel</head>
+            <p ana="pr95096">
+<space/>» <seg type="symbol" subtype="4dots"/> Herrn <rs type="pers" ana="n_64030" ref="#fk__p_49914">Devrient</rs> als Lesekünstler ist eine nicht häufige,<lb/>
+überaus fesselnde Gabe eigen: er läßt im Vortragssaale das schauspielerische<lb/>
+Element selbst mit Verzicht auf rhetorische Überraschungen zurücktreten,<lb/>
+ohne darum die scharf <seg type="spc">geprägte</seg> Eigenart seiner mimischen Kunst zu<lb/>
+verleugnen <seg type="symbol" subtype="4dots"/> Man darf die Schwierigkeit der Aufgabe nicht verkennen,<lb/>
+<rs type="pers" ana="n_64031" ref="#fk__p_43876">Schillers</rs> »<rs type="title">Handschuh</rs>« und »<rs type="title">Das verschleierte Bild zu Sais</rs>« oder gar<lb/>
+»<rs type="title">Des Sängers Fluch</rs>« dergestalt vor uns zu <seg type="spc">prägen</seg>, daß man Schulerinnerungen<lb/>
+ vergißt und eine eben geschaffene Dichtung zu vernehmen<lb/>
+meint <seg type="symbol" subtype="4dots"/> Auch wußte ihm das Publikum warmen Dank dafür, daß<lb/>
+er es mit jüngeren Poeten, besonders <rs type="pers" ana="n_64032" ref="#fk__p_42479">Georg Terramares</rs> noch ungedruckten<lb/>
+»<rs type="title">Wiener Sonetten</rs>« bekannt machte <seg type="symbol" subtype="4dots"/> Innigkeit des Empfindens ist<lb/>
+hier mit Kraft der <seg type="spc">Prägung</seg>, heimatliche Farbe mit Melodie vereint<lb/>
+und zu einem reizvollen Ganzen gerundet <seg type="symbol" subtype="4dots"/>«<lb/>
+</p>
+            <p ana="pr95098">
+<space/><seg type="insult">Die heimatliche Farbe</seg>: Referent muß ein <seg type="insult">Präger</seg> sein.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_42479">
+               <persName>Eisler-Terramare, Georg von</persName>
+               <birth>
+                  <date>1889-12-2</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1948-4-4</date>
+                  <place>la Paz/Bolivien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Regisseur</occupation>
+               <occupation>Theaterleiter</occupation>
+            </person>
+            <person xml:id="fk__p_43876">
+               <persName>Schiller, Friedrich von</persName>
+               <birth>
+                  <date>1759-11-10</date>
+                  <place>Marbach am Neckar</place>
+               </birth>
+               <death>
+                  <date>1805-5-9</date>
+                  <place>Weimar</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Mortimer 363/9, 679/69, 912/7 und 912/58 ist von Ögg Shakespeare zugeordnet</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12654</idno></person>
+            <person xml:id="fk__p_49914">
+               <persName>Devrient, Max</persName>
+               <birth>
+                  <date>1858-12-12</date>
+                  <place>Hannover</place>
+               </birth>
+               <death>
+                  <date>1929-6-13</date>
+                  <place>Chur</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <occupation>Regisseur</occupation>
+               <note type="comment">1882-1929 Burgth., Ehrenmitglied</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2446</idno></person>
+            </listPerson></back></text>
+</TEI>

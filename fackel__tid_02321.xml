@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02321.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02320.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02322.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Leser. (Ein Missverständnis), in: Fackel Heft 03, Nr. 098, 1902, S. 21-22</title>
+            <title type="iso-date">1902-03-27</title>
+            <title type="id">tid_02321</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">03</title><title type="heft">098</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-03-098_n0021.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/098,021</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Leser. (Ein Missverständnis)</head>
+            <p ana="pr22583">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_19673" ref="#fk__p_48877">Leser</rs>.</seg></seg> Ihre Anfrage erledige ich mit dem Ersuchen, die Stelle<lb/>
+noch einmal zu lesen. Sie werden dann unschwer erkennen, dass mich<lb/>
+nicht die Absicht, dem Professor <rs type="pers" ana="n_19674" ref="#fk__p_41557">Kaposi</rs> »höhnisch seinen früheren<lb/>
+Namen ins Grab nachzurufen«, geleitet hat, sondern der gute Wille, für<lb/>
+<seg type="insult">das himmelstürmende Pathos der ‚<rs type="paper" ana="werk_7480">Neuen Freien Presse</rs>‘</seg>, das ja mit der<lb/>
+sachlichen Anerkennung wissenschaftlicher Tüchtigkeit nichts zu thun<lb/>
+haben kann, eine plausible Erklärung zu geben. Ich missachte nicht,<lb/>
+aber die ‚<rs type="paper" ana="werk_7481">Neue Freie Presse</rs>‘ schätzt in <rs type="pers" ana="n_19675" ref="#fk__p_41557">Kaposi</rs> den <seg type="insult"><rs type="pers" ana="n_19676" ref="#fk__p_41557">Kohn</rs></seg>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_48877">
+               <persName>Leser</persName>
+            </person>
+            <person xml:id="fk__p_41557">
+               <persName>Kaposi, Moriz</persName>
+               <birth>
+                  <date>1837-10-23</date>
+                  <place>Kaposvár/Ung.</place>
+               </birth>
+               <death>
+                  <date>1902-03-06</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Dermatologe</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

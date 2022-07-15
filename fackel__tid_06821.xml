@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06821.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06820.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06822.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Genug!, in: Fackel Heft 16, Nr. 400, 1914, S. 12-13</title>
+            <title type="iso-date">1914-01-01</title>
+            <title type="id">tid_06821</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">16</title><title type="heft">400</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-16-400_n0012.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/400,012</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Genug!</head>
+            <p ana="pr91742">
+<space/>Der <seg type="insult">Humor</seg> über den <foreign xml:lang="sq">»Mbret«</foreign> ist auspeitschenswert. Dagegen<lb/>
+ist es nicht unberechtigt, sich zu freuen, daß der <rs type="pers" ana="n_62272" ref="#fk__p_51671"><foreign xml:lang="sq">Prenk</foreign> Bib Doda</rs>,<lb/>
+</p>
+            <p ana="pr91742">
+der unaufhörlich auf dem Vormarsch war, endlich auf dem Rückmarsch<lb/>
+ ist, wiewohl er leider den abermaligen Vormarsch angeboten<lb/>
+hat. Daß aber <rs type="pers" ana="n_62273" ref="#fk__p_57855"><foreign xml:lang="sq">Essad</foreign> Pascha</rs> Pläne hat, wird uns hoffentlich nie<lb/>
+mehr anvertraut werden.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_57855">
+               <persName>Essad Pascha</persName>
+               <birth>
+                  <date>1863</date>
+                  <place>Tirana</place>
+               </birth>
+               <death>
+                  <date>1920-06-13</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Politiker</occupation>
+            </person>
+            <person xml:id="fk__p_51671">
+               <persName>Prenk Bib Doda Pascha</persName>
+               <birth>
+                  <date>1855/8?</date>
+               </birth>
+               <death>
+                  <date>1920</date>
+               </death>
+               <occupation>Politiker</occupation>
+               <note type="comment">wurde 1868 als Nachfolger seines Vaters Bib Doda albanischer "Kapitän"</note>
+               <note type="comment">Münchner Zeitschrift für Balkankunde</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

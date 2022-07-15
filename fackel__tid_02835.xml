@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02835.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02834.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02836.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Westeuropäer. (Westeuropäisches Deutsch), in: Fackel Heft 04, Nr. 124, 1902, S. 28-28</title>
+            <title type="iso-date">1902-12-20</title>
+            <title type="id">tid_02835</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">04</title><title type="heft">124</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-04-124_n0028.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/124,028</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Westeuropäer. (Westeuropäisches Deutsch)</head>
+            <p ana="pr27739">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="n_24001" ref="#fk__p_55421">Westeuropäer</rs>.</seg></seg></seg> Sie lasen in der ‚<rs type="paper" ana="werk_9947">Zeit</rs>‘ vom <date>26. November</date>: »Warum<lb/>
+der <seg type="insult"><rs type="title">Messenger-Boy</rs></seg> vom Repertoire verschwunden ist? Wer weiß es?<lb/>
+In jedem Falle war er, als Operette betrachtet, hundertmal mehr werth<lb/>
+als ‚<rs type="title">Das fidele Gefängnis</rs>‘, das <seg type="spc">allerdings</seg> dem Publicum sehr gut<lb/>
+gefallen hat. Viel Witz ist <seg type="spc">allerdings</seg> an die Sache nicht verschwendet;<lb/>
+die <rs type="title"><SPAN cont="Dubarry-Parodie"><rs type="pers" ana="n2_1860" ref="#fk__p_57771">‚Dubarry‘-Parodie</rs></SPAN></rs> ausgenommen, die sehr gut gemacht ist und sehr<lb/>
+drastisch gegeben wird. Zumal von der <rs type="pers" ana="n_24002" ref="#fk__p_50271">Zwerenz</rs>, die sich <seg type="spc">allerdings<lb/>
+</seg> die Gelegenheit entgehen lässt, eine wirkliche Caricatur von der<lb/>
+<rs type="pers" ana="n_24003" ref="#fk__p_50784">Odilon</rs> zu geben. Und wie leicht wäre das. <seg type="spc">Allerdings</seg> nicht für<lb/>
+Fräulein <rs type="pers" ana="n_24004" ref="#fk__p_50271">Zwerenz</rs>, die viel zu individuell <abbr>u. s. w.</abbr>«. — Sie lasen in der<lb/>
+‚<rs type="paper" ana="werk_9948">Zeit</rs>‘ vom <date>7. December</date>: »<seg type="spc">Ein Vorgang wie der des</seg> Landmarschallstellvertreters<lb/>
+ von Oberösterreich ist <seg type="symbol" subtype="5dots"/> zu verurtheilen«.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_50784">
+               <persName>Odilon, Helene, geb. Petermann</persName>
+               <birth>
+                  <date>1864-7-31</date>
+                  <place>Dresden</place>
+               </birth>
+               <death>
+                  <date>1939-2-9</date>
+                  <place>Baden bei Wien</place>
+               </death>
+               <occupation>Schauspielerin</occupation>
+               <note type="comment">verh. (2) Alexander Girardi, (3) Franz von Rekovsky, (4) Béla von Pecic, (5) Radwan-Praglowski</note>
+               <note type="comment">Das Buch einer Schwachsinnigen. Lebenserinnerungen, Walther, Berlin 1909</note>
+               <note type="comment">1916 erblindet</note>
+               <note type="comment">Grabstein: 1865-1939</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/22098</idno></person>
+            <person xml:id="fk__p_50271">
+               <persName>Zwerenz, Mizzi</persName>
+               <birth>
+                  <date>1876-7-13</date>
+                  <place>Pöstyn, Ungarn </place>
+               </birth>
+               <death>
+                  <date>1947-6-14</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schauspielerin</occupation>
+               <occupation>Sängerin</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10697</idno></person>
+            <person xml:id="fk__p_57771">
+               <persName>Bécu, Jeanne, Comtesse du Barry</persName>
+               <birth>
+                  <date>1743-8-19</date>
+                  <place>Vaucouleurs, Lothringen</place>
+               </birth>
+               <death>
+                  <date>1793-12-8</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Maitresse</occupation>
+               <note type="comment">Dubarry-Parodie bezieht sich auf Operette von Millöcker "Gräfin Dubarry"</note>
+            </person>
+            <person xml:id="fk__p_55421">
+               <persName>Westeuropäer</persName>
+            </person>
+            </listPerson></back></text>
+</TEI>

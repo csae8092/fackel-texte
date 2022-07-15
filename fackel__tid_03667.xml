@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03667.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03666.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03668.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Antisemit. (Eine Klage des Herrn Vergani), in: Fackel Heft 06, Nr. 165, 1904, S. 24-24</title>
+            <title type="iso-date">1904-07-8</title>
+            <title type="id">tid_03667</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">06</title><title type="heft">165</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-06-165_n0024.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/165,024</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Antisemit. (Eine Klage des Herrn Vergani)</head>
+            <p ana="pr36469">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="name_203159" ref="#fk__p_38326">Antisemit</rs>.</seg></seg></seg> Eine in der ‚<rs type="self" ana="werk_13298">Fackel</rs>‘ abgedruckte Zuschrift hatte<lb/>
+<seg type="insult">Herr <rs type="pers" ana="n_31315" ref="#fk__p_42861">Vergani</rs></seg> einst »zur Gänze« wegen Ehrenbeleidigung inkriminiert.<lb/>
+Später beschränkte er die Klage auf einen einzigen Vorwurf und ließ<lb/>
+sie fallen, soweit sie sich auf alle anderen Vorwürfe bezog. Zu den<lb/>
+aus der Klage ausgeschiedenen Stellen gehört <abbr>z. B.</abbr> die folgende:<lb/>
+»Daß <seg type="insult">Herr <rs type="pers" ana="n_31316" ref="#fk__p_42861">Vergani</rs></seg> an den Unternehmungen der Kommune zu<lb/>
+schmarotzen sucht und daß der Bürgermeister den Versuch abwehrt,<lb/>
+ist nichts Neues. Niemals hat Herr <rs type="pers" ana="n_31317" ref="#fk__p_47583"><abbr>Dr.</abbr> Lueger</rs>, wenn das ‚<rs type="paper" ana="werk_13299">Deutsche<lb/>
+Volksblatt</rs>‘ sich für eine bestimmte Art der Lösung eines kommunalwirtschaftlichen<lb/>
+ Problems einsetzt, verabsäumt zu erklären, daß es <seg type="insult">seine<lb/>
+‚besonderen Gründe‘</seg> für diese Haltung haben müsse.«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_47583">
+               <persName>Lueger, Karl</persName>
+               <birth>
+                  <date>1844-10-24</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1910-3-10</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <note type="comment">Rosa Lueger (Schwester) gest. Wien 24.09.1920</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/3561</idno></person>
+            <person xml:id="fk__p_42861">
+               <persName>Vergani, Ernst</persName>
+               <birth>
+                  <date>1848-3-15</date>
+                  <place>Solec/Galizien</place>
+               </birth>
+               <death>
+                  <date>1915-2-19</date>
+                  <place>Emmersdorf</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <occupation>Publizist</occupation>
+               <note type="comment">1888 Obmann des Ausschusses der Bewegung Schönerers</note>
+               <note type="comment">Gründung des Deutschen Volksblatts 1888</note>
+            </person>
+            <person xml:id="fk__p_38326">
+               <persName>Antisemit</persName>
+            </person>
+            </listPerson></back></text>
+</TEI>

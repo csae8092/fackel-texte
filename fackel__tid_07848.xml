@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07848.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07847.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07849.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Bibliographisches), in: Fackel Heft 19, Nr. 457, 1234, S. 61-62</title>
+            <title type="iso-date">1234-01-01</title>
+            <title type="id">tid_07848</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">19</title><title type="heft">457</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-19-457_n0061.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/457,061</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Bibliographisches)</head>
+            <p ana="pr105149">
+<space/><seg type="spc">Bibliographisches</seg>. ‚<rs type="magazine" ana="werk_21151">Die Schaubühne</rs>‘ (Berlin), XIII. <abbr>Nr.</abbr> 12<lb/>
+bis 17 (<DATERANGE>22. März bis 26. April</DATERANGE>): <rs type="pers" ana="n_67298" ref="#fk__p_47565">Karl Kraus</rs> (I. bis VI.).<lb/>
+Von <rs type="pers" ana="n_67299" ref="#fk__p_39180">Berthold Viertel</rs>. — ‚<rs type="magazine" ana="werk_21152">Das neue Deutschland</rs>‘ (<rs type="inst">Verlag <rs type="pers" ana="n2_5956" ref="#fk__p_57872"><abbr>F. A.</abbr> Perthes</rs></rs>,<lb/>
+Gotha), V. Heft 11, <date>1. März</date> und Heft 14, <date>15. April</date>: Zitate.<lb/>
+</p>
+            <p ana="pr105150">
+<space/>Als Broschüre erschienen: »<rs type="title">Rundfrage über <rs type="pers" ana="n2_5957" ref="#fk__p_47565">Karl Kraus</rs></rs>« (<rs type="inst">Brenner-Verlag<lb/>
+</rs>, Innsbruck) mit Einleitung von <rs type="pers" ana="n_67300" ref="#fk__p_49342">Ludwig <abbr>v.</abbr> Ficker</rs>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_47565">
+               <persName>Kraus, Karl</persName>
+               <birth>
+                  <date>1874-4-28</date>
+                  <place>Jicin, Böhmen</place>
+               </birth>
+               <death>
+                  <date>1936-6-12</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Publizist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11988</idno></person>
+            <person xml:id="fk__p_39180">
+               <persName>Viertel, Berthold</persName>
+               <birth>
+                  <date>1885-6-28</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1953-9-24</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Regisseur</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10364</idno></person>
+            <person xml:id="fk__p_57872">
+               <persName>Perthes, F. A. (Verlag)</persName>
+               <note type="comment">Gotha</note>
+            </person>
+            <person xml:id="fk__p_49342">
+               <persName>Ficker, Ludwig von</persName>
+               <birth>
+                  <date>1880-04-13</date>
+                  <place>München</place>
+               </birth>
+               <death>
+                  <date>1967-03-20</date>
+                  <place>Innsbruck</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Publizist</occupation>
+               <note type="comment">Liste "Theater der Dichtung"</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38500</idno></person>
+            </listPerson></back></text>
+</TEI>

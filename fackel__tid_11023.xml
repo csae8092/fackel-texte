@@ -1,0 +1,109 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_11023.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11022.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11024.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Berlin, in: Fackel Heft 30, Nr. 800, 1929, S. 50-51</title>
+            <title type="iso-date">1929-02-01</title>
+            <title type="id">tid_11023</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">30</title><title type="heft">800</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-30-800_n0050.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/800,050</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Berlin</head>
+            <p ana="pr158281">
+<space/><seg type="spc">Berlin</seg><lb/>
+</p>
+            <p ana="pr158282">
+<space/><rs type="inst"><rs type="pers" ana="n2_8387" ref="#fk__p_57923">Schwechtensaal</rs></rs>, 8 Uhr<lb/>
+</p>
+            <p ana="pr158283">
+<space/><date>1. Oktober</date>:<lb/>
+</p>
+            <p ana="pr158284">
+<space/>I. <rs type="title"><seg type="insult">Die Räuber in Salzburg</seg></rs> (Zitat). — <rs type="title"><seg type="insult">Bunte Begebenheiten</seg></rs>. —<lb/>
+<seg type="insult"><rs type="title"><rs type="pers" ana="n2_8388" ref="#fk__p_49349">Beethoven</rs> und <rs type="pers" ana="n2_8389" ref="#fk__p_46960">Goethe</rs></rs> — <rs type="title">Vorbilder und Lebensführer</rs></seg>. — <rs type="title"><seg type="insult">Das Ehrenkreuz<lb/>
+</seg></rs>. — <rs type="title">In den Tumult Gerufenes</rs> (mit der »einstweiligen Verfügung«).<lb/>
+</p>
+            <p ana="pr158285">
+<space/>II. <rs type="title"><seg type="insult">Der größte Schriftsteller im ganzen Land</seg></rs>.<lb/>
+</p>
+            <p ana="pr158286">
+<space/><date>2. Oktober</date>:<lb/>
+</p>
+            <p ana="pr158287">
+<space/><rs type="title"><seg type="insult"><seg type="spc">Die Unüberwindlichen</seg></seg></rs> (wie in Wien und Prag).<lb/>
+</p>
+            <p ana="pr158288">
+<space/><date>4. Oktober</date>:<lb/>
+</p>
+            <p ana="pr158289">
+<space/>I. <rs type="pers" ana="n_94991" ref="#fk__p_46919"><seg type="spc">Nestroy</seg></rs>: <rs type="title">Das Notwendige und das Überflüssige</rs>.<lb/>
+</p>
+            <p ana="pr158290">
+<space/>II. <rs type="title">Der Traum <seg type="insult">ein Wiener Leben</seg></rs>. — <rs type="title">Hypnagogische Gestalten</rs> /<lb/>
+<rs type="title">Abenteuer der Arbeit</rs> / <rs type="title">Jugend</rs> / <rs type="title">Traum vom Fliegen</rs> / <rs type="title">Geheimnis</rs><lb/>
+(Manuskript) / <rs type="title"><seg type="insult">Radio</seg></rs> / <rs type="title"><seg type="insult">Die Raben</seg></rs>. — <rs type="title"><seg type="insult">Reklamefahrten zur Hölle</seg></rs>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_49349">
+               <persName>Beethoven, Ludwig van</persName>
+               <birth>
+                  <date>1770-12-17</date>
+                  <place>Bonn</place>
+               </birth>
+               <death>
+                  <date>1827-3-26</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Komponist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10866</idno></person>
+            <person xml:id="fk__p_46960">
+               <persName>Goethe, Johann Wolfgang von</persName>
+               <birth>
+                  <date>1749-8-28</date>
+                  <place>Frankfurt am Main</place>
+               </birth>
+               <death>
+                  <date>1832-3-22</date>
+                  <place>Weimar</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">890/142f.</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11461</idno></person>
+            <person xml:id="fk__p_46919">
+               <persName>Nestroy, Johann Nepomuk</persName>
+               <birth>
+                  <date>1801-12-7</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1862-5-25</date>
+                  <place>Graz</place>
+               </death>
+               <occupation>Sänger</occupation>
+               <occupation>Schauspieler</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12338</idno></person>
+            <person xml:id="fk__p_57923">
+               <persName>Schwechten, Franz Heinrich</persName>
+               <birth>
+                  <date>1841-8-12</date>
+                  <place>Köln</place>
+               </birth>
+               <death>
+                  <date>1924-8-11</date>
+                  <place>Berlin</place>
+               </death>
+               <occupation>Architekt</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

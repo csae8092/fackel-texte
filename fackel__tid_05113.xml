@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_05113.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05112.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05114.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ein Königswort, in: Fackel Heft 12, Nr. 303, 1910, S. 19-20</title>
+            <title type="iso-date">1910-05-31</title>
+            <title type="id">tid_05113</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">12</title><title type="heft">303</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-12-303_n0019.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/303,019</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ein Königswort</head>
+            <p ana="pr65477">
+<space/>Das <seg ana="Neue Wiener Tagblatt"/> schreibt:<lb/>
+</p>
+            <p ana="pr65479">
+<space/>» <seg type="symbol" subtype="3dotsEditor"/> Von dem Interesse des <rs type="pers" ana="n_47745" ref="#fk__p_48017">Prinzen von Wales</rs> an dem<lb/>
+modernen Zeitungswesen zeugen auch die folgenden Sätze:<lb/>
+</p>
+            <p ana="pr65480">
+<space/>Die Erfahrung hat gezeigt, daß selbst bei Firmen von feststehendem<lb/>
+ Rufe und weltumfassenden Verbindungen die Versuche, das<lb/>
+Annoncieren abzubrechen, von einer Herabminderung der vollzogenen<lb/>
+Verkäufe gefolgt wurden <seg type="symbol" subtype="3dotsEditor"/>«<lb/>
+</p>
+            <p ana="pr65482">
+<space/>Somit läßt sich von dem neuen König das beste hoffen.<lb/>
+Wenn jeder Akquisiteur <seg type="insult">eine so mannhafte Sprache</seg> führte, stünde<lb/>
+es noch ganz anders um das Zeitungswesen. Freilich hat <rs type="pers" ana="n_47746" ref="#fk__p_48017">Georg<lb/>
+von England</rs> nicht gesagt, wie er sich zum <rs type="paperRef" ana="werk_17641">Kleinen Anzeiger</rs> stellt.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_48017">
+               <persName>Georg V., König von England</persName>
+               <birth>
+                  <date>1865-6-3</date>
+                  <place>London</place>
+               </birth>
+               <death>
+                  <date>1936-1-20</date>
+                  <place>Sandringham House, Norfolk</place>
+               </death>
+               <occupation>König</occupation>
+               <note type="comment">1910 bis zu seinem Tod 1936</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

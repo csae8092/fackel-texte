@@ -1,0 +1,47 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03950.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03949.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03951.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Leser. (Aus der Welt des Journalismus), in: Fackel Heft 07, Nr. 185, 1905, S. 24-24</title>
+            <title type="iso-date">1905-10-17</title>
+            <title type="id">tid_03950</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">07</title><title type="heft">185</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-07-185_n0024.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/185,024</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Leser. (Aus der Welt des Journalismus)</head>
+            <p ana="pr40537">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="name_203516" ref="#fk__p_48877">Leser</rs>.</seg></seg> Ein kleiner Ausschnitt aus der <seg type="insult">Welt des Journalismus</seg>.<lb/>
+‚<rs type="" ana="werk_14013">Extrablatt</rs>‘, <date>8. Oktober</date>: »Am <date>22. <abbr>v. M.</abbr></date> hat sich in dem Stammschlosse<lb/>
+des <rs type="pers" ana="n_33822" ref="#fk__p_42234">Earl of Strathmore</rs>, Glamis Castle, ein ernster feierlicher Akt vollzogen<lb/>
+, der nicht nur für die engere Familie von Bedeutung ist, sondern <seg type="spc">insoferne<lb/>
+ auch für die allgemeine Öffentlichkeit Interesse</seg><lb/>
+hat, da es sich um ein mysteriöses <seg type="spc">Familiengeheimnis</seg> handelt.«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_48877">
+               <persName>Leser</persName>
+            </person>
+            <person xml:id="fk__p_42234">
+               <persName>Strathmore, Earl of, d. i. Claude George Bowes-Lyon</persName>
+               <birth>
+                  <date>1855-3-14</date>
+                  <place>Chelsea</place>
+               </birth>
+               <death>
+                  <date>1944-11-7</date>
+                  <place>Glamis Castle</place>
+               </death>
+               <note type="comment">Großvater von Queen Elisabeth II.</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

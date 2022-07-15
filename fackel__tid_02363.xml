@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02363.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02362.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02364.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Chemiker. (Ein Standpunkt), in: Fackel Heft 04, Nr. 100, 1902, S. 24-24</title>
+            <title type="iso-date">1902-04-18</title>
+            <title type="id">tid_02363</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">04</title><title type="heft">100</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-04-100_n0024.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/100,024</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Chemiker. (Ein Standpunkt)</head>
+            <p ana="pr22970">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_19915" ref="#fk__p_39924">Chemiker</rs>.</seg></seg> Wie die ‚<rs type="" ana="werk_7676">Hochschul-Correspondenz</rs>‘ kürzlich berichtete<lb/>
+, kann für die chemisch-technische Lehrkanzel; die vordem Hofrath<lb/>
+ <rs type="pers" ana="n_19916" ref="#fk__p_46340"><abbr>v.</abbr> Perger</rs> innehatte, keine <seg type="spc">namhafte</seg> Lehrkraft ausfindig gemacht<lb/>
+werden, und wie sie zwei Tage darauf meldete, wird diese Lehrkanzel<lb/>
+<seg type="insult">dem Hofrath <rs type="pers" ana="n_19917" ref="#fk__p_44446"><seg type="spc">Gintl</seg></rs></seg> in Prag verliehen werden. Dass die zweite Meldung<lb/>
+eine <seg type="spc">Bestätigung</seg> der ersten ist, müsste, weil <seg type="insult">Hofrath <rs type="pers" ana="n_19918" ref="#fk__p_44446">Gintl</rs></seg> <foreign xml:lang="la">primo<lb/>
+et unico loco</foreign> vorgeschlagen wurde, wohl bezweifelt werden Aber nach<lb/>
+der ‚<rs type="paper" ana="werk_7677">Neuen Freien Presse</rs>‘ hat der zum Nachfolger <rs type="pers" ana="n_19919" ref="#fk__p_46340">Pergers</rs> Designierte<lb/>
+wirklich keinerlei Verdienste um die chemische Technologie aufzuweisen.<lb/>
+Das Blatt wusste <seg type="insult">dem Hofrath <rs type="pers" ana="n_19920" ref="#fk__p_44446">Gintl</rs></seg> (<rs type="paperRef" ana="werk_7678">Abendblatt</rs> vom <date>12. April</date>) nichts<lb/>
+anderes nachzurühmen, als dass er als <seg type="insult">Sachverständiger im <rs type="pers" ana="n_19921" ref="#fk__p_48811">Hülsner-Process</rs></seg><lb/>
+fungiert hat. Für <seg type="insult">die liberale und die antisemitische Presse</seg> ist also der<lb/>
+Standpunkt, der gegenüber dieser Berufung einzunehmen ist, gegeben:<lb/>
+<seg type="insult">Hofrath <rs type="pers" ana="n_19922" ref="#fk__p_44446">Gintl</rs></seg> glaubt nicht an den Ritualmord.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_44446">
+               <persName>Gintl, Wilhelm Heinrich Ritter von</persName>
+               <birth>
+                  <date>1869-10-18</date>
+                  <place>Prag</place>
+               </birth>
+               <death>
+                  <date>1943-06-08</date>
+                  <place>Prag</place>
+               </death>
+               <occupation>Chemiker</occupation>
+               <note type="comment">Hofrath Gintl in Prag, hat als Sachverständiger im Hülsner-Prozeß fungiert</note>
+               <note type="comment">Ögg gibt ihm die Vornamen des Vaters Wilhelm Friedrich Gintl (1843-1908)</note>
+               <note type="comment">Berta Müller</note>
+            </person>
+            <person xml:id="fk__p_48811">
+               <persName>Hilsner, Leopold</persName>
+               <birth>
+                  <date>1876</date>
+               </birth>
+               <death>
+                  <date>1928-1-8</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schuhmacher</occupation>
+            </person>
+            <person xml:id="fk__p_39924">
+               <persName>Chemiker</persName>
+            </person>
+            <person xml:id="fk__p_46340">
+               <persName>Perger, Hugo Ritter von</persName>
+               <birth>
+                  <date>1844-02-12</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1901-12-28</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Techniker</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

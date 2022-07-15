@@ -1,0 +1,93 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00922.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00921.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00923.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Herrn Ludwig Bauer, Satiriker der ‚Neuen Freien Presse‘. (Herrn Ludwig Bauer), in: Fackel Heft 02, Nr. 038, 1900, S. 32-32</title>
+            <title type="iso-date">1900-04-01</title>
+            <title type="id">tid_00922</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">038</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-038_n0032.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/038,032</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Herrn Ludwig Bauer, Satiriker der ‚Neuen Freien Presse‘. (Herrn Ludwig Bauer)</head>
+            <p ana="pr8773">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i">Herrn <rs type="pers" ana="n_6949" ref="#fk__p_49276">Ludwig Bauer</rs>, Satiriker der ‚<rs type="paper" ana="werk_2441">Neuen Freien Presse</rs>‘.</seg></seg></seg><lb/>
+Es geht doch nicht! Gerade, weil wir uns persönlich kennen und<lb/>
+weil ich Sie nicht für unbegabt halte, muss ich Ihnen das rückhaltlos<lb/>
+ sagen. Nach den <seg type="insult">»<rs type="title">Ostereiern</rs>«</seg>, die Sie letzthin gelegt, rathe ich<lb/>
+Ihnen dringendst, die Absicht, <rs type="pers" ana="n_6950" ref="#fk__p_40244">Daniel Spitzer</rs> zu ersetzen, nunmehr<lb/>
+definitiv aufzugeben. Zwingen lässt sich das nicht, und als Verleger<lb/>
+der ‚<rs type="title">Demolierten Literatur</rs>‘ dürfen Sie mir weiter die <seg type="insult">Schande</seg> nicht<lb/>
+anthun. Mit schlechter Satire ist die ‚<rs type="paper" ana="werk_2442">Neue Freie Presse</rs>‘ seit Langem<lb/>
+versorgt. Noch wirkt ja <seg type="insult">in unverminderter Frische</seg> <seg type="insult"><rs type="pers" ana="n_6951" ref="#fk__p_47222"><SPAN sug="Sternberg">st—g</SPAN></rs></seg>, unter<lb/>
+dessen humoristischen Versuchen sich ohnehin das Publicum krümmt<lb/>
+und windet, noch liefert ja des Sonntags <seg type="insult">Herr <rs type="pers" ana="n_6952" ref="#fk__p_43159">Dörmann</rs></seg> pünktlich <seg type="insult">sein<lb/>
+<foreign xml:lang="fr">Entrefilet de boeuf</foreign></seg>. Man hat den Leser um den Betrag des <rs type="event">Zeitungsstempels<lb/>
+</rs> betrogen, und nun soll er zum Schaden <seg type="insult">den seichten<lb/>
+Spott</seg> haben?<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_40244">
+               <persName>Spitzer, Daniel </persName>
+               <birth>
+                  <date>1835-07-03</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1893-1-11</date>
+                  <place>Meran</place>
+               </death>
+               <occupation>Rechtsanwalt</occupation>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Journalist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/25237</idno></person>
+            <person xml:id="fk__p_49276">
+               <persName>Bauer, Ludwig</persName>
+               <birth>
+                  <date>1876-3-5</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1935-2-1</date>
+                  <place>Lugano</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10848</idno></person>
+            <person xml:id="fk__p_43159">
+               <persName>Dörmann, Felix</persName>
+               <birth>
+                  <date>1870-5-29</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1928-10-26</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Cousine Mizi von Stankowitz (Dickel, Salten)</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2425</idno></person>
+            <person xml:id="fk__p_47222">
+               <persName>Sternberg, Julian</persName>
+               <birth>
+                  <date>1868-11-8</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1945-6-28</date>
+                  <place>Havanna/Kuba</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <note type="comment">Red. der NFP</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_20423</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/3021</idno></person>
+            </listPerson></back></text>
+</TEI>

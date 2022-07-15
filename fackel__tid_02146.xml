@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02146.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02145.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02147.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Der imitierte Teppich, in: Fackel Heft 03, Nr. 090, 1902, S. 26-26</title>
+            <title type="iso-date">1902-01-4</title>
+            <title type="id">tid_02146</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">03</title><title type="heft">090</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-03-090_n0026.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/090,026</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Der imitierte Teppich</head>
+            <p ana="pr20955">
+<space/><seg type="insult"><inciptit>Herr</inciptit> <rs type="pers" ana="n_18100" ref="#fk__p_43868">Friedrich Stern</rs>, der Kunstkritiker des ‚<rs type="paper" ana="werk_6926">Neuen Wiener<lb/>
+Tagblatt</rs>‘</seg>, ist zwar bekanntlich <seg type="insult">kein Freund des Modernen</seg>, aber<lb/>
+doch <seg type="insult">ein verständnisvoller Kenner des Alten</seg>. So hat ihn denn<lb/>
+ein Barock-Festsaal im <rs type="inst">Kunstgewerbe-Museum</rs> besonders angezogen,<lb/>
+»nicht zuletzt«, wie er am <date>9. December</date> schrieb, »durch den riesigen,<lb/>
+antiken persischen Teppich, der ein Meisterstück der Imitationskunst<lb/>
+ <rs type="pers" ana="n_18101" ref="#fk__p_56145">Ginzkey’s</rs> ist.« <seg type="insult">»Eine Bravourleistung der heimischen Textilkunst<lb/>
+«</seg> nennt ihn <seg type="insult">Herr <rs type="pers" ana="n_18102" ref="#fk__p_43868">Stern</rs></seg> dann noch. Er hat nämlich geglaubt,<lb/>
+dass auch die Löcher in alten Teppichen imitiert werden, und es<lb/>
+darum nicht gemerkt, dass er statt der im Katalog angekündigten<lb/>
+Imitation den echten Teppich unter seinen Füssen hatte. Die<lb/>
+Imitation war gar nicht zur Ausstellung gelangt; sie war missglückt<lb/>
+ — wie die <seg type="insult">Bravourleistung der <rs type="pers" ana="n_18103" ref="#fk__p_43868">Stern’schen Kritik</rs></seg>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_43868">
+               <persName>Stern, Friedrich</persName>
+               <birth>
+                  <date>1848-07-02</date>
+                  <place>Proßnitz</place>
+               </birth>
+               <death>
+                  <date>1921-9-1</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <note type="comment">6., Linke Wienzeile 60</note>
+               <note type="comment">370/41 ??</note>
+               <note type="comment">ab 1883 Red. beim NWT</note>
+            </person>
+            <person xml:id="fk__p_56145">
+               <persName>Ginzkey, Wilhelm</persName>
+               <birth>
+                  <date>1856-10-26</date>
+                  <place>Maffersdorf bei Reichenberg</place>
+               </birth>
+               <death>
+                  <date>1934-4-29</date>
+                  <place>Maffersdorf bei Reichenberg</place>
+               </death>
+               <occupation>Industrieller</occupation>
+               <occupation>Politiker</occupation>
+               <note type="comment">Teppichfabrikant</note>
+               <note type="comment">Herrenhausmitglied</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/17035</idno></person>
+            </listPerson></back></text>
+</TEI>

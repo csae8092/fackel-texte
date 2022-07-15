@@ -1,0 +1,42 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07814.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07813.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07815.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ich höre, in: Fackel Heft 19, Nr. 454, 1234, S. 60-60</title>
+            <title type="iso-date">1234-01-01</title>
+            <title type="id">tid_07814</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">19</title><title type="heft">454</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-19-454_n0060.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/454,060</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ich höre</head>
+            <p ana="pr104380">
+daß <seg type="insult">die Kriegsberichterstatterin Fräulein <rs type="pers" ana="n_67006" ref="#fk__p_38111">Alice Schalek</rs></seg> das<lb/>
+goldene Verdienstkreuz mit der Krone am Bande der<lb/>
+Tapferkeitsmedaille bekommen hat.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_38111">
+               <persName>Schalek, Alice</persName>
+               <birth>
+                  <date>1874-8-21</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1956-11-6</date>
+                  <place>New York</place>
+               </death>
+               <occupation>Journalistin</occupation>
+               <occupation>Schriftstellerin</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/9664</idno></person>
+            </listPerson></back></text>
+</TEI>

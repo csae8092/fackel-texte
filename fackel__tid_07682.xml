@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07682.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07681.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07683.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Was es alles gibt, in: Fackel Heft 18, Nr. 445, 1234, S. 123-124</title>
+            <title type="iso-date">1234-01-01</title>
+            <title type="id">tid_07682</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">18</title><title type="heft">445</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-18-445_n0123.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/445,123</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Was es alles gibt</head>
+            <p ana="pr103175">
+<space/>Aus einem Katalog ist zu erfahren, daß in <seg type="insult">der Leipziger<lb/>
+»<rs type="inst">Bugra</rs>«</seg> — <seg type="insult">dieser wüste Name</seg> deckt <seg type="insult">eine wüste Sache</seg>: die »<seg type="ELIDASH">Buch-Ausstellung</seg><lb/>
+und graphische Ausstellung« — <seg type="insult">eine »Kapelle des <rs type="inst">Verlags <rs type="pers" ana="n2_5866" ref="#fk__p_57858">Diederichs</rs></rs>«</seg><lb/>
+errichtet war, <seg type="insult">jenes Verlags</seg>, dem die <seg type="insult">Wiedererweckung des Christentums<lb/>
+</seg> zu danken ist. Das ist aber noch nicht alles. In der Kapelle<lb/>
+waren die Schriften der <rs type="pers" ana="n_66507" ref="#fk__p_50048">Grete Meisl-Heß</rs> ausgestellt.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_57858">
+               <persName>Diederichs, Eugen (Verlag)</persName>
+               <note type="comment">Eugen Diederichs, gest. Jena 10.9.1930, 62jährig (Reichspost 11.9.30)</note>
+               <note type="comment">in Jena</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11161</idno></person>
+            <person xml:id="fk__p_50048">
+               <persName>Meisel-Hess, Grete</persName>
+               <birth>
+                  <date>1879-4-18</date>
+                  <place>Prag</place>
+               </birth>
+               <death>
+                  <date>1922-4-18</date>
+                  <place>Berlin</place>
+               </death>
+               <occupation>Schriftstellerin</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/8892</idno></person>
+            </listPerson></back></text>
+</TEI>

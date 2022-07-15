@@ -1,0 +1,47 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03043.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03042.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03044.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Politiker. (Amerikanisches Obst), in: Fackel Heft 04, Nr. 134, 1903, S. 28-28</title>
+            <title type="iso-date">1903-04-6</title>
+            <title type="id">tid_03043</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">04</title><title type="heft">134</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-04-134_n0028.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/134,028</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Politiker. (Amerikanisches Obst)</head>
+            <p ana="pr30013">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="n_25972" ref="#fk__p_51590">Politiker</rs>.</seg></seg></seg> Das amerikanische Obst, das in Conservenform nach<lb/>
+Europa gebracht wird, bleibt dauernd <seg type="spc">schmackhaft</seg>. Wenn die ‚<rs type="paper" ana="werk_11080">Neue<lb/>
+Freie Presse</rs>‘ <seg type="insult">Appetit auf <rs type="event">Achtundvierziger-Ideen</rs></seg> bekommt, verschreibt<lb/>
+sie sich aus Hoboken eine <seg type="insult">Conserve <rs type="pers" ana="n_25973" ref="#fk__p_45441">Hans Kudlich</rs></seg>. Diese hat mit dem<lb/>
+amerikanischen Obst bloß die Dauer der Erhaltung gemeinsam.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_51590">
+               <persName>Politiker</persName>
+            </person>
+            <person xml:id="fk__p_45441">
+               <persName>Kudlich, Johann</persName>
+               <birth>
+                  <date>1823-10-25</date>
+                  <place>Lobenstein</place>
+               </birth>
+               <death>
+                  <date>1917-11-11</date>
+                  <place>Hoboken, USA</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <note type="comment">Reichsratsabgeordneter 1848-49</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

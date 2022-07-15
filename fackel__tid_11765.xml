@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_11765.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11764.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11766.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Personalnachricht, in: Fackel Heft 33, Nr. 852, 1931, S. 78-78</title>
+            <title type="iso-date">1931-05-01</title>
+            <title type="id">tid_11765</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">33</title><title type="heft">852</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-33-852_n0078.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/852,078</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Personalnachricht</head>
+            <p ana="pr170601">
+<space/>— <rs type="pers" ana="n_102089" ref="#fk__p_43175">Felix Salten</rs> ist gestern in Budapest eingetroffen. Er wurde<lb/>
+auf dem Bahnhof vom Präsidenten des <rs type="inst">ungarischen Pen-Klubs</rs>, <rs type="pers" ana="n_102090" ref="#fk__p_40388">Desider<lb/>
+Kosztolanyi</rs>, sowie von Vertretern der Literatur und der Presse empfangen<lb/>
+. <rs type="pers" ana="n_102091" ref="#fk__p_43175">Felix Salten</rs> wird für mehrere Tage Gast der Stadt Budapest sein. —<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_40388">
+               <persName>Kosztolanyi, Desider (Dezső)</persName>
+               <birth>
+                  <date>1885-3-29</date>
+                  <place>Szabadka</place>
+               </birth>
+               <death>
+                  <date>1936-11-3</date>
+                  <place>Budapest</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+            </person>
+            <person xml:id="fk__p_43175">
+               <persName>Salten, Felix</persName>
+               <birth>
+                  <date>1869-9-6</date>
+                  <place>Budapest</place>
+               </birth>
+               <death>
+                  <date>1945-10-8</date>
+                  <place>Zürich</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Zuordnung von 77/9: Saltens Vater stammte aus Miskolcz</note>
+               <note type="comment">Ögg gibt 249/15 sowohl Salten als auch Friedrich Schütz</note>
+               <note type="comment">Bruder Michael Emil Salzmann, gest. Wien 26.06.1908, im 50. Lj.</note>
+               <note type="comment">Der Gemeine, S. 60f. (O du mein Österreich), F 514/23</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2167</idno></person>
+            </listPerson></back></text>
+</TEI>

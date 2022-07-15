@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02373.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02372.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02374.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ein Enthusiast, in: Fackel Heft 04, Nr. 101, 1902, S. 20-21</title>
+            <title type="iso-date">1902-04-28</title>
+            <title type="id">tid_02373</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">04</title><title type="heft">101</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-04-101_n0020.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/101,020</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ein Enthusiast</head>
+            <p ana="pr23119">
+<space/><inciptit>Der</inciptit> <seg type="insult"><RS pers="Hans Puchstein" globID="name_202501">Enthusiast</RS></seg>, der in der Redaction des ‚<seg ana="Deutschen Volks-&#10;blattes"/>‘ sitzt, lässt sich anlässlich der <rs type="inst">Schönbrunner Schlosstheater-Aufführung<lb/>
+</rs> also vernehmen:<lb/>
+</p>
+            <p ana="pr23121">
+<space/>»<QUOTE part="initial" rn="1" sourceID="FK-04-101_n0020_a">In der Titelrolle, einer Baronin, die mit einem jungen<lb/>
+Rechtsanwalt anfangs nur ein kokettes Spiel treibt, dann aber, gefangen<lb/>
+ durch seine männliche Energie, sich ihm schliesslich verlobt<lb/>
+, nahm Frau <rs type="pers" ana="n_20078" ref="#fk__p_44921">Gräfin Anastasia <seg type="spc">Kielmansegg</seg></rs> wieder alle<lb/>
+Herzen gefangen. Schon das silberhelle Lachen, mit dem die <seg type="spc">schöne</seg></QUOTE><lb/>
+</p>
+            <p ana="pr23121">
+<QUOTE part="final" rn="1" sourceID="FK-04-101_n0020_a">Frau die Bühne betrat, wirkte <seg type="spc">elektrisierend</seg>, nicht minder <seg type="spc">fascinierend<lb/>
+</seg> aber auch die gesangliche und schauspielerische Leistung<lb/>
+der Gattin unseres Statthalters, die die Erwartungen in den Vorstellungen<lb/>
+ früherer Jahre bereits auf das <seg type="spc">denkbar höchste Mass<lb/>
+geschraubt</seg> hat, aber trotzdem gestern den von ihr aufgestellten<lb/>
+<seg type="spc">Record schlug</seg> und, vom Beifall des verwöhntesten Publicums<lb/>
+umrauscht, selbst die <seg type="spc">äussersten</seg>, auf die heurigen Vorstellungen<lb/>
+gesetzten <seg type="spc">Hoffnungen</seg> noch <seg type="spc">übertraf</seg>.</QUOTE>«<lb/>
+</p>
+            <p ana="pr23123">
+<space/><seg type="insult"><RS persTitle="Schiller" title="Don Carlos">Sonderbarer <RS pers="Hans Puchstein" globID="name_204049">Schwärmer</RS>!</RS></seg><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_44921">
+               <persName>Kielmannsegg, Anastasia Gräfin, geb. Lebedewna von Lebedeff</persName>
+               <birth>
+                  <date>1860-02-22</date>
+                  <place>Kischinew</place>
+               </birth>
+               <death>
+                  <date>1912-02-20</date>
+                  <place>Wien</place>
+               </death>
+            </person>
+            </listPerson></back></text>
+</TEI>

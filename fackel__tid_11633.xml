@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_11633.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11632.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11634.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Briefkasten), in: Fackel Heft 32, Nr. 847, 1931, S. 63-63</title>
+            <title type="iso-date">1931-03-01</title>
+            <title type="id">tid_11633</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">32</title><title type="heft">847</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-32-847_n0063.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/847,063</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Briefkasten)</head>
+            <p ana="pr169057">
+<space/><seg type="sidehead"><seg type="spc">Briefkasten</seg>.</seg> »Der langjährige andere Leser«: Ihre freundliche<lb/>
+ Bemühung verdient Dank, war aber leider überflüssig, weil<lb/>
+eben die von Ihnen in der <rs type="inst">Staatsbibliothek</rs> gefundene Sammlung<lb/>
+von Theaterzetteln aus Zeitungen (wiederholt und auch diesmal)<lb/>
+benutzt wurde und eben das von Ihnen zitierte Verzeichnis mit<lb/>
+dem auf dem Plakat von »<rs type="title"><rs type="pers">Perichole</rs></rs>« gedruckten identisch ist.<lb/>
+Übrigens sind diese Zettel recht lückenhaft und ungenau, wie der<lb/>
+von Ihnen mitgeteilte der <rs type="inst"><rs type="pers" ana="n2_9064" ref="#fk__p_57640">Carltheater-Aufführung</rs></rs> der »<rs type="title">Schwätzerin<lb/>
+von Saragossa</rs>« beweist. Wohl ist es glaubhaft, daß <rs type="pers" ana="n_101264" ref="#fk__p_39762">Treumann</rs>, der<lb/>
+die Erstaufführung durch seinen <rs type="pers">Roland</rs> gefährdet haben dürfte,<lb/>
+diesen gebührender Weise an eine Dame (<abbr>Frl.</abbr> <rs type="pers" ana="n_101265" ref="#fk__p_56442">Kraft</rs>) abgetreten<lb/>
+hat. Die Bemerkung »nach <rs type="pers" ana="n_101266" ref="#fk__p_37966">Bergens</rs> (aus dem Französischen<lb/>
+übertragenen) Lustspiel ‚<rs type="title">Ein rosa Brief</rs>‘« kann sich aber nur darauf<lb/>
+beziehen, daß die »<rs type="title">Schwätzerin</rs>« auf einen so betitelten Einakter<lb/>
+gefolgt ist. Auf die Ungenauigkeit der Personennamen — wie<lb/>
+die Verwechslung des <rs type="pers">Alkaden</rs> mit dem <rs type="pers">Schreiber</rs> — weisen Sie<lb/>
+selbst hin.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_39762">
+               <persName>Treumann, Carl</persName>
+               <birth>
+                  <date>1823-7-27</date>
+                  <place>Hamburg</place>
+               </birth>
+               <death>
+                  <date>1877-4-18</date>
+                  <place>Baden bei Wien</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+            </person>
+            <person xml:id="fk__p_37966">
+               <persName>Bergen, Alexander</persName>
+               <birth>
+                  <date>1812</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1863-11-13</date>
+                  <place>Triest</place>
+               </death>
+               <occupation>Schriftstellerin</occupation>
+               <note type="comment">Geliebte Moritz Saphirs</note>
+               <note type="comment">Autorin eines aus dem Französischen übertr. Lustspiels "Ein rosa Brief"? Carltheater</note>
+            </person>
+            <person xml:id="fk__p_57640">
+               <persName>Carl, Carl</persName>
+               <birth>
+                  <date>1789-11-7</date>
+                  <place>Krakau</place>
+               </birth>
+               <death>
+                  <date>1854-8-14</date>
+                  <place>Bad Ischl</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <occupation>Regisseur</occupation>
+               <occupation>Theaterleiter</occupation>
+               <note type="comment">Ögg: Freiherr von Bernbrunn</note>
+            </person>
+            <person xml:id="fk__p_56442">
+               <persName>Kraft, Amalie</persName>
+               <birth>
+                  <date>1840?</date>
+                  <place>Dresden</place>
+               </birth>
+               <death>
+                  <date>1866-08-13</date>
+                  <place>Wien-Pötzleinsdorf</place>
+               </death>
+               <occupation>Sängerin</occupation>
+               <note type="comment">als Soubrette die "Zug-Kraft" des Carltheaters</note>
+               <note type="comment">Soubrette</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

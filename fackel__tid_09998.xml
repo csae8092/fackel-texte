@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_09998.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09997.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09999.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">In der Verzweiflung, in: Fackel Heft 26, Nr. 668, 1924, S. 114-114</title>
+            <title type="iso-date">1924-12-01</title>
+            <title type="id">tid_09998</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">26</title><title type="heft">668</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-26-668_n0114.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/668,114</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>In der Verzweiflung</head>
+            <p ana="pr135769">
+<space/><seg type="insult">Der andere <rs type="pers" ana="n_83169" ref="#fk__p_47222">Sternberg</rs>, der tägliche</seg>, der uns <seg type="insult">zwischen <seg type="ELIDASH">Bezirksgerichten</seg><lb/>
+und paritätischen Ehrengerichten</seg> in neues Chaos stürzt, erklärt:<lb/>
+</p>
+            <p ana="pr135771">
+<space/>— — <seg type="spc">In meiner Verzweiflung konnte ich nichts<lb/>
+anderes tun</seg>, <seg type="spc">als mich</seg> im Sinne des Ehrenkodex <seg type="spc">streng<lb/>
+korrekt benehmen</seg> und diese Angelegenheit, da die Gegner<lb/>
+Ehrenrichter zu ernennen sich geweigert hatten, durch hohe und mir<lb/>
+fernstehende Generäle und Offiziere und durch das Gutachten des<lb/>
+Feldmarschalls <rs type="pers" ana="n_83170" ref="#fk__p_43714">Grafen Conrad von Hötzendorf</rs> zu erledigen und meine<lb/>
+Ehre zu schützen. — —<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_43714">
+               <persName>Conrad-Hötzendorf, Franz Graf </persName>
+               <birth>
+                  <date>1852-11-11</date>
+                  <place>Penzing bei Wien</place>
+               </birth>
+               <death>
+                  <date>1925-8-25</date>
+                  <place>Bad Mergentheim</place>
+               </death>
+               <occupation>Offizier</occupation>
+               <note type="comment">seit 1906 Chef des Generalstabs</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_14266</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11102</idno></person>
+            <person xml:id="fk__p_47222">
+               <persName>Sternberg, Julian</persName>
+               <birth>
+                  <date>1868-11-8</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1945-6-28</date>
+                  <place>Havanna/Kuba</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <note type="comment">Red. der NFP</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_20423</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/3021</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02622.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02621.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02623.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Literat. (Die actuellen Lenau-Gedichte), in: Fackel Heft 04, Nr. 113, 1902, S. 25-25</title>
+            <title type="iso-date">1902-08-26</title>
+            <title type="id">tid_02622</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">04</title><title type="heft">113</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-04-113_n0025.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/113,025</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Literat. (Die actuellen Lenau-Gedichte)</head>
+            <p ana="pr25518">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="n_22080" ref="#fk__p_49045">Literat</rs>.</seg></seg></seg> Daß jemand die <rs type="pers" ana="n_22081" ref="#fk__p_50670">Lenau’schen Verse</rs>, die sich in <rs type="selfRef" ana="werk_8892"><abbr>Nr.</abbr> 112</rs><lb/>
+so gut gegen <seg type="insult">die heutigen Führer des geistigen Wien</seg> benützen ließen,<lb/>
+für apokryph und sie selbst, nicht nur ihre Anwendung, für einen Scherz<lb/>
+halten konnte, ist mir umso schleierhafter, als ich die Nichtkenner <rs type="pers" ana="n_22082" ref="#fk__p_50670">Lenauscher<lb/>
+ Poesie</rs> ausdrücklich auf das Capitel »<rs type="title">Dichterischer Nachlaß</rs>« seiner<lb/>
+»<rs type="title">Sämmtlichen Werke</rs>, <abbr>Bd.</abbr> II« verwiesen hatte. Wenn in der ganzen<lb/>
+Sache ein Witz steckt, so kann es doch nur der sein, daß eben <rs type="pers" ana="n_22083" ref="#fk__p_50670">Lenau</rs><lb/>
+wirklich der Autor jener »actuellen« Gedichte ist. Wäre er’s nicht, so<lb/>
+wäre der mir zugetraute Scherz vielleicht geschickt, aber ebenso schaal<lb/>
+wie unstatthaft.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_49045">
+               <persName>Literat</persName>
+            </person>
+            <person xml:id="fk__p_50670">
+               <persName>Lenau, Nikolaus</persName>
+               <birth>
+                  <date>1802-8-13</date>
+                  <place>Tschadat, Banat</place>
+               </birth>
+               <death>
+                  <date>1850-8-22</date>
+                  <place>Oberdöbling bei Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/63259</idno></person>
+            </listPerson></back></text>
+</TEI>

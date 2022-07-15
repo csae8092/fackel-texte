@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01667.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01666.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01668.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Der Rebell.), in: Fackel Heft 02, Nr. 070, 1901, S. 25-25</title>
+            <title type="iso-date">1901-03-01</title>
+            <title type="id">tid_01667</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">070</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-070_n0025.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/070,025</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Der Rebell.)</head>
+            <p ana="pr16702">
+<space/><rs type="inst"><inciptit><rs type="pers" ana="n2_1112" ref="#fk__p_43227">Raimundtheater</rs></inciptit></rs>. »<rs type="title">Der Rebell</rs>« von <rs type="pers" ana="n_13870" ref="#fk__p_46330">Hugo <seg type="spc">Ganz</seg></rs>. »Das Drama<lb/>
+erhebt sich zu einer flammenden Anklage wider die <seg type="insult">Corruption</seg> allerorten<lb/>
+, gegen die <seg type="insult">gewissenlose Lumperei</seg>, die sich hinter <seg type="insult">einem<lb/>
+künstlich zusammengeschweißten Ehrenschild</seg> deckt. — — <seg type="insult">Eine Bande<lb/>
+solcher wie Kletten zusammenhängender Brandschatzer einer ganzen<lb/>
+Stadt</seg> wird in dem Drama geschildert. — — — Der Held sieht plötzlich<lb/>
+den <seg type="insult">Rattenschwanz von gegenseitiger Bestechung, Heuchelei und<lb/>
+Niedertracht</seg>. — — —« Der Verfasser ist <seg type="insult">Leitartikler bei der ‚<rs type="paper" ana="werk_5189">Neuen<lb/>
+Freien Presse</rs>‘</seg>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46330">
+               <persName>Ganz, Hugo</persName>
+               <birth>
+                  <date>1862-4-24</date>
+                  <place>Mainz</place>
+               </birth>
+               <death>
+                  <date>1922-1-2</date>
+                  <place>Frankfurt/Main</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <note type="comment">NFP, Zeit, Frankfurter Zeitung</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2618</idno></person>
+            <person xml:id="fk__p_43227">
+               <persName>Raimund, Ferdinand</persName>
+               <birth>
+                  <date>1790-6-1</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1836-9-5</date>
+                  <place>Pottenstein, Niederösterreich</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Ögg teilt die Valentin-Stelle 254/4 Nestroy zu</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12468</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01478.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01477.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01479.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Gutenberg und Reclame.), in: Fackel Heft 02, Nr. 062, 1900, S. 31-31</title>
+            <title type="iso-date">1900-12-01</title>
+            <title type="id">tid_01478</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">062</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-062_n0031.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/062,031</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Gutenberg und Reclame.)</head>
+            <p ana="pr14363">
+<space/>‚<seg ana="Neue Freie Presse"/>‘: <QUOTE rn="1" sourceID="FK-02-062_n0031_a">»Heute mittags um 1 Uhr wurde in<lb/>
+Anwesenheit des Kaisers das <rs type="pers" ana="n_11922" ref="#fk__p_45226"><seg type="spc">Gutenberg-Denkmal</seg></rs> auf dem Lugeck<lb/>
+vor der <seg type="spc">Teppichniederlage <rs type="inst"><rs type="pers" ana="n2_957" ref="#fk__p_50843">Orendi</rs></rs></seg> im Regensburgerhofe feierlich<lb/>
+enthüllt. Schon in den Vormittagsstunden <seg type="symbol" subtype="3dots"/>«</QUOTE><lb/>
+</p>
+            <p ana="pr14365">
+<space/>Die Feier des Erfinders der Buchdruckerkunst ist mehr minder<lb/>
+<seg type="insult">ein intimes Fest der Presse</seg>. Und da es der Presse vor allem auf<lb/>
+die Annoncen der Teppichniederlage <rs type="inst"><rs type="pers" ana="n2_958" ref="#fk__p_50843">Orendi</rs></rs> ankommt, so ist die<lb/>
+<seg type="insult">Verquickung einer bezahlten Reclame mit einer Huldigung für den<lb/>
+Genius des großen Erfinders</seg> durchaus nicht widernatürlich. Freilich<lb/>
+hätten sich die Wiener Blätter bei einigermaßen guter Bezahlung<lb/>
+seinerzeit nicht geniert, auch die Enthüllung des <rs type="pers" ana="n_11923" ref="#fk__p_55699">Mozart-Denkmals</rs> in<lb/>
+der folgenden Weise anzuzeigen: »Heute mittags um 1 Uhr wurde<lb/>
+das <rs type="pers" ana="n_11924" ref="#fk__p_55699">Mozart-Denkmal</rs> auf dem Albrechtsplatz vor der Modewaren-Niederlage<lb/>
+ <rs type="inst"><rs type="pers" ana="n2_959" key="#fk__p_59147">Wilhelm Jungmann</rs> &amp; Neffe</rs> feierlich enthüllt.« Es handelt<lb/>
+sich nämlich bei <seg type="insult">Denkmalsenthüllungen</seg> immerdar um <seg type="insult">Feste des<lb/>
+Lichtes, des Fortschritts, der Aufklärung, mit einem Worte: der Cultur</seg>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_55699">
+               <persName>Mozart, Wolfgang Amadeus</persName>
+               <birth>
+                  <date>1756-1-27</date>
+                  <place>Salzburg</place>
+               </birth>
+               <death>
+                  <date>1791-12-5</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Komponist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12303</idno></person>
+            <person xml:id="fk__p_50843">
+               <persName>Orendi (C. Genersich &amp; Orendi, Teppichhandlung)</persName>
+               <note type="comment">1., Sonnenfelsgasse 2</note>
+            </person>
+            <person xml:id="fk__p_45226">
+               <persName>Gutenberg, Johannes</persName>
+               <birth>
+                  <date>1397/1400</date>
+                  <place>Mainz</place>
+               </birth>
+               <death>
+                  <date>1468-02-03</date>
+                  <place>Mainz</place>
+               </death>
+               <occupation>Buchdrucker</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

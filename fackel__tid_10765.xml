@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_10765.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10764.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10766.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Wiener Leben, in: Fackel Heft 28, Nr. 743, 1926, S. 112-112</title>
+            <title type="iso-date">1926-12-01</title>
+            <title type="id">tid_10765</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">28</title><title type="heft">743</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-28-743_n0112.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/743,112</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Wiener Leben</head>
+            <p ana="pr149791">
+<seg type="symbol" subtype="4dots"/> Frau <rs type="pers" ana="n_89935" ref="#fk__p_59675"><abbr>W.</abbr></rs>: Unser Haus ist rot, ich aber bin farblos. — Richter:<lb/>
+Was sind Sie, farblos, was soll das heißen? — Frau <rs type="pers" ana="n_89936" ref="#fk__p_59675"><abbr>W.</abbr></rs>: Das soll<lb/>
+heißen, daß mich die Politik weniger interessiert als der <rs type="title"><rs type="pers" ana="n2_7952" ref="#fk__p_51970">Radetzkymarsch</rs></rs>.<lb/>
+Und weil mich die Politik nichts angeht, habe ich <seg type="spc">am <date>1. Mai</date></seg><lb/>
+<seg type="spc">meine Teppiche geklopft</seg>, das geht doch niemanden etwas an.<lb/>
+Aber <seg type="insult">die Roten</seg> in unserem Haus haben natürlich gleich ein großes Wasser<lb/>
+aus der Geschichte gemacht <seg type="symbol" subtype="4dots"/> Schließlich versucht der Richter noch<lb/>
+mehrmals, einen Ausgleich herbeizuführen <seg type="symbol" subtype="4dots"/> Frau <rs type="pers" ana="n_89937" ref="#fk__p_59675"><abbr>W.</abbr></rs>: Ich bin doch<lb/>
+eh bereit, Herr Richter. Mit allen gleich ich mich aus, nur mit dem<lb/>
+<rs type="pers" ana="n_89938" key="#fk__p_38044">Alfred</rs> und seinem hohen Bildungsgrad nicht. Der soll sich merken,<lb/>
+daß man nicht schimpfen darf. <seg type="spc">Den <rs type="pers" ana="n_89939" ref="#fk__p_46960">Goethe</rs> habens’</seg>, <seg type="spc">so viel<lb/>
+ich weiß</seg>, <seg type="spc">auch eingesperrt</seg>, <seg type="spc">weil er das <rs type="pers">Götzzitat</rs><lb/>
+gebraucht hat</seg>. Und der war doch gewiß ein studierter Herr <seg type="symbol" subtype="4dots"/><lb/>
+</p>
+            <p ana="pr149793">
+<space/>Ja, ja, dahin mußte es einmal kommen. Was aber das Teppichklopfen<lb/>
+ anbelangt, so wäre es besser, wenn <seg type="insult">die Roten</seg> nicht bloß<lb/>
+am <date>1. Mai</date>, sondern an jedem Tag ein großes Wasser daraus<lb/>
+machten. Und alles, alles wäre anders, wenn sie damals, als es ans<lb/>
+große Reinemachen ging, einer Verrichtung, in der sich <seg type="insult">die wahre<lb/>
+hausherrlich-bürgerliche Bestialität</seg> austobt — an Teppichen,<lb/>
+Dienstbotenlungen und unser aller Ruhe —, ein Ende gemacht<lb/>
+hätten. Aber sie haben ja auch den Fußmarsch, der uns von<lb/>
+der Straßenseite weckt, beibehalten, und in nichts drückt sich<lb/>
+die Nichtveränderung des Lebens besser aus als in dem Fortleben<lb/>
+von Geringfügigkeiten, in Wahrheit <seg type="insult">Privilegien der Tobsucht</seg>, die<lb/>
+das fremde Lebensgut konfisziert.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_59675">
+               <persName>W.</persName>
+               <note type="comment"/>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/26519</idno></person>
+            <person xml:id="fk__p_46960">
+               <persName>Goethe, Johann Wolfgang von</persName>
+               <birth>
+                  <date>1749-8-28</date>
+                  <place>Frankfurt am Main</place>
+               </birth>
+               <death>
+                  <date>1832-3-22</date>
+                  <place>Weimar</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">890/142f.</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11461</idno></person>
+            <person xml:id="fk__p_51970">
+               <persName>Radetzky, Johann Josef Wenzel Graf von Radetz</persName>
+               <birth>
+                  <date>1766-11-02</date>
+                  <place>Trebnitz/Böhmen</place>
+               </birth>
+               <death>
+                  <date>1858-01-05</date>
+                  <place>Mailand</place>
+               </death>
+               <occupation>Feldherr</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

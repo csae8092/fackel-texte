@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07247.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07246.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07248.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ein Versuch mit untauglichen Mitteln, in: Fackel Heft 18, Nr. 426, 1916, S. 79-80</title>
+            <title type="iso-date">1916-06-01</title>
+            <title type="id">tid_07247</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">18</title><title type="heft">426</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-18-426_n0079.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/426,079</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ein Versuch mit untauglichen Mitteln</head>
+            <p ana="pr98033">
+<space/><seg type="sidehead">[Druckfehlerberichtigung.</seg>] In dem im gestrigen Sonntagsblatte<lb/>
+veröffentlichten Artikel: »<rs type="title"><seg type="spc"><rs type="pers" ana="n2_5721" ref="#fk__p_49349">Beethoven</rs> als Bankaktionär</seg></rs>« von<lb/>
+<rs type="pers" ana="n_65052" ref="#fk__p_41524"><abbr>Dr.</abbr> Max Reinitz</rs>, soll es in der zweiten Spalte statt »von ihm für<lb/>
+100 Gulden Papier (<seg type="symbol" subtype="equals"/> 294 Gulden in Silber)« richtig: »für 1000 Gulden<lb/>
+Papier« heißen.<lb/>
+</p>
+            <p ana="pr98035">
+<space/>Das wird ihn den <seg type="insult">Großaktionären</seg> nicht näher bringen.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_41524">
+               <persName>Reinitz, Max</persName>
+               <birth>
+                  <date>1851-08-18</date>
+                  <place>Papa/Ung.</place>
+               </birth>
+               <death>
+                  <date>1939-11-9?</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Rechtsanwalt</occupation>
+               <occupation>Journalist</occupation>
+               <note type="comment">Beethovenforscher; ZF 4. Tor, 20A/19/60</note>
+            </person>
+            <person xml:id="fk__p_49349">
+               <persName>Beethoven, Ludwig van</persName>
+               <birth>
+                  <date>1770-12-17</date>
+                  <place>Bonn</place>
+               </birth>
+               <death>
+                  <date>1827-3-26</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Komponist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10866</idno></person>
+            </listPerson></back></text>
+</TEI>

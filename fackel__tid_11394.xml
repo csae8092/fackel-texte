@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_11394.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11393.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11395.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Gedenkwort für Hofmannsthal, in: Fackel Heft 32, Nr. 838, 1930, S. 49-50</title>
+            <title type="iso-date">1930-09-01</title>
+            <title type="id">tid_11394</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">32</title><title type="heft">838</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-32-838_n0049.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/838,049</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Gedenkwort für Hofmannsthal</head>
+            <p ana="pr166014">
+unterbrochen durch eine Seite <seg type="insult">Osterrummel bei <rs type="inst"><rs type="pers" ana="n2_8885" ref="#fk__p_47263">Krupnik</rs></rs></seg>, fortgesetzt<lb/>
+ in die Versicherung, daß <rs type="pers" ana="n_99660" ref="#fk__p_46353">Hofmannsthal</rs> sich in einer<lb/>
+<seg type="insult">Welt der Händler</seg> für die Seele entschieden habe.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46353">
+               <persName>Hofmannsthal, Hugo Edler von</persName>
+               <birth>
+                  <date>1874-2-1</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1929-7-15</date>
+                  <place>Rodaun bei Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16293</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11740</idno></person>
+            <person xml:id="fk__p_47263">
+               <persName>Krupnik, Julius</persName>
+               <birth>
+                  <date>1877-11-5</date>
+                  <place>Trzowitz/Polen</place>
+               </birth>
+               <occupation>Kaufhausbesitzer</occupation>
+               <note type="comment">7., Kaiserstr. 111-115</note>
+               <note type="comment">verh. 1909 mit Olga Tausend</note>
+               <note type="comment">Emigration 1938 New York, 1947 Palästina</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_11913.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11912.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11914.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Geist oder Geld, in: Fackel Heft 33, Nr. 857, 1931, S. 111-111</title>
+            <title type="iso-date">1931-08-01</title>
+            <title type="id">tid_11913</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">33</title><title type="heft">857</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-33-857_n0111.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/857,111</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Geist oder Geld</head>
+            <p ana="pr172545">
+betitelt der ‚<rs type="" ana="werk_32219">Abend</rs>‘ ein Kapitel und wenn ihn noch <seg type="insult">der <rs type="pers" ana="n_103051" ref="#fk__p_38020">Sandor<lb/>
+Weiß</rs></seg> regierte, würde man die Alternative einer Forderung vermuten<lb/>
+, die sich dann unter Umständen mit dem Geist zufrieden<lb/>
+gibt. Es handelt sich aber um eine Betrachtung der <rs type="inst">Volkstheaterkrise<lb/>
+</rs>. <seg type="insult">Geld</seg>: das ist, nachweisbar durch Anteilscheine, <seg type="insult">der <rs type="pers" ana="n_103052" ref="#fk__p_40538">Doktor<lb/>
+Hietel</rs></seg>. Und <seg type="insult">Geist</seg>: das ist <seg type="insult">der <rs type="pers" ana="n_103053" ref="#fk__p_41761">Doktor Beer</rs></seg>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_38020">
+               <persName>Weisz, Alexander</persName>
+               <birth>
+                  <date>1884-10-18</date>
+                  <place>Senica/Slowakei</place>
+               </birth>
+               <occupation>Journalist</occupation>
+               <note type="comment">18., Eckpergasse 26/4/10</note>
+               <note type="comment">Adoptivvater von Friederike Burger-Winternitz-Zweig (Staudacher, Austritte, Seite 91)</note>
+               <note type="comment">"Abend"</note>
+            </person>
+            <person xml:id="fk__p_41761">
+               <persName>Beer, Rudolf</persName>
+               <birth>
+                  <date>1885-8-22</date>
+                  <place>Graz</place>
+               </birth>
+               <death>
+                  <date>1938-5-9</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Regisseur</occupation>
+               <occupation>Theaterleiter</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/13920</idno></person>
+            <person xml:id="fk__p_40538">
+               <persName>Hietel, Franz</persName>
+               <birth>
+                  <date>1890-2-16</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1966-10-13</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Tierarzt</occupation>
+               <occupation/>
+               <note type="comment">3., Vordere Zollamtstr. 11</note>
+               <note type="comment">Komm. Rat, Ökonomierat, Veterinärrat, Kammerrat, ger. beeid. Sachverst., Mitglied der Einkommenssteuerberufkommission</note>
+               <note type="comment">Daten werden vom Grabstein Friedhof Grinzing bestätigt</note>
+               <note type="comment">Volkstheaterverein?</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

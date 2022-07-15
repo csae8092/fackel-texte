@@ -1,0 +1,41 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00899.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00898.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00900.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Maler Joseph M. Auchentaller. (Verwahrung eines Malers), in: Fackel Heft 02, Nr. 037, 1900, S. 30-30</title>
+            <title type="iso-date">1900-04-01</title>
+            <title type="id">tid_00899</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">037</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-037_n0030.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/037,030</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Maler Joseph M. Auchentaller. (Verwahrung eines Malers)</head>
+            <p ana="pr8516">
+<space/><seg type="sidehead"><seg type="i">Maler <rs type="pers" ana="n_6704" ref="#fk__p_38547">Joseph <abbr>M.</abbr> Auchentaller</rs>.</seg></seg> Ihre Verwahrung gegenüber der<lb/>
+Behauptung, dass Sie am Arrangement der diesmaligen <rs type="inst">Secessionsausstellung<lb/>
+</rs> betheiligt seien, bringe ich gerne zur Kenntnis meiner Leser.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_38547">
+               <persName>Auchentaller, Josef Maria</persName>
+               <birth>
+                  <date>1865-08-02</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1949-12-31</date>
+                  <place>Grado</place>
+               </death>
+               <occupation>Maler</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

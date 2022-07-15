@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02024.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02023.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02025.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Passantin. (Vom umgedrehten Beethoven), in: Fackel Heft 03, Nr. 085, 1901, S. 26-26</title>
+            <title type="iso-date">1901-11-16</title>
+            <title type="id">tid_02024</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">03</title><title type="heft">085</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-03-085_n0026.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/085,026</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Passantin. (Vom umgedrehten Beethoven)</head>
+            <p ana="pr19746">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_16866" key="#fk__p_51154">Passantin</rs>.</seg></seg> Sie theilen mir mit, dass die Redaction der ‚<rs type="paper" ana="werk_6534">Neuen<lb/>
+Freien Presse</rs>‘ sich bezüglich des »umgedrehten <rs type="pers" ana="n_16867" ref="#fk__p_49349">Beethoven</rs>« nicht nur<lb/>
+mit <rs type="pers" ana="n_16868" ref="#fk__p_42312">Hanslick</rs>, sondern auch mit Speidel in Widerspruch gesetzt hat.<lb/>
+Dieser grimmige Verächter seines <rs type="paperRef" ana="werk_6535">Blattes</rs> habe einst im Gespräche mit<lb/>
+Ihnen bedauernd ausgerufen: »Schade, dass das Denkmal auf diesem<lb/>
+Platze nur für das Palais der Gebrüder <rs type="pers" ana="n_16869" ref="#fk__p_40290">Gutmann</rs> errichtet scheint.«<lb/>
+Und dass es so lange Zeit <seg type="insult">dem <rs type="paperRef" ana="werk_6536">Economisten</rs></seg> zugewendet war, hat ihn<lb/>
+offenbar nicht getröstet. Aber die ‚<rs type="paper" ana="werk_6537">Neue Freie Presse</rs>‘ hat sich inzwischen,<lb/>
+wie ich schon letzthin mittheilen konnte, vollauf beruhigt. Mit einer<lb/>
+kleinen Variante des ihr immer noch wichtigeren <rs type="pers" ana="n_16870" ref="#fk__p_45715">Heine</rs> hilft sie sich<lb/>
+über die ungewohnte Situation hinweg: »Wir können sein Gesicht nicht<lb/>
+haben, so woll’n wir am Gegentheil uns laben!«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_49349">
+               <persName>Beethoven, Ludwig van</persName>
+               <birth>
+                  <date>1770-12-17</date>
+                  <place>Bonn</place>
+               </birth>
+               <death>
+                  <date>1827-3-26</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Komponist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10866</idno></person>
+            <person xml:id="fk__p_45715">
+               <persName>Heine, Heinrich</persName>
+               <birth>
+                  <date>1797-12-13</date>
+                  <place>Düsseldorf</place>
+               </birth>
+               <death>
+                  <date>1856-2-17</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Journalist</occupation>
+               <note type="comment">Ögg separiert F 24/25 </note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11640</idno></person>
+            <person xml:id="fk__p_42312">
+               <persName>Hanslick, Eduard</persName>
+               <birth>
+                  <date>1825-9-11</date>
+                  <place>Prag</place>
+               </birth>
+               <death>
+                  <date>1904-4-6</date>
+                  <place>Baden bei Wien</place>
+               </death>
+               <occupation>Musikkritiker</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11578</idno></person>
+            <person xml:id="fk__p_40290">
+               <persName>Gutmann, David Ritter von</persName>
+               <birth>
+                  <date>1834-12-2</date>
+                  <place>Leipnik, Mähren</place>
+               </birth>
+               <death>
+                  <date>1912-5-14</date>
+                  <place>Baden bei Wien</place>
+               </death>
+               <occupation>Industrieller</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

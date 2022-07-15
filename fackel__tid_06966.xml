@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06966.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06965.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06967.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Aus dem im neuen „Taschenbuch für Bücherfreunde“ enthaltenen Brief eines der Staackmänner „an deinen neugeborenen Sohn“), in: Fackel Heft 17, Nr. 413, 1915, S. 21-21</title>
+            <title type="iso-date">1915-12-01</title>
+            <title type="id">tid_06966</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">17</title><title type="heft">413</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-17-413_n0021.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/413,021</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Aus dem im neuen „Taschenbuch für Bücherfreunde“ enthaltenen Brief eines der Staackmänner „an deinen neugeborenen Sohn“)</head>
+            <p ana="pr94699">
+<space/>Aus dem im neuen »<rs type="title">Taschenbuch für Bücherfreunde</rs>« enthaltenen<lb/>
+ Brief eines der <rs type="inst"><seg type="insult"><rs type="pers" ana="n2_5614" ref="#fk__p_48488">Staackmänner</rs></seg></rs> »an seinen neugeborenen Sohn«:<lb/>
+</p>
+            <p ana="pr94701">
+<space/><seg type="symbol" subtype="4dots"/> Vor der Flucht aus Insterburg begossen die Russen große<lb/>
+Mengen Brotes mit Petroleum. »Über Geschmack streiten wir nicht mit<lb/>
+den Russen,« sagte der deutsche Recke <rs type="pers" ana="n_63849" ref="#fk__p_55030">Hindenburg</rs>, »doch solange der<lb/>
+Vorrat reicht, sollen die russischen Gefangenen Petroleumbrot haben <seg type="symbol" subtype="4dots"/>«<lb/>
+<seg type="spc">Mein <rs type="pers" ana="n_63850" key="#fk__p_53248">Siegfried</rs></seg>, <seg type="spc">siehst du jetzt ein</seg>, <seg type="spc">daß das Bild größer ist</seg>,<lb/>
+<seg type="spc">als es sich dir darstellt</seg>, wenn du <seg type="spc">nur</seg> die Schlachten und die<lb/>
+Erfolge nach den Schlachten kennst? <seg type="symbol" subtype="4dots"/><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_48488">
+               <persName>Staackmann, L. (Verlag)</persName>
+               <note type="comment">Leipzig</note>
+            </person>
+            <person xml:id="fk__p_55030">
+               <persName>Beneckendorff-Hindenburg, Paul von</persName>
+               <birth>
+                  <date>1847-10-2</date>
+                  <place>Posen</place>
+               </birth>
+               <death>
+                  <date>1934-8-2</date>
+                  <place>Neudeck</place>
+               </death>
+               <occupation>Offizier</occupation>
+               <occupation>Politiker</occupation>
+               <note type="comment">Reichspräsident seit 1925</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

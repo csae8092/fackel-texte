@@ -1,0 +1,48 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01787.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01786.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01788.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Bahr-Stiftung.*) (Ausweis der Bahr-Stiftung.), in: Fackel Heft 03, Nr. 075, 1901, S. 28-28</title>
+            <title type="iso-date">1901-04-01</title>
+            <title type="id">tid_01787</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">03</title><title type="heft">075</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-03-075_n0028.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/075,028</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Bahr-Stiftung.*) (Ausweis der Bahr-Stiftung.)</head>
+            <p ana="pr17698">
+<space/>Ausweis der Spenden:<lb/>
+Zwei Abonnentinnen (unter dem Motto: »Vom Herzen!«) <abbr>K.</abbr> —.10<lb/>
+<rs type="pers" ana="n_14914" ref="#fk__p_39487"><abbr>A.</abbr> Breitner</rs> in Mattsee <seg type="symbol" subtype="13dots"/> , 4.—<lb/>
+</p>
+            <p ana="fn111">
+<FN0_TEXT0>
+<space/>*) Siehe Aufruf in <rs type="selfRef" ana="werk_5647"><abbr>Nr.</abbr> 71</rs>.</FN0_TEXT0><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_39487">
+               <persName>Breitner, Anton</persName>
+               <birth>
+                  <date>1858-3-18</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1928-5-30</date>
+                  <place>Mattsee</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Archäologe</occupation>
+               <occupation>Journalist</occupation>
+               <note type="comment">Randglossen zur deutschen Literaturgeschichte, ca. 1905</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

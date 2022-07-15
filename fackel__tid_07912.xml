@@ -1,0 +1,100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07912.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07911.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07913.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Das Kriegsstammbuch der Stadt Wien, in: Fackel Heft 19, Nr. 462, 1917, S. 35-35</title>
+            <title type="iso-date">1917-10-01</title>
+            <title type="id">tid_07912</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">19</title><title type="heft">462</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-19-462_n0035.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/462,035</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Das Kriegsstammbuch der Stadt Wien</head>
+            <p ana="pr105800">
+ist <seg type="insult">ein »Denkmal unserer schweren Zeit« (schwer wegen Größe)</seg><lb/>
+und enthält die »Bildnisse und Schriftzüge jener Männer, denen<lb/>
+nächst Gott unser Schicksal in den denkwürdigen Kriegsjahren<lb/>
+anvertraut war«. Darunter sollen die folgenden Beiträge sein:<lb/>
+</p>
+            <p ana="pr105802">
+<space/>Generalleutnant <rs type="pers" ana="n_67634" ref="#fk__p_48161">Kosch</rs>: »<rs type="title">Wir halten durch!</rs>«<lb/>
+</p>
+            <p ana="pr105803">
+<space/>Generalleutnant <rs type="pers" ana="n_67635" ref="#fk__p_45955">Hermann <abbr>v.</abbr> Strantz</rs>: »<rs type="title">Drauf und durch!</rs>«<lb/>
+</p>
+            <p ana="pr105804">
+<space/>General <rs type="pers" ana="n_67636" ref="#fk__p_54513"><abbr>v.</abbr> Fabeck</rs>: »<rs type="title">Einigkeit macht stark</rs>.«<lb/>
+</p>
+            <p ana="pr105805">
+<space/><rs type="pers" ana="n_67637" ref="#fk__p_55030">Hindenburg</rs>: »<rs type="title">Vorwärts!</rs>«<lb/>
+</p>
+            <p ana="pr105807">
+<space/>Das sollte wirklich — mangels anderer Dinge — auf keinem<lb/>
+Tische fehlen.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_48161">
+               <persName>Kosch, Robert</persName>
+               <birth>
+                  <date>1856-04-05</date>
+                  <place>Glatz/Schlesien</place>
+               </birth>
+               <death>
+                  <date>1942-12-22</date>
+                  <place>Berlin</place>
+               </death>
+               <occupation>General</occupation>
+               <note type="comment">27.11.1915 Pour le merite</note>
+               <note type="comment">Wilhelm Leeb, Tagebuchaufzeichnungen und Lagebeurteilungen aus zwei Weltkriegen</note>
+            </person>
+            <person xml:id="fk__p_45955">
+               <persName>Strantz, Hermann von</persName>
+               <birth>
+                  <date>1853-2-13</date>
+                  <place>Nakel/Posen</place>
+               </birth>
+               <death>
+                  <date>1936-11-3</date>
+                  <place>Dessau</place>
+               </death>
+               <occupation>Offizier</occupation>
+               <note type="comment">Generalleutnant</note>
+            </person>
+            <person xml:id="fk__p_54513">
+               <persName>Fabeck, Max von</persName>
+               <birth>
+                  <date>1854-05-06</date>
+                  <place>Berlin</place>
+               </birth>
+               <death>
+                  <date>1916-12-16</date>
+                  <place>Partenkirchen</place>
+               </death>
+               <occupation>Offizier</occupation>
+               <note type="comment">General</note>
+            </person>
+            <person xml:id="fk__p_55030">
+               <persName>Beneckendorff-Hindenburg, Paul von</persName>
+               <birth>
+                  <date>1847-10-2</date>
+                  <place>Posen</place>
+               </birth>
+               <death>
+                  <date>1934-8-2</date>
+                  <place>Neudeck</place>
+               </death>
+               <occupation>Offizier</occupation>
+               <occupation>Politiker</occupation>
+               <note type="comment">Reichspräsident seit 1925</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

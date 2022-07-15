@@ -1,0 +1,100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00495.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00494.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00496.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Teplicia. (Die Teplitzer Spieler), in: Fackel Heft 01, Nr. 020, 1899, S. 32-32</title>
+            <title type="iso-date">1899-10-01</title>
+            <title type="id">tid_00495</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">020</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-020_n0032.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/020,032</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Teplicia. (Die Teplitzer Spieler)</head>
+            <p ana="pr4580">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_3494" key="#fk__p_54067">Teplicia</rs>.</seg></seg> Sie haben ganz recht: <seg type="insult">Die Herren <rs type="pers" ana="n_3495" ref="#fk__p_60225">Kanitz</rs> und <rs type="pers" ana="n_3496" ref="#fk__p_53920">Thalberg<lb/>
+</rs></seg> sind nicht die einzigen, die anlässlich der großen <rs type="inst">Börsenderoute</rs><lb/>
+in der letzten Woche genannt werden müssen. Ein <seg type="insult">Hauptmitschuldiger</seg><lb/>
+war auch <seg type="insult">ein Teplitzer Speculant, Herr <seg type="spc"><rs type="pers" ana="n_3497" ref="#fk__p_52252">Rindskopf</rs></seg>, der Freund<lb/>
+des Herrn <seg type="spc"><rs type="pers" ana="n_3498" ref="#fk__p_55659">Wittgenstein</rs></seg></seg>. Nur irren Sie, wenn Sie meinen, die<lb/>
+entwerteten Montanpapiere seien unsere besten Industriepapiere.<lb/>
+Die Wahrheit ist vielmehr: Industriepapiere müssen sich gegenwärtig<lb/>
+zumindest mit sechs Procent verzinsen. Der Höchstwert der Prager<lb/>
+Eisenindustrieactien ist also 1000 <abbr>fl.</abbr>, der Alpinen Montanactien 200 <abbr>fl.</abbr>,<lb/>
+der Rima-Muranyer Actien 250 <abbr>fl.</abbr> Thatsächlich aber notieren diese<lb/>
+Papiere auch nach der Deroute circa 1340, 260 und 330. Ein Glück<lb/>
+ist es nur, dass beim sicheren weiteren Coursfall wenige anständige<lb/>
+Menschen ihr Geld einbüßen werden. Es sind zumeist <seg type="insult">ausgepichte<lb/>
+Jobber</seg>, die in diesen Werten »arbeiten«. Und die Spieler bei Ihnen<lb/>
+in Teplitz, die <seg type="insult">dem Herrn <rs type="pers" ana="n_3499" ref="#fk__p_52252">Rindskopf</rs></seg> jetzt aufsitzen, sind moralisch<lb/>
+nicht höherwertig.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_52252">
+               <persName>Rindskopf, Siegmund?</persName>
+               <birth>
+                  <date>1825-2-24</date>
+               </birth>
+               <death>
+                  <date>1899-10-4</date>
+                  <place>Teplitz</place>
+               </death>
+               <occupation>Fabrikant</occupation>
+               <note type="comment">aus Teplitz; Familie änderte später ihren Namen in Riethof</note>
+               <note type="comment">mit Karl Wittgenstein befreundet</note>
+               <note type="comment">evtl. auch Wilhelm (Bruder) (17.07.1827 - 21.11.1900)</note>
+            </person>
+            <person xml:id="fk__p_53920">
+               <persName>Thalberg, Josef</persName>
+               <birth>
+                  <date>1838-6-24</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1902-12-8</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Kaufmann</occupation>
+               <occupation>Bankier</occupation>
+               <occupation>Publizist</occupation>
+               <note type="comment">kais. ottomanischer Generalkonsul</note>
+               <note type="comment">Großhändler</note>
+               <note type="comment">Eig. des Finanzblattes "Der Kapitalist"</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/41894</idno></person>
+            <person xml:id="fk__p_60225">
+               <persName>Kanitz, Alfred</persName>
+               <birth>
+                  <date>1856-5-7</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1938-1-19</date>
+                  <place>Berlin-Wilmersdorf</place>
+               </death>
+               <occupation>Bankier</occupation>
+               <occupation>Publizist</occupation>
+               <note type="comment">9., Berggasse 14</note>
+            </person>
+            <person xml:id="fk__p_55659">
+               <persName>Wittgenstein, Karl</persName>
+               <birth>
+                  <date>1847-4-8</date>
+                  <place>Gohlis bei Leipzig</place>
+               </birth>
+               <death>
+                  <date>1913-1-20</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Großindustrieller</occupation>
+               <note type="comment">es gibt auch ein Familiengrab Wittgenstein in Mauer</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

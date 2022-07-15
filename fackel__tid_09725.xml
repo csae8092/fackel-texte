@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_09725.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09724.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09726.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Die Druckfehler entschädigen, in: Fackel Heft 25, Nr. 640, 1924, S. 155-155</title>
+            <title type="iso-date">1924-01-01</title>
+            <title type="id">tid_09725</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">25</title><title type="heft">640</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-25-640_n0155.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/640,155</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Die Druckfehler entschädigen</head>
+            <p ana="pr131349">
+<space/><rs type="pers" ana="n_80196" ref="#fk__p_42772">Erich Wolfgang Korngold</rs> hatte die Freundlichkeit — — — :<lb/>
+»— — — Ich habe mich bemüht, mit dieser Neueinstudierung ein<lb/>
+Werk des großen Wiener Meisters aus der Tiefe der verstaubten,<lb/>
+schablonenmäßigen Aufführungen herauszuheben — — Ich muß hiebei<lb/>
+wohl nicht erst betonen, daß mich bei alldem <seg type="insult">Liebe und <SPAN norm="Verehrung">Verherung</SPAN><lb/>
+für <rs type="pers" ana="n_80197" ref="#fk__p_46949">Johann Strauß</rs></seg> geleitet hat.«<lb/>
+</p>
+            <p ana="pr131352">
+<space/><rs type="pers" ana="n_80198" ref="#fk__p_43514">Franz Joseph</rs> klammerte sich, wie <rs type="pers" ana="n_80199" ref="#fk__p_49641">Margutti</rs> erzählt, immer noch<lb/>
+an die <rs type="inst">Hofburg</rs>, daß der Abbruch der diplomatischen Beziehungen<lb/>
+noch kein <foreign xml:lang="la">casus belli</foreign> sein müsse.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46949">
+               <persName>Strauß, Johann jun.</persName>
+               <birth>
+                  <date>1825-10-25</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1899-6-3</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Komponist</occupation>
+               <occupation>Dirigent</occupation>
+               <note type="comment">261/15 zweifelhaft</note>
+               <note type="comment">368/22 Johann Strauß-Theater, 4., Favoritenstr. 8, ab 1931 Scala</note>
+            </person>
+            <person xml:id="fk__p_42772">
+               <persName>Korngold, Erich Wolfgang</persName>
+               <birth>
+                  <date>1897-5-29</date>
+                  <place>Brünn</place>
+               </birth>
+               <death>
+                  <date>1957-11-29</date>
+                  <place>Hollywood</place>
+               </death>
+               <occupation>Komponist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11969</idno></person>
+            <person xml:id="fk__p_49641">
+               <persName>Margutti, Albert Freiherr von</persName>
+               <birth>
+                  <date>1869-11-28</date>
+                  <place>Fiume</place>
+               </birth>
+               <death>
+                  <date>1940-01-03</date>
+                  <place>Wien.</place>
+               </death>
+               <occupation>Offizier</occupation>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">FML</note>
+            </person>
+            <person xml:id="fk__p_43514">
+               <persName>Franz Joseph I., Kaiser</persName>
+               <birth>
+                  <date>1830-8-18</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1916-11-21</date>
+                  <place>Wien</place>
+               </death>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15150</idno></person>
+            </listPerson></back></text>
+</TEI>

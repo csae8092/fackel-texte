@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_04045.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04044.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04046.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Arzt. (Zu viel Charas!), in: Fackel Heft 07, Nr. 193, 1906, S. 20-21</title>
+            <title type="iso-date">1906-01-19</title>
+            <title type="id">tid_04045</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">07</title><title type="heft">193</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-07-193_n0020.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/193,020</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Arzt. (Zu viel Charas!)</head>
+            <p ana="pr42108">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="name_203486" ref="#fk__p_38520">Arzt</rs>.</seg></seg></seg> Wird nicht <seg type="insult">der <rs type="pers" ana="n_34879" ref="#fk__p_39881"><abbr>Dr.</abbr> Charas</rs></seg> in der letzten Zeit zu viel<lb/>
+genannt? Wurde nicht vom Beinbruch des <rs type="pers" ana="n_34880" ref="#fk__p_47385">Erzherzogs Karl</rs> <seg type="insult">ein allzu<lb/>
+üppiger Gebrauch</seg> gemacht? Man sieht <seg type="insult">den <rs type="pers" ana="n_34881" ref="#fk__p_39881"><abbr>Dr.</abbr> Charas</rs></seg> ins Palais eilen,<lb/>
+nachdem das Bein bereits verbunden ist. Man sieht ihn im Automobil<lb/>
+den Patienten und die <RS pers="Maria Josepha" globID="name_200928">Erzherzogin-Mutter</RS> ins Sanatorium geleiten.<lb/>
+Gleich darauf erfährt man, daß er mit dem Aufzug in das Röntgeninstitut<lb/>
+ im dritten Stock gefahren ist. Nun glaubt man, daß er müde<lb/>
+sein werde. Nein, wir erfahren, daß der Erzherzog, nachdem er eine<lb/>
+Zigarette geraucht hat, »unter Oberaufsicht des Chefarztes der <rs type="inst">Freiwilligen<lb/>
+ Rettungsgesellschaft</rs> <rs type="pers" ana="n_34882" ref="#fk__p_39881"><abbr>Dr.</abbr> Charas</rs> von zwei Sanitätsdienern in<lb/>
+das Automobil der Rettungsgesellschaft gebettet« wurde. Jetzt sitzt <seg type="insult">der<lb/>
+<rs type="pers" ana="n_34883" ref="#fk__p_39881"><abbr>Dr.</abbr> Charas</rs></seg> wieder im Automobil. Und <seg type="insult">selbst die trägste Phantasie eines<lb/>
+Lesers der ‚<rs type="paper" ana="werk_14292">Neuen Freien Presse</rs>‘</seg> kann sich bereits ausrechnen, daß der<lb/>
+<rs type="pers" ana="n_34884" ref="#fk__p_39881"><abbr>Dr.</abbr> Charas</rs> auch bei der Rückkehr des Erzherzogs ins Palais zugegen sein<lb/>
+werde. Nein, es muß ausdrücklich gemeldet werden, daß die Sanitätsdiener<lb/>
+ — wir erfahren auch ihre Namen — die Bahre bis zum Krankenbett<lb/>
+ trugen, »auf das der Erzherzog dann unter Aufsicht des kaiserlichen<lb/>
+Rates <rs type="pers" ana="n_34885" ref="#fk__p_39881"><abbr>Dr.</abbr> Charas</rs> gehoben wurde«. <seg type="insult">O du mein Wien!</seg><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_39881">
+               <persName>Charas, Heinrich</persName>
+               <birth>
+                  <date>1860-11-19</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1940-6-29</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Arzt</occupation>
+               <note type="comment">Leiter der Freiwilligen Rettungsgesellschaft</note>
+            </person>
+            <person xml:id="fk__p_47385">
+               <persName>Karl I., Kaiser</persName>
+               <birth>
+                  <date>1887-08-17</date>
+                  <place>Persenbeug/NÖ</place>
+               </birth>
+               <death>
+                  <date>1922-04-01</date>
+                  <place>Quinta do Monte/Madeira</place>
+               </death>
+               <occupation>Kaiser</occupation>
+               <note type="comment">Ögg teilt irrt. 561/21 zu, da ist Franz Joseph I. gemeint</note>
+            </person>
+            <person xml:id="fk__p_38520">
+               <persName>Arzt</persName>
+            </person>
+            </listPerson></back></text>
+</TEI>

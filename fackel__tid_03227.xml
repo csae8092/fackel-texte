@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03227.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03226.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03227_a.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Andenken an Belgrad, in: Fackel Heft 05, Nr. 142, 1903, S. 13-13</title>
+            <title type="iso-date">1903-07-3</title>
+            <title type="id">tid_03227</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">05</title><title type="heft">142</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-05-142_n0013.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/142,013</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Andenken an Belgrad</head>
+            <p ana="pr31752">
+<space/><inciptit>Aus</inciptit> Belgrad erhielt die ‚<rs type="paper" ana="werk_11922">Vossische Zeitung</rs>‘ (<date>21. Juni</date>) die<lb/>
+Nachricht, <seg type="insult">»gewisse ausländische Persönlichkeiten«</seg> hätten bei der<lb/>
+Besichtigung des Konak »Andenken mitgehen lassen«. Zu dieser<lb/>
+Besichtigung waren nur ausländische Journalisten zugelassen; die<lb/>
+meisten waren aus Wien und Budapest gekommen. Und die Anhänglichkeit<lb/>
+, welche die Staatsmänner Oesterreich-Ungarns der<lb/>
+Dynastie <rs type="pers" ana="n_27415" ref="#fk__p_48031">Obrenovics</rs> stets bewiesen, scheint bis über deren Grab<lb/>
+bei <seg type="insult">Oesterreichs und Ungarns Presspolitikern</seg> fortzudauern: Mit<lb/>
+einem <seg type="insult">schier religiösen Eifer</seg> sollen im Konak Reliquien <seg type="insult"><rs type="pers" ana="n_27416" ref="#fk__p_56231">Alexanders</rs><lb/>
+des Kleinen</seg> gesammelt worden sein, und man erzählt, einzelne <seg type="insult">der<lb/>
+Wiener und Budapester Herren</seg> hätten sich ganze Museen von<lb/>
+Werthgegenständen in die Taschen gestopft; »es sind Gegenstände<lb/>
+bis zum Einzelwerthe von 500 <abbr>Frcs.</abbr> abhanden gekommen«, versichert<lb/>
+ die ‚<rs type="paper" ana="werk_11923">Vossische Zeitung</rs>‘. Kurz vorher war im Konak Inventur<lb/>
+ gemacht worden, und kurz nachher besah man den Schaden.<lb/>
+Aber niemand wagte in Belgrad, die fehlenden Stücke zu reclamieren;<lb/>
+Serbiens neue Machthaber wollen <seg type="insult">das — ach, so kostbare —<lb/>
+Wohlwollen des Auslands</seg> erringen, und wie könnten sie die auswärtige<lb/>
+ Presse wirksamer von ihrem ernsten Entschlusse, die Vergangenheit<lb/>
+ zu vergessen, überzeugen, als wenn sie ihr gestatten,<lb/>
+möglichst viele Andenken an das Vergangene hinwegzuräumen?<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_56231">
+               <persName>Alexander I. Obrenović, König von Serbien</persName>
+               <birth>
+                  <date>1876-8-14</date>
+                  <place>Belgrad</place>
+               </birth>
+               <death>
+                  <date>1903-6-11</date>
+                  <place>Belgrad</place>
+               </death>
+               <occupation>König</occupation>
+               <note type="comment">seit Abdankung seines Vaters 1889</note>
+            </person>
+            <person xml:id="fk__p_48031">
+               <persName>Milan I. Obrenović, König von Serbien</persName>
+               <birth>
+                  <date>1854-8-22</date>
+                  <place>Jassy</place>
+               </birth>
+               <death>
+                  <date>1901-2-11</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>König</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

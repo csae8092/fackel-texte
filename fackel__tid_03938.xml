@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03938.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03937.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03939.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Habitué. (Der heilige Antimus), in: Fackel Heft 07, Nr. 183, 1905, S. 48-48</title>
+            <title type="iso-date">1905-07-4</title>
+            <title type="id">tid_03938</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">07</title><title type="heft">183</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-07-183_n0048.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/183,048</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Habitué. (Der heilige Antimus)</head>
+            <p ana="pr40379">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="name_203524" ref="#fk__p_45322">Habitué</rs>.</seg></seg> In <foreign xml:lang="fr">‚<rs type="magazine" ana="werk_13979">Le cri de paris</rs>‘</foreign> (<date>18. Juni</date>) ist die folgende Glosse<lb/>
+zu lesen, deren Verfasser trotz der echt französischen Auffassung Wiens<lb/>
+als der <seg type="insult"><foreign xml:lang="fr">»capitale hongroise«</foreign></seg> über österreichische Verhältnisse gut informiert<lb/>
+ zu sein scheint: <foreign xml:lang="fr">(<seg type="spc">Censure</seg>). Ne médisons pas trop de notre censure:<lb/>
+celle de Vienne lui rend des points. La semaine dernière, une troupe de<lb/>
+Berlin se proposait de jouer dans la capitale hongroise <rs type="title">Le Miracle de<lb/>
+<rs type="pers">Saint-Antoine</rs></rs> de <abbr>M.</abbr> <rs type="pers" ana="n_33751" ref="#fk__p_49517">Maeterlinck</rs>, dont le titre allemand est:</foreign> <rs type="title">Das Wunder<lb/>
+des <rs type="pers">heiligen <seg type="spc">Antonius</seg></rs></rs>. <foreign xml:lang="fr">La censure intervint, car en Autriche il est<lb/>
+interdit de mettre sur une affiche théâtrale le nom d’un vrai saint. Elle<lb/>
+intima au directeur de remplacer <rs type="pers" ana="n_33752" ref="#fk__p_46145">Antonius</rs> par <rs type="pers" ana="n_33753" ref="#fk__p_46145"><seg type="spc">Antimus</seg></rs>. Le directeur<lb/>
+obtempère. Trois jours après, nouvelle intervention de la censure qui<lb/>
+avait découvert qu’il existe aussi un saint <rs type="pers" ana="n_33754" ref="#fk__p_46145">Antimus</rs>. Il y en a tant! Le<lb/>
+directeur a dû remplacer <rs type="pers" ana="n_33755" ref="#fk__p_46145">Antimus</rs> par <rs type="pers" ana="n_33756" ref="#fk__p_46145"><seg type="spc">Antinus</seg></rs>. Pourvu qu’on ne découvre<lb/>
+ maintenant un saint <rs type="pers" ana="n_33757" ref="#fk__p_46145">Antinus</rs>, autrement l’affiche finira par porter<lb/>
+<seg type="insult"><seg type="spc">saint Asinus Censor</seg></seg>.</foreign><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_49517">
+               <persName>Maeterlinck, Maurice</persName>
+               <birth>
+                  <date>1862-8-29</date>
+                  <place>Gent</place>
+               </birth>
+               <death>
+                  <date>1949-5-6</date>
+                  <place>Orlamonde bei Nizza</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12156</idno></person>
+            <person xml:id="fk__p_45322">
+               <persName>Habitué</persName>
+            </person>
+            <person xml:id="fk__p_46145">
+               <persName>Antonius von Padua, Hl.</persName>
+               <birth>
+                  <date>1195-8-15</date>
+                  <place>Lissabon</place>
+               </birth>
+               <death>
+                  <date>1231-6-13</date>
+                  <place>Arcella bei Padua</place>
+               </death>
+            </person>
+            </listPerson></back></text>
+</TEI>

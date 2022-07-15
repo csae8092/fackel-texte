@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06311.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06310.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06312.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Nun also,, in: Fackel Heft 15, Nr. 376, 1913, S. 32-32</title>
+            <title type="iso-date">1913-06-01</title>
+            <title type="id">tid_06311</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">15</title><title type="heft">376</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-15-376_n0032.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/376,032</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Nun also,</head>
+            <p ana="pr85190">
+der <rs type="pers" ana="n_58910" ref="#fk__p_42901">Erzherzog Josef</rs> schreibt fürs <rs type="paper" ana="werk_19529">Neue Wiener Journal</rs>, die <rs type="pers" ana="n_58911" ref="#fk__p_48088">Königin<lb/>
+von Italien</rs> fürs <rs type="paper" ana="werk_19530">Berliner Tageblatt</rs>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_42901">
+               <persName>Josef August, Erzherzog</persName>
+               <birth>
+                  <date>1872-08-09</date>
+                  <place>Alcsút</place>
+               </birth>
+               <death>
+                  <date>1962-07-06</date>
+                  <place>Rain/Straubing</place>
+               </death>
+               <occupation>Offizier</occupation>
+               <occupation>Politiker</occupation>
+            </person>
+            <person xml:id="fk__p_48088">
+               <persName>Helena, Königin von Italien</persName>
+               <birth>
+                  <date>1873-1-8</date>
+                  <place>Cetinje/Montenegro</place>
+               </birth>
+               <death>
+                  <date>1952-11-28</date>
+                  <place>Montpellier</place>
+               </death>
+               <occupation>Königin</occupation>
+               <note type="comment">Ögg gibt die Stelle 376/32 Viktor Emanuel</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03275.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03274.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03276.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Untertan. (Ein Genrebild), in: Fackel Heft 05, Nr. 144, 1903, S. 23-24</title>
+            <title type="iso-date">1903-10-17</title>
+            <title type="id">tid_03275</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">05</title><title type="heft">144</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-05-144_n0023.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/144,023</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Untertan. (Ein Genrebild)</head>
+            <p ana="pr32332">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="n_27888" ref="#fk__p_54410">Untertan</rs>.</seg></seg></seg> <seg type="insult">Schmock</seg> ist nicht immer loyal. Als <rs type="pers" ana="n_27889" ref="#fk__p_55493">Wilhelm II.</rs> in<lb/>
+Wien weilte und an der Seite unseres <RS pers="Franz Joseph" globID="rs_406">Kaisers</RS> einer Vorstellung der<lb/>
+»<rs type="title">Weißen Dame</rs>« in der <rs type="inst">Hofoper</rs> beiwohnte, will <seg type="insult">der Vertreter der ‚<rs type="paper" ana="werk_12172">Neuen<lb/>
+Freien Presse</rs>‘</seg> (<date>19. September</date>) <seg type="insult">das folgende Genrebild</seg> beobachtet haben:<lb/>
+</p>
+            <p ana="pr32332">
+»<rs type="pers" ana="n_27890" ref="#fk__p_55493">Kaiser Wilhelm</rs> folgte vom ersten Augenblick an mit gespannter Aufmerksamkeit<lb/>
+ der Vorstellung und warf in den Zwischenakten hie und<lb/>
+da einen Blick in das Parkett. Manchesmal tauschten die Monarchen<lb/>
+Bemerkungen aus. Bei den Worten des <rs type="pers">Pächters Dickson</rs>: ‚<seg type="spc">Wie wohl<lb/>
+tut es</seg>, <seg type="spc">wenn man sein Weib unter dem Schutze eines<lb/>
+Leutnants weiß</seg><choice><sic>,‘</sic><corr>‘,</corr></choice> <seg type="spc">flüsterte</seg> <rs type="pers" ana="n_27891" ref="#fk__p_43514">Kaiser Franz Josef</rs> seinem Gast<lb/>
+<seg type="spc">einige Worte zu</seg>, worauf <seg type="spc">beide Monarchen herzlich lachten</seg>.«<lb/>
+Ahnt der <seg type="insult">Dummkopf</seg>, daß er zwei Majestäten beleidigt hat, da er sie an<lb/>
+der Treue sämtlicher Frauen und — schlimmer — an der Verläßlichkeit<lb/>
+sämtlicher Leutnants zweifeln ließ? <seg type="insult">Dem <rs type="paperRef" ana="werk_12173">führenden deutschliberalen Blatt<lb/>
+Österreichs</rs></seg> blieb es vorbehalten, das deutsch-österreichische Bündnis auf<lb/>
+ein <seg type="insult">Einverständnis im Erfassen einer pikanten Situation</seg> zu reduzieren <seg type="symbol" subtype="3dots"/><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_54410">
+               <persName>Untertan</persName>
+            </person>
+            <person xml:id="fk__p_43514">
+               <persName>Franz Joseph I., Kaiser</persName>
+               <birth>
+                  <date>1830-8-18</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1916-11-21</date>
+                  <place>Wien</place>
+               </death>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15150</idno></person>
+            <person xml:id="fk__p_55493">
+               <persName>Wilhelm II., Kaiser</persName>
+               <birth>
+                  <date>1859-1-27</date>
+                  <place>Berlin</place>
+               </birth>
+               <death>
+                  <date>1941-6-4</date>
+                  <place>Doorn/Niederlande</place>
+               </death>
+               <occupation>Kaiser</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_21338</idno></person>
+            </listPerson></back></text>
+</TEI>

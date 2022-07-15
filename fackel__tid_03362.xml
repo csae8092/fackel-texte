@@ -1,0 +1,46 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03362.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03361.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03363.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Zensor. (Von der Zensur), in: Fackel Heft 05, Nr. 148, 1903, S. 31-31</title>
+            <title type="iso-date">1903-12-2</title>
+            <title type="id">tid_03362</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">05</title><title type="heft">148</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-05-148_n0031.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/148,031</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Zensor. (Von der Zensur)</head>
+            <p ana="pr33231">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="n_28735" ref="#fk__p_55853">Zensor</rs>.</seg></seg></seg> »<rs type="pers" ana="n_28736" ref="#fk__p_50868">Wildes</rs> ‚<rs type="title"><rs type="pers">Salome</rs></rs>‘ wurde heute von der <rs type="inst">Statthalterei</rs><lb/>
+freigegeben. <seg type="symbol" subtype="3dots"/> Die wesentlichste Änderung, die vorgenommen wurde,<lb/>
+besteht darin, daß das Haupt des <rs type="pers">Täufers</rs>, das <rs type="pers">Salome</rs> hereinbringt,<lb/>
+mit einem Tuch bedeckt sein muß.« Zu dumm!<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_50868">
+               <persName>Wilde, Oscar Fingal O'Flaherty Wills</persName>
+               <birth>
+                  <date>1854-10-16</date>
+                  <place>Dublin</place>
+               </birth>
+               <death>
+                  <date>1900-11-30</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Ögg gibt die Salome-Stelle 912/45 Richard Strauss</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_21325</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/13115</idno></person>
+            <person xml:id="fk__p_55853">
+               <persName>Zensor</persName>
+            </person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_10443.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10442.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10444.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Zwölf harbe Rappen, in: Fackel Heft 27, Nr. 717, 1926, S. 72-72</title>
+            <title type="iso-date">1926-04-01</title>
+            <title type="id">tid_10443</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">27</title><title type="heft">717</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-27-717_n0072.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/717,072</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Zwölf harbe Rappen</head>
+            <p ana="pr143642">
+<space/><rs type="pers" ana="n_87490" ref="#fk__p_47385">Kaiser Karl</rs> liebte, wie <rs type="pers" ana="n_87491" ref="#fk__p_39958">Eder</rs> berichtet, im heimlichen Kreis den<lb/>
+Wiener Dialekt über alles. Oft mußte sich <rs type="pers" ana="n_87492" ref="#fk__p_39958">Eder</rs> zum Klavier setzen<lb/>
+und aus den Operetten spielen und singen, die der <RS pers="Kaiser Karl" globID="rs_1097">Kaiser</RS> liebte.<lb/>
+<seg type="spc"><rs type="pers" ana="n_87493" ref="#fk__p_47385">Kaiser Karl</rs> soufflierte ihm dabei den Text</seg>, und wehe,<lb/>
+wenn er den Dialekt nicht genau so brachte, wie ihn der hohe<lb/>
+Souffleur ihm vormachte. <seg type="spc">Dann konnte der <RS pers="Kaiser Karl" globID="rs_1098">Kaiser</RS> sogar<lb/>
+sehr ungehalten sein</seg>. Oft sang er selbst Wiener Lieder,<lb/>
+wobei ihn <rs type="pers" ana="n_87494" ref="#fk__p_39958">Eder</rs> begleiten mußte. Einmal, als er ganz besonders<lb/>
+aufgeräumt war, <seg type="spc">sang er das <rs type="title">Fiakerlied</rs> gleich sechsmal<lb/>
+hintereinander</seg>. Und wenn ihn die <rs type="pers" ana="n_87495" ref="#fk__p_46056">Herzogin von Parma</rs> manchmal<lb/>
+ wegen der Dialektworte <seg type="spc">lächelnd ersuchte</seg>, seine Aussprache<lb/>
+doch etwas mehr dem Hochdeutschen zu nähern, dann erklärte er, es<lb/>
+gäbe nichts Schöneres als den Wiener Dialekt.<lb/>
+</p>
+            <p ana="pr143644">
+<space/><foreign xml:lang="de-loc">»Verzeihn Sie, Sie haben vorhin g’sungen: Ich führ zwei<lb/>
+harbe Rappen <seg type="symbol" subtype="3dots"/> Dann haben Sie wieder g’sungen: Ich führ<lb/>
+zwei harbe Rappen <seg type="symbol" subtype="3dots"/>«</foreign> So hätte an <rs type="pers" ana="n_87496" ref="#fk__p_39958">Eders</rs> Stelle der<lb/>
+<rs type="pers">Schneider Zwirn</rs> nachgerechnet, der noch aus einer besseren Zeit<lb/>
+jenes Dialektes stammte; und zum Schluß der Debatte festgestellt:<lb/>
+<foreign xml:lang="de-loc">»Jetzt sind’s zwölf.«</foreign><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_47385">
+               <persName>Karl I., Kaiser</persName>
+               <birth>
+                  <date>1887-08-17</date>
+                  <place>Persenbeug/NÖ</place>
+               </birth>
+               <death>
+                  <date>1922-04-01</date>
+                  <place>Quinta do Monte/Madeira</place>
+               </death>
+               <occupation>Kaiser</occupation>
+               <note type="comment">Ögg teilt irrt. 561/21 zu, da ist Franz Joseph I. gemeint</note>
+            </person>
+            <person xml:id="fk__p_39958">
+               <persName>Eder, Christian</persName>
+               <birth>
+                  <date>1879-2-13</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1944-7-26</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Kapellmeister</occupation>
+               <note type="comment">4., Schleifmühlgasse 6</note>
+               <note type="comment">spielte bei der Hochzeit Karls und Zitas</note>
+               <note type="comment">Hofpfarre St. Augustin</note>
+            </person>
+            <person xml:id="fk__p_46056">
+               <persName>Bourbon-Parma, Maria Antonia Adelheid Herzogin von </persName>
+               <birth>
+                  <date>1862-11-28</date>
+                  <place>Bronnbach an der Tauber</place>
+               </birth>
+               <death>
+                  <date>1959-5-14</date>
+                  <place>Luxemburg</place>
+               </death>
+               <note type="comment">Ögg gibt 717/72 der Kaiserin Zita</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

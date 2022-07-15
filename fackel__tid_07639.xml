@@ -1,0 +1,95 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07639.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07638.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07640.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Die Künstler, in: Fackel Heft 18, Nr. 445, 1234, S. 72-73</title>
+            <title type="iso-date">1234-01-01</title>
+            <title type="id">tid_07639</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">18</title><title type="heft">445</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-18-445_n0072.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/445,072</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Die Künstler</head>
+            <p ana="pr102600">
+<space/>Was? — — <seg type="insult">Eine von Baurat <rs type="pers" ana="n_66335" ref="#fk__p_56962">Seidl</rs> verfaßte — —</seg> <rs type="pers" ana="n_66336" ref="#fk__p_52080">Reimers</rs><lb/>
+mit Wärme und tönender Stimme —<lb/>
+</p>
+            <lg>
+<l>Künstler grüßen Dich, o <RS pers="Karl I." globID="name_202021">Kaiser</RS>,</l>
+<l>Ihre Herzen für Dich glüh’n,</l>
+<l>Blumen auf den Weg sie streuen</l>
+<l>Ihrer jungen <RS pers="Zita" globID="name_202022">Kaiserin</RS>.</l>
+</lg>
+            <p ana="pr102604">
+Unter den <seg type="insult">Anwesenden</seg> bemerkte man — — <rs type="pers" ana="n_66337" ref="#fk__p_40482">Dobner <abbr>v.</abbr> Dobenau</rs> — —<lb/>
+— <foreign xml:lang="de-loc">A hörn S’ des wird aber <seg type="insult">a <rs type="pers" ana="n_66338" ref="#fk__p_38597">augustisch Alter</rs></seg> wer’n, passn S’ auf!</foreign><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_40482">
+               <persName>Dobner von Dobenau, Friedrich</persName>
+               <birth>
+                  <date>1852-10-15</date>
+                  <place>Esseg/Ungarn</place>
+               </birth>
+               <death>
+                  <date>1925-8-28</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Hofbeamter</occupation>
+               <note type="comment">4., Theresianumgasse 33</note>
+               <note type="comment">Friedhof Dornbach Fritz Dobner von Dobenau 1878-1911 (Suizid auf der Rax Ende Jänner 1911)</note>
+               <note type="comment">Truchseß</note>
+            </person>
+            <person xml:id="fk__p_56962">
+               <persName>Seidl, Carl</persName>
+               <birth>
+                  <date>1858-3-13</date>
+                  <place>Mährisch Schönberg</place>
+               </birth>
+               <death>
+                  <date>1936-6-10</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Architekt</occupation>
+               <note type="comment">Ögg: Kurt</note>
+               <note type="comment">Obmann des Künstlerklub "Alte Welt"; 4., Favoritenplatz 8</note>
+               <note type="comment">verh. mit Hedwig Winzig, geb. 02.02.1893</note>
+               <note type="comment">auch Seidl-Dubina</note>
+               <note type="comment">k.k. Baurat</note>
+            </person>
+            <person xml:id="fk__p_52080">
+               <persName>Reimers, Georg</persName>
+               <birth>
+                  <date>1860-4-4</date>
+                  <place>Altona</place>
+               </birth>
+               <death>
+                  <date>1936-4-15</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <note type="comment">ab 1885 am Burgtheater, 1922 EM</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12498</idno></person>
+            <person xml:id="fk__p_38597">
+               <persName>Augustinus Aurelis, Hl.</persName>
+               <birth>
+                  <date>354-11-13</date>
+                  <place>Tagaste/Numidien</place>
+               </birth>
+               <death>
+                  <date>430-08-28</date>
+                  <place>Hippo Regius/Nordafrika</place>
+               </death>
+               <occupation>Bischof</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

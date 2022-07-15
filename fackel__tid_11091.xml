@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_11091.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11090.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11092.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Druckfehlerberichtigung), in: Fackel Heft 31, Nr. 811, 1929, S. 34-35</title>
+            <title type="iso-date">1929-08-01</title>
+            <title type="id">tid_11091</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">31</title><title type="heft">811</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-31-811_n0034.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/811,034</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Druckfehlerberichtigung)</head>
+            <p ana="pr160186">
+<space/><FCORR id="fcorr_156" ferrID="ferr_156" href="FK-30-800_n0123.xml">In <rs type="selfRef" ana="werk_29290"><abbr>Nr.</abbr> 800—805</rs>, <abbr>S.</abbr> 123, <abbr>Z.</abbr> 4 <abbr>v. u.</abbr> statt »Gynaikogog«:<lb/>
+<seg type="i"><EM id="em_156" ferrID="ferr_156" href="FK-30-800_n0123.xml">Gynaikagog</EM></seg>.</FCORR><lb/>
+</p>
+            <p ana="pr160187">
+<space/><FCORR id="fcorr_157" ferrID="ferr_157" href="FK-31-806_n0009.xml">In <rs type="selfRef" ana="werk_29291"><abbr>Nr.</abbr> 806—809</rs>, <abbr>S.</abbr> 9, <abbr>Z.</abbr> 10 <abbr>v. u.</abbr> statt »<rs type="pers" ana="n2_8571" ref="#fk__p_47801"><SPAN norm="Keyserling">Keyserlingk</SPAN></rs>«<lb/>
+<rs type="pers" ana="n_96056" ref="#fk__p_47801"><seg type="i"><EM id="em_157" ferrID="ferr_157" href="FK-31-806_n0009.xml">Keyserling</EM></seg></rs></FCORR>; <FCORR id="fcorr_158" ferrID="ferr_158" href="FK-31-806_n0052.xml"><abbr>S.</abbr> 52, <abbr>Z.</abbr> 6 statt »<rs type="pers" ana="n2_8572" ref="#fk__p_44330"><SPAN norm="Grosz">Groß</SPAN></rs>«: <rs type="pers" ana="n_96057" ref="#fk__p_44330"><seg type="i"><EM id="em_158" ferrID="ferr_158" href="FK-31-806_n0052.xml">Grosz</EM></seg></rs>.</FCORR><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_44330">
+               <persName>Grosz, George</persName>
+               <birth>
+                  <date>1893-07-26</date>
+                  <place>Berlin</place>
+               </birth>
+               <death>
+                  <date>1959-07-06</date>
+                  <place>Berlin</place>
+               </death>
+               <occupation>Zeichner</occupation>
+               <occupation>Maler</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/7562</idno></person>
+            <person xml:id="fk__p_47801">
+               <persName>Keyserling, Hermann Graf</persName>
+               <birth>
+                  <date>1880-7-20</date>
+                  <place>Könno, Livland</place>
+               </birth>
+               <death>
+                  <date>1946-4-26</date>
+                  <place>Innsbruck</place>
+               </death>
+               <occupation>Philosoph</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16831</idno></person>
+            </listPerson></back></text>
+</TEI>

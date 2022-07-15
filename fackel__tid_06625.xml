@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06625.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06624.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06626.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Die Dichter haben das Wort, in: Fackel Heft 15, Nr. 395, 1914, S. 9-10</title>
+            <title type="iso-date">1914-01-01</title>
+            <title type="id">tid_06625</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">15</title><title type="heft">395</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-15-395_n0009.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/395,009</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Die Dichter haben das Wort</head>
+            <p ana="pr89688">
+<space/>Um die nationalen Gegensätze in Böhmen zu überbrücken,<lb/>
+sind zu Weihnachten <seg type="insult">zwei Kulturmenschen</seg> berufen worden, von<lb/>
+denen man erwarten kann, daß sie für die <seg type="insult">Errungenschaften</seg> sind<lb/>
+und <seg type="insult">das Verbindende</seg> dem Trennenden vorziehen: <seg type="insult">die Herren<lb/>
+<rs type="pers" ana="n_61322" ref="#fk__p_46342">Salus</rs> und <rs type="pers" ana="n_61323" ref="#fk__p_47535">Strobl</rs></seg>. Dieser ist <seg type="insult">Pessimist</seg>. Er möchte uns ja gern<lb/>
+etwas zu Weihnachten schenken, aber er glaubt an kein Christkindl<lb/>
+ mehr. <foreign xml:lang="de-loc">Las’n verdienen.</foreign> <seg type="insult"><choice><sic>Jenner</sic><corr>Jener</corr></choice></seg> nennt sich <seg type="insult">einen in Böhmen<lb/>
+wirkenden Kulturmenschen</seg> und beklagt sich darüber, daß heute<lb/>
+»jeder achtzehnjährige Jüngling schon Antisemit oder Zionist, Arier<lb/>
+oder Nichtarier, Deutschnationaler oder Tschechischradikaler ist und<lb/>
+von der kulturellen Gemeinschaft nichts wissen will«. Ich bin<lb/>
+gewiß frei von dem Verdacht, der <seg type="insult">Einteilung der Idioten nach<lb/>
+Nationen</seg> das Wort zu sprechen. Aber jeder achtzehnjährige<lb/>
+Jüngling, der in solchen Vorurteilen befangen ist, scheint mir<lb/>
+turmhoch über <seg type="insult">jener allgemeinen Menschlichkeit</seg> zu stehen,<lb/>
+die da <seg type="insult">Gedichte von <rs type="pers" ana="n_61324" ref="#fk__p_46342">Salus</rs></seg> toleriert und begünstigt. Gemeinsame<lb/>
+Arbeit für <seg type="insult">solches Hochziel</seg> ist ein <seg type="insult">Ideal</seg>, das tief unter jeder politischen<lb/>
+ Tendenz steht.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46342">
+               <persName>Salus, Hugo</persName>
+               <birth>
+                  <date>1866-8-3</date>
+                  <place>Böhmisch-Leipa</place>
+               </birth>
+               <death>
+                  <date>1929-2-4</date>
+                  <place>Prag</place>
+               </death>
+               <occupation>Arzt</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12611</idno></person>
+            <person xml:id="fk__p_47535">
+               <persName>Strobl, Karl Hans</persName>
+               <birth>
+                  <date>1877-1-18</date>
+                  <place>Iglau, Mähren</place>
+               </birth>
+               <death>
+                  <date>1946-3-10</date>
+                  <place>Perchtoldsdorf</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Kritiker</occupation>
+               <note type="comment">Dr. jur., Tätigkeit beim "Tagesboten aus Mähren und Schlesien"</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10114</idno></person>
+            </listPerson></back></text>
+</TEI>

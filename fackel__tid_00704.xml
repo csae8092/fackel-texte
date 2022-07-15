@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00704.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00703.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00705.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Destenfels., in: Fackel Heft 01, Nr. 029, 1900, S. 27-28</title>
+            <title type="iso-date">1900-01-01</title>
+            <title type="id">tid_00704</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">029</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-029_n0027.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/029,027</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Destenfels.</head>
+            <p ana="pr6695">
+<space/>Das Abendblatt der ‚<rs type="paper" ana="werk_1797">Neuen Freien Presse</rs>‘ vom <date>16. Jänner</date><lb/>
+citiert in einem Privattelegramm das Rundschreiben, das Präsident<lb/>
+<rs type="pers" ana="n_5102" ref="#fk__p_51223">Krüger</rs> an die Buren-Generale gerichtet hat. <rs type="pers" ana="n_5103" ref="#fk__p_51223">Krüger</rs>, heißt es zum<lb/>
+Schlusse, »vergleicht <seg type="insult">das englische Zerstörungswerk</seg> mit dem <seg type="insult"><seg type="spc">Angriffe<lb/>
+<rs type="pers" ana="n_5104" key="#fk__p_40397">Destenfels’</rs> auf die Kirche <rs type="pers" ana="n_5105" ref="#fk__p_46843">Christi</rs></seg></seg>«.<lb/>
+</p>
+            <p ana="pr6696">
+<space/><seg type="insult">Die Leser der ‚<rs type="paper" ana="werk_1798">Neuen Freien Presse</rs>‘</seg> zerbrachen sich den<lb/>
+Kopf und konnten auf keine Weise herausbringen, wer denn <seg type="insult">dieser<lb/>
+<rs type="pers" ana="name_200862" key="#fk__p_40397">Destenfels</rs></seg>, dessen Name bisher im Burenkriege nie genannt war,<lb/>
+eigentlich sei. Sie haben sich an mich mit der Bitte um Aufklärung<lb/>
+gewendet. Sie ward mir nicht leicht. Vom langen Nachdenken<lb/>
+wollte ich schier <seg type="spc">des Teufels</seg> werden.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_51223">
+               <persName>Krüger, Paul</persName>
+               <birth>
+                  <date>1825-10-10</date>
+                  <place>Farm Vaalbank/Colesberg, Kapkolonie</place>
+               </birth>
+               <death>
+                  <date>1904-07-14</date>
+                  <place>Clarens/Genfer See</place>
+               </death>
+               <occupation>Politiker</occupation>
+            </person>
+            <person xml:id="fk__p_46843">
+               <persName>Jesus Christus</persName>
+            </person>
+            </listPerson></back></text>
+</TEI>

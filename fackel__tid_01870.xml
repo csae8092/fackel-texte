@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01870.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01869.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01871.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Zeitungsleser. (Herr Kanner und die ‚Frankfurter Zeitung’;), in: Fackel Heft 03, Nr. 078, 1901, S. 27-27</title>
+            <title type="iso-date">1901-05-01</title>
+            <title type="id">tid_01870</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">03</title><title type="heft">078</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-03-078_n0027.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/078,027</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Zeitungsleser. (Herr Kanner und die ‚Frankfurter Zeitung’;)</head>
+            <p ana="pr18312">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_15437" ref="#fk__p_55843">Zeitungsleser</rs>.</seg></seg> Warum <seg type="insult">Herr <rs type="pers" ana="n_15438" ref="#fk__p_47448"><abbr>Dr.</abbr> Kanner</rs></seg> der ‚<rs type="paper" ana="werk_5873">Frankfurter<lb/>
+Zeitung</rs>‘, die ihm, ihrem ehemaligen Wiener Correspondenten,<lb/>
+<seg type="insult">»gemeine Lüge und Verleumdung«</seg> vorgeworfen hat, nicht erwidert?<lb/>
+Vornehme Zurückhaltung ist es sicherlich nicht, die ihm Schweigen<lb/>
+gebietet. Man kann also nicht umhin, zu glauben, dass <seg type="insult">der politische<lb/>
+Redacteur der ‚<rs type="magazine" ana="werk_5874">Zeit</rs>‘</seg> zu <seg type="insult">jenen Leuten</seg> gehört, die sich aus keinem<lb/>
+besseren Grunde befugt glauben, in anderer Leute Angelegenheiten<lb/>
+ dreinzureden, als weil sie guten Grund haben, von ihren<lb/>
+eigenen zu schweigen. Und <seg type="insult">Herr <rs type="pers" ana="n_15439" ref="#fk__p_47448">Kanner</rs></seg> will wohl auch die ‚<rs type="paper" ana="werk_5875">Frankfurter<lb/>
+ Zeitung</rs>‘ nicht dazu provocieren, dass sie meiner Aufforderung<lb/>
+folge und den wahren Grund seiner Entlassung nenne.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_47448">
+               <persName>Kanner, Heinrich</persName>
+               <birth>
+                  <date>1864-11-9</date>
+                  <place>Galatz, Rumänien</place>
+               </birth>
+               <death>
+                  <date>1930-2-15</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Publizist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11867</idno></person>
+            <person xml:id="fk__p_55843">
+               <persName>Zeitungsleser</persName>
+            </person>
+            </listPerson></back></text>
+</TEI>

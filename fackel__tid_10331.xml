@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_10331.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10330.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10332.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Abdruck aus ‚La Vie des Peuples‘), in: Fackel Heft 27, Nr. 697, 1925, S. 109-110</title>
+            <title type="iso-date">1925-10-01</title>
+            <title type="id">tid_10331</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">27</title><title type="heft">697</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-27-697_n0109.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/697,109</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Abdruck aus ‚La Vie des Peuples‘)</head>
+            <p ana="pr140471">
+<space/><foreign xml:lang="fr"><seg ana="‚La Vie des Peuples‘ (Paris, Juin 1925, Nr. 62)"/>, <rs type="title">Le mouvement<lb/>
+ littéraire en Autriche</rs>, (<rs type="pers" ana="n_85892" ref="#fk__p_38230">André Robert</rs>):</foreign><lb/>
+</p>
+            <p ana="pr140473">
+<space/><foreign xml:lang="fr"><seg type="symbol" subtype="4dotsEditor"/> les amateurs de haute littérature <seg type="symbol" subtype="4dotsEditor"/> Qu’ils pensent<lb/>
+aussi à <rs type="pers" ana="n_85893" ref="#fk__p_47565"><abbr>K. K.</abbr></rs>, étincelant satirique qui donne libre cours chaque<lb/>
+semaine (?) à sa combativité dans <rs type="self" ana="werk_27066">la Torche</rs>, revue entièrement rédigée<lb/>
+par lui. Il a dernièrement produit sur la scène la fin de sa pièce<lb/></foreign>
+</p>
+            <p ana="pr140473">
+<foreign xml:lang="fr">colossale: <rs type="title">les Derniers jours de l’humanité</rs>. Dans cette oeuvre, lourde<lb/>
+de visions apocalyptiques, <rs type="pers" ana="n_85894" ref="#fk__p_47565"><abbr>K. K.</abbr></rs> réduit à néant à coup de sarcasmes<lb/>
+magnifiques les grands mots consacrés et écrase <seg type="insult">tous les cloportes<lb/>
+de la guerre, journalistes, diplomates, spéculateurs</seg>. Aussi tous les esprits<lb/>
+avides d’indépendance et d’anarchie ne jurent-ils à Vienne que par <rs type="pers" ana="n_85895" ref="#fk__p_47565"><abbr>K. K.</abbr></rs></foreign><lb/>
+</p>
+            <p ana="pr140475">
+<space/>‚<rs type="magazine" ana="werk_27067">Germania</rs>‘ (Berlin, <date>25. Juni</date>, Literarische Beilage): <rs type="title">Literatur-Satire<lb/>
+</rs>. Von <rs type="pers" ana="n_85896" ref="#fk__p_41626"><abbr>Dr.</abbr> Paul Adams</rs> (über die magische Operette »<rs type="title">Literatur</rs>«).<lb/>
+‚<rs type="" ana="werk_27068">Der Morgen</rs>‘ (Agram, <date>9<choice><sic>,</sic><corr>.</corr></choice> Juli</date>, Wochenbeilage für Literatur und Kunst):<lb/>
+<rs type="title"><rs type="pers" ana="n2_7636" ref="#fk__p_47565"><abbr>K. K.</abbr></rs></rs> Von <rs type="pers" ana="n_85897" key="#fk__p_55612">Willy Zucker</rs>. <foreign xml:lang="pl">‚<rs type="magazine" ana="werk_27069">Wiadomości Literackie</rs>‘ (Warszawa, <date>1924</date><lb/>
+<abbr>Nr.</abbr> 38): <rs type="title">Pogromca gazeciarstwa <rs type="pers" ana="n2_7637" ref="#fk__p_47565"><abbr>K. K.</abbr></rs></rs> Von <rs type="pers" ana="n_85898" key="#fk__p_50170">Mieczyslaw Roman<lb/>
+Fraenkel</rs>.</foreign><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_47565">
+               <persName>Kraus, Karl</persName>
+               <birth>
+                  <date>1874-4-28</date>
+                  <place>Jicin, Böhmen</place>
+               </birth>
+               <death>
+                  <date>1936-6-12</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Publizist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11988</idno></person>
+            <person xml:id="fk__p_41626">
+               <persName>Adams, Paul</persName>
+               <birth>
+                  <date>1894-3-21</date>
+                  <place>Minden/Westfalen</place>
+               </birth>
+               <death>
+                  <date>1961</date>
+               </death>
+               <occupation>Literarhistoriker</occupation>
+            </person>
+            <person xml:id="fk__p_38230">
+               <persName>Robert, André</persName>
+               <birth>
+                  <date>1902-8-24</date>
+                  <place>Béziers</place>
+               </birth>
+               <death>
+                  <date>1989-7-18</date>
+                  <place>Vaulnaveys-le-Haut/Isère</place>
+               </death>
+               <occupation>Germanist</occupation>
+               <note type="comment">André Robert, L'idée nationale autrichienne et les guerres de Napoléon, 1933</note>
+               <note type="comment">Le Prince de Hombourg, 1938</note>
+               <note type="comment">Raoul Dufy, Institut Francais Berlin 1956</note>
+               <note type="comment">unterrichtete am Institut Francais de Vienne</note>
+               <note type="comment">wie Robert Minder Absolvent der Ecole normale superieure, Jahrgang 1921</note>
+               <note type="comment">Univ. Lektor, Doz. an der Konsularakad., 3., Baumannstraße 5</note>
+               <note type="comment">La Vie des Peuples</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

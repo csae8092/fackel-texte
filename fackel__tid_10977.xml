@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_10977.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10976.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10978.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Weigl’s Antoniussaal, 23. Oktober, 7 Uhr (Für die Österreichische Rote Hilfe), in: Fackel Heft 30, Nr. 781, 1928, S. 52-53</title>
+            <title type="iso-date">1928-06-01</title>
+            <title type="id">tid_10977</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">30</title><title type="heft">781</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-30-781_n0052.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/781,052</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Weigl’s Antoniussaal, 23. Oktober, 7 Uhr (Für die Österreichische Rote Hilfe)</head>
+            <p ana="pr155296">
+<space/><rs type="inst"><rs type="pers" ana="n2_8148" ref="#fk__p_59118">Weigl’s</rs> <rs type="pers" ana="n2_8149" ref="#fk__p_46145">Antoniussaal</rs></rs>, <date>23. Oktober</date>, 7 Uhr (Für die <rs type="inst">Österreichische<lb/>
+ Rote Hilfe</rs>):<lb/>
+</p>
+            <p ana="pr155297">
+<space/><rs type="title"><seg type="spc">Die letzten Tage der Menschheit</seg></rs>: Tafelszene.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_59118">
+               <persName>Weigl, Johann</persName>
+               <birth>
+                  <date>1874-7-10</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1943-11-6</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Restaurateur</occupation>
+               <note type="comment">Weigls Dreherpark, Antonius-Saal, Altdeutscher Saal</note>
+               <note type="comment">12., Schönbrunner Straße 307</note>
+            </person>
+            <person xml:id="fk__p_46145">
+               <persName>Antonius von Padua, Hl.</persName>
+               <birth>
+                  <date>1195-8-15</date>
+                  <place>Lissabon</place>
+               </birth>
+               <death>
+                  <date>1231-6-13</date>
+                  <place>Arcella bei Padua</place>
+               </death>
+            </person>
+            </listPerson></back></text>
+</TEI>

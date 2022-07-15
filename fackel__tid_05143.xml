@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_05143.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05142.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05144.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ein Fall von Inkompatibilität, in: Fackel Heft 12, Nr. 305, 1910, S. 50-50</title>
+            <title type="iso-date">1910-07-20</title>
+            <title type="id">tid_05143</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">12</title><title type="heft">305</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-12-305_n0050.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/305,050</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ein Fall von Inkompatibilität</head>
+            <p ana="pr65910">
+<space/>Die <rs type="title">Militärstrafprozeßordnung</rs> ist schließlich noch erträglich.<lb/>
+Ein Blumenkorso meinetwegen auch. Aber beides zugleich — das<lb/>
+geht nicht! Zu den Plagen der <rs type="pers" ana="n_48114" ref="#fk__p_46195">Hofrichter-Affäre</rs> hat dieser entsetzliche<lb/>
+ Parallelismus gehört: Tagtäglich, im <rs type="perRef" ana="werk_41300"><seg type="ELIDASH">Morgenblatt</seg> und Abendblatt<lb/>
+</rs>, »wurde gemäß den Bestimmungen der <rs type="title">Militärstrafprozeßordnung<lb/>
+</rs> das geschöpfte Urteil dem Korpskommandanten <abbr>G. d. I.</abbr> <rs type="pers" ana="n_48115" ref="#fk__p_54857">von<lb/>
+Versbach-Hadamar</rs> vorgelegt«, und in der benachbarten Spalte schon<lb/>
+»bemerkte man <seg type="insult"><abbr>u. a.</abbr> die Gemahlin des Korpskommandanten <abbr>G. d. I.</abbr><lb/>
+<rs type="pers" ana="name_200419" ref="#fk__p_57113"><rs type="pers" ana="n_48116" ref="#fk__p_54857">Versbach <abbr>v.</abbr> Hadamar</rs></rs> (rosa Rosen und Tülltuffs)</seg>«. Wenn ein Ehepaar<lb/>
+ in die Öffentlichkeit tritt, so muß doch eine gewisse einheitliche<lb/>
+ Grundstimmung vorwalten. Wenigstens in den Tagen so<lb/>
+wichtiger Entscheidungen. Also künftig, wenn ich bitten darf,<lb/>
+entweder die <seg type="insult">Häuslichkeit <rs type="pers" ana="name_200692" ref="#fk__p_37899">Albas</rs> ohne Blumenkorso</seg>, oder<lb/>
+<seg type="insult">Pflichten der Saison ohne Todesurteil</seg>. Nur kein Durcheinander!<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46195">
+               <persName>Hofrichter, Adolf</persName>
+               <birth>
+                  <date>1880-1-20</date>
+                  <place>Reichenau/Böhmen</place>
+               </birth>
+               <death>
+                  <date>1945-12-29</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Offizier</occupation>
+               <note type="comment">Todesurteil, Gnadengesuch, lebenslanger Kerker, Begnadigung 1927</note>
+               <note type="comment">Bestätigung des Todesurteils am 24.06.1910</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/5655</idno></person>
+            <person xml:id="fk__p_54857">
+               <persName>Versbach-Hadamar, Mansuet Freiherr von</persName>
+               <birth>
+                  <date>1845-7-26</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1912-12-9</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>General</occupation>
+               <note type="comment">RP 31.1.1912, Seite 10: Sigmund Versbach von Hadamar soll unter Hypnose Urkunden gefälscht haben</note>
+               <note type="comment">Korpskommandant</note>
+            </person>
+            <person xml:id="fk__p_37899">
+               <persName>Álvarez de Toledo, Fernando, Herzog von Alba</persName>
+               <birth>
+                  <date>1507-10-29</date>
+                  <place>Piedrahita, Kastilien</place>
+               </birth>
+               <death>
+                  <date>1582-12-11</date>
+                  <place>Lissabon</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <note type="comment">305/50 die Häuslichkeit Albas ???</note>
+            </person>
+            <person xml:id="fk__p_57113">
+               <persName>Versbach-Hadamar, Friederike Freifrau von</persName>
+               <birth>
+                  <date>1865</date>
+               </birth>
+               <death>
+                  <date>1913-2</date>
+               </death>
+               <note type="comment"/>
+            </person>
+            </listPerson></back></text>
+</TEI>

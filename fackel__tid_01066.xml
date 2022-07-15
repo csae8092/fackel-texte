@@ -1,0 +1,40 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01066.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01065.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01067.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Confisciert. (Zum Wiener Aufenthalt Milans.), in: Fackel Heft 02, Nr. 045, 1900, S. 1-2</title>
+            <title type="iso-date">1900-06-01</title>
+            <title type="id">tid_01066</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">045</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-045_n0001.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/045,001</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Confisciert. (Zum Wiener Aufenthalt Milans.)</head>
+            <p ana="pr10180">
+<seg type="i">wurde an dieser Stelle eine den Wiener Aufenthalt <rs type="pers" ana="n_8321" ref="#fk__p_48031"><seg type="spc">Milans</seg></rs> betreffende<lb/>
+, den Tagesblättern wörtlich entnommene Meldung.</seg><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_48031">
+               <persName>Milan I. Obrenović, König von Serbien</persName>
+               <birth>
+                  <date>1854-8-22</date>
+                  <place>Jassy</place>
+               </birth>
+               <death>
+                  <date>1901-2-11</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>König</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

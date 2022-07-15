@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_08747.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08746.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08748.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Nachtrag zu „Innsbruck“), in: Fackel Heft 22, Nr. 544, 1920, S. 31-31</title>
+            <title type="iso-date">1920-06-01</title>
+            <title type="id">tid_08747</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">22</title><title type="heft">544</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-22-544_n0031.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/544,031</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Nachtrag zu „Innsbruck“)</head>
+            <p ana="pr115959">
+<space/>Nachtrag zu <seg type="insult">»<rs type="title">Innsbruck</rs>«</seg>.<lb/>
+</p>
+            <p ana="pr115960">
+<space/>Aus einer Zuschrift:<lb/>
+</p>
+            <p ana="pr115962">
+<space/>»<seg type="insult">Die hiesige Professorenschaft</seg> hat die angeregte Gedächtnisfeier<lb/>
+ für <rs type="pers" ana="n_71660" ref="#fk__p_45733"><seg type="spc">Lammasch</seg></rs>, der früher hier <rs type="inst">Universitätsprofessor</rs><lb/>
+war, entgegen aller Tradition abgelehnt. Weiß Gott, diese<lb/>
+akademischen Lehrer sind doch von allen <seg type="insult">die geistig verlorenste<lb/>
+Schicht</seg>.«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_45733">
+               <persName>Lammasch, Heinrich</persName>
+               <birth>
+                  <date>1853-5-21</date>
+                  <place>Seitenstetten, Niederösterreich</place>
+               </birth>
+               <death>
+                  <date>1920-1-6</date>
+                  <place>Salzburg</place>
+               </death>
+               <occupation>Jurist</occupation>
+               <occupation>Politiker</occupation>
+               <note type="comment">letzter Ministerpräsident der Monarchie</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/28855</idno></person>
+            </listPerson></back></text>
+</TEI>

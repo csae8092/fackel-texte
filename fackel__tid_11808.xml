@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_11808.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11807.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11809.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Zum Geburtstag, in: Fackel Heft 33, Nr. 852, 1931, S. 95-96</title>
+            <title type="iso-date">1931-05-01</title>
+            <title type="id">tid_11808</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">33</title><title type="heft">852</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-33-852_n0095.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/852,095</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Zum Geburtstag</head>
+            <p ana="pr171006">
+<rs type="pers" ana="n_102202" ref="#fk__p_46090">Hilde Wagener</rs>,<lb/>
+</p>
+            <p ana="pr171007">
+die Gattin <rs type="pers" ana="n_102203" ref="#fk__p_51003">Otto Treßlers</rs>, feiert den Geburtstag am schönsten, und<lb/>
+zwar dadurch, daß sie eigens zu diesem Anlaß von ihrer Palästinareise<lb/>
+zurückgekommen ist. Sie war einen Monat fort und ist noch ganz<lb/>
+berauscht von ihrer Erholungsfahrt, die sie ganz allein unternommen<lb/>
+hat und die, wie sie behauptet, eben darum so unerhört schön war.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46090">
+               <persName>Wagener, Hilde</persName>
+               <birth>
+                  <date>1901-11-26</date>
+                  <place>Hannover</place>
+               </birth>
+               <death>
+                  <date>1992-12-26</date>
+                  <place>Baden bei Wien</place>
+               </death>
+               <occupation>Schauspielerin</occupation>
+               <note type="comment">1. 5. 1924 bis 1989 Burgtheater</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/26551</idno></person>
+            <person xml:id="fk__p_51003">
+               <persName>Tressler, Otto</persName>
+               <birth>
+                  <date>1871-4-13</date>
+                  <place>Stuttgart</place>
+               </birth>
+               <death>
+                  <date>1965-4-27</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <occupation>Bildhauer</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12971</idno></person>
+            </listPerson></back></text>
+</TEI>

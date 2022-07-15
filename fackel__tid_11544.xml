@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_11544.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11543.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11545.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Aufführungen und Schallplatten), in: Fackel Heft 32, Nr. 838, 1930, S. 131-132</title>
+            <title type="iso-date">1930-09-01</title>
+            <title type="id">tid_11544</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">32</title><title type="heft">838</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-32-838_n0131.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/838,131</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Aufführungen und Schallplatten)</head>
+            <p ana="pr167650">
+<space/>An den Aufführungen des <rs type="pers" ana="n_100331" ref="#fk__p_46664">Offenbach-Zyklus</rs> im <rs type="inst">Berliner Rundfunk</rs><lb/>
+ist der Bearbeiter als Wortregisseur beteiligt.<lb/>
+</p>
+            <p ana="pr167651">
+<space/>Am <date>5. Oktober</date>, dem <rs type="event">50. Todestag</rs>, findet dort, für Berlin und<lb/>
+andere Städte, die Erstaufführung der »<rs type="title">Seufzerbrücke</rs>« statt.<lb/>
+</p>
+            <p ana="pr167652">
+<space/>An dem gleichen Tage führt das <rs type="inst">Stadttheater in Basel</rs> die<lb/>
+<foreign xml:lang="fr">»<rs type="title">Madame l’Archiduc</rs>«</foreign> auf.<lb/>
+</p>
+            <p ana="pr167653">
+<space/>Im <rs type="inst">Altmärkischen Landestheater Stendal</rs> hat am <date>2. April</date> die<lb/>
+Uraufführung der Bearbeitung der »<rs type="title">Briganten</rs>« unter der musikalischen<lb/>
+Leitung des Kapellmeisters <rs type="pers" ana="n_100332" ref="#fk__p_43936">Fritz Mahler</rs> stattgefunden.<lb/>
+</p>
+            <p ana="pr167654">
+<space/>Die »<rs type="inst">Neue Truppe</rs>« hat zwei Elektro-Schallplatten hergestellt:<lb/>
+Das <rs type="title"><rs type="pers" ana="n2_8924" ref="#fk__p_46939">Schoberlied</rs></rs> und das <rs type="title">Lied von der Presse</rs>, <rs type="title">Die Raben</rs> und <rs type="title">Todesfurcht</rs>.<lb/>
+»<rs type="title">Die Raben</rs>« wurden zum erstenmal am <date>21. August</date> im <rs type="inst">Berliner<lb/>
+Rundfunk</rs> vorgeführt.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46664">
+               <persName>Offenbach, Jacques</persName>
+               <birth>
+                  <date>1819-06-21</date>
+                  <place>Köln</place>
+               </birth>
+               <death>
+                  <date>1880-10-05</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Komponist</occupation>
+               <note type="comment">Ögg teilt Fortunato F 876/34 Shakespeare zu</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/9131</idno></person>
+            <person xml:id="fk__p_43936">
+               <persName>Mahler, Fritz</persName>
+               <birth>
+                  <date>1901-07-16</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1973-06-18</date>
+                  <place>Winston-Salem/N.C.</place>
+               </death>
+               <occupation>Dirigent</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/39019</idno></person>
+            <person xml:id="fk__p_46939">
+               <persName>Schober, Johannes</persName>
+               <birth>
+                  <date>1874-11-14</date>
+                  <place>Perg, Oberösterreich</place>
+               </birth>
+               <death>
+                  <date>1932-8-19</date>
+                  <place>Baden bei Wien</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <note type="comment">Pfarramt Perg: Taufregister: Johannes, Grabstein: Johannes Schober, nicht Johann</note>
+               <note type="comment">Vornamensschreibweise ebenso Czeike, ÖBL</note>
+               <note type="comment">Lebenslauf: NFP 26.9.1929, Seite 4</note>
+               <note type="comment">seit 21.06.1921 Bundeskanzler bis 26.01.1922, von 27.01.1922 bis 24.05.1922, von 26.09.1929 bis 25.09.1930</note>
+               <note type="comment">Polizeipräsident; 1921/22, 1929/30 Bundeskanzler und Außenminister</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/24444</idno></person>
+            </listPerson></back></text>
+</TEI>

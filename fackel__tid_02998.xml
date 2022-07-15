@@ -1,0 +1,125 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02998.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02997.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02999.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Chronist. (Röntgen-Augen), in: Fackel Heft 04, Nr. 132, 1903, S. 27-28</title>
+            <title type="iso-date">1903-03-14</title>
+            <title type="id">tid_02998</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">04</title><title type="heft">132</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-04-132_n0027.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/132,027</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Chronist. (Röntgen-Augen)</head>
+            <p ana="pr29557">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_25592" ref="#fk__p_39979">Chronist</rs>.</seg></seg> Ein <seg type="insult">Reclame-Advocat</seg> — der in <rs type="selfRef" ana="werk_10891"><abbr>Nr.</abbr> 131</rs> behandelte<lb/>
+— saß kürzlich <seg type="insult">jenem Portraitisten des ‚<rs type="paper" ana="werk_10892">Neuen Wiener Journal</rs>‘</seg>, der<lb/>
+</p>
+            <p ana="pr29557">
+uns <seg type="insult">ein so anziehendes Conterfei des Dichters <rs type="pers" ana="n_25593" ref="#fk__p_43283">Philipp von Haas</rs></seg> geliefert<lb/>
+ hatte. Das Interview schloss mit den Worten: »Was er als<lb/>
+Anwalt vermochte, das hat ein Großer classificiert: Er (der <seg type="insult">Reclame-Advocat<lb/>
+</seg>) <seg type="spc">hat <seg type="insult"><rs type="pers" ana="n_25594" ref="#fk__p_52441">Röntgen-Augen</rs></seg></seg>, <seg type="spc">sagte <rs type="pers" ana="n_25595" ref="#fk__p_45922">Meynert</rs></seg>«. Es ist eine<lb/>
+<seg type="insult">recht billigenswerthe Vorsicht</seg>, das Lob <seg type="insult">eines Wiener Barreau-Mannes</seg> einem<lb/>
+<seg type="spc">todten</seg> Denker in den Mund zu legen. Aber ungeschickt war es,<lb/>
+daß der <seg type="insult">Reporter</seg> gerade auf <rs type="pers" ana="n_25596" ref="#fk__p_45922">Meynert</rs> verfiel; denn der war auch<lb/>
+schon todt, als <rs type="pers" ana="n_25597" ref="#fk__p_52441">Röntgen</rs> seine Arbeit über die Kathodenstrahlen publicierte<lb/>
+, und deshalb kann er, den übrigens auch sein Geschmack vor<lb/>
+<seg type="insult">so falschem Bild und so falschem Lob</seg> bewahrt hätte, von <seg type="insult">»<rs type="pers" ana="n_25598" ref="#fk__p_52441">Röntgen-Augen<lb/>
+</rs>«</seg> nicht gesprochen haben. Das Wort muß also wohl von dem<lb/>
+<seg type="insult">Reclame-Advocaten</seg> selbst geprägt sein <seg type="symbol" subtype="3dots"/> Den <seg type="insult">Reclame-Schreibern</seg> aber<lb/>
+wäre mehr Gedächtnis und weniger Phantasie zu wünschen. Sonst lesen<lb/>
+wir nächstens, <rs type="pers" ana="n_25599" ref="#fk__p_47097">Kaiser Josef</rs> habe von <rs type="pers" ana="n_25600" ref="#fk__p_39897">Charles Weinberger</rs> gesagt: er<lb/>
+hat <seg type="insult"><rs type="pers" ana="n_25601" ref="#fk__p_42280">Edison-Ohren</rs></seg>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_43283">
+               <persName>Haas-Teichen, Philipp Freiherr von</persName>
+               <birth>
+                  <date>1859-11-15</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1926-2-26</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Industrieller</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15817</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/17684</idno></person>
+            <person xml:id="fk__p_39897">
+               <persName>Weinberger, Charles</persName>
+               <birth>
+                  <date>1861-4-3</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1939-11-1</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Komponist</occupation>
+               <note type="comment">Operette "Pagenstreiche" (1888)</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/26806</idno></person>
+            <person xml:id="fk__p_42280">
+               <persName>Edison, Thomas Alva</persName>
+               <birth>
+                  <date>1847-02-11</date>
+                  <place>Milan/Ohio</place>
+               </birth>
+               <death>
+                  <date>1931-10-18</date>
+                  <place>West Orange/New Jersey</place>
+               </death>
+               <occupation>Techniker</occupation>
+               <occupation>Erfinder</occupation>
+            </person>
+            <person xml:id="fk__p_39979">
+               <persName>Chronist</persName>
+            </person>
+            <person xml:id="fk__p_47097">
+               <persName>Josef II.</persName>
+               <birth>
+                  <date>1741-03-13</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1790-02-20</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Kaiser</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/3084</idno></person>
+            <person xml:id="fk__p_52441">
+               <persName>Röntgen, Wilhelm Conrad</persName>
+               <birth>
+                  <date>1845-03-27</date>
+                  <place>Lennep/Rheinl.</place>
+               </birth>
+               <death>
+                  <date>1923-02-10</date>
+                  <place>München</place>
+               </death>
+               <occupation>Physiker</occupation>
+               <note type="comment">1901 Nobelpreis Physik</note>
+            </person>
+            <person xml:id="fk__p_45922">
+               <persName>Meynert, Hermann Günther</persName>
+               <birth>
+                  <date>1808-12-20</date>
+                  <place>Dresden</place>
+               </birth>
+               <death>
+                  <date>1895-3-10</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Publizist</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

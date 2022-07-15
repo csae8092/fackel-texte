@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03420.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03419.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03421.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Techniker. (Sic transit), in: Fackel Heft 05, Nr. 151, 1904, S. 25-26</title>
+            <title type="iso-date">1904-01-4</title>
+            <title type="id">tid_03420</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">05</title><title type="heft">151</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-05-151_n0025.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/151,025</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Techniker. (Sic transit)</head>
+            <p ana="pr33941">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="n_29245" ref="#fk__p_53987">Techniker</rs>.</seg></seg></seg> In <rs type="selfRef" ana="werk_12587"><abbr>Nr.</abbr> 150</rs> ist ein Irrtum unterlaufen. Die der Veröffentlichungspflicht<lb/>
+ unterliegende Bilanz ist natürlich jene der »<rs type="inst">Aktiengesellschaft<lb/>
+ für Szczepanik’s Textil-Industrie-Fabriksanstalt</rs>«. Deren<lb/>
+Gründerin und Schuldnerin ist die offene Handelsgesellschaft »<rs type="inst">Société<lb/>
+des inventions <rs type="pers" ana="n2_2261" ref="#fk__p_46730">Jan Szczepanik</rs> &amp; <choice><sic>Cie</sic><corr>Cie.</corr></choice></rs>«, welche wegen Versäumnis des<lb/>
+Lieferungstermins der Textilmaschinen das von dem neuen Geldgeber<lb/>
+jetzt glücklich aufgebrachte Pönale von 40.000 Kronen bezahlen sollte.<lb/>
+Nun ist der Aktiengesellschaft mit dem Pönale und der offenen Handelsgesellschaft<lb/>
+ durch den uneigennützigen Geldgeber zur Wahrung der<lb/>
+Ehre Polens geholfen, und beide Unternehmungen werden wohl noch<lb/>
+ein Weilchen fortleben. Die Verwechslung beider liegt übrigens nahe.<lb/>
+Nicht nur wegen des gemeinsamen Wiener Domizils in der Pragerstraße<lb/>
+, sondern auch wegen des Zusammenhangs, der durch die Personen<lb/>
+ hergestellt ist: durch den in beiden Unternehmungen ausgebeuteten<lb/>
+Erfinder und durch <seg type="insult">den beide ausbeutenden »Bankier« <rs type="pers" ana="n_29246" ref="#fk__p_49303">Ludwig Kleinberg</rs></seg>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46730">
+               <persName>Szczepanik, Jan</persName>
+               <birth>
+                  <date>1872-4-13</date>
+                  <place>Rudniki bei Mostyska/Ukraine</place>
+               </birth>
+               <death>
+                  <date>1926-4-18</date>
+                  <place>Tarnów/Polen</place>
+               </death>
+               <occupation>Erfinder</occupation>
+            </person>
+            <person xml:id="fk__p_49303">
+               <persName>Kleinberg, Ludwig</persName>
+               <birth>
+                  <date>1858-3-12</date>
+                  <place>Drohobycz/Galizien</place>
+               </birth>
+               <death>
+                  <date>1920-10-23</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Kaufmann</occupation>
+               <note type="comment">1., Biberstraße 24</note>
+            </person>
+            <person xml:id="fk__p_53987">
+               <persName>Techniker</persName>
+            </person>
+            </listPerson></back></text>
+</TEI>

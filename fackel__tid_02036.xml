@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02036.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02035.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02037.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Entscheidung des Bezirksgerichtes für Handelssachen, in: Fackel Heft 03, Nr. 085, 1901, S. 32-32</title>
+            <title type="iso-date">1901-11-16</title>
+            <title type="id">tid_02036</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">03</title><title type="heft">085</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-03-085_n0032.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/085,032</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Entscheidung des Bezirksgerichtes für Handelssachen</head>
+            <p ana="pr19804">
+<space/><B>Das <rs type="inst"><abbr>k. k.</abbr> Bezirksgericht für Handelssachen in Wien</rs> hat am<lb/>
+<date>4. November 1901</date> in der Rechtssache des Schriftstellers <rs type="pers" ana="n_16911" ref="#fk__p_47565">Karl Kraus</rs><lb/>
+gegen den <abbr>prot.</abbr> Buchdrucker <rs type="pers" ana="n_16912" ref="#fk__p_50376">Moriz Frisch</rs> zu Recht erkannt:</B><lb/>
+</p>
+            <p ana="pr19805">
+<space/>»<seg type="i">Der Beklagte ist schuldig, binnen 14 Tagen dem Kläger<lb/>
+zu gestatten, dass Kläger entweder persönlich oder durch einen<lb/>
+ausgewiesenen Bevollmächtigten in das beim Beklagten befindliche<lb/>
+Verzeichnis der Abonnenten der Zeitschrift ‚<rs type="self" ana="werk_6577">Die Fackel</rs>‘ Einsicht<lb/>
+nehme und von demselben eine Abschrift anfertige oder durch<lb/>
+einen ausgewiesenen Bevollmächtigten eine Abschrift anfertigen<lb/>
+lasse; der Beklagte ist weiter schuldig, die mit 74 K 56 h bestimmten<lb/>
+ Gerichtskosten binnen 14 Tagen bei sonstiger Execution<lb/>
+zu bezahlen.</seg>«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_47565">
+               <persName>Kraus, Karl</persName>
+               <birth>
+                  <date>1874-4-28</date>
+                  <place>Jicin, Böhmen</place>
+               </birth>
+               <death>
+                  <date>1936-6-12</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Publizist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11988</idno></person>
+            <person xml:id="fk__p_50376">
+               <persName>Frisch, Moriz</persName>
+               <birth>
+                  <date>1849-2-28</date>
+                  <place>Tisnienica/Galizien</place>
+               </birth>
+               <death>
+                  <date>1913-10-31</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Drucker</occupation>
+               <note type="comment">ZF 1. Tor 52/48/35</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07891.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07890.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07892.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Die Planke, in: Fackel Heft 19, Nr. 462, 1917, S. 9-9</title>
+            <title type="iso-date">1917-10-01</title>
+            <title type="id">tid_07891</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">19</title><title type="heft">462</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-19-462_n0009.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/462,009</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Die Planke</head>
+            <p ana="pr105557">
+<rs type="title"><rs type="pers"><seg type="spc">Bogdan Stimoff</seg></rs></rs><lb/>
+</p>
+            <p ana="pr105558">
+Unter persönlicher Mitwirkung<lb/>
+ des <rs type="pers" ana="n_67480" ref="#fk__p_48012">Königs<lb/>
+Ferdinand<lb/>
+von Bulgarien</rs><lb/>
+</p>
+            <p ana="pr105559">
+<rs type="title"><seg type="spc">Feierlicher<lb/>
+Gottesdienst</seg></rs><lb/>
+</p>
+            <p ana="pr105560">
+Erstklassige Kantoren<lb/>
+</p>
+            <p ana="pr105561">
+<rs type="title"><rs type="pers"><seg type="spc">Urschula</seg></rs></rs><lb/>
+</p>
+            <p ana="pr105562">
+geh her, genier dich<lb/>
+nicht!<lb/>
+</p>
+            <p ana="pr105563">
+<space/>Warum gerade sie sich genieren sollte, ist wirklich nicht<lb/>
+einzusehen.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_48012">
+               <persName>Ferdinand I., König von Bulgarien, Prinz von Sachsen-Coburg-Gotha</persName>
+               <birth>
+                  <date>1861-2-26</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1948-9-10</date>
+                  <place>Coburg</place>
+               </death>
+               <occupation>König</occupation>
+               <note type="comment">Zar von Bulgarien 1896 bis zur Abdankung 1918</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

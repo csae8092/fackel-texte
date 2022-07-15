@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_10171.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10170.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10172.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Österreichs Beliebtheit, in: Fackel Heft 27, Nr. 691, 1925, S. 17-17</title>
+            <title type="iso-date">1925-07-01</title>
+            <title type="id">tid_10171</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">27</title><title type="heft">691</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-27-691_n0017.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/691,017</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Österreichs Beliebtheit</head>
+            <lg>
+<l>Es scheint uns wieder besser zu geraten,</l>
+<l>nicht nötig ist’s, die Trübsal zu verlängern:</l>
+<l>verdorben wurden wir durch <seg type="insult">Diplomaten</seg>,</l>
+<l>gerettet von den <seg type="insult">Operettensängern</seg>.</l>
+</lg>
+            <lg>
+<l>Mit <seg type="insult">den zum Führerfach berufnen Fürsten</seg></l>
+<l>da hatten wahrlich wir zu wenig Glück.</l>
+<l>Wenn schon vertreten von <rs type="pers"><seg type="insult">Hanswürsten</seg></rs>,</l>
+<l>dann, meint die Welt, gleich lieber mit Musik!</l>
+</lg>
+            <lg>
+<l>Selbst keinen <rs type="pers" ana="n_85001" ref="#fk__p_39266">Bismarck</rs> <foreign xml:lang="de-loc">brauch’mr</foreign>, fortgeführt</l>
+<l>wird sein <seg type="insult">politisch garstig Lied</seg> zum <seg type="insult"><foreign xml:lang="de-loc">Liedel</foreign></seg>:</l>
+<l>was <seg type="insult">Schwert und Feder</seg> uns ruiniert,</l>
+<l>das richtet man sich mit der <foreign xml:lang="de-loc">Fiedel</foreign>.</l>
+</lg>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_39266">
+               <persName>Bismarck, Otto Eduard Leopold Fürst</persName>
+               <birth>
+                  <date>1815-04-01</date>
+                  <place>Schönhausen</place>
+               </birth>
+               <death>
+                  <date>1898-07-30</date>
+                  <place>Friedrichsruh</place>
+               </death>
+               <occupation>Politiker</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13749</idno></person>
+            </listPerson></back></text>
+</TEI>

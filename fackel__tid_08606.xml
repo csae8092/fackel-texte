@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_08606.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08605.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08607.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Mittlerer Konzerthaussaal, 16. März, halb 3 Uhr:, in: Fackel Heft 21, Nr. 508, 1919, S. 39-39</title>
+            <title type="iso-date">1919-04-01</title>
+            <title type="id">tid_08606</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">21</title><title type="heft">508</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-21-508_n0039.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/508,039</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Mittlerer Konzerthaussaal, 16. März, halb 3 Uhr:</head>
+            <p ana="pr112928">
+<space/><rs type="inst">Mittlerer Konzerthaussaal</rs>, <date>16. März</date>, halb 3 Uhr:<lb/>
+</p>
+            <p ana="pr112929">
+<space/>I. <rs type="title"><seg type="spc">Worte in Versen</seg></rs>: <rs type="title">Furcht</rs> / <rs type="title">Magie</rs> / <rs type="title">Traum vom<lb/>
+Fliegen</rs> / <rs type="title">Slowenischer Leierkasten</rs> / <rs type="title">Als <rs type="pers" ana="n2_6309" ref="#fk__p_39336">Bobby</rs> starb</rs> / <rs type="title">Rückkehr in<lb/>
+die Zeit</rs> / <rs type="title">Jugend</rs> / <rs type="title">Unter dem Wasserfall</rs> / <rs type="title">Ich habe einen Blick<lb/>
+gesehn</rs> / <rs type="title"><rs type="pers" ana="n2_6310" ref="#fk__p_51379">Peter Altenberg</rs></rs> / <rs type="title">Die Ballade vom Papagei</rs>.<lb/>
+</p>
+            <p ana="pr112930">
+<space/>II. <rs type="title"><seg type="spc">Die letzte Nacht</seg></rs>.<lb/>
+</p>
+            <p ana="pr112931">
+<space/>Ein Teil des Ertrages für den <rs type="inst">Zentralverband der deutsch-österreichischen<lb/>
+ Kriegsbeschädigten</rs>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_51379">
+               <persName>Altenberg, Peter</persName>
+               <birth>
+                  <date>1859-3-9</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1919-1-8</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Ögg teilt 531/207 (Nachruf auf Moriz Benedikt) P. A. zu (mit ?)</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2147</idno></person>
+            <person xml:id="fk__p_39336">
+               <persName>Bobby (Hund)</persName>
+            </person>
+            </listPerson></back></text>
+</TEI>

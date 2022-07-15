@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02210.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02209.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02211.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Besucher des Industriellenballs. (Herr Exner auf dem Industriellenball), in: Fackel Heft 03, Nr. 093, 1902, S. 31-31</title>
+            <title type="iso-date">1902-02-4</title>
+            <title type="id">tid_02210</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">03</title><title type="heft">093</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-03-093_n0031.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/093,031</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Besucher des Industriellenballs. (Herr Exner auf dem Industriellenball)</head>
+            <p ana="pr21500">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_18767" ref="#fk__p_39197">Besucher des Industriellenballs</rs>.</seg></seg> Es unterliegt keinem Zweifel,<lb/>
+dass <seg type="insult">Herr Sectionschef <rs type="pers" ana="n_18768" ref="#fk__p_55499">Exner</rs></seg> damals in seiner Eigenschaft eines <seg type="insult">Ruhmesindustriellen<lb/>
+</seg> auftrat. Thatsächlich hat auch der <RS pers="Franz Joseph" globID="rs_278">Kaiser</RS>, der jeden der<lb/>
+ihm vorgestellten Herren über Vorkommnisse in der Branche befragte,<lb/>
+<seg type="insult">Herrn <rs type="pers" ana="n_18769" ref="#fk__p_55499">Exner</rs></seg> mit den folgenden, (aus der ‚<rs type="paper" ana="werk_7112">Neuen Freien Presse</rs>‘ citierten)<lb/>
+Worten angesprochen: »Jetzt ruhen Sie auf Ihren Lorbeeren aus.« <seg type="insult">Der<lb/>
+Herr Sectionschef</seg> hatte sie sich — und darauf bezieht sich wohl die<lb/>
+feinironische Bemerkung des Monarchen — unmittelbar zuvor in der<lb/>
+‚<rs type="paper" ana="werk_7113">Neuen Freien Presse</rs>‘ selbst gepflückt. Worüber man in <rs type="selfRef" ana="werk_7114"><abbr>Nr.</abbr> 91</rs> der<lb/>
+‚<rs type="self" ana="werk_7115">Fackel</rs>‘ alles Nähere erfahren konnte.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_55499">
+               <persName>Exner, Wilhelm Franz</persName>
+               <birth>
+                  <date>1840-4-9</date>
+                  <place>Unter-Gänserndorf</place>
+               </birth>
+               <death>
+                  <date>1931-5-25</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Techniker</occupation>
+               <occupation>Politiker</occupation>
+               <note type="comment">1908 Gründer des Technischen Museums</note>
+               <note type="comment">Reichsratsabgeordneter 1882-97, Herrenhaus 1905-18</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/7044</idno></person>
+            <person xml:id="fk__p_39197">
+               <persName>Besucher des Industriellenballs</persName>
+            </person>
+            </listPerson></back></text>
+</TEI>

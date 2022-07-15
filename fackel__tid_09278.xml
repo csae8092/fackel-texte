@@ -1,0 +1,116 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_09278.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09277.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09279.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Mittlerer Konzerthaussaal, 24. September, 3 Uhr:, in: Fackel Heft 24, Nr. 601, 1922, S. 92-92</title>
+            <title type="iso-date">1922-11-01</title>
+            <title type="id">tid_09278</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">24</title><title type="heft">601</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-24-601_n0092.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/601,092</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Mittlerer Konzerthaussaal, 24. September, 3 Uhr:</head>
+            <p ana="pr123419">
+<space/><rs type="inst">Mittlerer Konzerthaussaal</rs>, <date>24. September</date>, 3 Uhr:<lb/>
+</p>
+            <p ana="pr123420">
+<space/>Vorwort: <rs type="title"><seg type="insult">Vom großen Welttheaterschwindel</seg></rs>.<lb/>
+</p>
+            <p ana="pr123421">
+<space/><rs type="title"><seg type="spc">Der Talisman</seg></rs>, Posse mit Gesang in drei Akten von<lb/>
+<rs type="pers" ana="n_75683" ref="#fk__p_46919"><seg type="spc">Johann Nestroy</seg></rs>. Musik von <rs type="pers" ana="n_75684" ref="#fk__p_37834">Adolph Müller <abbr>sen.</abbr></rs> und nach<lb/>
+Angabe des Vortragenden. (Begleitung: <abbr>Prof.</abbr> <rs type="pers" ana="n_75685" ref="#fk__p_47046">Josef Bartosch</rs>.)<lb/>
+</p>
+            <p ana="pr123422">
+<space/>Auf dem Programm die Bemerkung vom <date>7. Juni</date>.<lb/>
+</p>
+            <p ana="pr123423">
+<space/>Der volle Ertrag — einschließlich des Programmerlöses (mit<lb/>
+Nachlaß der halben Druckkosten), bei Provisionsverzicht der <rs type="inst">Kartenverkaufsstelle<lb/>
+ <rs type="pers" ana="n2_6923" ref="#fk__p_52185">Lányi</rs></rs>, mit Spenden im Betrage von K 202.000 und<lb/>
+K 100.000 für Autogramme —: K 2,193.600 für die Altpensionisten<lb/>
+ der <rs type="inst">Bundestheater</rs>, das <rs type="inst">Haus des Kindes</rs>, das <rs type="inst">Blinden-Erziehungsinstitut<lb/>
+</rs> (Wien, II., Wittelsbachstraße 5) und altpensionierte<lb/>
+Landärzte (<rs type="inst">Sammlung <rs type="pers" ana="n2_6924" ref="#fk__p_57764"><abbr>Dr.</abbr> Reinhardt</rs></rs>, Wien, XIII., Speisingerstraße 109).<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_47046">
+               <persName>Bartosch, Josef</persName>
+               <birth>
+                  <date>1879-11-22</date>
+                  <place>Tepl/Böhmen</place>
+               </birth>
+               <death>
+                  <date>1963-10-25</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Musikpädagoge</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/51546</idno></person>
+            <person xml:id="fk__p_37834">
+               <persName>Müller, Adolf sen.</persName>
+               <birth>
+                  <date>1807-10-7</date>
+                  <place>Tolna/Ungarn</place>
+               </birth>
+               <death>
+                  <date>1886-7-29</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <occupation>Kapellmeister</occupation>
+               <occupation>Komponist</occupation>
+               <note type="comment">Ögg erteilt ihm die Lebensdaten von Adolph Müller jun.</note>
+            </person>
+            <person xml:id="fk__p_57764">
+               <persName>Reinhardt, Emmerich?</persName>
+               <birth>
+                  <date>1879-10-25</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1957-5-19</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Notar</occupation>
+               <note type="comment"/>
+               <note type="comment">altpensionierte Landärzte (Sammlung Dr. Reinhardt, XIII., Speisingerstr. 109)</note>
+               <note type="comment">9., Schwarzspanierstraße 22; Speisinger Str. ist in Besitz eines Waisenhauses</note>
+            </person>
+            <person xml:id="fk__p_52185">
+               <persName>Lányi, Richard</persName>
+               <birth>
+                  <date>1884-12-9</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1942-5-28</date>
+                  <place>Konzentrationslager Auschwitz</place>
+               </death>
+               <occupation>Buchhändler</occupation>
+               <occupation>Verleger</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/20707</idno></person>
+            <person xml:id="fk__p_46919">
+               <persName>Nestroy, Johann Nepomuk</persName>
+               <birth>
+                  <date>1801-12-7</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1862-5-25</date>
+                  <place>Graz</place>
+               </death>
+               <occupation>Sänger</occupation>
+               <occupation>Schauspieler</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12338</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_09177.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09176.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09178.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Zwischen „Franz Joseph“ und „Schönbrunn, Arbeitszimmer“), in: Fackel Heft 24, Nr. 595, 1922, S. 64-64</title>
+            <title type="iso-date">1922-07-01</title>
+            <title type="id">tid_09177</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">24</title><title type="heft">595</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-24-595_n0064.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/595,064</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Zwischen „Franz Joseph“ und „Schönbrunn, Arbeitszimmer“)</head>
+            <p ana="pr122285">
+<space/>Zwischen <seg type="insult">»<rs type="title"><rs type="pers" ana="n2_6853" ref="#fk__p_43514">Franz Joseph</rs></rs>«</seg> und »<rs type="title">Schönbrunn, Arbeitszimmer</rs>«:<lb/>
+</p>
+            <p ana="pr122286">
+<space/>Ich lasse auf dieses Porträt nun zum ersten Male die Szene aus<lb/>
+den »<rs type="title">Letzten Tagen der Menschheit</rs>« folgen, in der <seg type="insult">die Gestalt in<lb/>
+ihrem vollen Totleben</seg> dargestellt wird in den Strophen eines<lb/>
+tragischen Couplets, jenes lebenslänglichen Lieds, jener unendlichen<lb/>
+Melodie, welche zugleich Biographie ist und ein weltgerichtliches<lb/>
+Protokoll über <seg type="insult">den siebzigjährigen Verwesungsprozeß eines Reiches</seg>.<lb/>
+Nicht <rs type="pers" ana="n_74837" ref="#fk__p_43514">Franz Joseph</rs> ist es, sondern <seg type="insult">der leibhaftige <rs type="pers" ana="n_74838" ref="#fk__p_45327">habsburgische<lb/>
+Dämon</rs></seg>, der, die Züge <seg type="insult">eines guten alten Herrn</seg> tragend, die Welt<lb/>
+unter den Trümmern des eigenen Staates begraben hat. Ein <seg type="insult">Lemur</seg><lb/>
+erscheint uns und sich selbst im Schlafe und <seg type="insult">siebzig Jahre des<lb/>
+Reichsjammers</seg> singen ihr Miserere. Daß er alles reiflich erwogen hat,<lb/>
+aber nichts dafür kann — das eben ist die letzte, grausigste Tragödie,<lb/>
+die ihm nicht erspart geblieben ist.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_45327">
+               <persName>Habsburg</persName>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/17702</idno></person>
+            <person xml:id="fk__p_43514">
+               <persName>Franz Joseph I., Kaiser</persName>
+               <birth>
+                  <date>1830-8-18</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1916-11-21</date>
+                  <place>Wien</place>
+               </death>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15150</idno></person>
+            </listPerson></back></text>
+</TEI>

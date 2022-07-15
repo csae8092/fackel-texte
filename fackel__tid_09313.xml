@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_09313.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09312.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09314.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Wüllner), in: Fackel Heft 24, Nr. 608, 1922, S. 34-35</title>
+            <title type="iso-date">1922-12-01</title>
+            <title type="id">tid_09313</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">24</title><title type="heft">608</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-24-608_n0034.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/608,034</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Wüllner)</head>
+            <p ana="pr123956">
+<space/>Von <seg type="insult"><rs type="pers" ana="n_76159" ref="#fk__p_49355">Wüllner</rs>, dem <rs type="pers" ana="n_76160" ref="#fk__p_38013">Strakosch</rs> der Andersgläubigen, aber<lb/>
+gleichfalls von der Bedeutung solcher Kantoren Überzeugten</seg>,<lb/>
+läßt sich die <seg ana="Reichspost"/> zu folgendem hinreißen:<lb/>
+</p>
+            <p ana="pr123958">
+<space/>Ein <rs type="pers" ana="n_76161" ref="#fk__p_49355">Wüllner-Abend</rs> ist auch Erziehung zu deutscher Art: alles<lb/>
+wahr, stark, innerlich, wesenhaft, natürlich, ohne Schminke und Pose:<lb/>
+<foreign xml:lang="undefined">diutschiu</foreign> <foreign xml:lang="ghm">zucht gat vor in allen</foreign>.<lb/>
+</p>
+            <p ana="pr123960">
+Ja was wär denn nacher <foreign xml:lang="de-loc">dös</foreign>? Die <rs type="paper" ana="werk_23690">Reichspost</rs> mutet ihren Lesern<lb/>
+etwas viel zu und nur die viferen unter ihnen werden sofort<lb/>
+erkannt haben, daß es ein Druckfehler für <seg type="insult"><SPAN sug="(undefined)">Dschiudschitsu</SPAN></seg> ist, aber<lb/>
+auch finden, daß man nicht generalisieren darf, indem doch<lb/>
+<seg type="insult">deutsche Art</seg> zur Not auch mit <seg type="insult">Gummiknüppel, Handgranate<lb/>
+und Blausäure</seg> vorlieb nimmt.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_49355">
+               <persName>Wüllner, Ludwig</persName>
+               <birth>
+                  <date>1858-8-19</date>
+                  <place>Münster</place>
+               </birth>
+               <death>
+                  <date>1938-3-19</date>
+                  <place>Kiel</place>
+               </death>
+               <occupation>Sänger</occupation>
+               <occupation>Schauspieler</occupation>
+               <occupation>Rezitator</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10627</idno></person>
+            <person xml:id="fk__p_38013">
+               <persName>Strakosch, Alexander</persName>
+               <birth>
+                  <date>1840-12-3</date>
+                  <place>Sebeskellemes bei Eperjes</place>
+               </birth>
+               <death>
+                  <date>1909-9-17</date>
+                  <place>Berlin</place>
+               </death>
+               <occupation>Schauspiellehrer</occupation>
+               <occupation>Rezitator</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_20467</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10065</idno></person>
+            </listPerson></back></text>
+</TEI>

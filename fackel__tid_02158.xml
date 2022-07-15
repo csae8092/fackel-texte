@@ -1,0 +1,47 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02158.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02157.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02159.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Leser. (Fachsimpelei), in: Fackel Heft 03, Nr. 090, 1902, S. 32-32</title>
+            <title type="iso-date">1902-01-4</title>
+            <title type="id">tid_02158</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">03</title><title type="heft">090</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-03-090_n0032.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/090,032</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Leser. (Fachsimpelei)</head>
+            <p ana="pr20998">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_18154" ref="#fk__p_48877">Leser</rs>.</seg></seg> <seg type="insult">Ein Mitarbeiter des ‚<rs type="paper" ana="werk_6946">Neuen Wiener Journal</rs>‘</seg> schreibt über<lb/>
+einen Besuch bei <rs type="pers" ana="n_18155" ref="#fk__p_43591">Lenbach</rs>: »Ich fand ihn von bestechender Liebenswürdigkeit<lb/>
+«. Und: »ich verliess die prächtigen Arbeitsräume des grossen<lb/>
+Meisters, um Vieles, unendlich Vieles reicher, als ich eingetreten!« Na,<lb/>
+das alles darf natürlich nicht wörtlich genommen werden. Aber interessant<lb/>
+ist es, dass ein <seg type="insult">Journalist</seg> das <seg type="insult"><seg type="spc">Fachsimpeln</seg></seg> nicht lassen kann.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_48877">
+               <persName>Leser</persName>
+            </person>
+            <person xml:id="fk__p_43591">
+               <persName>Lenbach, Franz von</persName>
+               <birth>
+                  <date>1836-12-13</date>
+                  <place>Schrobenhausen/Oberbayern</place>
+               </birth>
+               <death>
+                  <date>1904-05-06</date>
+                  <place>München</place>
+               </death>
+               <occupation>Maler</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,107 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02087.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02086.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02088.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Eine freundliche, eine gastfreundliche Kritik, in: Fackel Heft 03, Nr. 088, 1901, S. 22-23</title>
+            <title type="iso-date">1901-12-16</title>
+            <title type="id">tid_02087</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">03</title><title type="heft">088</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-03-088_n0022.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/088,022</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Eine freundliche, eine gastfreundliche Kritik</head>
+            <p ana="pr20482">
+<space/>»Das erste Concert einer reizenden Collegin Fräulein<lb/>
+<rs type="pers" ana="n_17560" ref="#fk__p_44557">Goodsons</rs>, Fräulein <rs type="pers" ana="n_17561" ref="#fk__p_42959">Etelka Freund’s</rs>, konnten wir leider nicht besuchen<lb/>
+. Dagegen wurde uns die Freude zutheil, im zweiten Concerte<lb/>
+ von dem Vortrage der <rs type="pers" ana="n_17562" ref="#fk__p_50936">Brahms’schen <rs type="title">F-moll-Sonate</rs></rs> einen<lb/>
+tiefen Eindruck zu empfangen, sowie die hochbegabte junge Dame<lb/>
+<seg type="spc">in einem vornehm-gastlichen</seg>, <seg type="spc">kunstfreundlichen Hause</seg><lb/>
+zu hören. Wie sie da mit dem schwierigsten Stücke der Clavierliteratur<lb/>
+, <rs type="pers" ana="n_17563" ref="#fk__p_50936">Brahms’</rs> <rs type="title"><rs type="pers" ana="n2_1353" ref="#fk__p_51070">Paganini-Variationen</rs></rs>, umsprang, wie sie jede der<lb/>
+geistvollen, aus einer schier unerschöpflichen Phantasie geborenen<lb/>
+Veränderungen technisch und geistig meisterte, war Gegenstand<lb/>
+allgemeinen Staunens. Dürfen wir von dieser <seg type="spc">Privat-Soirée</seg><lb/>
+noch weiter plaudern? <seg type="symbol" subtype="4dots"/>«<lb/>
+</p>
+            <p ana="pr20484">
+<space/>Nein, <seg type="insult">Herr <rs type="pers" ana="n_17564" ref="#fk__p_52178">Heuberger</rs></seg>! Denn das hiesse die <seg type="insult">Dankbarkeit</seg><lb/>
+zu weit treiben.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_52178">
+               <persName>Heuberger, Richard</persName>
+               <birth>
+                  <date>1850-6-18</date>
+                  <place>Graz</place>
+               </birth>
+               <death>
+                  <date>1914-10-28</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Komponist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11684</idno></person>
+            <person xml:id="fk__p_42959">
+               <persName>Freund, Etelka</persName>
+               <birth>
+                  <date>1879</date>
+                  <place>Ungarn</place>
+               </birth>
+               <death>
+                  <date>1977</date>
+                  <place>USA?</place>
+               </death>
+               <occupation>Pianistin</occupation>
+               <note type="comment">Bruder Robert Freund (1852-1936)</note>
+               <note type="comment">verheiratet seit 1910, emigr. in die USA 1946</note>
+            </person>
+            <person xml:id="fk__p_50936">
+               <persName>Brahm, Otto</persName>
+               <birth>
+                  <date>1856-2-5</date>
+                  <place>Hamburg</place>
+               </birth>
+               <death>
+                  <date>1912-11-28</date>
+                  <place>Berlin</place>
+               </death>
+               <occupation>Literarhistoriker</occupation>
+               <occupation>Regisseur</occupation>
+               <occupation>Theaterleiter</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10986</idno></person>
+            <person xml:id="fk__p_51070">
+               <persName>Paganini, Niccolò</persName>
+               <birth>
+                  <date>1782-10-27</date>
+                  <place>Genua</place>
+               </birth>
+               <death>
+                  <date>1840-05-27</date>
+                  <place>Nizza</place>
+               </death>
+               <occupation>Violinvirtuose</occupation>
+               <occupation>Komponistin</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/5175</idno></person>
+            <person xml:id="fk__p_44557">
+               <persName>Goodson, Katherine</persName>
+               <birth>
+                  <date>1872-6-18</date>
+                  <place>Watford</place>
+               </birth>
+               <death>
+                  <date>1958-4-17</date>
+                  <place>London</place>
+               </death>
+               <occupation>Pianistin</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

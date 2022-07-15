@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00788.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00787.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00789.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Manchester. (Manchester), in: Fackel Heft 01, Nr. 032, 1900, S. 31-31</title>
+            <title type="iso-date">1900-02-01</title>
+            <title type="id">tid_00788</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">032</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-032_n0031.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/032,031</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Manchester. (Manchester)</head>
+            <p ana="pr7434">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i">Manchester.</seg></seg></seg> <seg type="insult">Das Benehmen des bekannten Schweizer Millionärs<lb/>
+<rs type="pers" ana="n_5816" ref="#fk__p_49242">Lucian <seg type="spc">Brunner</seg></rs></seg> während der Sequestrationsdebatte im <rs type="inst">Wiener<lb/>
+Gemeinderath</rs> sollte nicht ungestraft bleiben. <rs type="pers" ana="n_5817" ref="#fk__p_41410"><abbr>Dr.</abbr> <seg type="spc">Kronawetter</seg></rs>,<lb/>
+der das Malheur hat, mit ihm einer und derselben politischen Gruppe<lb/>
+anzugehören, nahm bei der letzten Sitzung des demokratischen<lb/>
+Vereines die Gelegenheit wahr, <seg type="insult">Herrn <rs type="pers" ana="n_5818" ref="#fk__p_49242">Brunner</rs></seg> ordentlich die Leviten<lb/>
+zu lesen und ihm nahezulegen, er möge in Zukunft lieber schweigen,<lb/>
+wenn er wieder von einer Sache nichts verstünde. Es ist aber auch<lb/>
+ungeheuerlich: Der brave <rs type="pers" ana="n_5819" ref="#fk__p_41410">Kronawetter</rs> hat, wie ich erfahre, den Antrag<lb/>
+auf Sequestrierung der Kohlenwerke ausgearbeitet, und der Mann,<lb/>
+der im <rs type="inst">Wiener Gemeinderath</rs> sein nächster Parteigenosse ist, lehnt<lb/>
+den Antrag ab und treibt <seg type="insult">gröblichsten Ulk</seg> dazu.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_41410">
+               <persName>Kronawetter, Ferdinand</persName>
+               <birth>
+                  <date>1838-02-26</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1913-01-30</date>
+                  <place>Pottschach/NÖ</place>
+               </death>
+               <occupation>Magistratsbeamter</occupation>
+               <occupation>Politiker</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/5329</idno></person>
+            <person xml:id="fk__p_49242">
+               <persName>Brunner, Lucian</persName>
+               <birth>
+                  <date>1850-9-30</date>
+                  <place>Hohenems</place>
+               </birth>
+               <death>
+                  <date>1914-4-15</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Fabrikant</occupation>
+               <occupation>Bankdirektor</occupation>
+               <occupation>Politiker</occupation>
+               <note type="comment">19., Billrothstr. 26</note>
+               <note type="comment">Enkel Alfred Otto Munk, *Wien 10.4.1925, Tochter Regina Munk</note>
+               <note type="comment">verh. mit Hedwig Wachsmann, geb. 1861?</note>
+               <note type="comment">ist er der Erbauer, der Eigentümer des Colosseum? (F 32/22)</note>
+               <note type="comment">Gemeinderat</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

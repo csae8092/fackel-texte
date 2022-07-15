@@ -1,0 +1,100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01811.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01810.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01812.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Musiker., in: Fackel Heft 03, Nr. 076, 1901, S. 23-23</title>
+            <title type="iso-date">1901-05-01</title>
+            <title type="id">tid_01811</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">03</title><title type="heft">076</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-03-076_n0023.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/076,023</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Musiker.</head>
+            <p ana="pr17870">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_15051" ref="#fk__p_50471">Musiker</rs>.</seg></seg> Wie es kommt, dass <seg type="insult">Herr <rs type="pers" ana="n_15052" ref="#fk__p_45908">Bahr</rs></seg> neuestens auch über<lb/>
+Operetten referiert? Er hat in früheren Jahren freilich wiederholt —<lb/>
+wenn ich nicht irre, auch in der Einleitung zu einer Sammlung von<lb/>
+Aufsätzen über <rs type="pers" ana="n_15053" ref="#fk__p_46358">Hugo Wolf</rs> — bekannt, dass er gänzlich unmusikalisch<lb/>
+ist. Aber in der Wiener Presse ist es ja herkömmlich, dass die<lb/>
+<seg type="insult">Literaten</seg>, mögen sie auch farbenblind sein, über Malerei und, wenn<lb/>
+sie taub sind, über Musik urtheilen. Auch <seg type="insult">die ständigen Wiener<lb/>
+Musikreferenten</seg> sind ja fast durchwegs unmusikalisch und beweisen<lb/>
+durch <seg type="insult">das ewige Aufstöbern von Reminiscenzen</seg> nichts anderes, als<lb/>
+dass ihnen die Fähigkeit mangelt, gründliche Verschiedenheiten bei<lb/>
+oberflächlichen Aehnlichkeiten zu erkennen. Dafür fehlt wieder <seg type="insult">den<lb/>
+Herren</seg>, die nur gelegentlich einmal musikalische Aufführungen zu<lb/>
+recensieren haben, die Gabe, die ältesten Melodien aus einer ungewohnten<lb/>
+ Begleitung herauszuhören. So konnte es geschehen,<lb/>
+dass anlässlich der Productionen des Berliner <rs type="inst">Ueberbrettl</rs> <seg type="insult">die<lb/>
+zusammengelauschten Compositionen eines Herrn <rs type="pers" ana="n_15054" ref="#fk__p_50864"><choice><sic>Oskar</sic><corr>Oscar</corr></choice> Straus</rs></seg> hohes<lb/>
+Lob ernteten. <seg type="insult">Herr <rs type="pers" ana="n_15055" ref="#fk__p_45908">Bahr</rs></seg> ist übrigens sicher competent, <seg type="insult">die einzige<lb/>
+wahrhaft außerordentliche musikalische Leistung des »<rs type="inst">Bunten Theaters</rs>«</seg><lb/>
+zu beurtheilen: Die <seg type="insult">Effecte</seg>, die <seg type="insult">Herr <rs type="pers" ana="n_15056" ref="#fk__p_42860"><abbr>v.</abbr> Wolzogen</rs></seg> auf der <seg type="insult">Reclametrommel<lb/>
+</seg> zu erzielen weiß, müssen selbst <seg type="insult">dem Wiener Meister der<lb/>
+Reclame</seg> Bewunderung abnöthigen.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_42860">
+               <persName>Wolzogen, Ernst Ludwig Freiherr von</persName>
+               <birth>
+                  <date>1855-4-23</date>
+                  <place>Breslau</place>
+               </birth>
+               <death>
+                  <date>1934-7-30</date>
+                  <place>Puppling bei Wolfratshausen</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_21465</idno></person>
+            <person xml:id="fk__p_45908">
+               <persName>Bahr, Hermann</persName>
+               <birth>
+                  <date>1863-7-19</date>
+                  <place>Linz</place>
+               </birth>
+               <death>
+                  <date>1934-1-15</date>
+                  <place>München</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Kritiker</occupation>
+               <note type="comment">Ögg teilt auch 307/52, 445/49, 800/67 (Rotte Korah) Bahr zu</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10815</idno></person>
+            <person xml:id="fk__p_50471">
+               <persName>Musiker</persName>
+            </person>
+            <person xml:id="fk__p_50864">
+               <persName>Straus, Oscar</persName>
+               <birth>
+                  <date>1870-3-6</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1954-1-11</date>
+                  <place>Bad Ischl</place>
+               </death>
+               <occupation>Komponist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12861</idno></person>
+            <person xml:id="fk__p_46358">
+               <persName>Wolf, Hugo</persName>
+               <birth>
+                  <date>1860-3-13</date>
+                  <place>Windischgraz</place>
+               </birth>
+               <death>
+                  <date>1903-2-22</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Komponist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/13152</idno></person>
+            </listPerson></back></text>
+</TEI>

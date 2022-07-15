@@ -1,0 +1,42 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02299.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02298.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02300.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Scharfsinniger Leser. (Die Bedeutung Kaposi’s), in: Fackel Heft 03, Nr. 097, 1902, S. 22-22</title>
+            <title type="iso-date">1902-03-17</title>
+            <title type="id">tid_02299</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">03</title><title type="heft">097</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-03-097_n0022.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/097,022</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Scharfsinniger Leser. (Die Bedeutung Kaposi’s)</head>
+            <p ana="pr22408">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_19463" key="#fk__p_52839">Scharfsinniger Leser</rs>.</seg></seg> Aus <seg type="insult">dem überschwänglichen Nachrufe<lb/>
+der ‚<rs type="paper" ana="werk_7420">Neuen Freien Presse</rs>‘</seg> für Herrn Professor <rs type="pers" ana="n_19464" ref="#fk__p_41557">Kaposi</rs> geht sicherlich<lb/>
+hervor, dass er <seg type="spc">weit mehr</seg> als der tüchtige Dermatolog war, für den<lb/>
+man ihn immer gehalten hat: er hat auch früher <seg type="insult"><rs type="pers" ana="n_19465" ref="#fk__p_41557">Kohn</rs></seg> geheissen <seg type="symbol" subtype="3dots"/><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_41557">
+               <persName>Kaposi, Moriz</persName>
+               <birth>
+                  <date>1837-10-23</date>
+                  <place>Kaposvár/Ung.</place>
+               </birth>
+               <death>
+                  <date>1902-03-06</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Dermatologe</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

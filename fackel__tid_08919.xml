@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_08919.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08918.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08920.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Berlin, Meister-Saal, 23. Januar, 7 Uhr:, in: Fackel Heft 22, Nr. 561, 1921, S. 79-80</title>
+            <title type="iso-date">1921-03-01</title>
+            <title type="id">tid_08919</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">22</title><title type="heft">561</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-22-561_n0079.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/561,079</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Berlin, Meister-Saal, 23. Januar, 7 Uhr:</head>
+            <p ana="pr118747">
+<space/><seg type="spc">Berlin</seg>, <rs type="inst">Meister-Saal</rs>, <date>23. Januar</date>, 7 Uhr:<lb/>
+</p>
+            <p ana="pr118748">
+<space/>I. Aus: <rs type="title">Die Riesentanne</rs> / <rs type="title">Da die <seg type="insult">Monarchisten</seg> nicht alle<lb/>
+werden</rs> (drei Zitate) / Aus: <rs type="title">Klarstellung</rs>. — <rs type="title">Die letzten Tage der<lb/>
+Menschheit</rs>: <rs type="title">Wachstube</rs> / <rs type="title">Kastelruth</rs> / <rs type="title">Winter in den Karpathen</rs> /<lb/>
+<rs type="title">Wallfahrtskirche</rs> / <rs type="title">Moschee</rs> / <rs type="title"><seg type="insult"><rs type="pers"><rs type="pers" ana="n2_6705" ref="#fk__p_56128">Erzherzog Friedrich</rs></rs></seg></rs> (mit Vorbemerkung<FOOTNOTE0_START/>*) /<lb/>
+<rs type="title">Der <seg type="insult"><rs type="pers">Optimist</rs></seg> und der <seg type="insult"><rs type="pers">Nörgler</rs></seg> (Feldpostbriefe)</rs>. — <rs type="title"><seg type="insult"><foreign xml:lang="la">Post festum</foreign></seg></rs>.<lb/>
+</p>
+            <p ana="pr118749">
+<space/>II. <rs type="title">Die Republik ist schuld</rs> / <rs type="title"><seg type="insult">Umsturz</seg></rs> / <rs type="title"><seg type="insult">Restauration</seg></rs> / <rs type="title">Wohnungswechsel<lb/>
+</rs>. — <rs type="title">Nach zwanzig Jahren</rs>. — <rs type="title">Apokalypse</rs> (mit Vorbemerkung) /<lb/>
+<rs type="title">Silvesterruf an die Welt</rs>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_56128">
+               <persName>Friedrich Maria Albrecht, Erzherzog</persName>
+               <birth>
+                  <date>1856-6-4</date>
+                  <place>Groß-Seelowitz/Böhmen</place>
+               </birth>
+               <death>
+                  <date>1936-12-30</date>
+                  <place>Ung. Altenburg</place>
+               </death>
+               <occupation>Offizier</occupation>
+               <note type="comment">FML, Oberbefehlshaber der k.k. Armee</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15242</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/16687</idno></person>
+            </listPerson></back></text>
+</TEI>

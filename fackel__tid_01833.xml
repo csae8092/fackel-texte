@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01833.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01832.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01834.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Aus einem Abreißkalender.), in: Fackel Heft 03, Nr. 077, 1901, S. 21-21</title>
+            <title type="iso-date">1901-05-01</title>
+            <title type="id">tid_01833</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">03</title><title type="heft">077</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-03-077_n0021.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/077,021</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Aus einem Abreißkalender.)</head>
+            <p ana="pr18063">
+<space/><inciptit>In</inciptit> einem Abreißkalender fand ich unter dem <date>14. Mai</date> verzeichnet<lb/>
+: »<date>1263</date> <rs type="pers" ana="n_15256" ref="#fk__p_40256"><seg type="spc">Dante</seg></rs> <abbr>geb.</abbr>«,<lb/>
+</p>
+            <p ana="pr18064">
+<space/>unter dem <date>15. Mai</date>: »<date>1862</date> <rs type="pers" ana="n_15257" ref="#fk__p_38500">Arthur <seg type="spc">Schnitzler</seg></rs> <abbr>geb.</abbr>«<lb/>
+</p>
+            <p ana="pr18065">
+<space/><seg type="insult">Göttliche Komödie!</seg><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_38500">
+               <persName>Schnitzler, Arthur</persName>
+               <birth>
+                  <date>1862-5-15</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1931-10-21</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Arzt</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2121</idno></person>
+            <person xml:id="fk__p_40256">
+               <persName>Dante Alighieri</persName>
+               <birth>
+                  <date>1265-5/6</date>
+                  <place>Florenz</place>
+               </birth>
+               <death>
+                  <date>1321-9-13/14</date>
+                  <place>Venedig</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/3326</idno></person>
+            </listPerson></back></text>
+</TEI>

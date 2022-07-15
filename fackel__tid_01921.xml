@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01921.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01920.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01922.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Frauenrechtler. (Das Einkommen der Animirmädchen), in: Fackel Heft 03, Nr. 080, 1901, S. 32-32</title>
+            <title type="iso-date">1901-06-01</title>
+            <title type="id">tid_01921</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">03</title><title type="heft">080</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-03-080_n0032.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/080,032</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Frauenrechtler. (Das Einkommen der Animirmädchen)</head>
+            <p ana="pr18758">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_15782" key="#fk__p_43627">Frauenrechtler</rs>.</seg></seg> In einem Gerichtssaalberichte las man neulich:<lb/>
+»Sie bezog im <rs type="inst">Colosseum</rs> 20 Kronen monatlich und 5 Procent von<lb/>
+dem Erlös der von ihr verkauften Getränke, so dass sie im Ganzen<lb/>
+etwa 70 Kronen monatlich verdiente.« Sie war also ein Animiermädchen<lb/>
+. Aber bei <rs type="pers" ana="n_15783" ref="#fk__p_44157">Gabor Steiner</rs> oder im <seg type="insult">Etablissement des Bruders<lb/>
+<rs type="pers" ana="n_15784" ref="#fk__p_48477">Waldmann</rs></seg> hätte sie gewiss mehr verdient.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_48477">
+               <persName>Waldmann, Ludwig Moriz</persName>
+               <birth>
+                  <date>1837-10-1</date>
+                  <place>Budapest</place>
+               </birth>
+               <death>
+                  <date>1907-6-16</date>
+                  <place>Reichenau/Rax</place>
+               </death>
+               <occupation>Varietédirektor</occupation>
+               <note type="comment">1., Himmelpfortgasse 25</note>
+               <note type="comment">NFP 17.6.1907, Seite 10</note>
+               <note type="comment">Impresario, nach Hotellaufbahn in Budapest und London</note>
+               <note type="comment">Dir. des Ronacher 1891-1907</note>
+            </person>
+            <person xml:id="fk__p_44157">
+               <persName>Steiner, Gabor</persName>
+               <birth>
+                  <date>1858-5-28</date>
+                  <place>Temesvar/Siebenbürgen</place>
+               </birth>
+               <death>
+                  <date>1944-9-9</date>
+                  <place>Beverly Hills/Kalif.</place>
+               </death>
+               <occupation>Theaterleiter</occupation>
+               <note type="comment">IKG: 02.04.1858 als Geburtsdatum</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/62837</idno></person>
+            </listPerson></back></text>
+</TEI>

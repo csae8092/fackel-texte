@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_05684.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05683.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05685.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ein Fest, in: Fackel Heft 13, Nr. 343, 1912, S. 49-50</title>
+            <title type="iso-date">1912-03-01</title>
+            <title type="id">tid_05684</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">13</title><title type="heft">343</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-13-343_n0049.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/343,049</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ein Fest</head>
+            <p ana="pr74905">
+<space/>Der Herausgeber einer <rs type="perRef" ana="werk_18683">Zeitungskorrespondenz</rs> ist siebzig<lb/>
+Jahre alt geworden, <seg type="insult">ganz Wien</seg> war auf den Beinen und die<lb/>
+Zeitungen brachten <seg type="insult"><rs type="pers" ana="n_53863" ref="#fk__p_48691">Lehmanns</rs> Wohnungsanzeiger mit einigen<lb/>
+Kürzungen</seg>. Da es sich aber speziell um <seg type="insult">jene Korrespondenz</seg><lb/>
+handelt, die pünktlich berichtet, sobald es der Polizei gelungen ist,<lb/>
+und oft schon früher, so gratulierten auch sämtliche Polizeibeamte.<lb/>
+Da gings denn versteht sich gefühlvoll zu.<lb/>
+</p>
+            <p ana="pr74907">
+<space/><seg type="symbol" subtype="3dots"/> Zum Schlusse las Regierungsrat <rs type="pers" ana="n_53864" ref="#fk__p_54648">Marinovich</rs> ein geistvolles<lb/>
+Gedicht eigener Marke vor, worin er der Tätigkeit <rs type="pers" ana="n_53865" ref="#fk__p_59409">Wilhelms</rs> und seiner<lb/>
+Unterweisungen für die jungen Beamten rühmend gedachte.<lb/>
+</p>
+            <p ana="pr74909">
+<space/>Warum zeigt man mir dieses Gedicht nicht?<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_48691">
+               <persName>Lehmann, Adolph</persName>
+               <birth>
+                  <date>1828-3-2</date>
+                  <place>Breslau</place>
+               </birth>
+               <death>
+                  <date>1904-2-16</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Verleger</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/20239</idno></person>
+            <person xml:id="fk__p_59409">
+               <persName>Wilhelm, Ignaz</persName>
+               <birth>
+                  <date>1842-01-28</date>
+                  <place>Boskowitz/Mähren</place>
+               </birth>
+               <death>
+                  <date>1921-2-18</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <note type="comment">Eigentümer und Hrsg. der "Correspondenz Wilhelm", 9., Kolingasse 13</note>
+               <note type="comment">verh. mit Franziska, geb. Wahle</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/59687</idno></person>
+            <person xml:id="fk__p_54648">
+               <persName>Marinovich, Otto von</persName>
+               <birth>
+                  <date>1856-3-6</date>
+                  <place>Esseg/Slavonien</place>
+               </birth>
+               <death>
+                  <date>1926-12-26</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Polizeibeamter</occupation>
+               <note type="comment">Reg.Rat, Vorstand des Admin.Bureaus der Polizeidirektion, 18., Hofstattgasse 14</note>
+               <note type="comment">Ögg identifiziert auch 343/49 mit Marinovich, Eugen</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

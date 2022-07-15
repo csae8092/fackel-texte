@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_12082.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_12081.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_12083.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Bescheidenheit der Größe, in: Fackel Heft 34, Nr. 876, 1932, S. 52-52</title>
+            <title type="iso-date">1932-10-01</title>
+            <title type="id">tid_12082</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">34</title><title type="heft">876</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-34-876_n0052.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/876,052</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Bescheidenheit der Größe</head>
+            <p ana="pr176242">
+<space/>Er (<rs type="pers" ana="n_105078" ref="#fk__p_53600">Zweig</rs>) pflegt es mit einer <seg type="spc">lässigen Handbewegung</seg><lb/>
+abzutun, wenn man ihn <seg type="spc">etwa daran erinnert</seg>, daß er <seg type="spc">als der<lb/>
+erste Deutsche</seg> <rs type="pers" ana="n_105079" ref="#fk__p_52430">Romain <seg type="spc">Rolland</seg></rs> die <seg type="spc">Freundeshand</seg><lb/>
+gereicht <seg type="symbol" subtype="4dots"/><lb/>
+</p>
+            <p ana="pr176244">
+Wozu davon sprechen? Es spricht für sich. Dieselbe Hand,<lb/>
+die damals — pah!<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_52430">
+               <persName>Rolland, Romain</persName>
+               <birth>
+                  <date>1866-1-29</date>
+                  <place>Clamecy</place>
+               </birth>
+               <death>
+                  <date>1944-12-30</date>
+                  <place>Vézelay</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12543</idno></person>
+            <person xml:id="fk__p_53600">
+               <persName>Zweig, Stefan</persName>
+               <birth>
+                  <date>1881-11-28</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1942-2-22</date>
+                  <place>Petropolis, Brasilien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/13212</idno></person>
+            </listPerson></back></text>
+</TEI>

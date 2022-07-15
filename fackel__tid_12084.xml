@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_12084.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_12083.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_12085.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Hinter dem Sarg, in: Fackel Heft 34, Nr. 876, 1932, S. 53-53</title>
+            <title type="iso-date">1932-10-01</title>
+            <title type="id">tid_12084</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">34</title><title type="heft">876</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-34-876_n0053.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/876,053</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Hinter dem Sarg</head>
+            <p ana="pr176259">
+soll unter den <seg type="insult">Leidtragenden</seg> <seg type="insult">eine, der das Leid trägt</seg>, wie folgt<lb/>
+einhergeschritten sein:<lb/>
+</p>
+            <p ana="pr176261">
+<space/><rs type="pers" ana="n_105095" ref="#fk__p_42180">E</rs> Der für den verstorbenen Kardinal Fürsterzbischof <rs type="pers" ana="n_105096" ref="#fk__p_51475"><abbr>Dr.</abbr> Piffl</rs><lb/>
+bestimmte Sarkophag stammt aus der Werkstätte der <rs type="inst">Firma <rs type="pers" ana="n2_9457" key="#fk__p_58202"><abbr>I.</abbr> Maschner</rs><lb/>
+&amp; Söhne</rs> — —<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_42180">
+               <persName>e</persName>
+            </person>
+            <person xml:id="fk__p_51475">
+               <persName>Piffl, Friedrich Gustav</persName>
+               <birth>
+                  <date>1864-10-15</date>
+                  <place>Landskron, Böhmen</place>
+               </birth>
+               <death>
+                  <date>1932-4-21</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Erzbischof</occupation>
+               <occupation>Kardinal</occupation>
+               <note type="comment"/>
+               <note type="comment">von Wien; seit 1.4.1913</note>
+               <note type="comment">seit 25.5.1914</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12417</idno></person>
+            </listPerson></back></text>
+</TEI>

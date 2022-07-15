@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_08194.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08193.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08195.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Eine übertriebene Meldung, in: Fackel Heft 20, Nr. 474, 1918, S. 61-62</title>
+            <title type="iso-date">1918-05-01</title>
+            <title type="id">tid_08194</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">20</title><title type="heft">474</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-20-474_n0061.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/474,061</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Eine übertriebene Meldung</head>
+            <p ana="pr108571">
+Genf, <date>20. November</date>.<lb/>
+</p>
+            <p ana="pr108572">
+<space/>Der seit neun Tagen abgängige <rs type="pers" ana="n_68373" ref="#fk__p_40254">Gabriele d’Annunzio</rs> gilt, nach<lb/>
+einer <SPAN cont="Figaro-Meldung">»<rs type="paper" ana="werk_21346">Figaro</rs>«-Meldung</SPAN> aus Rom, als gefangen.<lb/>
+</p>
+            <p ana="pr108573">
+<space/>Hier ist über eine Gefangennahme <date><rs type="pers" ana="n_68374" ref="#fk__p_40254">d’Annunzios</rs></date> nichts bekannt.<lb/>
+</p>
+            <p ana="pr108575">
+<space/>Gleich hinten erfolgt die Aufklärung. Die Österreicher<lb/>
+haben nicht ihn gefangen, wohl aber seinen Film, und führen<lb/>
+diesen ohne Nennung des Autors auf. Mit einem Wort:<lb/>
+</p>
+            <p ana="pr108577">
+<seg type="spc">Alleinaufführungsrecht für ganz Wien</seg>!<lb/>
+</p>
+            <p ana="pr108578">
+<B>Der Kampf um die Weltherrschaft!</B><lb/>
+</p>
+            <p ana="pr108579">
+Das Publikum wird im eigenen Interesse gebeten, sich die Karten im<lb/>
+Vorverkauf zu besorgen.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_40254">
+               <persName>d’Annunzio, Gabriele</persName>
+               <birth>
+                  <date>1863-3-12</date>
+                  <place>Pescara</place>
+               </birth>
+               <death>
+                  <date>1938-3-1</date>
+                  <place>Cargnacco bei Gardone</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2142</idno></person>
+            </listPerson></back></text>
+</TEI>

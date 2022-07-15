@@ -1,0 +1,101 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_12104.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_12103.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_12105.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Das gebildetste Volk Europas, in: Fackel Heft 34, Nr. 876, 1932, S. 67-68</title>
+            <title type="iso-date">1932-10-01</title>
+            <title type="id">tid_12104</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">34</title><title type="heft">876</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-34-876_n0067.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/876,067</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Das gebildetste Volk Europas</head>
+            <p ana="pr176472">
+stellt sich <seg type="insult">dem liberalen Leitartikler des Bürgertums</seg> anders dar<lb/>
+als dem der Sozialdemokratie. Da entwickelt sich der bekannte<lb/>
+<seg type="insult">Tonfall</seg> des Kopfschüttelns, der das Semikomma verwendet:<lb/>
+</p>
+            <p ana="pr176474">
+Vor kurzem hat ein Professor in Frankfurt seine Prüfungserfahrungen<lb/>
+in einem kleinen Werke niedergelegt, und wohl kann einen der<lb/>
+Schauder angehen, <seg type="spc">wenn man erfährt</seg>, <seg type="spc">Frankfurter Kandidaten<lb/>
+ der Jurisprudenz haben niemals gehört</seg>, wer<lb/>
+<rs type="pers" ana="n_105219" ref="#fk__p_46781">Jean Jacques <SPAN cont="Rosseau"><seg type="spc">Ros</seg>seau</SPAN></rs> gewesen <seg type="spc">ist</seg>, <seg type="spc">sie</seg> verlegen die Regierungszeit<lb/>
+ <rs type="pers" ana="n_105220" ref="#fk__p_43818">Friedrichs des Großen</rs> in das <DATERANGE>siebzehnte Jahrhundert</DATERANGE>, in die Zeit<lb/>
+des <rs type="event">westfälischen Friedens</rs>;<lb/>
+</p>
+            <p ana="pr176476">
+(Endlich auch ein Semikolon!)<lb/>
+</p>
+            <p ana="pr176478">
+vier Kandidaten von fünf ignorieren beispielsweise die Existenz von<lb/>
+Montenegro und der Fünfte <seg type="spc">kennt zwar</seg> Montenegro, aber<lb/>
+bezeichnet Oslo als Hauptstadt von Schweden.<lb/>
+</p>
+            <p ana="pr176480">
+(Sonst eher ein <seg type="insult">östlicher Hang</seg>, Norwegen »Schweden« zu<lb/>
+nennen. <abbr>Red.</abbr>)<lb/>
+</p>
+            <p ana="pr176482">
+Dagegen, so erklärt Professor <rs type="pers" ana="n_105221" ref="#fk__p_53759">Strupp</rs>, wissen die jungen Herrschaften<lb/>
+sehr genau, sie verstehen es mit wundervoller Präzision zu antworten,<lb/>
+wenn man sie <seg type="spc">frägt</seg>: Wann wird das dritte Reich beginnen, <seg type="spc">wer<lb/>
+sind die wahren Sieger des <rs type="event">Weltkrieges</rs></seg>, <seg type="spc">wer sind<lb/>
+die Juden</seg>?<lb/>
+</p>
+            <p ana="pr176484">
+Konsequenter wäre gewesen: »frägt, wann wird«. Das mit<lb/>
+Montenegro lohnt nicht die Aufregung. Daß die Juden die<lb/>
+wahren Sieger des <rs type="event">Weltkriegs</rs> sind, ist eine Übertriebenheit in<lb/>
+der Hitze des Gefechts und würde nur zutreffen, soweit sie die<lb/>
+Presse innehaben. Aber wenn schon <rs type="pers" ana="n_105222" ref="#fk__p_46781">Rosseau</rs>, warum nicht gleich<lb/>
+<seg type="insult">Rossau</seg>?<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46781">
+               <persName>Rousseau, Jean-Jacques</persName>
+               <birth>
+                  <date>1712-6-28</date>
+                  <place>Genf</place>
+               </birth>
+               <death>
+                  <date>1778-7-2</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Philosoph</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12582</idno></person>
+            <person xml:id="fk__p_43818">
+               <persName>Friedrich II., der Große, König von Preußen</persName>
+               <birth>
+                  <date>1712-1-24</date>
+                  <place>Berlin</place>
+               </birth>
+               <death>
+                  <date>1786-8-17</date>
+                  <place>Sanssouci bei Potsdam</place>
+               </death>
+               <occupation>König</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15240</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/16680</idno></person>
+            <person xml:id="fk__p_53759">
+               <persName>Strupp, Karl</persName>
+               <birth>
+                  <date>1886-03-30</date>
+                  <place>Gotha</place>
+               </birth>
+               <death>
+                  <date>1940-02-28</date>
+                  <place>Chatoux/Paris</place>
+               </death>
+               <occupation>Jurist</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

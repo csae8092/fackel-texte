@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_11418.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11417.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11419.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Hierzulande, in: Fackel Heft 32, Nr. 838, 1930, S. 60-60</title>
+            <title type="iso-date">1930-09-01</title>
+            <title type="id">tid_11418</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">32</title><title type="heft">838</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-32-838_n0060.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/838,060</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Hierzulande</head>
+            <p ana="pr166270">
+<space/><OMED>— —</OMED> Die Verleihung des <rs type="pers" ana="n_99774" ref="#fk__p_46960">Goethepreises</rs> ist die erste offizielle<lb/>
+Ehrung, die <rs type="pers" ana="n_99775" ref="#fk__p_53294"><choice><sic>Siegmund</sic><corr>Sigmund</corr></choice> Freud</rs> in Deutschland zuteil wird. Gewiß: ein<lb/>
+Mann wie <rs type="pers" ana="n_99776" ref="#fk__p_53294"><choice><sic>Siegmund</sic><corr>Sigmund</corr></choice> Freud</rs> hat es nicht nötig, daß seiner offiziell<lb/>
+gedacht wird, aber für Deutschland ist es beschämend, daß er siebzig<lb/>
+Jahre alt werden mußte, ehe man ihn einer solchen Ehrung für würdig<lb/>
+hielt. Von Österreich gar nicht zu reden; bedeutende Männer<lb/>
+werden hierzulande meistens als unbequem empfunden.<lb/>
+</p>
+            <p ana="pr166272">
+Da hat die <seg ana="Arbeiter-Zeitung"/> recht, denn sie wird zum Beispiel<lb/>
+nicht bestreiten können, daß sie mich zu jenen gezählt hat.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46960">
+               <persName>Goethe, Johann Wolfgang von</persName>
+               <birth>
+                  <date>1749-8-28</date>
+                  <place>Frankfurt am Main</place>
+               </birth>
+               <death>
+                  <date>1832-3-22</date>
+                  <place>Weimar</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">890/142f.</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11461</idno></person>
+            <person xml:id="fk__p_53294">
+               <persName>Freud, Sigmund</persName>
+               <birth>
+                  <date>1856-5-6</date>
+                  <place>Freiberg, Mähren</place>
+               </birth>
+               <death>
+                  <date>1939-9-23</date>
+                  <place>London</place>
+               </death>
+               <occupation>Psychoanalytiker</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11370</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_10704.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10703.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10705.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Die Häupter ihrer Lieben, in: Fackel Heft 28, Nr. 743, 1926, S. 38-38</title>
+            <title type="iso-date">1926-12-01</title>
+            <title type="id">tid_10704</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">28</title><title type="heft">743</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-28-743_n0038.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/743,038</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Die Häupter ihrer Lieben</head>
+            <p ana="pr149055">
+<space/>Die Mitglieder des demissionierenden Kabinetts <rs type="pers" ana="n_89449" ref="#fk__p_40568">Ramek</rs><lb/>
+bringt die ‚<rs type="paper" ana="werk_24302">Stunde</rs>‘ eingerahmt von <rs type="inst">Mary-Bar</rs>, <rs type="inst">Weihburg-Bar</rs> und<lb/>
+noch etlichen Etablissements mit Jazz. <rs type="pers" ana="n_89450" ref="#fk__p_47108">Kollmann</rs> — sein Antlitz<lb/>
+erscheint zum siebzigsten Male — blickt verklärt drein. Das<lb/>
+Separee bei <rs type="pers" ana="n_89451" ref="#fk__p_58916">Schöner</rs> — beziehungsvoller Name für das, was<lb/>
+einmal war — kommt nicht vor. Es ist zum Austragstüberl<lb/>
+geworden.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_58916">
+               <persName>Schöner (Restaurant)</persName>
+               <note type="comment">7., Neustiftgasse</note>
+            </person>
+            <person xml:id="fk__p_47108">
+               <persName>Kollmann, Josef</persName>
+               <birth>
+                  <date>1868-10-23</date>
+                  <place>Laibach</place>
+               </birth>
+               <death>
+                  <date>1951-06-16</date>
+                  <place>Baden/NÖ</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <note type="comment">1926 Finanzminister</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/64015</idno></person>
+            <person xml:id="fk__p_40568">
+               <persName>Ramek, Rudolf</persName>
+               <birth>
+                  <date>1881-04-12</date>
+                  <place>Teschen</place>
+               </birth>
+               <death>
+                  <date>1941-7-24</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <note type="comment">20.11.1924 bis 20.10.1926 Bundeskanzler</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/9420</idno></person>
+            </listPerson></back></text>
+</TEI>

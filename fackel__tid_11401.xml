@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_11401.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11400.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11402.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Man staunte, in: Fackel Heft 32, Nr. 838, 1930, S. 52-53</title>
+            <title type="iso-date">1930-09-01</title>
+            <title type="id">tid_11401</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">32</title><title type="heft">838</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-32-838_n0052.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/838,052</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Man staunte</head>
+            <p ana="pr166078">
+darüber, daß einst eine Operettenhandlung <seg type="spc">Sinn</seg>, <seg type="spc">Logik</seg> und dramatischen<lb/>
+ Verlauf hatte, daß ein Operettenlibretto geschrieben werden<lb/>
+konnte, das nicht schwachsinnig war.<lb/>
+</p>
+            <p ana="pr166080">
+Heikel, von <seg type="insult">Schwachsinn</seg> zu reden. <seg type="insult">Der <rs type="pers" ana="n_99686" ref="#fk__p_51209">Paul Goldmann</rs></seg><lb/>
+verwechselt alles. Schwachsinnig ist das Operettenlibretto, das<lb/>
+Sinn und Logik anstrebt. Die <rs type="pers" ana="n_99687" ref="#fk__p_51209"><seg type="insult">Goldmann’sche <foreign xml:lang="la">ratio</foreign></seg></rs> müßte diesen<lb/>
+Hang gerade dem <seg type="insult">Plunder</seg> zuerkennen, der die Operettenbühne<lb/>
+seit vier Jahrzehnten beherrscht, den Unsinn der alten Operette<lb/>
+nur als solchen erkennen und ohne Gefühl für dessen tiefere<lb/>
+logische Gesetzmäßigkeit ablehnen.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_51209">
+               <persName>Goldmann, Paul</persName>
+               <birth>
+                  <date>1865-1-31</date>
+                  <place>Breslau</place>
+               </birth>
+               <death>
+                  <date>1935-9-25</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11485</idno></person>
+            </listPerson></back></text>
+</TEI>

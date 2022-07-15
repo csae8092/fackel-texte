@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02177.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02176.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02178.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Genosse. (Lebhafter Beifall nach einer nicht gehaltenen Rede des Herrn Völkl), in: Fackel Heft 03, Nr. 091, 1902, S. 26-26</title>
+            <title type="iso-date">1902-01-14</title>
+            <title type="id">tid_02177</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">03</title><title type="heft">091</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-03-091_n0026.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/091,026</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Genosse. (Lebhafter Beifall nach einer nicht gehaltenen Rede des Herrn Völkl)</head>
+            <p ana="pr21155">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="n_18390" ref="#fk__p_44267">Genosse</rs>.</seg></seg></seg> Man kann nicht hinter allem her sein. Nachträglich<lb/>
+machen Sie mich darauf aufmerksam, dass die ‚<rs type="paper" ana="werk_7032">Arbeiter-Zeitung</rs>‘ vor<lb/>
+einiger Zeit <seg type="insult">eine von Freisinn überquellende Rede des Herrn <rs type="pers" ana="n_18391" ref="#fk__p_54962">Völkl</rs></seg> veröffentlicht<lb/>
+ habe; der Bericht schloss mit den Worten: »Die heutige<lb/>
+Versammlung ist neuerdings ein Beweis von dem Erwachen dieses<lb/>
+Geistes, der alle freiheitlichen Männer Wiens mit der Zeit gewiss zum<lb/>
+Siege führen wird!« und verzeichnete <seg type="insult">»lebhaften, anhaltenden Beifall«</seg>.<lb/>
+Wer ihn gespendet hat, geht aus der Darstellung der ‚<rs type="paper" ana="werk_7033">Arbeiter-Zeitung</rs>‘<lb/>
+nicht hervor. Die Versammlung bestimmt nicht. Denn die wurde gesprengt<lb/>
+, bevor Herr <rs type="pers" ana="n_18392" ref="#fk__p_54962">Völkl</rs> seine Rede halten konnte. Es ist ein wahres<lb/>
+Glück, dass ihr Text schon vorher den Redactionen übermittelt worden war.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_54962">
+               <persName>Voelkl, Wilhelm</persName>
+               <birth>
+                  <date>1862-8-9</date>
+                  <place>St. Pölten</place>
+               </birth>
+               <death>
+                  <date>1912-9-10</date>
+                  <place>St. Pölten</place>
+               </death>
+               <occupation>Fabrikant</occupation>
+               <occupation>Politiker</occupation>
+               <note type="comment">1900/03, 1904/05 Bürgermeister von St. Pölten</note>
+            </person>
+            <person xml:id="fk__p_44267">
+               <persName>Genosse</persName>
+            </person>
+            </listPerson></back></text>
+</TEI>

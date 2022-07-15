@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07613.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07612.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07614.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Dies irae und Karpath, in: Fackel Heft 18, Nr. 445, 1234, S. 59-59</title>
+            <title type="iso-date">1234-01-01</title>
+            <title type="id">tid_07613</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">18</title><title type="heft">445</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-18-445_n0059.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/445,059</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Dies irae und Karpath</head>
+            <p ana="pr102403">
+<space/><seg type="symbol" subtype="3dots"/> Wer wäre nun berufener als <rs type="pers" ana="n_66230" ref="#fk__p_42969">Eugen d’Albert</rs> den Kampf mit<lb/>
+diesem Totentanz aufzunehmen? Die Großartigkeit seines Spiels feierte<lb/>
+diesmal einen besonderen <seg type="spc">Triumph</seg>. Der kleine Mann an dem großmächtigen<lb/>
+ <rs type="inst"><rs type="pers" ana="n2_5845" ref="#fk__p_39419">Bösendorferflügel</rs></rs> schlug das Thema mit einer solchen dröhnenden<lb/>
+Gewalt an, daß es einem eiskalt über den Rücken lief. Tiefe Ergriffenheit<lb/>
+ hatte sich der Zuhörer bemächtigt, <seg type="spc">und es mag sich im<lb/>
+Unterbewußtsein geregt haben</seg>: Lebt der alte Kaiser<lb/>
+noch? Es war die Stunde seines Sterbens <seg type="symbol" subtype="4dots"/> <rs type="pers" ana="n_66231" ref="#fk__p_49302"><AUCTOR>Ludwig Karpath</AUCTOR></rs>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_49302">
+               <persName>Karpath, Ludwig</persName>
+               <birth>
+                  <date>1866-4-27</date>
+                  <place>Pest</place>
+               </birth>
+               <death>
+                  <date>1936-9-8</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Musikschriftsteller</occupation>
+               <note type="comment">NWT 01.04.1913, Seite 14 Ein in der ersten Reihe stehender junger Mann rief </note>
+               <note type="comment">unaufhörlich "L......!" worauf Herr Buschbeck vom Podium eilte und dem</note>
+               <note type="comment">betreffenden jungen Mann eine Ohrfeige versetzte.</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11885</idno></person>
+            <person xml:id="fk__p_42969">
+               <persName>d’Albert, Eugen</persName>
+               <birth>
+                  <date>1864-4-10</date>
+                  <place>Glasgow</place>
+               </birth>
+               <death>
+                  <date>1932-3-3</date>
+                  <place>Riga</place>
+               </death>
+               <occupation>Komponist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/27633</idno></person>
+            <person xml:id="fk__p_39419">
+               <persName>Bösendorfer, Ludwig</persName>
+               <birth>
+                  <date>1835-04-10</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1919-05-08</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Fabrikant</occupation>
+               <occupation>Klavierbauer</occupation>
+               <note type="comment">Klavierfabrik</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/43768</idno></person>
+            </listPerson></back></text>
+</TEI>

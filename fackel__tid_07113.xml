@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07113.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07112.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07114.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Der Panthersprung, in: Fackel Heft 18, Nr. 418, 1916, S. 73-73</title>
+            <title type="iso-date">1916-04-01</title>
+            <title type="id">tid_07113</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">18</title><title type="heft">418</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-18-418_n0073.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/418,073</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Der Panthersprung</head>
+            <p ana="pr96241">
+Wien <date>22. März</date>.<lb/>
+</p>
+            <p ana="pr96242">
+<space/>Der russische Dichter <rs type="pers" ana="n_64480" ref="#fk__p_51894">Puschkin</rs> heiratete ein junges Mädchen aus<lb/>
+einer vornehmen Familie. <rs type="pers" ana="n_64481" ref="#fk__p_50534">Natalia Goncharow</rs> war gefallsüchtig und der<lb/>
+Dichter eifersüchtig. Der Sohn des niederländischen Gesandten in<lb/>
+Petersburg, <rs type="pers" ana="n_64482" ref="#fk__p_38778">Baron George Heckeren</rs>, reizte durch seine Werbungen um<lb/>
+die Gunst der schönen Frau den Verdacht des Mannes, wurde zum Zweikampfe<lb/>
+ herausgefordert und verwundete <rs type="pers" ana="n_64483" ref="#fk__p_51894">Puschkin</rs> so schwer, daß ein<lb/>
+Spiel mit der Liebe, ein oberflächliches Verhältnis ohne Leidenschaft<lb/>
+das Leben eines Dichters kostete, der von der Petersburger Gesellschaft<lb/>
+unter dem alten <rs type="pers" ana="n_64484" ref="#fk__p_50669">Nikolaus</rs> als Schöpfer nationaler Kunstwerke verehrt<lb/>
+ worden ist. Die Nachwelt hat ihn nicht vergessen, und bei der<lb/>
+Enthüllung seines Denkmals wurde <rs type="pers" ana="n_64485" ref="#fk__p_43055">Dostojewski</rs> eingeladen, die Gedenkrede<lb/>
+ zu halten. Er sagte, der innerste Gedanke der russischen Volksseele<lb/>
+ist: Dulde! Der heute veröffentlichte Bericht der <rs type="inst">deutschen Obersten<lb/>
+Heeresleitung</rs> erzählt, daß die Verluste des Feindes bei Postawy eine<lb/>
+selbst für russischen Masseneinsatz ganz außerordentliche Höhe erreicht<lb/>
+haben. Die Ziffern aus der <rs type="event">Karpathenschlacht</rs> — — —<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_50534">
+               <persName>Goncharow, Natalia</persName>
+               <birth>
+                  <date>1812-9-8</date>
+                  <place>Tambov Oblast</place>
+               </birth>
+               <death>
+                  <date>1863-11-26</date>
+               </death>
+            </person>
+            <person xml:id="fk__p_38778">
+               <persName>Heeckeren d'Anthès, Georges-Charles Baron</persName>
+               <birth>
+                  <date>1812-2-5</date>
+                  <place>Soultz/Elsaß</place>
+               </birth>
+               <death>
+                  <date>1895-11-2</date>
+                  <place>Soultz/Elsaß</place>
+               </death>
+               <occupation>Diplomat</occupation>
+               <note type="comment">Duellgegner Puschkins 27. 1. oder 8.2.1837</note>
+            </person>
+            <person xml:id="fk__p_43055">
+               <persName>Dostojewski, Fjodor Michailowitsch</persName>
+               <birth>
+                  <date>1821-11-11</date>
+                  <place>Moskau</place>
+               </birth>
+               <death>
+                  <date>1881-2-9</date>
+                  <place>Petersburg</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_14500</idno></person>
+            <person xml:id="fk__p_50669">
+               <persName>Nikolaus II., Zar</persName>
+               <birth>
+                  <date>1868-5-18</date>
+                  <place>Zarskoje Selo</place>
+               </birth>
+               <death>
+                  <date>1918-7-16/17</date>
+                  <place>Jekaterinburg</place>
+               </death>
+               <occupation>Zar</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_18456</idno></person>
+            <person xml:id="fk__p_51894">
+               <persName>Puschkin, Alexander Sergejewitsch</persName>
+               <birth>
+                  <date>1799-6-6</date>
+                  <place>Moskau</place>
+               </birth>
+               <death>
+                  <date>1837-2-10</date>
+                  <place>St. Petersburg</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

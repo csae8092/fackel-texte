@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_08673.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08672.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08674.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Mittlerer Konzerthaussaal, 14. Dezember, ½3 Uhr:, in: Fackel Heft 21, Nr. 521, 1920, S. 97-98</title>
+            <title type="iso-date">1920-02-01</title>
+            <title type="id">tid_08673</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">21</title><title type="heft">521</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-21-521_n0097.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/521,097</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Mittlerer Konzerthaussaal, 14. Dezember, ½3 Uhr:</head>
+            <p ana="pr114264">
+<space/><rs type="inst">Mittlerer Konzerthaussaal</rs>, <date>14. Dezember</date>, ½3 Uhr:<lb/>
+</p>
+            <p ana="pr114265">
+<space/><rs type="title"><seg type="spc">Die letzten Tage der Menschheit</seg></rs>:<lb/>
+</p>
+            <p ana="pr114266">
+<space/>I. I 10, 11, V 27 (mit »Randbemerkung«<FOOTNOTE1/>**), II aus 1 (<seg type="insult"><rs type="pers">Drei<lb/>
+Schieber</rs>, <rs type="pers">drei Grenadiere</rs>, <rs type="pers">drei Gemeindeorgane</rs></seg>, <seg type="insult"><rs type="pers">Berliner Schieber</rs> und<lb/>
+<rs type="pers">Wiener Dienstmann</rs></seg> <abbr>etc.</abbr>), I 5, IV 3, II 5, 6, 7 (mit Musikbegleitung),<lb/>
+III 15, III aus 1 (<seg type="insult"><rs type="pers">Wagenknecht</rs>, <rs type="pers">Sedlatschek</rs> und <rs type="pers"><rs type="pers" ana="n2_6413" ref="#fk__p_45448">Hans Müller</rs></rs></seg>),<lb/>
+I 7 / <rs type="title">Anrede über die Presse</rs> (mit Zitat aus <rs type="pers" ana="n_70632" ref="#fk__p_53452">Kierkegaard</rs><FOOTNOTE2/>***).<lb/>
+</p>
+            <p ana="pr114267">
+<space/>II. III 2, 9, V 31, III 22, V 41, 5, 54, 53.<lb/>
+</p>
+            <p ana="pr114268">
+<space/>Die Erhöhung der ersten Preiskategorien zugunsten des<lb/>
+<rs type="inst">Zentralverbandes der deutschösterreichischen Kriegsbeschädigten</rs>.<lb/>
+</p>
+            <p ana="fn459">
+<FN0_TEXT0>
+<space/>*) <abbr>S.</abbr> 7</FN0_TEXT0><lb/>
+</p>
+            <p ana="fn460">
+<FN1_TEXT0><space/>**) <abbr>S.</abbr> 1</FN1_TEXT0><lb/>
+</p>
+            <p ana="fn461">
+<FN2_TEXT0><space/>***) <abbr>S.</abbr> 7</FN2_TEXT0><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_53452">
+               <persName>Kierkegaard, Sören</persName>
+               <birth>
+                  <date>1813-5-5</date>
+                  <place>Kopenhagen</place>
+               </birth>
+               <death>
+                  <date>1855-11-11</date>
+                  <place>Kopenhagen</place>
+               </death>
+               <occupation>Philosoph</occupation>
+               <occupation>Theologe</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16839</idno></person>
+            <person xml:id="fk__p_45448">
+               <persName>Müller, Hans</persName>
+               <birth>
+                  <date>1882-10-25</date>
+                  <place>Brünn</place>
+               </birth>
+               <death>
+                  <date>1950-3-8</date>
+                  <place>Einigen/Thunersee</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12327</idno></person>
+            </listPerson></back></text>
+</TEI>

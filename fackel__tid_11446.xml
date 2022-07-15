@@ -1,0 +1,127 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_11446.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11445.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11447.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Gut formuliert, in: Fackel Heft 32, Nr. 838, 1930, S. 74-74</title>
+            <title type="iso-date">1930-09-01</title>
+            <title type="id">tid_11446</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">32</title><title type="heft">838</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-32-838_n0074.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/838,074</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Gut formuliert</head>
+            <p ana="pr166548">
+<space/>So sehr sie auch hassen und verachten, so sehr sie auch höhnen<lb/>
+und spotten konnten, die wilden <rs type="pers" ana="name_200164" ref="#fk__p_47256"><rs type="pers" ana="n_99907" ref="#fk__p_45549">Harts</rs></rs>, sie konnten auch lieben:<lb/>
+Brennend und heiß: Sie liebten <rs type="pers" ana="n_99908" ref="#fk__p_43055">Dostojewski</rs>, sie liebten <seg type="spc">den Magus<lb/>
+aus dem Norden <rs type="pers" ana="n_99909" ref="#fk__p_45852">Henrik Ibsen</rs></seg>, sie liebten <seg type="spc">den Grafen<lb/>
+aus Rußland</seg>, <seg type="spc"><rs type="pers" ana="n_99910" ref="#fk__p_48747">Tolstoi</rs></seg>, sie liebten <seg type="spc"><rs type="pers" ana="n_99911" ref="#fk__p_42655">Zola</rs></seg>, <seg type="spc">den Franzosen</seg>.<lb/>
+Und sie liebten <seg type="spc">den von Sorgen bedrängten <rs type="pers" ana="n_99912" ref="#fk__p_38441">Arno Holz</rs></seg> <OMED>— —</OMED><lb/>
+</p>
+            <p ana="pr166550">
+Von jedem also das Wesentliche, und besonders das vom Grafen<lb/>
+aus Rußland ist von starker Schlagkraft. Ja, die <seg ana="Neue Freie Presse"/><lb/>
+hats in sich.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_38441">
+               <persName>Holz, Arno</persName>
+               <birth>
+                  <date>1863-4-26</date>
+                  <place>Rastenburg, Ostpreußen</place>
+               </birth>
+               <death>
+                  <date>1929-10-26</date>
+                  <place>Berlin</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11763</idno></person>
+            <person xml:id="fk__p_45852">
+               <persName>Ibsen, Henrik</persName>
+               <birth>
+                  <date>1828-3-20</date>
+                  <place>Skien</place>
+               </birth>
+               <death>
+                  <date>1906-5-23</date>
+                  <place>Christiania</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment"/>
+               <note type="comment">Ögg ordnet 368/49 Baumeister Solneß Strindberg zu</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11798</idno></person>
+            <person xml:id="fk__p_48747">
+               <persName>Tolstoi, Leo Nikolajewitsch</persName>
+               <birth>
+                  <date>1828-9-9</date>
+                  <place>Jasnaja Poljana (Gouv. Tula)</place>
+               </birth>
+               <death>
+                  <date>1910-11-20</date>
+                  <place>Astapowo (Gouv. Tambow)</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_20772</idno></person>
+            <person xml:id="fk__p_45549">
+               <persName>Hart, Heinrich</persName>
+               <birth>
+                  <date>1855-12-30</date>
+                  <place>Wesel</place>
+               </birth>
+               <death>
+                  <date>1906-6-11</date>
+                  <place>Tecklenburg, Westfalen</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11597</idno></person>
+            <person xml:id="fk__p_43055">
+               <persName>Dostojewski, Fjodor Michailowitsch</persName>
+               <birth>
+                  <date>1821-11-11</date>
+                  <place>Moskau</place>
+               </birth>
+               <death>
+                  <date>1881-2-9</date>
+                  <place>Petersburg</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_14500</idno></person>
+            <person xml:id="fk__p_42655">
+               <persName>Zola, Émile</persName>
+               <birth>
+                  <date>1840-4-2</date>
+                  <place>Paris</place>
+               </birth>
+               <death>
+                  <date>1902-9-29</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Journalist</occupation>
+               <note type="comment">Ögg gibt ihm 717/26, vielleicht wegen Dreyfus-Syndikat</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/13194</idno></person>
+            <person xml:id="fk__p_47256">
+               <persName>Hart, Julius</persName>
+               <birth>
+                  <date>1859-04-09</date>
+                  <place>Münster</place>
+               </birth>
+               <death>
+                  <date>1930-07-07</date>
+                  <place>Berlin</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Kritiker</occupation>
+               <note type="comment">1879 Begründer des Dt. Literaturkalender, später Kürschner Literaturkalender</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/3394</idno></person>
+            </listPerson></back></text>
+</TEI>

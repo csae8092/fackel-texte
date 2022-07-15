@@ -1,0 +1,101 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_10330.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10329.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10331.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Zu einem Zitat von Jonathan Swift), in: Fackel Heft 27, Nr. 697, 1925, S. 109-109</title>
+            <title type="iso-date">1925-10-01</title>
+            <title type="id">tid_10330</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">27</title><title type="heft">697</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-27-697_n0109.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/697,109</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Zu einem Zitat von Jonathan Swift)</head>
+            <p ana="pr140466">
+<space/>»Wenn Sie an die Welt denken, so geben Sie ihr auf<lb/>
+meine Bitte noch einen Hieb. Ich habe stets alle Nationen,<lb/>
+Berufe und Gemeinschaften gehaßt, und meine ganze Liebe gilt<lb/>
+Individuen. Ich hasse zum Beispiel <seg type="insult">das Geschlecht der Juristen</seg>,<lb/>
+aber ich liebe den Rechtsanwalt Soundso und den Richter<lb/>
+Soundso; und ebenso mit den Ärzten — von meinem eigenen<lb/>
+Gewerbe will ich nicht reden —, den Soldaten, den Engländern,<lb/>
+den Schotten, den Franzosen und allen andern. Aber im Prinzip<lb/>
+hasse und verachte ich <seg type="insult">jenes Vieh namens Mensch</seg>, obgleich ich<lb/>
+<seg type="spc"><rs type="pers" ana="n_85885" ref="#fk__p_56390">Johann</rs></seg>, <seg type="spc"><rs type="pers" ana="n_85886" ref="#fk__p_51377">Peter</rs></seg>, <seg type="spc"><rs type="pers" ana="n_85887" ref="#fk__p_56389">Thomas</rs></seg> <abbr>usw.</abbr> von Herzen liebe. Das ist<lb/>
+das System, nach dem ich mich seit vielen Jahren gerichtet<lb/>
+habe, gezählt habe ich sie nicht, und ich denke es weiter zu<lb/>
+tun, bis ich <FERR id="ferr_124" fcorrID="fcorr_124" href="FK-28-726_n0075.xml" emID="em_124"><ERR fcorr="mit">mit mit</ERR></FERR> ihnen fertig bin. Ich habe Stoff gesammelt<lb/>
+für einen Traktat, der die Definition eines vernünftigen Tieres<lb/>
+widerlegt und beweist, daß es nur <foreign xml:lang="la">rationis capax</foreign> ist. Auf dieser<lb/>
+großen Grundlage des Menschenhasses ist, wenn auch nicht in<lb/>
+<rs type="pers">Timons</rs> Manier, der ganze Bau meiner ‚<rs type="title">Reisen</rs>‘ errichtet; und<lb/>
+ich werde nicht eher geistige Ruhe genießen, als bis alle ehrlichen<lb/>
+ Menschen meiner Meinung sind.« <rs type="pers" ana="n_85888" ref="#fk__p_47026"><AUCTOR>Jonathan Swift</AUCTOR></rs>.<lb/>
+</p>
+            <p ana="pr140468">
+Das stimmt bis auf den wunderbaren Zufall, daß ich <rs type="pers" ana="n_85889" ref="#fk__p_56390">Johann</rs>,<lb/>
+<rs type="pers" ana="#n_85885">Peter</rs> und <rs type="pers" ana="n_85891" ref="#fk__p_56389">Thomas Viertel</rs> von Herzen liebe.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_51377">
+               <persName>Viertel, Peter</persName>
+               <birth>
+                  <date>1920-11-16</date>
+                  <place>Dresden</place>
+               </birth>
+               <death>
+                  <date>2007-11-4</date>
+                  <place>Marbella</place>
+               </death>
+            </person>
+            <person xml:id="fk__p_56390">
+               <persName>Viertel, Johann</persName>
+               <birth>
+                  <date>1919-9-4</date>
+                  <place>Dresden</place>
+               </birth>
+               <death>
+                  <date>1999-9-11</date>
+                  <place>Hanover/New Haven</place>
+               </death>
+               <occupation>Philosoph</occupation>
+               <occupation>Linguist</occupation>
+               <note type="comment"/>
+               <note type="comment">The Ely Story (1950), Linguist an der Ostküste, mit Chomsky befreundet, den er übersetzte</note>
+            </person>
+            <person xml:id="fk__p_47026">
+               <persName>Swift, Jonathan</persName>
+               <birth>
+                  <date>1667-11-30</date>
+                  <place>Dublin</place>
+               </birth>
+               <death>
+                  <date>1745-10-19</date>
+                  <place>Dublin</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10161</idno></person>
+            <person xml:id="fk__p_56389">
+               <persName>Viertel, Thomas</persName>
+               <birth>
+                  <date>1925-8-7</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>2009-9-1</date>
+                  <place>Lynnwood</place>
+               </death>
+               <occupation>Beamter</occupation>
+               <note type="comment">lebt 2007 in Los Angeles (Glendale?), verh. mit Ruth</note>
+               <note type="comment">City Administration L. A.</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

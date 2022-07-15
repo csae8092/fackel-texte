@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01381.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01380.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01382.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Jobber. (Jobber), in: Fackel Heft 02, Nr. 058, 1900, S. 27-27</title>
+            <title type="iso-date">1900-11-01</title>
+            <title type="id">tid_01381</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">058</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-058_n0027.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/058,027</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Jobber. (Jobber)</head>
+            <p ana="pr13148">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="n_10924" ref="#fk__p_46862">Jobber</rs>.</seg></seg></seg> Sie behaupten, dass <seg type="insult">die <rs type="inst">Börse</rs></seg>, wenn sie in <seg type="insult">poetische<lb/>
+Stimmung</seg> kommen wolle, die <seg type="insult">»<rs type="inst">Börsenwochen</rs>« des sonst gemiedenen<lb/>
+Herrn <rs type="pers" ana="n_10925" ref="#fk__p_45709"><seg type="spc">Glogau</seg></rs> in der ‚<rs type="paper" ana="werk_4261">Wiener Allgemeinen</rs>‘</seg> neuestens denen des<lb/>
+»<rs type="paperRef" ana="werk_4262">Economisten</rs>« vorziehe. Der <seg type="insult">Schüler</seg> scheint in der That den <seg type="insult">Meister</seg><lb/>
+übertreffen zu wollen. <seg type="insult">Herr <rs type="pers" ana="n_10926" ref="#fk__p_45709">Glogau</rs></seg> schrieb kürzlich: »Es weht nach<lb/>
+langer Niedergeschlagenheit wieder etwas Hoffnungsluft an der <rs type="inst">Börse</rs>,<lb/>
+und man hört aus der Ferne <seg type="spc"><seg type="insult">das Schellengeläute des sinkenden<lb/>
+Zinsfußes</seg></seg>, <seg type="spc">aus dessen Boden neue Früchte emporschießen<lb/>
+könnten</seg>.« <seg type="insult">Herr <rs type="pers" ana="n_10927" ref="#fk__p_50373">Benedikt</rs></seg> soll, als er <seg type="insult">diese Fülle von Bildern</seg> gewahr<lb/>
+wurde, ordentlich Neid empfunden haben. Ihm ist in <seg type="insult">den Zeiten der<lb/>
+poetischen Hausse</seg> bloß das bekannte: »Der Zinsfuß ist mit uns!<lb/>
+rufen wir mit <rs type="pers" ana="n_10928" ref="#fk__p_44583">Gottfried von Bouillon</rs> aus« eingefallen.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_44583">
+               <persName>Gottfried von Bouillon</persName>
+               <birth>
+                  <date>1060</date>
+               </birth>
+               <death>
+                  <date>1100-7-18</date>
+                  <place>Jerusalem</place>
+               </death>
+               <occupation>Kreuzfahrer</occupation>
+            </person>
+            <person xml:id="fk__p_50373">
+               <persName>Benedikt, Moriz</persName>
+               <birth>
+                  <date>1849-5-27</date>
+                  <place>Kwatschitz/Mähren</place>
+               </birth>
+               <death>
+                  <date>1920-3-18</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <note type="comment">Geburtsort Kwatschitz bei Ungarisch Hradisch/Mähren, nicht Kwassitz bei Kremsier</note>
+               <note type="comment">1. Tor, 20/1/1a</note>
+               <note type="comment">Hrsg. der NFP (seit 1908 alleiniger Leiter)</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10875</idno></person>
+            <person xml:id="fk__p_45709">
+               <persName>Glogau, Heinrich</persName>
+               <birth>
+                  <date>1855-9-9</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1926-3-11</date>
+                  <place>Berlin-Schöneberg</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15472</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/17098</idno></person>
+            <person xml:id="fk__p_46862">
+               <persName>Jobber</persName>
+            </person>
+            </listPerson></back></text>
+</TEI>

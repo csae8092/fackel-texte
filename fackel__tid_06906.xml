@@ -1,0 +1,127 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06906.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06905.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06907.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Programm), in: Fackel Heft 16, Nr. 405, 1915, S. 2-3</title>
+            <title type="iso-date">1915-02-01</title>
+            <title type="id">tid_06906</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">16</title><title type="heft">405</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-16-405_n0002.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/405,002</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Programm)</head>
+            <p ana="pr92721">
+<space/>Die Verlesung dieser zwei Zeitungsberichte aus den Originalen,<lb/>
+die an einem Tage, am <date>12. Dezember 1914</date>, erschienen waren,<lb/>
+bildete den Abschluß des zweiten Leseabends, der am <date>16. Dezember</date><lb/>
+im <rs type="inst">Kleinen Musikvereinssaal</rs> stattfand.<lb/>
+</p>
+            <p ana="pr92722">
+<space/>I. Vorwort / <rs type="pers" ana="n_62873" ref="#fk__p_55589"><seg type="spc">Shakespeare</seg></rs>: <rs type="title"><rs type="pers">Timon</rs> von Athen</rs> (Teile aus dem<lb/>
+I. II. und III. Aufzug). II. Zum Andenken <rs type="pers" ana="n_62874" ref="#fk__p_54239"><seg type="spc">Georg Trakls</seg></rs> dessen<lb/>
+Gedichte: <rs type="title">An den Knaben <rs type="pers">Elis</rs></rs> und <rs type="title">In ein altes Stammbuch</rs> / <rs type="pers" ana="n_62875" ref="#fk__p_47565"><seg type="spc">Karl<lb/>
+Kraus</seg></rs>: <rs type="title">Einleitung</rs> / <rs type="title">Die Kinder der Zeit</rs> / III. <rs type="pers" ana="n_62876" ref="#fk__p_46919"><seg type="spc">Nestroy</seg></rs>: <rs type="title">Die beiden<lb/>
+Nachtwandler oder: Das Notwendige und das Überflüssige</rs> (Szenen<lb/>
+aus beiden Akten, diesmal auch 1.—12.) <rs type="pers" ana="n_62877" ref="#fk__p_43227"><seg type="spc">Raimund</seg></rs>: <rs type="title">Hobellied</rs>. —<lb/>
+<rs type="title">Ein Tag aus der großen Zeit</rs>.<lb/>
+</p>
+            <p ana="pr92723">
+<space/>Die Klavierbegleitung besorgte <rs type="pers" ana="n_62878" ref="#fk__p_50971"><abbr>Dr.</abbr> Otto Janowitz</rs> (zu: <rs type="title">Chor der<lb/>
+Gauner und der Kellner</rs>; <rs type="title">Entree des <rs type="pers">Strick</rs></rs>; <rs type="title">Lied des <rs type="pers">Faden</rs></rs> »<rs type="title">Das is<lb/>
+wohl nur Chimäre, aber mich unterhalt’s</rs>, eingelegt aus »<rs type="title">Papiere des<lb/>
+Teufels</rs>«; <rs type="title">Chor der Furien</rs>; <rs type="title">Hobellied</rs>).<lb/>
+</p>
+            <p ana="pr92724">
+<space/>Der volle Reinertrag (777 Kronen 90 Heller) wurde<lb/>
+Rekonvaleszentenhäusern überwiesen. Ebenso 80 Kronen als Ertrag<lb/>
+eines Teiles der Auflage von <rs type="selfRef" ana="werk_20407"><abbr>Nr.</abbr> 404</rs>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_47565">
+               <persName>Kraus, Karl</persName>
+               <birth>
+                  <date>1874-4-28</date>
+                  <place>Jicin, Böhmen</place>
+               </birth>
+               <death>
+                  <date>1936-6-12</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Publizist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11988</idno></person>
+            <person xml:id="fk__p_55589">
+               <persName>Shakespeare, William</persName>
+               <birth>
+                  <date>1564-4-23?</date>
+                  <place>Stratford-upon-Avon</place>
+               </birth>
+               <death>
+                  <date>1616-4-23</date>
+                  <place>Stratford-upon-Avon</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2412</idno></person>
+            <person xml:id="fk__p_50971">
+               <persName>Janowitz, Otto</persName>
+               <birth>
+                  <date>1888-7-22</date>
+                  <place>Podjebrad/Böhmen</place>
+               </birth>
+               <death>
+                  <date>1965-7</date>
+                  <place>New York</place>
+               </death>
+               <occupation>Pianist</occupation>
+               <note type="comment">Klavierbegleiter von KK</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38543</idno></person>
+            <person xml:id="fk__p_46919">
+               <persName>Nestroy, Johann Nepomuk</persName>
+               <birth>
+                  <date>1801-12-7</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1862-5-25</date>
+                  <place>Graz</place>
+               </death>
+               <occupation>Sänger</occupation>
+               <occupation>Schauspieler</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12338</idno></person>
+            <person xml:id="fk__p_54239">
+               <persName>Trakl, Georg</persName>
+               <birth>
+                  <date>1887-2-3</date>
+                  <place>Salzburg</place>
+               </birth>
+               <death>
+                  <date>1914-11-3</date>
+                  <place>Krakau</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36113</idno></person>
+            <person xml:id="fk__p_43227">
+               <persName>Raimund, Ferdinand</persName>
+               <birth>
+                  <date>1790-6-1</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1836-9-5</date>
+                  <place>Pottenstein, Niederösterreich</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Ögg teilt die Valentin-Stelle 254/4 Nestroy zu</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12468</idno></person>
+            </listPerson></back></text>
+</TEI>

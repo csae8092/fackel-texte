@@ -1,0 +1,105 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_08220.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08219.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08221.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Bibliographisches), in: Fackel Heft 20, Nr. 474, 1918, S. 73-74</title>
+            <title type="iso-date">1918-05-01</title>
+            <title type="id">tid_08220</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">20</title><title type="heft">474</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-20-474_n0073.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/474,073</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Bibliographisches)</head>
+            <p ana="pr108790">
+<space/><seg type="spc">Bibliographisches</seg>. »<rs type="title"><rs type="pers" ana="n2_6082" ref="#fk__p_47565">Karl Kraus</rs> und die Sprache</rs>«<lb/>
+von <rs type="pers" ana="n_68410" ref="#fk__p_48822">Leopold <seg type="spc">Liegler</seg></rs> (<rs type="inst">Verlag der Buchhandlung <rs type="pers" ana="n2_6083" ref="#fk__p_52185">Richard Lányi</rs></rs><lb/>
+Wien <date>1918</date>, Vortrag, gehalten am <date>24. November 1917</date>.)<lb/>
+</p>
+            <p ana="pr108791">
+<space/>»<rs type="title"><rs type="pers" ana="n2_6084" ref="#fk__p_47565">Karl Kraus</rs></rs>« von <rs type="pers" ana="n_68411" ref="#fk__p_51000">Otto <seg type="spc">Stoeßl</seg></rs>, ‚<rs type="magazine" ana="werk_21351">Marsyas</rs>‘ Berlin, Heft 1. —<lb/>
+<rs type="pers" ana="n_68412" key="#fk__p_47581">Karl <seg type="spc">Lohs</seg></rs>: <rs type="title">Anknüpfung an <rs type="pers" ana="n2_6085" ref="#fk__p_47565">Karl Kraus’</rs> »<rs type="title">Worte in Versen</rs>«</rs>,<lb/>
+‚<rs type="magazine" ana="werk_21352">Die Wage</rs>‘, XXI. <abbr>Nr.</abbr> 8. — <rs type="pers" ana="n_68413" ref="#fk__p_51214">Paul <seg type="spc">Hatvani</seg></rs>: <rs type="title">Von und über <rs type="pers" ana="n2_6086" ref="#fk__p_47565">Karl<lb/>
+Kraus</rs></rs>, ‚<rs type="magazine" ana="werk_21353">Die Weltbühne</rs>‘ (der ‚<rs type="magazine" ana="werk_21354">Schaubühne</rs>‘ XIV. Jahr), <abbr>Nr.</abbr> 17. Und<lb/>
+Notizen in anderen Heften.<lb/>
+</p>
+            <p ana="pr108792">
+<space/>‚<rs type="paper" ana="werk_21355">Arbeiter-Zeitung</rs>‘, <date>30. März 1917</date>: Vorlesung <rs type="pers" ana="n_68414" ref="#fk__p_47565">Karl Kraus</rs>. —<lb/>
+Zahlreiche Zitierungen in Tagesblättern und Revuen.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_47565">
+               <persName>Kraus, Karl</persName>
+               <birth>
+                  <date>1874-4-28</date>
+                  <place>Jicin, Böhmen</place>
+               </birth>
+               <death>
+                  <date>1936-6-12</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Publizist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11988</idno></person>
+            <person xml:id="fk__p_51000">
+               <persName>Stoessl, Otto</persName>
+               <birth>
+                  <date>1875-5-2</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1936-9-15</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">vgl. Kraus-Hefte 10/11, Seite 20; Ögg ident. 171/4 mit Carl Eduard Klopfer</note>
+               <note type="comment">Ögg Stoeßl</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12858</idno></person>
+            <person xml:id="fk__p_48822">
+               <persName>Liegler, Leopold</persName>
+               <birth>
+                  <date>1882-06-30</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1949-10-8</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Literarhistoriker</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38999</idno></person>
+            <person xml:id="fk__p_51214">
+               <persName>Hatvany, Paul</persName>
+               <birth>
+                  <date>1892-8-16</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1975-11-9</date>
+                  <place>Kew/Vic. (Australien)</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            </person>
+            <person xml:id="fk__p_52185">
+               <persName>Lányi, Richard</persName>
+               <birth>
+                  <date>1884-12-9</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1942-5-28</date>
+                  <place>Konzentrationslager Auschwitz</place>
+               </death>
+               <occupation>Buchhändler</occupation>
+               <occupation>Verleger</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/20707</idno></person>
+            </listPerson></back></text>
+</TEI>

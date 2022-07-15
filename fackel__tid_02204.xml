@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02204.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02203.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02205.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ein Aphorist, in: Fackel Heft 03, Nr. 093, 1902, S. 28-29</title>
+            <title type="iso-date">1902-02-4</title>
+            <title type="id">tid_02204</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">03</title><title type="heft">093</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-03-093_n0028.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/093,028</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ein Aphorist</head>
+            <p ana="pr21470">
+<space/><inciptit>Auch</inciptit> die antisemitische Presse hat <seg type="insult">ihre Sonntagshumoristen</seg>.<lb/>
+Unter ihnen vertritt <seg type="insult">Herr <rs type="pers" ana="n_18743" ref="#fk__p_43036">Masaidek</rs></seg> (‚<seg ana="Deutsche Zeitung"/>‘) die <seg type="insult">Species<lb/>
+des Aphoristen</seg>. Er gestand neulich, dass ihm der Witz der ‚<rs type="self" ana="werk_7098">Fackel</rs>‘<lb/>
+nicht behage. Die ‚<rs type="self" ana="werk_7099">Fackel</rs>‘ dagegen muss gestehen, dass ihr <seg type="insult">der<lb/>
+Witz des Herrn <rs type="pers" ana="n_18744" ref="#fk__p_43036">Masaidek</rs></seg> ganz ausserordentlich behagt. Mindestens<lb/>
+findet sie, dass <seg type="insult">Herr <rs type="pers" ana="n_18745" ref="#fk__p_43036">Masaidek</rs></seg> eine der wichtigsten und wesentlichsten<lb/>
+ Bedingungen witziger Bethätigung vollauf erfüllt: Kürze.<lb/>
+Kürze ist bekanntlich <seg type="insult">des Witzes Seele</seg>, und auf alles, was als<lb/>
+Körper des Witzes zu betrachten wäre — also etwa Gedankenfülle,<lb/>
+sprachlicher Glanz, Originalität — verwendet <seg type="insult">Herr <rs type="pers" ana="n_18746" ref="#fk__p_43036">Masaidek</rs></seg> naturgemäss<lb/>
+ keine Sorgfalt. Jeder seiner Aussprüche, die durch sich selbst<lb/>
+und <seg type="insult">ihre apodiktische Selbstverständlichkeit</seg> wirken müssen, erscheint<lb/>
+zwischen zwei Sternchen, die den Leser zum Verweilen und Nachdenken<lb/>
+ anregen sollen. Und man verweilt gerne, wenn man <abbr>z. B.</abbr>,<lb/>
+wie’s an einem der letzten Sonntage der Fall war, <seg type="insult">den folgenden<lb/>
+Gedankensplitter</seg> hinter sich hat:<lb/>
+</p>
+            <p ana="pr21472">
+<space/>»<seg type="spc">Die Familie <rs type="pers" ana="n_18747" ref="#fk__p_54288">Tschan</rs> scheint eine recht nette<lb/>
+Familie zu sein</seg>.«<lb/>
+</p>
+            <p ana="pr21474">
+<space/>Pause. Der Leser nickt seinem <seg type="insult">Autor</seg>, der wieder einmal<lb/>
+den Nagel auf den Kopf getroffen hat, bejahend zu, und schon<lb/>
+ist <seg type="insult">Herr <rs type="pers" ana="n_18748" ref="#fk__p_43036">Masaidek</rs></seg> daran, <seg type="insult">eine andere Wahrheit</seg> lachend zu verkünden<lb/>
+. <seg type="symbol" subtype="4dots"/><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_54288">
+               <persName>Tschan, Josef</persName>
+               <birth>
+                  <date>1844</date>
+                  <place>Innsbruck</place>
+               </birth>
+               <death>
+                  <date>1908</date>
+               </death>
+               <occupation>Rechtsanwalt</occupation>
+               <occupation>Politiker</occupation>
+               <note type="comment">die Familie Tschan</note>
+               <note type="comment">Reichsratsabgeordneter</note>
+            </person>
+            <person xml:id="fk__p_43036">
+               <persName>Masaidek, Franz Friedrich</persName>
+               <birth>
+                  <date>1840-10-04</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1911-04-06</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

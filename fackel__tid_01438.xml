@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01438.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01437.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01439.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Liberaler. (Liberaler), in: Fackel Heft 02, Nr. 060, 1900, S. 27-28</title>
+            <title type="iso-date">1900-11-01</title>
+            <title type="id">tid_01438</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">060</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-060_n0027.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/060,027</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Liberaler. (Liberaler)</head>
+            <p ana="pr13623">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="n_11439" ref="#fk__p_48937">Liberaler</rs>.</seg></seg></seg> Die Publication des Aufrufs, den die <seg type="insult">Fortschrittsfreunde<lb/>
+</seg> anlässlich des bevorstehenden Hochzeitsfestes im Hause <rs type="pers" ana="n_11440" ref="#fk__p_50712">Noske</rs><lb/>
+versenden, halten Sie für einen <seg type="insult">»Eingriff ins Privatleben«</seg>? Ich nicht.<lb/>
+</p>
+            <p ana="pr13623">
+Ich war vielmehr wieder einmal Schützer des Privatlebens und habe<lb/>
+lediglich <seg type="insult">des thörichten Versuches</seg> gespottet, die Feier eines Familienereignisses<lb/>
+ als politische Action darzustellen.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_50712">
+               <persName>Noske, Constantin</persName>
+               <birth>
+                  <date>1848-10-28</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1920-3-10</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Versicherungsbeamter</occupation>
+               <occupation>Journalist</occupation>
+               <occupation>Politiker</occupation>
+               <note type="comment">Gen. Sekretär des Fabriken-Rückversicherungsverbandes, 1., Börsegasse 10</note>
+               <note type="comment">Le Figaro 25.07.1901, Seite 2 schreibt Constantin Doske</note>
+            </person>
+            <person xml:id="fk__p_48937">
+               <persName>Liberaler</persName>
+            </person>
+            </listPerson></back></text>
+</TEI>

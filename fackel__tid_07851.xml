@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07851.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07850.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07852.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Vorlesung im Kleinen Konzerthaussaal, 4. April, 6 Uhr:, in: Fackel Heft 19, Nr. 457, 1234, S. 62-62</title>
+            <title type="iso-date">1234-01-01</title>
+            <title type="id">tid_07851</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">19</title><title type="heft">457</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-19-457_n0062.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/457,062</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Vorlesung im Kleinen Konzerthaussaal, 4. April, 6 Uhr:</head>
+            <p ana="pr105156">
+<space/>Vorlesung im <rs type="inst">Kleinen Konzerthaussaal</rs>, <date>4. April</date>, 6 Uhr:<lb/>
+</p>
+            <p ana="pr105157">
+<space/>I. <rs type="pers" ana="n_67304" ref="#fk__p_46919">Johann Nestroy</rs>: »<rs type="title"><seg type="spc"><rs type="pers">Judith</rs> und <rs type="pers">Holofernes</rs></seg></rs>«,<lb/>
+<rs type="title">Travestie in einem Akt</rs> (Musik von <rs type="pers" ana="n_67305" ref="#fk__p_39736">Carl Binder</rs>). II. <rs type="pers" ana="n_67306" ref="#fk__p_44354">Gerhart Hauptmann<lb/>
+</rs>: »<rs type="title"><seg type="spc"><rs type="pers">Hannele Matterns</rs> Himmelfahrt</seg></rs>«, <rs type="title">Traumdichtung<lb/>
+in zwei Teilen</rs>. Begleitende Musik (hinter der Szene): <rs type="pers" ana="n_67307" ref="#fk__p_40903"><abbr>Dr.</abbr> Egon Kornauth</rs>.<lb/>
+</p>
+            <p ana="pr105158">
+<space/>Der gesamte Ertrag ist wohltätigen Zwecken (Blindenunterstützung<lb/>
+, Kinderschutz, Tierschutz) zugewendet worden.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_40903">
+               <persName>Kornauth, Egon</persName>
+               <birth>
+                  <date>1891-5-14</date>
+                  <place>Olmütz</place>
+               </birth>
+               <death>
+                  <date>1959-10-28</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Komponist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/8302</idno></person>
+            <person xml:id="fk__p_46919">
+               <persName>Nestroy, Johann Nepomuk</persName>
+               <birth>
+                  <date>1801-12-7</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1862-5-25</date>
+                  <place>Graz</place>
+               </death>
+               <occupation>Sänger</occupation>
+               <occupation>Schauspieler</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12338</idno></person>
+            <person xml:id="fk__p_39736">
+               <persName>Binder, Carl</persName>
+               <birth>
+                  <date>1816-11-29</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1860-11-05</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Komponist</occupation>
+            </person>
+            <person xml:id="fk__p_44354">
+               <persName>Hauptmann, Gerhart</persName>
+               <birth>
+                  <date>1862-11-15</date>
+                  <place>Salzbrunn, Schlesien</place>
+               </birth>
+               <death>
+                  <date>1946-6-6</date>
+                  <place>Agnetendorf</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Ögg teilt die indirekte Stelle 521/64 zu, irrtümlich</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11617</idno></person>
+            </listPerson></back></text>
+</TEI>

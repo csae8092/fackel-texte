@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02743.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02742.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02744.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Chronist. (»Wieder Einer!«), in: Fackel Heft 04, Nr. 120, 1902, S. 32-33</title>
+            <title type="iso-date">1902-11-8</title>
+            <title type="id">tid_02743</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">04</title><title type="heft">120</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-04-120_n0032.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/120,032</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Chronist. (»Wieder Einer!«)</head>
+            <p ana="pr26880">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="n_23185" ref="#fk__p_39979">Chronist</rs>.</seg></seg></seg> <seg type="insult">»Wieder Einer!«</seg> So begann am <date>26. October</date> stimmungsvoll<lb/>
+ ein Artikel der ‚<rs type="paper" ana="werk_9446">Neuen Freien Presse</rs>‘. Wem mochte in einem<lb/>
+<seg type="insult"><rs type="inst">Börsenblatte</rs></seg> das Hohnwort gelten, das in der ‚<rs type="paper" ana="werk_9447">Arbeiter-Zeitung</rs>‘ die<lb/>
+<seg type="insult">»Schweinepfaffen«</seg> und in der christlichsocialen Presse <seg type="insult">defraudierende<lb/>
+Socialdemokraten</seg> stigmatisiert? Mit Befremden las man über dem Artikel<lb/>
+den Namen <rs type="pers" ana="n_23186" ref="#fk__p_48751"><seg type="spc">Leo Reinisch</seg></rs> und zerbrach sich den Kopf darüber, was<lb/>
+der greise Egyptiologe denn eigentlich dem <seg type="insult"><rs type="paperRef" ana="werk_40657">Börsenwöchner</rs></seg> angethan<lb/>
+habe. Aber Professor <rs type="pers" ana="n_23187" ref="#fk__p_48751">Leo Reinisch</rs> hat nichts verbrochen, als daß er<lb/>
+siebzig Jahre alt ward. Und darum — <seg type="insult">»wieder Einer«!</seg> Ob jemand<lb/>
+Siebzig wird oder etwa Neunundsechzig, das ist — die Feier des neunundsechzigjährigen<lb/>
+ <rs type="pers" ana="n_23188" ref="#fk__p_43232">Saar</rs> hat’s soeben bewiesen — sicherlich eine höchst<lb/>
+gleichgiltige Sache, und den Leuten, die sich als <seg type="insult">Versteher und Gönner<lb/>
+eines bedeutenden Mannes</seg> der Oeffentlichkeit aufdrängen wollen, fehlt<lb/>
+auch sonst niemals die Gelegenheit. Bei einem <rs type="inst">Universitätslehrer</rs> mag<lb/>
+immerhin der siebzigste Geburtstag trübe Gedanken wecken: über die<lb/>
+<seg type="insult">Thorheit</seg> der Altersgrenze, die uns noch mehr als die Landesgrenze vom<lb/>
+geistigen Leben Deutschlands abschließt, weil kein zu höheren Jahren<lb/>
+und zur Höhe des wissenschaftlichen Wirkens gelangter Gelehrter einem<lb/>
+Rufe nach Oesterreich folgt, wo ihm binnen kurzem die Pensionierung<lb/>
+gewiß ist. Jetzt ist auch <rs type="pers" ana="n_23189" ref="#fk__p_48751">Leo Reinisch</rs>, siebzig alt, in Pension gegangen:<lb/>
+<seg type="insult">»Wieder Einer!«</seg> Aber das Wort wird den fatalen Nebensinn nicht mehr<lb/>
+los, und es wäre besser für eine andere Gelegenheit zu reservieren gewesen<lb/>
+, die sich demnächst darbieten wird: in diesem <rs type="inst">Universitätsjahr</rs><lb/>
+vollendet auch <rs type="pers" ana="n_23190" ref="#fk__p_46520">Isidor <seg type="spc">Neumann</seg></rs>, der Syphilitologe, das siebzigste<lb/>
+Lebensjahr <seg type="symbol" subtype="3dots"/><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_39979">
+               <persName>Chronist</persName>
+            </person>
+            <person xml:id="fk__p_46520">
+               <persName>Neumann-Heilwart, Isidor von</persName>
+               <birth>
+                  <date>1832-3-2</date>
+                  <place>Misslitz</place>
+               </birth>
+               <death>
+                  <date>1906-8-31</date>
+                  <place>Vöslau, Niederösterreich</place>
+               </death>
+               <occupation>Dermatologe</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/21912</idno></person>
+            <person xml:id="fk__p_48751">
+               <persName>Reinisch, Simon Leo</persName>
+               <birth>
+                  <date>1832-10-26</date>
+                  <place>Osterwitz/Steierm.</place>
+               </birth>
+               <death>
+                  <date>1919-12-24</date>
+                  <place>Lankowitz/Steierm.</place>
+               </death>
+               <occupation>Ägyptologe</occupation>
+               <occupation>Afrikanist</occupation>
+            </person>
+            <person xml:id="fk__p_43232">
+               <persName>Saar, Ferdinand von</persName>
+               <birth>
+                  <date>1833-9-30</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1906-7-24</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12602</idno></person>
+            </listPerson></back></text>
+</TEI>

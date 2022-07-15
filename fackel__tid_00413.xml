@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00413.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00412.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00414.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Dr. Albert Kr. in T.; Socius; Wilhelm F.; H. Fl.; Faust; med. Mara; Cand. med. F.; Wilhelm Kr.; Ein jüdischer Arzt; Dr. Kl.; E. S., VII/2; Cand. jur. E. Sch.; O. K., Baden; Dr. R. M.; „M. G., Hier“; H. W.; Lothar Sch.; Dr. U., in: Fackel Heft 01, Nr. 016, 1899, S. 28-28</title>
+            <title type="iso-date">1899-09-01</title>
+            <title type="id">tid_00413</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">016</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-016_n0028.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/016,028</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Dr. Albert Kr. in T.; Socius; Wilhelm F.; H. Fl.; Faust; med. Mara; Cand. med. F.; Wilhelm Kr.; Ein jüdischer Arzt; Dr. Kl.; E. S., VII/2; Cand. jur. E. Sch.; O. K., Baden; Dr. R. M.; „M. G., Hier“; H. W.; Lothar Sch.; Dr. U.</head>
+            <p ana="pr3725">
+<space/><seg type="i"><seg type="sidehead"><rs type="pers" ana="n_2631" key="#fk__p_40691"><abbr>Dr.</abbr> Albert <abbr>Kr.</abbr></rs> in <abbr>T.</abbr>;</seg> <seg type="sidehead"><rs type="pers" ana="n_2632" ref="#fk__p_53413">Socius</rs>;</seg> <seg type="sidehead"><rs type="pers" ana="n_2633" key="#fk__p_55500">Wilhelm <abbr>F.</abbr></rs>;</seg> <seg type="sidehead"><rs type="pers" ana="n_2634" key="#fk__p_45260"><abbr>H. Fl.</abbr></rs>;</seg> <seg type="sidehead"><rs type="pers" ana="n_2635" ref="#fk__p_43110">Faust</rs>;</seg><lb/>
+<seg type="sidehead"><rs type="pers" ana="n_2636" ref="#fk__p_49589"><foreign xml:lang="la"><abbr>med.</abbr></foreign> Mara</rs>;</seg> <seg type="sidehead"><foreign xml:lang="la"><abbr>Cand. med.</abbr></foreign> <rs type="pers" ana="n_2637" key="#fk__p_57351"><abbr>F.</abbr></rs>;</seg> <seg type="sidehead"><rs type="pers" ana="n_2638" key="#fk__p_55525">Wilhelm <abbr>Kr.</abbr></rs>;</seg> <seg type="sidehead"><rs type="pers" ana="n_2639" key="#fk__p_42407">Ein jüdischer Arzt</rs>;</seg><lb/>
+<seg type="sidehead"><rs type="pers" ana="n_2640" ref="#fk__p_41380"><abbr>Dr. Kl.</abbr></rs>;</seg> <seg type="sidehead"><rs type="pers" ana="n_2641" ref="#fk__p_59552"><abbr>E. S.</abbr></rs>, VII/<SUB>2</SUB>;</seg> <seg type="sidehead"><foreign xml:lang="la"><abbr>Cand. jur.</abbr></foreign> <rs type="pers" ana="n_2642" ref="#fk__p_42217"><abbr>E. Sch.</abbr></rs>;</seg> <seg type="sidehead"><rs type="pers" ana="n_2643" key="#fk__p_50752"><abbr>O. K.</abbr></rs>, Baden;</seg> <seg type="sidehead"><rs type="pers" ana="n_2644" key="#fk__p_41674"><abbr>Dr. R. M.</abbr></rs>;</seg><lb/>
+<seg type="sidehead">„<rs type="pers" ana="n_2645" ref="#fk__p_49442"><abbr>M. G.</abbr></rs>, Hier“;</seg> <seg type="sidehead"><rs type="pers" ana="n_2646" ref="#fk__p_45305"><abbr>H. W.</abbr></rs>;</seg> <seg type="sidehead"><rs type="pers" ana="n_2647" key="#fk__p_49154">Lothar <abbr>Sch.</abbr></rs>;</seg> <seg type="sidehead"><rs type="pers" ana="n_2648" key="#fk__p_41910"><abbr>Dr. U.</abbr></rs></seg></seg> Besten Dank.<lb/>
+</p>
+            <p ana="pr3728"><B>Anonyme Anfragen werden nicht beantwortet.</B></p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_53413">
+               <persName>Socius</persName>
+            </person>
+            <person xml:id="fk__p_49589">
+               <persName>Mara</persName>
+               <note type="comment">Medizinstudent?</note>
+            </person>
+            <person xml:id="fk__p_49442">
+               <persName>G., M.</persName>
+            </person>
+            <person xml:id="fk__p_59552">
+               <persName>S., E.</persName>
+               <note type="comment">Wien VII</note>
+            </person>
+            <person xml:id="fk__p_45305">
+               <persName>W., H.</persName>
+            </person>
+            <person xml:id="fk__p_41380">
+               <persName>Kl., Dr.</persName>
+            </person>
+            <person xml:id="fk__p_43110">
+               <persName>Faust</persName>
+            </person>
+            <person xml:id="fk__p_42217">
+               <persName>Sch., E.</persName>
+               <occupation>Student</occupation>
+               <note type="comment">Cand. Jur.</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

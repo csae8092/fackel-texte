@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_04537.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04536.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04538.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Ehrbarer Anschluß), in: Fackel Heft 09, Nr. 232, 1907, S. 26-27</title>
+            <title type="iso-date">1907-10-16</title>
+            <title type="id">tid_04537</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">09</title><title type="heft">232</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-09-232_n0026.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/232,026</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Ehrbarer Anschluß)</head>
+            <p ana="pr50357">
+<space/>Im Sommer habe ich einmal, weil ich nämlich<lb/>
+ein Absteigquartier suchte, einen Blick ins ‚<rs type="paper" ana="werk_15682">Neue<lb/>
+Wiener Tagblatt</rs>‘ geworfen. Zu meiner größten Beruhigung<lb/>
+ gereichte es, wahrzunehmen, daß sich <seg type="insult">die<lb/>
+mudelsaubere Lebensanschauung des Herrn <rs type="pers" ana="n_40130" ref="#fk__p_42322">Pötzl</rs></seg><lb/>
+seit dem Austritt <seg type="insult">des Herrn <rs type="pers" ana="n_40131" ref="#fk__p_45908">Bahr</rs></seg> aus dem <rs type="inst">Redaktionsverbande<lb/>
+</rs> auch im Inseratenteil zur Geltung<lb/>
+bringt. Wenn man sich an den <seg type="insult">Raffinements</seg>,<lb/>
+die die ‚<rs type="paper" ana="werk_15683">Neue Freie Presse</rs>‘ auf der letzten Seite<lb/>
+vermittelt, übersättigt hat, wirkt eine Anzeige, wie<lb/>
+die des ‚<rs type="paper" ana="werk_15684">Neuen Wiener Tagblatts</rs>‘ vom <date>22. August</date><lb/>
+wie ein <seg type="insult">Gesundbrunnen</seg>: »Ehrbaren Anschluß an<lb/>
+schöne junge Dame von starker stattlicher imposanter<lb/>
+Erscheinung erwünscht von einem distinguierten gutsituierten<lb/>
+ Ausländer. Detaillierte Anträge (nur mit<lb/>
+Bild, sonst zwecklos) und nicht anonym unter ‚<rs type="title"><rs type="pers" ana="n2_3362" ref="#fk__p_52528">Rubensweib<lb/>
+</rs> 60744</rs>‘ an die Expedition. <seg type="spc"><seg type="insult">Sezessionistisches</seg><lb/>
+ausgeschlossen</seg>.« Mit einem Wort, sie muß <seg type="insult">»was<lb/>
+zum Anhalten«</seg> haben!<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_52528">
+               <persName>Rubens, Peter Paul</persName>
+               <birth>
+                  <date>1577-06-29</date>
+                  <place>Kölb oder Siegen</place>
+               </birth>
+               <death>
+                  <date>1640-05-30</date>
+                  <place>Antwerpen</place>
+               </death>
+               <occupation>Maler</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/53318</idno></person>
+            <person xml:id="fk__p_45908">
+               <persName>Bahr, Hermann</persName>
+               <birth>
+                  <date>1863-7-19</date>
+                  <place>Linz</place>
+               </birth>
+               <death>
+                  <date>1934-1-15</date>
+                  <place>München</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Kritiker</occupation>
+               <note type="comment">Ögg teilt auch 307/52, 445/49, 800/67 (Rotte Korah) Bahr zu</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10815</idno></person>
+            <person xml:id="fk__p_42322">
+               <persName>Pötzl, Eduard</persName>
+               <birth>
+                  <date>1851-3-17</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1914-8-21</date>
+                  <place>Mödling, Niederösterreich</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Journalist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12460</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_08112.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08111.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08113.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Derselbe, in: Fackel Heft 19, Nr. 472, 1917, S. 20-21</title>
+            <title type="iso-date">1917-11-01</title>
+            <title type="id">tid_08112</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">19</title><title type="heft">472</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-19-472_n0020.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/472,020</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Derselbe</head>
+            <lg>
+<l><seg type="insult">Schwarzgelblicher Haltung blutlosen Trophä’n</seg></l>
+<l>galt, als es galt, <seg type="insult">seine tapfere Wahl</seg>.</l>
+<l>Es schlug <seg type="insult">eine Brucken zum <rs type="pers" ana="n_68101" ref="#fk__p_51702">Prinz Eugen</rs></seg></l>
+<l><seg type="insult">der edle Ritter <rs type="pers" ana="n_68102" ref="#fk__p_46353">von Hofmannsthal</rs></seg>.</l>
+</lg>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46353">
+               <persName>Hofmannsthal, Hugo Edler von</persName>
+               <birth>
+                  <date>1874-2-1</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1929-7-15</date>
+                  <place>Rodaun bei Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16293</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11740</idno></person>
+            <person xml:id="fk__p_51702">
+               <persName>Eugen, Prinz</persName>
+               <birth>
+                  <date>1663-10-18</date>
+                  <place>Paris</place>
+               </birth>
+               <death>
+                  <date>1736-04-21</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Feldherr</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

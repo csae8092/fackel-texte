@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02017.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02016.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02018.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Die neue Orthographie, in: Fackel Heft 03, Nr. 085, 1901, S. 24-24</title>
+            <title type="iso-date">1901-11-16</title>
+            <title type="id">tid_02017</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">03</title><title type="heft">085</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-03-085_n0024.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/085,024</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Die neue Orthographie</head>
+            <p ana="pr19725">
+<space/><inciptit>Eine</inciptit> Neuerung wird demnächst in der ‚<rs type="self" ana="werk_6524">Fackel</rs>‘ durchgeführt<lb/>
+ werden: sie wird nunmehr gegen die neuen Regeln der<lb/>
+Orthographie verstossen, nachdem sie so lange gegen die alten<lb/>
+und gegen <seg type="insult">alle sonstigen Regeln des österreichischen Herkommens</seg><lb/>
+verstossen hat. Hier wird es nicht als eine Actienreform anerkannt<lb/>
+werden, dass in Zukunft statt des <seg type="insult">Actienschwindels</seg> der <seg type="insult">Akzienschwindel<lb/>
+</seg> geduldet werden soll. Hier wird auch weiterhin <seg type="insult">kein<lb/>
+anderer Fremdname als »<rs type="pers" ana="n_16848" ref="#fk__p_50373">Benedikt</rs>«</seg> mit k geschrieben und die<lb/>
+Staatsgewalt nur umso schärfer getadelt werden, wenn sie gegenüber<lb/>
+der <seg type="insult">Korruption</seg> <seg type="insult">Konnivenz</seg> bezeigt. Man kann sich die Rechtschreibung<lb/>
+ nicht von einer <seg type="insult">Regierung</seg> verordnen lassen, der das<lb/>
+Rechtthun so völlig gleichgiltig zu sein scheint. <seg type="insult">Herr <rs type="pers" ana="n_16849" ref="#fk__p_55511"><abbr>v.</abbr> Hartel</rs></seg><lb/>
+lasse uns zuerst ernste Thaten sehen. Ob die dann <seg type="insult">»Taten«</seg> heissen,<lb/>
+verschlägt nichts.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_50373">
+               <persName>Benedikt, Moriz</persName>
+               <birth>
+                  <date>1849-5-27</date>
+                  <place>Kwatschitz/Mähren</place>
+               </birth>
+               <death>
+                  <date>1920-3-18</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <note type="comment">Geburtsort Kwatschitz bei Ungarisch Hradisch/Mähren, nicht Kwassitz bei Kremsier</note>
+               <note type="comment">1. Tor, 20/1/1a</note>
+               <note type="comment">Hrsg. der NFP (seit 1908 alleiniger Leiter)</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10875</idno></person>
+            <person xml:id="fk__p_55511">
+               <persName>Hartel, Wilhelm Ritter von</persName>
+               <birth>
+                  <date>1839-05-28</date>
+                  <place>Hof/Mähren</place>
+               </birth>
+               <death>
+                  <date>1907-01-14</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Altphilologe</occupation>
+               <occupation>Politiker</occupation>
+               <note type="comment">Friedhof Penzing (=Kontrahentenfriedhof) Tel. 985 64 07</note>
+               <note type="comment">Unterrichtsminister 1900-05</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15937</idno></person>
+            </listPerson></back></text>
+</TEI>

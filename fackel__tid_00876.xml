@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00876.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00875.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00877.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Leser. (Nothnagel und Brandes in der »Concordia«), in: Fackel Heft 01, Nr. 036, 1900, S. 32-32</title>
+            <title type="iso-date">1900-03-01</title>
+            <title type="id">tid_00876</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">036</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-036_n0032.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/036,032</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Leser. (Nothnagel und Brandes in der »Concordia«)</head>
+            <p ana="pr8291">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="name_203278" ref="#fk__p_48877">Leser</rs>.</seg></seg> Sie haben Recht. Die <rs type="inst">Aerztekammer</rs> führt den Kampf<lb/>
+gegen die <seg type="insult">Reclameärzte</seg> viel zu lau. Hofrath <seg type="spc"><rs type="pers" ana="n_6540" ref="#fk__p_50717">Nothnagel</rs></seg> hielt einen<lb/>
+Vortrag in der »<rs type="inst">Concordia</rs>« und inserierte ihn dann in zwei Blättern.<lb/>
+Von einer Verwechslung mit der gleichnamigen Leichenbestattungsanstalt<lb/>
+ kann, wiewohl <rs type="pers" ana="n_6541" ref="#fk__p_50717">Nothnagel</rs> über »Sterben« sprach, nicht<lb/>
+die Rede sein. <seg type="insult">Der Herr Hofrath</seg> wusste schon, als er zum Vortrag<lb/>
+schritt, dass die »<rs type="inst">Concordia</rs>« ein <seg type="insult"><seg type="spc">Journalistenverein</seg></seg> ist <seg type="symbol" subtype="3dots"/> Dem<lb/>
+Vortrage <seg type="insult">des Herrn <seg type="spc"><rs type="pers" ana="n_6542" ref="#fk__p_44279">Brandes</rs></seg></seg> habe ich nicht beigewohnt. Er sprach<lb/>
+über »<rs type="title"><seg type="spc">Was</seg> sollen wir lesen? <seg type="spc">Wie</seg> sollen wir lesen? <seg type="spc">Warum</seg><lb/>
+sollen wir lesen?</rs>« Die Gesellschaft, die ihm zuhörte, soll den<lb/>
+Saal mit der Antwort verlassen haben: »Was? Wir sollen lesen?<lb/>
+Wie sollen wir <seg type="spc">lesen</seg>? Warum sollen <seg type="spc">wir</seg> lesen?« Dem Abend<lb/>
+folgte ein <seg type="insult">intimes Bankett bei <rs type="inst"><rs type="pers" ana="n2_493" ref="#fk__p_58859">Sacher</rs></rs></seg>, zu dem nur <seg type="insult">die auserwähltesten<lb/>
+ Localreporter</seg> zugezogen wurden. <seg type="insult">Herr <rs type="pers" ana="n_6543" ref="#fk__p_44279">Brandes</rs></seg> erhob<lb/>
+sein Glas auf das Gedeihen des Vereines, der ihn zu Gaste geladen<lb/>
+hatte. In Kopenhagen, rief er, gebe es auch eine »<rs type="inst">Concordia</rs>«; die<lb/>
+sehe aber ganz anders aus: ihre Mitglieder seien <seg type="insult">lauter Localreporter<lb/>
+</seg> und an ihrer Spitze stünden <seg type="insult">Geschäftsleute</seg>, die mit der<lb/>
+Literatur gar nichts zu schaffen haben <seg type="symbol" subtype="3dots"/><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_48877">
+               <persName>Leser</persName>
+            </person>
+            <person xml:id="fk__p_50717">
+               <persName>Nothnagel, Hermann</persName>
+               <birth>
+                  <date>1841-9-28</date>
+                  <place>Alt-Lietze-Göricke, Brandenburg</place>
+               </birth>
+               <death>
+                  <date>1905-7-7</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Internist</occupation>
+               <note type="comment">Prof. Univ. Wien</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/9104</idno></person>
+            <person xml:id="fk__p_44279">
+               <persName>Brandes, Georg</persName>
+               <birth>
+                  <date>1842-2-4</date>
+                  <place>Kopenhagen</place>
+               </birth>
+               <death>
+                  <date>1927-2-19</date>
+                  <place>Kopenhagen</place>
+               </death>
+               <occupation>Literarhistoriker</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10992</idno></person>
+            <person xml:id="fk__p_58859">
+               <persName>Sacher (Hotel-Restaurant)</persName>
+            </person>
+            </listPerson></back></text>
+</TEI>

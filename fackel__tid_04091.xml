@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_04091.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04090.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04092.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Zeitgenosse. (Menger’s Testament), in: Fackel Heft 07, Nr. 196, 1906, S. 22-23</title>
+            <title type="iso-date">1906-02-19</title>
+            <title type="id">tid_04091</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">07</title><title type="heft">196</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-07-196_n0022.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/196,022</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Zeitgenosse. (Menger’s Testament)</head>
+            <p ana="pr42715">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="name_203475" ref="#fk__p_55841">Zeitgenosse</rs>.</seg></seg></seg> <rs type="pers" ana="n_35234" ref="#fk__p_38357">Anton Menger</rs> starb, und die liberalen Blätter<lb/>
+brachten die unverständliche Kunde von einer <seg type="insult">Widmung für »antiorthodoxe</seg><lb/>
+</p>
+            <p ana="pr42715">
+<seg type="insult"> Schriften«</seg>. Ich erfahre, daß es sich hier um eine feige<lb/>
+Umschreibung des wahren Ausdrucks handelt. <rs type="pers" ana="n_35235" ref="#fk__p_38357">Menger</rs> hat verlangt,<lb/>
+daß »antireligiöse« Schriften verlegt werden. Das <seg type="insult">Gesindel</seg> bringt also<lb/>
+nicht einmal so viel Mut und Pietät auf, das Testament in seinem Wortlaut<lb/>
+ zu veröffentlichen!<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_38357">
+               <persName>Menger-Wolfensgrün, Anton Edler von</persName>
+               <birth>
+                  <date>1841-9-12</date>
+                  <place>Maniów/Galizien</place>
+               </birth>
+               <death>
+                  <date>1906-2-6</date>
+                  <place>Rom</place>
+               </death>
+               <occupation>Rechtsgelehrter</occupation>
+            </person>
+            <person xml:id="fk__p_55841">
+               <persName>Zeitgenosse</persName>
+            </person>
+            </listPerson></back></text>
+</TEI>

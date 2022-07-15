@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01089.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01088.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01090.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Musiker. (Von Herrn Gutmann), in: Fackel Heft 02, Nr. 045, 1900, S. 31-31</title>
+            <title type="iso-date">1900-06-01</title>
+            <title type="id">tid_01089</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">045</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-045_n0031.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/045,031</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Musiker. (Von Herrn Gutmann)</head>
+            <p ana="pr10316">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_8475" ref="#fk__p_50471">Musiker</rs>.</seg></seg> Sie übersenden mir ein Circular <seg type="insult">des Musikalienhändlers<lb/>
+ und Clavierverleihers <rs type="pers" ana="n_8476" ref="#fk__p_37924"><seg type="spc">Gutmann</seg></rs></seg>, um mir zu beweisen,<lb/>
+dass der Mann nicht nur ein <seg type="insult">Dichter</seg> — als der er sich wieder beim<lb/>
+<rs type="pers" ana="n_8477" ref="#fk__p_48876">Leschetizky-Jubiläum</rs> bewährte —, sondern auch ein <seg type="insult">Schriftsteller</seg> ist.<lb/>
+<seg type="insult">Seine regen Beziehungen zur Wiener Tagespresse</seg> haben seinem<lb/>
+Stil genützt und ihn zu den folgenden Sätzen ermuntert: »Trotzdem,<lb/>
+dass wir schon mehrere Jahre unseren verehrten Kunden uns mitzutheilen<lb/>
+ erlaubten, dass sich Stimmer herumtreiben, die sich als<lb/>
+von unserer Firma geschickt in den Familien eindrängen, kommen<lb/>
+fort und fort Klagen über schlechte Stimmungen an uns, von denen<lb/>
+wir absolut nichts wissen.« Und: »Wenn <seg type="insult">diese, sich einschleichenden<lb/>
+Individuen</seg> für ihre wertlosen Leistungen nicht bezahlt werden, so<lb/>
+werden sie endlich aufgeben, sich als Bedienstete von uns auszugeben<lb/>
+ und unsere verehrten Kunden zu schädigen, da die Leistungen<lb/>
+solcher, als Stimmer und Claviermacher sich ausgebenden Leute im<lb/>
+günstigsten Fall nur das Instrument nicht verderben, auf keinen<lb/>
+Fall aber eine Leistung zu Stande bringen, durch die, die betreffende<lb/>
+Kunde befriedigt erscheint.« »Bei nächster Gelegenheit als Sie Ihr<lb/>
+Clavier gestimmt haben wollen, bitten wir, sich der beigeschlossenen<lb/>
+Correspondenzkarte zu bedienen.« Bei nächster Gelegenheit als <seg type="insult">Herr<lb/>
+<rs type="pers" ana="n_8478" ref="#fk__p_37924">Gutmann</rs></seg> wieder dem Fürstbischof <rs type="pers" ana="n_8479" ref="#fk__p_45132">Gruscha</rs> im Concertsaale die<lb/>
+Hand küssen sollte, wird man ihm zurufen müssen, dass es<lb/>
+<seg type="spc">schlechte Stimmungen</seg> erzeugt, wenn <seg type="insult">ein Herr mit so ausgesprochen<lb/>
+ östlichem Deutsch</seg> sich in den Familien eindrängt: — in<lb/>
+den katholischen.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_37924">
+               <persName>Gutmann, Albert Ignaz</persName>
+               <birth>
+                  <date>1851-6-20</date>
+                  <place>Fürth/Nürnberg</place>
+               </birth>
+               <death>
+                  <date>1915-3-7</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Konzertagent</occupation>
+               <occupation>Musikalienhändler</occupation>
+               <note type="comment">1., Elisabethstr. 6 (= Opernring 5)</note>
+               <note type="comment">verh. mit Bertha Sigmann, geb. 1864? oder 1858?</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2185</idno></person>
+            <person xml:id="fk__p_50471">
+               <persName>Musiker</persName>
+            </person>
+            <person xml:id="fk__p_48876">
+               <persName>Leschetizky, Theodor</persName>
+               <birth>
+                  <date>1830-06-22</date>
+                  <place>Lancut/Rzeszów, Gal.</place>
+               </birth>
+               <death>
+                  <date>1915-11-14</date>
+                  <place>Dresden</place>
+               </death>
+               <occupation>Pianist</occupation>
+               <occupation>Klavierpädagoge</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/88653</idno></person>
+            <person xml:id="fk__p_45132">
+               <persName>Gruscha, Anton Josef</persName>
+               <birth>
+                  <date>1820-11-03</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1911-08-05</date>
+                  <place>Kranichberg</place>
+               </death>
+               <occupation>Kardinal</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

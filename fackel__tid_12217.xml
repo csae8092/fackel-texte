@@ -1,0 +1,106 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_12217.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_12216.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_12218.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ein Regierungsrat meldet, in: Fackel Heft 34, Nr. 876, 1932, S. 142-142</title>
+            <title type="iso-date">1932-10-01</title>
+            <title type="id">tid_12217</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">34</title><title type="heft">876</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-34-876_n0142.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/876,142</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ein Regierungsrat meldet</head>
+            <p ana="pr177714">
+<space/>Viele bekannte Persönlichkeiten sind bereits in Salzburg eingetroffen<lb/>
+. <seg type="spc">Da eilt</seg> im regenschützenden Covercoat und grauen Touristenhut<lb/>
+ der frühere deutsche <rs type="pers" ana="n_105822" ref="#fk__p_57123">Kronprinz Wilhelm</rs> vorüber,<lb/>
+</p>
+            <p ana="pr177716">
+(wem rennt er denn schon wieder nach, <seg type="insult">mein alter <rs type="pers">Totenkopfhusar<lb/>
+</rs></seg>, der jetzt sein Hauptquartier in Mondsee aufgeschlagen hat?)<lb/>
+</p>
+            <p ana="pr177718">
+<seg type="spc">da entsteigt</seg> zu kurzem Aufenthalt im <rs type="inst">Café Basar</rs> <rs type="pers" ana="n_105823" ref="#fk__p_51701">Prinz Esterhazy</rs><lb/>
+seinem schwarzen, eleganten Coupé. Im Café, wo <seg type="spc">auch</seg> der frühere<lb/>
+russische Gardeoffizier <rs type="pers" ana="n_105824" ref="#fk__p_51696">Prinz Cantacuzène</rs> <seg type="spc">seit einigen Tagen</seg><lb/>
+als <seg type="spc">ständiger</seg> Gast <seg type="spc">durch seine elegante Erscheinung<lb/>
+auffällt</seg>, findet man so ziemlich alle Künstler, die mit den <rs type="inst">Festspielen<lb/>
+</rs> zu tun haben, soferne sie nicht außerhalb Salzburgs wohnen.<lb/>
+Auch Kammersänger <rs type="pers" ana="n_105825" ref="#fk__p_52205">Richard Tauber</rs>, <seg type="spc">das Monokel im Auge</seg>,<lb/>
+ist da <seg type="symbol" subtype="4dots"/><lb/>
+</p>
+            <p ana="pr177720">
+Nicht das unvermeidliche? Aber es ist eben ein anderer Korrespondent<lb/>
+, der die <seg type="insult">Fülle der Gesichte</seg>, die jener im <rs type="inst">Café <rs type="pers" ana="n2_9504" ref="#fk__p_59044">Tomaselli</rs></rs><lb/>
+gewahrt, für das <rs type="inst">Café Basar</rs> aufzunehmen hat. Er unterzeichnet<lb/>
+mit vollem Namen und dem Titel »Regierungsrat«. Das gibt es.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_52205">
+               <persName>Tauber, Richard</persName>
+               <birth>
+                  <date>1891-5-16</date>
+                  <place>Linz</place>
+               </birth>
+               <death>
+                  <date>1948-1-8</date>
+                  <place>London</place>
+               </death>
+               <occupation>Sänger</occupation>
+               <note type="comment">Tenor</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10178</idno></person>
+            <person xml:id="fk__p_51701">
+               <persName>Esterházy de Gálantha, Rudolf? Prinz</persName>
+               <birth>
+                  <date>1880-5-27</date>
+                  <place>Hütteldorf</place>
+               </birth>
+               <death>
+                  <date>1962-1-30</date>
+                  <place>Wien</place>
+               </death>
+               <note type="comment">Gast Salzburger Festspiele 1932</note>
+               <note type="comment">1., Wallnerstr. 4 (HiLi)</note>
+            </person>
+            <person xml:id="fk__p_51696">
+               <persName>Cantacuzène, Michael Nikolajewitsch? Prinz</persName>
+               <birth>
+                  <date>1875-4-29</date>
+                  <place>Odessa</place>
+               </birth>
+               <death>
+                  <date>1955-3-25</date>
+                  <place>Sarasota/Florida</place>
+               </death>
+               <occupation>Offizier</occupation>
+               <note type="comment">1932 Gast im Salzburger Café Bazar</note>
+               <note type="comment">russ. Gardeoffizier</note>
+            </person>
+            <person xml:id="fk__p_59044">
+               <persName>Tomaselli (Café)</persName>
+               <note type="comment">Salzburg</note>
+            </person>
+            <person xml:id="fk__p_57123">
+               <persName>Friedrich Wilhelm Viktor, deutscher Kronprinz</persName>
+               <birth>
+                  <date>1882-5-6</date>
+                  <place>Potsdam</place>
+               </birth>
+               <death>
+                  <date>1951-7-20</date>
+                  <place>Hechingen</place>
+               </death>
+               <note type="comment">Ögg: statt 242/6 irrt. 242/16</note>
+               <note type="comment">Ögg gibt 74/9f. irrt. Kaiser Wilhelm II.</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

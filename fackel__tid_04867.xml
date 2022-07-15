@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_04867.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04866.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04868.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(„Diebe und Hehler“), in: Fackel Heft 11, Nr. 279, 1909, S. 34-34</title>
+            <title type="iso-date">1909-05-13</title>
+            <title type="id">tid_04867</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">11</title><title type="heft">279</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-11-279_n0034.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/279,034</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(„Diebe und Hehler“)</head>
+            <p ana="pr60392">
+<space/>»Ich entsinne mich eines philosophischen Essays, in dem<lb/>
+der Verfasser die großen Geister in ‚Sucher‘ und ‚Priester‘ einteilt<lb/>
+«, so schreibt <seg type="insult">Herr <rs type="pers" ana="n_44780" ref="#fk__p_37650">Seligmann</rs></seg> in der ‚<rs type="paper" ana="werk_16634">Neuen Freien Presse</rs>‘.<lb/>
+Es ist nicht notwendig, daß sich <seg type="insult">Herr <rs type="pers" ana="n_44781" ref="#fk__p_37650">Seligmann</rs></seg> eines Essays<lb/>
+entsinnt, der in der ‚<rs type="self" ana="werk_16635">Fackel</rs>‘ veröffentlicht war. Wenn ihm aber<lb/>
+schon das Malheur passierte, so hätte er wenigstens die Anständigkeit<lb/>
+ haben sollen, den Autor des Essays, <rs type="pers" ana="n_44782" ref="#fk__p_51009">Otto Weininger</rs>, zu<lb/>
+nennen. Daß die <seg type="insult">Schmarotzer am Erbe <rs type="pers" ana="n_44783" ref="#fk__p_51009">Weiningers</rs></seg> sich im<lb/>
+Literaturteil der ‚<rs type="paper" ana="werk_16636">Neuen Freien Presse</rs>‘ breitmachen dürfen, ist arg<lb/>
+genug. Da man sich aber dort auch um den Namen eines Toten<lb/>
+herumdrückt, wenn sein Werk ausnahmsweise genannt wird, so ist<lb/>
+eine neue Einteilung der Geister ermöglicht. »Sucher und Priester«<lb/>
+will <seg type="insult">Herr <rs type="pers" ana="n_44784" ref="#fk__p_37650">Seligmann</rs></seg> durch <seg type="insult">»Erneuerer und Bewahrer«</seg> ersetzt<lb/>
+wissen. Ich schlage <seg type="insult">»Diebe und Hehler«</seg> vor.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_37650">
+               <persName>Seligmann, Adalbert Franz</persName>
+               <birth>
+                  <date>1862-4-2</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1945-12-13</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Maler</occupation>
+               <occupation>Publizist</occupation>
+               <occupation>Kritiker</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12769</idno></person>
+            <person xml:id="fk__p_51009">
+               <persName>Weininger, Otto</persName>
+               <birth>
+                  <date>1880-4-3</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1903-10-4</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">ev. Friedhof Matzleinsdorf</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2630</idno></person>
+            </listPerson></back></text>
+</TEI>

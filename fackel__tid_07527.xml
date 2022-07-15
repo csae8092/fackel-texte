@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07527.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07526.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07528.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Walhalla mit Exportabteilung, in: Fackel Heft 18, Nr. 437, 1916, S. 119-119</title>
+            <title type="iso-date">1916-11-01</title>
+            <title type="id">tid_07527</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">18</title><title type="heft">437</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-18-437_n0119.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/437,119</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Walhalla mit Exportabteilung</head>
+            <p ana="pr100889">
+<space/><seg type="symbol" subtype="3dots"/> Aus den begeisterten jungen Soldaten, die singend auszogen<lb/>
+, sind Männer von grimmigem Ernst geworden; zu den strengen<lb/>
+großen Linien der ausdrucksvollen Köpfe, die eines <rs type="pers" ana="n_65943" ref="#fk__p_46167">Hodlers</rs> Kunst reizen<lb/>
+müßten, paßt das einfache graue Kriegsgewand viel schöner als das<lb/>
+frühere bunte Waffenkleid. Zu dem Bilde des deutschen Kämpfers im<lb/>
+<rs type="event">Weltkrieg</rs> gehört auch der neue Stahlhelm, dem man jetzt auch in den<lb/>
+Straßen der Reichshauptstadt nicht selten begegnet <seg type="symbol" subtype="4dots"/> es ist, als hätte<lb/>
+man einen <seg type="spc">Reisigen</seg> aus der Zeit der <rs type="pers" ana="n_65944" key="#fk__p_43986"><seg type="spc">Frundsberge</seg></rs> vor sich <seg type="symbol" subtype="4dots"/><lb/>
+</p>
+            <p ana="pr100891">
+<space/>Ich glaube nicht, daß die Ziele dieses Krieges <seg type="insult">solchen<lb/>
+Eingriff in den Schatz farbiger Vorstellungen</seg> und in <seg type="insult">die Erlebnissphäre<lb/>
+ des Malers <rs type="pers" ana="n_65945" ref="#fk__p_46167">Hodler</rs></seg> oder auch nur in <seg type="insult">das Kostümatelier<lb/>
+des Malers <rs type="pers" ana="n_65946" ref="#fk__p_47544">Hollitzer</rs></seg> rechtfertigen, der ja als <seg type="insult">Landsknecht in<lb/>
+Kabaretts und Preßquartieren</seg> seinen Mann gestellt hat. Wohl<lb/>
+aber glaube ich, daß die <seg type="insult">Wesensart</seg>, die sich an den Realien in<lb/>
+<seg type="insult">solcher Verpackung</seg> berauschen kann, eine der Grundursachen<lb/>
+dieses Krieges ist. <rs type="pers" ana="n_65947" key="#fk__p_43986">Frundsberg</rs>, so nannte sich tatsächlich der<lb/>
+Autor des Artikels »<rs type="title">Auf der Russenfährte</rs>«. Ich würde manche<lb/>
+unter jenen, die das Auge des Schilderers bestochen haben, unschwer<lb/>
+als <seg type="insult">Weinreisige</seg> erkennen.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_47544">
+               <persName>Hollitzer, Carl Leopold</persName>
+               <birth>
+                  <date>1874-03-11</date>
+                  <place>Bad Deutsch-Altenburg/NÖ</place>
+               </birth>
+               <death>
+                  <date>1942-12-01</date>
+                  <place>Rekawinkel/NÖ</place>
+               </death>
+               <occupation>Maler</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/18478</idno></person>
+            <person xml:id="fk__p_46167">
+               <persName>Hodler, Ferdinand</persName>
+               <birth>
+                  <date>1853-3-14</date>
+                  <place>Bern</place>
+               </birth>
+               <death>
+                  <date>1918-5-19</date>
+                  <place>Genf</place>
+               </death>
+               <occupation>Maler</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/7886</idno></person>
+            </listPerson></back></text>
+</TEI>

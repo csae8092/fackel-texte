@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02452.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02451.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02453.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Entartung, in: Fackel Heft 04, Nr. 105, 1902, S. 20-21</title>
+            <title type="iso-date">1902-06-6</title>
+            <title type="id">tid_02452</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">04</title><title type="heft">105</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-04-105_n0020.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/105,020</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Entartung</head>
+            <p ana="pr23854">
+<space/>Aus Paris wird berichtet: »Während der vorgestrigen Vorstellung<lb/>
+ kam es im <rs type="inst">Theater <rs type="pers" ana="n2_1596" ref="#fk__p_52770">Sarah Bernhardt</rs></rs> im Parquet zu einer<lb/>
+lebhaften Scene, die grosses Aufsehen erregte. <rs type="pers" ana="n_20774" ref="#fk__p_50720">Ermete Novelli</rs><lb/>
+</p>
+            <p ana="pr23854">
+gab den <rs type="pers">Shylok</rs>, und das Haus war dicht gefüllt. Als <rs type="pers" ana="n_20775" ref="#fk__p_49957"><seg type="spc">Max Nordau</seg></rs><lb/>
+ins Theater kam, bat er eine alte Dame, neben der ihr Sohn,<lb/>
+ein bekannter Schriftsteller, sass, ihm Platz zu machen. Da die<lb/>
+Dame dieser Aufforderung nicht Folge leistete, schaffte Herr<lb/>
+<rs type="pers" ana="n_20776" ref="#fk__p_49957">Nordau</rs> sich <seg type="spc">brüsk Zugang zu seinem Sitze</seg>. Als hierauf<lb/>
+der Sohn der alten Dame <rs type="pers" ana="n_20777" ref="#fk__p_49957">Nordau</rs> insultierte, antwortete dieser<lb/>
+mit einer Ohrfeige, die quittiert wurde. Es entstand eine<lb/>
+regelrechte Rauferei, die erst durch das Dazwischentreten einiger<lb/>
+Saaldiener und Theaterbesucher ihr Ende fand.«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_52770">
+               <persName>Bernhardt, Sarah</persName>
+               <birth>
+                  <date>1844-10-22</date>
+                  <place>Paris</place>
+               </birth>
+               <death>
+                  <date>1923-3-26</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Schauspielerin</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10899</idno></person>
+            <person xml:id="fk__p_50720">
+               <persName>Novelli, Ermete</persName>
+               <birth>
+                  <date>1851-5-5</date>
+                  <place>Lucca</place>
+               </birth>
+               <death>
+                  <date>1919-1-30</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2189</idno></person>
+            <person xml:id="fk__p_49957">
+               <persName>Nordau, Max Simon</persName>
+               <birth>
+                  <date>1849-7-29</date>
+                  <place>Pest</place>
+               </birth>
+               <death>
+                  <date>1923-1-22</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Arzt</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_18472</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12365</idno></person>
+            </listPerson></back></text>
+</TEI>

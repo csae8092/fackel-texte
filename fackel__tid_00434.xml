@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00434.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00433.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00435.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Chauvin., in: Fackel Heft 01, Nr. 017, 1899, S. 31-32</title>
+            <title type="iso-date">1899-09-01</title>
+            <title type="id">tid_00434</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">017</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-017_n0031.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/017,031</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Chauvin.</head>
+            <p ana="pr3926">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_2847" key="#fk__p_39922">Chauvin</rs>.</seg></seg> Die Zeitungen haben dreist gelogen. Unwahr ist es,<lb/>
+dass bei einem Bankett der <rs type="inst">Internationalen Kriminalistischen Vereinigung<lb/>
+</rs> in Budapest alle von dem Orchester gespielten Nationalhymnen<lb/>
+ acclamiert und nur während der <rs type="title">Marseillaise</rs> schrille<lb/>
+Pfiffe hörbar wurden. Das <seg type="insult"><rs type="pers" ana="n_2848" ref="#fk__p_38056">Dreyfus-Problem</rs></seg> hat die anwesenden<lb/>
+Kriminalisten überhaupt nicht beschäftigt, und <seg type="insult">nicht einmal die<lb/>
+Budapester Advocaten</seg>, die an den Sitzungen und Festlichkeiten<lb/>
+theilnahmen, machten sich der <seg type="insult">schweren Taktlosigkeit</seg> schuldig, in<lb/>
+Anwesenheit eines Dutzends französischer Gäste die französische<lb/>
+Nationalhymne auszuzischen. <seg type="insult">Die Budapester Herren</seg> waren ja so<lb/>
+bescheiden, nicht einmal dagegen zu protestieren, dass die Frage<lb/>
+des <seg type="spc">Mädchenhandels</seg> auf die Tagesordnung des criminalistischen<lb/>
+Congresses gesetzt wurde! Unwahr ist es, dass <seg type="insult">läppische Demonstrationen<lb/>
+ irgendwelcher Art</seg> eine Berathung gestört haben, zu der<lb/>
+sich ernste Leute in ernster Absicht gefunden hatten. Wahr ist bloß,<lb/>
+dass ein Theil der Budapester <seg type="spc">Bevölkerung</seg> sich über das Urtheil<lb/>
+im <rs type="pers" ana="n_2849" ref="#fk__p_38056">Dreyfus-Processe</rs> ungehalten zeigte; wahr ist, dass <seg type="insult">diese lieblichen<lb/>
+Bewohner unserer »freiheitlichen« und »emporstrebenden« Schwesterstadt<lb/>
+</seg> am Tage, da sie die Verurtheilung <rs type="pers" ana="n_2850" ref="#fk__p_38056">Dreyfus’</rs> aus <seg type="insult">der lauteren<lb/>
+Quelle des ‚<rs type="paper" ana="werk_1016">Pester Lloyd</rs>‘</seg> erfuhren, zum Hause des französischen<lb/>
+Consuls stürmten; wahr ist, dass dort <seg type="insult">etliche Wucherer, Getreidespeculanten<lb/>
+, Mädchenhändler und sonstige Wahrheitsfanatiker</seg> <seg type="insult">ein<lb/>
+höllisches Concert</seg> aufführten und dem Consul die Fenster einschlugen<lb/>
+. Wahr ist, dass <seg type="insult">diese erhebende Declaration echten<lb/>
+Freisinns</seg> von der <seg type="insult">Behörde</seg>, die die socialdemokratischen Führer<lb/>
+zwangsweise photographieren und die Agrararbeiter foltern lässt,<lb/>
+begünstigt wurde. Die Demonstranten waren <seg type="insult">die nämlichen Leute</seg>,<lb/>
+die ein paar Monate vorher an <rs type="pers" ana="n_2851" ref="#fk__p_51456">Picquart</rs> einen Ehrensäbel geschickt<lb/>
+hatten. Wie viel <seg type="insult">Ehrensäbelbeine</seg> mögen sich an jenem kritischen<lb/>
+</p>
+            <p ana="pr3926">
+Samstag im Sturmschritt gegen das Haus des französischen <choice><sic>Consul-</sic><corr>Consuls</corr></choice><lb/>
+bewegt haben?!<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_51456">
+               <persName>Picquart, Marie Georges</persName>
+               <birth>
+                  <date>1854-9-6</date>
+                  <place>Straßburg</place>
+               </birth>
+               <death>
+                  <date>1914-1</date>
+                  <place>Amiens</place>
+               </death>
+               <occupation>Offizier</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_18783</idno></person>
+            <person xml:id="fk__p_38056">
+               <persName>Dreyfus, Alfred</persName>
+               <birth>
+                  <date>1859-10-9</date>
+                  <place>Mühlhausen</place>
+               </birth>
+               <death>
+                  <date>1935-7-12</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Offizier</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/4216</idno></person>
+            </listPerson></back></text>
+</TEI>

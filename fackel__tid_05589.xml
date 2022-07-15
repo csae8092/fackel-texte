@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_05589.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05588.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05590.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ein Nachruf, in: Fackel Heft 13, Nr. 339, 1911, S. 17-18</title>
+            <title type="iso-date">1911-12-01</title>
+            <title type="id">tid_05589</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">13</title><title type="heft">339</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-13-339_n0017.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/339,017</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ein Nachruf</head>
+            <p ana="pr73405">
+<space/>»Die ‚<rs type="paper" ana="werk_18538">Neue Freie Presse</rs>‘ hat einen schweren Verlust zu beklagen.<lb/>
+<rs type="pers" ana="n_52799" ref="#fk__p_45211"><abbr>Dr.</abbr> Gustav Steinbach</rs> ist nach mehr als dreißigjähriger hingebungsvoller<lb/>
+Arbeit <seg type="spc">für <seg type="insult">unser <rs type="paperRef" ana="werk_18539">Blatt</rs></seg> in Meran gestorben</seg> <seg type="symbol" subtype="3dots"/> Vor etwa<lb/>
+vierzehn Tagen kam er, kaum vom Krankenbette aufgestanden, wieder<lb/>
+in die Redaktion. Es war etwas in seinem Auge, das andeutete, es<lb/>
+dürfte wohl das letztemal sein. Er hat es gewußt, und wir haben es<lb/>
+gefürchtet. Dennoch sprachen wir mit ihm, <seg type="spc">wie Journalisten noch<lb/>
+hart vor dem letzten Ende miteinander sprechen</seg>: <seg type="spc">von der<lb/>
+Arbeit und von Artikeln</seg>, die er schreiben sollte. Er <seg type="spc">hat</seg> sie geschrieben,<lb/>
+und ein gewisser methodischer, ordnungsliebender und fast pedantischer<lb/>
+Trieb, der zu seinen Eigentümlichkeiten gehörte, bewog ihn, trotz der<lb/>
+Erschöpfung <seg type="spc">seine Zusage pünktlich zu erfüllen und zu<lb/>
+sterben</seg>, ohne daß er eine Arbeit schuldig geblieben wäre. Mit der<lb/>
+Feder in der Hand ist er zusammengebrochen, weil sein krankes Herz<lb/>
+den Dienst versagte<seg type="symbol" subtype="4dots"/>«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_45211">
+               <persName>Steinbach, Gustav</persName>
+               <birth>
+                  <date>1848-2-18</date>
+                  <place>Preßburg</place>
+               </birth>
+               <death>
+                  <date>1911-12-6</date>
+                  <place>Meran</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <note type="comment">Redacteurstöchterlein 42/30: Therese, geb. 1879</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

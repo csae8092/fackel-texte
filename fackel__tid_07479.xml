@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07479.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07478.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07480.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Das Monument, in: Fackel Heft 18, Nr. 437, 1916, S. 81-81</title>
+            <title type="iso-date">1916-11-01</title>
+            <title type="id">tid_07479</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">18</title><title type="heft">437</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-18-437_n0081.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/437,081</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Das Monument</head>
+            <p ana="pr100389">
+<space/><seg type="symbol" subtype="3dots"/> Hier oben steht Kapitän <rs type="pers" ana="n_65821" ref="#fk__p_51221">König</rs>, blond und wettergebräunt,<lb/>
+in nasses, ölgetränktes Lederzeug gehüllt, Jacke, Hose, Gamaschen und<lb/>
+Stulphandschuhe. Er ist ein Mann, der zähe und mutig, mit klarem Kopf<lb/>
+und scharfem Auge tausend Gefahren und Mühen überwunden hat und<lb/>
+<seg type="spc">sich ihrer Spuren nicht schämt</seg>. Er ist auch nicht feierlich<lb/>
+und großartig, sondern einfach, vergnügt und glücklich. Er schwingt<lb/>
+ununterbrochen die Mütze, wenn ihm zugejubelt wird. Er nimmt sein<lb/>
+Sprachrohr und <seg type="spc">schreit uns ein dreifaches Hurra<lb/>
+auf die neutrale</seg>, <seg type="spc">verbündete und deutsche Presse zu</seg>.<lb/>
+</p>
+            <p ana="pr100390">
+<space/><seg type="spc">Sogar interviewen kann man den Kapitän</seg>,<lb/>
+wenn auch nur in der lakonischesten Form, ein amerikanischer Kollege<lb/>
+<seg type="spc">zeigt uns das Kunststück</seg>.<lb/>
+</p>
+            <p ana="pr100391">
+<space/>»<seg type="spc">Hallo</seg>, <seg type="spc">Captain <rs type="pers" ana="n_65822" ref="#fk__p_51221">König</rs></seg>!« brüllt er aus Leibeskräften,<lb/>
+»<seg type="spc">wie gefällt Ihnen Baltimore</seg>?«<lb/>
+</p>
+            <p ana="pr100392">
+<space/>»<seg type="spc">Ausgezeichnet</seg>!« schreit <rs type="pers" ana="n_65823" ref="#fk__p_51221">König</rs> durch das Sprachrohr<lb/>
+zurück. »<seg type="spc">Es war sehr schön da</seg> <seg type="symbol" subtype="4dots"/>«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_51221">
+               <persName>König, Paul Leberecht</persName>
+               <birth>
+                  <date>1867-3-20</date>
+                  <place>Rohr/Thüringen</place>
+               </birth>
+               <death>
+                  <date>1933-9-8</date>
+                  <place>Gnadau</place>
+               </death>
+               <occupation>Marineoffizier</occupation>
+               <note type="comment">Kapitän des Norddeutschen Lloyd</note>
+               <note type="comment">Kapitän</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

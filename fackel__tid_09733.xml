@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_09733.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09732.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09734.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Theaternachricht, in: Fackel Heft 25, Nr. 640, 1924, S. 163-163</title>
+            <title type="iso-date">1924-01-01</title>
+            <title type="id">tid_09733</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">25</title><title type="heft">640</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-25-640_n0163.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/640,163</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Theaternachricht</head>
+            <p ana="pr131431">
+<space/>— — In der letzten Zeit sind übrigens <seg type="insult">drei <seg type="spc">prominente</seg><lb/>
+Richter</seg> aus der Vereinigung ausgeschieden: Der Präsident des <rs type="inst">Straflandesgerichtes<lb/>
+ I</rs> Hofrat <rs type="pers" ana="n_80255" ref="#fk__p_41469"><abbr>Dr.</abbr> Altmann</rs>, Vizepäsident <rs type="pers" ana="n_80256" ref="#fk__p_56117">Doktor Habietinek</rs> und<lb/>
+Hofrat <rs type="pers" ana="n_80257" ref="#fk__p_40846"><abbr>Dr.</abbr> Höflmayr</rs> vom <rs type="inst">Strafbezirksgericht I</rs>.<lb/>
+</p>
+            <p ana="pr131433">
+<space/>Also einige von jenen, die gelegentlich sagen: »Wir sind<lb/>
+hier in keinem <seg type="insult">Theater</seg>!« (Zumal dann, wenn wir’s doch sind).<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_40846">
+               <persName>Höflmayr, Christoph</persName>
+               <birth>
+                  <date>1871-11-5</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1951-4-27</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Richter</occupation>
+               <note type="comment">3., Kleistgasse 6</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50480</idno></person>
+            <person xml:id="fk__p_56117">
+               <persName>Habietinek, Friedrich</persName>
+               <birth>
+                  <date>1873-6-18</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1951-8-31</date>
+                  <place>Reichenau/Rax</place>
+               </death>
+               <occupation>Richter</occupation>
+               <occupation>Rechtsanwalt</occupation>
+               <note type="comment">3., Baumannstr. 9; Kanzlei: 1., Schottenring 28</note>
+            </person>
+            <person xml:id="fk__p_41469">
+               <persName>Altmann, Ludwig</persName>
+               <birth>
+                  <date>1863-9-1</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1939-2-6</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Richter</occupation>
+               <note type="comment">3., Seidlgasse 39</note>
+               <note type="comment">ZF 43B/3/17 (FD)</note>
+               <note type="comment">Oberlandesgerichtsrat</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/13356</idno></person>
+            </listPerson></back></text>
+</TEI>

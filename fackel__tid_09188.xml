@@ -1,0 +1,113 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_09188.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09187.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09189.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Berlin, Meister-Saal, 21. April, 8 Uhr:, in: Fackel Heft 24, Nr. 595, 1922, S. 68-69</title>
+            <title type="iso-date">1922-07-01</title>
+            <title type="id">tid_09188</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">24</title><title type="heft">595</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-24-595_n0068.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/595,068</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Berlin, Meister-Saal, 21. April, 8 Uhr:</head>
+            <p ana="pr122344">
+<space/><seg type="spc">Berlin</seg>, <rs type="inst">Meister-Saal</rs>, <date>21. April</date>, 8 Uhr:<lb/>
+</p>
+            <p ana="pr122345">
+<space/>I. Aus: <rs type="title"><seg type="insult">Der Journalismus</seg></rs>. Von <rs type="pers" ana="n_74871" ref="#fk__p_46252">Honoré de Balzac</rs>. — <rs type="title"><seg type="insult">Die<lb/>
+Zeitung</seg></rs>. — <rs type="title">Ostende, erster Morgen</rs>. — <rs type="title">Dorfkirchl schaut zu</rs>. —<lb/>
+<rs type="title"><rs type="pers" ana="n2_6862" ref="#fk__p_43714">Conrad <abbr>v.</abbr> Hötzendorf</rs></rs> / <rs type="title">Wenn <seg type="insult">Herr <rs type="pers" ana="n2_6863" ref="#fk__p_49994">Harden</rs></seg> glaubt</rs>. — <rs type="title">Aus »Forumszene</rs><lb/>
+</p>
+            <p ana="fn584">
+<FN0_TEXT0>
+<space/>*) Siehe <abbr>S.</abbr> 42.</FN0_TEXT0><lb/>
+</p>
+            <p ana="pr122345">
+<rs type="title">«</rs>. — <rs type="title"><seg type="insult">Ein Satz des <rs type="pers" ana="n2_6864" ref="#fk__p_51209">Paul Goldmann</rs></seg></rs>. — <rs type="title"><rs type="pers" ana="n2_6865" ref="#fk__p_52212">Richard Wagners</rs><lb/>
+Sehnsucht nach Wien oder: <seg type="insult">Verbrecherische Irreführung durch die<lb/>
+<rs type="paper" ana="werk_23379">Neue Freie Presse</rs></seg></rs>.<lb/>
+</p>
+            <p ana="pr122346">
+<space/>II. Monolog des <rs type="pers">Nörglers</rs> (V. Akt).<lb/>
+</p>
+            <p ana="pr122347">
+<space/>III. <rs type="title">Der Tag</rs> / <rs type="title"><seg type="insult">Kärntnerstraße <date>1918</date></seg></rs>. — <rs type="title">Motto zu »Brot und<lb/>
+Lüge«</rs>. — <rs type="title">Alles, nur nicht die Gobelins!</rs> — <rs type="title"><seg type="insult">Wien</seg></rs> (mit Vorbemerkung).<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46252">
+               <persName>Balzac, Honoré de</persName>
+               <birth>
+                  <date>1799-5-20</date>
+                  <place>Tours</place>
+               </birth>
+               <death>
+                  <date>1850-8-18</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10825</idno></person>
+            <person xml:id="fk__p_43714">
+               <persName>Conrad-Hötzendorf, Franz Graf </persName>
+               <birth>
+                  <date>1852-11-11</date>
+                  <place>Penzing bei Wien</place>
+               </birth>
+               <death>
+                  <date>1925-8-25</date>
+                  <place>Bad Mergentheim</place>
+               </death>
+               <occupation>Offizier</occupation>
+               <note type="comment">seit 1906 Chef des Generalstabs</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_14266</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11102</idno></person>
+            <person xml:id="fk__p_49994">
+               <persName>Harden, Maximilian</persName>
+               <birth>
+                  <date>1861-10-20</date>
+                  <place>Berlin</place>
+               </birth>
+               <death>
+                  <date>1927-10-30</date>
+                  <place>Montana-Vermala, Schweiz</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Publizist</occupation>
+               <note type="comment">166/18 Johannes</note>
+               <note type="comment">Hrsg. der "Zukunft"</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11581</idno></person>
+            <person xml:id="fk__p_51209">
+               <persName>Goldmann, Paul</persName>
+               <birth>
+                  <date>1865-1-31</date>
+                  <place>Breslau</place>
+               </birth>
+               <death>
+                  <date>1935-9-25</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11485</idno></person>
+            <person xml:id="fk__p_52212">
+               <persName>Wagner, Richard</persName>
+               <birth>
+                  <date>1813-5-22</date>
+                  <place>Leipzig</place>
+               </birth>
+               <death>
+                  <date>1883-2-13</date>
+                  <place>Venedig</place>
+               </death>
+               <occupation>Komponist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/13024</idno></person>
+            </listPerson></back></text>
+</TEI>

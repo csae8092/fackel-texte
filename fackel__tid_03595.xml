@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03595.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03594.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03596.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Sammler. (Aus meiner Sammlung), in: Fackel Heft 06, Nr. 161, 1904, S. 22-22</title>
+            <title type="iso-date">1904-05-5</title>
+            <title type="id">tid_03595</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">06</title><title type="heft">161</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-06-161_n0022.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/161,022</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Sammler. (Aus meiner Sammlung)</head>
+            <p ana="pr35762">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="name_203365" ref="#fk__p_52736">Sammler</rs>.</seg></seg> <seg type="insult">Der ostasiatische Leitfadian der ‚<rs type="paper" ana="werk_13122">Neuen Freien<lb/>
+Presse</rs>‘</seg> schreibt am <date>30. April</date>: »‚Mir fehlt der Arm, wenn mir die Armbrust<lb/>
+fehlt‘, heißt es irgendwo in einem unserer klassischen Dramen«. Wo denn?<lb/>
+Schon das Wort »Armbrust« hätte ihn auf die Idee bringen können, daß der Satz<lb/>
+aus dem »<rs type="title"><rs type="pers">Tell</rs></rs>« sein dürfte. Er hatte das Glück, unrichtig zu zitieren, und ging<lb/>
+daran vorbei. Richtig heißt es: »Mir fehlt der Arm, wenn mir die<lb/>
+<seg type="spc">Waffe</seg> fehlt.« Dies die Antwort auf <rs type="pers">Hedwig’s</rs> Frage: »Was willst du<lb/>
+mit der Armbrust? Laß sie hier!« Damit hatte aber <rs type="pers" ana="n_30684" ref="#fk__p_43876">Schiller</rs> kein Wortspiel<lb/>
+und gewiß keine <FERR href="FK-06-163_n0024.xml" fcorrID="fk_04_fcorr_27593136" id="fk_04_ferr_27593136" emID="fk_04_em_27593140"><ERR fcorr="etymologische">ethymologische</ERR></FERR> Beziehung im Sinne; er wußte —<lb/>
+im Gegensatz zum <seg type="insult">Leitartikler</seg> — sehr wohl, daß Armbrust nicht von<lb/>
+»Arm« und »Brust«, sondern von <foreign xml:lang="la">»arcubalista«</foreign> stammt.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_52736">
+               <persName>Sammler</persName>
+            </person>
+            <person xml:id="fk__p_43876">
+               <persName>Schiller, Friedrich von</persName>
+               <birth>
+                  <date>1759-11-10</date>
+                  <place>Marbach am Neckar</place>
+               </birth>
+               <death>
+                  <date>1805-5-9</date>
+                  <place>Weimar</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Mortimer 363/9, 679/69, 912/7 und 912/58 ist von Ögg Shakespeare zugeordnet</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12654</idno></person>
+            </listPerson></back></text>
+</TEI>

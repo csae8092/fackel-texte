@@ -1,0 +1,45 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_11899.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11898.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11900.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Noch eins, in: Fackel Heft 33, Nr. 857, 1931, S. 104-105</title>
+            <title type="iso-date">1931-08-01</title>
+            <title type="id">tid_11899</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">33</title><title type="heft">857</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-33-857_n0104.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/857,104</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Noch eins</head>
+            <p ana="pr172405">
+<space/><rs type="pers" ana="n_103011" ref="#fk__p_47110"><abbr>Dr.</abbr> Josef Kranz</rs> ist eine der markantesten Figuren der österreichischen<lb/>
+ Gesellschaft, ein Mann, der schon in der Monarchie durch<lb/>
+seine ungeheuren Beziehungen große geschäftliche und persönliche Erfolge<lb/>
+ einheimsen konnte. <seg type="spc">Trotz seines hohen Alters gilt<lb/>
+<rs type="pers" ana="n_103012" ref="#fk__p_47110"><abbr>Dr.</abbr> Kranz</rs> als ein besonders geistreicher Mann</seg>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_47110">
+               <persName>Kranz, Josef</persName>
+               <birth>
+                  <date>1862-10-7</date>
+                  <place>Auschwitz</place>
+               </birth>
+               <death>
+                  <date>1934-9-14</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Rechtsanwalt</occupation>
+               <occupation>Industrieller</occupation>
+               <occupation>Bankier</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/3551</idno></person>
+            </listPerson></back></text>
+</TEI>

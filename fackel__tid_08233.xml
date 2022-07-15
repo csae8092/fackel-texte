@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_08233.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08232.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08234.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Kleiner Konzerthaussaal: 11. November, 3 Uhr:, in: Fackel Heft 20, Nr. 474, 1918, S. 87-88</title>
+            <title type="iso-date">1918-05-01</title>
+            <title type="id">tid_08233</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">20</title><title type="heft">474</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-20-474_n0087.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/474,087</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Kleiner Konzerthaussaal: 11. November, 3 Uhr:</head>
+            <p ana="pr108873">
+<space/><rs type="inst">Kleiner Konzerthaussaal</rs>:<lb/>
+</p>
+            <p ana="pr108874">
+<space/><date>11. November</date>, 3 Uhr:<lb/>
+</p>
+            <p ana="pr108875">
+<space/>I. Ein Kapitel aus dem »<rs type="title">Abenteuerlichen <rs type="pers">Simplicissimus</rs></rs>«<lb/>
+von <rs type="pers" ana="n_68424" ref="#fk__p_45432">Hans Jacob Christoffels von Grimmelshausen</rs> (<date>1669</date>) / <rs type="title"><seg type="insult">Trophäen<lb/>
+</seg></rs> / <rs type="title"><seg type="insult">Zeichen und Wunder</seg></rs> / <rs type="title">Also was soll ich Ihnen sagen</rs> /<lb/>
+<rs type="title"><seg type="insult">Eine Quelle der Verjüngung</seg></rs> / <rs type="title">Vision</rs> / <rs type="title">Wie es in London zugeht,<lb/>
+das ist wirklich nicht mehr zu glauben</rs> / <rs type="title">Ich stoß dir die Augen<lb/>
+aus</rs> / <rs type="title">Sie wollen von uns nichts wissen</rs> / <rs type="title"><seg type="insult">Eine große Meuterei<lb/>
+in der englischen Flotte</seg></rs> / <rs type="title"><seg type="insult">Weltalldarin</seg></rs> / <rs type="title">Überraschungen</rs> / <rs type="title">Was<lb/>
+sich am Ende der Zeit begab</rs> / <rs type="title"><seg type="spc">Eine prinzipielle Erklärung</seg></rs>.<lb/>
+II. <rs type="title"><seg type="spc">Epigramme</seg></rs> / <rs type="title"><seg type="spc">Schonet die Kinder</seg>!</rs> / <rs type="title"><seg type="spc">Epigramme</seg></rs> /<lb/>
+<rs type="title">Im Namen <rs type="pers" ana="n2_6116" ref="#fk__p_46960">Goethes</rs>!</rs> / <rs type="title"><seg type="spc">Gebet</seg></rs>.<lb/>
+</p>
+            <p ana="pr108876">
+<space/>(Ein Teil des Ertrages für die Mutter zweier Kriegskrüppel<lb/>
+und eine andere notleidende Frau.)<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46960">
+               <persName>Goethe, Johann Wolfgang von</persName>
+               <birth>
+                  <date>1749-8-28</date>
+                  <place>Frankfurt am Main</place>
+               </birth>
+               <death>
+                  <date>1832-3-22</date>
+                  <place>Weimar</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">890/142f.</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11461</idno></person>
+            <person xml:id="fk__p_45432">
+               <persName>Grimmelshausen, Hans Jacob Christoffels von</persName>
+               <birth>
+                  <date>1621-3-17?</date>
+                  <place>Gelnhausen</place>
+               </birth>
+               <death>
+                  <date>1676-8-17</date>
+                  <place>Reuchen in Baden</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15666</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/17407</idno></person>
+            </listPerson></back></text>
+</TEI>

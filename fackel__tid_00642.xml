@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00642.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00641.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00643.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Die ‚Neue Freie Presse‘ auf alter Höhe., in: Fackel Heft 01, Nr. 026, 1899, S. 28-29</title>
+            <title type="iso-date">1899-12-01</title>
+            <title type="id">tid_00642</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">026</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-026_n0028.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/026,028</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Die ‚Neue Freie Presse‘ auf alter Höhe.</head>
+            <p ana="pr6010">
+<space/><seg type="insult"><AUCTOR><seg type="spc">Der Politiker</seg></AUCTOR></seg> (<seg ana="&#10;16. December)"/>: »<QUOTE rn="1" sourceID="FK-01-026_n0028_a">Die Tschechen sind nur<lb/>
+<seg type="insult">das trojanische Pferd der Obstruction</seg>, welches man sieht. Aber<lb/>
+drinnen in dem hölzernen Bauch sitzen in traulichem Verein die<lb/>
+Feudalen, die Polen, die Katholische Volkspartei, und wenn nur recht<lb/>
+nachdrücklich auf das Brett geklopft wird, wie es heute geschah,<lb/>
+dann kann man ihre wahre Stimme auch hören.</QUOTE>«<lb/>
+</p>
+            <p ana="pr6013">
+<space/><seg type="insult"><AUCTOR><seg type="spc">Der Kriegs-Correspondent</seg></AUCTOR></seg> (<seg ana="16. December, Abendblatt"/>):<lb/>
+»<QUOTE part="initial" sourceID="FK-01-026_n0028_b">Wie General <rs type="pers" ana="n_4537" ref="#fk__p_39600">Buller</rs> berichtet, hat er zehn Geschütze im Stiche<lb/>
+lassen müssen, weil sämmtliche <seg type="spc">Pferde</seg> von den Boers niedergeschossen</QUOTE><lb/>
+</p>
+            <p ana="pr6013">
+<QUOTE rn="1" sourceID="FK-01-026_n0028_b"> wurden, während <seg type="spc">eines von ihnen demontiert</seg><lb/>
+wurde.</QUOTE>«<lb/>
+</p>
+            <p ana="pr6016">
+<space/><seg type="insult"><AUCTOR><seg type="spc">Der Sonntagsnovellist</seg></AUCTOR></seg> (<seg ana="17. December"/>): »<QUOTE rn="1" sourceID="FK-01-026_n0029_a">Da hieng jene<lb/>
+Porzellanmaske von <rs type="pers" ana="n_4538" ref="#fk__p_52539">Rudder</rs> <seg type="symbol" subtype="5dots"/> <seg type="spc">Das hat Einer gemacht</seg>, <seg type="spc">der<lb/>
+das weiß</seg>, <seg type="spc">dass es solche Menschen gibt</seg>, <seg type="spc">die so sind</seg>, <seg type="spc">dass<lb/>
+sie nur im Schlafe lächeln können</seg>.</QUOTE>«<lb/>
+</p>
+            <p ana="pr6019">
+<space/><seg type="insult"><AUCTOR><seg type="spc">Der Literaturkritiker</seg></AUCTOR></seg> (<seg/>): »<QUOTE rn="1" sourceID="FK-01-026_n0029_b">Mit dem neuen<lb/>
+Buche betritt sie (die Schriftstellerin) Berliner Boden, wo sie <seg type="spc">als</seg><lb/>
+<seg type="insult"><seg type="spc">Mensch</seg></seg> seit ein paar Jahren lebt.</QUOTE>«<FOOTNOTE0_START/>*)<lb/>
+</p>
+            <p ana="pr6022">
+<space/><seg type="insult"><AUCTOR><seg type="spc">Der Theaterkritiker</seg></AUCTOR></seg> (<seg ana="14. December)"/>: »<QUOTE rn="1" sourceID="FK-01026_n0029_c"><rs type="pers">Chrysis</rs> wandert in<lb/>
+den Kerker und leert den <seg type="spc">Schierlingsbecher des <rs type="pers" ana="n_4539" ref="#fk__p_53426">Sokrates</rs></seg>.</QUOTE>«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_53426">
+               <persName>Sokrates</persName>
+               <birth>
+                  <date>470? BC</date>
+                  <place>Athen</place>
+               </birth>
+               <death>
+                  <date>339 BC</date>
+                  <place>Athen</place>
+               </death>
+               <occupation>Philosoph</occupation>
+            </person>
+            <person xml:id="fk__p_39600">
+               <persName>Buller, Sir Redvers Henry</persName>
+               <birth>
+                  <date>1839-12-07</date>
+               </birth>
+               <death>
+                  <date>1908-06-02</date>
+                  <place>The Downs/Crediton</place>
+               </death>
+               <occupation>General</occupation>
+            </person>
+            <person xml:id="fk__p_52539">
+               <persName>Rudder, Isidore de</persName>
+               <birth>
+                  <date>1855-2-3</date>
+                  <place>Brüssel</place>
+               </birth>
+               <death>
+                  <date>1943</date>
+                  <place>Uccle</place>
+               </death>
+               <occupation>Bildhauer</occupation>
+               <occupation>Kunstgewerbler</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

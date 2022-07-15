@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_10771.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10770.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10772.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ein Chammer, in: Fackel Heft 28, Nr. 743, 1926, S. 118-118</title>
+            <title type="iso-date">1926-12-01</title>
+            <title type="id">tid_10771</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">28</title><title type="heft">743</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-28-743_n0118.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/743,118</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ein Chammer</head>
+            <p ana="pr149862">
+<space/><seg type="symbol" subtype="3dots"/> Es ist undemokratisch, wenn die Minderheit der Mehrheit<lb/>
+in einer personellen Frage (der Wiederwahl <rs type="pers" ana="n_89973" ref="#fk__p_40730">Rintelens</rs>) ihren Willen<lb/>
+aufzwingen will. Mit ebensolchem Recht könnten die Christlichsozialen<lb/>
+die Entfernung des <rs type="pers" ana="n_89974" ref="#fk__p_40910"><abbr>Dr.</abbr> Eisler</rs> aus dem <rs type="inst">sozialdemokratischen Parteivorstand<lb/>
+</rs> begehren.<lb/>
+</p>
+            <p ana="pr149864">
+Aber die christlichsoziale Minderheit im <rs type="inst">sozialdemokratischen<lb/>
+Parteivorstand</rs> ist doch kleiner als die sozialdemokratische im<lb/>
+<rs type="inst">steirischen Landtag</rs>!<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_40730">
+               <persName>Rintelen, Anton</persName>
+               <birth>
+                  <date>1876-11-15</date>
+                  <place>Graz</place>
+               </birth>
+               <death>
+                  <date>1946-01-28</date>
+                  <place>Graz</place>
+               </death>
+               <occupation>Politiker</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/39201</idno></person>
+            <person xml:id="fk__p_40910">
+               <persName>Eisler, Arnold</persName>
+               <birth>
+                  <date>1879-04-06</date>
+                  <place>Holleschau/Mähren</place>
+               </birth>
+               <death>
+                  <date>1947-01-28</date>
+                  <place>New York</place>
+               </death>
+               <occupation>Jurist</occupation>
+               <occupation>Politiker</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38087</idno></person>
+            </listPerson></back></text>
+</TEI>

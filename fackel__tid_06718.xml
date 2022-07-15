@@ -1,0 +1,44 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06718.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06717.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06719.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Impossible n’est pas un mot français, in: Fackel Heft 16, Nr. 398, 1914, S. 8-8</title>
+            <title type="iso-date">1914-04-01</title>
+            <title type="id">tid_06718</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">16</title><title type="heft">398</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-16-398_n0008.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/398,008</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Impossible n’est pas un mot français</head>
+            <p ana="pr90670">
+Paris, <date>22. März</date>.<lb/>
+</p>
+            <p ana="pr90671">
+<space/>Dem <foreign xml:lang="fr">‚<rs type="paper" ana="werk_20161">Figaro</rs>‘</foreign> sind von verschiedenen Seiten Geldspenden für<lb/>
+die Errichtung eines <rs type="pers" ana="n_61787" ref="#fk__p_39708"><seg type="spc">Calmette-Denkmals</seg></rs> zugegangen.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_39708">
+               <persName>Calmette, Gaston </persName>
+               <birth>
+                  <date>1859</date>
+                  <place>Montpellier</place>
+               </birth>
+               <death>
+                  <date>1914-3-17</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <note type="comment">erschossen von Frau Caillaux</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/14827</idno></person>
+            </listPerson></back></text>
+</TEI>

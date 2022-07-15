@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00705.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00704.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00706.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Telegramm aus Cettinje.), in: Fackel Heft 01, Nr. 029, 1900, S. 28-28</title>
+            <title type="iso-date">1900-01-01</title>
+            <title type="id">tid_00705</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">029</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-029_n0028.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/029,028</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Telegramm aus Cettinje.)</head>
+            <p ana="pr6699">
+<space/><seg type="sidehead"><seg type="spc">Cettinje</seg>.</seg> (Telegramm meines Specialcorrespondenten.) <seg type="insult">Dem<lb/>
+bekannten Sammler von Insolvenzen und Armeebefehlen <abbr>Sr.</abbr> Majestät,<lb/>
+<rs type="pers" ana="n_5106" ref="#fk__p_48818"><abbr>L. K.</abbr> <seg type="spc">Nolston</seg></rs> (auch <rs type="pers" ana="n_5107" ref="#fk__p_48818">Leopold Kohn</rs>)</seg>, wurde soeben der <rs type="pers" ana="n_5108" ref="#fk__p_40249">Danilo-Orden<lb/>
+</rs> IV. Classe verliehen. Da <rs type="pers" ana="n_5109" ref="#fk__p_48818">Kohn</rs> hier als <seg type="insult">hervorragendes<lb/>
+Redactionsmitglied der Wiener ‚<rs type="paper" ana="werk_1799">Neuen Freien Presse</rs>‘</seg> bekannt ist,<lb/>
+durch deren seinerzeitige Polemik gegen den Fürsten die Beziehungen<lb/>
+beider Reiche bedenklich ins Schwanken geriethen, so fasst man<lb/>
+die Verleihung des Ordens an <seg type="insult">den verdienten Wiener Gelehrten</seg> in<lb/>
+hiesigen politischen Kreisen allgemein als <seg type="insult">Versuch einer Wiederannäherung<lb/>
+ Montenegros an Oesterreich</seg> auf.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_48818">
+               <persName>Nolston, Leopold</persName>
+               <birth>
+                  <date>1847-11-14</date>
+                  <place>Nikolsburg/Mähren</place>
+               </birth>
+               <death>
+                  <date>1905-3-4</date>
+                  <place>Wien</place>
+               </death>
+               <note type="comment">Namensänderung bewilligt am 2.12.1904</note>
+               <note type="comment">ZF 1. Tor 51/5/88</note>
+            </person>
+            <person xml:id="fk__p_40249">
+               <persName>Danilo I. Petrowitsch Njegosch, Fürst von Montenegro</persName>
+               <birth>
+                  <date>1826-06-02</date>
+                  <place>Njeguši</place>
+               </birth>
+               <death>
+                  <date>1860-08-13</date>
+                  <place>Cattaro</place>
+               </death>
+               <occupation/>
+            </person>
+            </listPerson></back></text>
+</TEI>

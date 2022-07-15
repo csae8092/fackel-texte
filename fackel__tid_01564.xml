@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01564.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01563.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01565.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Culturträger. (»Jugend«-Begeisterung), in: Fackel Heft 02, Nr. 066, 1901, S. 29-29</title>
+            <title type="iso-date">1901-01-01</title>
+            <title type="id">tid_01564</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">066</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-066_n0029.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/066,029</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Culturträger. (»Jugend«-Begeisterung)</head>
+            <p ana="pr15479">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="n_12885" ref="#fk__p_40161">Culturträger</rs>.</seg></seg></seg> <seg type="insult">Die freiheitliche Sexualbegeisterung für die der<lb/>
+Censur glücklich abgetrotzte »<rs type="title">Jugend</rs>«</seg> ist noch immer nicht verflogen, das<lb/>
+<seg type="insult">Zeitungsgeblöke von einer künstlerischen Errungenschaft</seg> noch nicht<lb/>
+verstummt. <seg type="insult">Herr <rs type="pers" ana="n_12886" ref="#fk__p_42599">Bukovics</rs></seg> wird diesmal doppelt gepriesen, weil er<lb/>
+es nach achtjährigem Kampfe durchgesetzt, dass sich Männchen und<lb/>
+Weibchen im Pfarrhof paaren dürfen, und in <seg type="insult">liberalen Kreisen</seg> verlautet<lb/>
+ bereits, Oesterreich sei »doch kein so zurückgebliebener Staat«.<lb/>
+Was wären dem <seg type="insult">Premièrenpöbel</seg> <rs type="title"><rs type="pers">Romeo</rs> und <rs type="pers">Julia</rs></rs>, wenn sie einmal<lb/>
+statt <seg type="insult"><rs type="pers" ana="n_12887" ref="#fk__p_49931">Halbe’scher Interjectionen</rs></seg> <rs type="pers" ana="n_12888" ref="#fk__p_55589">Shakespeare’sche Verse</rs> sprächen! <seg type="symbol" subtype="3dots"/><lb/>
+Ich schließe mich, wie Sie sehen, der Meinung an, die der vernünftigste<lb/>
+Kritiker Wiens im ‚<rs type="paper" ana="werk_4908">Vaterland</rs>‘ ausgesprochen hat. Er schildert das<lb/>
+<seg type="insult">Publicum</seg>, das da im letzten Acte zugunsten des liberalen Pfarrers<lb/>
+»demonstrierte«: <seg type="insult">die Damen</seg>, »die sich und ihren Schmuck zum Besten<lb/>
+gaben«, <seg type="insult">die Herren</seg>, die »wahrscheinlich an <rs type="inst">Alpine Montan</rs>, vielleicht<lb/>
+auch an <rs type="inst">Prager Eisen</rs> dachten«.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_40161">
+               <persName>Culturträger</persName>
+            </person>
+            <person xml:id="fk__p_55589">
+               <persName>Shakespeare, William</persName>
+               <birth>
+                  <date>1564-4-23?</date>
+                  <place>Stratford-upon-Avon</place>
+               </birth>
+               <death>
+                  <date>1616-4-23</date>
+                  <place>Stratford-upon-Avon</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2412</idno></person>
+            <person xml:id="fk__p_49931">
+               <persName>Halbe, Max</persName>
+               <birth>
+                  <date>1865-10-4</date>
+                  <place>Guettland bei Danzig</place>
+               </birth>
+               <death>
+                  <date>1944-10-30</date>
+                  <place>Burg bei Neuötting</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11565</idno></person>
+            <person xml:id="fk__p_42599">
+               <persName>Bukovics-Kis-Alacska, Emerich von</persName>
+               <birth>
+                  <date>1844-2-28</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1905-7-4</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Theaterleiter</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

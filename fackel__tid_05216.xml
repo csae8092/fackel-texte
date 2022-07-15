@@ -1,0 +1,106 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_05216.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05215.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05217.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Aus aller Welt, in: Fackel Heft 12, Nr. 313, 1910, S. 10-11</title>
+            <title type="iso-date">1910-12-31</title>
+            <title type="id">tid_05216</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">12</title><title type="heft">313</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-12-313_n0010.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/313,010</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Aus aller Welt</head>
+            <p ana="pr67504">
+<space/><seg type="insult">Eine einzige <rs type="paperRef" ana="werk_17843">Zeitung</rs></seg> zeigt, in welcher Zeit wir leben. Der<lb/>
+<rs type="pers" ana="n_48893" ref="#fk__p_48017">König von England</rs> ist Freimaurer geworden, der <rs type="pers" ana="n_48894" ref="#fk__p_48052">König von Italien</rs><lb/>
+hat <rs type="pers" ana="n_48895" ref="#fk__p_49991">Gorki</rs> empfangen und ihm gesagt, daß er Sozialist sei, der <rs type="pers" ana="n_48896" ref="#fk__p_42665">Emir<lb/>
+von Buchara</rs> hält während der <rs type="pers" ana="n_48897" ref="#fk__p_50282">mohammedanischen Fastenzeit</rs> Gelage,<lb/>
+und <seg type="insult">der <rs type="pers" ana="n_48898" ref="#fk__p_46698">Lippowitz</rs></seg> behauptet, das alles seien <seg type="insult">Originalnachrichten</seg>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_50282">
+               <persName>Mohammed Abu’l-Kasim ben Abdallah</persName>
+               <birth>
+                  <date>570</date>
+                  <place>Mekka</place>
+               </birth>
+               <death>
+                  <date>632-06-08</date>
+                  <place>Medina</place>
+               </death>
+               <occupation>Religionsstifter</occupation>
+            </person>
+            <person xml:id="fk__p_48017">
+               <persName>Georg V., König von England</persName>
+               <birth>
+                  <date>1865-6-3</date>
+                  <place>London</place>
+               </birth>
+               <death>
+                  <date>1936-1-20</date>
+                  <place>Sandringham House, Norfolk</place>
+               </death>
+               <occupation>König</occupation>
+               <note type="comment">1910 bis zu seinem Tod 1936</note>
+            </person>
+            <person xml:id="fk__p_48052">
+               <persName>Viktor Emanuel III.</persName>
+               <birth>
+                  <date>1869-11-11</date>
+                  <place>Neapel</place>
+               </birth>
+               <death>
+                  <date>1947-12-28</date>
+                  <place>Alexandria</place>
+               </death>
+               <occupation>König</occupation>
+               <note type="comment">Ögg irrt. 399/28</note>
+               <note type="comment">von Italien 1900-1946</note>
+            </person>
+            <person xml:id="fk__p_46698">
+               <persName>Lippowitz, Jakob (Siegmund)</persName>
+               <birth>
+                  <date>1865-10-9</date>
+                  <place>Leipzig</place>
+               </birth>
+               <death>
+                  <date>1934-7-4</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17583</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/4054</idno></person>
+            <person xml:id="fk__p_49991">
+               <persName>Gorki, Maxim</persName>
+               <birth>
+                  <date>1868-3-28</date>
+                  <place>Nischni Nowgorod</place>
+               </birth>
+               <death>
+                  <date>1936-6-18</date>
+                  <place>Moskau</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            </person>
+            <person xml:id="fk__p_42665">
+               <persName>Alim Khan, Emir von Buchara</persName>
+               <birth>
+                  <date>1880-1-3</date>
+               </birth>
+               <death>
+                  <date>1944-4-28</date>
+                  <place>Kabul/Afghanistan</place>
+               </death>
+               <note type="comment">1910-1920 der letzte Emir von Buchara</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

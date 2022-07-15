@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06001.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06000.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06002.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Die Türkei bittet, in: Fackel Heft 14, Nr. 363, 1912, S. 38-38</title>
+            <title type="iso-date">1912-12-01</title>
+            <title type="id">tid_06001</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">14</title><title type="heft">363</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-14-363_n0038.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/363,038</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Die Türkei bittet</head>
+            <p ana="pr81180">
+<space/>»In Gegenwart des ottomanischen Unterhändlers <rs type="pers" ana="n_56772" key="#fk__p_43077">Fahreddin Bey</rs><lb/>
+und des Botschaftsrates <rs type="pers" ana="n_56773" key="#fk__p_39280">Blacque Bey</rs> empfing heute der neue<lb/>
+ottomanische Botschafter am <rs type="inst">Wiener Hofe</rs> und ehemalige Großvezier<lb/>
+<rs type="pers" ana="n_56774" ref="#fk__p_37720">Hilmi Pascha</rs> einen Mitarbeiter unseres <rs type="paperRef" ana="werk_19104">Blattes</rs>.<lb/>
+</p>
+            <p ana="pr81181">
+<space/><rs type="pers" ana="n_56775" ref="#fk__p_37720">Hilmi Pascha</rs> <seg type="spc">begrüßt in dem Besuche den Vertreter der</seg><lb/>
+»<rs type="paper" ana="werk_19105"><seg type="spc">Neuen Freien Presse</seg></rs>« und sagt: ‚Die »<rs type="paper" ana="werk_19106">Neue Freie Presse</rs>« genießt<lb/>
+seit langen Zeiten großes Ansehen im Orient, <seg type="spc">und wir wünschen<lb/>
+dringend</seg>, daß sie auch in diesen für uns so ernsten Tagen mit ihren<lb/>
+Sympathien zu uns stehe <seg type="symbol" subtype="4dots"/> Ich möchte Sie auch daran erinnern, daß<lb/>
+die »<rs type="paper" ana="werk_19107">Neue Freie Presse</rs>« seit <seg type="spc">undenklichen</seg> Zeiten, <seg type="spc">seit den Tagen<lb/>
+<rs type="pers" ana="n_56776" ref="#fk__p_50169">Midhat Paschas</rs></seg>, <seg type="spc">uns <choice><sic>wohIgesinnt</sic><corr>wohlgesinnt</corr></choice> war</seg>. <seg type="spc">Ich empfehle unsere<lb/>
+Sache auch Ihrem bei uns im Orient viel gelesenen und<lb/>
+hier so einflußreichen <rs type="paperRef" ana="werk_19108">Blatte</rs></seg> <seg type="symbol" subtype="4dots"/>‘«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_37720">
+               <persName>Abbas II.</persName>
+               <birth>
+                  <date>1874-7-14</date>
+                  <place>Alexandrien</place>
+               </birth>
+               <death>
+                  <date>1944-12-20</date>
+                  <place>Genf</place>
+               </death>
+               <occupation>Khedive</occupation>
+            </person>
+            <person xml:id="fk__p_50169">
+               <persName>Midhat Pascha, Großvezier</persName>
+               <birth>
+                  <date>1822-10-18?</date>
+                  <place>Bulgarien</place>
+               </birth>
+               <death>
+                  <date>1883-5-8</date>
+                  <place>Taif</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <note type="comment">Wikipedia: gest. 1884</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

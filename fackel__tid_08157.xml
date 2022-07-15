@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_08157.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08156.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08158.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Von einem Mann namens Ernst Posse, in: Fackel Heft 20, Nr. 474, 1918, S. 26-26</title>
+            <title type="iso-date">1918-05-01</title>
+            <title type="id">tid_08157</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">20</title><title type="heft">474</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-20-474_n0026.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/474,026</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Von einem Mann namens Ernst Posse</head>
+            <p ana="pr108263">
+<space/>Über die Ernennung des <rs type="pers" ana="n_68253" ref="#fk__p_44646">Barons Burian</rs> zum Minister des<lb/>
+Äußern schreibt die »<rs type="paper" ana="werk_21331">Köln. Zeitung</rs>«: — — <rs type="pers" ana="n_68254" ref="#fk__p_44646">Baron <seg type="spc">Burian</seg></rs> ist<lb/>
+ein <seg type="spc">zäher und erprobter Kämpfer</seg>, der als Vorgänger des<lb/>
+<rs type="pers" ana="n_68255" ref="#fk__p_44656">Grafen Czernin</rs>, dessen Nachfolger er ist, seinen Mann gestellt hat.<lb/>
+<seg type="spc">In erfreulicher Erinnerung</seg> sind noch <seg type="spc">seine Noten<lb/>
+an Amerika</seg>, mit denen er <seg type="spc"><seg type="insult">der professionellen<lb/>
+amerikanischen Ungezogenheit <rs type="pers" ana="n_68256" ref="#fk__p_55616">Wilsons</rs></seg> heimleuchtete<lb/>
+</seg> und dem Selbstbeherrscher der Vereinigten Staaten die<lb/>
+<seg type="spc">Lebensart beibrachte</seg>, die im Verkehr der <seg type="spc">zivilisierten</seg><lb/>
+Länder und ihrer amtlichen Behörden untereinander unerläßlich ist.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_55616">
+               <persName>Wilson, Thomas Woodrow</persName>
+               <birth>
+                  <date>1856-12-28</date>
+                  <place>Staunton, Va.</place>
+               </birth>
+               <death>
+                  <date>1924-2-3</date>
+                  <place>Washington, D. C.</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <note type="comment">1913-21 der 28. Präs. der USA</note>
+            </person>
+            <person xml:id="fk__p_44656">
+               <persName>Czernin-Chudenitz, Ottokar Theobald Graf </persName>
+               <birth>
+                  <date>1872-09-26</date>
+                  <place>Dimokur/Böhmen</place>
+               </birth>
+               <death>
+                  <date>1932-04-04</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <occupation>Diplomat</occupation>
+               <note type="comment"/>
+               <note type="comment">Sohn Theobald Peter Ottokar (Winař 29.4.1898 - Wien 14.5.1974)</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_14331</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/15184</idno></person>
+            <person xml:id="fk__p_44646">
+               <persName>Burián-Rajecz, Stefan Graf</persName>
+               <birth>
+                  <date>1851-1-16</date>
+                  <place>Stampfen/Preßburg</place>
+               </birth>
+               <death>
+                  <date>1922-10-20</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Diplomat</occupation>
+               <occupation>Politiker</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

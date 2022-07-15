@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_08467.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08466.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08468.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ein Austausch von Zitaten, in: Fackel Heft 20, Nr. 484, 1918, S. 162-162</title>
+            <title type="iso-date">1918-10-01</title>
+            <title type="id">tid_08467</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">20</title><title type="heft">484</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-20-484_n0162.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/484,162</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ein Austausch von Zitaten</head>
+            <p ana="pr111339">
+fand im Rathaus statt. <seg type="insult">Ein gewisser <rs type="pers" ana="n_69465" ref="#fk__p_51496">Piper</rs></seg>, dem der Stephansturm<lb/>
+imponiert, gab die Erklärung ab, daß das österreichische Wesen in<lb/>
+der Reichshauptstadt verkörpert sei; »das Wort <rs type="pers" ana="n_69466" ref="#fk__p_43482">Grillparzers</rs> ‚<rs type="title">In<lb/>
+deinem Lager ist Österreich</rs>‘ muß <seg type="spc">überhaupt</seg> auf Wien angewendet<lb/>
+werden«. <seg type="insult">Dieser talentvolle Vorschlag</seg> fand den Beifall <seg type="insult">des<lb/>
+Herrn <rs type="pers" ana="n_69467" ref="#fk__p_42017">Weiskirchner</rs></seg>, der aber sofort, um allfälligen Enttäuschungen<lb/>
+vorzubeugen, mit <seg type="insult">der stolzen Versicherung</seg> antwortete: »Wir<lb/>
+sind nicht mehr <seg type="insult">das Volk der Phäaken</seg>!« Weiß Gott, das sind<lb/>
+wir nicht mehr! Da die Phäaken tatsächlich keine <seg type="insult">Durchhalter</seg> waren<lb/>
+und der genügsamste Phäake drei fleischlose Tage in der Woche<lb/>
+nicht ertragen hätte, so ist der Protest des Bürgermeisters gegen das<lb/>
+Zitat immerhin am Platze. Was <seg type="insult">die Wiener</seg> heute im Gegenteil sind,<lb/>
+das auszudrücken gelang ihm unschwer in dem Satz: »Wir Wiener<lb/>
+sind uns bewußt unserer Verantwortung als Bollwerk gegen Osten!«<lb/>
+Ob da auf die uns verbündeten Türken oder nur auf unsere<lb/>
+Feinde, die Ungarn angespielt war, darauf kam es <seg type="insult">den reichsdeutschen<lb/>
+ Gästen</seg> weiter nicht an, denen schon die <seg type="insult">Erhebung<lb/>
+einer offenen Stadt zum Rang eines Bollwerks</seg> eine gewisse<lb/>
+Genugtuung bereiten mochte.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_43482">
+               <persName>Grillparzer, Franz</persName>
+               <birth>
+                  <date>1791-1-15</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1872-1-21</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Beamter</occupation>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Ögg teilt 912/23 Traum ein Leben Calderon zu</note>
+               <note type="comment">Ögg teilt irrt. 229/2, 305/50 zu</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11518</idno></person>
+            <person xml:id="fk__p_42017">
+               <persName>Weiskirchner, Richard</persName>
+               <birth>
+                  <date>1861-3-24</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1926-4-30</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <note type="comment">1912-19 Wr. Bürgermeister</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/13079</idno></person>
+            <person xml:id="fk__p_51496">
+               <persName>Piper, Carl Anton</persName>
+               <birth>
+                  <date>1874-2-15</date>
+                  <place>Neubrandenburg</place>
+               </birth>
+               <death>
+                  <date>1938-1-22</date>
+                  <place>Hamburg</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Politiker</occupation>
+               <note type="comment">von Weiskirchner 10. 09.1918 im Rathaus empfangen</note>
+               <note type="comment">später Hamburgs Vertreter beim Reichsrat</note>
+               <note type="comment">Redakteur der "Hamburger Nachrichten"</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/22600</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03489.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03488.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03490.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Die Kunst der Übersetzers, in: Fackel Heft 05, Nr. 155, 1904, S. 10-10</title>
+            <title type="iso-date">1904-02-24</title>
+            <title type="id">tid_03489</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">05</title><title type="heft">155</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-05-155_n0010.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/155,010</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Die Kunst der Übersetzers</head>
+            <p ana="pr34665">
+<space/><inciptit>In</inciptit> der ‚<rs type="paper" ana="werk_12817">Neuen Freien Presse</rs>‘ hat sich an ein <seg type="insult">Feuilleton des<lb/>
+Herrn <rs type="pers" ana="n_29754" ref="#fk__p_49290">Ludwig Fulda</rs></seg> eine angeregte Diskussion über »<seg type="spc">die Kunst<lb/>
+des Übersetzers</seg>« geknüpft. Da bekamen wir so manche drollige<lb/>
+Probe vorgesetzt, über die sich Einsender und <rs type="paperRef" ana="werk_12818">Blatt</rs> mit Recht lustig<lb/>
+machten, und die ‚<rs type="paper" ana="werk_12819">Neue Freie Presse</rs>‘ konstatierte, daß sie »jeder<lb/>
+Beschreibung spotte«. Wie schade, daß man nicht auf das nächstliegende<lb/>
+ Beispiel verfiel! Am <date>26. Jänner</date> war in der 42. Fortsetzung<lb/>
+ des <rs type="pers" ana="n_29755" ref="#fk__p_50801">Ohnet’schen Romanes</rs> »<rs type="title">Der Weg zum Ruhme</rs>«, der<lb/>
+in <seg type="insult">einem <rs type="paperRef" ana="werk_12820">großen Wiener Blatt</rs></seg> erscheint, der Satz enthalten: »Ich<lb/>
+würde lieber <seg type="insult">eine wüste <seg type="spc">barbarische Orgie</seg></seg> im Hofe hören,<lb/>
+welche die ‚<rs type="title">Diamanten der Königin</rs>‘ oder ‚<rs type="title">Der Postillon von<lb/>
+Longjumeau</rs>‘ spielt.« Im französischen Original heißt es: <foreign xml:lang="fr"><seg type="spc">Orgue<lb/>
+de Barbarie</seg></foreign>. Vielfach wird behauptet, daß dies auf deutsch soviel<lb/>
+ wie <seg type="spc">Drehorgel</seg> bedeutet <seg type="symbol" subtype="3dots"/> Unnötig, hinzuzufügen, daß das<lb/>
+<seg type="insult">Blatt</seg>, welches <seg type="insult">barbarische Orgien</seg> im Hofe hört, die ‚<rs type="paper" ana="werk_12821">Neue Freie<lb/>
+Presse</rs>‘ ist.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_50801">
+               <persName>Ohnet, Georges</persName>
+               <birth>
+                  <date>1848-4-3</date>
+                  <place>Paris</place>
+               </birth>
+               <death>
+                  <date>1918-5-5</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12371</idno></person>
+            <person xml:id="fk__p_49290">
+               <persName>Fulda, Ludwig</persName>
+               <birth>
+                  <date>1862-7-15</date>
+                  <place>Frankfurt/Main</place>
+               </birth>
+               <death>
+                  <date>1939-3-30</date>
+                  <place>Berlin</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Übersetzer</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11391</idno></person>
+            </listPerson></back></text>
+</TEI>

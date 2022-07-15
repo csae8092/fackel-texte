@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_08406.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08405.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08407.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Die Gelegenheit, in: Fackel Heft 20, Nr. 484, 1918, S. 84-85</title>
+            <title type="iso-date">1918-10-01</title>
+            <title type="id">tid_08406</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">20</title><title type="heft">484</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-20-484_n0084.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/484,084</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Die Gelegenheit</head>
+            <p ana="pr110701">
+<space/>— <rs type="pers" ana="n_69159" ref="#fk__p_48849">Leopold Andrians</rs> Gedichte sind im <rs type="inst">Verlage der Zilverdistel</rs><lb/>
+in einer einmaligen Auflage von 150 Exemplaren erschienen und<lb/>
+durch Buchhändler <rs type="pers" ana="n_69160" ref="#fk__p_46331">Hugo <seg type="spc">Heller</seg></rs>, Wien, 1. Bezirk, Bauernmarkt 3, zu<lb/>
+beziehen.<lb/>
+</p>
+            <p ana="pr110702">
+<space/>— <rs type="pers" ana="n_69161" ref="#fk__p_52360">Robert Michels</rs> zwei Novellenbücher »<rs type="title">Die Verhüllte</rs>« (gebunden<lb/>
+ 7 K 60 h) und »<rs type="title">Geschichten von <seg type="spc">Insekten</seg></rs>« (gebunden<lb/>
+9 K 50 h) sind bei Buchhändler <rs type="pers" ana="n_69162" ref="#fk__p_46331">Hugo <seg type="spc">Heller</seg></rs>, Wien, 1. Bezirk, Bauernmarkt<lb/>
+ 3, vorrätig. <seg type="ELIDASH">Provinzversand</seg> und Feldpostversand prompt.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_48849">
+               <persName>Andrian-Werburg, Leopold Freiherr von</persName>
+               <birth>
+                  <date>1875-5-9</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1951-11-19</date>
+                  <place>Fribourg, Schweiz</place>
+               </death>
+               <occupation>Diplomat</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13202</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10765</idno></person>
+            <person xml:id="fk__p_52360">
+               <persName>Michel, Robert</persName>
+               <birth>
+                  <date>1876-2-24</date>
+                  <place>Chaberice, Böhmen</place>
+               </birth>
+               <death>
+                  <date>1957-2-12</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Offizier</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12254</idno></person>
+            <person xml:id="fk__p_46331">
+               <persName>Heller, Hugo</persName>
+               <birth>
+                  <date>1870-5-8</date>
+                  <place>Alba, Ungarn</place>
+               </birth>
+               <death>
+                  <date>1923-11-29</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Buchhändler</occupation>
+               <occupation>Verleger</occupation>
+               <note type="comment">Friedhof Sievering 2/12/3/11 (1938 aufgelassen)</note>
+               <note type="comment">Hedwig, 10j. Tochter, 17.3.21 beigesetzt</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11646</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,117 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03300.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03299.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03301.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Büchereinlauf, in: Fackel Heft 05, Nr. 145, 1903, S. 32-32</title>
+            <title type="iso-date">1903-10-28</title>
+            <title type="id">tid_03300</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">05</title><title type="heft">145</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-05-145_n0032.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/145,032</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Büchereinlauf</head>
+            <p ana="pr32548">
+<rs type="pers" ana="n_28098" ref="#fk__p_52618"><seg type="spc">Tyrolt</seg> <abbr>Dr.</abbr> Rudolf</rs>, <rs type="title"><seg type="spc">Aus dem Tagebuche eines Wiener Schauspielers<lb/>
+</seg>. <DATERANGE>1848—1902</DATERANGE>. Erinnerungen und Beobachtungen</rs>. Wien<lb/>
+und Leipzig. <rs type="inst"><rs type="pers" ana="n2_2160" ref="#fk__p_59140">Wilhelm Braumüller</rs></rs>.<lb/>
+</p>
+            <p ana="pr32549">
+<rs type="pers" ana="n_28099" ref="#fk__p_38169"><seg type="spc">Altmann</seg> <abbr>Dr. M.</abbr> Wilhelm</rs>, <rs type="title">Ein Vorstandsmitglied der <rs type="inst"><seg type="spc">Wiener<lb/>
+Ärztekammer</seg></rs> als Sachverständiger</rs>. Wien. Im Selbstverlage<lb/>
+des Verfassers.<lb/>
+</p>
+            <p ana="pr32550">
+<rs type="pers" ana="n_28100" ref="#fk__p_52903"><seg type="spc">Schick</seg> Eugen</rs>, <rs type="title"><rs type="pers" ana="n2_2161" ref="#fk__p_50974"><seg type="spc">Otto Julius Bierbaum</seg></rs></rs>. Berlin und Leipzig.<lb/>
+<rs type="inst"><rs type="pers" ana="n2_2162" ref="#fk__p_58930">Schuster</rs> &amp; <rs type="pers" ana="n2_2163" ref="#fk__p_58476">Loeffler</rs></rs>.<lb/>
+</p>
+            <p ana="pr32551">
+<rs type="pers" ana="n_28101" ref="#fk__p_38582"><seg type="spc">Strindberg</seg> August</rs>, <rs type="title"><seg type="spc">Der bewußte Wille in der Weltgeschichte<lb/>
+</seg></rs>. Leipzig. <rs type="inst"><rs type="pers" ana="n2_2164" ref="#fk__p_58945">Hermann Seemann</rs> Nachfolger</rs>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_58476">
+               <persName>Loeffler (Schuster &amp; Loeffler, Verlag)</persName>
+               <note type="comment">Berlin</note>
+            </person>
+            <person xml:id="fk__p_52903">
+               <persName>Schick, Eugen</persName>
+               <birth>
+                  <date>1877-4-23</date>
+                  <place>Brünn</place>
+               </birth>
+               <death>
+                  <date>1909-3-16</date>
+                  <place>Brünn</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <note type="comment">"Otto Julius Bierbaum", Schuster &amp; Loeffler, Berlin - Leipzig 1903</note>
+            </person>
+            <person xml:id="fk__p_58930">
+               <persName>Schuster (Schuster &amp; Loeffler, Verlag)</persName>
+            </person>
+            <person xml:id="fk__p_58945">
+               <persName>Seemann (Hermann Seemann’s Nachfolger, Verlag)</persName>
+               <note type="comment">Leipzig</note>
+            </person>
+            <person xml:id="fk__p_59140">
+               <persName>Braumüller, Wilhelm (Verlag)</persName>
+               <note type="comment">in Wien</note>
+            </person>
+            <person xml:id="fk__p_52618">
+               <persName>Tyrolt, Rudolf</persName>
+               <birth>
+                  <date>1848-11-23</date>
+                  <place>Rottenmann, Steiermark</place>
+               </birth>
+               <death>
+                  <date>1929-6-22</date>
+                  <place>Gutenstein, Niederösterreich</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12980</idno></person>
+            <person xml:id="fk__p_38582">
+               <persName>Strindberg, August</persName>
+               <birth>
+                  <date>1849-1-22</date>
+                  <place>Stockholm</place>
+               </birth>
+               <death>
+                  <date>1912-5-14</date>
+                  <place>Stockholm</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12877</idno></person>
+            <person xml:id="fk__p_38169">
+               <persName>Altmann, M. Wilhelm</persName>
+               <birth>
+                  <date>1864-3-23</date>
+                  <place>Lemberg</place>
+               </birth>
+               <occupation>Arzt</occupation>
+               <occupation>Publizist</occupation>
+               <note type="comment">"Ein Vorstandsmitglied der Wiener Ärztekammer als Sachverständiger", 1903</note>
+               <note type="comment">1., Wipplinger Str. 12</note>
+            </person>
+            <person xml:id="fk__p_50974">
+               <persName>Bierbaum, Otto Julius</persName>
+               <birth>
+                  <date>1865-06-28</date>
+                  <place>Grünberg/Schle.</place>
+               </birth>
+               <death>
+                  <date>1910-02-01</date>
+                  <place>Kötzschenbroda/Dresden</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10928</idno></person>
+            </listPerson></back></text>
+</TEI>

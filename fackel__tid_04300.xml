@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_04300.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04299.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04301.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Publikum. (Der stürmisch-karge Beifall), in: Fackel Heft 08, Nr. 212, 1906, S. 24-24</title>
+            <title type="iso-date">1906-11-23</title>
+            <title type="id">tid_04300</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">08</title><title type="heft">212</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-08-212_n0024.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/212,024</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Publikum. (Der stürmisch-karge Beifall)</head>
+            <p ana="pr46801">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="name_203626" ref="#fk__p_51874">Publikum</rs>.</seg></seg> Na, über den äußeren Erfolg müssen sie doch einig sein!<lb/>
+</p>
+            <p ana="pr46803">
+<space/><seg ana="‚Wiener Allgemeine Zeitung‘"/>: »<QUOTE rn="1" sourceID="FK-08-212_n0024_a">In<lb/>
+<rs type="pers" ana="n_37723" ref="#fk__p_45852">Ibsens</rs> ‚<rs type="title"><rs type="pers">Hedda Gabler</rs></rs>‘ setzte die<lb/>
+<rs type="pers" ana="n_37724" ref="#fk__p_42497">Duse</rs> gestern ihr Gastspiel im <rs type="inst">Theater<lb/>
+an der Wien</rs> fort. Die ganz vorzügliche<lb/>
+ Leistung der Künstlerin in<lb/>
+dieser Rolle ist den Wienern zu bekannt<lb/>
+, als daß darüber noch weitere<lb/>
+Worte zu sagen wären. <seg type="spc">Die Begeisterung<lb/>
+ des Publikums<lb/>
+tobte sich in stürmischen<lb/>
+Beifallsäußerungen aus</seg>.</QUOTE>«<lb/>
+</p>
+            <p ana="pr46804">
+<space/><seg ana="‚Neues Wiener Tagblatt‘"/>: »<QUOTE rn="1" sourceID="FK-08-212_n0024_b">Die<lb/>
+<rs type="pers" ana="n_37725" ref="#fk__p_42497">Duse</rs> gibt nicht die <rs type="pers">Hedda Gabler</rs>,<lb/>
+die Generalstochter, die <rs type="pers" ana="n_37726" ref="#fk__p_45852">Ibsen</rs><lb/>
+nach dem Vater nennt <seg type="symbol" subtype="3dotsEditor"/> Aber<lb/>
+auch durch ihre Persönlichkeit<lb/>
+wußte die Künstlerin heute die Zuschauer<lb/>
+ nicht im Banne zu halten<seg type="symbol" subtype="3dotsEditor"/><lb/>
+So wurde denn auch das Publikum<lb/>
+abgespannt und <seg type="spc">karger Beifall<lb/>
+wagte sich nur mühsam hervor<lb/>
+</seg>.</QUOTE>«
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_51874">
+               <persName>Publikum</persName>
+            </person>
+            <person xml:id="fk__p_42497">
+               <persName>Duse, Eleonora</persName>
+               <birth>
+                  <date>1858-10-3</date>
+                  <place>Vigevano/Lombardei</place>
+               </birth>
+               <death>
+                  <date>1924-4-21</date>
+                  <place>Pittsburgh/Pennsylvania</place>
+               </death>
+               <occupation>Schauspielerin</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11201</idno></person>
+            <person xml:id="fk__p_45852">
+               <persName>Ibsen, Henrik</persName>
+               <birth>
+                  <date>1828-3-20</date>
+                  <place>Skien</place>
+               </birth>
+               <death>
+                  <date>1906-5-23</date>
+                  <place>Christiania</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment"/>
+               <note type="comment">Ögg ordnet 368/49 Baumeister Solneß Strindberg zu</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11798</idno></person>
+            </listPerson></back></text>
+</TEI>

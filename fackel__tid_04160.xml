@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_04160.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04159.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04161.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Schiedsrichter. (Meinungsverschiedenheit), in: Fackel Heft 08, Nr. 201, 1906, S. 24-24</title>
+            <title type="iso-date">1906-04-19</title>
+            <title type="id">tid_04160</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">08</title><title type="heft">201</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-08-201_n0024.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/201,024</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Schiedsrichter. (Meinungsverschiedenheit)</head>
+            <p ana="pr43820">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="name_202865" ref="#fk__p_52893">Schiedsrichter</rs>.</seg></seg></seg><lb/>
+</p>
+            <p ana="pr43822">
+<space/><seg ana="‚Arbeiter-Zeitung‘ 11. IV."/>:<lb/>
+</p>
+            <p ana="pr43824">
+<space/>»<QUOTE rn="1" sourceID="FK-08-201_n0024_a">Eine Aufführung der <RS pers="Richard Wagner"><rs type="title" ana="name_203109" ref="#fk__p_52212">Meistersinger<lb/>
+</rs></RS> wie die letzte sollte an der<lb/>
+<rs type="inst">Wiener Hofoper</rs> doch nicht möglich<lb/>
+ sein. <seg type="symbol" subtype="3dotsEditor"/> Über dem Ganzen<lb/>
+lagert <seg type="insult">stimmungslose Langeweile</seg>.<lb/>
+Keine Spur von innerer Ergriffenheit<lb/>
+, von Behagen an dem Humor<lb/>
+des Werkes; überall nur das Bestreben<lb/>
+, mit einer gerade nicht<lb/>
+glänzend memorierten Aufgabe<lb/>
+schnell fertig zu werden<seg type="symbol" subtype="4dotsEditor"/></QUOTE>«<lb/>
+</p>
+            <p ana="pr43826">
+<space/><seg ana="‚Fremdenblatt‘ 11. IV."/>:<lb/>
+</p>
+            <p ana="pr43828">
+<space/>»<QUOTE rn="1" sourceID="FK-08-201_n0024_b">Dergleichen bekommt man<lb/>
+nirgends sonst in deutschen Landen<lb/>
+zu hören. <rs type="pers" ana="n_35917" ref="#fk__p_43565">Schalk</rs> hatte einen seiner<lb/>
+feurigsten und glücklichsten Abende.<lb/>
+Gesamteindruck: eine Musteraufführung<lb/>
+, wenn auch nicht extra<lb/>
+angesagt. Daß unsere <rs type="inst">Hofoper</rs> mit<lb/>
+solchen Wunderleistungen auswärts<lb/>
+keine Reklame macht, mag vielleicht<lb/>
+der Würde des Instituts entsprechen<lb/>
+; aber der <rs type="inst">Verein für<lb/>
+Fremdenverkehr und Stadtinteressen</rs><lb/>
+sollte eine so wertvolle Handhabe<lb/>
+für seine Agitation schwunghafter<lb/>
+nützen.</QUOTE>«
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_52893">
+               <persName>Schiedsrichter</persName>
+            </person>
+            <person xml:id="fk__p_43565">
+               <persName>Schalk, Franz</persName>
+               <birth>
+                  <date>1863-5-27</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1931-9-3</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Dirigent</occupation>
+               <occupation>Theaterleiter</occupation>
+               <note type="comment">1918-29 Dir. Wr. Staatsoper (1919-24 Doppeldir. mit Rich. Strauss)</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12630</idno></person>
+            <person xml:id="fk__p_52212">
+               <persName>Wagner, Richard</persName>
+               <birth>
+                  <date>1813-5-22</date>
+                  <place>Leipzig</place>
+               </birth>
+               <death>
+                  <date>1883-2-13</date>
+                  <place>Venedig</place>
+               </death>
+               <occupation>Komponist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/13024</idno></person>
+            </listPerson></back></text>
+</TEI>

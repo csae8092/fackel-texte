@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03364.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03363.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03365.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Kutscher der Prinzessin Alix. (Der Kutscher der Prinzessin Alix), in: Fackel Heft 05, Nr. 148, 1903, S. 32-32</title>
+            <title type="iso-date">1903-12-2</title>
+            <title type="id">tid_03364</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">05</title><title type="heft">148</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-05-148_n0032.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/148,032</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Kutscher der Prinzessin Alix. (Der Kutscher der Prinzessin Alix)</head>
+            <p ana="pr33237">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="name_203355" key="#fk__p_60625">Kutscher der <rs type="pers" ana="n_28738" ref="#fk__p_51810">Prinzessin Alix</rs></rs>.</seg></seg> Das ‚<rs type="paper" ana="werk_12441">Neue Wiener Journal</rs>‘ hat<lb/>
+die Geschichte breitgetreten. Kurz, nachdem es für die <seg type="insult">Sensationslüge</seg><lb/>
+von der Operation an der <rs type="pers" ana="n_28739" ref="#fk__p_48295">Kronprinzessin-Witwe Stephanie</rs> eins auf’s<lb/>
+Maul bekommen hatte. Und nun will das <seg type="insult"><rs type="paperRef" ana="werk_12442">Fachblatt für Diebstahl und<lb/>
+Verleumdung</rs></seg> wenigstens darauf bestehen, daß die aus dem Privatleben<lb/>
+der <rs type="pers" ana="n_28740" ref="#fk__p_51810">Prinzessin von Schönburg-Waldenburg</rs> erschnüffelten Tatsachen<lb/>
+»wahr« seien. Aber ob wahr oder unwahr, auf dem aus Lumpen erzeugten,<lb/>
+von <seg type="insult">Lumpen</seg> beschriebenen Papier hat’s nicht zu stehen! <seg type="symbol" subtype="3dots"/> Sie haben<lb/>
+doch Ihre Peitsche nicht zu Hause vergessen?<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_48295">
+               <persName>Stefanie, Prinzessin von Belgien</persName>
+               <birth>
+                  <date>1864-5-21</date>
+                  <place>Schloß Laeken</place>
+               </birth>
+               <death>
+                  <date>1945-8-23</date>
+                  <place>Panonhalma, Ungarn</place>
+               </death>
+               <note type="comment">50. Geburtstag, NFP 22.05.1914, Seite 7</note>
+            </person>
+            <person xml:id="fk__p_51810">
+               <persName>Schönburg-Waldenburg, Alix (Alice) Prinzessin, geb. Prinzessin von Bourbon</persName>
+               <birth>
+                  <date>1876-06-29</date>
+                  <place>Pau</place>
+               </birth>
+               <death>
+                  <date>1975-01-20</date>
+                  <place>Bargecchia/Italien</place>
+               </death>
+               <note type="comment">verh. mit Viktor Friedrich Ernst Prinz Schönburg-Waldenburg, geschieden 1903</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

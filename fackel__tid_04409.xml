@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_04409.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04408.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04410.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Zeitgenosse. (Aus einer Grabrede), in: Fackel Heft 08, Nr. 219, 1907, S. 40-40</title>
+            <title type="iso-date">1907-02-22</title>
+            <title type="id">tid_04409</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">08</title><title type="heft">219</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-08-219_n0040.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/219,040</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Zeitgenosse. (Aus einer Grabrede)</head>
+            <p ana="pr48083">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="name_202716" ref="#fk__p_55841">Zeitgenosse</rs>.</seg></seg></seg> <seg type="insult">Aus einer Grabrede</seg>: »Du hast zu jenen Arbeitsmenschen<lb/>
+ gehört, die sterben, wenn des Dienstes ewig gleichgestellte<lb/>
+Uhr ihnen nicht mehr schlägt. Schwer hat dich dein Leiden gequält,<lb/>
+aber mit der Energie der Verzweiflung hast du dir lange dein Recht<lb/>
+auf Pflichterfüllung ertrotzt. Von dem Gedanken gepeinigt, daß dein<lb/>
+Scheiden aus dem Arbeitszimmer auch dein Sterben bedeuten wird. Und<lb/>
+was die Bangigkeit deiner Seele ausmachte, das hat auch schmerzliche<lb/>
+Erfüllung erfahren <seg type="symbol" subtype="4dots"/> Wir rufen dir heute mit den Worten in <rs type="pers" ana="n_38818" ref="#fk__p_39988">Ciceros<lb/>
+</rs> ‚<rs type="title"><rs type="pers">Laelius</rs></rs>‘ nach: Du warst ‚nicht bloß ein Mitgänger der anderen‘,<lb/>
+du warst ein Meister auf deinem Gebiete. Die Würdigung deines journalistischen<lb/>
+ Wirkens aber wäre unvollkommen, wenn sie nur des glänzenden<lb/>
+, unerreichten und vielleicht unerreichbaren <seg type="spc">Darstellers gewisser<lb/>
+ Veranstaltungen</seg> gedenken würde. Besonders rühmend wollen<lb/>
+wir hervorheben, daß du eine absolut sichere Empfindung für das<lb/>
+gehabt hast, was dem guten Geschmack in der journalistischen Arbeit<lb/>
+entspricht. In solchen Fragen warst du unsere letzte, unfehlbare Instanz<lb/>
+ <seg type="symbol" subtype="4dots"/>« Der <RS pers="Max Schlesinger" globID="name_202721">Verstorbene</RS> hatte durch viele Jahre nach einem bestimmten<lb/>
+ Tarif die Namen der auf Bällen Anwesenden verzeichnet.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_55841">
+               <persName>Zeitgenosse</persName>
+            </person>
+            <person xml:id="fk__p_39988">
+               <persName>Cicero, Macus Tullius</persName>
+               <birth>
+                  <date>106-1-3 BC</date>
+                  <place>Arpinum</place>
+               </birth>
+               <death>
+                  <date>43-12-7 BC</date>
+                  <place>Formiae</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <occupation>Schriftsteller</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

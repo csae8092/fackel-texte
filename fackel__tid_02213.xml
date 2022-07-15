@@ -1,0 +1,47 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02213.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02212.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02214.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Jurist. (Der Client des Advocaten Ofenheim), in: Fackel Heft 03, Nr. 093, 1902, S. 32-32</title>
+            <title type="iso-date">1902-02-4</title>
+            <title type="id">tid_02213</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">03</title><title type="heft">093</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-03-093_n0032.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/093,032</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Jurist. (Der Client des Advocaten Ofenheim)</head>
+            <p ana="pr21509">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_18776" ref="#fk__p_47308">Jurist</rs>.</seg></seg> Sie haben Recht: <seg type="insult">der Advocat <rs type="pers" ana="n_18777" ref="#fk__p_50793"><seg type="spc">Ofenheim</seg></rs></seg> hat jetzt einen<lb/>
+guten Clienten. Aber fraglich bleibt, ob <seg type="insult">der Client <rs type="pers" ana="n_18778" ref="#fk__p_50793">Ofenheim</rs></seg> auch einen<lb/>
+guten Advocaten hat.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_47308">
+               <persName>Jurist</persName>
+            </person>
+            <person xml:id="fk__p_50793">
+               <persName>Ofenheim-Ponteuxin, Adolf Ritter von</persName>
+               <birth>
+                  <date>1857-7-1</date>
+               </birth>
+               <death>
+                  <date>1905-2-4</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Rechtsanwalt</occupation>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Michael Kohlhaas des Unrechts</note>
+               <note type="comment">Das Wesen des Duells und ein Reform-Vorschlag. - Wien, Manz 1887. </note>
+               <note type="comment">Hietzinger Friedhof 18/4/107 (1967 weitervergeben)</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

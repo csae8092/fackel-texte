@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03245.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03244.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03246.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Büchereinlauf, in: Fackel Heft 05, Nr. 142, 1903, S. 24-24</title>
+            <title type="iso-date">1903-07-3</title>
+            <title type="id">tid_03245</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">05</title><title type="heft">142</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-05-142_n0024.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/142,024</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Büchereinlauf</head>
+            <p ana="pr31863">
+<rs type="pers" ana="n_27515" ref="#fk__p_51009"><seg type="spc">Weininger</seg> <abbr>Dr.</abbr> Otto</rs>, <rs type="title"><seg type="spc">Geschlecht und Charakter</seg></rs>. Eine principielle<lb/>
+Untersuchung. Wien und Leipzig <date>1903</date>. <rs type="inst"><rs type="pers" ana="n2_2114" ref="#fk__p_59140">Wilhelm Braumüller</rs></rs>.<lb/>
+</p>
+            <p ana="pr31864">
+<rs type="pers" ana="n_27516" ref="#fk__p_54371"><seg type="spc">Ulreich</seg> Alois</rs>, <rs type="title"><seg type="spc">Herr Lehrer</seg>!</rs> Socialer Roman aus der Gegenwart.<lb/>
+Wien <date>1903</date>. <rs type="inst">Verlag der »Sammlung moderner Kampfschriften«</rs>.<lb/>
+</p>
+            <p ana="pr31865">
+<rs type="pers" ana="n_27517" ref="#fk__p_49487"><seg type="spc">Macasy</seg> Gustav</rs>, <rs type="title"><seg type="spc">Die Chronik von Dirnau</seg></rs>. Geschichte eines Dorfes.<lb/>
+Wien <date>1903</date>. <rs type="inst"><rs type="pers" ana="n2_2115" ref="#fk__p_57701"><abbr>C. W.</abbr> Stern</rs></rs> (<rs type="inst">Buchhandlung <rs type="pers" ana="n2_2116" ref="#fk__p_48837"><abbr>L.</abbr> Rosner</rs>, Verlag</rs>).<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_57701">
+               <persName>Stern, C. W. (Verlag)</persName>
+            </person>
+            <person xml:id="fk__p_51009">
+               <persName>Weininger, Otto</persName>
+               <birth>
+                  <date>1880-4-3</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1903-10-4</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">ev. Friedhof Matzleinsdorf</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2630</idno></person>
+            <person xml:id="fk__p_49487">
+               <persName>Macasy, Gustav</persName>
+               <birth>
+                  <date>1871-4-25</date>
+                  <place>Liesing bei Wien</place>
+               </birth>
+               <death>
+                  <date>1905-6-4</date>
+                  <place>Wien-Lainz</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Die Chronik von Dirnau. Geschichte eines Dorfes, Wien 1903</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/3487</idno></person>
+            <person xml:id="fk__p_59140">
+               <persName>Braumüller, Wilhelm (Verlag)</persName>
+               <note type="comment">in Wien</note>
+            </person>
+            <person xml:id="fk__p_48837">
+               <persName>Rosner, Leopold</persName>
+               <birth>
+                  <date>1838-05-21</date>
+                  <place>Pest</place>
+               </birth>
+               <death>
+                  <date>1903-07-23</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <occupation>Journalist</occupation>
+               <occupation>Buchhändler</occupation>
+               <occupation>Verleger</occupation>
+            </person>
+            <person xml:id="fk__p_54371">
+               <persName>Ulreich, Josef Alois</persName>
+               <birth>
+                  <date>1877-4-8</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1946-11-14</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Beamter</occupation>
+               <note type="comment">Friedhof Hietzing 16/81</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

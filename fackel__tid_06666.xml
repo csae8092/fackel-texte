@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06666.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06665.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06667.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Budapest, im Royal-Saal, am 23. Januar:, in: Fackel Heft 15, Nr. 395, 1914, S. 35-35</title>
+            <title type="iso-date">1914-01-01</title>
+            <title type="id">tid_06666</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">15</title><title type="heft">395</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-15-395_n0035.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/395,035</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Budapest, im Royal-Saal, am 23. Januar:</head>
+            <p ana="pr90037">
+<space/>Budapest, im <rs type="inst">Royal-Saal</rs>, am <date>23. Januar</date>:<lb/>
+</p>
+            <p ana="pr90039">
+<space/>I. <rs type="title"><seg type="insult">Die Welt der Plakate</seg></rs> / <rs type="title">Der kleine <rs type="pers" ana="n2_5406" ref="#fk__p_57616">Brockhaus</rs></rs>; <rs type="title">Gefährlich</rs>;<lb/>
+<rs type="title"><seg type="insult">Ein Freund unseres <rs type="selfRef" ana="werk_20104">Blattes</rs></seg></rs>; <rs type="title"><seg type="insult">Auf der Suche nach Fremden</seg></rs>; <rs type="title"><seg type="insult"><foreign xml:lang="la">Non scholae,<lb/>
+sed vitae</foreign></seg></rs> / <rs type="title">Die Kinder der Zeit</rs> II. <rs type="title">Der Mißgriff</rs>; <rs type="title">Ich pfeife auf den<lb/>
+Text</rs>; <rs type="title"><seg type="insult"><foreign xml:lang="fr">Petite chronique scandaleuse</foreign></seg></rs>; <rs type="title">Aphorismus über <rs type="pers" ana="n2_5407" ref="#fk__p_51379">Altenberg</rs></rs>; <rs type="title"><seg type="insult">Von<lb/>
+den Dummköpfen</seg></rs>; <rs type="title"><seg type="insult">Die mit dem Tod intim sind</seg></rs>; <rs type="title"><seg type="insult">Interview mit einem<lb/>
+sterbenden Kind</seg></rs> III. <rs type="title">Eine <seg type="insult">Prostituierte</seg> ist ermordet worden</rs>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_57616">
+               <persName>Brockhaus, F. A. (Verlag)</persName>
+               <note type="comment">in Leipzig</note>
+            </person>
+            <person xml:id="fk__p_51379">
+               <persName>Altenberg, Peter</persName>
+               <birth>
+                  <date>1859-3-9</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1919-1-8</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Ögg teilt 531/207 (Nachruf auf Moriz Benedikt) P. A. zu (mit ?)</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2147</idno></person>
+            </listPerson></back></text>
+</TEI>

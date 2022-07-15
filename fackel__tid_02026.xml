@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02026.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02025.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02027.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Witzbold. (Humoristenlos), in: Fackel Heft 03, Nr. 085, 1901, S. 26-26</title>
+            <title type="iso-date">1901-11-16</title>
+            <title type="id">tid_02026</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">03</title><title type="heft">085</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-03-085_n0026.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/085,026</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Witzbold. (Humoristenlos)</head>
+            <p ana="pr19752">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="n_16877" key="#fk__p_55663">Witzbold</rs>.</seg></seg></seg> <seg type="insult">Herr <rs type="pers" ana="n_16878" ref="#fk__p_47236">Julius Bauer</rs></seg> klagt in seiner Geburtstagsode<lb/>
+an <rs type="pers" ana="n_16879" ref="#fk__p_47277">Stettenheim</rs>, <seg type="insult">»wir Humoristen«</seg> seien unglückliche Leute: »Nur gute<lb/>
+Witze werden alt, dann aber macht sie ein Anderer!« Das ist nur zu<lb/>
+wahr. So ist <abbr>z. B.</abbr> ein guter und alter Witz, den <seg type="insult">Herr <rs type="pers" ana="n_16880" ref="#fk__p_47236">Bauer</rs></seg> ein paar<lb/>
+Strophen vorher macht und der auf die Kaufmannscarrière <rs type="pers" ana="n_16881" ref="#fk__p_47277">Stettenheims</rs><lb/>
+und den Mangel an Handlung in seinem Jugenddrama anspielt, nicht<lb/>
+von <seg type="insult">Herrn <rs type="pers" ana="n_16882" ref="#fk__p_47236">Bauer</rs></seg>, sondern dem bekannten Urtheil <rs type="pers" ana="n_16883" ref="#fk__p_47221">Julian Schmidts</rs> über<lb/>
+die »<rs type="title">Makkabäer</rs>« nachempfunden: <seg type="insult">»So viel Juden und keine Handlung!«</seg><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_47221">
+               <persName>Schmidt, Julian</persName>
+               <birth>
+                  <date>1818-3-7</date>
+                  <place>Marienwerder</place>
+               </birth>
+               <death>
+                  <date>1886-3-27</date>
+                  <place>Berlin</place>
+               </death>
+               <occupation>Literarhistoriker</occupation>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/24302</idno></person>
+            <person xml:id="fk__p_47277">
+               <persName>Stettenheim, Julius</persName>
+               <birth>
+                  <date>1831-11-2</date>
+                  <place>Hamburg</place>
+               </birth>
+               <death>
+                  <date>1916-10-30</date>
+                  <place>Berlin-Lichterfelde</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/25512</idno></person>
+            <person xml:id="fk__p_47236">
+               <persName>Bauer, Julius</persName>
+               <birth>
+                  <date>1853-10-15</date>
+                  <place>Raab-Szigeth</place>
+               </birth>
+               <death>
+                  <date>1941-6-11</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Kritiker</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2150</idno></person>
+            </listPerson></back></text>
+</TEI>

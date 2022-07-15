@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01674.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01673.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01675.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Criminalist. (Schlussrufe auf der Geschwornenbank), in: Fackel Heft 02, Nr. 070, 1901, S. 29-29</title>
+            <title type="iso-date">1901-03-01</title>
+            <title type="id">tid_01674</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">070</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-070_n0029.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/070,029</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Criminalist. (Schlussrufe auf der Geschwornenbank)</head>
+            <p ana="pr16739">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="n_13929" ref="#fk__p_40147">Criminalist</rs>.</seg></seg></seg> Ob ein Geschworner einem plaidierenden Vertheidiger<lb/>
+ »Schluss!« zurufen darf? Im allgemeinen gewiss <seg type="spc">nicht</seg>. Aber<lb/>
+als <seg type="insult">Herr <rs type="pers" ana="n_13930" ref="#fk__p_41553"><abbr>Dr.</abbr> Morgenstern</rs></seg> im Mordprocess <rs type="pers" ana="n_13931" ref="#fk__p_50924"><rs type="pers" ana="name_200648" ref="#fk__p_59457">Ott</rs></rs> den Geschwornen<lb/>
+zurief: »Geschenkt wird hier nichts. Sie sind nicht die <seg type="insult">Firma <rs type="inst"><rs type="pers" ana="n2_1114" ref="#fk__p_58889">Schenker</rs><lb/>
+&amp; <abbr>Comp.</abbr></rs></seg>!«, wurde die Würde des Gerichtssaales gröblich verletzt,<lb/>
+weil <seg type="spc">keine</seg> Schlussrufe ertönten. Jedenfalls ist es mit dem Ansehen<lb/>
+der Justiz noch viel weniger vereinbar, wenn hohe Gerichtsfunctionäre<lb/>
+und Strafrechtslehrer <seg type="insult">dem Reporter des ‚<rs type="paper" ana="werk_5205">Neuen Wiener Tagblatt</rs>‘</seg><lb/>
+willig Rede und Antwort stehen, wenn es ihn gelüstet, die Spalten<lb/>
+seines Blattes mit dem <seg type="insult">die liberalen Gemüther</seg> erhitzenden Thema zu<lb/>
+füllen. Es zeigt sich immer mehr, dass die <seg type="insult">Pressleute</seg> eine <seg type="insult">Nebenregierung<lb/>
+</seg> im Staate etabliert haben; neuestens haben sie auch die<lb/>
+Disciplinargewalt im Schwurgerichtssaale an sich gerissen. In dieser<lb/>
+Hinsicht ist die Wendung so recht bezeichnend, mit der das ‚<rs type="" ana="werk_5206">Extrablatt<lb/>
+</rs>‘ seinen Bericht über den Vorfall eingeleitet hat: es habe einen<lb/>
+Berichterstatter zu dem Geschwornen geschickt, »um ihn zu fragen,<lb/>
+<seg type="spc">warum</seg> er den Vertheidiger in seiner Rede unterbrochen habe«.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_58889">
+               <persName>Schenker (Schenker &amp; Comp., Speditionsfirma)</persName>
+            </person>
+            <person xml:id="fk__p_59457">
+               <persName>Ott, Caroline, geb. Maß</persName>
+               <birth>
+                  <date>1874?</date>
+               </birth>
+               <note type="comment">31.01.01 zu zwölf Jahren schweren Kerkers verurteilt</note>
+               <note type="comment">Sohn Joseph (*24.04.1895) ermordet</note>
+            </person>
+            <person xml:id="fk__p_41553">
+               <persName>Morgenstern, Gustav Christian</persName>
+               <birth>
+                  <date>1857-2-21</date>
+                  <place>Budapest</place>
+               </birth>
+               <death>
+                  <date>1922-4-14</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Rechtsanwalt</occupation>
+               <occupation>Publizist</occupation>
+               <note type="comment">Hrsg. "Das Forum"</note>
+            </person>
+            <person xml:id="fk__p_50924">
+               <persName>Ott, Joseph</persName>
+               <birth>
+                  <date>1869?</date>
+               </birth>
+               <occupation>Zeitungsausträger</occupation>
+               <note type="comment">Prozeß Ott 1901; Mordanklage gegen die Eheleute Ott, die ihren Sohn getötet haben sollen</note>
+               <note type="comment">31.01.01 zum Tod verurteilt</note>
+            </person>
+            <person xml:id="fk__p_40147">
+               <persName>Criminalist</persName>
+            </person>
+            </listPerson></back></text>
+</TEI>

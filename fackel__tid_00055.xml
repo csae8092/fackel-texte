@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00055.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00054.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00056.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Personalnachrichten.), in: Fackel Heft 01, Nr. 004, 1899, S. 21-22</title>
+            <title type="iso-date">1899-05-01</title>
+            <title type="id">tid_00055</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">004</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-004_n0021.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/004,021</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Personalnachrichten.)</head>
+            <p ana="pr784">
+<space/><seg type="sidehead">[<seg type="insult"><seg type="spc">Personalnachrichten</seg></seg>.]</seg> Die diesjährige <rs type="event">Arbeiter-Maifeier</rs> war<lb/>
+die erste, an der Herr <rs type="pers" ana="n_685" ref="#fk__p_41280"><abbr>Dr.</abbr> Josef <seg type="spc">Kaizl</seg></rs> nicht theilgenommen, die<lb/>
+kürzlich abgehaltene Hofjagd die erste, an der er theilgenommen<lb/>
+hat. — Das unglaubliche Gerücht bestätigt sich: der Statthalter von<lb/>
+Niederösterreich, <rs type="pers" ana="n_686" ref="#fk__p_44662">Graf Erich <seg type="spc">Kielmansegg</seg></rs>, nimmt bei Herrn<lb/>
+<rs type="pers" ana="n_687" ref="#fk__p_48147">Kornau</rs> Unterricht im Coupletvortrag. — <seg type="insult">Herr <rs type="pers" ana="n_688" ref="#fk__p_45908"><seg type="spc">Bahr</seg></rs></seg> ist von <seg type="insult">seiner<lb/>
+»<rs type="title">Zweiten Italienischen Reise</rs>«</seg> zurückgekehrt.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_48147">
+               <persName>Kornau, Eduard</persName>
+               <birth>
+                  <date>1861-12-4</date>
+                  <place>Brünn</place>
+               </birth>
+               <death>
+                  <date>1939-2-13</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+            </person>
+            <person xml:id="fk__p_41280">
+               <persName>Kaizl, Josef</persName>
+               <birth>
+                  <date>1854-06-10</date>
+                  <place>Wolin</place>
+               </birth>
+               <death>
+                  <date>1901-08-19</date>
+                  <place>Myskowitz</place>
+               </death>
+               <occupation>Nationalökonom</occupation>
+               <occupation>Politiker</occupation>
+            </person>
+            <person xml:id="fk__p_45908">
+               <persName>Bahr, Hermann</persName>
+               <birth>
+                  <date>1863-7-19</date>
+                  <place>Linz</place>
+               </birth>
+               <death>
+                  <date>1934-1-15</date>
+                  <place>München</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Kritiker</occupation>
+               <note type="comment">Ögg teilt auch 307/52, 445/49, 800/67 (Rotte Korah) Bahr zu</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10815</idno></person>
+            <person xml:id="fk__p_44662">
+               <persName>Kielmansegg, Erich Graf</persName>
+               <birth>
+                  <date>1847-02-13</date>
+                  <place>Hannover</place>
+               </birth>
+               <death>
+                  <date>1923-02-05</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <note type="comment">23 Jahre lang Statthalter von Niederösterreich, 1895 kurzzeitig Ministerpräsident</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

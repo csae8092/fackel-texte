@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01542.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01541.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01543.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Musiker. (Sein grüner Federbusch), in: Fackel Heft 02, Nr. 065, 1901, S. 32-32</title>
+            <title type="iso-date">1901-01-01</title>
+            <title type="id">tid_01542</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">065</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-065_n0032.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/065,032</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Musiker. (Sein grüner Federbusch)</head>
+            <p ana="pr15215">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_12645" ref="#fk__p_50471">Musiker</rs>.</seg></seg> <seg type="insult">Herr Hofrath <rs type="pers" ana="n_12646" ref="#fk__p_42312">Hanslick</rs></seg> schreibt über <rs type="pers" ana="n_12647" ref="#fk__p_47586">Webers</rs><lb/>
+»<rs type="title">Overtura Chinesa</rs>«, die die Philharmoniker jüngst zur Aufführung<lb/>
+bringen sollten: »Passionierte Zeitungsleser hätten da leibhaftig unsere<lb/>
+Truppen in Peking einrücken gesehen, an ihrer Spitze hoch zu Ross<lb/>
+den <rs type="pers" ana="n_12648" ref="#fk__p_44774">Grafen Waldersee</rs>. <seg type="spc">Sein grüner Federbusch</seg> war ja <seg type="spc">nicht zu<lb/>
+verkennen</seg>.« Oh doch! <rs type="pers" ana="n_12649" ref="#fk__p_44774">Graf Waldersee</rs> trägt in China eine Uniform,<lb/>
+die ihm der Kaiser eigens verliehen hat, und sonst trägt die preußische<lb/>
+Generalität Rosshaarbüsche von weißer Farbe zur Parade. Die Uniform<lb/>
+eines österreichischen Generals hat aber der <rs type="pers" ana="n_12650" ref="#fk__p_44774">Graf Waldersee</rs> gewiss<lb/>
+noch nicht getragen.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_44774">
+               <persName>Waldersee, Alfred Graf</persName>
+               <birth>
+                  <date>1832-04-08</date>
+                  <place>Potsdam</place>
+               </birth>
+               <death>
+                  <date>1904-03-05</date>
+                  <place>Hannover</place>
+               </death>
+               <occupation>General</occupation>
+            </person>
+            <person xml:id="fk__p_42312">
+               <persName>Hanslick, Eduard</persName>
+               <birth>
+                  <date>1825-9-11</date>
+                  <place>Prag</place>
+               </birth>
+               <death>
+                  <date>1904-4-6</date>
+                  <place>Baden bei Wien</place>
+               </death>
+               <occupation>Musikkritiker</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11578</idno></person>
+            <person xml:id="fk__p_47586">
+               <persName>Weber, Carl Maria von</persName>
+               <birth>
+                  <date>1786-12-18</date>
+                  <place>Eutin</place>
+               </birth>
+               <death>
+                  <date>1826-06-05</date>
+                  <place>London</place>
+               </death>
+               <occupation>Komponist</occupation>
+               <note type="comment">781/127 Oberon, 829/45 Freischütz</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/4182</idno></person>
+            <person xml:id="fk__p_50471">
+               <persName>Musiker</persName>
+            </person>
+            </listPerson></back></text>
+</TEI>

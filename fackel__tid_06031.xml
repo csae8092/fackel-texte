@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06031.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06030.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06032.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Wörtlich, in: Fackel Heft 14, Nr. 363, 1912, S. 67-68</title>
+            <title type="iso-date">1912-12-01</title>
+            <title type="id">tid_06031</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">14</title><title type="heft">363</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-14-363_n0067.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/363,067</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Wörtlich</head>
+            <p ana="pr81459">
+— ich hätte so etwas nie erfinden können —:<lb/>
+</p>
+            <p ana="pr81461">
+<space/><rs type="pers" ana="n_56973" ref="#fk__p_47419">Erzherzogin Zita</rs> wird heute einen Freudentag haben. Junge Mütter<lb/>
+wünschen gewöhnlich, daß der Erstling ein Sohn sei. In diesem Falle hat<lb/>
+die Erzherzogin, die an der Seite ihres Gemahls zu hoher Bestimmung<lb/>
+ausersehen ist, noch das Gefühl, daß ihr vielleicht dereinst beschieden<lb/>
+</p>
+            <p ana="pr81461">
+sein wird, nicht bloß die <rs type="pers" ana="n_56974" ref="#fk__p_47419"><seg type="spc">Kaiserin von Österreich-Ungarn</seg></rs>,<lb/>
+sondern auch die <seg type="spc">Mutter eines Kaisers</seg> zu sein. <seg type="spc">Das muß für<lb/>
+eine junge Frau</seg>, <seg type="spc">die das Mädchenalter kaum überschritten<lb/>
+hat</seg>, <seg type="spc">ein besonderes Gefühl der Befriedigung sein</seg> <seg type="symbol" subtype="4dots"/> den<lb/>
+Eltern des Prinzen, dem Vater und der Mutter, wünschen, daß der<lb/>
+neugeborene Erzherzog zu einem tüchtigen, gesunden <seg type="symbol" subtype="4dots"/><lb/>
+</p>
+            <p ana="pr81463">
+<space/><seg type="insult">Der Ton</seg> fühlt sich wie zu Hause. Aber <seg type="insult">dieser <foreign xml:lang="de-loc">Trampel</foreign></seg><lb/>
+vergißt in seiner <seg type="insult">Herzlichkeit</seg>, daß jenes Gefühl der Befriedigung<lb/>
+ohne den Gedanken an eine Witwenschaft nicht gut zustandekommen<lb/>
+ kann. Und was man in Ungarn zu der künftigen »<rs type="pers" ana="n_56975" ref="#fk__p_47419">Kaiserin<lb/>
+von Österreich-Ungarn</rs>« sagen wird, ist auch noch die Frage.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_47419">
+               <persName>Zita, Kaiserin</persName>
+               <birth>
+                  <date>1892-5-9</date>
+                  <place>Villa delle Pianore/Lucca</place>
+               </birth>
+               <death>
+                  <date>1989-3-14</date>
+                  <place>Zizers/Schweiz</place>
+               </death>
+            </person>
+            </listPerson></back></text>
+</TEI>

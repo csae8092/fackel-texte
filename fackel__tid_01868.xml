@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01868.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01867.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01869.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Logenbruder. (Loge, Thron und Altar), in: Fackel Heft 03, Nr. 078, 1901, S. 26-26</title>
+            <title type="iso-date">1901-05-01</title>
+            <title type="id">tid_01868</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">03</title><title type="heft">078</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-03-078_n0026.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/078,026</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Logenbruder. (Loge, Thron und Altar)</head>
+            <p ana="pr18306">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="n_15430" ref="#fk__p_49079">Logenbruder</rs>.</seg></seg></seg> Sie verweisen mich auf die Berichte der<lb/>
+Zeitungen über die Anwesenheit des <RS pers="Franz Joseph" globID="rs_233">Kaisers</RS> in einem freimaurerischen<lb/>
+Wohlthätigkeitsinstitute und sind stolz auf das gute Einvernehmen, das<lb/>
+sich bei dieser Gelegenheit zwischen <seg type="insult">denen um Herrn <rs type="pers" ana="n_15431" ref="#fk__p_41080"><abbr>Dr.</abbr> Geza<lb/>
+Winter</rs></seg> und <seg type="insult">der ausgerückten Geistlichkeit</seg> zeigte. Ich sagte es ja<lb/>
+immer: die Sache ist viel harmloser, als man gemeinhin glaubt. Nur<lb/>
+als <seg type="insult">Vereine zur Förderung von Cliquenwesen und Corruption</seg> scheinen<lb/>
+die Logen gefährlich und nicht als <seg type="insult">»Bollwerke gegen Thron und Altar«</seg>.<lb/>
+Wo es die <seg type="insult">»Humanität«</seg> gilt, kommen ja <seg type="insult">Thron und Altar</seg> den Freimaurern<lb/>
+ entgegen.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_49079">
+               <persName>Logenbruder</persName>
+            </person>
+            <person xml:id="fk__p_41080">
+               <persName>Winter, Géza</persName>
+               <birth>
+                  <date>1850-03-06</date>
+                  <place>Eperies/Ungarn</place>
+               </birth>
+               <death>
+                  <date>1924-3-3</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Rechtsanwalt</occupation>
+               <note type="comment">1., Gonzagagasse 16</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07918.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07917.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07919.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Bilder aus der Woche, in: Fackel Heft 19, Nr. 462, 1917, S. 38-38</title>
+            <title type="iso-date">1917-10-01</title>
+            <title type="id">tid_07918</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">19</title><title type="heft">462</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-19-462_n0038.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/462,038</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Bilder aus der Woche</head>
+            <p ana="pr105847">
+die zeigen, wie gut die Menschheit — so sagt man doch in<lb/>
+Berlin — im Krieg abschneidet. Vorn: »Frau <rs type="pers" ana="n_67649" ref="#fk__p_54580"><abbr>v.</abbr> Ihne</rs> begrüßt<lb/>
+den 100. Blinden«, was so schön von <seg type="insult">der Frau <rs type="pers" ana="n_67650" ref="#fk__p_54580"><abbr>v.</abbr> Ihne</rs></seg> ist, daß<lb/>
+es photographiert werden mußte, und als <seg type="insult">eine der Lichtseiten des<lb/>
+Blindendaseins</seg> gewiß auch dem Begrüßten eine Genugtuung<lb/>
+gewährt hat. Na und hinten: »<rs type="pers" ana="n_67651" ref="#fk__p_38068">Alfred Holzbock</rs>«, der nun, wie<lb/>
+die Zeit vergeht, 60 Jahre alt geworden ist. Mit das beste Bild,<lb/>
+das wir von ihm besitzen. Ja das ist er, mit dem Blick, dem nichts<lb/>
+auf dem Presseball entgeht und der sicher einst auch Frau<lb/>
+<rs type="pers" ana="n_67652" ref="#fk__p_54580"><abbr>v.</abbr> Ihne</rs> bemerkt hat. Schade, daß von den drei Beteiligten nur<lb/>
+zwei sich überzeugen können, daß sie in der ‚<rs type="magazine" ana="werk_21205">Woche</rs>‘, der dritte,<lb/>
+daß er anderwärts gut getroffen wurde! Wie jung waren wir noch,<lb/>
+wie froh wären wir, wenn’s noch wie damals wäre, als in der<lb/>
+‚<rs type="magazine" ana="werk_21206">Woche</rs>‘ nur zwei photographiert waren: »Frau <rs type="pers" ana="n_67653" ref="#fk__p_54580"><abbr>v.</abbr> Ihne</rs> begrüßt<lb/>
+<rs type="pers" ana="n_67654" ref="#fk__p_38068">Alfred Holzbock</rs> zum 50. Geburtstag.«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_38068">
+               <persName>Holzbock, Alfred</persName>
+               <birth>
+                  <date>1857-7-31</date>
+                  <place>Posen</place>
+               </birth>
+               <death>
+                  <date>1927-5</date>
+                  <place>Berlin</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/18485</idno></person>
+            <person xml:id="fk__p_54580">
+               <persName>Ihne, Maria Antonietta von, geb. Palloni</persName>
+               <birth>
+                  <date>1873-7-7</date>
+               </birth>
+               <death>
+                  <date>1945?</date>
+               </death>
+               <note type="comment">Tochter des Komponisten Gaetano Palloni</note>
+               <note type="comment">verh. (Heidelberg 21.12.1895) mit Ernst Eberhard von Ihne (1848-1917), Architekt</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

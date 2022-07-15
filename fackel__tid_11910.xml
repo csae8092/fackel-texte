@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_11910.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11909.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11911.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tempo Tempo!, in: Fackel Heft 33, Nr. 857, 1931, S. 110-110</title>
+            <title type="iso-date">1931-08-01</title>
+            <title type="id">tid_11910</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">33</title><title type="heft">857</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-33-857_n0110.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/857,110</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Tempo Tempo!</head>
+            <p ana="pr172506">
+<rs type="pers" ana="n_103048" ref="#fk__p_37819"><seg type="insult">Hitler-Student</seg></rs> wirft eine Bombe.<lb/>
+</p>
+            <p ana="pr172508">
+Warum »eine«?<lb/>
+</p>
+            <p ana="pr172510">
+<seg type="insult">Kommunist</seg> unterschlägt städtische Gelder.<lb/>
+</p>
+            <p ana="pr172512">
+<seg type="insult">Schmock Artikel.</seg> Und in <seg type="insult">solchem Tempo</seg> trottet <seg type="insult">alter Droschkenkutscher<lb/>
+ wie <seg ana="‚Vorwärts‘"/></seg> mit:<lb/>
+</p>
+            <p ana="pr172514">
+<RS pers="Pius XI." globID="name_202508">Papst</RS> 
+verflucht <rs type="pers" ana="n_103049" ref="#fk__p_50477">Mussolini</rs>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_50477">
+               <persName>Mussolini, Benito</persName>
+               <birth>
+                  <date>1883-7-29</date>
+                  <place>Predappio</place>
+               </birth>
+               <death>
+                  <date>1945-4-2</date>
+                  <place>Giulino di Mezzegra/Provinz Como</place>
+               </death>
+               <occupation>Lehrer</occupation>
+               <occupation>Politiker</occupation>
+               <note type="comment">Benito Amilcare Andrea Mussolini</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12314</idno></person>
+            <person xml:id="fk__p_37819">
+               <persName>Hitler, Adolf</persName>
+               <birth>
+                  <date>1889-4-20</date>
+                  <place>Braunau, Oberösterreich</place>
+               </birth>
+               <death>
+                  <date>1945-4-30</date>
+                  <place>Berlin</place>
+               </death>
+               <occupation>Politiker</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11715</idno></person>
+            </listPerson></back></text>
+</TEI>

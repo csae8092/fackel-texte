@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_09758.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09757.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09759.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Anzeige von „Traumtheater“), in: Fackel Heft 26, Nr. 649, 1924, S. 70-70</title>
+            <title type="iso-date">1924-06-01</title>
+            <title type="id">tid_09758</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">26</title><title type="heft">649</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-26-649_n0070.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/649,070</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Anzeige von „Traumtheater“)</head>
+            <p ana="pr132402">
+<space/><rs type="title"><seg type="spc">Traumtheater</seg></rs>, Spiel in einem Akt, ist am <date>25. April</date><lb/>
+erschienen.<lb/>
+</p>
+            <p ana="pr132403">
+<space/>Die Aufführungen haben in Berlin (vom <DATERANGE>25. bis 31. März</DATERANGE>)<lb/>
+und in Wien (vom <DATERANGE>29. April bis 6. Mai</DATERANGE>) je siebenmal stattgefunden<lb/>
+.<lb/>
+</p>
+            <p ana="pr132404">
+<space/>(Den <seg type="insult">»<rs type="pers">Techniker</rs>«</seg> hat von der zweiten Aufführung an für den<lb/>
+verhinderten Herrn <rs type="pers" ana="n_80935" ref="#fk__p_47033">Jordan</rs> Herr <rs type="pers" ana="n_80936" key="#fk__p_46806">Jens Friedrich</rs> gespielt.)<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_47033">
+               <persName>Jordan, Egon von</persName>
+               <birth>
+                  <date>1902-3-19</date>
+                  <place>Dux/Böhmen</place>
+               </birth>
+               <death>
+                  <date>1978-12-27</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11842</idno></person>
+            </listPerson></back></text>
+</TEI>

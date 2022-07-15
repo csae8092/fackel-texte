@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_10021.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10020.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10022.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Dieselbe, in: Fackel Heft 26, Nr. 668, 1924, S. 146-147</title>
+            <title type="iso-date">1924-12-01</title>
+            <title type="id">tid_10021</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">26</title><title type="heft">668</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-26-668_n0146.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/668,146</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Dieselbe</head>
+            <p ana="pr136125">
+scheint jetzt zu wissen, wie sie, von der <seg type="insult">Hebung des Fremdenverkehrs<lb/>
+</seg> abgesehen, ihre Kulturaufgabe zu erfüllen hat. Sie war<lb/>
+durch einen <RS pers="Georg Emmerling" globID="name_203139">Vizebürgermeister</RS> vertreten, um das Ehrengrab<lb/>
+<rs type="pers" ana="n_83502" ref="#fk__p_46357">Hugo Wittmanns</rs> in ihre Obhut zu nehmen, und er hat anläßlich<lb/>
+der Enthüllung des Grabdenkmals eines Mannes, dessen Wirken<lb/>
+gewiß <seg type="insult">der gefälligste Ausdruck bürgerlichen Denkens</seg> war, <seg type="insult">Schulter<lb/>
+an Schulter</seg> mit <seg type="insult">dem <RS pers="Moriz Benedikt" globID="name_203788">Herausgeber</RS> der <rs type="paper" ana="werk_26414">Neuen Freien Presse</rs></seg> und <seg type="insult">dem<lb/>
+<RS pers="Edmund Wengraf" globID="name_203138">Präsidenten</RS> der <rs type="inst">Concordia</rs></seg> die Ehrenpflicht des sozialistischen Wien<lb/>
+</p>
+            <p ana="pr136125">
+abgestattet. Einem <rs type="pers" ana="n_83503" ref="#fk__p_51379">Peter Altenberg</rs> hat es, eindringlich darum<lb/>
+gemahnt, das Ehrengrab nicht geweigert, aber weder bei seinem<lb/>
+Begräbnis noch bei der Aufstellung des Grabsteins war es<lb/>
+auch nur durch einen Gemeindediener vertreten. Freilich war<lb/>
+damals auch <seg type="insult">der Präsident der <rs type="inst">Concordia</rs></seg> am Erscheinen und<lb/>
+die <rs type="paper" ana="werk_26415">Neue Freie Presse</rs> am Notiznehmen verhindert.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46357">
+               <persName>Wittmann, Hugo</persName>
+               <birth>
+                  <date>1839-10-16</date>
+                  <place>Ulm</place>
+               </birth>
+               <death>
+                  <date>1923-2-6</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">ZF Gruppe 32C, Nr. 3</note>
+               <note type="comment">Red. der NFP</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2739</idno></person>
+            <person xml:id="fk__p_51379">
+               <persName>Altenberg, Peter</persName>
+               <birth>
+                  <date>1859-3-9</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1919-1-8</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Ögg teilt 531/207 (Nachruf auf Moriz Benedikt) P. A. zu (mit ?)</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2147</idno></person>
+            </listPerson></back></text>
+</TEI>

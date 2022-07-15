@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00688.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00687.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00689.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Der Geschlechtsbestimmer Schenk.), in: Fackel Heft 01, Nr. 028, 1900, S. 31-32</title>
+            <title type="iso-date">1900-01-01</title>
+            <title type="id">tid_00688</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">028</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-028_n0031.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/028,031</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Der Geschlechtsbestimmer Schenk.)</head>
+            <p ana="pr6500">
+<space/><seg type="insult"><inciptit>Der</inciptit> Geschlechtsbestimmer <seg type="spc"><rs type="pers" ana="n_4939" ref="#fk__p_37608">Schenk</rs></seg></seg> ist abgethan. Die medicinische<lb/>
+ Facultät wird aber, wofern sie sich nicht durch <seg type="insult">das dumme<lb/>
+Geschrei des ‚<rs type="paper" ana="werk_1774">Wiener Tagblatt</rs>‘</seg> beirren lässt, einsehen, dass ihrem<lb/>
+Reinlichkeitsbedürfnis noch lange nicht Genüge geschehen ist. Sie<lb/>
+darf’s bei der Entfernung des <seg type="insult">Mannes</seg>, der Wissenschaft und ‚<rs type="" ana="werk_39958">Correspondenz<lb/>
+ <rs type="pers" ana="name_200775" ref="#fk__p_59409">Wilhelm</rs></rs>‘ in allzupeinliche Verbindung gebracht, nicht<lb/>
+bewenden lassen. Nun gilt es, <seg type="insult">feinere Reclamefäden</seg> zu zerschneiden<ADD>.</ADD><lb/>
+Die <seg type="insult">Privatpraxis gewisser Herren</seg> muss untersucht und vor allem <seg type="insult">das<lb/>
+blühende Sanatoriumsgeschäft</seg> endlich einer eingehenden Controle<lb/>
+unterzogen werden. Eines Verdachtes freilich kann man sich auch<lb/>
+im Falle <rs type="pers" ana="n_4940" ref="#fk__p_37608">Schenk</rs> nicht erwehren. Wenn die Czarin im Vorjahre zufällig<lb/>
+ eines gesunden Knaben genesen wäre, hätte die medicinische<lb/>
+Facultät auch dann gefunden, dass das Vorgehen des Professors<lb/>
+</p>
+            <p ana="pr6500">
+<rs type="pers" ana="n_4941" ref="#fk__p_37608">Schenk</rs> die Würde der Wissenschaft und das Ansehen des ärztlichen<lb/>
+Standes schädige? Herr <rs type="pers" ana="n_4942" ref="#fk__p_37608">Schenk</rs> hätte die Nachricht von seiner Assistenz<lb/>
+ am russischen Hoflager wahrlich nicht dementiert, und <seg type="insult">der nunmehr<lb/>
+ sanctionierte Zeitungsruhm</seg> hätte ihm den jähen Austritt aus<lb/>
+<seg type="insult">dem Kreise der stolzen Träger wissenschaftlichen Bewusstseins</seg> erspart.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_59409">
+               <persName>Wilhelm, Ignaz</persName>
+               <birth>
+                  <date>1842-01-28</date>
+                  <place>Boskowitz/Mähren</place>
+               </birth>
+               <death>
+                  <date>1921-2-18</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <note type="comment">Eigentümer und Hrsg. der "Correspondenz Wilhelm", 9., Kolingasse 13</note>
+               <note type="comment">verh. mit Franziska, geb. Wahle</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/59687</idno></person>
+            <person xml:id="fk__p_37608">
+               <persName>Schenk, Samuel Leopold</persName>
+               <birth>
+                  <date>1840-08-23</date>
+                  <place>Ürmény/Ung.</place>
+               </birth>
+               <death>
+                  <date>1902-08-17</date>
+                  <place>Schwanberg/Steierm.</place>
+               </death>
+               <occupation>Gynäkologe</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

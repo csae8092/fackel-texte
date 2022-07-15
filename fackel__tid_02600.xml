@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02600.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02599.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02601.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Küchenchef. (Die Ausgehungerten), in: Fackel Heft 04, Nr. 112, 1902, S. 25-25</title>
+            <title type="iso-date">1902-08-14</title>
+            <title type="id">tid_02600</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">04</title><title type="heft">112</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-04-112_n0025.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/112,025</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Küchenchef. (Die Ausgehungerten)</head>
+            <p ana="pr25312">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="n_21903" key="#fk__p_48331">Küchenchef</rs>.</seg></seg></seg> In <seg type="insult">seiner »<rs type="title">Berner Bilder</rs>« zweitem Theil</seg> citierte<lb/>
+<rs type="pers" ana="n_21904" ref="#fk__p_45908">Hermann Bahr</rs> aus <seg type="insult">Begeisterung über das gute Essen</seg> <rs type="pers" ana="n_21905" ref="#fk__p_46243">Homer</rs> falsch und<lb/>
+rief hierauf: »Es ist ganz seltsam, wie ausgehungert die Journalisten zu<lb/>
+den Congressen kommen«. Sehr richtig. Und nicht bloß zu Presscongressen<lb/>
+, sondern auch zu Naturforschercongressen, Philologenversammlungen<lb/>
+, zu allen öffentlichen Veranstaltungen und besonders zu Bällen,<lb/>
+bei denen <seg type="insult">reclamesüchtige Comités</seg> ihres Amtes walten <seg type="symbol" subtype="3dots"/> Die öffentliche<lb/>
+ Meinung ist ein <seg type="insult">Verdauungsproduct</seg>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46243">
+               <persName>Homer</persName>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2495</idno></person>
+            <person xml:id="fk__p_45908">
+               <persName>Bahr, Hermann</persName>
+               <birth>
+                  <date>1863-7-19</date>
+                  <place>Linz</place>
+               </birth>
+               <death>
+                  <date>1934-1-15</date>
+                  <place>München</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Kritiker</occupation>
+               <note type="comment">Ögg teilt auch 307/52, 445/49, 800/67 (Rotte Korah) Bahr zu</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10815</idno></person>
+            </listPerson></back></text>
+</TEI>

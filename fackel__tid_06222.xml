@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06222.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06221.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06223.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Die Sprache der Ehre, in: Fackel Heft 15, Nr. 374, 1913, S. 4-4</title>
+            <title type="iso-date">1913-05-01</title>
+            <title type="id">tid_06222</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">15</title><title type="heft">374</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-15-374_n0004.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/374,004</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Die Sprache der Ehre</head>
+            <p ana="pr83898">
+<space/>»<rs type="pers" ana="n_58416" ref="#fk__p_53349">Sir Edward Grey</rs> ist ein Gentleman; er macht aus seinem Worte<lb/>
+keinen Spaß und nimmt sein Versprechen ernst<seg type="symbol" subtype="4dots"/> Wir hören aus der<lb/>
+<rs type="paper" ana="werk_40943">Westminster Gazette</rs> <seg type="spc">die Sprache der Ehre</seg> und des Gewissens.<lb/>
+England wird doch nicht zugeben, daß die Forderung, die sein Admiral<lb/>
+an den <rs type="pers" ana="n_58417" ref="#fk__p_44037">König Nikolaus</rs> gerichtet hat, in Cetinje wie Rauch behandelt<lb/>
+werde, der sich verzieht<seg type="symbol" subtype="4dots"/> Die englische Regierung hat ihren Namen<lb/>
+unter den Beschluß über Skutari gesetzt, und diese Unterschrift ist<lb/>
+<seg type="spc">so gut wie bares Geld</seg>.«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_53349">
+               <persName>Grey, Edward Viscount of Fallodon</persName>
+               <birth>
+                  <date>1862-04-25</date>
+                  <place>Fallodon</place>
+               </birth>
+               <death>
+                  <date>1933-09-07</date>
+                  <place>Fallodon</place>
+               </death>
+               <occupation>Politiker</occupation>
+            </person>
+            <person xml:id="fk__p_44037">
+               <persName>Nikola I., König von Montenegro</persName>
+               <birth>
+                  <date>1841-10-7</date>
+                  <place>Njegosch</place>
+               </birth>
+               <death>
+                  <date>1921-3-1</date>
+                  <place>Antibes</place>
+               </death>
+               <note type="comment">Nikola I. Petrovic Njegos, 1860 bis 1918 König von Montenegro</note>
+               <note type="comment">Ögg teilt 360/48 Ferdinand von Bulgarien zu</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

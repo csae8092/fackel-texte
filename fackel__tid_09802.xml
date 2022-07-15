@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_09802.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09801.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09803.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Warum, in: Fackel Heft 26, Nr. 649, 1924, S. 120-121</title>
+            <title type="iso-date">1924-06-01</title>
+            <title type="id">tid_09802</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">26</title><title type="heft">649</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-26-649_n0120.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/649,120</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Warum</head>
+            <p ana="pr132830">
+in Wien, das ohnedies die <seg type="insult">Stadt der Lieder</seg> ist, ein <seg type="ELIDASH">Theaterfest</seg><lb/>
+und Musikfest stattfinden muß? Darum:<lb/>
+</p>
+            <p ana="pr132832">
+<space/>Bundespräsident <rs type="pers" ana="n_81204" ref="#fk__p_41542"><abbr>Dr.</abbr> <seg type="spc">Hainisch</seg></rs> sagte, daß die relativ günstige<lb/>
+Stimmung des Auslandes gegenüber Österreich nicht zuletzt auch auf<lb/>
+die Wiener Musik zurückzuführen sei. <rs type="pers" ana="n_81205" ref="#fk__p_38713"><seg type="spc">Marchesa Torretta</seg></rs>, die<lb/>
+<seg type="spc">selbst</seg> eine hervorragende Sängerin ist, habe ihm, als sie Wien<lb/>
+verließ, gesagt: ein Land, wo die Musik <seg type="spc">so im Volk wurzle</seg><lb/>
+wie in Wien, gebe es in der ganzen Welt nicht wieder. Nun ist eines<lb/>
+</p>
+            <p ana="pr132832">
+gewiß: <seg type="spc">Die beste Begabung nützt nichts</seg>, wenn sie nicht<lb/>
+<seg type="spc">entsprechend geschult wird</seg>. Es ist <seg type="spc">daher</seg> sehr zu begrüßen,<lb/>
+daß die Stadt Wien solche Meisteraufführungen der Wiener Musik veranstaltet<lb/>
+, und dafür gebührt ihr der herzlichste Dank. (Lebhafter Beifall.)<lb/>
+</p>
+            <p ana="pr132834">
+<space/>Also die musikalische Begabung des Volkes, die an 350 Tagen<lb/>
+im Jahr brach liegt, weil es da keine Oper, keine Operette, kein<lb/>
+Konzert, keine Heurigenmusik gibt, wird durch das Fest der<lb/>
+übrigen Tage bei entsprechenden Preisen und speziell durch<lb/>
+<rs type="pers" ana="n_81206" ref="#fk__p_49349">Beethovens</rs> »<rs type="title">Ruinen von Athen</rs>« geschult werden. Da wird die<lb/>
+<rs type="pers" ana="n_81207" ref="#fk__p_38713">Marchesa Torretta</rs> eine Freud haben!<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_49349">
+               <persName>Beethoven, Ludwig van</persName>
+               <birth>
+                  <date>1770-12-17</date>
+                  <place>Bonn</place>
+               </birth>
+               <death>
+                  <date>1827-3-26</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Komponist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10866</idno></person>
+            <person xml:id="fk__p_38713">
+               <persName>Barbi, Alice</persName>
+               <birth>
+                  <date>1862-6-1</date>
+                  <place>Modena</place>
+               </birth>
+               <death>
+                  <date>1948-9-4</date>
+                  <place>Rom</place>
+               </death>
+               <occupation>Sängerin</occupation>
+               <note type="comment">seit 26.4.1920 (London) verh. mit Pietro Tomasi Marchese Della Torretta (7.4.1873-4.12.1962)</note>
+               <note type="comment">in 1. Ehe verh. mit dem balt. Baron Wolff Stomersee, 2 Töchter Alessandra und Olga</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/3031</idno></person>
+            <person xml:id="fk__p_41542">
+               <persName>Hainisch, Michael</persName>
+               <birth>
+                  <date>1858-08-15</date>
+                  <place>Aue/Schottwien, NÖ</place>
+               </birth>
+               <death>
+                  <date>1940-02-26</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <note type="comment">Zuchtkuh Bella errang Rekorde</note>
+               <note type="comment">Ögg gibt die Stelle 735/63 irrt. Hindenburg</note>
+               <note type="comment">Gedicht "Mein Heimatland" in der Vertonung von Viktor Keldorfer</note>
+               <note type="comment">1920-28 Bundespräsident</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/7662</idno></person>
+            </listPerson></back></text>
+</TEI>

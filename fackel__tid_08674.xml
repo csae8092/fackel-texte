@@ -1,0 +1,107 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_08674.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08673.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08675.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ebenda, 28. Dezember, ½3 Uhr:, in: Fackel Heft 21, Nr. 521, 1920, S. 98-98</title>
+            <title type="iso-date">1920-02-01</title>
+            <title type="id">tid_08674</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">21</title><title type="heft">521</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-21-521_n0098.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/521,098</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ebenda, 28. Dezember, ½3 Uhr:</head>
+            <p ana="pr114271">
+<space/>Ebenda, <date>28. Dezember</date>, ½3 Uhr:<lb/>
+</p>
+            <p ana="pr114272">
+<space/>I. <rs type="pers" ana="n_70633" ref="#fk__p_43227"><seg type="spc">Raimund</seg></rs>: <rs type="title"><seg type="spc">Das Mädchen aus der Feenwelt oder<lb/>
+Der Bauer als Millionär</seg></rs> II 4 bis (teilweise) 8: <rs type="pers">Fortunatus<lb/>
+Wurzel</rs>, <rs type="pers"><seg type="insult">Musensohn</seg></rs>, <rs type="pers"><seg type="insult">Afterling</seg></rs>, <rs type="pers"><seg type="insult">Schmeichelfeld</seg></rs>, <rs type="pers">Habakuk</rs>, <rs type="pers">Lorenz</rs>, <rs type="pers">Die<lb/>
+Jugend</rs>, <rs type="pers">Das Alter</rs> (Musik von <rs type="pers" ana="n_70634" ref="#fk__p_47066">Josef Drechsler</rs><FOOTNOTE0_START/>*); <rs type="title">Aschenlied</rs> (III aus 8,<lb/>
+<rs type="pers" ana="n_70635" ref="#fk__p_47066">Josef Drechsler</rs>); Lied des <rs type="pers">Valentin</rs> (aus dem »<rs type="title">Verschwender</rs>« III 10,<lb/>
+<rs type="pers" ana="n_70636" ref="#fk__p_48108">Konradin Kreutzer</rs>) / <rs type="title"><seg type="spc">Worte in Versen</seg></rs>: <rs type="title">Jugend</rs>; <rs type="title">Unter dem<lb/>
+Wasserfall</rs>.<lb/>
+</p>
+            <p ana="pr114273">
+<space/>II. <rs type="pers" ana="n_70637" ref="#fk__p_44354">Gerhart <seg type="spc">Hauptmann</seg></rs>: <rs type="title"><seg type="spc"><rs type="pers">Hannele Matterns</rs> Himmelfahrt<lb/>
+</seg></rs>. Begleitung: <rs type="pers" ana="n_70638" ref="#fk__p_54913"><abbr>Dr.</abbr> Viktor Junk</rs>.<lb/>
+</p>
+            <p ana="pr114274">
+<space/>Der volle Ertrag für den <rs type="inst">Arbeiterverein »Kinderfreunde«</rs>, das<lb/>
+»<rs type="inst">Haus des Kindes</rs>« und den <rs type="inst">Verein »Kriegspatenschaft«</rs>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_44354">
+               <persName>Hauptmann, Gerhart</persName>
+               <birth>
+                  <date>1862-11-15</date>
+                  <place>Salzbrunn, Schlesien</place>
+               </birth>
+               <death>
+                  <date>1946-6-6</date>
+                  <place>Agnetendorf</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Ögg teilt die indirekte Stelle 521/64 zu, irrtümlich</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11617</idno></person>
+            <person xml:id="fk__p_48108">
+               <persName>Kreutzer, Konradin</persName>
+               <birth>
+                  <date>1780-11-22</date>
+                  <place>Meßkirch/Baden</place>
+               </birth>
+               <death>
+                  <date>1849-12-14</date>
+                  <place>Riga</place>
+               </death>
+               <occupation>Komponist</occupation>
+            </person>
+            <person xml:id="fk__p_54913">
+               <persName>Junk, Viktor</persName>
+               <birth>
+                  <date>1875-4-18</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1948-4-5</date>
+                  <place>Frohnleiten/Steiermark</place>
+               </death>
+               <occupation>Germanist</occupation>
+               <occupation>Musikwissenschaftler</occupation>
+            </person>
+            <person xml:id="fk__p_47066">
+               <persName>Drechsler, Josef</persName>
+               <birth>
+                  <date>1782-05-26</date>
+                  <place>Wällisch-Birken/Prachatitz</place>
+               </birth>
+               <death>
+                  <date>1852-07-27</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Komponist</occupation>
+            </person>
+            <person xml:id="fk__p_43227">
+               <persName>Raimund, Ferdinand</persName>
+               <birth>
+                  <date>1790-6-1</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1836-9-5</date>
+                  <place>Pottenstein, Niederösterreich</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Ögg teilt die Valentin-Stelle 254/4 Nestroy zu</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12468</idno></person>
+            </listPerson></back></text>
+</TEI>

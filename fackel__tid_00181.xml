@@ -1,0 +1,114 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00181.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00180.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00182.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Sprachrohrbenützer.), in: Fackel Heft 01, Nr. 009, 1899, S. 17-18</title>
+            <title type="iso-date">1899-06-01</title>
+            <title type="id">tid_00181</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">009</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-009_n0017.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/009,017</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Sprachrohrbenützer.)</head>
+            <p ana="pr1892">
+<space/><seg type="insult"><seg type="spc">Sprachrohrbenützer</seg></seg>. Von namhaften Juristen<lb/>
+und Nationalökonomen, fachkundigen Volksmännern<lb/>
+<abbr>u. dgl.</abbr> haben in den letzten Wochen der ‚<rs type="paper" ana="werk_484">Neuen Freien<lb/>
+Presse</rs><choice><sic>’</sic><corr>‘</corr></choice> ihr Wissen und Ansehen geliehen oder ihre<lb/>
+reinen Absichten in den <seg type="insult">Dienst des »<rs type="paperRef" ana="werk_485">Economisten</rs>«</seg><lb/>
+gestellt: <seg type="spc"><rs type="pers" ana="n_1375" ref="#fk__p_48926">Lexis</rs></seg> (Göttingen), <seg type="spc"><rs type="pers" ana="n_1376" ref="#fk__p_41609">Lecher</rs></seg> (Brünn), <seg type="spc"><rs type="pers" ana="n_1377" ref="#fk__p_54103">Tezner</rs></seg><lb/>
+(Wien), <seg type="spc"><rs type="pers" ana="n_1378" ref="#fk__p_48199">Krall</rs></seg> (Wien), <seg type="spc"><rs type="pers" ana="n_1379" ref="#fk__p_57064">Liszt</rs></seg> (Halle) — bewilligter<lb/>
+Nachdruck —, <seg type="spc"><rs type="pers" ana="n_1380" ref="#fk__p_56015">Brentano</rs></seg> (München) <seg type="symbol" subtype="3dots"/> Ich habe den<lb/>
+Herren je ein Exemplar der <rs type="selfRef" ana="werk_41121"><abbr>Nr.</abbr> 5</rs> dieses <rs type="selfRef" ana="werk_487">Blattes</rs> (»Warnung<lb/>
+«) zuschicken lassen.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_48926">
+               <persName>Lexis, Wilhelm</persName>
+               <birth>
+                  <date>1837-07-17</date>
+                  <place>Eschweiler/Aachen</place>
+               </birth>
+               <death>
+                  <date>1914-08-24</date>
+                  <place>Göttingen</place>
+               </death>
+               <occupation>Nationalökonom</occupation>
+            </person>
+            <person xml:id="fk__p_41609">
+               <persName>Lecher, Otto</persName>
+               <birth>
+                  <date>1860-01-06</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1939-01-20</date>
+                  <place>Brünn</place>
+               </death>
+               <occupation>Jurist</occupation>
+               <occupation>Politiker</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/4900</idno></person>
+            <person xml:id="fk__p_48199">
+               <persName>Krall von Krallenberg, Karl Ritter</persName>
+               <birth>
+                  <date>1829-3-22</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1907-03-30</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Jurist</occupation>
+               <occupation>Politiker</occupation>
+               <note type="comment">Hietzinger Friedhof Gr. 9/139; 1970 aufgelassen</note>
+               <note type="comment">19.6.1895-30.9.1895 Justizminister</note>
+            </person>
+            <person xml:id="fk__p_57064">
+               <persName>Liszt, Franz von</persName>
+               <birth>
+                  <date>1851-3-2</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1919-6-21</date>
+                  <place>Seeheim/Bergstraße</place>
+               </death>
+               <occupation>Jurist</occupation>
+               <occupation>Strafrechtslehrer</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12092</idno></person>
+            <person xml:id="fk__p_56015">
+               <persName>Brentano, Franz</persName>
+               <birth>
+                  <date>1838-01-16</date>
+                  <place>Marienberg/Boppard</place>
+               </birth>
+               <death>
+                  <date>1917-03-17</date>
+                  <place>Zürich</place>
+               </death>
+               <occupation>Nationalökonom</occupation>
+               <occupation>Philosoph</occupation>
+            </person>
+            <person xml:id="fk__p_54103">
+               <persName>Tezner, Friedrich</persName>
+               <birth>
+                  <date>1856-6-11</date>
+                  <place>Beraun, Böhmen</place>
+               </birth>
+               <death>
+                  <date>1925-6-13</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Jurist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10198</idno></person>
+            </listPerson></back></text>
+</TEI>

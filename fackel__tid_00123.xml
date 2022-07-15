@@ -1,0 +1,117 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00123.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00122.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00124.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Johann Strauß.), in: Fackel Heft 01, Nr. 007, 1899, S. 1-2</title>
+            <title type="iso-date">1899-06-01</title>
+            <title type="id">tid_00123</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">007</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-007_n0001.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/007,001</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Johann Strauß.)</head>
+            <p ana="pr1413">
+<space/><inciptit>Der</inciptit> »größte Wiener« ist vor einigen Tagen zugrabe<lb/>
+ getragen worden und anstatt der Wiener gab ihm<lb/>
+eine <seg type="insult">Gesellschaft von Premièrenbesuchern</seg> das letzte<lb/>
+Geleite <seg type="symbol" subtype="3dots"/> Auf einem Zeitungsinserat war neulich der<lb/>
+<rs type="pers">Stefansthurm</rs> zu sehen, von dessen Höhe ein <seg type="insult">speculativer<lb/>
+ Schuhwarenhändler</seg> seine Ware der Wiener<lb/>
+Menschheit feilbietet. In seiner einfachen Symbolik hat<lb/>
+dies Annoncenbild das Schicksal aller Volksthümlichkeit<lb/>
+schmerzlich ahnen lassen. Lange vorher war das andere<lb/>
+Wahrzeichen Wiens, <rs type="pers" ana="n_976" ref="#fk__p_46949"><seg type="spc">Johann Strauß</seg></rs>, entwertet. Im Takte<lb/>
+seiner »<rs type="title">Schönen blauen Donau</rs>« begann sich eines Tages<lb/>
+eine <seg type="insult">Gesellschaft von Jobbern und Reportern</seg> zu wiegen;<lb/>
+ein <seg type="insult">Ring von Tarokspielern und Theateragenten</seg> hielt seitdem<lb/>
+ fast mit physischer Gewalt die Schöpferkraft des<lb/>
+Genius umschlossen. Damals starb <rs type="pers" ana="n_977" ref="#fk__p_46949">Johann Strauß</rs>, heiratete<lb/>
+ und ward <seg type="insult">Ehrenmitglied der »<rs type="inst">Concordia</rs>«</seg>. An<lb/>
+dem Tage, da <seg type="insult">das geistige Wien</seg> sich den <seg type="insult">Zwischenträgern<lb/>
+ der Cultur</seg> zu eigen gab, da der naivste und<lb/>
+echteste Schöpfer auf die <seg type="insult">Bahn hastigen Tantièmenerwerbs<lb/>
+</seg> geführt ward, hat die Tragödie <rs type="pers" ana="n_978" ref="#fk__p_46949">Johann Strauß’</rs><lb/>
+ihren Anfang genommen. In einem Zeitraum von zwanzig<lb/>
+Jahren, in welchem die Erhaltung aller künstlerischen<lb/>
+Ursprünglichkeit dem Volke so nothwendig gewesen<lb/>
+wäre, wurde der musikalische Inbegriff des Wienerthums<lb/>
+</p>
+            <p ana="pr1413">
+ <seg type="insult">zum Gebrauche der <rs type="inst">Börsensalons</rs></seg> hergerichtet.<lb/>
+Heute betrauert <seg type="insult">Herr <rs type="pers" ana="n_979" ref="#fk__p_47236">Julius Bauer</rs></seg> den Verlust eines<lb/>
+Tarokpartners, <seg type="insult">Herr <rs type="pers" ana="n_980" ref="#fk__p_39122">Bernhard Buchbinder</rs></seg> tröstet sich<lb/>
+mit dem Ausrufe: »Er war unser!« und <seg type="insult">Herr <rs type="pers" ana="n_981" ref="#fk__p_53254">Siegfried<lb/>
+Löwy</rs></seg> stellt sich mit <seg type="insult">einem sinnigen Kranz</seg> ein, auf<lb/>
+dessen Schleifen er und die <RS pers="Antonie Löwy-Hartmann" globID="rs_12">Gattin</RS> einen »letzten Gruß<lb/>
+von den Donaunixen« entbieten <seg type="symbol" subtype="4dots"/><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46949">
+               <persName>Strauß, Johann jun.</persName>
+               <birth>
+                  <date>1825-10-25</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1899-6-3</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Komponist</occupation>
+               <occupation>Dirigent</occupation>
+               <note type="comment">261/15 zweifelhaft</note>
+               <note type="comment">368/22 Johann Strauß-Theater, 4., Favoritenstr. 8, ab 1931 Scala</note>
+            </person>
+            <person xml:id="fk__p_39122">
+               <persName>Buchbinder, Bernhard</persName>
+               <birth>
+                  <date>1849-7-7</date>
+                  <place>Budapest</place>
+               </birth>
+               <death>
+                  <date>1922-6-24</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/6487</idno></person>
+            <person xml:id="fk__p_53254">
+               <persName>Loewy, Siegfried</persName>
+               <birth>
+                  <date>1857-11-1</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1931-5-8</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Namenskorrektur!</note>
+               <note type="comment">ÖBL</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12101</idno></person>
+            <person xml:id="fk__p_47236">
+               <persName>Bauer, Julius</persName>
+               <birth>
+                  <date>1853-10-15</date>
+                  <place>Raab-Szigeth</place>
+               </birth>
+               <death>
+                  <date>1941-6-11</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Kritiker</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2150</idno></person>
+            </listPerson></back></text>
+</TEI>

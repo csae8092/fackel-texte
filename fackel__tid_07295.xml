@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07295.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07294.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07296.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Die ewige Wiederkunft, in: Fackel Heft 18, Nr. 431, 1916, S. 42-43</title>
+            <title type="iso-date">1916-08-01</title>
+            <title type="id">tid_07295</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">18</title><title type="heft">431</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-18-431_n0042.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/431,042</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Die ewige Wiederkunft</head>
+            <p ana="pr98615">
+aber könnte von <seg type="insult">dieser umwertenden Welt</seg>, vor der gestorben zu<lb/>
+sein weit größere Ehre ist als für sie gestorben zu sein, höchstens<lb/>
+so erlebt werden:<lb/>
+</p>
+            <p ana="pr98617">
+<space/>Im <rs type="inst">Lustspieltheater</rs> wurde dieser Tage die Operette »<RS pers="Robert Stolz"><rs type="title" ana="name_202011" ref="#fk__p_52371">Mädel,<lb/>
+küsse mich!</rs></RS>« zum fünfundsiebzigstenmal gegeben <seg type="symbol" subtype="4dots"/> Die Zugkraft<lb/>
+der Operette »<RS pers="Emmerich Kálmán"><rs type="title" ana="name_202004" ref="#fk__p_47437">Die Csardasfürstin</rs></RS>« im <rs type="inst"><rs type="pers" ana="n2_5732">Johann Strauß-Theater</rs></rs> erwies sich<lb/>
+auch kürzlich bei ihrer zweihundertfünfundzwanzigsten Wiederholung <seg type="symbol" subtype="4dots"/><lb/>
+In der <rs type="inst">Residenzbühne</rs> hat »<RS pers="Richard Keßller"><RS pers="Heinrich Stobitzer" globID="name_202009"><rs type="title" ana="name_202010" ref="#fk__p_60417">Der Regimentspapa</rs></RS></RS>« die fünfzigste Aufführung<lb/>
+ hinter sich <seg type="symbol" subtype="4dots"/><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_52371">
+               <persName>Stolz, Robert</persName>
+               <birth>
+                  <date>1880-8-25</date>
+                  <place>Graz</place>
+               </birth>
+               <death>
+                  <date>1975-6-27</date>
+                  <place>Berlin</place>
+               </death>
+               <occupation>Komponist</occupation>
+               <occupation>Dirigent</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10055</idno></person>
+            <person xml:id="fk__p_60417">
+               <persName>Keßler, Richard</persName>
+               <birth>
+                  <date>1875-7-6</date>
+                  <place>Berlin</place>
+               </birth>
+               <death>
+                  <date>1960-1-2</date>
+                  <place>Berlin</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">"Der Regimentspapa", Schwank von Richard Keßler und Heinrich Stobitzer</note>
+            </person>
+            <person xml:id="fk__p_47437">
+               <persName>Kálmán, Emmerich</persName>
+               <birth>
+                  <date>1882-10-24</date>
+                  <place>Siófok am Plattensee</place>
+               </birth>
+               <death>
+                  <date>1953-10-30</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Komponist</occupation>
+               <note type="comment">mehrere Nennungen durch Titel: 418/102; 431/42; 445/64; 454/58</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12015</idno></person>
+            </listPerson></back></text>
+</TEI>

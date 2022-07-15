@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00451.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00450.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00452.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Sonntagsnummer der ‚Neuen Freien Presse‘), in: Fackel Heft 01, Nr. 018, 1899, S. 30-31</title>
+            <title type="iso-date">1899-09-01</title>
+            <title type="id">tid_00451</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">018</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-018_n0030.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/018,030</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Sonntagsnummer der ‚Neuen Freien Presse‘)</head>
+            <p ana="pr4137">
+<space/>In der letzten Sonntagsnummer der ‚<rs type="paper" ana="werk_1078">Neuen Freien Presse</rs>‘<lb/>
+beträgt <seg type="insult">die »<rs type="paperRef" ana="werk_1079">kleine Chronik</rs>«</seg> 2 ¼ Spalten. Davon sind nicht weniger<lb/>
+als 1 ¾ Spalten aus bezahlten Geschäftsreclamen zusammengesetzt;<lb/>
+die <seg type="insult">»<rs type="paperRef" ana="werk_1080">Personalnachrichten</rs>«</seg> sind hiebei nicht mitgerechnet. <rs type="inst"><rs type="pers" ana="n2_224" ref="#fk__p_52508">Rothberger</rs></rs>,<lb/>
+<rs type="inst"><rs type="pers" ana="n2_225" ref="#fk__p_58420">Kwizda</rs></rs>, <rs type="inst"><rs type="pers" ana="n2_226" ref="#fk__p_37607">Schein</rs></rs>, <rs type="inst"><rs type="pers" ana="n2_227" key="#fk__p_57901">Fischl</rs></rs>, <rs type="inst"><rs type="pers" ana="n2_228" key="#fk__p_57910">Förstl</rs></rs> und das <rs type="inst"><rs type="pers" ana="n2_229" key="#fk__p_59748">Zander-Institut</rs></rs> besorgen die<lb/>
+</p>
+            <p ana="pr4137">
+Sonntagslectüre. Eine einzige interessante Notiz »Von der Türkenbelagerung<lb/>
+ bis zum Kriege <date>1870</date>« sticht hervor; in der Nähe besehen,<lb/>
+ist es aber eine Anpreisung einer Kaffeefirma <seg type="symbol" subtype="3dots"/><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_37607">
+               <persName>Schein, Samuel</persName>
+               <birth>
+                  <date>1853?</date>
+               </birth>
+               <death>
+                  <date>1937-5-24</date>
+               </death>
+               <occupation>Kaufmann</occupation>
+               <note type="comment">1., Bauernmarkt 12</note>
+               <note type="comment">Teppichhändler</note>
+            </person>
+            <person xml:id="fk__p_58420">
+               <persName>Kwizda (Drogeriewaren)</persName>
+            </person>
+            <person xml:id="fk__p_52508">
+               <persName>Rothberger (Bekleidungshaus)</persName>
+               <note type="comment">Stefansplatz</note>
+               <note type="comment">Moriz (1865-1944), Heinrich (1868-1953), Alfred (?-?)</note>
+               <note type="comment">NFP 1.10.1899 Jacob Rothberger</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

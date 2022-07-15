@@ -1,0 +1,45 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_08169.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08168.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08170.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Gut getroffen, in: Fackel Heft 20, Nr. 474, 1918, S. 34-35</title>
+            <title type="iso-date">1918-05-01</title>
+            <title type="id">tid_08169</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">20</title><title type="heft">474</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-20-474_n0034.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/474,034</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Gut getroffen</head>
+            <p ana="pr108354">
+<seg type="spc">Selbstbildnis</seg>.<lb/>
+</p>
+            <p ana="pr108355">
+Zeichnung von Leutnant <rs type="pers" ana="n_68289" ref="#fk__p_43035"><abbr>F. F.</abbr> Brockmüller</rs>, Westfront.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_43035">
+               <persName>Brockmüller, Friedrich Franz</persName>
+               <birth>
+                  <date>1880-9-26</date>
+                  <place>Schwerin</place>
+               </birth>
+               <death>
+                  <date>1958-11-11</date>
+                  <place>Berlin-Charlottenburg</place>
+               </death>
+               <occupation>Zeichner</occupation>
+               <occupation>Zeichenlehrer</occupation>
+               <occupation>Bildhauer</occupation>
+               <note type="comment">Leutnant</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

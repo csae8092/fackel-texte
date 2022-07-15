@@ -1,0 +1,48 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02124.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02123.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02125.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Wörtliche Uebersetzung?, in: Fackel Heft 03, Nr. 089, 1901, S. 28-29</title>
+            <title type="iso-date">1901-12-24</title>
+            <title type="id">tid_02124</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">03</title><title type="heft">089</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-03-089_n0028.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/089,028</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Wörtliche Uebersetzung?</head>
+            <p ana="pr20760">
+<space/>»<inciptit>Im</inciptit> <rs type="inst">Theater in der Josephstadt</rs> ist als nächste Novität <seg type="insult">‚<rs type="title"><seg type="spc">Der<lb/>
+Bankdirector</seg></rs>‘ (<foreign xml:lang="fr">‚<rs type="title"><seg type="spc">La bourse ou la vie</seg>!</rs>‘</foreign>)</seg> von <rs type="pers" ana="n_17901" ref="#fk__p_37968">Alexander<lb/>
+Bisson</rs> in Aussicht genommen.«<lb/>
+</p>
+            <p ana="pr20762">
+<space/>So melden die Zeitungen. Die Direction aber wird hoffentlich<lb/>
+ bald die beruhigende Erklärung abgeben, dass in dem Doppeltitel<lb/>
+ nicht die <seg type="spc">Uebersetzung</seg> des <seg type="insult"><foreign xml:lang="fr">»<rs type="title">la bourse ou la vie!</rs>«</foreign></seg> in<lb/>
+<seg type="insult">»<rs type="title">Bankdirector</rs>«</seg> beabsichtigt sein sollte.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_37968">
+               <persName>Bisson, Alexander</persName>
+               <birth>
+                  <date>1848-4-9</date>
+                  <place>Briouze (Orne)</place>
+               </birth>
+               <death>
+                  <date>1912-1-27</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Musikwissenschaftler</occupation>
+               <occupation>Schriftsteller</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

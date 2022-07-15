@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06629.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06628.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06630.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Eingriff in das eigene Familienleben, in: Fackel Heft 15, Nr. 395, 1914, S. 12-12</title>
+            <title type="iso-date">1914-01-01</title>
+            <title type="id">tid_06629</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">15</title><title type="heft">395</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-15-395_n0012.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/395,012</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Eingriff in das eigene Familienleben</head>
+            <p ana="pr89729">
+<space/>Ja was macht denn <seg type="insult">der <foreign xml:lang="de-loc">Pamperletsch</foreign> vom <rs type="pers" ana="n_61336" ref="#fk__p_48758">Slezak</rs></seg>? Es wäre<lb/>
+sehr interessant, wenn die <rs type="perRef" ana="werk_20065">Zeitung</rs> es herausbrächte; aber das hat<lb/>
+sie gar nicht nötig, er erzählt es ihr schon von selbst:<lb/>
+</p>
+            <p ana="pr89731">
+<space/><seg type="symbol" subtype="4dots"/> Meine Frau und ich hatten nämlich Sehnsucht nach unseren<lb/>
+Kindern, und es war uns heuer der Aufenthalt ohne unsere Kinder in<lb/>
+Amerika wahrhaftig eine Qual. Wir waren zum erstenmal gezwungen,<lb/>
+unsere Kinder in Wien zu lassen, da mein Töchterchen kurz vor unserer<lb/>
+Abreise an Blinddarmentzündung operiert worden war und Hofrat <rs type="pers" ana="n_61337" ref="#fk__p_41030">Eiselsberg<lb/>
+</rs> dem Kind die Seereise noch nicht gestattete<seg type="symbol" subtype="4dots"/><lb/>
+</p>
+            <p ana="pr89733">
+<space/>Ja wer kommt denn da zurück aus Amerika? Ja was hat denn<lb/>
+den <SPAN norm="Kammersänger"><seg type="insult">Tammersänger</seg></SPAN> bewogen, die <SPAN norm="Konzerte"><seg type="insult">Tonzerte</seg></SPAN> abzusagen und nach dem<lb/>
+Zusammenbruch der <rs type="inst"><SPN norm="Canadian National Opera Company"><seg type="insult">Tanadian National Opera Tompany</seg></SPN></rs> abzureisen?<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_48758">
+               <persName>Slezak, Leo</persName>
+               <birth>
+                  <date>1873-8-18</date>
+                  <place>Mährisch-Schönberg</place>
+               </birth>
+               <death>
+                  <date>1946-6-1</date>
+                  <place>Rottach-Egern</place>
+               </death>
+               <occupation>Sänger</occupation>
+               <occupation>Schauspieler</occupation>
+               <note type="comment">Tenor</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12800</idno></person>
+            <person xml:id="fk__p_41030">
+               <persName>Eiselsberg, Anton Freiherr von</persName>
+               <birth>
+                  <date>1860-7-31</date>
+                  <place>Steinhaus, Oberösterr.</place>
+               </birth>
+               <death>
+                  <date>1939-10-25</date>
+                  <place>St. Valentin</place>
+               </death>
+               <occupation>Chirurg</occupation>
+               <note type="comment">1901 Prof. Univ. Wien</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_14676</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/6964</idno></person>
+            </listPerson></back></text>
+</TEI>

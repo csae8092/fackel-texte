@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03019.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03018.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03020.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Historiker. (Die Lamezan-Nachrufe), in: Fackel Heft 04, Nr. 133, 1903, S. 25-25</title>
+            <title type="iso-date">1903-03-26</title>
+            <title type="id">tid_03019</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">04</title><title type="heft">133</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-04-133_n0025.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/133,025</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Historiker. (Die Lamezan-Nachrufe)</head>
+            <p ana="pr29752">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="n_25762" ref="#fk__p_46138">Historiker</rs>.</seg></seg></seg> Aus <seg type="insult">Nekrologen der liberalen Presse</seg>: » <seg type="symbol" subtype="3dots"/> So wird<lb/>
+erzählt, daß er während eines Sensationsprocesses mit der ‚<rs type="pers" ana="n_25763" ref="#fk__p_43257">Fiaker-Milli</rs>‘,<lb/>
+<seg type="insult">einer sehr bekannten Turfdame</seg>, Arm in Arm im Schwurgerichtssaale<lb/>
+erschien. Bekannt ist auch, daß <rs type="pers" ana="n_25764" ref="#fk__p_42310">Graf Lamezan</rs> nach dem <rs type="inst">Ringtheaterprocess<lb/>
+</rs> den ihm befreundeten Theaterdirector <rs type="pers" ana="n_25765" ref="#fk__p_43509">Franz Jauner</rs> persönlich<lb/>
+in den Kerker geleitete. <rs type="pers" ana="n_25766" ref="#fk__p_42310">Graf Lamezan</rs> scheute sich auch nicht, <rs type="pers" ana="n_25767" ref="#fk__p_43509">Jauner</rs><lb/>
+im Kerker wiederholt Besuche abzustatten. Ob er mit ihm auch, wie vielfach<lb/>
+ erzählt wird, dort Strohmandl gespielt hat, ist nicht verbürgt.«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_43509">
+               <persName>Jauner, Franz Ritter von</persName>
+               <birth>
+                  <date>1831-11-14</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1900-2-23</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <occupation>Theaterleiter</occupation>
+            </person>
+            <person xml:id="fk__p_43257">
+               <persName>Turecek, Emilie</persName>
+               <birth>
+                  <date>1846-6-30</date>
+                  <place>Chotibor/Böhmen</place>
+               </birth>
+               <death>
+                  <date>1889-5-13</date>
+                  <place>Dornbach</place>
+               </death>
+               <occupation>Volksschauspielerin</occupation>
+               <note type="comment">"Fiaker-Milli"</note>
+               <note type="comment"/>
+            </person>
+            <person xml:id="fk__p_46138">
+               <persName>Historiker</persName>
+            </person>
+            <person xml:id="fk__p_42310">
+               <persName>Lamezan-Salins, Eduard Graf</persName>
+               <birth>
+                  <date>1835-08-28</date>
+                  <place>Lemberg</place>
+               </birth>
+               <death>
+                  <date>1903-03-15</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Jurist</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

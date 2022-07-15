@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_04535.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04534.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04536.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Herrn Regierungsrat Steger, den ein Fußübel,, in: Fackel Heft 09, Nr. 232, 1907, S. 25-26</title>
+            <title type="iso-date">1907-10-16</title>
+            <title type="id">tid_04535</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">09</title><title type="heft">232</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-09-232_n0025.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/232,025</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Herrn Regierungsrat Steger, den ein Fußübel,</head>
+            <p ana="pr50351">
+<space/><seg type="insult">Herrn Regierungsrat <rs type="pers" ana="n_40123" ref="#fk__p_41176">Steger</rs></seg>, den ein Fußübel,<lb/>
+das er sich bei der Besteigung des Ätna zuzog, weder<lb/>
+am Klavierspiel noch an der Abfassung eines Reise-Feuilletons<lb/>
+ gehindert hat, ist neuerdings ein Unglücksfall<lb/>
+ zugestoßen. Er hat die Expensen aus dem Prozeß<lb/>
+<rs type="pers" ana="n_40124" ref="#fk__p_54042">Taußig</rs>, die er sich von einer Depotsumme abziehen<lb/>
+zu können glaubte, vom Gericht nicht zuerkannt erhalten<lb/>
+. Um aber doch zu beweisen, daß er sich in<lb/>
+</p>
+            <p ana="pr50351">
+Noten auskenne, schrieb er ein <seg type="insult">Feuilleton über die<lb/>
+<rs type="pers" ana="n_40125" ref="#fk__p_52203">Strauß’sche »<rs type="title"><rs type="pers">Salome</rs></rs>«</rs></seg>, bei dessen Lektüre sich die<lb/>
+Fachleute wieder lebhaft an die Erscheinungen des<lb/>
+Ätna gemahnt fühlten.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_41176">
+               <persName>Steger, Heinrich</persName>
+               <birth>
+                  <date>1854-11-14</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1929-12-7</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Rechtsanwalt</occupation>
+               <occupation>Musikkritiker</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/25357</idno></person>
+            <person xml:id="fk__p_54042">
+               <persName>Taussig, Theodor Ritter von</persName>
+               <birth>
+                  <date>1849-7-22</date>
+                  <place>Prag</place>
+               </birth>
+               <death>
+                  <date>1909-11-24</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Bankier</occupation>
+               <occupation>Industrieller</occupation>
+               <note type="comment">Gouverneur der Boden-Credit-Anstalt</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_20650</idno></person>
+            <person xml:id="fk__p_52203">
+               <persName>Strauss, Richard</persName>
+               <birth>
+                  <date>1864-6-11</date>
+                  <place>München</place>
+               </birth>
+               <death>
+                  <date>1949-9-8</date>
+                  <place>Garmisch-Partenkirchen</place>
+               </death>
+               <occupation>Komponist</occupation>
+               <occupation>Dirigent</occupation>
+               <occupation>Theaterleiter</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12870</idno></person>
+            </listPerson></back></text>
+</TEI>

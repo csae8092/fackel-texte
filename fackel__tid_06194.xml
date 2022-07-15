@@ -1,0 +1,93 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06194.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06193.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06195.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Prag, im Palace-Saal, am 4. März:, in: Fackel Heft 15, Nr. 372, 1913, S. 31-31</title>
+            <title type="iso-date">1913-04-01</title>
+            <title type="id">tid_06194</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">15</title><title type="heft">372</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-15-372_n0031.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/372,031</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Prag, im Palace-Saal, am 4. März:</head>
+            <p ana="pr83527">
+<space/>Prag, im <rs type="inst">Palace-Saal</rs>, am <date>4. März</date>:<lb/>
+</p>
+            <p ana="pr83529">
+<space/>I. Aphorismen aus »<rs type="title">Nachts</rs>« / <rs type="title">Titanic</rs> / <rs type="title"><seg type="insult"><rs type="pers" ana="n2_5112" ref="#fk__p_43714">Conrad von Hötzendorf</rs></seg></rs>;<lb/>
+<rs type="title">Bitte, das ist mein Recht</rs>; <rs type="title"><seg type="insult">Ein Satz</seg></rs>; <rs type="title">Wenn <seg type="insult">Herr <rs type="pers" ana="n_58231" ref="#fk__p_49994">Harden</rs></seg> glaubt</rs> /<lb/>
+<rs type="title">Die neue Art des Schimpfens</rs>. II. <rs type="title"><seg type="insult">Herbstzeitlosen oder Heimkehr<lb/>
+der Sieger</seg></rs> (mit Vorwort). — <rs type="title"><seg type="insult">Hört, ihr Tauben!</seg></rs>; <rs type="title">Aufgewachsen bei</rs> /<lb/>
+<rs type="title"><seg type="insult">Weiße Frau und schwarzer Mann</seg></rs>.<lb/>
+</p>
+            <p ana="pr83531">
+<space/>‚<rs type="paper" ana="werk_19373">Prager Tagblatt</rs>‘, <date>5. März</date>: »<rs type="title"><rs type="pers" ana="n2_5113" ref="#fk__p_47565">Karl Kraus</rs> und <rs type="pers" ana="n2_5114" ref="#fk__p_37830">Adolf Loos</rs></rs>«.<lb/>
+(Ein Vortrag <rs type="pers" ana="n_58232" ref="#fk__p_37830">Loos</rs> hatte am <date>3.</date> stattgefunden.)<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_37830">
+               <persName>Loos, Adolf</persName>
+               <birth>
+                  <date>1870-12-10</date>
+                  <place>Brünn</place>
+               </birth>
+               <death>
+                  <date>1933-8-23</date>
+                  <place>Kalksburg, Niederösterreich</place>
+               </death>
+               <occupation>Architekt</occupation>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Liste "Theater der Dichtung"</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/3612</idno></person>
+            <person xml:id="fk__p_43714">
+               <persName>Conrad-Hötzendorf, Franz Graf </persName>
+               <birth>
+                  <date>1852-11-11</date>
+                  <place>Penzing bei Wien</place>
+               </birth>
+               <death>
+                  <date>1925-8-25</date>
+                  <place>Bad Mergentheim</place>
+               </death>
+               <occupation>Offizier</occupation>
+               <note type="comment">seit 1906 Chef des Generalstabs</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_14266</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11102</idno></person>
+            <person xml:id="fk__p_47565">
+               <persName>Kraus, Karl</persName>
+               <birth>
+                  <date>1874-4-28</date>
+                  <place>Jicin, Böhmen</place>
+               </birth>
+               <death>
+                  <date>1936-6-12</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Publizist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11988</idno></person>
+            <person xml:id="fk__p_49994">
+               <persName>Harden, Maximilian</persName>
+               <birth>
+                  <date>1861-10-20</date>
+                  <place>Berlin</place>
+               </birth>
+               <death>
+                  <date>1927-10-30</date>
+                  <place>Montana-Vermala, Schweiz</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Publizist</occupation>
+               <note type="comment">166/18 Johannes</note>
+               <note type="comment">Hrsg. der "Zukunft"</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11581</idno></person>
+            </listPerson></back></text>
+</TEI>

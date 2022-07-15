@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_09124.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09123.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09125.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Zu „Elegie auf den Tod eines Lautes“), in: Fackel Heft 23, Nr. 588, 1922, S. 72-72</title>
+            <title type="iso-date">1922-03-01</title>
+            <title type="id">tid_09124</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">23</title><title type="heft">588</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-23-588_n0072.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/588,072</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Zu „Elegie auf den Tod eines Lautes“)</head>
+            <p ana="pr121560">
+<space/>Aus Deutschland, wo die Leute ihren <seg type="insult">Nationalstolz</seg> dreinsetzen<lb/>
+, ihre Sprache zu dezimieren, ganz so wie Ungarn mit<lb/>
+der Verminderung seiner Einwohnerschaft prunkt, kommt die<lb/>
+Nachricht, daß <seg type="insult">der <rs type="inst">Allgemeine Deutsche Sprachverein</rs>, eine Art<lb/>
+sprachlicher Brachialtruppe unter der Führung eines Herrn<lb/>
+<rs type="pers" ana="n_74444" ref="#fk__p_41784"><abbr>Dr.</abbr> Sarrazin</rs></seg> — der es wohl wert ist, daß ihn bekämpft des<lb/>
+Christen Schwert — beschlossen hat, nunmehr noch die letzten<lb/>
+Dehnungs-h auszurotten, Vokale zu erwürgen und was<lb/>
+dergleichen Schandtaten des Wortterrors mehr sind. <seg type="insult">Der <rs type="pers" ana="n_74445" ref="#fk__p_50672">Horthy</rs><lb/>
+der Sprachgurgelabschneider, ein <rs type="pers" ana="n_74446" ref="#fk__p_50672">Horty</rs> ohne h</seg>, propagiert als<lb/>
+Kostprobe den <RS pers="Friedrich von Schiller"><rs type="pers" ana="name_202657" ref="#fk__p_43876">Tell-Monolog</rs></RS> in der neuen Fassung:<lb/>
+</p>
+            <lg>
+<l>Durch <SPAN norm="diese">dise</SPAN> <SPAN norm="hohle">hole</SPAN> gasse muß er kommen,</l>
+<l>es <SPAN norm="führt">fürt</SPAN> kein andrer weg nach Küßnacht <abbr>u. s. w.</abbr></l>
+</lg>
+            <p ana="pr121564">
+bis zu der Ur, die abgelaufen ist, was offenbar der deutschen<lb/>
+Sprache zugerufen wird. Man traut seinen Oren nicht. <seg type="insult">Das<lb/>
+letzte</seg>, was dem deutschen Volk geblieben ist, ist somit seine<lb/>
+<seg type="insult">Ere</seg>. Ich habe schon vor sieben Jahren diesen Teufel in meiner<lb/>
+»<rs type="title">Elegie auf den Tod eines Lautes</rs>« an die Wand gemalt. Was<lb/>
+damals Karikatur war, ist heute ein Bericht.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_41784">
+               <persName>Sarrazin, Otto</persName>
+               <birth>
+                  <date>1842-12-22</date>
+                  <place>Bocholt/West.</place>
+               </birth>
+               <death>
+                  <date>1921-06-08</date>
+                  <place>Berlin</place>
+               </death>
+               <occupation>Bautechniker</occupation>
+               <occupation>Sprachförderer</occupation>
+               <occupation>Kommunalpolitiker</occupation>
+            </person>
+            <person xml:id="fk__p_43876">
+               <persName>Schiller, Friedrich von</persName>
+               <birth>
+                  <date>1759-11-10</date>
+                  <place>Marbach am Neckar</place>
+               </birth>
+               <death>
+                  <date>1805-5-9</date>
+                  <place>Weimar</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Mortimer 363/9, 679/69, 912/7 und 912/58 ist von Ögg Shakespeare zugeordnet</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12654</idno></person>
+            <person xml:id="fk__p_50672">
+               <persName>Horthy de Nagybánya, Nikolaus </persName>
+               <birth>
+                  <date>1868-06-18</date>
+                  <place>Kenderes/Kom. Szolnok</place>
+               </birth>
+               <death>
+                  <date>1957-02-09</date>
+                  <place>Estoril/Lissabon</place>
+               </death>
+               <occupation>Admiral</occupation>
+               <occupation>Reichsverweser</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

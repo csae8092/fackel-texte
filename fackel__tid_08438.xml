@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_08438.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08437.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08439.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">7. Mai, 7 Uhr:, in: Fackel Heft 20, Nr. 484, 1918, S. 143-143</title>
+            <title type="iso-date">1918-10-01</title>
+            <title type="id">tid_08438</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">20</title><title type="heft">484</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-20-484_n0143.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/484,143</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>7. Mai, 7 Uhr:</head>
+            <p ana="pr111095">
+<space/><date>7. Mai</date>, 7 Uhr:<lb/>
+</p>
+            <p ana="pr111096">
+<space/>I. »<rs type="title"><seg type="spc"><rs type="pers">Timon</rs> von Athen</seg></rs>« von <rs type="pers" ana="n_69369" ref="#fk__p_55589"><seg type="spc">Shakespeare</seg></rs> (aus<lb/>
+den ersten drei Aufzügen).<lb/>
+</p>
+            <p ana="pr111097">
+<space/>II. <rs type="title"><seg type="insult"><rs type="pers">Diana-Kriegsschokolade</rs></seg></rs> / <rs type="title"><seg type="insult">Aus dem Reich der Schaffner</seg></rs> /<lb/>
+<rs type="title">Ein Bild</rs> / <rs type="title"><seg type="insult">Die <rs type="pers" ana="n2_6213" ref="#fk__p_38111">Schalek</rs> und der einfache Mann</seg></rs> / <seg type="spc">Epigramme</seg>:<lb/>
+<rs type="title"><seg type="insult">Der Bericht vom Tag</seg></rs>; <rs type="title">Die Werte</rs>; <rs type="title"><seg type="insult">Das Lebensmittel</seg></rs>; <rs type="title">So lesen<lb/>
+wir alle Tage</rs>; <rs type="title"><seg type="insult">Luxusdrucke</seg></rs>; <rs type="title"><seg type="insult">Die neue Generation</seg></rs> / <rs type="title">Kompetenz<lb/>
+vor der Sprache</rs> / <seg type="spc">Ein Kapitel aus <rs type="pers" ana="n_69370" ref="#fk__p_43426">Rabelais’</rs><lb/>
+<rs type="title"><rs type="pers">Gargantua</rs></rs></seg> (<rs type="title">Wie etliche von <rs type="pers">Pikrochollers</rs> Hauptleuten ihn<lb/>
+durch hitzige Ratschläge in Gefahr brachten</rs>.) / <rs type="title">Der Bauer, der<lb/>
+Hund und der Soldat</rs> / <rs type="title"><seg type="insult"><seg type="spc">Die Kriegsschreiber nach<lb/>
+dem Krieg</seg></seg></rs>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_55589">
+               <persName>Shakespeare, William</persName>
+               <birth>
+                  <date>1564-4-23?</date>
+                  <place>Stratford-upon-Avon</place>
+               </birth>
+               <death>
+                  <date>1616-4-23</date>
+                  <place>Stratford-upon-Avon</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2412</idno></person>
+            <person xml:id="fk__p_43426">
+               <persName>Rabelais, François</persName>
+               <birth>
+                  <date>1494?</date>
+                  <place>Chinon?/Indre-et-Loire</place>
+               </birth>
+               <death>
+                  <date>1553-4-9</date>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Philosoph</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/39268</idno></person>
+            <person xml:id="fk__p_38111">
+               <persName>Schalek, Alice</persName>
+               <birth>
+                  <date>1874-8-21</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1956-11-6</date>
+                  <place>New York</place>
+               </death>
+               <occupation>Journalistin</occupation>
+               <occupation>Schriftstellerin</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/9664</idno></person>
+            </listPerson></back></text>
+</TEI>

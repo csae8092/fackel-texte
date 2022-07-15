@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03559.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03558.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03560.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Literat. (Quellfrischer Humor), in: Fackel Heft 06, Nr. 159, 1904, S. 22-22</title>
+            <title type="iso-date">1904-04-12</title>
+            <title type="id">tid_03559</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">06</title><title type="heft">159</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-06-159_n0022.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/159,022</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Literat. (Quellfrischer Humor)</head>
+            <p ana="pr35392">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="n_30498" ref="#fk__p_49045">Literat</rs>.</seg></seg></seg> Ein <seg type="insult">Frühlingswind</seg> geht durch den <seg type="insult">deutsch-österreichischen<lb/>
+Dichterwald</seg>. Wir haben eine neue Zeitschrift ‚<rs type="magazine" ana="werk_13042">Der liebe Augustin</rs>‘! Man<lb/>
+kann ihren <seg type="insult">Humor</seg> nur mit einem Worte charakterisieren: Quellfrisch.<lb/>
+<seg type="insult"><rs type="pers" ana="n_30499" ref="#fk__p_43036"><abbr>F. F.</abbr> Masaidek</rs></seg> tut ja mit. Von seinen <seg type="insult">Bonmots</seg> sind zu erwähnen<lb/>
+: »Das Herrenhaus ist ein <seg type="insult">Museum für politische Mumien</seg>«.<lb/>
+»Die Russen haben die Japaner unterschätzt. Es geht ihnen so, wie es<lb/>
+im Jahre <date>1866</date> den Österreichern und anno <date>70</date> den Franzosen mit den<lb/>
+Preußen gieng«. »Der österreichische Kriegsminister ist immer willig,<lb/>
+wenn ein <rs type="pers" ana="n_30500" ref="#fk__p_54355">Ugron</rs> etwas von ihm will.« »Wenn man bedenkt, welche Kunstgenüsse<lb/>
+ gegenwärtig in den Wiener Theatern geboten werden, so wäre<lb/>
+eigentlich wenig Schade, wenn alle Theater geschlossen würden« <seg type="symbol" subtype="4dots"/><lb/>
+In der ‚<rs type="" ana="werk_13043">Deutschen Zeitung</rs>‘ fand er neulich ein gutes Wort: »Der <RS pers="Pius X." globID="name_202562">Papst</RS><lb/>
+hat den Erzbischof <rs type="pers" ana="n_30501" ref="#fk__p_54035">Kohn</rs> sehr freundlich empfangen. Wahrscheinlich<lb/>
+dachte er: ‚Wenn man einen hinauswirft, ist es genug. Wozu denn<lb/>
+Grobheiten auch noch?‘« Das Wort ist von <rs type="pers" ana="n_30502" ref="#fk__p_46919">Nestroy</rs>. Aber wenn man<lb/>
+einen zitiert, ist es genug; wozu denn Quellenangabe auch noch?<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_54355">
+               <persName>Ugron, Gábor von</persName>
+               <birth>
+                  <date>1847-4-15</date>
+                  <place>Szombathfalva</place>
+               </birth>
+               <death>
+                  <date>1911-1-23</date>
+                  <place>Budapest</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <note type="comment">1900, 1904 der österr. Kriegsminister ist immer willig, wenn ein Ugron etwas von ihm will</note>
+               <note type="comment"/>
+            </person>
+            <person xml:id="fk__p_54035">
+               <persName>Kohn, Theodor</persName>
+               <birth>
+                  <date>1845-03-22</date>
+                  <place>Březnitz/Mähren</place>
+               </birth>
+               <death>
+                  <date>1915-12-03</date>
+                  <place>Schloß Ehrenhausen/Leibnitz</place>
+               </death>
+               <occupation>Bischof</occupation>
+            </person>
+            <person xml:id="fk__p_49045">
+               <persName>Literat</persName>
+            </person>
+            <person xml:id="fk__p_43036">
+               <persName>Masaidek, Franz Friedrich</persName>
+               <birth>
+                  <date>1840-10-04</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1911-04-06</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+            </person>
+            <person xml:id="fk__p_46919">
+               <persName>Nestroy, Johann Nepomuk</persName>
+               <birth>
+                  <date>1801-12-7</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1862-5-25</date>
+                  <place>Graz</place>
+               </death>
+               <occupation>Sänger</occupation>
+               <occupation>Schauspieler</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12338</idno></person>
+            </listPerson></back></text>
+</TEI>

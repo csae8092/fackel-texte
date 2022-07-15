@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01278.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01277.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01279.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Kenner. (Herr Bahr in Hamburg), in: Fackel Heft 02, Nr. 054, 1900, S. 27-28</title>
+            <title type="iso-date">1900-09-01</title>
+            <title type="id">tid_01278</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">054</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-054_n0027.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/054,027</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Kenner. (Herr Bahr in Hamburg)</head>
+            <p ana="pr12255">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="n_10073" ref="#fk__p_47779">Kenner</rs>.</seg></seg></seg> <seg type="insult">Herr <rs type="pers" ana="n_10074" ref="#fk__p_45908">Bahr</rs></seg>, behaupten Sie, habe an dem Festessen,<lb/>
+das <rs type="pers" ana="n_10075" ref="#fk__p_38058">Baron Berger</rs> nach der Eröffnung des <rs type="inst">deutschen Schauspielhauses</rs><lb/>
+in Hamburg gab, als Gast theilgenommen und dann einen böswilligen,<lb/>
+mit <seg type="insult">schäbigen Ausfällen</seg> gegen den neuen Bühnenleiter gespickten Bericht<lb/>
+geschrieben. Das ist ein grundloser Vorwurf. <seg type="insult">Herr <rs type="pers" ana="n_10076" ref="#fk__p_45908">Bahr</rs></seg> war vorsichtig<lb/>
+ genug, das <seg type="spc">Essen</seg> zu loben. Seine Ansicht über <rs type="pers" ana="n_10077" ref="#fk__p_38058">Berger</rs>, in<lb/>
+dem er nun einmal den fähigeren und achtungswerteren Candidaten für<lb/>
+eine künftige <rs type="inst">Burgtheaterleitung</rs> sieht, konnte er beim besten Willen<lb/>
+und beim besten Appetit nicht ändern. Das hätte ihm auch <seg type="insult">Herr</seg><lb/>
+</p>
+            <p ana="pr12255">
+<seg type="insult"><rs type="pers" ana="n_10078" ref="#fk__p_49912">Burckhard</rs></seg>, der ihn mit <seg type="insult">gebundener Marschroute</seg> nach Hamburg geschickt<lb/>
+ hatte und der seinerseits in <rs type="pers" ana="n_10079" ref="#fk__p_38058">Baron Berger</rs> den verständnisvollen<lb/>
+Freund der <rs type="inst">Burgtheatertradition</rs> hasst, gründlich verübelt.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_38058">
+               <persName>Berger, Alfred Freiherr von</persName>
+               <birth>
+                  <date>1853-4-30</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1912-8-24</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Theaterleiter</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13624</idno></person>
+            <person xml:id="fk__p_47779">
+               <persName>Kenner</persName>
+            </person>
+            <person xml:id="fk__p_49912">
+               <persName>Burckhard, Max Eugen</persName>
+               <birth>
+                  <date>1854-7-14</date>
+                  <place>Korneuburg</place>
+               </birth>
+               <death>
+                  <date>1912-3-16</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Jurist</occupation>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Theaterleiter</occupation>
+               <note type="comment">Namenskorrektur!</note>
+               <note type="comment">12. 5. 1890 bis 25. 1. 1898 Burgth.</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11036</idno></person>
+            <person xml:id="fk__p_45908">
+               <persName>Bahr, Hermann</persName>
+               <birth>
+                  <date>1863-7-19</date>
+                  <place>Linz</place>
+               </birth>
+               <death>
+                  <date>1934-1-15</date>
+                  <place>München</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Kritiker</occupation>
+               <note type="comment">Ögg teilt auch 307/52, 445/49, 800/67 (Rotte Korah) Bahr zu</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10815</idno></person>
+            </listPerson></back></text>
+</TEI>

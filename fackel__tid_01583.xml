@@ -1,0 +1,120 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01583.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01582.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01584.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Der Patriot Hartel., in: Fackel Heft 02, Nr. 067, 1901, S. 17-17</title>
+            <title type="iso-date">1901-02-01</title>
+            <title type="id">tid_01583</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">067</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-067_n0017.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/067,017</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Der Patriot Hartel.</head>
+            <p ana="pr15669">
+<space/>Die berühmte Musikautographen-Sammlung <rs type="pers" ana="name_200446" ref="#fk__p_57218">Artaria</rs>,<lb/>
+die die kostbarsten Manuscripte <rs type="pers" ana="n_13036" ref="#fk__p_49349">Beethovens</rs> (<rs type="title"><foreign xml:lang="la">Missa<lb/>
+solemnis</foreign></rs>, <rs type="title">Neunte Symphonie</rs>), <rs type="pers" ana="n_13037" ref="#fk__p_55699">Mozarts</rs> und <rs type="pers" ana="n_13038" ref="#fk__p_45618">Haydns</rs><lb/>
+birgt, soll in den Besitz der Regierung übergehen. Aber<lb/>
+nicht der österreichischen, sondern der <abbr><seg type="spc">kgl</seg>.</abbr> <seg type="spc">preußischen<lb/>
+</seg>. In dem kürzlich dem <rs type="inst">preußischen Abgeordnetenhause<lb/>
+</rs> unterbreiteten Budget ist zur Erwerbung dieser<lb/>
+Kunstschätze die Summe von 200.000 Mark gefordert.<lb/>
+Was nützt es, dass österreichische Volksvertreter diese<lb/>
+Summe leichten Herzens bewilligen würden; <seg type="insult">Herr <rs type="pers" ana="n_13039" ref="#fk__p_55511"><abbr>v.</abbr><lb/>
+Hartel</rs></seg> verlangt sie nicht von ihnen. Werden sie ihn<lb/>
+wenigstens zwingen, für <seg type="insult">diese aufreizende Bescheidenheit<lb/>
+</seg> Rede und Antwort zu stehen? <seg type="insult">Unsere Culturhüter</seg><lb/>
+freilich mag die Frage, ob die Partituren <rs type="pers" ana="n_13040" ref="#fk__p_49349">Beethovens</rs><lb/>
+nach Preußen wandern oder im Lande bleiben, herzlich<lb/>
+wenig bekümmern. Sie sind froh, einen Kranz für<lb/>
+<rs type="pers" ana="n_13041" ref="#fk__p_45715">Heines</rs> Grab erschnorrt zu haben.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_57218">
+               <persName>Artaria, Domenico</persName>
+               <birth>
+                  <date>1775-11-20</date>
+                  <place>Blevio/Brianza</place>
+               </birth>
+               <death>
+                  <date>1842-07-05</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Musikverleger</occupation>
+            </person>
+            <person xml:id="fk__p_55511">
+               <persName>Hartel, Wilhelm Ritter von</persName>
+               <birth>
+                  <date>1839-05-28</date>
+                  <place>Hof/Mähren</place>
+               </birth>
+               <death>
+                  <date>1907-01-14</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Altphilologe</occupation>
+               <occupation>Politiker</occupation>
+               <note type="comment">Friedhof Penzing (=Kontrahentenfriedhof) Tel. 985 64 07</note>
+               <note type="comment">Unterrichtsminister 1900-05</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15937</idno></person>
+            <person xml:id="fk__p_45618">
+               <persName>Haydn, Franz Joseph</persName>
+               <birth>
+                  <date>1732-3-31</date>
+                  <place>Rohrau</place>
+               </birth>
+               <death>
+                  <date>1809-5-31</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Komponist</occupation>
+            </person>
+            <person xml:id="fk__p_45715">
+               <persName>Heine, Heinrich</persName>
+               <birth>
+                  <date>1797-12-13</date>
+                  <place>Düsseldorf</place>
+               </birth>
+               <death>
+                  <date>1856-2-17</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Journalist</occupation>
+               <note type="comment">Ögg separiert F 24/25 </note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11640</idno></person>
+            <person xml:id="fk__p_55699">
+               <persName>Mozart, Wolfgang Amadeus</persName>
+               <birth>
+                  <date>1756-1-27</date>
+                  <place>Salzburg</place>
+               </birth>
+               <death>
+                  <date>1791-12-5</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Komponist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12303</idno></person>
+            <person xml:id="fk__p_49349">
+               <persName>Beethoven, Ludwig van</persName>
+               <birth>
+                  <date>1770-12-17</date>
+                  <place>Bonn</place>
+               </birth>
+               <death>
+                  <date>1827-3-26</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Komponist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10866</idno></person>
+            </listPerson></back></text>
+</TEI>

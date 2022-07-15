@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_11771.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11770.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11772.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ein Scherzbold, in: Fackel Heft 33, Nr. 852, 1931, S. 80-80</title>
+            <title type="iso-date">1931-05-01</title>
+            <title type="id">tid_11771</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">33</title><title type="heft">852</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-33-852_n0080.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/852,080</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ein Scherzbold</head>
+            <p ana="pr170640">
+hat die Methode der Gerichtssaalberichterstattung eingeführt:<lb/>
+»<rs type="title"><rs type="pers" ana="n2_9149" key="#fk__p_58270">Josef</rs> liebte <rs type="pers" ana="n2_9150" key="#fk__p_57489">Anna</rs></rs>«. Kaum zu erwarten war jedoch, daß sich die<lb/>
+<seg type="insult">Intimität</seg> auch auf den Fall erstrecken würde, daß sich eine —<lb/>
+vorerst mit vollem Namen genannte — Sechzigjährige (nach der<lb/>
+Methode <rs type="pers" ana="n_102107" ref="#fk__p_59486">Zeileis</rs>) an Magenkrebs behandeln ließ,<lb/>
+</p>
+            <p ana="pr170642">
+aber <rs type="pers" ana="n_102108" ref="#fk__p_43307"><seg type="spc">Philomena</seg></rs> ging es immer schlechter, sie nahm sogar<lb/>
+13 Kilo ab <seg type="symbol" subtype="3dots"/><lb/>
+</p>
+            <p ana="pr170644">
+Die menschlichen Umgangsformen waren ja nie so sauber wie<lb/>
+die tierischen. Aber mit Tinte gehts doch noch schmieriger zu.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_43307">
+               <persName>Philomena</persName>
+               <birth>
+                  <date>1871?</date>
+               </birth>
+               <note type="comment">läßt sich nach der Methode Zeileis behandeln</note>
+            </person>
+            <person xml:id="fk__p_59486">
+               <persName>Zeileis, Valentin Michael</persName>
+               <birth>
+                  <date>1873-10-7</date>
+                  <place>Wachenroith/Nürnberg</place>
+               </birth>
+               <death>
+                  <date>1939-7-15</date>
+                  <place>Gallspach/Oberösterreich</place>
+               </death>
+               <occupation>Kunsthandwerker</occupation>
+               <occupation>Anthroposoph</occupation>
+               <occupation>Tierpfleger</occupation>
+               <occupation>Therapeut</occupation>
+               <note type="comment">entwickelte eine Hochfrequenz-Therapie</note>
+               <note type="comment">Wiener Werkstätte, Freundschaft zu Kolo Moser; Heirat mit Friedricke Matuner-Markhof</note>
+               <note type="comment">Sohn von Wilhelm Furtwängler, Dr. Wilh. Furtwängler, als Chefarzt im Institut tätig</note>
+               <note type="comment">Ögg identifiziert mit Fritz Zeileis (dem Sohn)</note>
+               <note type="comment">Todesdatum vom Gemeindeamt Gallspach bestätigt</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

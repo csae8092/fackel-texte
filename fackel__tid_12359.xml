@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_12359.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_12358.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_12360.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">10. Januar (Zur Wiederherstellung nach den letzten Inszenierungen, in: Fackel Heft 37, Nr. 917, 1936, S. 41-42</title>
+            <title type="iso-date">1936-02-01</title>
+            <title type="id">tid_12359</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">37</title><title type="heft">917</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-37-917_n0041.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/917,041</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>10. Januar (Zur Wiederherstellung nach den letzten Inszenierungen</head>
+            <p ana="pr183566">
+<space/><date>10. Januar</date> (Zur Wiederherstellung nach den letzten Inszenierungen<lb/>
+des <rs type="inst">Burgtheaters</rs>):<lb/>
+</p>
+            <p ana="pr183567">
+<space/>Zum 20. Male<lb/>
+</p>
+            <p ana="pr183568">
+<space/><RS pers="William Shakespeare"><rs type="title" ana="name_203015" ref="#fk__p_55589"><rs type="pers"><seg type="spc">König Lear</seg></rs></rs></RS><lb/>
+</p>
+            <p ana="pr183569">
+<space/>(Aus der Ouvertüre zu »<RS pers="Christoph Willibald Gluck"><rs type="title" ana="name_203030" ref="#fk__p_44499"><rs type="pers">Iphigenie</rs> in Aulis</rs></RS>« und Zelt-Musik)<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_55589">
+               <persName>Shakespeare, William</persName>
+               <birth>
+                  <date>1564-4-23?</date>
+                  <place>Stratford-upon-Avon</place>
+               </birth>
+               <death>
+                  <date>1616-4-23</date>
+                  <place>Stratford-upon-Avon</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2412</idno></person>
+            <person xml:id="fk__p_44499">
+               <persName>Gluck, Christoph Willibald Ritter von</persName>
+               <birth>
+                  <date>1714-7-2</date>
+                  <place>Erasbach bei Berching (Oberpfalz)</place>
+               </birth>
+               <death>
+                  <date>1787-11-15</date>
+                  <place>Wien</place>
+               </death>
+               <occupation/>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15476</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11450</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00971.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00970.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00972.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Herr Fiori.), in: Fackel Heft 02, Nr. 041, 1900, S. 26-26</title>
+            <title type="iso-date">1900-05-01</title>
+            <title type="id">tid_00971</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">041</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-041_n0026.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/041,026</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Herr Fiori.)</head>
+            <p ana="pr9415">
+<space/><seg type="insult"><inciptit>Die</inciptit> italienischen Sprachkenntnisse des römischen Correspondenten<lb/>
+ der ‚<rs type="paper" ana="werk_2649">Neuen Freien Presse</rs>‘, Herrn <rs type="pers" ana="n_7630" ref="#fk__p_57279"><seg type="spc">Fiori</seg></rs></seg>, beschränken<lb/>
+sich bekanntlich darauf, dass er sich noch erinnern kann, ursprünglich<lb/>
+ <seg type="insult"><rs type="pers" ana="n_7631" ref="#fk__p_57279"><seg type="spc">Blum</seg></rs></seg> geheißen zu haben. Da er aber <seg type="insult">Correspondent der ‚<rs type="paper" ana="werk_2650">Neuen<lb/>
+Freien Presse</rs>‘</seg> ist, so kommt es ja vor allem darauf an, dass er nicht<lb/>
+<seg type="spc">deutsch</seg> kann. <seg type="insult">Die blumige Berichterstattung des Herrn <rs type="pers" ana="n_7632" ref="#fk__p_57279">Fiori</rs></seg> hat<lb/>
+uns am <date>17. Mai</date> ein <seg type="insult">Bild der Verwüstung</seg> gemalt, die das Temperament<lb/>
+ <rs type="pers" ana="n_7633" ref="#fk__p_51048">Mascagnis</rs> an der jeweiligen Stätte seines Wirkens anrichtet.<lb/>
+Was ist <abbr>z. B.</abbr> aus dem friedlichen Pesaro geworden?! »<rs type="pers" ana="n_7634" ref="#fk__p_51048">Mascagnis</rs> Unrast<lb/>
+— ruft <seg type="insult">Herr <rs type="pers" ana="n_7635" ref="#fk__p_57279">Fiori</rs></seg> aus — »hat <seg type="spc">es in ein sturmgepeitschtes<lb/>
+Glas Wasser verwandelt</seg>«.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_51048">
+               <persName>Mascagni, Pietro</persName>
+               <birth>
+                  <date>1863-12-7</date>
+                  <place>Livorno</place>
+               </birth>
+               <death>
+                  <date>1945-8-2</date>
+                  <place>Rom</place>
+               </death>
+               <occupation>Komponist</occupation>
+               <note type="comment">Cavalleria rusticana 162/31</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12198</idno></person>
+            <person xml:id="fk__p_57279">
+               <persName>Blum, Robert</persName>
+               <occupation>Journalist</occupation>
+               <note type="comment">Robert Blum *Wien 1881, Sohn von Julius und Sara Josefine Jordan ???</note>
+               <note type="comment">NFP ital. Korrespondent 1899-ca. 1908</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

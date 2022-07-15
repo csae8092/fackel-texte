@@ -1,0 +1,45 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00976.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00975.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00977.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Den Schülern der Handelsakademie. (Den Schülern der Handelsakademie), in: Fackel Heft 02, Nr. 041, 1900, S. 29-30</title>
+            <title type="iso-date">1900-05-01</title>
+            <title type="id">tid_00976</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">041</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-041_n0029.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/041,029</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Den Schülern der Handelsakademie. (Den Schülern der Handelsakademie)</head>
+            <p ana="pr9435">
+<space/><seg type="sidehead"><seg type="i">Den Schülern der Handelsakademie.</seg></seg> Das ist absolut ungehörig!<lb/>
+Die »<rs type="self" ana="werk_2660">Fackel</rs>« mögen Sie zuhause lesen, die Schule ist zum Lernen<lb/>
+da. <seg type="insult">Herr <rs type="pers" ana="n_7676" ref="#fk__p_41773">Sonndorfer</rs></seg> hat ganz recht, dass er es strenge rügt, wenn<lb/>
+einer oder der andere während der <choice><sic>Unterrichtstunde</sic><corr>Unterrichtsstunde</corr></choice> »unter der<lb/>
+Bank« ein <rs type="selfRef" ana="werk_2661">rothes Heft</rs> hält, und die Strafen, die er in solchen Fällen<lb/>
+austheilt, gehören durchaus nicht in das Capitel <seg type="insult">jener barbarischen<lb/>
+Pädagogik</seg>, die die ‚<rs type="self" ana="werk_2662">Fackel</rs>‘ gebrandmarkt hat.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_41773">
+               <persName>Sonndorfer, Rudolf</persName>
+               <birth>
+                  <date>1839-4-14</date>
+                  <place>Böhmischkrut</place>
+               </birth>
+               <death>
+                  <date>1910-12-04</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Lehrer an d. Wiener Handelsakademie</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

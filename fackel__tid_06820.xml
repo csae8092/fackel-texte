@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06820.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06819.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06821.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Eine zufällige Begegnung, in: Fackel Heft 16, Nr. 400, 1914, S. 12-12</title>
+            <title type="iso-date">1914-01-01</title>
+            <title type="id">tid_06820</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">16</title><title type="heft">400</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-16-400_n0012.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/400,012</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Eine zufällige Begegnung</head>
+            <p ana="pr91735">
+<space/>Der albanesische Ministerpräsident <rs type="pers" ana="n_62270" ref="#fk__p_54322">Turkhan Pascha</rs> ist heute aus<lb/>
+Budapest in Wien eingetroffen. Auf der Fahrt zwischen Budapest und<lb/>
+Wien hatte ein Mitarbeiter unseres <rs type="perRef" ana="werk_20226">Blattes</rs> <seg type="spc">eine zufällige Begegnung<lb/>
+im Speisewagen</seg> mit dem Ministerpräsidenten, der ihn dann in sein<lb/>
+Coupé <seg type="spc">einlud</seg> und sich während der Fahrt zwischen Preßburg und<lb/>
+Wien mit ihm über die Vorgänge in Albanien <seg type="spc">unterhielt</seg>.<lb/>
+</p>
+            <p ana="pr91736">
+<space/><rs type="pers" ana="n_62271" ref="#fk__p_54322">Turkhan Pascha</rs> legte große Ruhe an den Tag <seg type="symbol" subtype="4dots"/><lb/>
+</p>
+            <p ana="pr91738">
+<space/>Was hätte er denn machen sollen? Die Notleine in solchem Fall<lb/>
+zu ziehen, ist denn doch riskant. Und ausspucken ist auch verboten.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_54322">
+               <persName>Turkhan Pascha</persName>
+               <birth>
+                  <date>1846</date>
+                  <place>Tirhala/Türkei</place>
+               </birth>
+               <death>
+                  <date>1927</date>
+                  <place>Permet</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <note type="comment">langjähriger türk. Botschafter in St. Petersburg, Premier des ersten albanischen Kabinetts 1914</note>
+               <note type="comment">alban. Ministerpräsident</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

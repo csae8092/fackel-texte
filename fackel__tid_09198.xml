@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_09198.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09197.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09199.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ebenda, 14. Mai, 8 Uhr:, in: Fackel Heft 24, Nr. 595, 1922, S. 71-71</title>
+            <title type="iso-date">1922-07-01</title>
+            <title type="id">tid_09198</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">24</title><title type="heft">595</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-24-595_n0071.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/595,071</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ebenda, 14. Mai, 8 Uhr:</head>
+            <p ana="pr122376">
+<space/>Ebenda, <date>14. Mai</date>, 8 Uhr:<lb/>
+</p>
+            <p ana="pr122377">
+<space/>I. <seg type="spc"><rs type="pers" ana="n_74885" ref="#fk__p_46960">Goethe</rs></seg>, <seg type="spc"><rs type="title"><rs type="pers">Pandora</rs></rs></seg> (mit Vorwort).<lb/>
+</p>
+            <p ana="pr122378">
+<space/>II. <rs type="title">Worte in Versen</rs>: <rs type="title">Rückkehr in die Zeit</rs> / <rs type="title">Alle Vögel sind<lb/>
+schon da</rs> / <rs type="title">Flieder</rs> / <rs type="title">Wiese im Park</rs> / <rs type="title">Ich habe einen Blick gesehn</rs> /<lb/>
+<rs type="title">Vor einem Springbrunnen</rs> / <rs type="title">Als <rs type="pers" ana="n2_6876" ref="#fk__p_39336">Bobby</rs> starb</rs> / <rs type="title">Todesfurcht</rs> / <rs type="title">Der<lb/>
+Tag</rs> / <rs type="title">Zum ewigen Frieden</rs>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46960">
+               <persName>Goethe, Johann Wolfgang von</persName>
+               <birth>
+                  <date>1749-8-28</date>
+                  <place>Frankfurt am Main</place>
+               </birth>
+               <death>
+                  <date>1832-3-22</date>
+                  <place>Weimar</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">890/142f.</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11461</idno></person>
+            <person xml:id="fk__p_39336">
+               <persName>Bobby (Hund)</persName>
+            </person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_08592.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08591.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08593.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">10. November, 6 Uhr:, in: Fackel Heft 21, Nr. 508, 1919, S. 29-29</title>
+            <title type="iso-date">1919-04-01</title>
+            <title type="id">tid_08592</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">21</title><title type="heft">508</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-21-508_n0029.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/508,029</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>10. November, 6 Uhr:</head>
+            <p ana="pr112833">
+<space/><date>10. November</date>, 6 Uhr:<lb/>
+</p>
+            <p ana="pr112834">
+<space/>I. Aus <rs type="title"><seg type="spc"><rs type="pers">Timon</rs> von Athen</seg></rs> von <rs type="pers" ana="n_69887" ref="#fk__p_55589">Shakespeare</rs> (<rs type="pers" ana="n_69888" ref="#fk__p_40642">Dorothea Tieck</rs>):<lb/>
+Akt I, II, III, bearbeitet vom Vorleser.<lb/>
+</p>
+            <p ana="pr112835">
+<space/>II. <rs type="title"><seg type="spc"><rs type="pers">Hannele Matterns</rs> Himmelfahrt</seg></rs> von <rs type="pers" ana="n_69889" ref="#fk__p_44354">Gerhart Hauptmann<lb/>
+</rs>. (Begleitende Musik: <rs type="pers" ana="n_69890" ref="#fk__p_41334"><abbr>Dr.</abbr> Karl Meyer</rs>.)<lb/>
+</p>
+            <p ana="pr112836">
+<space/>Der volle Ertrag für den <rs type="inst">Arbeiterverein »Kinderfreunde«</rs> und<lb/>
+den <rs type="inst">Wiener Tierschutzverein</rs> (Aktion zur Rettung der Kriegshunde).<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_40642">
+               <persName>Tieck, Dorothea</persName>
+               <birth>
+                  <date>1799-3</date>
+                  <place>Berlin</place>
+               </birth>
+               <death>
+                  <date>1841-2-21</date>
+                  <place>Dresden</place>
+               </death>
+               <occupation>Übersetzerin</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/53277</idno></person>
+            <person xml:id="fk__p_55589">
+               <persName>Shakespeare, William</persName>
+               <birth>
+                  <date>1564-4-23?</date>
+                  <place>Stratford-upon-Avon</place>
+               </birth>
+               <death>
+                  <date>1616-4-23</date>
+                  <place>Stratford-upon-Avon</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2412</idno></person>
+            <person xml:id="fk__p_41334">
+               <persName>Meyer, Karl</persName>
+               <birth>
+                  <date>1891-12-2</date>
+                  <place>Vöslau</place>
+               </birth>
+               <death>
+                  <date>leer</date>
+               </death>
+               <occupation>Komponist</occupation>
+               <note type="comment">mit Baldur von Schirach ein Werk im Zentralverlag der NSDAP, ca. 1935</note>
+               <note type="comment">Dr. Karl Meyer-Frenner</note>
+            </person>
+            <person xml:id="fk__p_44354">
+               <persName>Hauptmann, Gerhart</persName>
+               <birth>
+                  <date>1862-11-15</date>
+                  <place>Salzbrunn, Schlesien</place>
+               </birth>
+               <death>
+                  <date>1946-6-6</date>
+                  <place>Agnetendorf</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Ögg teilt die indirekte Stelle 521/64 zu, irrtümlich</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11617</idno></person>
+            </listPerson></back></text>
+</TEI>

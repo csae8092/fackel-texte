@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01555.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01554.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01556.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Reformen bei der Niederösterreichischen Escomptegesellschaft.), in: Fackel Heft 02, Nr. 066, 1901, S. 23-23</title>
+            <title type="iso-date">1901-01-01</title>
+            <title type="id">tid_01555</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">066</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-066_n0023.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/066,023</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Reformen bei der Niederösterreichischen Escomptegesellschaft.)</head>
+            <p ana="pr15447">
+<space/><inciptit>Die</inciptit> Reformen bei der <rs type="inst">Niederösterreichischen Escomptegesellschaft<lb/>
+</rs> haben bereits begonnen. <seg type="insult">Herr <rs type="pers" ana="n_12810" ref="#fk__p_43136">Feilchenfeld</rs></seg> hat seinen<lb/>
+<seg type="insult">»Operationsraum«</seg> bezogen und sich mit <seg type="insult">Herrn <rs type="pers" ana="n_12811" ref="#fk__p_52045">Rechnitzer</rs> und<lb/>
+dessen allgewaltigem Schwager Herrn <rs type="pers" ana="n_12812" ref="#fk__p_41529"><abbr>Dr.</abbr> Max Strauß</rs></seg> einen <seg type="spc">Privatsecretär<lb/>
+</seg> angeschafft. Vorsicht kann nie schaden <seg type="symbol" subtype="3dots"/> Im übrigen<lb/>
+reformiert man von unten auf. Seit dem <date>1. Jänner 1901</date> sind die<lb/>
+Gehalte der bei dem Unternehmen angestellten Damen <seg type="spc">um fünf<lb/>
+Kronen</seg> gesteigert worden. Die Kronenwährung — hier wie<lb/>
+anderwärts in Oesterreich — ein Hebel der <seg type="insult">Ausbeutung</seg>: früher<lb/>
+haben fünf Gulden als die kleinste Einheit bei der Lohnbemessung<lb/>
+gegolten. Immerhin: die Gehalte der angestellten Damen sind gesteigert<lb/>
+ worden. Ist es nicht recht und billig, dass nun auch die<lb/>
+Tantièmen <seg type="insult">der Herren <rs type="pers" ana="n_12813" ref="#fk__p_52045">Rechnitzer</rs> und <rs type="pers" ana="n_12814" ref="#fk__p_48217">Krassny</rs></seg> eine Erhöhung<lb/>
+erfahren?<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_41529">
+               <persName>Strauß, Max</persName>
+               <occupation/>
+               <note type="comment">Schwager von Leopold Rechnitzer (1851?-1916)</note>
+               <note type="comment">geb. Wien 1835? als Sohn von Albert Strauss und Charlotte Oppenheimer</note>
+               <note type="comment">ZF 1. Tor 19/46/75a? (1863?-10.04.1917)</note>
+            </person>
+            <person xml:id="fk__p_43136">
+               <persName>Feilchenfeld, Max</persName>
+               <birth>
+                  <date>1852-7-10</date>
+                  <place>Frankfurt/Oder</place>
+               </birth>
+               <death>
+                  <date>1922-6-27</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Industrieller</occupation>
+               <occupation>Bankier</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/16127</idno></person>
+            <person xml:id="fk__p_48217">
+               <persName>Krassny-Krassien, Maxime Edler von </persName>
+               <birth>
+                  <date>1859-1-1</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1936-1-6</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Industrieller</occupation>
+               <occupation>Bankier</occupation>
+               <note type="comment">seit 1911 Edler von Krassien</note>
+               <note type="comment">9., Türkenstr. 15</note>
+               <note type="comment">Präs. der Nied.Öst. Escompte-Gesellschaft</note>
+            </person>
+            <person xml:id="fk__p_52045">
+               <persName>Rechnitzer, Leopold</persName>
+               <birth>
+                  <date>1851</date>
+               </birth>
+               <death>
+                  <date>1916-7-1</date>
+                  <place>Salzburg</place>
+               </death>
+               <occupation>Bankier</occupation>
+               <note type="comment">Generaldirektor der Niederöst. Escompte-Gesellschaft</note>
+               <note type="comment">Börserat; 1., Babenbergerstraße 1; MA 8 nicht eruiert</note>
+               <note type="comment">begraben in Kitzbühel</note>
+               <note type="comment">verh. mit Helene (Strauss?), Schwester von Max Strauss? oder hat eine Schwester, die mit Max Strauss verh. ist</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

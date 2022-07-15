@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02946.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02945.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02947.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Gynäkolog. (La Métairie), in: Fackel Heft 04, Nr. 130, 1903, S. 24-24</title>
+            <title type="iso-date">1903-02-21</title>
+            <title type="id">tid_02946</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">04</title><title type="heft">130</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-04-130_n0024.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/130,024</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Gynäkolog. (La Métairie)</head>
+            <p ana="pr29043">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="n_25080" ref="#fk__p_45244">Gynäkolog</rs>.</seg></seg></seg> Von der Mittheilung, daß man in <rs type="inst" ana="name_202282" ref="#fk__p_49205"><foreign xml:lang="fr">La Métairie</foreign></rs> entbinden<lb/>
+ kann, wird schwerlich viel Gebrauch gemacht werden. Denn in<lb/>
+den Empfehlungen der Schweizer Anstalt, welche die Blätter täglich<lb/>
+erneuern, fehlt gerade die wichtigste in solchen Fällen übliche Zusicherung<lb/>
+. <seg type="insult">»<seg type="spc">Unter Discretion</seg>«</seg> können <RS pers="Luise von Sachsen" globID="name_202282">Damen</RS> in <rs type="inst"><foreign xml:lang="fr">La Métairie</foreign></rs><lb/>
+offenbar <seg type="spc">nicht</seg> entbinden.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_49205">
+               <persName>Sachsen, Luise von, geb. Erzherzogin von Österreich-Toscana</persName>
+               <birth>
+                  <date>1870-9-2</date>
+                  <place>Salzburg</place>
+               </birth>
+               <death>
+                  <date>1947-3-23</date>
+                  <place>Brüssel</place>
+               </death>
+               <note type="comment">Gräfin Montignoso, starb als Blumenfrau</note>
+               <note type="comment">Affaire mit André Giron</note>
+               <note type="comment">Ögg irrt. statt 126/19: 126/29</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_19511</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/23855</idno></person>
+            <person xml:id="fk__p_45244">
+               <persName>Gynäkolog</persName>
+            </person>
+            </listPerson></back></text>
+</TEI>

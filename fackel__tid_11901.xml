@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_11901.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11900.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11902.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Feisal, in: Fackel Heft 33, Nr. 857, 1931, S. 105-105</title>
+            <title type="iso-date">1931-08-01</title>
+            <title type="id">tid_11901</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">33</title><title type="heft">857</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-33-857_n0105.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/857,105</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Feisal</head>
+            <p ana="pr172417">
+<space/>— — Der König äußerte den Wunsch, das Diner möge ausschließlich<lb/>
+ Wiener Spezialitäten enthalten und fragte auch nach einem<lb/>
+»Wiener Backhendel«. — — Vor den unsterblichen Werken <rs type="pers" ana="n_103014" ref="#fk__p_54156">Tizians</rs><lb/>
+und <rs type="pers" ana="n_103015" ref="#fk__p_51977">Raffaels</rs> blieb er lange in tiefem Sinnen. — —<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_54156">
+               <persName>Tizian</persName>
+               <birth>
+                  <date>1477/90</date>
+                  <place>Pieve di Cadore</place>
+               </birth>
+               <death>
+                  <date>1576-8-27</date>
+                  <place>Venedig</place>
+               </death>
+               <occupation>Maler</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/26079</idno></person>
+            <person xml:id="fk__p_51977">
+               <persName>Raffael, d. i. Raffaello Santi</persName>
+               <birth>
+                  <date>1483-4-6?</date>
+                  <place>Urbino</place>
+               </birth>
+               <death>
+                  <date>1520-4-6</date>
+                  <place>Rom</place>
+               </death>
+               <occupation>Maler</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

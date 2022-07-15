@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00746.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00745.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00747.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Was sollen wir thun?), in: Fackel Heft 01, Nr. 031, 1900, S. 26-27</title>
+            <title type="iso-date">1900-02-01</title>
+            <title type="id">tid_00746</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">031</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-031_n0026.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/031,026</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Was sollen wir thun?)</head>
+            <p ana="pr7149">
+<space/><inciptit>Auf</inciptit> den Abschied des Fräuleins <rs type="pers" ana="n_5520" ref="#fk__p_49714">Renard</rs> komme ich nicht zurück.<lb/>
+Ich halte die Frage, ob zuerst Herr Director <rs type="pers" ana="n_5521" ref="#fk__p_45200">Mahler</rs> die Dame oder<lb/>
+diese Herrn <rs type="pers" ana="n_5522" ref="#fk__p_45200">Mahler</rs> geküsst hat, für unlösbar. Erwiesen ist, dass in<lb/>
+</p>
+            <p ana="pr7149">
+dem Moment, als Fräulein <rs type="pers" ana="n_5523" ref="#fk__p_49714">Renard</rs> den Collegen baldige Wiederkehr<lb/>
+versprach, Fräulein <rs type="pers" ana="n_5524" ref="#fk__p_49717">Schleinzer</rs> vom Ballet <foreign xml:lang="de-loc">»Bravo, das is’ g’scheidt!«</foreign><lb/>
+ausgerufen hat. Dies haben auch alle Blätter bestätigt. Was mit den<lb/>
+Herren geschehen ist, die vor der Vorstellung zur Garderobe der<lb/>
+Künstlerin hinaufstöhnten: »Fräulein, Fräulein, wir haben keine<lb/>
+Karten bekommen! <seg type="spc">Was sollen wir thun</seg>?«, weiß ich nicht.<lb/>
+In dem allgemeinen Chaos, das nach dem letzten Auftreten der<lb/>
+<rs type="pers" ana="n_5525" ref="#fk__p_49714">Renard</rs> hereinbrach, ist die Spur jener Männer verloren gegangen.<lb/>
+»Was sollen wir thun?« <seg type="insult">Dieser Angstschrei der Wiener Volksseele</seg><lb/>
+gellte durch die Nacht und wird durch die Nächte gellen, bis die<lb/>
+<seg type="insult">Vergnügungen des Wiener Nachtlebens</seg> nicht mehr bloß im Ausspannen<lb/>
+ von Zugthieren für eine beliebte Diva bestehen werden.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_45200">
+               <persName>Mahler, Gustav</persName>
+               <birth>
+                  <date>1860-7-7</date>
+                  <place>Kalischt, Böhmen</place>
+               </birth>
+               <death>
+                  <date>1911-5-18</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Komponist</occupation>
+               <occupation>Dirigent</occupation>
+               <occupation>Theaterleiter</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12163</idno></person>
+            <person xml:id="fk__p_49714">
+               <persName>Renard, Marie</persName>
+               <birth>
+                  <date>1863-1-18</date>
+                  <place>Graz</place>
+               </birth>
+               <death>
+                  <date>1939-10-19</date>
+                  <place>Graz</place>
+               </death>
+               <occupation>Sängerin</occupation>
+               <note type="comment">verh. mit Graf Rudolf Kinsky</note>
+               <note type="comment">Mezzosopran</note>
+            </person>
+            <person xml:id="fk__p_49717">
+               <persName>Schleinzer-Hortenau, Marie</persName>
+               <birth>
+                  <date>1874-3-25</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1949-6-1</date>
+                  <place>Opatija</place>
+               </death>
+               <occupation>Tänzerin</occupation>
+               <note type="comment">Vgl. Marie Schleinzer-Hortenau, "Katharina Schratt und ihre Menagerie", in NWJ 24.11.1929, S. 15f.</note>
+               <note type="comment">Mimikerin Wr. Hofoper 1889-1901</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

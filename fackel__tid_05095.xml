@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_05095.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05094.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05096.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Immerhin, in: Fackel Heft 12, Nr. 301, 1910, S. 58-58</title>
+            <title type="iso-date">1910-05-3</title>
+            <title type="id">tid_05095</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">12</title><title type="heft">301</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-12-301_n0058.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/301,058</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Immerhin</head>
+            <p ana="pr65287">
+<space/><seg type="insult">Der Sachverständige</seg>:<lb/>
+</p>
+            <p ana="pr65289">
+<space/>»Wenn Professor <rs type="pers" ana="n_47563" ref="#fk__p_39422">Bossi</rs> sich auch nicht in die Einzelheiten des<lb/>
+Falles einlassen konnte, da seine Mission ja doch äußerste Delikatesse<lb/>
+erfordert, so ließ er dennoch erkennen, daß er den Fall <rs type="pers" ana="n_47564" ref="#fk__p_53946">Tarnowska</rs> <choice><sic>tür</sic><corr>für</corr></choice><lb/>
+ein unschätzbares Beweismaterial hält in der überaus wichtigen Frage,<lb/>
+welchen ungeheueren Einfluß <seg type="spc">das Geschlecht der Frau auf ihre<lb/>
+Moral hat</seg>, ein Thema, das der Professor eingehend in seiner Revue<lb/>
+<foreign xml:lang="it">‚<rs type="magazine" ana="werk_17580">La ginecologia moderna</rs>‘</foreign> behandelt. <seg type="spc">Die <seg type="insult">Vergangenheit</seg></seg> der <rs type="pers" ana="n_47565" ref="#fk__p_53946">Tarnowska<lb/>
+</rs>, <seg type="spc">welche bis in ihr 16</seg>. <seg type="spc">Lebensjahr zurückreicht</seg>, zeigt <seg type="symbol" subtype="3dots"/>«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_39422">
+               <persName>Bossi, Luigi Maria</persName>
+               <birth>
+                  <date>1859-12-30</date>
+                  <place>Malnate/Varese</place>
+               </birth>
+               <death>
+                  <date>1919-01-31</date>
+                  <place>Genua</place>
+               </death>
+               <occupation>Gynäkologe</occupation>
+            </person>
+            <person xml:id="fk__p_53946">
+               <persName>Tarnowska, Maria Nikolajewna Gräfin, geb. O'Rourke</persName>
+               <birth>
+                  <date>1877-7-9</date>
+                  <place>Otrada/Ukraine</place>
+               </birth>
+               <death>
+                  <date>1949-1-23</date>
+                  <place>Santa Fé/Argentinien</place>
+               </death>
+               <note type="comment">sie wurde begnadigt, NFP 15.09.1913, Seite 12</note>
+               <note type="comment">Prozeß in Venedig 1910, Anklage wegen Mordes an ihrem Verlobten</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

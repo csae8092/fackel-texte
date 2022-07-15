@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_08908.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08907.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08909.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Die Tote, in: Fackel Heft 22, Nr. 561, 1921, S. 52-53</title>
+            <title type="iso-date">1921-03-01</title>
+            <title type="id">tid_08908</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">22</title><title type="heft">561</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-22-561_n0052.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/561,052</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Die Tote</head>
+            <p ana="pr118557">
+<space/>Bis jetzt wurden fünf Tote geborgen, und zwar der Fabrikant<lb/>
+<rs type="pers" ana="n_73020" ref="#fk__p_49272">Ludwig Altschul</rs>, Wien, 4. Bezirk, Karlsplatz 3, der siebenjährige<lb/>
+<RS pers="Egbert Wenger" globID="rs_845">Sohn</RS> des früheren Bahnerhaltungsvorstandes in Wien, <rs type="pers" ana="n_73021" ref="#fk__p_55367">Wenger</rs>, Staatsbahnrat<lb/>
+ <rs type="pers" ana="n_73022" ref="#fk__p_52343">Robert Hackl</rs>, <seg type="insult"><seg type="spc">eine Frauensperson</seg></seg> und ein italienischer<lb/>
+Chauffeur aus Villach, welche noch nicht agnosziert sind <seg type="symbol" subtype="4dots"/><lb/>
+</p>
+            <p ana="pr118559">
+<space/>Dem <seg type="insult">Polizistenjargon</seg>, der sich bei Durchsuchungen in<lb/>
+Stundenhotels betätigt, ist die Bezeichnung endlich abgewöhnt<lb/>
+worden, und er muß sich dazu bequemen, eine Frau selbst dann<lb/>
+als Frau anzuerkennen, wenn sie von ihrer Eigenschaft, eine zu<lb/>
+sein, Gebrauch gemacht hat. Der <seg type="insult">Journalistenjargon</seg> kehrt<lb/>
+bei Durchsuchung eines Leichenfelds zur <seg type="insult">altösterreichischen<lb/>
+Terminologie</seg> zurück. Der unsägliche Jammer von Felixdorf,<lb/>
+der wie die letzte Strafe der Natur an <seg type="insult">einem heillosen Staat</seg><lb/>
+anmutet, der von <seg type="insult">der niedrigsten Stufe zivilisatorischer Einrichtungen<lb/>
+</seg> noch in den Abgrund eines <rs type="event">Weltkriegs</rs> taumeln<lb/>
+mußte, läßt doch <seg type="insult">das Lichtbild einer Kompagnie</seg> schauen, die<lb/>
+obenauf bleibt: <seg type="insult">Die Geretteten</seg>, die den Sterbenden nicht Platz<lb/>
+machen wollten, <seg type="insult">die Lebenden</seg>, die die Toten beraubt haben,<lb/>
+und <seg type="insult">die Schreibenden</seg>, die einen verstümmelten Leichnam als<lb/>
+<seg type="insult">Frauensperson</seg> agnoszieren.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_49272">
+               <persName>Altschul, Ludwig</persName>
+               <birth>
+                  <date>1876-7-24</date>
+                  <place>Böhmisch Leipa</place>
+               </birth>
+               <death>
+                  <date>1921-2-5</date>
+                  <place>Felixdorf</place>
+               </death>
+               <occupation>Fabrikant</occupation>
+               <note type="comment">4., Karlsplatz 3</note>
+            </person>
+            <person xml:id="fk__p_52343">
+               <persName>Hackl, Robert</persName>
+               <death>
+                  <date>1921-2-5</date>
+                  <place>Felixdorf</place>
+               </death>
+               <occupation>Beamter</occupation>
+               <note type="comment">Staatsbahnrat</note>
+            </person>
+            <person xml:id="fk__p_55367">
+               <persName>Wenger, Fritz</persName>
+               <birth>
+                  <date>1879-10-15</date>
+                  <place>Oberachmann/Bez. Vöcklabruck</place>
+               </birth>
+               <occupation>Ingenieur</occupation>
+               <occupation>Bahnbeamter</occupation>
+               <note type="comment">Sohn Egbert (1914 bis 5.2.1921 Felixdorf) Friedhof Meidling 10/1/9 (bis 15.9.2007)</note>
+               <note type="comment">5., Laurenzgasse 4</note>
+               <note type="comment">Baukommissär der Südbahn</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

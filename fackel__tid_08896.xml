@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_08896.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08895.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08897.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Einstein in Prag, in: Fackel Heft 22, Nr. 561, 1921, S. 38-38</title>
+            <title type="iso-date">1921-03-01</title>
+            <title type="id">tid_08896</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">22</title><title type="heft">561</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-22-561_n0038.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/561,038</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Einstein in Prag</head>
+            <p ana="pr118446">
+<space/>Wenn die Setzer auch alles setzen, die Setzmaschine will<lb/>
+anders. Sie macht nicht alles mit, sie nicht! Aus ihrer Haltung<lb/>
+erklärt sich der Bericht des <seg ana="Neuen Wiener Journals"/> über<lb/>
+<rs type="pers" ana="n_72939" ref="#fk__p_37911">Einsteins</rs> Auftreten in Prag, wo der Gelehrte von <seg type="insult">einem<lb/>
+deutschen Stadtrat</seg> mit <seg type="insult">Witzen über die <rs type="title">Relativitätstheorie</rs> der<lb/>
+Tschechen gegen die Deutschen</seg> empfangen wurde:<lb/>
+</p>
+            <p ana="pr118448">
+<space/>Professor <rs type="pers" ana="n_72940" ref="#fk__p_37911">Einstein</rs> dankte und sagte, man tue ihm zuviel<lb/>
+Ehre an. Er sei nur ein kleiner Punkt im Raume. <seg type="spc">Dann leitete<lb/>
+er mit einer Violinsonate den musikalischen Teil<lb/>
+des Abends ein</seg>. <OMED>— —</OMED><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_37911">
+               <persName>Einstein, Albert</persName>
+               <birth>
+                  <date>1879-3-14</date>
+                  <place>Ulm</place>
+               </birth>
+               <death>
+                  <date>1955-4-18</date>
+                  <place>Princeton</place>
+               </death>
+               <occupation>Physiker</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11237</idno></person>
+            </listPerson></back></text>
+</TEI>

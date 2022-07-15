@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01568.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01567.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01569.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Coulissier. (Coulissier), in: Fackel Heft 02, Nr. 066, 1901, S. 31-31</title>
+            <title type="iso-date">1901-01-01</title>
+            <title type="id">tid_01568</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">066</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-066_n0031.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/066,031</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Coulissier. (Coulissier)</head>
+            <p ana="pr15491">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="n_12907" ref="#fk__p_40131">Coulissier</rs>.</seg></seg></seg> Nein, der Disponent der <rs type="inst">Credit-Anstalt</rs>, <seg type="insult">Herr <rs type="pers" ana="n_12908" ref="#fk__p_59351"><seg type="spc">Löwy</seg></rs></seg>,<lb/>
+hat vor der Begebung der Kronenrente nicht, wie sonst, bei <rs type="pers" ana="n_12909" ref="#fk__p_48821">Leopold<lb/>
+Langer</rs> gespielt, sondern ausnahmsweise seine Geschäfte durch<lb/>
+<rs type="inst"><rs type="pers" ana="n2_1049" key="#fk__p_57611">Breisach</rs> &amp; <abbr>Comp.</abbr></rs> besorgen lassen. <rs type="inst"><rs type="pers" ana="n2_1050" key="#fk__p_57620">Brüll</rs> &amp; <rs type="pers" ana="n2_1051" key="#fk__p_58309">Kalmus</rs></rs> ist auch immer<lb/>
+eine der ersten Firmen, die von den Transactionen der <rs type="inst">Credit-Anstalt</rs><lb/>
+erfährt. Man sagt, dass ihr Rath <seg type="insult">ein Kaiserlicher</seg> ist <seg type="symbol" subtype="3dots"/><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_48821">
+               <persName>Langer, Leopold</persName>
+               <birth>
+                  <date>1852-2-11</date>
+                  <place>Tobitschau, Mähren</place>
+               </birth>
+               <death>
+                  <date>1938-9-15</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Bankier</occupation>
+               <note type="comment">kais. Rat, Vizepräs. des Gremiums der Wr. Kaufmannschaft</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/20103</idno></person>
+            <person xml:id="fk__p_40131">
+               <persName>Coulissier</persName>
+            </person>
+            <person xml:id="fk__p_59351">
+               <persName>Löwy, Sigmund</persName>
+               <birth>
+                  <date>1854-12-16</date>
+                  <place>Proßnitz/Mähren</place>
+               </birth>
+               <occupation>Bankier</occupation>
+               <note type="comment"/>
+            </person>
+            </listPerson></back></text>
+</TEI>

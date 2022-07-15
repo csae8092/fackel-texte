@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00491.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00490.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00492.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Artifex. (Artifex), in: Fackel Heft 01, Nr. 020, 1899, S. 30-30</title>
+            <title type="iso-date">1899-10-01</title>
+            <title type="id">tid_00491</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">020</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-020_n0030.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/020,030</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Artifex. (Artifex)</head>
+            <p ana="pr4565">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="n_3484" ref="#fk__p_38469">Artifex</rs>.</seg></seg></seg> Ueber <seg type="insult">Herrn <seg type="spc"><rs type="pers" ana="n_3485" ref="#fk__p_43580">Servaes</rs></seg></seg> ist doch hier schon alles<lb/>
+Nöthige gesagt worden. Die <seg type="insult">Schreibekunst dieser Leute</seg> beginnt dort,<lb/>
+wo ein Attribut nicht zum Substantiv passt. Mit <seg type="insult">einem »weinenden<lb/>
+Gelb«</seg> macht man jetzt in <seg type="insult">der noch vor drei Jahren allen literarischen<lb/>
+Neuerungen unzugänglichen ‚<rs type="paper" ana="werk_1187">Neuen Freien Presse</rs>‘</seg> Furore. Es kann<lb/>
+auch <seg type="insult">ein erstickendes Grün</seg> sein oder so etwas Aehnliches. Dass<lb/>
+jüngst dazu <seg type="insult">der »<seg type="spc">unberührte Hauch</seg>« der Morgenfrische</seg> und <seg type="insult">eine<lb/>
+»<seg type="spc">farbendurchwimmelte</seg> Kramstätte der Blumenhändlerin«</seg> kommen<lb/>
+konnte, beweist nur, wie sich auch rein grammatikalische Defecte<lb/>
+stimmungsvoll verwerten lassen. Es gibt übrigens <seg type="insult">Kunstkritiker</seg> in Wien,<lb/>
+die ihre besten Effecte nicht in <seg type="insult">malerischen Sprachschnitzern</seg>, sondern<lb/>
+mehr in <seg type="insult">lapidaren Gedanken</seg> suchen. In einem Nachruf für <rs type="pers" ana="n_3486" ref="#fk__p_53162">Segantini</rs><lb/>
+schrieb einer jüngst die Worte nieder: »Von den Bergen, wo er als<lb/>
+Bauernjunge die Herden gehütet, stieg er auf kurze Zeit herab, um<lb/>
+das Technische zu lernen.« Nur »das Technische«!<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_38469">
+               <persName>Artifex</persName>
+            </person>
+            <person xml:id="fk__p_43580">
+               <persName>Servaes, Franz Theodor Hubert</persName>
+               <birth>
+                  <date>1862-7-17</date>
+                  <place>Köln</place>
+               </birth>
+               <death>
+                  <date>1947-7-14</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Kritiker</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_20068</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12772</idno></person>
+            <person xml:id="fk__p_53162">
+               <persName>Segantini, Giovanni</persName>
+               <birth>
+                  <date>1858-1-15</date>
+                  <place>Arco am Gardasee</place>
+               </birth>
+               <death>
+                  <date>1899-9-28</date>
+                  <place>bei Pontresina</place>
+               </death>
+               <occupation>Maler</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/9845</idno></person>
+            </listPerson></back></text>
+</TEI>

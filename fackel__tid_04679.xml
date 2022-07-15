@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_04679.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04678.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04680.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Mir gewidmete Verse von Roda Roda), in: Fackel Heft 10, Nr. 253, 1908, S. 22-23</title>
+            <title type="iso-date">1908-05-9</title>
+            <title type="id">tid_04679</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">10</title><title type="heft">253</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-10-253_n0022.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/253,022</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Mir gewidmete Verse von Roda Roda)</head>
+            <p ana="pr54087">
+<space/><seg type="insult">Herr <rs type="pers" ana="n_42267" ref="#fk__p_52385">Roda Roda</rs>, die unvermeidliche Begleiterscheinung<lb/>
+ der deutschen Literatur</seg>, hat mir in der<lb/>
+<seg ana="‚Muskete‘"/>, einem <seg type="insult">Witzblatt</seg>, das so recht zum <seg type="insult">österreichischen<lb/>
+ Jammer</seg> gehört, die folgenden Verse gewidmet<lb/>
+:<lb/>
+</p>
+            <lg>
+<l>Was ist <seg type="insult">der Offensive</seg></l>
+<l>Doch für <seg type="insult">ein seltsamer Gauch</seg>!</l>
+<l>Er sammelt <choice><sic>Seldstmordmotive</sic><corr>Selbstmordmotive</corr></choice></l>
+<l>Und macht davon keinen Gebrauch!</l>
+</lg>
+            <p ana="pr54092">
+<space/>Ein Leser macht mir nun den Vorschlag, so zu<lb/>
+antworten:<lb/>
+</p>
+            <lg>
+<l>Wie witzig <seg type="insult">der Clown aller Laffen</seg></l>
+<l>Sich in der ‚<rs type="magazine" ana="werk_16084">Muskete</rs>‘ ergießt!</l>
+<l>Als ob sich ein <seg type="spc">Sammler von Waffen</seg></l>
+<l>Deshalb mit den Waffen <seg type="spc">erschießt</seg>!</l>
+</lg>
+            <p ana="pr54097">
+<space/>Und er läßt noch eine Ladung folgen:<lb/>
+</p>
+            <lg>
+<l>Doch wenn auch! Gesetzt, daß ich’s täte —</l>
+<l>So viel steht jedenfalls fest:</l>
+<l>Dann gab mir <seg type="insult">eine <rs type="magazine" ana="werk_16085">Muskete</rs></seg></l>
+<l><seg type="insult">Voll <rs type="pers" ana="n_42268" ref="#fk__p_52385">Roda Roda</rs></seg> den Rest.</l>
+</lg>
+            <p ana="pr54100">
+<rs type="pers" ana="n_42269" ref="#fk__p_50735"><AUCTOR>O. A.</AUCTOR></rs><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_52385">
+               <persName>Roda Roda, Alexander</persName>
+               <birth>
+                  <date>1872-4-13</date>
+                  <place>Drnowitz, Mähren</place>
+               </birth>
+               <death>
+                  <date>1945-8-20</date>
+                  <place>New York</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/9546</idno></person>
+            <person xml:id="fk__p_50735">
+               <persName>Andreas, Oskar</persName>
+               <birth>
+                  <date>1864-8-26</date>
+                  <place>Stettin</place>
+               </birth>
+               <occupation>Buchhändler</occupation>
+               <note type="comment">Hinweis Scheichl auf Pfäfflin-Katalog 1999</note>
+               <note type="comment">2., Schmelzgasse 9</note>
+               <note type="comment">wohnhaft zunächst in Weidlingau</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

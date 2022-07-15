@@ -1,0 +1,100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06626.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06625.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06627.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Heimg’funden, in: Fackel Heft 15, Nr. 395, 1914, S. 10-10</title>
+            <title type="iso-date">1914-01-01</title>
+            <title type="id">tid_06626</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">15</title><title type="heft">395</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-15-395_n0010.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/395,010</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Heimg’funden</head>
+            <p ana="pr89694">
+Paris, <date>1. März</date>.<lb/>
+</p>
+            <p ana="pr89695">
+<space/><foreign xml:lang="fr">»<rs type="" ana="werk_20057">Petit Journal</rs>«</foreign> teilt mit, daß der Verwaltungsrat dieser Zeitungsgesellschaft<lb/>
+ den ehemaligen Minister des Äußern <rs type="pers" ana="n_61325" ref="#fk__p_53588">Stephan Pichon</rs> und<lb/>
+den ehemaligen Ackerbauminister <rs type="pers" ana="n_61326" ref="#fk__p_40023">Clementel</rs> zu Verwaltungsräten gewählt<lb/>
+hat. <rs type="pers" ana="n_61327" ref="#fk__p_53588">Pichon</rs> ist zum Präsidenten der Gesellschaft an Stelle des eben<lb/>
+verstorbenen <rs type="pers" ana="n_61328" ref="#fk__p_39895">Charles Prevet</rs> gewählt worden und wird in dieser Eigenschaft<lb/>
+ wie sein Vorgänger <rs type="pers" ana="n_61329" ref="#fk__p_39895">Prevet</rs> die politische Leitung des <foreign xml:lang="fr">»<rs type="" ana="werk_20058">Petit<lb/>
+Journal</rs>«</foreign> übernehmen.<lb/>
+</p>
+            <p ana="pr89696">
+<space/><rs type="pers" ana="n_61330" ref="#fk__p_53588">Pichon</rs> ist aus der Journalistik hervorgegangen. Er war, ehe er<lb/>
+zur Diplomatie übertrat, Redakteur an <rs type="pers" ana="n_61331" ref="#fk__p_44326">Clemenceaus</rs> <foreign xml:lang="fr">»<rs type="paper" ana="werk_20059">Justice</rs>«</foreign> <seg type="symbol" subtype="4dots"/><lb/>
+</p>
+            <p ana="pr89698">
+<space/>Der Präsident der französischen Republik hat Heimweh, der<lb/>
+Minister des Äußern ist schon drin, und der Ackerbauminister<lb/>
+auch. Daß die <seg type="insult">Schmöcke</seg> den Staat regieren, weiß man. Aber wozu<lb/>
+den Umweg über den Staat?<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_53588">
+               <persName>Pichon, Stephan</persName>
+               <birth>
+                  <date>1857-08-10</date>
+                  <place>Arnay-le-Duc</place>
+               </birth>
+               <death>
+                  <date>1933-09-18</date>
+                  <place>Vers-en-Montagne</place>
+               </death>
+               <occupation>Politiker</occupation>
+            </person>
+            <person xml:id="fk__p_40023">
+               <persName>Clémentel, Étienne</persName>
+               <birth>
+                  <date>1864-03-29</date>
+                  <place>Clermont-Ferrand</place>
+               </birth>
+               <death>
+                  <date>1936-12-25</date>
+                  <place>Prompsat/Puy-de-Dôme</place>
+               </death>
+               <occupation>Politiker</occupation>
+            </person>
+            <person xml:id="fk__p_39895">
+               <persName>Prevet, Charles</persName>
+               <birth>
+                  <date>1852-3-18</date>
+                  <place>Paris</place>
+               </birth>
+               <death>
+                  <date>1914-2-25</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <occupation>Publizist</occupation>
+               <note type="comment">Senator</note>
+               <note type="comment">Herausgeber des "Petit Journal"</note>
+            </person>
+            <person xml:id="fk__p_44326">
+               <persName>Clemenceau, Georges</persName>
+               <birth>
+                  <date>1841-9-28</date>
+                  <place>Mouilleron-en-Pareds</place>
+               </birth>
+               <death>
+                  <date>1929-11-24</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Arzt</occupation>
+               <occupation>Politiker</occupation>
+               <note type="comment">25.10.1906-24.07.1909, 16.11.1917-20.01.1920 Ministerpräsident</note>
+               <note type="comment">1906-09, 1917-20 Ministerpräsident</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/4719</idno></person>
+            </listPerson></back></text>
+</TEI>

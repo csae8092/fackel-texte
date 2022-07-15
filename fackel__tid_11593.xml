@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_11593.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11592.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11594.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Der Einfachheit halber, in: Fackel Heft 32, Nr. 847, 1931, S. 9-10</title>
+            <title type="iso-date">1931-03-01</title>
+            <title type="id">tid_11593</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">32</title><title type="heft">847</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-32-847_n0009.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/847,009</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Der Einfachheit halber</head>
+            <p ana="pr168455">
+gehts auch so:<lb/>
+</p>
+            <p ana="pr168457">
+<space/>Es wurden in der ersten, bereits im <date>Dezember 1929</date> stattgefundenen<lb/>
+ Verhandlung eine Reihe von <seg type="spc">Protokollen</seg> verlesen, die mit<lb/>
+verschiedenen <seg type="spc">Personen</seg>, <seg type="spc">die</seg> seinerzeit unter der <rs type="inst">ungarischen</rs><lb/>
+</p>
+            <p ana="pr168457">
+<rs type="inst">Räteregierung</rs> vor ein Revolutionstribunal <seg type="spc">gestellt</seg> und durch <rs type="pers" ana="n_100827" ref="#fk__p_37955">Baron<lb/>
+Albori</rs> in Anwesenheit von Polizeiorganen <seg type="spc">aufgenommen</seg> worden<lb/>
+waren.<lb/>
+</p>
+            <p ana="pr168459">
+Vielleicht waren auch die Personen aufgenommen und die<lb/>
+Protokolle gestellt.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_37955">
+               <persName>Albori, Eugen Freiherr von</persName>
+               <birth>
+                  <date>1838-09-27</date>
+                  <place>Cattaro</place>
+               </birth>
+               <death>
+                  <date>1915-09-05</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Offizier</occupation>
+               <note type="comment">General</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

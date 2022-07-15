@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06653.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06652.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06654.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Welche Dichterinnen gelten für den ‚Türmer‘?), in: Fackel Heft 15, Nr. 395, 1914, S. 28-29</title>
+            <title type="iso-date">1914-01-01</title>
+            <title type="id">tid_06653</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">15</title><title type="heft">395</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-15-395_n0028.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/395,028</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Welche Dichterinnen gelten für den ‚Türmer‘?)</head>
+            <p ana="pr89939">
+<space/>Der ‚<rs type="magazine" ana="werk_20079">Türmer</rs>‘ ist also, wie man jetzt weiß, erhaben über<lb/>
+den Verdacht, <rs type="pers" ana="n_61506" ref="#fk__p_42561">Else Lasker-Schüler</rs> für eine Dichterin zu halten.<lb/>
+Welche <seg type="insult">Dichterinnen</seg> er für solche hält, weiß ich nicht, da ich<lb/>
+ihn, wie man jetzt weiß, zurückgeschickt habe. Zum Glück verrät es<lb/>
+mir <seg type="insult">jenes gutwillige <seg ana="Wiener Journal"/></seg>, das sich von <seg type="insult">fremdem<lb/>
+Mist</seg> nährt:<lb/>
+</p>
+            <p ana="pr89941">
+<space/><seg type="sidehead">(<seg type="spc">Moderne Poesie</seg>.)</seg> ‚<rs type="magazine" ana="werk_20081">Der Türmer</rs>‘ veröffentlicht das folgende<lb/>
+<seg type="spc">fein empfundene</seg> Gedicht:<lb/>
+</p>
+            <lg>
+<l>Meine Liebe ist ein Vöglein</l>
+<l>Im duft’gen Blütenbaum,</l>
+<l>Meine Liebe ist ein Blümlein</l>
+<l>Am bunten Waldessaum;</l>
+<l>Meine Liebe ist ein Kindchen,</l>
+</lg>
+            <lg>
+<l>Das blind vertrauend geht,</l>
+<l>Meine Liebe ist eine Mutter,</l>
+<l>Die spricht ein still Gebet.</l>
+</lg>
+            <p ana="pr89948">
+<rs type="pers" ana="n_61507" ref="#fk__p_49661"><AUCTOR>Maria Mathi</AUCTOR></rs>.<lb/>
+</p>
+            <p ana="pr89951">
+<space/>Jetzt weiß ich es.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_49661">
+               <persName>Mathi, Maria</persName>
+               <birth>
+                  <date>1889-11-05</date>
+                  <place>Hadamar/Nassau</place>
+               </birth>
+               <death>
+                  <date>1961-06-26</date>
+                  <place>Heiligenberg/Baden</place>
+               </death>
+               <occupation>Schriftstellerin</occupation>
+            </person>
+            <person xml:id="fk__p_42561">
+               <persName>Lasker-Schüler, Else</persName>
+               <birth>
+                  <date>1869-2-11</date>
+                  <place>Elberfeld</place>
+               </birth>
+               <death>
+                  <date>1945-1-22</date>
+                  <place>Jerusalem</place>
+               </death>
+               <occupation>Schriftstellerin</occupation>
+               <note type="comment">mit Kraus' Schätzung der Dichterin L. nicht einverstanden</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38973</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07005.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07004.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07006.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Die letzte Wahrheit über den Weltkrieg, in: Fackel Heft 17, Nr. 413, 1915, S. 86-86</title>
+            <title type="iso-date">1915-12-01</title>
+            <title type="id">tid_07005</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">17</title><title type="heft">413</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-17-413_n0086.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/413,086</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Die letzte Wahrheit über den Weltkrieg</head>
+            <p ana="pr95057"><seg type="symbol" subtype="ironCross"/></p>
+            <p ana="pr95058">
+Den Heldentod fürs Vaterland erlitt unser lieber,<lb/>
+jüngerer Chef Herr<lb/>
+</p>
+            <p ana="pr95058">
+<rs type="pers" ana="n_64001" ref="#fk__p_55485"><B>Wilhelm Berdux</B></rs><lb/>
+</p>
+            <p ana="pr95058">
+<B><rs type="inst">Landsturmmann</rs> in einem Infanterie-Regiment.</B><lb/>
+</p>
+            <p ana="pr95061">
+<space/><seg type="spc">Sein weiter kaufmännnischer Blick</seg> ließ ihn früh<lb/>
+<seg type="spc">die großen Kampfesziele</seg> erkennen und freudig zog er hinaus<lb/>
+<foreign xml:lang="la"><seg type="spc">pro gloria et patria</seg></foreign>.<lb/>
+</p>
+            <p ana="pr95062">
+<space/>Nun hat ihm die <seg type="spc">Norn</seg> die Wege verlegt, die treue Liebe<lb/>
+in rastloser Arbeit für ihn geebnet.<lb/>
+</p>
+            <p ana="pr95063">
+<space/>Sein hehres Bild bleibt unvergänglich in unserer Erinnerung.<lb/>
+</p>
+            <p ana="pr95064">
+<rs type="inst"><B><rs type="pers" ana="n2_5620" key="#fk__p_57563">Berdux</rs> &amp; Sohn, <abbr>G. m. b. H.</abbr></B></rs><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_55485">
+               <persName>Berdux, Wilhelm</persName>
+               <death>
+                  <date>1915</date>
+                  <place>gefallen</place>
+               </death>
+               <occupation>Kaufmann</occupation>
+               <note type="comment">Juniorchef der Fa. Berdux &amp; Sohn, G. m. b. H.</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

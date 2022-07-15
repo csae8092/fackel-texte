@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03305.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03304.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03306.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Der Entdecker des roten Phosphors, in: Fackel Heft 05, Nr. 146, 1903, S. 10-10</title>
+            <title type="iso-date">1903-11-11</title>
+            <title type="id">tid_03305</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">05</title><title type="heft">146</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-05-146_n0010.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/146,010</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Der Entdecker des roten Phosphors</head>
+            <p ana="pr32671">
+<space/><inciptit>Acht</inciptit> neue Denkmäler vor der technischen Hochschule.<lb/>
+Darunter eines für <seg type="insult">Professor <rs type="pers" ana="n_28177" ref="#fk__p_40731">Anton Schrötter Ritter von<lb/>
+Kristelli</rs> (<seg type="symbol" subtype="died"/> <date>1875</date>), Chemiker, Vater des Hofrats <rs type="pers" ana="n_28178" ref="#fk__p_41448">Leopold<lb/>
+<abbr>v.</abbr> Schrötter</rs> und Großvater des <rs type="pers" ana="n_28179" ref="#fk__p_41192">Hermann <abbr>v.</abbr> Schrötter</rs></seg>.<lb/>
+Warum? Die Zeitungen sagen kurz: »<seg type="spc">Er entdeckte<lb/>
+den roten Phosphor</seg>.« Aber sein Verdienst ist komplizierter<lb/>
+. Er entdeckte nämlich, daß der Chemiker<lb/>
+<rs type="pers" ana="n_28180" ref="#fk__p_56156"><seg type="spc">Goldmark</seg></rs> den roten Phosphor entdeckt hatte <seg type="symbol" subtype="3dots"/><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_40731">
+               <persName>Schrötter-Kristelli, Anton Ritter von</persName>
+               <birth>
+                  <date>1802-11-26</date>
+                  <place>Olmütz</place>
+               </birth>
+               <death>
+                  <date>1875-04-15</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Chemiker</occupation>
+            </person>
+            <person xml:id="fk__p_56156">
+               <persName>Goldmark, Joseph</persName>
+               <birth>
+                  <date>1818-8-15</date>
+                  <place>Keresztur/Ungarn</place>
+               </birth>
+               <death>
+                  <date>1881-4-18</date>
+                  <place>New York</place>
+               </death>
+               <occupation>Arzt</occupation>
+               <occupation>Chemiker</occupation>
+               <occupation>Politiker</occupation>
+               <note type="comment">der "eigentliche" Entdecker des roten Phosphor, nicht Schrötter-Kristelli</note>
+               <note type="comment">es gibt den Ingenieur und Erfinder Peter Carl Goldmark (Budapest 2.12.1906-8.12.1977), Großneffe Carl Goldmarks</note>
+               <note type="comment">48er Revolutionär, nach New York emigriert</note>
+               <note type="comment">Weiterentwicklung des Zündhütchens für Schußwaffen</note>
+               <note type="comment">Reichsratsabgeordneter 1848/49</note>
+            </person>
+            <person xml:id="fk__p_41192">
+               <persName>Schrötter-Kristelli, Hermann Ritter von</persName>
+               <birth>
+                  <date>1870-08-05</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1928-1-6</date>
+               </death>
+               <occupation>Arzt</occupation>
+            </person>
+            <person xml:id="fk__p_41448">
+               <persName>Schrötter-Kristelli, Leopold Ritter von</persName>
+               <birth>
+                  <date>1837-02-05</date>
+                  <place>Graz</place>
+               </birth>
+               <death>
+                  <date>1908-01-21</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Laryngologe</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

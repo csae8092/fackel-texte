@@ -1,0 +1,105 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_12179.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_12178.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_12180.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Von der Bruttoeinnahme, in: Fackel Heft 34, Nr. 876, 1932, S. 114-114</title>
+            <title type="iso-date">1932-10-01</title>
+            <title type="id">tid_12179</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">34</title><title type="heft">876</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-34-876_n0114.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/876,114</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Von der Bruttoeinnahme</head>
+            <p ana="pr177242">
+<space/>Direktor <rs type="pers" ana="n_105627" ref="#fk__p_45942">Röbbeling</rs> <seg type="spc">arbeitet schon seit Beginn seiner<lb/>
+Direktionstätigkeit daran</seg>, <rs type="pers" ana="n_105628" ref="#fk__p_42624">Emil Jannings</rs> für einige Monate<lb/>
+dem <rs type="inst">Burgtheater</rs> zu verpflichten, und hat ihm sogar einen Beteiligungsvertrag<lb/>
+ von der Bruttoeinnahme angeboten, einen Vertrag, den <seg type="spc">seit<lb/>
+Bestand des <rs type="inst">Burgtheaters</rs></seg> niemals ein Schauspieler in diesem<lb/>
+Hause hatte.<lb/>
+</p>
+            <p ana="pr177244">
+Das versteht sich doch von selbst, wie wollte man denn auch die<lb/>
+Herren <rs type="pers" ana="n_105629" ref="#fk__p_45693">Anschütz</rs>, <rs type="pers" ana="n_105630" ref="#fk__p_39121">Baumeister</rs> und <rs type="pers" ana="n_105631" ref="#fk__p_43852">Mitterwurzer</rs>, die vielleicht<lb/>
+nicht einmal wußten, was eine Bruttoeinnahme ist, mit einem<lb/>
+<rs type="pers" ana="n_105632" ref="#fk__p_42624">Jannings</rs> vergleichen?<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_42624">
+               <persName>Jannings, Emil</persName>
+               <birth>
+                  <date>1884-7-23</date>
+                  <place>Rorschach am Bodensee</place>
+               </birth>
+               <death>
+                  <date>1950-1-2</date>
+                  <place>Strobl am Wolfgangsee</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11816</idno></person>
+            <person xml:id="fk__p_45693">
+               <persName>Anschütz, Heinrich Eduard</persName>
+               <birth>
+                  <date>1785-02-08</date>
+                  <place>Luckau/Nieder-Lausitz</place>
+               </birth>
+               <death>
+                  <date>1865-12-29</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+            </person>
+            <person xml:id="fk__p_45942">
+               <persName>Röbbeling, Hermann</persName>
+               <birth>
+                  <date>1875-10-31</date>
+                  <place>Stolberg/Harz</place>
+               </birth>
+               <death>
+                  <date>1949-06-4</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <occupation>Regisseur</occupation>
+               <occupation>Theaterleiter</occupation>
+               <note type="comment">Urnenhain 1/3/9/22 (FD)</note>
+               <note type="comment">1.1.1932 bis 12.3.1938 Burgth. Dir.</note>
+            </person>
+            <person xml:id="fk__p_43852">
+               <persName>Mitterwurzer, Friedrich</persName>
+               <birth>
+                  <date>1844-10-16</date>
+                  <place>Dresden</place>
+               </birth>
+               <death>
+                  <date>1897-2-13</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <occupation>Regisseur</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12265</idno></person>
+            <person xml:id="fk__p_39121">
+               <persName>Baumeister, Bernhard</persName>
+               <birth>
+                  <date>1827-9-28</date>
+                  <place>Posen</place>
+               </birth>
+               <death>
+                  <date>1917-10-25</date>
+                  <place>Baden bei Wien</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <note type="comment">Baden Friedhof St. Helena</note>
+               <note type="comment">1852-1917 Burgtheater</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13489</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/6173</idno></person>
+            </listPerson></back></text>
+</TEI>

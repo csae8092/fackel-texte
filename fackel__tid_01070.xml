@@ -1,0 +1,93 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01070.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01069.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01071.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Hongrie-Autriche.), in: Fackel Heft 02, Nr. 045, 1900, S. 9-9</title>
+            <title type="iso-date">1900-06-01</title>
+            <title type="id">tid_01070</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">045</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-045_n0009.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/045,009</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Hongrie-Autriche.)</head>
+            <p ana="pr10200">
+<space/><inciptit>In</inciptit> Paris waren jüngst <choice><sic>bekannlich</sic><corr>bekanntlich</corr></choice> auch <seg type="insult">zwei<lb/>
+österreichische Minister, Herr <rs type="pers" ana="n_8364" ref="#fk__p_55511"><abbr>v.</abbr> Hartel</rs> und Herr <rs type="pers" ana="n_8365" ref="#fk__p_54486"><abbr>v.</abbr> Call</rs></seg>,<lb/>
+ausgestellt. <seg type="insult">Die Herren</seg> scherzten bei einem <seg type="insult">Bankett<lb/>
+des <rs type="inst">Wiener Männergesangvereins</rs></seg> und sprachen sich<lb/>
+sonst über alles, was sie sahen, »äußerst befriedigt<lb/>
+aus«. Am <date>24.</date> meldeten die Blätter, die Minister würden<lb/>
+am andern Tage den Ausstellungsannex — nicht<lb/>
+<seg type="ELIDASH">Ausstellungsconnex</seg>, wie die Blätter schrieben — in <seg type="spc">Vincennes</seg><lb/>
+besichtigen. Ueber die Beobachtungen, die <seg type="insult">die Herren</seg> in<lb/>
+diesem Theil der <rs type="event">Ausstellung</rs> gemacht haben, ist uns<lb/>
+nichts berichtet worden. Offenbar waren sie wieder<lb/>
+»<choice><sic>außerst</sic><corr>äußerst</corr></choice> befriedigt«. Sie sind ja <seg type="insult">österreichische Minister</seg>,<lb/>
+und als solche dürfen sie keinen Anstoß nehmen, dass<lb/>
+in der Exposition der Eisenbahnmaterialien, die sich<lb/>
+in Vincennes befindet, vor der österreichisch-ungarischen<lb/>
+Abtheilung eine Tafel angebracht ist, auf der — auch<lb/>
+für <seg type="insult">unseren Sectionschef <rs type="pers" ana="n_8366" ref="#fk__p_55499">Exner</rs></seg> deutlich — geschrieben<lb/>
+steht:<lb/>
+</p>
+            <p ana="pr10202">
+<seg type="insult"><foreign xml:lang="fr">Hongrie-Autriche.</foreign></seg><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_55511">
+               <persName>Hartel, Wilhelm Ritter von</persName>
+               <birth>
+                  <date>1839-05-28</date>
+                  <place>Hof/Mähren</place>
+               </birth>
+               <death>
+                  <date>1907-01-14</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Altphilologe</occupation>
+               <occupation>Politiker</occupation>
+               <note type="comment">Friedhof Penzing (=Kontrahentenfriedhof) Tel. 985 64 07</note>
+               <note type="comment">Unterrichtsminister 1900-05</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15937</idno></person>
+            <person xml:id="fk__p_54486">
+               <persName>Call zu Rosenburg und Kulmbach, Guido Freiherr von</persName>
+               <birth>
+                  <date>1849-09-06</date>
+                  <place>Triest</place>
+               </birth>
+               <death>
+                  <date>1927-05-12</date>
+                  <place>Graz</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <occupation>Diplomat</occupation>
+               <note type="comment">als Diplomat in Konstantinopel, Sofia, Tokio</note>
+               <note type="comment">Handelsminister 1900-1905</note>
+               <note type="comment">Botschafter in Japan</note>
+            </person>
+            <person xml:id="fk__p_55499">
+               <persName>Exner, Wilhelm Franz</persName>
+               <birth>
+                  <date>1840-4-9</date>
+                  <place>Unter-Gänserndorf</place>
+               </birth>
+               <death>
+                  <date>1931-5-25</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Techniker</occupation>
+               <occupation>Politiker</occupation>
+               <note type="comment">1908 Gründer des Technischen Museums</note>
+               <note type="comment">Reichsratsabgeordneter 1882-97, Herrenhaus 1905-18</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/7044</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03979.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03978.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03980.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Sammler. (Die amerikanische Sprache), in: Fackel Heft 07, Nr. 188, 1905, S. 23-23</title>
+            <title type="iso-date">1905-11-18</title>
+            <title type="id">tid_03979</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">07</title><title type="heft">188</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-07-188_n0023.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/188,023</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Sammler. (Die amerikanische Sprache)</head>
+            <p ana="pr41019">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="name_202263" ref="#fk__p_52736">Sammler</rs>.</seg></seg> In einer Literaturkritik der ‚<rs type="paper" ana="werk_14101">Neuen Freien Presse</rs>‘<lb/>
+(<date>5. November</date>), die <seg type="insult">ein Herr Professor <rs type="pers" ana="n_34169" ref="#fk__p_51305">Pawel</rs></seg> geschrieben hat, ist von<lb/>
+der Übersetzung eines Buches »ins Tschechische, Finnische, Englische,<lb/>
+<seg type="spc">Amerikanische</seg>, Französische und Holländische« die Rede. <seg type="insult">Siehe<lb/>
+da — ein <rs type="paperRef" ana="werk_14102">Weltblatt</rs>!</seg> <seg type="insult">Ein verstorbener Wiener Zeitungsherausgeber</seg>, dessen<lb/>
+<seg type="insult">analphabetische Weltanschauung</seg> berühmt geworden ist und noch heute <seg type="insult">der<lb/>
+nachstrebenden journalistischen Generation</seg> als vorbildlich gilt, wollte<lb/>
+einst <seg type="insult">irgendeinen <rs type="pers" ana="n_34170" ref="#fk__p_47268">Löwy</rs></seg> nach Brüssel schicken, stand aber von diesem<lb/>
+Plane in der Erwägung ab, daß <rs type="pers" ana="n_34171" ref="#fk__p_47268">Löwy</rs> nicht Belgisch sprechen könne.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_51305">
+               <persName>Pawel, Jaro</persName>
+               <birth>
+                  <date>1852-10-10</date>
+                  <place>Budislau/Böhm.</place>
+               </birth>
+               <death>
+                  <date>1917-03-01</date>
+                  <place>Baden/NÖ</place>
+               </death>
+               <occupation>Germanist</occupation>
+               <occupation>Sportpädagoge</occupation>
+            </person>
+            <person xml:id="fk__p_47268">
+               <persName>Löwy, Julius</persName>
+               <birth>
+                  <date>1851-09-14</date>
+                  <place>Eidlitz/Böhm.</place>
+               </birth>
+               <death>
+                  <date>1905-12-27</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/3300</idno></person>
+            <person xml:id="fk__p_52736">
+               <persName>Sammler</persName>
+            </person>
+            </listPerson></back></text>
+</TEI>

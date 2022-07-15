@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00069.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00068.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00070.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Austro-Americanus II., in: Fackel Heft 01, Nr. 004, 1899, S. 27-27</title>
+            <title type="iso-date">1899-05-01</title>
+            <title type="id">tid_00069</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">004</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-004_n0027.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/004,027</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Austro-Americanus II.</head>
+            <p ana="pr842">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><foreign xml:lang="la"><rs type="pers" ana="n_724" key="#fk__p_38618">Austro-Americanus</rs></foreign> I</seg></seg>.</seg><lb/>
+</p>
+            <p ana="pr842_a">
+Gleichzeitig<lb/>
+ eingelangt<lb/>
+<lb/></p>
+            <p ana="pr842_b">
+Sie überschätzen <rs type="pers" ana="n_725" ref="#fk__p_49745">Mark Twain</rs>.<lb/>
+</p>
+            <p ana="pr842_c">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><foreign xml:lang="la"><rs type="pers" ana="n_726" key="#fk__p_60596">Austro-Americanus</rs></foreign> II</seg></seg>.</seg><lb/>
+</p>
+            <p ana="pr842_d">
+Sie unterschätzen <rs type="pers" ana="n_727" ref="#fk__p_49745">Mark Twain</rs>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_49745">
+               <persName>Twain, Mark</persName>
+               <birth>
+                  <date>1835-11-30</date>
+                  <place>Florida, Mo.</place>
+               </birth>
+               <death>
+                  <date>1910-4-21</date>
+                  <place>Reading, Conn.</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06531.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06530.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06532.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Die Wissenschaft, in: Fackel Heft 15, Nr. 389, 1913, S. 8-8</title>
+            <title type="iso-date">1913-12-01</title>
+            <title type="id">tid_06531</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">15</title><title type="heft">389</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-15-389_n0008.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/389,008</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Die Wissenschaft</head>
+            <p ana="pr88303">
+<space/>In den <seg ana="‚Geisteswissenschaften‘ (I. Jahrgang, Heft 9)"/> steht<lb/>
+die »<rs type="title">Lehre von der Ganzheit</rs>« von <rs type="pers" ana="n_60599" ref="#fk__p_45408">Hans Driesch</rs> und dort<lb/>
+heißt es:<lb/>
+</p>
+            <p ana="pr88305">
+<space/>Der Gegenstand <seg type="spc">ist</seg>; sein Sein bedeutet aber nur sein als dieser<lb/>
+selbige bewußt gehabt werden Können.<lb/>
+</p>
+            <p ana="pr88307">
+<space/>Man soll dem <seg type="insult">Gelehrten</seg>, der da drischt, nicht das Maul<lb/>
+verbinden.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_45408">
+               <persName>Driesch, Hans Adolf Eduard</persName>
+               <birth>
+                  <date>1867-10-28</date>
+                  <place>Bad Kreuznach</place>
+               </birth>
+               <death>
+                  <date>1941-04-16</date>
+                  <place>Leipzig</place>
+               </death>
+               <occupation>Biologe</occupation>
+               <occupation>Philosoph</occupation>
+               <note type="comment">Professorenkatalog der Univ. Leipzig</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

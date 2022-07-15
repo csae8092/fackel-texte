@@ -1,0 +1,45 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_05094.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05093.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05095.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Keine Ausnahme, in: Fackel Heft 12, Nr. 301, 1910, S. 57-58</title>
+            <title type="iso-date">1910-05-3</title>
+            <title type="id">tid_05094</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">12</title><title type="heft">301</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-12-301_n0057.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/301,057</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Keine Ausnahme</head>
+            <p ana="pr65280">
+<space/>»Zeitlich kommt <abbr>Mr.</abbr> <rs type="pers" ana="n_47562" ref="#fk__p_52443">Roosevelt</rs> hier an, um 6 Uhr 45 Minuten<lb/>
+auf dem <seg type="spc">Südbahnhof</seg>. Der Bahnhofmechanismus <seg type="spc">funktioniert wie<lb/>
+immer</seg>.«<lb/>
+</p>
+            <p ana="pr65282">
+<space/>Wie? Selbst bei solcher Gelegenheit?<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_52443">
+               <persName>Roosevelt, Theodore</persName>
+               <birth>
+                  <date>1858-10-27</date>
+                  <place>New York</place>
+               </birth>
+               <death>
+                  <date>1919-01-06</date>
+                  <place>Sagamore Hill/Oyster Bay, New York</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <note type="comment">26. Präsident der USA</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_11024.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11023.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11025.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Königsberg, in: Fackel Heft 30, Nr. 800, 1929, S. 51-51</title>
+            <title type="iso-date">1929-02-01</title>
+            <title type="id">tid_11024</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">30</title><title type="heft">800</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-30-800_n0051.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/800,051</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Königsberg</head>
+            <p ana="pr158293">
+<space/><seg type="spc">Königsberg</seg><lb/>
+</p>
+            <p ana="pr158294">
+<space/><rs type="inst"><rs type="pers" ana="n2_8390" ref="#fk__p_46960">Goethebund</rs></rs>, <rs type="inst"><rs type="pers" ana="n2_8391" ref="#fk__p_55030">Hindenburgschule</rs></rs>, <date>7. Oktober</date>, 8 ¼ Uhr:<lb/>
+</p>
+            <p ana="pr158295">
+<space/>I. <rs type="title">Zum ewigen Frieden</rs> / <rs type="title">Der Bauer, der Hund und der Soldat</rs> /<lb/>
+<rs type="title"><seg type="insult">Radio</seg></rs> / <rs type="title">Leben ohne Eitelkeit</rs> / <rs type="title">Vor einem Springbrunnen</rs> / <rs type="title">Dein<lb/>
+Fehler</rs> / <rs type="title">Das Kind</rs> / Epigramme: <rs type="title"><seg type="insult"><rs type="pers" ana="n2_8392" ref="#fk__p_46960">Goethe</rs> und <rs type="pers" ana="n2_8393" ref="#fk__p_46353">Hofmannsthal</rs></seg></rs>; <rs type="title"><seg type="insult">Im Zeichen<lb/>
+des Kreuzes</seg></rs>; <rs type="title"><seg type="insult">Zum Geburtstag der Republik</seg></rs> / <rs type="title">Definitionen</rs>. — <rs type="title"><seg type="insult">Das<lb/>
+Ehrenkreuz</seg></rs>.<lb/>
+</p>
+            <p ana="pr158296">
+<space/>II. <rs type="title">Der Reim</rs> / <rs type="title">Traum vom Fliegen</rs>. — <rs type="title">Der kleine <rs type="pers" ana="n2_8394" ref="#fk__p_57616">Brockhaus</rs></rs>. —<lb/>
+<rs type="title">Todesfurcht</rs> / <rs type="title"><seg type="insult">Die Raben</seg></rs>. — <rs type="title"><seg type="insult">Reklamefahrten zur Hölle</seg></rs>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46960">
+               <persName>Goethe, Johann Wolfgang von</persName>
+               <birth>
+                  <date>1749-8-28</date>
+                  <place>Frankfurt am Main</place>
+               </birth>
+               <death>
+                  <date>1832-3-22</date>
+                  <place>Weimar</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">890/142f.</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11461</idno></person>
+            <person xml:id="fk__p_46353">
+               <persName>Hofmannsthal, Hugo Edler von</persName>
+               <birth>
+                  <date>1874-2-1</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1929-7-15</date>
+                  <place>Rodaun bei Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16293</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11740</idno></person>
+            <person xml:id="fk__p_55030">
+               <persName>Beneckendorff-Hindenburg, Paul von</persName>
+               <birth>
+                  <date>1847-10-2</date>
+                  <place>Posen</place>
+               </birth>
+               <death>
+                  <date>1934-8-2</date>
+                  <place>Neudeck</place>
+               </death>
+               <occupation>Offizier</occupation>
+               <occupation>Politiker</occupation>
+               <note type="comment">Reichspräsident seit 1925</note>
+            </person>
+            <person xml:id="fk__p_57616">
+               <persName>Brockhaus, F. A. (Verlag)</persName>
+               <note type="comment">in Leipzig</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

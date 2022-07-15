@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00728.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00727.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00729.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Graf Goluchowski, I., Ballplatz. (Graf Goluchowski), in: Fackel Heft 01, Nr. 030, 1900, S. 30-30</title>
+            <title type="iso-date">1900-01-01</title>
+            <title type="id">tid_00728</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">030</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-030_n0030.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/030,030</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Graf Goluchowski, I., Ballplatz. (Graf Goluchowski)</head>
+            <p ana="pr6952">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_5368" ref="#fk__p_44673">Graf Goluchowski</rs>, I., Ballplatz.</seg></seg> Wann werden die serbischen<lb/>
+Gefangenen amnestiert? Der <date>13. Jänner</date> ist längst vorbei, und<lb/>
+aus Belgrad dringt keine andere Nachricht als die, dass <seg type="insult">der<lb/>
+Onkel <rs type="pers" ana="n_5369" ref="#fk__p_48031">Milans</rs>, Chef des <rs type="inst">Verzehrungssteueramtes</rs></seg>, 1½ Millionen<lb/>
+Dinaren defraudiert hat. Das ist doch keine Entschädigung? Ich<lb/>
+glaube, die Sache wird unangenehme Folgen für Sie haben. Vergessen<lb/>
+Sie nicht, was ich Ihnen in <rs type="selfRef" ana="werk_1869"><abbr>Nr.</abbr> 28</rs> gesagt. Sie haben <seg type="insult">den Großneffen<lb/>
+ des Belgrader Defraudanten</seg> in die Wiener Hofburg eingeführt!<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_48031">
+               <persName>Milan I. Obrenović, König von Serbien</persName>
+               <birth>
+                  <date>1854-8-22</date>
+                  <place>Jassy</place>
+               </birth>
+               <death>
+                  <date>1901-2-11</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>König</occupation>
+            </person>
+            <person xml:id="fk__p_44673">
+               <persName>Goluchowski, Agenor Graf</persName>
+               <birth>
+                  <date>1849-03-25</date>
+                  <place>Lemberg</place>
+               </birth>
+               <death>
+                  <date>1921-03-28</date>
+                  <place>Lemberg</place>
+               </death>
+               <occupation>Diplomat</occupation>
+               <occupation>Politiker</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

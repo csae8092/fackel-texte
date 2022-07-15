@@ -1,0 +1,47 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_08956.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08955.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08957.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Festsaal des Niederöst. Gewerbe-Vereines, 24. März, ½7 Uhr:, in: Fackel Heft 23, Nr. 568, 1921, S. 42-42</title>
+            <title type="iso-date">1921-05-01</title>
+            <title type="id">tid_08956</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">23</title><title type="heft">568</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-23-568_n0042.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/568,042</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Festsaal des Niederöst. Gewerbe-Vereines, 24. März, ½7 Uhr:</head>
+            <p ana="pr119280">
+<space/><rs type="inst">Festsaal des <abbr>Niederöst.</abbr> Gewerbe-Vereines</rs>, <date>24. März</date>, ½7 Uhr:<lb/>
+</p>
+            <p ana="pr119281">
+<space/><rs type="title"><rs type="pers"><seg type="spc">Clavigo</seg></rs></rs>. Ein Trauerspiel in fünf Akten von <rs type="pers" ana="n_73365" ref="#fk__p_46960"><seg type="spc">Goethe</seg></rs>.<lb/>
+</p>
+            <p ana="pr119282">
+<space/>Der volle Ertrag dieser Vorlesung — wie oben —: K 13.298<ADD>·</ADD>20,<lb/>
+für die »<rs type="inst">Gesellschaft der Feunde</rs>« (I. Singerstraße 16).<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46960">
+               <persName>Goethe, Johann Wolfgang von</persName>
+               <birth>
+                  <date>1749-8-28</date>
+                  <place>Frankfurt am Main</place>
+               </birth>
+               <death>
+                  <date>1832-3-22</date>
+                  <place>Weimar</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">890/142f.</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11461</idno></person>
+            </listPerson></back></text>
+</TEI>

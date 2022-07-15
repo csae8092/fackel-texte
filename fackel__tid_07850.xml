@@ -1,0 +1,111 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07850.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07849.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07851.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Vorlesung im Kleinen Konzerthaussaal, Sonntag, 1. April 1917,, in: Fackel Heft 19, Nr. 457, 1234, S. 62-62</title>
+            <title type="iso-date">1234-01-01</title>
+            <title type="id">tid_07850</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">19</title><title type="heft">457</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-19-457_n0062.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/457,062</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Vorlesung im Kleinen Konzerthaussaal, Sonntag, 1. April 1917,</head>
+            <p ana="pr105153">
+<space/>Vorlesung im <rs type="inst">Kleinen Konzerthaussaal</rs>, Sonntag, <date>1. April 1917</date>,<lb/>
+3 Uhr nachmittags:<lb/>
+</p>
+            <p ana="pr105154">
+<space/>I. <rs type="title"><seg type="insult"><seg type="spc"><rs type="pers" ana="n2_5958" ref="#fk__p_46960">Goethes</rs> Volk</seg></seg></rs> / <rs type="title"><seg type="insult"><seg type="spc">Von einem Mann namens<lb/>
+<rs type="pers" ana="n2_5959" ref="#fk__p_51638">Ernst Posse</rs></seg></seg></rs> / <rs type="title"><seg type="insult">Ein Irrsinniger auf dem Einspännergaul</seg></rs> / Aus:<lb/>
+<rs type="pers" ana="n_67301" ref="#fk__p_43426"><seg type="spc">François Rabelais’</seg></rs> »<rs type="title"><rs type="pers"><seg type="spc">Gargantua</seg></rs></rs>« (»<rs type="title">Wie etliche von<lb/>
+<rs type="pers">Pikrochollers</rs> Hauptleuten ihn durch hitzige Ratschläge in Gefahr<lb/>
+brachten</rs>.«) Übersetzung von <rs type="pers" ana="n_67302" ref="#fk__p_45639">Hegaur</rs> und <rs type="pers" ana="n_67303" ref="#fk__p_51029">Owlglaß</rs>. II. <rs type="title">Keine <seg type="insult">Schweißfüße<lb/>
+</seg> mehr!</rs> / <rs type="title">Das kann in England nicht ohne Eindruck bleiben</rs> /<lb/>
+<rs type="title"><seg type="insult">Einer aus dem Schützengraben</seg></rs> / <rs type="title">Schon wieder eine Forderung!</rs> /<lb/>
+<rs type="title">Ich höre</rs> / <rs type="title"><seg type="insult">Ein Bild</seg></rs> / <rs type="title"><seg type="insult">Zeichen und Wunder</seg></rs> / <rs type="title">Das hätte ich nicht<lb/>
+erfinden können</rs> / <rs type="title">Pfleget den <seg type="insult">Fremdenverkehr</seg></rs> / <rs type="title">Was sich am Ende<lb/>
+der Zeit begab</rs>. III. <rs type="title"><seg type="spc">Die letzten Tage der Menschheit</seg></rs><lb/>
+(Aktschluß einer Tragödie) / <rs type="title"><seg type="spc">Gebet</seg></rs>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46960">
+               <persName>Goethe, Johann Wolfgang von</persName>
+               <birth>
+                  <date>1749-8-28</date>
+                  <place>Frankfurt am Main</place>
+               </birth>
+               <death>
+                  <date>1832-3-22</date>
+                  <place>Weimar</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">890/142f.</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11461</idno></person>
+            <person xml:id="fk__p_43426">
+               <persName>Rabelais, François</persName>
+               <birth>
+                  <date>1494?</date>
+                  <place>Chinon?/Indre-et-Loire</place>
+               </birth>
+               <death>
+                  <date>1553-4-9</date>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Philosoph</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/39268</idno></person>
+            <person xml:id="fk__p_51638">
+               <persName>Posse, Ernst</persName>
+               <birth>
+                  <date>1860-02-14</date>
+                  <place>Elberfeld</place>
+               </birth>
+               <death>
+                  <date>1943-02-6</date>
+                  <place>Berlin</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Chefred. der Kölnischen Zeitung</note>
+            </person>
+            <person xml:id="fk__p_45639">
+               <persName>Hegaur, Engelbert</persName>
+               <birth>
+                  <date>1879-2-8</date>
+                  <place>Engen/Hegau</place>
+               </birth>
+               <death>
+                  <date>1940-3-3</date>
+                  <place>Karlsruhe-Rüppur</place>
+               </death>
+               <occupation>Übersetzer</occupation>
+               <occupation>Verleger</occupation>
+               <occupation>Bibliothekar</occupation>
+               <occupation>Literarhistoriker</occupation>
+               <note type="comment">übers. mit Dr. Owlglass (d. i. Hans Erich Blaich) Gargantua und Pantagruel von Rabelais, 1905</note>
+               <note type="comment">Rabelais</note>
+            </person>
+            <person xml:id="fk__p_51029">
+               <persName>Owlglaß, d. i. Hans Erich Blaich</persName>
+               <birth>
+                  <date>1873-1-19</date>
+                  <place>Leutkirch/Allgäu</place>
+               </birth>
+               <death>
+                  <date>1945-10-29</date>
+                  <place>Fürstenfeldbruck</place>
+               </death>
+               <occupation>Arzt</occupation>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Übersetzer</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

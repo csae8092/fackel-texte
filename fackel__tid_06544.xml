@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06544.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06543.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06545.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Berlin, im großen Saal des Architektenhauses, 22. November:, in: Fackel Heft 15, Nr. 389, 1913, S. 21-21</title>
+            <title type="iso-date">1913-12-01</title>
+            <title type="id">tid_06544</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">15</title><title type="heft">389</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-15-389_n0021.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/389,021</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Berlin, im großen Saal des Architektenhauses, 22. November:</head>
+            <p ana="pr88440">
+<space/>Berlin, im <rs type="inst">großen Saal des Architektenhauses</rs>, <date>22. November</date>:<lb/>
+</p>
+            <p ana="pr88442">
+<space/>I. <rs type="title">Mir schwirrt der Kopf</rs>; <rs type="title"><seg type="insult">Die Welt der Woche</seg></rs>; <rs type="title">Was wir<lb/>
+hoffen</rs>; <rs type="title">Der kleine <rs type="pers" ana="n2_5348" ref="#fk__p_57616">Brockhaus</rs></rs>; <rs type="title">Wir haben es besser</rs>; <rs type="title">Aphorismus von<lb/>
+den <seg type="insult">Dummköpfen</seg></rs>; <rs type="title"><rs type="pers" ana="n2_5349" ref="#fk__p_50893">Kokoschka</rs> und der andere</rs>; <rs type="title"><seg type="insult">Kompagnons</seg></rs> / <rs type="title">Die<lb/>
+neue Art des Schimpfens</rs> II. <rs type="title"><seg type="insult">Den im Grunewald</seg></rs> / <rs type="title"><seg type="insult">Die Sprache der<lb/>
+Konzertagentur</seg></rs>; <rs type="title">Wenn <seg type="insult">Herr <rs type="pers" ana="n2_5350" ref="#fk__p_49994">Harden</rs></seg> glaubt</rs>; <rs type="title">Der Sadist</rs>; <rs type="title"><seg type="insult">Ein Satz</seg></rs>;<lb/>
+<rs type="title"><seg type="insult">Der liebe Gott</seg></rs>; <rs type="title">Das kommt von den <seg type="insult">Vorurteilen</seg></rs>; <rs type="title">In der Werkstatt</rs>;<lb/>
+<rs type="title">In Ehrerbietung</rs>; <rs type="title">Es ist nicht wahr <seg type="symbol" subtype="3dots"/></rs>; <rs type="title">Pfleget den <seg type="insult">Fremdenverkehr</seg></rs> /<lb/>
+<rs type="title"><seg type="insult">Der Neger</seg></rs> III. <rs type="title"><seg type="insult">Tod und Tango</seg></rs>. — <rs type="title"><seg type="insult">Weiße Frau und schwarzer Mann</seg></rs> /<lb/>
+<rs type="title">Der sterbende Mensch</rs>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_57616">
+               <persName>Brockhaus, F. A. (Verlag)</persName>
+               <note type="comment">in Leipzig</note>
+            </person>
+            <person xml:id="fk__p_49994">
+               <persName>Harden, Maximilian</persName>
+               <birth>
+                  <date>1861-10-20</date>
+                  <place>Berlin</place>
+               </birth>
+               <death>
+                  <date>1927-10-30</date>
+                  <place>Montana-Vermala, Schweiz</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Publizist</occupation>
+               <note type="comment">166/18 Johannes</note>
+               <note type="comment">Hrsg. der "Zukunft"</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11581</idno></person>
+            <person xml:id="fk__p_50893">
+               <persName>Kokoschka, Oskar</persName>
+               <birth>
+                  <date>1886-3-1</date>
+                  <place>Pöchlarn, Niederösterreich</place>
+               </birth>
+               <death>
+                  <date>1980-2-22</date>
+                  <place>Villeneuve, Schweiz</place>
+               </death>
+               <occupation>Maler</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11958</idno></person>
+            </listPerson></back></text>
+</TEI>

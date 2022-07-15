@@ -1,0 +1,46 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07458.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07457.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07459.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Bibliographisches), in: Fackel Heft 18, Nr. 437, 1916, S. 62-62</title>
+            <title type="iso-date">1916-11-01</title>
+            <title type="id">tid_07458</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">18</title><title type="heft">437</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-18-437_n0062.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/437,062</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Bibliographisches)</head>
+            <p ana="pr100219">
+<space/><seg type="spc">Bibliographisches</seg>. ‚<rs type="paper" ana="werk_20818">Der Abend</rs>‘ (Wien, <date>25. <abbr>Sept.</abbr></date>):<lb/>
+»<rs type="title"><rs type="pers" ana="n2_5793" ref="#fk__p_47565">Karl Kraus</rs>. Ein Eindruck</rs>.« — ‚<rs type="paper" ana="werk_20819">Arbeiter-Zeitung</rs>‘ (Wien, <date>26. <abbr>Sept.</abbr></date>):<lb/>
+»<rs type="title">Vorlesung <rs type="pers" ana="n2_5794" ref="#fk__p_47565">Karl Kraus</rs>.</rs>«<lb/>
+</p>
+            <p ana="pr100222">
+<space/>Das Gedicht »<rs type="title">Sendung</rs>« (<abbr>S.</abbr> 72) ist das letzte aus dem Buche<lb/>
+»<rs type="title">Worte in Versen</rs>«.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_47565">
+               <persName>Kraus, Karl</persName>
+               <birth>
+                  <date>1874-4-28</date>
+                  <place>Jicin, Böhmen</place>
+               </birth>
+               <death>
+                  <date>1936-6-12</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Publizist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11988</idno></person>
+            </listPerson></back></text>
+</TEI>

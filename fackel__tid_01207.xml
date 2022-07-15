@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01207.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01206.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01208.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Habitué. (»Die Weber« in Pressburg), in: Fackel Heft 02, Nr. 051, 1900, S. 27-28</title>
+            <title type="iso-date">1900-08-01</title>
+            <title type="id">tid_01207</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">051</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-051_n0027.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/051,027</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Habitué. (»Die Weber« in Pressburg)</head>
+            <p ana="pr11571">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_9455" ref="#fk__p_45322">Habitué</rs>.</seg></seg> Die <rs type="inst">Wiener Polizei</rs> hat die »<RS pers="Gerhart Hauptmann"><rs type="title" ana="name_201847" ref="#fk__p_44354">Weber</rs></RS>« verboten, und<lb/>
+in Pressburg werden sie aufgeführt. Das Publicum freilich, das <seg type="insult">die<lb/>
+kurze Fahrt ins gelobte Land der Freiheit</seg> nicht scheut, scheint es<lb/>
+darauf abgesehen zu haben, die <rs type="inst">Wiener Polizei</rs> ins Recht zu setzen,<lb/>
+die bekanntlich von der Ansicht ausgeht, die »<RS pers="Gerhart Hauptmann"><rs type="title" ana="name_201848" ref="#fk__p_44354">Weber</rs></RS>« seien keine<lb/>
+künstlerische Schilderung, sondern ein <seg type="insult">»Tendenzstück«</seg>. Ich glaube<lb/>
+nicht, dass es <seg type="spc">Arbeiter</seg> waren, die kürzlich im Pressburger Theater<lb/>
+den <seg type="insult">Radau</seg> aufführten, der einem Wiener Censor das Herz im Leibe<lb/>
+hüpfen gemacht hätte. Der Kunstgeschmack der Arbeiter scheint von dem<lb/>
+der socialdemokratischen Handlungsgehilfen und Studenten doch recht<lb/>
+verschieden zu sein. Dass die Plünderung der Wohnung des <rs type="pers">Fabrikanten<lb/>
+Dreißiger</rs> dröhnenden Jubel weckt, mag immerhin nicht der bloßen Befriedigung<lb/>
+</p>
+            <p ana="pr11571">
+ über das <seg type="ELIDASH"/> und Kleinschlagen einer Zimmereinrichtung,<lb/>
+sondern der ergreifenden Wirkung zuzuschreiben sein, die die fast<lb/>
+mechanische Rache der vorerst schüchtern den ungewohnten Glanz betrachtenden<lb/>
+ Hungergestalten hervorruft. Aber das Bravorufen in die Scene,<lb/>
+da <rs type="pers">der junge Hilse</rs> dem starrgläubigen Vater gegenüber Zweifel an dem<lb/>
+Jenseits ausdrückt, dürfte gerade nicht dem proletarischen Empfinden<lb/>
+entstammt sein. Die <seg type="insult">tumultuarische Zustimmung</seg>, die <rs type="pers" ana="n_9456" ref="#fk__p_44354">Hauptmann</rs><lb/>
+in Pressburg fand, ist fast geschmackloser noch als das <seg type="insult">Abwehrgetrampel<lb/>
+</seg> gegen <seg type="insult">Herrn <rs type="pers" ana="n_9457" ref="#fk__p_43450">Adamus</rs></seg> in Wien und Prag. Hier wird <seg type="insult">ein<lb/>
+herzlich uninteressanter Stückeschreiber</seg>, dort gar der Censor zum<lb/>
+<seg type="insult">Märtyrer</seg>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_45322">
+               <persName>Habitué</persName>
+            </person>
+            <person xml:id="fk__p_43450">
+               <persName>Adamus, Franz</persName>
+               <birth>
+                  <date>1867-10-15</date>
+                  <place>Auschwitz</place>
+               </birth>
+               <death>
+                  <date>1948-6-8</date>
+                  <place>Bad Ischl</place>
+               </death>
+               <occupation>Gymnasiallehrer</occupation>
+               <occupation>Schriftsteller</occupation>
+            </person>
+            <person xml:id="fk__p_44354">
+               <persName>Hauptmann, Gerhart</persName>
+               <birth>
+                  <date>1862-11-15</date>
+                  <place>Salzbrunn, Schlesien</place>
+               </birth>
+               <death>
+                  <date>1946-6-6</date>
+                  <place>Agnetendorf</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Ögg teilt die indirekte Stelle 521/64 zu, irrtümlich</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11617</idno></person>
+            </listPerson></back></text>
+</TEI>

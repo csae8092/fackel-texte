@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_12323.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_12322.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_12324.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Zitat, in: Fackel Heft 37, Nr. 909, 1935, S. 43-43</title>
+            <title type="iso-date">1935-05-01</title>
+            <title type="id">tid_12323</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">37</title><title type="heft">909</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-37-909_n0043.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/909,043</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Zitat</head>
+            <p ana="pr182211">
+<space/>Aus der Biographie von <rs type="pers" ana="n_107863" ref="#fk__p_49190">Louis Schneider</rs>:<lb/>
+</p>
+            <p ana="pr182213">
+<space/>— — <foreign xml:lang="fr">Les deux compositeurs, sur le terrain mélodique, sont<lb/>
+frères: l’Angélus du <rs type="title"><seg type="i"><B>Mariage aux Lanternes</B></seg></rs>, <seg type="spc">l’air de la <rs type="title"><seg type="i"><B>Chanson de<lb/>
+<rs type="pers">Fortunio</rs></B></seg></rs></seg>, la lettre de la <rs type="title"><rs type="pers"><seg type="i"><B>Périchole</B></seg></rs></rs>, certaines courbes de phrases musicales<lb/>
+de la <rs type="title"><seg type="i"><B>Belle <rs type="pers">Hélène</rs></B></seg></rs>, de la <rs type="title"><seg type="i"><B>Vie Parisienne</B></seg></rs> même, sont tombées du ciel comme<lb/>
+certains andantes ou certaines ariettes de <rs type="pers" ana="n_107864" ref="#fk__p_55699">Mozart</rs>. (<rs type="pers" ana="n_107865" ref="#fk__p_52212">Wagner</rs> lui-même,<lb/>
+avant sa brouille avec <rs type="pers" ana="n_107866" ref="#fk__p_46664">Offenbach</rs> <seg type="symbol" subtype="4dots"/> avait baptisé <rs type="pers" ana="n_107867" ref="#fk__p_46664">Offenbach</rs> «le petit<lb/>
+<rs type="pers" ana="n_107868" ref="#fk__p_55699">Mozart</rs> des Champs-Elysées)».</foreign><lb/>
+</p>
+            <p ana="pr182214">
+<space/><foreign xml:lang="fr">Il est inutile de fair à nouveau, après le livre de <rs type="pers" ana="n_107869" ref="#fk__p_38228">Martinet</rs> que<lb/>
+nous avons cité plus d’une fois, le récit des funérailles du compositeur,<lb/>
+funérailles à la Madeleine, auxquelles tout ce qui comptait dans Paris<lb/>
+prit part, où la <rs type="title"><seg type="i"><B>Chanson de <rs type="pers">Fortunio</rs></B></seg></rs> fut exécutée au grand-orgue au milieu<lb/>
+de l’émotion et même des larmes des assistants.</foreign> — —<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_38228">
+               <persName>Martinet, André</persName>
+               <birth>
+                  <date>1860</date>
+               </birth>
+               <death>
+                  <date>1920</date>
+               </death>
+               <occupation>Historiker</occupation>
+            </person>
+            <person xml:id="fk__p_49190">
+               <persName>Schneider, Louis</persName>
+               <birth>
+                  <date>1861-6-23</date>
+                  <place>Lyon</place>
+               </birth>
+               <death>
+                  <date>1934-8-21</date>
+                  <place>Grenoble</place>
+               </death>
+               <occupation>Musikkritiker</occupation>
+               <note type="comment">Liste "Theater der Dichtung"</note>
+               <note type="comment">Autor: Les maitres de l'operette francaise: Offenbach. Paris: Perrin 1923</note>
+            </person>
+            <person xml:id="fk__p_55699">
+               <persName>Mozart, Wolfgang Amadeus</persName>
+               <birth>
+                  <date>1756-1-27</date>
+                  <place>Salzburg</place>
+               </birth>
+               <death>
+                  <date>1791-12-5</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Komponist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12303</idno></person>
+            <person xml:id="fk__p_46664">
+               <persName>Offenbach, Jacques</persName>
+               <birth>
+                  <date>1819-06-21</date>
+                  <place>Köln</place>
+               </birth>
+               <death>
+                  <date>1880-10-05</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Komponist</occupation>
+               <note type="comment">Ögg teilt Fortunato F 876/34 Shakespeare zu</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/9131</idno></person>
+            <person xml:id="fk__p_52212">
+               <persName>Wagner, Richard</persName>
+               <birth>
+                  <date>1813-5-22</date>
+                  <place>Leipzig</place>
+               </birth>
+               <death>
+                  <date>1883-2-13</date>
+                  <place>Venedig</place>
+               </death>
+               <occupation>Komponist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/13024</idno></person>
+            </listPerson></back></text>
+</TEI>

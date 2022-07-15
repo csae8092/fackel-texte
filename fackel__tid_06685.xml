@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06685.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06684.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06686.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Analyse eines Kunstwerkes, in: Fackel Heft 15, Nr. 395, 1914, S. 53-54</title>
+            <title type="iso-date">1914-01-01</title>
+            <title type="id">tid_06685</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">15</title><title type="heft">395</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-15-395_n0053.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/395,053</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Analyse eines Kunstwerkes</head>
+            <p ana="pr90245">
+<space/><seg type="symbol" subtype="4dots"/> deshalb sucht er fortwährend nach neuen Aufgaben, nach<lb/>
+Problemen, an denen er seinen Ehrgeiz einigermaßen stillen kann <seg type="symbol" subtype="4dots"/><lb/>
+Im Zusammenhang dieser Entwicklung <seg type="symbol" subtype="4dots"/> Das Problem <seg type="symbol" subtype="4dots"/> Wert<lb/>
+und Bedeutung <seg type="symbol" subtype="4dots"/> in großen dramatischen Auseinandersetzungen <seg type="symbol" subtype="4dots"/><lb/>
+</p>
+            <p ana="pr90247">
+<space/><seg type="insult">Wer? <rs type="pers" ana="n_61643" ref="#fk__p_43530">Lehar</rs>.</seg><lb/>
+</p>
+            <p ana="pr90249">
+<space/>Der mitreißende Schlager, der fehlt diesmal, was vermutlich die<lb/>
+künstlerische Absicht des Komponisten war <seg type="symbol" subtype="4dots"/><lb/>
+</p>
+            <p ana="pr90251">
+<space/><seg type="insult">Wessen? <rs type="pers" ana="n_61644" ref="#fk__p_43530">Lehars</rs>.</seg><lb/>
+</p>
+            <p ana="pr90253">
+<space/>Im übrigen haben die beiden Librettisten ihre Arbeit recht<lb/>
+sorglos verrichtet und im Gegensatz zu ihrem Komponisten bekunden<lb/>
+sie gar keinen künstlerischen Ehrgeiz.<lb/>
+</p>
+            <p ana="pr90255">
+<space/><seg type="insult">Wer? <rs type="pers" ana="n_61645" ref="#fk__p_42043">Willner</rs> und <rs type="pers" ana="n_61646" ref="#fk__p_52327">Bodanzky</rs>.</seg><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_42043">
+               <persName>Willner, Alfred M.</persName>
+               <birth>
+                  <date>1859-07-11</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1929-10-27</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Journalist</occupation>
+               <note type="comment">Librettist für Lehár, Kálmán, Fall, Korngold</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_21355</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10550</idno></person>
+            <person xml:id="fk__p_43530">
+               <persName>Lehár, Franz</persName>
+               <birth>
+                  <date>1870-4-30</date>
+                  <place>Komorn, Ungarn</place>
+               </birth>
+               <death>
+                  <date>1948-10-24</date>
+                  <place>Bad Ischl</place>
+               </death>
+               <occupation>Komponist</occupation>
+               <note type="comment">irrt. von Ögg zugeteilte Stellen: 400/63, 418/25, 568/25, 588/38, 917/56, 61</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/8552</idno></person>
+            <person xml:id="fk__p_52327">
+               <persName>Bodanzky, Robert</persName>
+               <birth>
+                  <date>1879-3-20</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1923-11-2</date>
+                  <place>Berlin</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Librettist</occupation>
+               <note type="comment">seine Kunstsammlung versteigert: NWJ 28.12.1923</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/14346</idno></person>
+            </listPerson></back></text>
+</TEI>

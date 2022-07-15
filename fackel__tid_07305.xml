@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07305.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07304.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07306.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Der ruhmlose Abschluß einer großen Laufbahn, in: Fackel Heft 18, Nr. 431, 1916, S. 50-50</title>
+            <title type="iso-date">1916-08-01</title>
+            <title type="id">tid_07305</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">18</title><title type="heft">431</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-18-431_n0050.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/431,050</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Der ruhmlose Abschluß einer großen Laufbahn</head>
+            <p ana="pr98684">
+Wien, <date>21. Juni</date>.<lb/>
+</p>
+            <p ana="pr98685">
+<space/>Das holländische Blatt <foreign xml:lang="nl">»<rs type="" ana="werk_20660">Vaderland</rs>«</foreign> hatte vor einigen Tagen<lb/>
+die Möglichkeit erwähnt, daß <rs type="pers" ana="n_65288" ref="#fk__p_47846">Kitchener</rs> in der <rs type="event">Seeschlacht vor dem<lb/>
+Skagerrak</rs> sein Ende gefunden habe. Einer näheren Prüfung hält <seg type="spc">diese<lb/>
+Lesart</seg>, wie die »<rs type="paper" ana="werk_20661"><seg type="spc">Kölnische Zeitung</seg></rs>« ausführt, nicht stand. Das<lb/>
+ergibt sich aus folgenden Tatsachen <seg type="symbol" subtype="4dots"/> <seg type="spc">Feststeht</seg>, daß <rs type="pers" ana="n_65289" ref="#fk__p_47846">Kitchener</rs><lb/>
+durch eine <seg type="spc">deutsche Waffe</seg>, mag es nun eine Mine oder ein Torpedo<lb/>
+gewesen sein, seinen Tod fand.<lb/>
+</p>
+            <p ana="pr98687">
+<space/>Feststeht und treu.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_47846">
+               <persName>Kitchener, Horatio Herbert Viscount</persName>
+               <birth>
+                  <date>1850-6-24</date>
+                  <place>Ballylongford/Count Kerry/Irland</place>
+               </birth>
+               <death>
+                  <date>1916-6-5</date>
+                  <place>bei den Orkney Islands/Schottland</place>
+               </death>
+               <occupation>Offizier</occupation>
+               <occupation>Diplomat</occupation>
+               <occupation>Politiker</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16863</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/19366</idno></person>
+            </listPerson></back></text>
+</TEI>

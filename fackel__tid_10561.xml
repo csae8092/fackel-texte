@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_10561.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10560.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10562.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Waffenruhe, in: Fackel Heft 28, Nr. 735, 1926, S. 11-11</title>
+            <title type="iso-date">1926-10-01</title>
+            <title type="id">tid_10561</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">28</title><title type="heft">735</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-28-735_n0011.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/735,011</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Waffenruhe</head>
+            <p ana="pr146920">
+<space/>(<rs type="inst"><rs type="pers">Kronos</rs> <SPAN cont="Verlags-A.G.">Verlags-<abbr>A.-G.</abbr></SPAN></rs>) Die <rs type="inst"><rs type="pers">Kronos</rs> <SPAN cont="Verlags-A.G.">Verlags-<abbr>A.-G.</abbr></SPAN></rs> hat nach<lb/>
+langen Verhandlungen die Inseratenannahme für die in ihrem Verlage<lb/>
+erscheinenden Blätter an die Firmen <rs type="inst"><rs type="pers" ana="n2_7857" ref="#fk__p_58060">Haasenstein</rs> <abbr>u.</abbr> <SPN cont="Vogler A.-G."><rs type="pers" ana="n2_7858" ref="#fk__p_59089">Vogler</rs> <abbr>A.-G.</abbr></SPN></rs> und<lb/>
+<rs type="inst"><rs type="pers" ana="n2_7859" ref="#fk__p_49438"><abbr>M.</abbr> Dukes</rs> <abbr>Nachf.</abbr></rs> verpachtet.<lb/>
+</p>
+            <p ana="pr146922">
+Also <seg type="spc">das</seg> hätten die in Sizilien nicht getan!<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_49438">
+               <persName>Dukes, Max</persName>
+               <birth>
+                  <date>1850-6-5</date>
+                  <place>Kuchel/Ungarn</place>
+               </birth>
+               <death>
+                  <date>1915-4-7</date>
+                  <place>Wien</place>
+               </death>
+               <note type="comment">1., Wollzeile 9</note>
+               <note type="comment"/>
+            </person>
+            <person xml:id="fk__p_58060">
+               <persName>Hasenstein, Ferdinand</persName>
+               <birth>
+                  <date>1828-02-13</date>
+                  <place>Gräfentonna/Thüringen</place>
+               </birth>
+               <death>
+                  <date>1901-5-22</date>
+                  <place>Birkenwerder bei Berlin</place>
+               </death>
+               <occupation>Inseratenmakler</occupation>
+            </person>
+            <person xml:id="fk__p_59089">
+               <persName>Vogler (Haasenstein &amp; Vogler A. G., Verlag)</persName>
+               <note type="comment">Leipzig</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_10943.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10942.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10944.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Das abgehackte Bein, in: Fackel Heft 29, Nr. 759, 1927, S. 100-100</title>
+            <title type="iso-date">1927-06-01</title>
+            <title type="id">tid_10943</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">29</title><title type="heft">759</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-29-759_n0100.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/759,100</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Das abgehackte Bein</head>
+            <p ana="pr152794">
+im Prozeß <rs type="pers" ana="n_91224" ref="#fk__p_49623">Marek</rs> — ja, so was kommt nicht wieder. Das waren,<lb/>
+in <seg type="insult">Pathos und Humor</seg>, <seg type="insult">Tage des Festes</seg>, gegen deren Fülle die<lb/>
+<seg type="insult">Eindrücke der folgenden <rs type="pers" ana="n_91225" ref="#fk__p_49349"><seg type="ELIDASH">Beethoven-Woche</seg> und <rs type="pers" ana="n_91226" ref="#fk__p_40688">Ahrer-Woche</rs></rs></seg> nicht<lb/>
+mehr aufkommen konnten. Der Höhepunkt: die bewegte Schlußszene<lb/>
+ nach dem Freispruch, mit dem Blumenstrauß für den<lb/>
+Vorsitzenden, auf den er jedoch zugunsten der Angeklagten<lb/>
+verzichtet hat. <seg type="insult">Den Ausbrüchen des Gemütes</seg> entsprachen die <seg type="insult">des<lb/>
+<SPAN cont="Götz-Humors">‚<rs type="" ana="werk_27826">Götz</rs>‘-Humors</SPAN></seg>, und <seg type="insult">die Wiener Phantasie</seg> war von zehntausend<lb/>
+abgehackten Beinen erfüllt, die in Bild und Wort dem Zeitungsleser<lb/>
+ vorgestellt wurden. Kein Wunder, daß dem <seg type="insult">Gerichtssaalpsychologen<lb/>
+</seg> da der Satz entfuhr:<lb/>
+</p>
+            <p ana="pr152796">
+»Haben Sie das Urteil verstanden?« fragt der Vorsitzende freundlich.<lb/>
+Sie haben verstanden, sie nicken. <rs type="pers" ana="n_91227" ref="#fk__p_51278">Paula Löwenstein</rs> <seg type="spc">hüpft auf die<lb/>
+Beine</seg>: »Ja, bitte!«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_40688">
+               <persName>Ahrer, Jakob</persName>
+               <birth>
+                  <date>1888-11-28</date>
+                  <place>St. Stefan ob Leoben/Stmk.</place>
+               </birth>
+               <death>
+                  <date>1962-3-31</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <note type="comment">1924-26 Finanzminister</note>
+            </person>
+            <person xml:id="fk__p_49623">
+               <persName>Marek, Martha, geb. Löwenstein</persName>
+               <birth>
+                  <date>1897?</date>
+                  <place>Wien?</place>
+               </birth>
+               <death>
+                  <date>1938-12-6</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Mörderin</occupation>
+               <note type="comment">mail KK-Liste 05.06.07</note>
+               <note type="comment">Marek-Prozeß 28. 03. bis 09. 04. 1927</note>
+            </person>
+            <person xml:id="fk__p_51278">
+               <persName>Löwenstein, Paula</persName>
+               <birth>
+                  <date>1905?</date>
+               </birth>
+               <note type="comment">Versicherungsbetrug, Prozeß 28. 02. bis 09. 04. 1927, Freispruch</note>
+            </person>
+            <person xml:id="fk__p_49349">
+               <persName>Beethoven, Ludwig van</persName>
+               <birth>
+                  <date>1770-12-17</date>
+                  <place>Bonn</place>
+               </birth>
+               <death>
+                  <date>1827-3-26</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Komponist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10866</idno></person>
+            </listPerson></back></text>
+</TEI>

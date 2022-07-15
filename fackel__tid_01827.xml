@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01827.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01826.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01828.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Herr Bahr in eigener Sache.), in: Fackel Heft 03, Nr. 077, 1901, S. 13-13</title>
+            <title type="iso-date">1901-05-01</title>
+            <title type="id">tid_01827</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">03</title><title type="heft">077</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-03-077_n0013.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/077,013</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Herr Bahr in eigener Sache.)</head>
+            <p ana="pr18011">
+<space/><seg type="insult"><inciptit>Herr</inciptit> <rs type="pers" ana="n_15182" ref="#fk__p_45908">Bahr</rs></seg> schrieb kürzlich eine Abhandlung über den »guten<lb/>
+Ton«. Darin fand sich nun der folgende Satz, den einer meiner<lb/>
+Leser als einen Hieb auf die ‚<rs type="self" ana="werk_5778">Fackel</rs>‘ auffasste: »Und es ist auch<lb/>
+wieder das Publicum schuld, das <seg type="insult">Hohn</seg> für Witz, <seg type="insult">Lärm</seg> für Kraft,<lb/>
+<seg type="insult">Grobheit</seg> für Entschiedenheit hält.« Ich zweifelte, ward aber durch<lb/>
+eine andere Stelle zu der Annahme bekehrt, dass <seg type="insult">Herr <rs type="pers" ana="n_15183" ref="#fk__p_45908">Bahr</rs></seg> in der<lb/>
+That eine Abrechnung mit mir vorhatte. Er citiert nämlich zum<lb/>
+Schlusse seines Feuilletons das <rs type="pers" ana="n_15184" ref="#fk__p_43835">Hebbel’sche Wort</rs>: »Wer <seg type="insult">Koth</seg> nach<lb/>
+den <seg type="spc">Sternen</seg> wirft, dem fällt er selbst ins Gesicht.« Nicht der <seg type="insult">Koth</seg>,<lb/>
+aber die Sterne schienen mir dafür zu sprechen, dass <seg type="insult">Herr <rs type="pers" ana="n_15185" ref="#fk__p_45908">Bahr</rs></seg> in<lb/>
+eigener Sache zu seinen Lesern sprach.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_43835">
+               <persName>Hebbel, Friedrich</persName>
+               <birth>
+                  <date>1813-3-18</date>
+                  <place>Wesselburen</place>
+               </birth>
+               <death>
+                  <date>1863-12-13</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2404</idno></person>
+            <person xml:id="fk__p_45908">
+               <persName>Bahr, Hermann</persName>
+               <birth>
+                  <date>1863-7-19</date>
+                  <place>Linz</place>
+               </birth>
+               <death>
+                  <date>1934-1-15</date>
+                  <place>München</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Kritiker</occupation>
+               <note type="comment">Ögg teilt auch 307/52, 445/49, 800/67 (Rotte Korah) Bahr zu</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10815</idno></person>
+            </listPerson></back></text>
+</TEI>

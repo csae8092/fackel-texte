@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_11136.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11135.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11137.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Würdenträger untereinander, in: Fackel Heft 31, Nr. 811, 1929, S. 133-133</title>
+            <title type="iso-date">1929-08-01</title>
+            <title type="id">tid_11136</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">31</title><title type="heft">811</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-31-811_n0133.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/811,133</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Würdenträger untereinander</head>
+            <p ana="pr160991">
+<space/><rs type="pers" ana="n_96835" ref="#fk__p_43175">Salten</rs> verteilt die Kunstpreise der sozialdemokratischen<lb/>
+Gemeindeverwaltung. Also kann man wohl sagen, daß sie es<lb/>
+weit gebracht hat? Im Gegenteil, sie muß sich von <rs type="pers" ana="n_96836" ref="#fk__p_46698">Lippowitz</rs><lb/>
+sagen lassen, es sei eine <foreign xml:lang="yi">Mezzie</foreign>, denn:<lb/>
+</p>
+            <p ana="pr160993">
+<seg type="spc">Wie</seg> würde Bürgermeister <rs type="pers" ana="n_96837" ref="#fk__p_47621"><seg type="spc">Seitz</seg></rs> mit dem Wiener Kunstpreis <seg type="spc">ohne<lb/>
+die Mitwirkung <rs type="pers" ana="n_96838" ref="#fk__p_43175">Felix Saltens</rs></seg> in der Jury <seg type="spc">aussehen</seg>,<lb/>
+die ihn verteilt?<lb/>
+</p>
+            <p ana="pr160995">
+Pech!<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_47621">
+               <persName>Seitz, Karl</persName>
+               <birth>
+                  <date>1869-9-4</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1950-2-3</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <note type="comment">05.03.1919 bis 16.12.1920 Präs. der Nationalversammlg., Staatsoberhaupt</note>
+               <note type="comment">ab 01. 10. 1920 interimistischer Bundespräsident</note>
+               <note type="comment">Nov. 1923 bis Feber 1934 Wr. Bürgermeister</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12766</idno></person>
+            <person xml:id="fk__p_46698">
+               <persName>Lippowitz, Jakob (Siegmund)</persName>
+               <birth>
+                  <date>1865-10-9</date>
+                  <place>Leipzig</place>
+               </birth>
+               <death>
+                  <date>1934-7-4</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17583</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/4054</idno></person>
+            <person xml:id="fk__p_43175">
+               <persName>Salten, Felix</persName>
+               <birth>
+                  <date>1869-9-6</date>
+                  <place>Budapest</place>
+               </birth>
+               <death>
+                  <date>1945-10-8</date>
+                  <place>Zürich</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Zuordnung von 77/9: Saltens Vater stammte aus Miskolcz</note>
+               <note type="comment">Ögg gibt 249/15 sowohl Salten als auch Friedrich Schütz</note>
+               <note type="comment">Bruder Michael Emil Salzmann, gest. Wien 26.06.1908, im 50. Lj.</note>
+               <note type="comment">Der Gemeine, S. 60f. (O du mein Österreich), F 514/23</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2167</idno></person>
+            </listPerson></back></text>
+</TEI>

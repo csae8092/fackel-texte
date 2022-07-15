@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02903.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02902.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02904.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Neugieriger. (Giron und die Parteien), in: Fackel Heft 04, Nr. 128, 1903, S. 21-21</title>
+            <title type="iso-date">1903-01-31</title>
+            <title type="id">tid_02903</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">04</title><title type="heft">128</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-04-128_n0021.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/128,021</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Neugieriger. (Giron und die Parteien)</head>
+            <p ana="pr28651">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_24661" ref="#fk__p_50609">Neugieriger</rs>.</seg></seg> Wer eigentlich Herrn <rs type="pers" ana="n_24662" ref="#fk__p_60159">Giron</rs> an den sächsischen<lb/>
+Hof gebracht hat? <seg type="insult">Die Gottesleugner und die Frommen</seg> streiten noch<lb/>
+immer darüber. Aber beide Parteien sind überzeugt: Kein blinder Zufall<lb/>
+ und kein kurzsichtiger Hofmann ist’s gewesen, und eine Verschwörung<lb/>
+war sicherlich dabei. Flinker als die andre, hat die <seg type="insult">liberale Presse</seg> auch<lb/>
+diesmal zuerst des Räthsels Lösung gefunden: Die <seg type="insult">Jesuiten</seg> stecken dahinter<lb/>
+. Die haben nicht locker gelassen, bis sie <seg type="insult">eine freisinnige Tugend</seg><lb/>
+zu Falle brachten. Aber Herr <rs type="pers" ana="n_24663" ref="#fk__p_60159">Giron</rs> hat heftig protestiert; niemals sei<lb/>
+er in die Schule der Jesuiten gegangen, nie als Werkzeug ihrer Pläne<lb/>
+erkoren worden. Und jetzt trumpfen <seg type="insult">die Frommen</seg> auf: Eine <seg type="insult">Teufelsverschwörung<lb/>
+</seg> ist es gewesen, und der Teufel hat ja zu allen Zeiten am<lb/>
+liebsten die Sprache der Galanterie, das Französische, gesprochen. Kann<lb/>
+man noch zweifeln, wer <rs type="pers" ana="n_24664" ref="#fk__p_49205">Louise von Sachsen</rs> zuerst durch verderbliche<lb/>
+Lectüre und dann durch einen verderbten Lector verführt hat? Die <seg type="insult">Freimaurer<lb/>
+</seg>, so verkünden <seg type="insult">clericale Blätter</seg>, sind die Schuldigen, und der<lb/>
+<foreign xml:lang="fr">maître</foreign> <rs type="pers" ana="n_24665" ref="#fk__p_60159">Giron</rs> wird wohl, wenn er sein Werk gethan, zum Meister vom<lb/>
+Stuhl avancieren. So reißen sich um einen Ehebruch die politischen<lb/>
+Parteien.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_49205">
+               <persName>Sachsen, Luise von, geb. Erzherzogin von Österreich-Toscana</persName>
+               <birth>
+                  <date>1870-9-2</date>
+                  <place>Salzburg</place>
+               </birth>
+               <death>
+                  <date>1947-3-23</date>
+                  <place>Brüssel</place>
+               </death>
+               <note type="comment">Gräfin Montignoso, starb als Blumenfrau</note>
+               <note type="comment">Affaire mit André Giron</note>
+               <note type="comment">Ögg irrt. statt 126/19: 126/29</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_19511</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/23855</idno></person>
+            <person xml:id="fk__p_60159">
+               <persName>Giron, André</persName>
+               <birth>
+                  <date>1879</date>
+                  <place>Gent</place>
+               </birth>
+               <occupation>Hauslehrer</occupation>
+               <note type="comment">Affaire mit der Prinzessin Luise von Toscana</note>
+               <note type="comment">Sohn eines belg. Capitäns im Geniecorps (NFP 11.01.1903, Seite 8)</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/17058</idno></person>
+            <person xml:id="fk__p_50609">
+               <persName>Neugieriger</persName>
+            </person>
+            </listPerson></back></text>
+</TEI>

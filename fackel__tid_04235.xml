@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_04235.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04234.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04236.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Soldat. (Kanonen aus Kirchenglocken), in: Fackel Heft 08, Nr. 207, 1906, S. 25-25</title>
+            <title type="iso-date">1906-07-23</title>
+            <title type="id">tid_04235</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">08</title><title type="heft">207</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-08-207_n0025.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/207,025</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Soldat. (Kanonen aus Kirchenglocken)</head>
+            <p ana="pr45693">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="name_203657" key="#fk__p_60725">Soldat</rs>.</seg></seg> Ein Leser entdeckt eine interessante gedankliche Parallele<lb/>
+zwischen <rs type="pers" ana="n_36878" ref="#fk__p_52367">Robert Scheus</rs> Aufsatz »<rs type="title">Kanonen aus Kirchenglocken</rs>«, der<lb/>
+seinerzeit starkes Aufsehen machte, und dem folgenden Gedichte des<lb/>
+Japaners <rs type="pers" ana="n_36879" ref="#fk__p_52694">Sakino</rs> (<seg type="symbol" subtype="died"/> <date>1860</date>), deutsch von <rs type="pers" ana="n_36880" ref="#fk__p_42691">Enderling</rs>, das dem Verfasser<lb/>
+des Aufsatzes unbekannt war:<lb/>
+</p>
+            <lg>
+<l>Die Glocken schmolz man zu Kanonen um!</l>
+<l><seg type="symbol" subtype="3dots"/> Nun klingt nicht mehr beim ersten Sternenschein</l>
+<l>Ihr helles Abendlied ins Land hinein,</l>
+<l>Die Höhen sind, die Täler stumm.</l>
+</lg>
+            <lg>
+<l>Die Blumen selbst, die auf dem Felsen wohnen,</l>
+<l>Vergessen, wartend auf den Nachtgesang,</l>
+<l>Des Welkens gar <seg type="symbol" subtype="3dots"/>. Voll blüht der Bergeshang,</l>
+<l>Seit man die Glocken umschmolz zu Kanonen.</l>
+</lg>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_42691">
+               <persName>Enderling, Paul</persName>
+               <birth>
+                  <date>1880-4-22</date>
+                  <place>Danzig</place>
+               </birth>
+               <death>
+                  <date>1938-1-16</date>
+                  <place>Stuttgart</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            </person>
+            <person xml:id="fk__p_52694">
+               <persName>Sakino, d. i. Saki no Daisojo Gyoson?</persName>
+               <birth>
+                  <date>1055</date>
+               </birth>
+               <death>
+                  <date>1135</date>
+               </death>
+            </person>
+            <person xml:id="fk__p_52367">
+               <persName>Scheu, Robert</persName>
+               <birth>
+                  <date>1873-07-11</date>
+                  <place>Schönau/NÖ</place>
+               </birth>
+               <death>
+                  <date>1964-01-25</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/4209</idno></person>
+            </listPerson></back></text>
+</TEI>

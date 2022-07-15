@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01105.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01104.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01106.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Besorgter Vater. (Selbstmordberichterstattung), in: Fackel Heft 02, Nr. 046, 1900, S. 26-26</title>
+            <title type="iso-date">1900-07-01</title>
+            <title type="id">tid_01105</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">046</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-046_n0026.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/046,026</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Besorgter Vater. (Selbstmordberichterstattung)</head>
+            <p ana="pr10519">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_8586" ref="#fk__p_39189">Besorgter Vater</rs>.</seg></seg> Noch einmal: <seg type="insult">Herr Regierungsrath <rs type="pers" ana="n_8587" ref="#fk__p_41773">Sonndorfer</rs></seg><lb/>
+hat das Glück, dass sich wegen der <seg type="insult">Lehrmethode an der <rs type="inst">Handelsakademie</rs></seg><lb/>
+principiell nur »Handelsschüler«, nie Handelsakademiker umbringen. Aber<lb/>
+dies verdankt er doch wohl nur den Blättern selbst, nicht, wie ich letzthin<lb/>
+scherzhaft andeutete, der ‚<rs type="" ana="werk_40072">Correspondenz <rs type="pers" ana="name_200780" ref="#fk__p_59409">Wilhelm</rs></rs>‘, durch deren Hände<lb/>
+alle Selbstmordmeldungen gehen müssen. Ich hatte mir das — es war<lb/>
+keine Behauptung, nur ein schönes Bild — so einfach ausgelegt <seg type="symbol" subtype="3dots"/><lb/>
+Aber nun kommt <seg type="insult">der Herr kaiserliche Rath <rs type="pers" ana="n_8588" ref="#fk__p_59409">Wilhelm</rs></seg> und zerstört den<lb/>
+schönen Wahn. <seg type="insult">Der Herausgeber der jüngst mit der Lancierung der<lb/>
+Eidesablegung des <rs type="pers" ana="n_8589" ref="#fk__p_43472">Erzherzogs Ferdinand</rs> betrauten Correspondenz</seg> war<lb/>
+so herablassend, sich in Sachen <rs type="pers" ana="n_8590" ref="#fk__p_41773">Sonndorfer</rs> persönlich an mich zu<lb/>
+wenden. <seg type="insult">Herr <rs type="pers" ana="n_8591" ref="#fk__p_59409">Wilhelm</rs></seg> versichert, dass er nie bei Selbstmorden von<lb/>
+Handelsakademikern in einer <seg type="insult">Herrn <rs type="pers" ana="n_8592" ref="#fk__p_41773">Sonndorfer</rs></seg> erwünschten Weise interveniert<lb/>
+ habe. Ein mir vorgelegtes Exemplar seiner Correspondenz<lb/>
+scheint dies zu bestätigen. Der Badener Selbstmord lag außerhalb des<lb/>
+Gebietes seiner Recherchen. Für die <seg type="insult">zarte Rücksicht</seg>, die die Wiener<lb/>
+Blätter der <rs type="inst">Handelsakademie</rs> angedeihen lassen, ist <seg type="insult">Herr <rs type="pers" ana="n_8593" ref="#fk__p_59409">Wilhelm</rs></seg> nicht<lb/>
+verantwortlich zu machen. Wenn ein Hörer des ersten Jahrganges <seg type="insult">dieser<lb/>
+»Hochschule«</seg> sich nach seinem Tode in einen schlichten Handelsschüler<lb/>
+verwandelt, so sind — jetzt wissen wir es also definitiv — an (und bei)<lb/>
+der <seg type="insult">posthumen Ausschulung</seg> die <seg type="insult">Wiener Redactionen</seg> betheiligt.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_41773">
+               <persName>Sonndorfer, Rudolf</persName>
+               <birth>
+                  <date>1839-4-14</date>
+                  <place>Böhmischkrut</place>
+               </birth>
+               <death>
+                  <date>1910-12-04</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Lehrer an d. Wiener Handelsakademie</occupation>
+            </person>
+            <person xml:id="fk__p_43472">
+               <persName>Franz Ferdinand von Este</persName>
+               <birth>
+                  <date>1863-12-18</date>
+                  <place>Graz</place>
+               </birth>
+               <death>
+                  <date>1914-6-28</date>
+                  <place>Sarajewo</place>
+               </death>
+               <occupation>Erzherzog</occupation>
+               <occupation>Thronfolger</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15149</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/3287</idno></person>
+            <person xml:id="fk__p_59409">
+               <persName>Wilhelm, Ignaz</persName>
+               <birth>
+                  <date>1842-01-28</date>
+                  <place>Boskowitz/Mähren</place>
+               </birth>
+               <death>
+                  <date>1921-2-18</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <note type="comment">Eigentümer und Hrsg. der "Correspondenz Wilhelm", 9., Kolingasse 13</note>
+               <note type="comment">verh. mit Franziska, geb. Wahle</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/59687</idno></person>
+            <person xml:id="fk__p_39189">
+               <persName>Besorgter Vater</persName>
+            </person>
+            </listPerson></back></text>
+</TEI>

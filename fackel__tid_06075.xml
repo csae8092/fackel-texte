@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06075.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06074.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06076.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ich hab’s wieder erraten, in: Fackel Heft 14, Nr. 368, 1913, S. 7-7</title>
+            <title type="iso-date">1913-02-01</title>
+            <title type="id">tid_06075</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">14</title><title type="heft">368</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-14-368_n0007.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/368,007</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ich hab’s wieder erraten</head>
+            <p ana="pr81972">
+<space/>» <seg type="symbol" subtype="4dots"/> ich leugne nicht, daß er gut beobachtet, aber nur Erzherzoge<lb/>
+.« »Sehn Sie, gerade das war sein Debüt. Er hat über <rs type="pers" ana="n_57467" ref="#fk__p_46924">Johann<lb/>
+Orth</rs> geschrieben.« »Was Sie nicht sagen — hat er geschrieben, daß<lb/>
+<rs type="pers" ana="n_57468" ref="#fk__p_46924">Johann Orth</rs> etwas Brausendes gehabt hat und einen Unband?«<lb/>
+»Soweit ich mich erinner, ja.« »Von mir aus, soll er —; aber das<lb/>
+eine möcht ich ihm nicht raten, daß er in diesem <rs type="perRef" ana="werk_19208">Blatt</rs> vom Tumult<lb/>
+eines Lebens spricht!«<lb/>
+</p>
+            <p ana="pr81974">
+<space/>Hat ihn schon:<lb/>
+</p>
+            <p ana="pr81976">
+<space/><seg type="symbol" subtype="4dots"/> nachsinnend in das Antlitz des <rs type="pers" ana="n_57469" ref="#fk__p_42919">Erzherzogs Rainer</rs><lb/>
+geschaut, welch ein Tumult der Erinnerungen <seg type="symbol" subtype="4dots"/> Zeit der Frische<lb/>
+und des Brausens <seg type="symbol" subtype="4dots"/><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46924">
+               <persName>Orth, Johann, d. i. Johann Nepomuk Salvator, Erzherzog</persName>
+               <birth>
+                  <date>1852-11-25</date>
+                  <place>Florenz</place>
+               </birth>
+               <death>
+                  <date>1890-7-20/21?</date>
+                  <place>bei Porto La Plata/Valparaiso</place>
+               </death>
+            </person>
+            <person xml:id="fk__p_42919">
+               <persName>Rainer, Erzherzog</persName>
+               <birth>
+                  <date>1827-01-11</date>
+                  <place>Mailand</place>
+               </birth>
+               <death>
+                  <date>1913-01-27</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <occupation>Wissenschaftsförderer</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

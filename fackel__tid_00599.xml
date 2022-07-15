@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00599.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00598.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00600.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Oesterreichische Räthselecke., in: Fackel Heft 01, Nr. 024, 1899, S. 29-29</title>
+            <title type="iso-date">1899-11-01</title>
+            <title type="id">tid_00599</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">024</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-024_n0029.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/024,029</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Oesterreichische Räthselecke.</head>
+            <p ana="pr5538">
+<space/>Was haben <rs type="pers" ana="n_4181" ref="#fk__p_38335">Anton <seg type="spc">Bruckner</seg></rs> und <seg type="insult">der Theaterplauderer<lb/>
+<seg type="spc"><rs type="pers" ana="n_4182" ref="#fk__p_47276">Stern</rs></seg> vom ‚<rs type="paper" ana="werk_1428">Fremdenblatt</rs>‘</seg> gemeinsam?<lb/>
+</p>
+            <p ana="pr5539">
+<SPAN type="turnedType">(Den <rs type="pers" ana="n_4183" ref="#fk__p_43514">Franz Josefs-Orden</rs>.)</SPAN><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_47276">
+               <persName>Stern, Julius</persName>
+               <birth>
+                  <date>1865-3-20</date>
+                  <place>Wien-Rudolfsheim</place>
+               </birth>
+               <death>
+                  <date>1939-3-30</date>
+                  <place>Brüssel</place>
+               </death>
+               <occupation>Journalist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/3162</idno></person>
+            <person xml:id="fk__p_43514">
+               <persName>Franz Joseph I., Kaiser</persName>
+               <birth>
+                  <date>1830-8-18</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1916-11-21</date>
+                  <place>Wien</place>
+               </death>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15150</idno></person>
+            <person xml:id="fk__p_38335">
+               <persName>Bruckner, Anton</persName>
+               <birth>
+                  <date>1824-9-4</date>
+                  <place>Ansfelden, Oberöst.</place>
+               </birth>
+               <death>
+                  <date>1896-10-11</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Komponist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11024</idno></person>
+            </listPerson></back></text>
+</TEI>

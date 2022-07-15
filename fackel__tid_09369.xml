@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_09369.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09368.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09370.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Programmnotiz zu „Die beiden Nachtwandler“ und „Tritschtratsch“), in: Fackel Heft 25, Nr. 613, 1923, S. 46-47</title>
+            <title type="iso-date">1923-04-01</title>
+            <title type="id">tid_09369</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">25</title><title type="heft">613</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-25-613_n0046.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/613,046</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Programmnotiz zu „Die beiden Nachtwandler“ und „Tritschtratsch“)</head>
+            <p ana="pr124814">
+<space/>Auf dem Programm:<lb/>
+</p>
+            <p ana="pr124815">
+<space/>Die erste Aufführung von »<rs type="title"><seg type="spc">Die beiden Nachtwandler<lb/>
+</seg></rs>« — mit <rs type="pers" ana="n_76804" ref="#fk__p_55383">Scholz</rs> als <rs type="pers">Faden</rs> und <rs type="pers" ana="n_76805" ref="#fk__p_46919">Nestroy</rs> als <rs type="pers">Strick</rs> —<lb/>
+hat am <date>6. Mai 1836</date> stattgefunden.<lb/>
+</p>
+            <p ana="pr124816">
+<space/>Ferner die Notiz zu früheren Vorlesungen. Solche haben<lb/>
+am <date>23. Mai</date>, <date>11. November 1912</date>, <date>9. Juni</date>, <date>16. Dezember 1914</date>,<lb/>
+<date>4. Dezember 1916</date>, <date>28. Januar 1917</date>, <date>16. November 1919</date>,<lb/>
+<date>2. Dezember 1920</date> und <date>29. März 1922</date> stattgefunden. Die<lb/>
+Buchausgabe — mit Notenbeilage und einem Vorwort des<lb/>
+Bearbeiters — ist im <rs type="inst">Verlag <rs type="pers" ana="n2_7013" ref="#fk__p_52185"><abbr>R.</abbr> Lányi</rs></rs> zum Preise von 6000 K<lb/>
+erhältlich; ihr voller Ertrag fällt dem <rs type="inst">Verband der Kriegsblinden<lb/>
+Österreichs</rs> zu.<lb/>
+</p>
+            <p ana="pr124817">
+<space/>»<rs type="title"><seg type="spc">Tritschtratsch</seg></rs>« ist zum erstenmal — mit <rs type="pers" ana="n_76806" ref="#fk__p_46919">Nestroy</rs><lb/>
+als <rs type="pers">Tratschmiedel</rs> — am <date>20. November 1833</date> aufgeführt worden.<lb/>
+Vorgelesen am <date>17. Oktober</date> und am <date>15. <FERR href="FK-25-622_n0119.xml" fcorrID="fk_04_fcorr_28979577" id="fk_04_ferr_28979577" emID="fk_04_em_28979580"><ERR fcorr="November">Novembe</ERR></FERR> 1921</date>. Das<lb/>
+</p>
+            <p ana="pr124817">
+bei diesen Vorlesungen weggelassenene Duett zwischen <rs type="pers">Madame<lb/>
+Grüneberger</rs> und <rs type="pers">Tratschmiedel</rs> erscheint diesmal in die — zwei<lb/>
+verschiedenen Stellen entnommenen — Verse der <rs type="pers">Madame<lb/>
+Grüneberger</rs> zusammengezogen:<lb/>
+</p>
+            <lg>
+<l>Tabakverkäufer, fliehe mir,</l>
+<l>Fort, fort, entferne dir!</l>
+<l>Und ich entferne mir geschwind</l>
+<l>Und tröste mir, es darf nicht sind.</l>
+</lg>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_52185">
+               <persName>Lányi, Richard</persName>
+               <birth>
+                  <date>1884-12-9</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1942-5-28</date>
+                  <place>Konzentrationslager Auschwitz</place>
+               </death>
+               <occupation>Buchhändler</occupation>
+               <occupation>Verleger</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/20707</idno></person>
+            <person xml:id="fk__p_46919">
+               <persName>Nestroy, Johann Nepomuk</persName>
+               <birth>
+                  <date>1801-12-7</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1862-5-25</date>
+                  <place>Graz</place>
+               </death>
+               <occupation>Sänger</occupation>
+               <occupation>Schauspieler</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12338</idno></person>
+            <person xml:id="fk__p_55383">
+               <persName>Scholz, Wenzel</persName>
+               <birth>
+                  <date>1787-03-28</date>
+                  <place>Brixen/Südtir.</place>
+               </birth>
+               <death>
+                  <date>1857-10-05</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

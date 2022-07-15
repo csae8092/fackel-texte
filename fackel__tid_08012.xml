@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_08012.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08011.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08013.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Sonntagskinder, in: Fackel Heft 19, Nr. 462, 1917, S. 127-128</title>
+            <title type="iso-date">1917-10-01</title>
+            <title type="id">tid_08012</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">19</title><title type="heft">462</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-19-462_n0127.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/462,127</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Sonntagskinder</head>
+            <p ana="pr106966">
+<space/>— Dem ordentlichen Mitglied der <rs type="inst">Genossenschaft der<lb/>
+bildenden Künstler Wiens</rs> Bildhauer <rs type="pers" ana="n_67966" ref="#fk__p_56597"><seg type="spc">Hans Müller</seg></rs> wurde das<lb/>
+Ritterkreuz des <rs type="pers" ana="n_67967" ref="#fk__p_43514">Franz Josefs-Ordens</rs> am Bande des Militär-Verdienstkreuzes<lb/>
+ verliehen. —<lb/>
+</p>
+            <p ana="pr106968">
+<space/>Wenn ich doch auch so heißen könnte!<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_56597">
+               <persName>Müller, Hans</persName>
+               <birth>
+                  <date>1873-1-10</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1937-3-3</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Bildhauer</occupation>
+               <note type="comment">ord. Mitglied der Genossenschaft bildender Künstler Wiens, Okt. 1917</note>
+            </person>
+            <person xml:id="fk__p_43514">
+               <persName>Franz Joseph I., Kaiser</persName>
+               <birth>
+                  <date>1830-8-18</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1916-11-21</date>
+                  <place>Wien</place>
+               </death>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15150</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,108 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_10202.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10201.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10203.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Der konfuse Zauberer), in: Fackel Heft 27, Nr. 691, 1925, S. 41-42</title>
+            <title type="iso-date">1925-07-01</title>
+            <title type="id">tid_10202</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">27</title><title type="heft">691</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-27-691_n0041.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/691,041</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Der konfuse Zauberer)</head>
+            <p ana="pr138914">
+<space/>»<rs type="title"><seg type="spc">Der konfuse Zauberer</seg></rs>« von <rs type="pers" ana="n_85087" ref="#fk__p_46919">Johann <seg type="spc">Nestroy</seg></rs>,<lb/>
+Zauberspiel in vier Akten, Musik von <rs type="pers" ana="n_85088" ref="#fk__p_37834">Adolf Müller <abbr>sen.</abbr></rs> in der<lb/>
+Bearbeitung von <rs type="pers" ana="n_85089" ref="#fk__p_47565">Karl Kraus</rs> (nach »<rs type="title">Der konfuse Zauberer</rs>« und<lb/>
+»<rs type="title">Der Tod am Hochzeitstag</rs>«) ist im <rs type="inst">Verlag <rs type="pers" ana="n2_7586" ref="#fk__p_52185"><abbr>R.</abbr> Lányi</rs></rs> am <date>13. Juni</date><lb/>
+erschienen. Das Buch enthält ein Nachwort des Bearbeiters (mit<lb/>
+allen Hinweisen auf die Übernahme von Dialogteilen aus der<lb/>
+älteren Fassung wie auf die Änderungen und Einfügungen des<lb/>
+Bearbeiters), dem die Zusatzstrophen angeschlossen sind, und<lb/>
+eine Notenbeilage, die vier Stücke, für Klavier bearbeitet von<lb/>
+<rs type="pers" ana="n_85090" ref="#fk__p_54913">Victor Junk</rs>, umfaßt. Die Veröffentlichung dieser Teile der<lb/>
+Originalpartitur aus den <rs type="inst">Städtischen Sammlungen</rs> erfolgt mit<lb/>
+Bewilligung des zuständigen Gemeinderatsausschusses. Die Hälfte<lb/>
+des Ertrags der Publikation wird einer Verwandten des Dichters<lb/>
+zufließen.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_47565">
+               <persName>Kraus, Karl</persName>
+               <birth>
+                  <date>1874-4-28</date>
+                  <place>Jicin, Böhmen</place>
+               </birth>
+               <death>
+                  <date>1936-6-12</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Publizist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11988</idno></person>
+            <person xml:id="fk__p_54913">
+               <persName>Junk, Viktor</persName>
+               <birth>
+                  <date>1875-4-18</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1948-4-5</date>
+                  <place>Frohnleiten/Steiermark</place>
+               </death>
+               <occupation>Germanist</occupation>
+               <occupation>Musikwissenschaftler</occupation>
+            </person>
+            <person xml:id="fk__p_37834">
+               <persName>Müller, Adolf sen.</persName>
+               <birth>
+                  <date>1807-10-7</date>
+                  <place>Tolna/Ungarn</place>
+               </birth>
+               <death>
+                  <date>1886-7-29</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <occupation>Kapellmeister</occupation>
+               <occupation>Komponist</occupation>
+               <note type="comment">Ögg erteilt ihm die Lebensdaten von Adolph Müller jun.</note>
+            </person>
+            <person xml:id="fk__p_52185">
+               <persName>Lányi, Richard</persName>
+               <birth>
+                  <date>1884-12-9</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1942-5-28</date>
+                  <place>Konzentrationslager Auschwitz</place>
+               </death>
+               <occupation>Buchhändler</occupation>
+               <occupation>Verleger</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/20707</idno></person>
+            <person xml:id="fk__p_46919">
+               <persName>Nestroy, Johann Nepomuk</persName>
+               <birth>
+                  <date>1801-12-7</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1862-5-25</date>
+                  <place>Graz</place>
+               </death>
+               <occupation>Sänger</occupation>
+               <occupation>Schauspieler</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12338</idno></person>
+            </listPerson></back></text>
+</TEI>

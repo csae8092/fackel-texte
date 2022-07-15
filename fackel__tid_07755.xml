@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07755.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07754.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07756.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Die Affäre Piccaver, in: Fackel Heft 19, Nr. 454, 1234, S. 22-23</title>
+            <title type="iso-date">1234-01-01</title>
+            <title type="id">tid_07755</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">19</title><title type="heft">454</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-19-454_n0022.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/454,022</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Die Affäre Piccaver</head>
+            <p ana="pr103902">
+besteht darin, daß die <rs type="paper" ana="werk_21069">Neue Freie Presse</rs> sich die Abwesenheit<lb/>
+ eines Sängers, also eines von der Presse abhängigen<lb/>
+Menschen, zunutze gemacht hat, um ihm taktlose Äußerungen<lb/>
+über die Lichtersparnis in den Mund zu legen, ihn zwei Wochen<lb/>
+lang dem Unmut des Publikums ausgesetzt hat und schließlich,<lb/>
+als er sich mit einer Erklärung über den wahren Sachverhalt<lb/>
+in ein anderes <rs type="perRef" ana="werk_21070">Blatt</rs> flüchten mußte, die <seg type="insult">Schamlosigkeit</seg> hatte,<lb/>
+ihr <seg type="insult">Recht auf Erschleichung</seg> der Ansicht eines abwesenden<lb/>
+Sängers durch Belästigung seiner Frau zu vertreten. Der Fall<lb/>
+bringt keinerlei neuen Aufschluß über <seg type="insult">die sittliche Beschaffenheit<lb/>
+eines Zeitungsbesitzers</seg>, der sich, so oft man seine <seg type="insult">Unwissenheit</seg><lb/>
+mit seiner <seg type="insult">Frechheit</seg> konfrontierte, über <seg type="insult">jene »verbrecherische<lb/>
+Irreführung«</seg> beklagt hat, die er unausgesetzt begeht. Schlimmer als<lb/>
+die Praktiken <seg type="insult">eines Gebrandmarkten</seg>, <seg type="insult">des Nutznießers einer auch hinlänglich<lb/>
+ verachteten, nur leider noch für unentbehrlich gehaltenen<lb/>
+Profession</seg> ist die Möglichkeit, daß <seg type="insult">sein Feuilletonist</seg>, der<lb/>
+das Publikum von Wien aus über <seg type="insult">seine Taten und seelischen Erlebnisse<lb/>
+ in Russisch-Polen</seg> auf dem Laufenden erhalten hat, identisch mit<lb/>
+<seg type="insult">jenem <rs type="pers" ana="n_66880" ref="#fk__p_45448">Hans Müller</rs></seg> sein kann, der kürzlich zum <seg type="insult">Wohngenossen<lb/>
+auf der Menschheit Höhen</seg> auserkoren wurde. Ob <seg type="insult">der Herr<lb/>
+<rs type="pers" ana="n_66881" ref="#fk__p_50373">Benedikt</rs></seg> nach dem letzten Beleg für <seg type="insult">eine reichsbekannte<lb/>
+Schäbigkeit</seg> <seg type="insult">den nächsten Pairsschub</seg> versäumt hat, bleibt abzuwarten<lb/>
+. Die ihm weiter noch mit ihrem Namen helfen, werden<lb/>
+in einer Proskriptionsliste geführt werden.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_50373">
+               <persName>Benedikt, Moriz</persName>
+               <birth>
+                  <date>1849-5-27</date>
+                  <place>Kwatschitz/Mähren</place>
+               </birth>
+               <death>
+                  <date>1920-3-18</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <note type="comment">Geburtsort Kwatschitz bei Ungarisch Hradisch/Mähren, nicht Kwassitz bei Kremsier</note>
+               <note type="comment">1. Tor, 20/1/1a</note>
+               <note type="comment">Hrsg. der NFP (seit 1908 alleiniger Leiter)</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10875</idno></person>
+            <person xml:id="fk__p_45448">
+               <persName>Müller, Hans</persName>
+               <birth>
+                  <date>1882-10-25</date>
+                  <place>Brünn</place>
+               </birth>
+               <death>
+                  <date>1950-3-8</date>
+                  <place>Einigen/Thunersee</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12327</idno></person>
+            </listPerson></back></text>
+</TEI>

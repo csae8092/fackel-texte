@@ -1,0 +1,48 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02394.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02393.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02395.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ein Naturlaut des Herrn Nordau, in: Fackel Heft 04, Nr. 102, 1902, S. 22-23</title>
+            <title type="iso-date">1902-05-7</title>
+            <title type="id">tid_02394</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">04</title><title type="heft">102</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-04-102_n0022.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/102,022</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ein Naturlaut des Herrn Nordau</head>
+            <p ana="pr23327">
+<space/>In einem theaterkritischen Feuilleton <seg type="insult">des Herrn <rs type="pers" ana="n_20251" ref="#fk__p_49957">Nordau</rs></seg><lb/>
+haben am <date>25. April</date> die Leser der ‚<seg ana="Neuen Freien Presse"/>‘ zu ihrer<lb/>
+Freude den folgenden Satz gefunden:<lb/>
+</p>
+            <p ana="pr23329">
+<space/>»<QUOTE rn="1" sourceID="FK-04-102_n0022_a">Frau <rs type="pers">La Chesne</rs> war seine eigene Gattin, und sie entwindet<lb/>
+sich ihm ebenso wie Madame <rs type="pers">Savières</rs>. Wo bleiben die Siege?<lb/>
+Der einzige Triumph scheint der über seinen eigenen Dienstboten<lb/>
+gewesen zu sein. <seg type="spc">Kunststück</seg>!</QUOTE>«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_49957">
+               <persName>Nordau, Max Simon</persName>
+               <birth>
+                  <date>1849-7-29</date>
+                  <place>Pest</place>
+               </birth>
+               <death>
+                  <date>1923-1-22</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Arzt</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_18472</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12365</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,46 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_12172.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_12171.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_12173.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">»Das Haus der Temperamente«, in: Fackel Heft 34, Nr. 876, 1932, S. 112-112</title>
+            <title type="iso-date">1932-10-01</title>
+            <title type="id">tid_12172</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">34</title><title type="heft">876</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-34-876_n0112.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/876,112</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>»Das Haus der Temperamente«</head>
+            <p ana="pr177180">
+hat eine viergeteilte Bühne. Das sieht so aus:<lb/>
+</p>
+            <p ana="pr177182">
+<space/>Dem Doppeltheater von »<rs type="title">Zu ebner Erd und im ersten Stock</rs>«<lb/>
+hat <rs type="pers" ana="n_105610" ref="#fk__p_46919">Nestroy</rs> durch <seg type="spc">ein weiteres Stockwerk</seg> ein neuerlich verdoppeltes<lb/>
+ Theater <seg type="spc">aufgesetzt</seg>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46919">
+               <persName>Nestroy, Johann Nepomuk</persName>
+               <birth>
+                  <date>1801-12-7</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1862-5-25</date>
+                  <place>Graz</place>
+               </death>
+               <occupation>Sänger</occupation>
+               <occupation>Schauspieler</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12338</idno></person>
+            </listPerson></back></text>
+</TEI>

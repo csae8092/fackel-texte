@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07626.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07625.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07627.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Der Mammon spricht, in: Fackel Heft 18, Nr. 445, 1234, S. 68-68</title>
+            <title type="iso-date">1234-01-01</title>
+            <title type="id">tid_07626</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">18</title><title type="heft">445</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-18-445_n0068.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/445,068</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Der Mammon spricht</head>
+            <p ana="pr102515">
+<space/><seg type="symbol" subtype="3dots"/> Als Privatmann besitze er Aktien eines industriellen Unternehmens<lb/>
+, das auch einen Zeitungsverlag betreibt (»<rs type="paper" ana="werk_20931">Neues Wiener Tagblatt</rs>«),<lb/>
+aber das sei eine Angelegenheit, für die er <seg type="spc">niemandem Rechenschaft<lb/>
+ schuldig</seg> ist <seg type="symbol" subtype="4dots"/><lb/>
+</p>
+            <p ana="pr102517">
+<space/>Aber das war schon lange genug bekannt, daß <seg type="insult">Herr <rs type="pers" ana="n_66303" ref="#fk__p_52612">Sieghart</rs></seg><lb/>
+niemandem Rechenschaft schuldig ist.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_52612">
+               <persName>Sieghart, Rudolf</persName>
+               <birth>
+                  <date>1866-3-18</date>
+                  <place>Troppau</place>
+               </birth>
+               <death>
+                  <date>1934-8-4</date>
+                  <place>Luzern</place>
+               </death>
+               <occupation>Bankier</occupation>
+               <occupation>Politiker</occupation>
+               <note type="comment">urspr. Singer? </note>
+               <note type="comment">Präs. d. Allg. oesterr. Bodencreditanstalt</note>
+               <note type="comment">Herrenhausmitglied 1912-18</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12775</idno></person>
+            </listPerson></back></text>
+</TEI>

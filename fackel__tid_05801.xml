@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_05801.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05800.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05802.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Wien, im Kleinen Musikvereinssaal am 23. Mai. Programm, in: Fackel Heft 14, Nr. 351, 1912, S. 50-50</title>
+            <title type="iso-date">1912-06-01</title>
+            <title type="id">tid_05801</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">14</title><title type="heft">351</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-14-351_n0050.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/351,050</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Wien, im Kleinen Musikvereinssaal am 23. Mai. Programm</head>
+            <p ana="pr77812">
+<space/>Wien, im <rs type="inst">Kleinen Musikvereinssaal</rs> am <date>23. Mai</date>. Programm<lb/>
+und Zugaben:<lb/>
+</p>
+            <p ana="pr77814">
+<space/>I. Vorwort. — <rs type="pers" ana="n_55174" ref="#fk__p_46919"><seg type="spc">Nestroy</seg></rs>: Szenen aus: »<rs type="title">Die beiden Nachtwandler<lb/>
+, oder: Das Notwendige und das Überflüssige</rs>«, Posse in<lb/>
+zwei Akten. — Entree des <rs type="pers">Wendelin</rs> aus »<rs type="title">Höllenangst</rs>« / Monolog<lb/>
+des <rs type="pers">Kasimir</rs> aus »<rs type="title">Heimliches Geld, heimliche Liebe</rs>« / Entree des<lb/>
+<rs type="pers">Kern</rs> aus »<rs type="title">Der alte Mann mit der jungen Frau</rs>« (statt des Monologs<lb/>
+aus »<rs type="title">Unverhofft</rs>«) / Monolog des <rs type="pers">Herrn Cichori</rs> aus »<rs type="title">Gewürzkrämerkleeblatt<lb/>
+</rs>« / Entree des <rs type="pers">Federl</rs> aus »<rs type="title">Papiere des Teufels</rs>«. II. <rs type="pers" ana="n_55175" ref="#fk__p_47565">Karl Kraus</rs>:<lb/>
+<rs type="title"><seg type="insult">Der Traum ein Wiener Leben</seg></rs>. — <rs type="title"><seg type="insult">Schlichte Worte</seg></rs> / <rs type="title">Der Deutlichkeit<lb/>
+halber</rs> / <rs type="title">Zweiunddreißig Minuten</rs> / <rs type="title">Angesichts</rs> / <rs type="title"><seg type="insult">Ein Satz</seg></rs> / <rs type="title"><seg type="insult">Grüß Gott,<lb/>
+Doktor</seg></rs> / <rs type="title">In <seg type="insult">Wien</seg> wird <seg type="insult">der Mensch</seg> ausgestellt</rs> / <rs type="title">Ostende, erster Morgen</rs> /<lb/>
+<rs type="title">Bitte, das ist mein Recht <seg type="symbol" subtype="3dots"/></rs> / <rs type="title"><seg type="insult">Wahrung berechtigter Interessen</seg></rs> / <rs type="title">Ich rufe<lb/>
+die Rettungsgesellschaft</rs> (mit Vorbemerkung) / <rs type="title">Titanic</rs> (mit Vorbemerkung) /<lb/>
+<rs type="title"><seg type="insult">Interview mit einem sterbenden Kind</seg></rs> / <rs type="title"><seg type="insult">Das Ehrenkreuz</seg></rs> / <rs type="title">Das Ende</rs>.<lb/>
+</p>
+            <p ana="pr77816">
+<space/>Die Bemerkung in <rs type="selfRef" ana="werk_18933"><abbr>Nr.</abbr> 347/48</rs>, die Leseabende hätten »die<lb/>
+Presse selbst als Reklame problematisch gemacht«: hier sei der<lb/>
+Fall eingetreten, »daß einer <DATERANGE>zwischen Oktober und Juni</DATERANGE> vier<lb/>
+Wiener Säle füllen kann, ohne daß <abbr>u. s. w.</abbr>« — ist somit überholt.<lb/>
+Es waren fünf; und gegen die Presse könnten es auch zwanzig sein.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_47565">
+               <persName>Kraus, Karl</persName>
+               <birth>
+                  <date>1874-4-28</date>
+                  <place>Jicin, Böhmen</place>
+               </birth>
+               <death>
+                  <date>1936-6-12</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Publizist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11988</idno></person>
+            <person xml:id="fk__p_46919">
+               <persName>Nestroy, Johann Nepomuk</persName>
+               <birth>
+                  <date>1801-12-7</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1862-5-25</date>
+                  <place>Graz</place>
+               </death>
+               <occupation>Sänger</occupation>
+               <occupation>Schauspieler</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12338</idno></person>
+            </listPerson></back></text>
+</TEI>

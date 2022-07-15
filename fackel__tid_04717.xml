@@ -1,0 +1,101 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_04717.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04716.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04718.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Meine Bücher, in: Fackel Heft 10, Nr. 259, 1908, S. 34-35</title>
+            <title type="iso-date">1908-07-13</title>
+            <title type="id">tid_04717</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">10</title><title type="heft">259</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-10-259_n0034.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/259,034</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Meine Bücher</head>
+            <p ana="pr55679">
+<space/>Einige Leser erlaubten sich, den Abdruck der über »<rs type="title">Sittlichkeit<lb/>
+ und Kriminalität</rs>« veröffentlichten kritischen Äußerungen zu<lb/>
+</p>
+            <p ana="fn276">
+<FN0_TEXT0>
+<space/>*) Die Ausgabe der beiden Bände, die wahrscheinlich den Titel<lb/>
+»<rs type="title">Kultur und Presse</rs>« führen und als Bände II und III (nicht als zwei<lb/>
+Teile eines Bandes) der <rs type="title">Ausgewählten Schriften</rs> erscheinen werden, hat<lb/>
+sich verzögert. Sie werden im <date>Oktober</date>, <abbr>bezw.</abbr> <date>November</date> in den Buchhandel<lb/>
+ kommen. Der IV. Band, der vor Weihnachten erscheint, führt<lb/>
+den Titel »<rs type="title">Gedanken</rs>«. Die Sammlung der seit <date>1906</date> erschienenen<lb/>
+Satiren und polemischen Aufsätze wird der Inhalt der folgenden Bände sein.</FN0_TEXT0><lb/>
+</p>
+            <p ana="pr55679">
+beanstanden. Aber nicht deshalb wird mit dieser Methode fortgefahren,<lb/>
+sondern weil es mir sinnlos schiene, auf die Publizität der ‚<rs type="self" ana="werk_16225">Fackel</rs>‘<lb/>
+zu verzichten, wenn sich zeigen läßt, was alles in Österreich über<lb/>
+meine Bücher nicht geschrieben wird. Dieses Maß der Selbsthilfe<lb/>
+räume ich mir mit Vergnügen ein, ohne im Übrigen für Form und Inhalt<lb/>
+ des mir gespendeten Lobs die Verantwortung zu übernehmen.<lb/>
+In der <seg ana="‚Berliner Gerichts-Zeitung‘ (8. Juli 1908)"/> schreibt ein mir<lb/>
+unbekannter Kritiker:<lb/>
+</p>
+            <p ana="pr55681">
+<space/><rs type="title"><seg type="spc">Sittlichkeit und Kriminalität</seg></rs>. Von <rs type="pers" ana="n_43063" ref="#fk__p_47565">Karl Kraus</rs>. <rs type="inst">Buchhandlung<lb/>
+ <rs type="pers" ana="n2_3614" ref="#fk__p_48837"><abbr>L.</abbr> Rosner</rs></rs>, Wien. — Endlich einmal ein Wiener, der ein mustergültiges<lb/>
+ Deutsch schreibt. Ja, schon das allein wäre ein gewichtiger Grund,<lb/>
+die Lektüre des Buches aufs wärmste zu empfehlen, wenn der Gedankenreichtum<lb/>
+ und der blendende Stil des hochinteressanten Werkes nicht<lb/>
+die Anschaffung jedem Gebildeten gebieterisch nahe legten. Mit unerbittlicher<lb/>
+ Schärfe hält der geistvolle Autor unserer Zeit einen Spiegel<lb/>
+vor. Seine Satire kann nur mit der <rs type="pers" ana="n_43064" ref="#fk__p_45715">Heinrich Heines</rs> verglichen werden.<lb/>
+Nach meinem Geschmack ist sie um vieles markiger und ätzender.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_47565">
+               <persName>Kraus, Karl</persName>
+               <birth>
+                  <date>1874-4-28</date>
+                  <place>Jicin, Böhmen</place>
+               </birth>
+               <death>
+                  <date>1936-6-12</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Publizist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11988</idno></person>
+            <person xml:id="fk__p_48837">
+               <persName>Rosner, Leopold</persName>
+               <birth>
+                  <date>1838-05-21</date>
+                  <place>Pest</place>
+               </birth>
+               <death>
+                  <date>1903-07-23</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <occupation>Journalist</occupation>
+               <occupation>Buchhändler</occupation>
+               <occupation>Verleger</occupation>
+            </person>
+            <person xml:id="fk__p_45715">
+               <persName>Heine, Heinrich</persName>
+               <birth>
+                  <date>1797-12-13</date>
+                  <place>Düsseldorf</place>
+               </birth>
+               <death>
+                  <date>1856-2-17</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Journalist</occupation>
+               <note type="comment">Ögg separiert F 24/25 </note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11640</idno></person>
+            </listPerson></back></text>
+</TEI>

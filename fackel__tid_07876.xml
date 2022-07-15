@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07876.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07875.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07877.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Die Definition, in: Fackel Heft 19, Nr. 457, 1234, S. 86-86</title>
+            <title type="iso-date">1234-01-01</title>
+            <title type="id">tid_07876</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">19</title><title type="heft">457</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-19-457_n0086.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/457,086</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Die Definition</head>
+            <p ana="pr105362">
+<space/><seg type="sidehead">[<seg type="spc">Die Gemahlin des Kriegsministers</seg>.]</seg> Ein<lb/>
+<seg type="spc">Freund</seg> unseres <rs type="perRef" ana="werk_21163">Blattes</rs> schreibt uns aus <seg type="spc">Brünn</seg>: Frau <rs type="pers" ana="n_67429" ref="#fk__p_52561"><abbr>v.</abbr> Stöger-Steiner<lb/>
+</rs>, die Gemahlin des neuernannten Kriegsministers, <seg type="spc">ist eine<lb/>
+Individualität</seg>. Man hat diesen Eindruck beim ersten Zusammentreffen<lb/>
+ und er wird befestigt nach längerem Verkehr. — —<lb/>
+So hat sie, um nur eines zu erwähnen, mit anderen Damen eine<lb/>
+diätetische Küche ins Leben gerufen, wo Damen beschäftigt sind und<lb/>
+wo für jeden Kranken <seg type="spc">individuell</seg> gekocht wird <seg type="symbol" subtype="4dots"/><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_52561">
+               <persName>Stöger-Steiner-Steinstätten, Rudolf Freiherr von</persName>
+               <birth>
+                  <date>1861-04-26</date>
+                  <place>Pernegg</place>
+               </birth>
+               <death>
+                  <date>1921-05-12</date>
+                  <place>Graz</place>
+               </death>
+               <occupation>Offizier</occupation>
+               <occupation>Politiker</occupation>
+               <note type="comment">am 12.04.1917 von Kaiser Karl zum Kriegsminister ernannt</note>
+               <note type="comment">Ögg teilt die Stelle 474/26 sowohl Stöger als auch dem Landesverteidigungsminister Czapp zu</note>
+               <note type="comment">begraben Zentralfriedhof Graz Feld 6a I 2</note>
+               <note type="comment">Kriegsminister</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

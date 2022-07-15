@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07670.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07669.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07671.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Das arme Flandern, in: Fackel Heft 18, Nr. 445, 1234, S. 115-116</title>
+            <title type="iso-date">1234-01-01</title>
+            <title type="id">tid_07670</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">18</title><title type="heft">445</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-18-445_n0115.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/445,115</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Das arme Flandern</head>
+            <p ana="pr103069">
+<space/>Aus dem Feld wird mir <seg type="insult">der folgende herzige Ausschnitt<lb/>
+aus einem <rs type="perRef" ana="werk_20983">Grazer klerikalen Blatt</rs></seg> übermittelt:<lb/>
+</p>
+            <p ana="pr103071">
+<space/>Das Heftchen »<rs type="title">Französierung in Flandern</rs>« von <rs type="pers" ana="n_66479" ref="#fk__p_51239">Paul Rhenanus</rs><lb/>
+(Antwerpen) entwirft <seg type="spc">ein überaus trauriges Bild</seg> der Zustände<lb/>
+in Flandern, wie sie <seg type="spc">durch das Eindringen der französischen<lb/>
+ Sprache und Kultur</seg> geschaffen wurden. Die begüterten<lb/>
+Klassen, das Heer, die Regierung, die Beamtenschaft, der Unterricht,<lb/>
+das ganze öffentliche Leben ist <seg type="spc">verseucht vom <seg type="insult">französischen<lb/>
+Geiste und französischer Unkultur</seg></seg>, das Volk aber<lb/>
+schmachtet im Elende. Der Verfasser <seg type="spc">sagt es zwar mit keinem<lb/>
+Worte</seg>, aber seine Ausführungen lassen <seg type="spc">den Segen ahnen</seg>, der mit<lb/>
+dem Einzug Deutscher naht, <seg type="spc">deutsche Sprache und deutsches<lb/>
+Wesen diesem Volke erblühen muß</seg>. Es spricht hier ein<lb/>
+</p>
+            <p ana="pr103071">
+edles Herz, dem das Wohl und die geistigsittliche wie wirtschaftliche<lb/>
+Erhebung seines Volkes alles gilt. <rs type="pers" ana="n_66480" ref="#fk__p_41072"><abbr>Dr.</abbr> <AUCTOR>Georg <seg type="spc">Gimpl</seg></AUCTOR></rs>.<lb/>
+</p>
+            <p ana="pr103073">
+<space/>Der vorletzte Satz allein läßt den Segen ahnen, wenn<lb/>
+deutsche Sprache erblühen muß. Es fehlt zwar der Anschluß, aber<lb/>
+es ist schön, daß sie da ist. Ob ein Franzose so schlecht französisch<lb/>
+schreiben kann wie <seg type="insult">ein Deutscher</seg> deutsch, weiß ich nicht, bezweifle<lb/>
+es aber. Sicher ist, daß kein Franzose, der die französische Sprache<lb/>
+preisen will, so schlecht auf sie schauen und so schlecht sie hören<lb/>
+wird. Nur in <seg type="insult">Deutschland</seg>, wo <seg type="insult">das Deutschsein</seg> eine Hauptbeschäftigung<lb/>
+ bildet, wenn ihnen <seg type="insult">das »Schaffen«</seg> Zeit läßt, wo<lb/>
+nichts so häufig besprochen wird wie <seg type="insult">das Deutschsein</seg> und wo sie<lb/>
+deutsche Sprache nicht nur zu sprechen vorgeben, sondern auch<lb/>
+fortwährend im Munde führen, beweist man unaufhörlich, daß<lb/>
+niemand tiefer unter der deutschen Sprache und dem deutschen<lb/>
+Wesen steht als <seg type="insult">ein Deutscher</seg>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_41072">
+               <persName>Gimpl, Georg</persName>
+               <birth>
+                  <date>1887-2-22</date>
+                  <place>Peggau/Steiermark</place>
+               </birth>
+               <death>
+                  <date>1947-7-20</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            </person>
+            <person xml:id="fk__p_51239">
+               <persName>Rhenanus, Paul</persName>
+               <birth>
+                  <date>1852-3-22</date>
+                  <place>Wandsbek bei Hamburg</place>
+               </birth>
+               <death>
+                  <date>1933-1-28</date>
+                  <place>Marburg</place>
+               </death>
+               <occupation>Altphilologe</occupation>
+               <occupation>Schriftsteller</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

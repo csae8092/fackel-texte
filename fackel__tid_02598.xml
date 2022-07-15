@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02598.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02597.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02599.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Melder. (Herr v. Koerber in Audienz), in: Fackel Heft 04, Nr. 112, 1902, S. 25-25</title>
+            <title type="iso-date">1902-08-14</title>
+            <title type="id">tid_02598</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">04</title><title type="heft">112</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-04-112_n0025.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/112,025</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Melder. (Herr v. Koerber in Audienz)</head>
+            <p ana="pr25306">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_21893" key="#fk__p_50066">Melder</rs>.</seg></seg> Sie theilen mir als Neuigkeit mit, daß der Ministerpräsident<lb/>
+ <rs type="pers" ana="n_21894" ref="#fk__p_40952"><abbr>Dr. v.</abbr> Koerber</rs> kürzlich in Ischl war und <seg type="insult">in nahezu zweistündiger<lb/>
+ Audienz</seg> <seg type="insult">vom <rs type="pers" ana="n_21895" ref="#fk__p_46693">Herzog</rs></seg> empfangen wurde. Dies haben Sie vermuthlich<lb/>
+ aus <rs type="selfRef" ana="werk_8778"><abbr>Nr.</abbr> 111</rs> der ‚<rs type="self" ana="werk_8779">Fackel</rs>‘ erfahren?<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46693">
+               <persName>Herzog, Jakob</persName>
+               <birth>
+                  <date>1842-6-17</date>
+                  <place>Mißlitz/Mähren</place>
+               </birth>
+               <death>
+                  <date>1915-04-10</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">3., Veithgasse 9</note>
+               <note type="comment">Red. der "Montags-Revue"</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/41910</idno></person>
+            <person xml:id="fk__p_40952">
+               <persName>Koerber, Ernest von</persName>
+               <birth>
+                  <date>1850-11-6</date>
+                  <place>Trient</place>
+               </birth>
+               <death>
+                  <date>1919-3-4</date>
+                  <place>Baden bei Wien</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <note type="comment">Handels-, Innen-, Justizminister, 1900-04, Okt. bis Dez. 1916 Ministerpräsident</note>
+               <note type="comment">Handels-, Innen-, Justizminister, 1900-04, Okt. bis Dez. 1916 Ministerpräsident</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11955</idno></person>
+            </listPerson></back></text>
+</TEI>

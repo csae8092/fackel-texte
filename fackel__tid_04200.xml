@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_04200.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04199.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04201.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Habitué. (Dramatische Wirkungen), in: Fackel Heft 08, Nr. 204, 1906, S. 23-23</title>
+            <title type="iso-date">1906-05-31</title>
+            <title type="id">tid_04200</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">08</title><title type="heft">204</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-08-204_n0023.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/204,023</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Habitué. (Dramatische Wirkungen)</head>
+            <p ana="pr44744">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="name_203676" ref="#fk__p_45322"><foreign xml:lang="fr">Habitué</foreign></rs>.</seg></seg> <seg ana="‚Neues Wiener Tagblatt‘"/>: »<QUOTE rn="1" sourceID="FK-08-204_n0023_d">In dem erstgenannten kleinen<lb/>
+Stücke machte Fräulein <rs type="pers" ana="n_36376" ref="#fk__p_56930">Schiff</rs> durch eine verständnisvolle Mitwirkung<lb/>
+an der zarten psychologischen Studie einen günstigen Eindruck, und in<lb/>
+der großen anstrengenden Rolle der »<rs type="pers">Elga</rs>« bewies sie, daß sie <seg type="spc">schon<lb/>
+trotz ihrer Jugend auch starke dramatische Wirkungen<lb/>
+zu erzielen vermag</seg>.</QUOTE>« Die »Mitwirkung« an einer psychologischen<lb/>
+Studie glaubt <seg type="insult">der Prüfer vom ‚<rs type="paper" ana="werk_14640">Neuen Wiener Tagblatt</rs>‘</seg> auch einem<lb/>
+jüngeren Jahrgang zutrauen zu können. Aber um dramatische Wirkungen<lb/>
+zu erzielen, dazu muß eine Schauspielerin älter sein. Wie riefen <seg type="insult">die<lb/>
+guten Mürzzuschlager</seg>, als sie der <rs type="pers" ana="n_36377" ref="#fk__p_49731">Marie Zeller</rs> ansichtig wurden? <seg type="insult">»Ein<lb/>
+so junges <foreign xml:lang="de-loc">Madel</foreign> und schon Raubmörderin!«</seg><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_45322">
+               <persName>Habitué</persName>
+            </person>
+            <person xml:id="fk__p_49731">
+               <persName>Zeller, Marie</persName>
+               <birth>
+                  <date>1888</date>
+                  <place>Neuberg/Steiermark</place>
+               </birth>
+               <occupation>Buffetmädchen</occupation>
+               <note type="comment">des Mordes verdächtigte Delinquentin Mürzzuschlag 1906</note>
+               <note type="comment">der Raubmord im Raxental NFP 8.2.06, S. 14</note>
+            </person>
+            <person xml:id="fk__p_56930">
+               <persName>Schiff, Else</persName>
+               <birth>
+                  <date>1878-1-14</date>
+                  <place>Leipzig</place>
+               </birth>
+               <death>
+                  <date>1961-5-30</date>
+                  <place>Baden-Baden</place>
+               </death>
+               <occupation>Schauspielerin</occupation>
+               <note type="comment">"Elga", Berliner Lessingtheater 1905/06</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

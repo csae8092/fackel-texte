@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02095.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02094.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02096.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Dialektforscher. (Ein Kosewort), in: Fackel Heft 03, Nr. 088, 1901, S. 26-26</title>
+            <title type="iso-date">1901-12-16</title>
+            <title type="id">tid_02095</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">03</title><title type="heft">088</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-03-088_n0026.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/088,026</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Dialektforscher. (Ein Kosewort)</head>
+            <p ana="pr20521">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="n_17603" ref="#fk__p_40425">Dialektforscher</rs>.</seg></seg></seg> Ob der Vorwurf, den ein Flaschenbierhändler<lb/>
+dem andern gemacht hat, er verkaufe statt Bier ein <seg type="insult"><foreign xml:lang="de-loc">»G’schlader«</foreign></seg>, eine<lb/>
+Beleidigung enthält? Gewiss, und es ist <seg type="insult">ein typischer Fall unlauteren Wettbewerbs<lb/>
+</seg>. Aber <seg type="insult">Herr <rs type="pers" ana="n_17604" ref="#fk__p_54940">Chiavacci</rs></seg> hat doch, so wenden Sie ein, als <seg type="insult">»Sachverständiger<lb/>
+«</seg> erklärt, <seg type="insult"><foreign xml:lang="de-loc">»G’schlader«</foreign></seg> sei kein Schimpfwort und alte Weiber<lb/>
+sagten von ihrem Kaffee: Das Liebste ist mir mein <seg type="insult"><foreign xml:lang="de-loc">G’schlader</foreign></seg>! Ja, dann<lb/>
+wird <seg type="insult">der sachverständige Herr <rs type="pers" ana="n_17605" ref="#fk__p_54940">Chiavacci</rs></seg> auch behaupten können, dass<lb/>
+<seg type="insult">»Mistvieh«</seg> kein Schimpfwort ist, weil man Frauen aus dem Wiener Volk<lb/>
+zu kleinen Kindern sagen hören kann: <seg type="insult"><foreign xml:lang="de-loc">Du liab’s Mistviecherl.</foreign></seg> Der kosende<lb/>
+Gebrauch von Schimpfworten ist überall beim niederen Volk verbreitet;<lb/>
+aber der Flaschenbierhändler hatte die Ware des Concurrenten sicherlich<lb/>
+nicht liebkosen wollen.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_40425">
+               <persName>Dialektforscher</persName>
+            </person>
+            <person xml:id="fk__p_54940">
+               <persName>Chiavacci, Vincenz</persName>
+               <birth>
+                  <date>1847-6-15</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1916-2-2</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Beamter</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2154</idno></person>
+            </listPerson></back></text>
+</TEI>

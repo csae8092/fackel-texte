@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_10465.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10464.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10466.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">14. Februar:, in: Fackel Heft 27, Nr. 717, 1926, S. 97-98</title>
+            <title type="iso-date">1926-04-01</title>
+            <title type="id">tid_10465</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">27</title><title type="heft">717</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-27-717_n0097.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/717,097</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>14. Februar:</head>
+            <p ana="pr143999">
+<space/><date>14. Februar</date>:<lb/>
+</p>
+            <p ana="pr144000">
+<space/>Zum ersten Male:<lb/>
+</p>
+            <p ana="pr144001">
+<space/><rs type="pers" ana="n_87620" ref="#fk__p_46960"><seg type="spc">Goethe</seg></rs>: <rs type="title"><seg type="spc"><rs type="pers">Iphigenie</rs> auf Tauris</seg></rs>.<lb/>
+</p>
+            <p ana="pr144002">
+<space/><choice><sic>Ouverture</sic><corr>Ouvertüre</corr></choice>: <rs type="title"><rs type="pers">Iphigenie</rs> in Aulis</rs> von <rs type="pers" ana="n_87621" ref="#fk__p_44499">Gluck</rs>. Zwischenaktsmusik aus<lb/>
+dem <rs type="title"><rs type="pers">Don Juan</rs></rs> von <rs type="pers" ana="n_87622" ref="#fk__p_44499">Gluck</rs>.<lb/>
+</p>
+            <p ana="pr144003">
+<space/>Begleitung am <date>14.</date>, <date>25. Februar</date>, <date>1.</date> und <date>25. März</date>: <rs type="pers" ana="n_87623" ref="#fk__p_54913">Victor Junk</rs>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46960">
+               <persName>Goethe, Johann Wolfgang von</persName>
+               <birth>
+                  <date>1749-8-28</date>
+                  <place>Frankfurt am Main</place>
+               </birth>
+               <death>
+                  <date>1832-3-22</date>
+                  <place>Weimar</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">890/142f.</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11461</idno></person>
+            <person xml:id="fk__p_44499">
+               <persName>Gluck, Christoph Willibald Ritter von</persName>
+               <birth>
+                  <date>1714-7-2</date>
+                  <place>Erasbach bei Berching (Oberpfalz)</place>
+               </birth>
+               <death>
+                  <date>1787-11-15</date>
+                  <place>Wien</place>
+               </death>
+               <occupation/>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15476</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11450</idno></person>
+            <person xml:id="fk__p_54913">
+               <persName>Junk, Viktor</persName>
+               <birth>
+                  <date>1875-4-18</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1948-4-5</date>
+                  <place>Frohnleiten/Steiermark</place>
+               </death>
+               <occupation>Germanist</occupation>
+               <occupation>Musikwissenschaftler</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01821.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01820.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01822.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Wieder eine Terminerstreckung.), in: Fackel Heft 03, Nr. 077, 1901, S. 4-4</title>
+            <title type="iso-date">1901-05-01</title>
+            <title type="id">tid_01821</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">03</title><title type="heft">077</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-03-077_n0004.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/077,004</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Wieder eine Terminerstreckung.)</head>
+            <p ana="pr17981">
+<space/><inciptit>Aus</inciptit> London wird telegraphiert: »Der König ordnete an, dass<lb/>
+sein Geburtstag künftighin am <date>24. Mai</date>, dem Geburtstage der verstorbenen<lb/>
+ <rs type="pers" ana="n_15101" ref="#fk__p_48092">Königin Victoria</rs>, gefeiert werde. Der König hat mit dieser<lb/>
+Verordnung die Feier seines Geburtstages um nahezu sechs Monate<lb/>
+zurückverlegt, da sein Geburtstag der <date>9. November</date> ist.« Man sieht,<lb/>
+Serbien wirkt beispielgebend. Die <seg type="insult">Terminerstreckungen für Königsgeburten<lb/>
+</seg> häufen sich. Aber da <rs type="pers" ana="n_15102" ref="#fk__p_42338">König Eduard</rs> schon geboren ist<lb/>
+und sich überdies bereits als <seg type="insult">Freund des <rs type="pers" ana="n_15103" ref="#fk__p_38796">Türken-Hirsch</rs></seg> bewährt<lb/>
+hat, so beschränkt sich die liberale Presse auf die trockene Meldung<lb/>
+und macht weiter keinen Scandal.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_42338">
+               <persName>Eduard VII., König von England</persName>
+               <birth>
+                  <date>1841-11-9</date>
+                  <place>London</place>
+               </birth>
+               <death>
+                  <date>1910-5-6</date>
+                  <place>London</place>
+               </death>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_14622</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/15665</idno></person>
+            <person xml:id="fk__p_48092">
+               <persName>Victoria, Königin von England</persName>
+               <birth>
+                  <date>1819-5-24</date>
+                  <place>Kensington Palace, London</place>
+               </birth>
+               <death>
+                  <date>1901-1-22</date>
+                  <place>Osborne House, Isle of Wight</place>
+               </death>
+               <occupation>Königin</occupation>
+            </person>
+            <person xml:id="fk__p_38796">
+               <persName>Hirsch, Moritz Baron von</persName>
+               <birth>
+                  <date>1831-12-09</date>
+                  <place>München</place>
+               </birth>
+               <death>
+                  <date>1896-04-21</date>
+                  <place>Stara Dalat/Komárno, Slow.</place>
+               </death>
+               <occupation>Bankier</occupation>
+               <occupation>Philanthrop</occupation>
+               <note type="comment">"Türkenhirsch" (114/13), befreundet mit König Edward VII.</note>
+               <note type="comment">der einzige Sohn Lucien starb 1887</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,95 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01938.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01937.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01939.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Faiseur. (Trebertrocknung), in: Fackel Heft 03, Nr. 081, 1901, S. 21-21</title>
+            <title type="iso-date">1901-06-01</title>
+            <title type="id">tid_01938</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">03</title><title type="heft">081</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-03-081_n0021.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/081,021</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Faiseur. (Trebertrocknung)</head>
+            <p ana="pr18942">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="n_15908" ref="#fk__p_43078">Faiseur</rs>.</seg></seg></seg> Inwieweit der Krach der <rs type="inst">Leipziger Bank</rs> auch <seg type="insult">die gute<lb/>
+Laune des holzverwertenden und trebertrocknenden Herrn <rs type="pers" ana="n_15909" ref="#fk__p_47110"><seg type="spc">Kranz</seg></rs></seg><lb/>
+getrübt hat, vermag ich nicht zu ermitteln. Jedenfalls dürfte ihm<lb/>
+wie <seg type="insult">seinen Compagnons <rs type="pers" ana="n_15910" ref="#fk__p_47435">Kallay</rs> und <rs type="pers" ana="n_15911" ref="#fk__p_46279">Horovitz</rs></seg> die Geschichte sehr<lb/>
+nahegehen. Sollte er nun gerade in diesem Sommer der Erholung<lb/>
+in Karlsbad bedürfen, so sprechen alle Anzeichen dafür, dass ihm<lb/>
+diesmal kein livrierter Diener <seg type="insult">den goldenen Becher</seg> zum Brunnen<lb/>
+nachtragen wird. So ändern sich die Zeiten <seg type="symbol" subtype="3dots"/> Wie heißt’s doch<lb/>
+bei <rs type="pers" ana="n_15912" ref="#fk__p_45362">Hackländer</rs>? »Trau, treue <rs type="pers">Trine</rs>, <seg type="insult">trüglich trüben Trebern</seg> nicht!«<lb/>
+Aber vielleicht entschließt sich endlich jemand, eine <seg type="insult">Strebertrocknungs-Actiengesellschaft<lb/>
+</seg> ins Leben zu rufen?!<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_47110">
+               <persName>Kranz, Josef</persName>
+               <birth>
+                  <date>1862-10-7</date>
+                  <place>Auschwitz</place>
+               </birth>
+               <death>
+                  <date>1934-9-14</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Rechtsanwalt</occupation>
+               <occupation>Industrieller</occupation>
+               <occupation>Bankier</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/3551</idno></person>
+            <person xml:id="fk__p_45362">
+               <persName>Hackländer, Friedrich Wilhelm Ritter von</persName>
+               <birth>
+                  <date>1816-11-1</date>
+                  <place>Burtscheid</place>
+               </birth>
+               <death>
+                  <date>1877-7-6</date>
+                  <place>Leoni am Starnbergersee</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15829</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/7641</idno></person>
+            <person xml:id="fk__p_46279">
+               <persName>Horowitz, Eduard Ritter von</persName>
+               <birth>
+                  <date>1851-11-25</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1929-11</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Ministerialbeamter</occupation>
+               <note type="comment">4., Taubstummengasse 10</note>
+               <note type="comment">Namenskorrektur!</note>
+               <note type="comment">Sektionschef im Min. f. Bosnien u. Herzegowina</note>
+            </person>
+            <person xml:id="fk__p_47435">
+               <persName>Kállay von Nagy-Kálló, Bénjamin</persName>
+               <birth>
+                  <date>1839-12-22</date>
+                  <place>Pest</place>
+               </birth>
+               <death>
+                  <date>1903-07-13</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <occupation>Übersetzer</occupation>
+               <note type="comment">1882-1903 Finanzminister</note>
+            </person>
+            <person xml:id="fk__p_43078">
+               <persName>Faiseur</persName>
+            </person>
+            </listPerson></back></text>
+</TEI>

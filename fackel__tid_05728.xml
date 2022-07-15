@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_05728.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05727.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05729.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ich glaube an den Druckfehlerteufel, in: Fackel Heft 14, Nr. 347, 1912, S. 7-7</title>
+            <title type="iso-date">1912-01-01</title>
+            <title type="id">tid_05728</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">14</title><title type="heft">347</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-14-347_n0007.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/347,007</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ich glaube an den Druckfehlerteufel</head>
+            <p ana="pr75768">
+<space/>»Ein bis jetzt unbekanntes Trauerspiel von <rs type="pers" ana="n_54281" ref="#fk__p_55589">Shakespeare</rs> wurde<lb/>
+jüngst im Inseratenteil einer <rs type="perRef" ana="werk_18789">in <abbr>St.</abbr> Gallen erscheinenden Zeitung</rs> angekündigt<lb/>
+. Es hieß nämlich dort, daß im <rs type="inst">Stadttheater</rs> von <abbr>St.</abbr> Gallen<lb/>
+zur Aufführung gelange: <seg type="insult">»<rs type="title"><rs type="pers">König <SPAN norm="Lear">Lehar</SPAN></rs></rs>«, Trauerspiel in fünf Aufzügen<lb/>
+von <rs type="pers" ana="n_54282" ref="#fk__p_55589"><abbr>W.</abbr> Shakespeare</rs></seg>.«<lb/>
+</p>
+            <p ana="pr75770">
+<space/>Da gibts gar nichts zu lachen. Es ist grauenhaft. Der Setzer<lb/>
+hat keinen Witz machen wollen. Das Wort, das er nicht zu setzen<lb/>
+hat, die Assoziation, die ihm in die Arbeit gerät, ist der Maßstab<lb/>
+der Zeit. An ihren Druckfehlern werdet ihr sie erkennen. Was<lb/>
+hier zu lesen war, <seg type="spc">ist</seg> ein <seg type="insult"><rs type="pers" ana="n_54283" ref="#fk__p_55589">Shakespearesches Trauerspiel</rs></seg>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_55589">
+               <persName>Shakespeare, William</persName>
+               <birth>
+                  <date>1564-4-23?</date>
+                  <place>Stratford-upon-Avon</place>
+               </birth>
+               <death>
+                  <date>1616-4-23</date>
+                  <place>Stratford-upon-Avon</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2412</idno></person>
+            </listPerson></back></text>
+</TEI>

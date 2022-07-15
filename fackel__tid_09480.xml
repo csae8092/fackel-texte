@@ -1,0 +1,100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_09480.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09479.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09481.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Festsaal des Ingenieur- und Architektenvereines, 30. April, 7 Uhr:, in: Fackel Heft 25, Nr. 622, 1923, S. 112-113</title>
+            <title type="iso-date">1923-06-01</title>
+            <title type="id">tid_09480</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">25</title><title type="heft">622</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-25-622_n0112.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/622,112</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Festsaal des Ingenieur- und Architektenvereines, 30. April, 7 Uhr:</head>
+            <p ana="pr126741">
+<space/>Festsaal des <rs type="inst"><seg type="ELIDASH">Ingenieurvereines</seg> und Architektenvereines</rs>, <date>30. April</date>, 7 Uhr:<lb/>
+</p>
+            <p ana="pr126742">
+<space/><rs type="title"><seg type="spc">Eine Wohnung zu vermieten in der Stadt</seg>, <seg type="spc">Eine<lb/>
+Wohnung zu vermieten in der Vorstadt</seg>, <seg type="spc">Eine<lb/>
+Wohnung mit Garten zu haben in Hietzing</seg></rs>, Posse mit<lb/>
+Gesang in drei Akten von <rs type="pers" ana="n_78119" ref="#fk__p_46919"><seg type="spc">Johann Nestroy</seg></rs>. Musik von<lb/>
+<rs type="pers" ana="n_78120" ref="#fk__p_54913">Viktor Junk</rs>. (Mit den Zusatzstrophen zu dem Entree, dem Couplet<lb/>
+und zum Schlußgesang.)<lb/>
+</p>
+            <p ana="pr126743">
+<space/>Programm-Notiz wie am <date>26. Januar</date>.<lb/>
+</p>
+            <p ana="pr126744">
+<space/>Der volle Ertrag (<abbr>inkl.</abbr> einer Spende von K 100.000): K 3,435.400<lb/>
+für den hungernden Invaliden, der vor dem Verhandlungssaal<lb/>
+zusammenbrach, für andere Notleidende, das <rs type="inst">Kinderasyl »Kahlenbergerdorf<lb/>
+«</rs> und den <rs type="inst">Fonds zur Errichtung eines Grabsteines für <rs type="pers" ana="n2_7053" ref="#fk__p_51379">Peter<lb/>
+Altenberg</rs></rs>.<lb/>
+</p>
+            <p ana="pr126745">
+<space/>Diesem sind zugeflossen: <seg type="symbol" subtype="4dots"/> <seg type="symbol" subtype="equals"/> K 7,546.340, č K 660,<lb/>
+<abbr>poln.</abbr> M 20.500, M 114.076 und <abbr>schwed.</abbr> K 10.<lb/>
+</p>
+            <p ana="pr126746">
+<space/>Zum Abschluß der Sammlung, der bedauerlicher Weise<lb/>
+noch nicht erfolgen kann, fehlen noch etwa zwei Millionen<lb/>
+</p>
+            <p ana="pr126746">
+Kronen, deren Bereitstellung aus dem Ertrag der Vorlesungen<lb/>
+leicht wäre, aber andere wohltätige Zwecke verkürzen würde.<lb/>
+In jedem Fall wird das Programm des <date>14. Mai</date> den Abschluß<lb/>
+der Sammlung mitteilen und bald darnach wird die Aufstellung<lb/>
+des Grabsteines erfolgen.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_51379">
+               <persName>Altenberg, Peter</persName>
+               <birth>
+                  <date>1859-3-9</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1919-1-8</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Ögg teilt 531/207 (Nachruf auf Moriz Benedikt) P. A. zu (mit ?)</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2147</idno></person>
+            <person xml:id="fk__p_54913">
+               <persName>Junk, Viktor</persName>
+               <birth>
+                  <date>1875-4-18</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1948-4-5</date>
+                  <place>Frohnleiten/Steiermark</place>
+               </death>
+               <occupation>Germanist</occupation>
+               <occupation>Musikwissenschaftler</occupation>
+            </person>
+            <person xml:id="fk__p_46919">
+               <persName>Nestroy, Johann Nepomuk</persName>
+               <birth>
+                  <date>1801-12-7</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1862-5-25</date>
+                  <place>Graz</place>
+               </death>
+               <occupation>Sänger</occupation>
+               <occupation>Schauspieler</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12338</idno></person>
+            </listPerson></back></text>
+</TEI>

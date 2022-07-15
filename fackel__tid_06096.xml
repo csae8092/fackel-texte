@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06096.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06095.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06097.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ort der Handlung: Wien, in: Fackel Heft 14, Nr. 368, 1913, S. 20-20</title>
+            <title type="iso-date">1913-02-01</title>
+            <title type="id">tid_06096</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">14</title><title type="heft">368</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-14-368_n0020.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/368,020</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ort der Handlung: Wien</head>
+            <p ana="pr82178">
+<space/>»Ein seltenes Jubiläum begeht am <date>15. Jänner</date> der 80jährige Rattenvertilger<lb/>
+ Herr <rs type="pers" ana="n_57602" ref="#fk__p_56397">Adolf Kohn</rs>. An diesem Tage werden es nämlich fünfzig<lb/>
+Jahre sein, seit Herr <rs type="pers" ana="n_57603" ref="#fk__p_56397">Kohn</rs> das <rs type="inst">Café <rs type="pers" ana="n2_5043" key="#fk__p_58184">Hrdy</rs></rs>, vormals <rs type="inst"><rs type="pers" ana="n2_5044" key="#fk__p_58184">Schweigler</rs></rs>, Ottakringerstraße<lb/>
+ <abbr>Nr.</abbr> 102, als Gast betreten hatte <seg type="symbol" subtype="3dots"/> Der jetzige Besitzer,<lb/>
+Herr <rs type="pers" ana="n_57604" ref="#fk__p_45721">Heinrich Hrdy</rs> und seine fesche Gattin lassen es sich nicht<lb/>
+nehmen <seg type="symbol" subtype="4dots"/>«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_45721">
+               <persName>Hrdy, Heinrich Vinzenz</persName>
+               <birth>
+                  <date>1884-7-5</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1964-9-15</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Cafetier</occupation>
+               <note type="comment">16., Ottakringerstr. 102; Friedhof Ottakring PK/9/16 (selbe Daten)</note>
+            </person>
+            <person xml:id="fk__p_56397">
+               <persName>Kohn, Adolf </persName>
+               <birth>
+                  <date>1833?</date>
+               </birth>
+               <occupation>Kammerjäger</occupation>
+               <note type="comment">16., Ottakringer Straße 75</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,44 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07149.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07148.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07150.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Die nächste Vorlesung findet in demselben Saal am 12. Mai statt., in: Fackel Heft 18, Nr. 423, 1916, S. 17-17</title>
+            <title type="iso-date">1916-05-01</title>
+            <title type="id">tid_07149</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">18</title><title type="heft">423</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-18-423_n0017.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/423,017</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Die nächste Vorlesung findet in demselben Saal am 12. Mai statt.</head>
+            <p ana="pr96859">
+<space/>Die nächste Vorlesung findet in demselben Saal am <date>12. Mai</date> statt.<lb/>
+</p>
+            <p ana="pr96860">
+<space/>Eine <rs type="pers" ana="n_64585" ref="#fk__p_55589">Shakespeare-Feier</rs> (Vorlesung der »<rs type="title">Lustigen Weiber von<lb/>
+Windsor</rs>«), deren gesamter Ertrag den Gefangenen in Beresowka<lb/>
+(Transbaikal) gewidmet wird, folgt am <date>24. Mai</date>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_55589">
+               <persName>Shakespeare, William</persName>
+               <birth>
+                  <date>1564-4-23?</date>
+                  <place>Stratford-upon-Avon</place>
+               </birth>
+               <death>
+                  <date>1616-4-23</date>
+                  <place>Stratford-upon-Avon</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2412</idno></person>
+            </listPerson></back></text>
+</TEI>

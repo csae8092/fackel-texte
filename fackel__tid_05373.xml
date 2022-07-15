@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_05373.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05372.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05374.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ein Satz, in: Fackel Heft 13, Nr. 324, 1911, S. 24-25</title>
+            <title type="iso-date">1911-06-2</title>
+            <title type="id">tid_05373</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">13</title><title type="heft">324</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-13-324_n0024.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/324,024</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ein Satz</head>
+            <p ana="pr70037">
+<seg type="insult">des Herrn <rs type="pers" ana="n_50777" ref="#fk__p_51209">Paul Goldmann</rs></seg>:<lb/>
+</p>
+            <p ana="pr70039">
+<space/>Man kann den zweiten Teil des »<RS pers="Johann Wolfgang von Goethe"><rs type="title" ana="name_201631" ref="#fk__p_46960"><rs type="pers">Faust</rs></rs></RS>« wohl nur so verstehen,<lb/>
+daß <rs type="pers">Faust</rs>, der im ersten Teil das Glück vergebens im Genießen gesucht<lb/>
+hat, es nun im zweiten Teil durch Handeln zu finden sich bemüht, bis<lb/>
+ihm endlich die tiefe Wahrheit aufgeht, daß das Genießen nicht zum<lb/>
+Glücke führt und daß das Handeln zwar dem Glücke näher, aber doch<lb/>
+auch nicht ans Ziel bringt, weil eben dieses ersehnte Ziel des Glückes<lb/>
+überhaupt unerreichbar ist, weil der Mensch immer nur nach Glück zu<lb/>
+streben, niemals glücklich zu werden oder vielmehr es nur dann zu<lb/>
+werden vermag, wenn er, indem er durch tüchtiges Handeln glücklich<lb/>
+zu werden strebt, bereits im Streben nach dem Glück das Glück findet.<lb/>
+</p>
+            <p ana="pr70041">
+<space/>Der Worte sind genug gewechselt — nichts zu handeln?<lb/>
+Weil man, wenn man, indem man <seg type="insult">so etwas</seg> liest, unwillkürlich ins<lb/>
+Genießen kommt, nicht genug bekommen kann, so besteht das<lb/>
+Glück darin, daß man bloß danach strebt, es zu Ende zu lesen<lb/>
+und bereits im Streben nach dem Ende das Ende findet, was aber<lb/>
+vor allem für die <seg type="insult">Leute</seg> gilt, die nicht viel Zeit haben, weil sie,<lb/>
+wenn sie, indem sie durch tüchtiges Handeln glücklich zu werden<lb/>
+verstehen, <seg type="insult">Geschäftsleute</seg> sind, etwas besseres zu tun haben, während<lb/>
+der Mensch, was kommt arm auf der Welt, ist besser man hackt<lb/>
+ihm gleich den Kopf ab.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46960">
+               <persName>Goethe, Johann Wolfgang von</persName>
+               <birth>
+                  <date>1749-8-28</date>
+                  <place>Frankfurt am Main</place>
+               </birth>
+               <death>
+                  <date>1832-3-22</date>
+                  <place>Weimar</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">890/142f.</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11461</idno></person>
+            <person xml:id="fk__p_51209">
+               <persName>Goldmann, Paul</persName>
+               <birth>
+                  <date>1865-1-31</date>
+                  <place>Breslau</place>
+               </birth>
+               <death>
+                  <date>1935-9-25</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11485</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02501.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02500.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02502.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Musiker. (Professor Heuberger), in: Fackel Heft 04, Nr. 107, 1902, S. 25-26</title>
+            <title type="iso-date">1902-06-27</title>
+            <title type="id">tid_02501</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">04</title><title type="heft">107</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-04-107_n0025.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/107,025</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Musiker. (Professor Heuberger)</head>
+            <p ana="pr24267">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_21123" ref="#fk__p_50471">Musiker</rs>.</seg></seg> <seg type="insult">Herr <rs type="pers" ana="n_21124" ref="#fk__p_52178">Heuberger</rs></seg> ist Musikreferent der ‚<rs type="paper" ana="werk_8330">Neuen Freien<lb/>
+Presse</rs>‘ und Professor am <rs type="inst">Conservatorium</rs>. Darum muß er sich, wenn<lb/>
+die Gefahren der Incompatibilität dräuen, vorsichtig ausdrücken. Neulich<lb/>
+schrieb er über eine Production der »Meisterschule«. Sehr vorsichtig.<lb/>
+»<seg type="spc">Alles in Allem genommen</seg>«, lasen wir da, »ist das erste<lb/>
+Debut der Meisterschule <seg type="spc">ganz</seg> prächtig ausgefallen. Diejenigen, welche<lb/>
+wegen der Schöpfung der neuen Institution vor Jahresfrist angegriffen<lb/>
+</p>
+            <p ana="pr24267">
+wurden, werden <seg type="spc">nun wohl</seg> gelobt werden. Der <seg type="spc">Erfolg ist Alles</seg>.«<lb/>
+Wie zaghaft das klingt! Nun wohl, ganz, Alles in Allem genommen —<lb/>
+und zum Schluß <seg type="insult">dies resignierende »der Erfolg ist Alles«</seg>!<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_52178">
+               <persName>Heuberger, Richard</persName>
+               <birth>
+                  <date>1850-6-18</date>
+                  <place>Graz</place>
+               </birth>
+               <death>
+                  <date>1914-10-28</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Komponist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11684</idno></person>
+            <person xml:id="fk__p_50471">
+               <persName>Musiker</persName>
+            </person>
+            </listPerson></back></text>
+</TEI>

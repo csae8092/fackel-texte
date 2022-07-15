@@ -1,0 +1,48 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06400.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06399.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06401.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Das Wetter, in: Fackel Heft 15, Nr. 381, 1913, S. 10-10</title>
+            <title type="iso-date">1913-11-01</title>
+            <title type="id">tid_06400</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">15</title><title type="heft">381</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-15-381_n0010.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/381,010</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Das Wetter</head>
+            <p ana="pr86334">
+<space/>Das Wetter sah vormittags zeitweise noch recht bedrohlich aus,<lb/>
+und es war zu befürchten, daß es wenn schon nicht zu Gewitterentladungen<lb/>
+, so doch zu Platzregen kommen werde. Gegen Mittag nahm<lb/>
+jedoch die Bewölkung ab und mit zunehmender Erwärmung der Luftschichten<lb/>
+ schwanden auch die Gewitterwolken und nachmittags zeigte<lb/>
+sich nur mehr vorwiegend Haufengewölke <seg type="symbol" subtype="4dots"/><lb/>
+</p>
+            <p ana="pr86336">
+<space/>Das ist ja am nächsten Tag ungemein interessant, aber über<lb/>
+<rs type="pers" ana="n_59496" ref="#fk__p_51970">Radetzky</rs> in Italien hat man sich ehedem kürzer gefaßt.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_51970">
+               <persName>Radetzky, Johann Josef Wenzel Graf von Radetz</persName>
+               <birth>
+                  <date>1766-11-02</date>
+                  <place>Trebnitz/Böhmen</place>
+               </birth>
+               <death>
+                  <date>1858-01-05</date>
+                  <place>Mailand</place>
+               </death>
+               <occupation>Feldherr</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_09009.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09008.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09010.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(„Kunst und Kaufmann“), in: Fackel Heft 23, Nr. 577, 1921, S. 40-40</title>
+            <title type="iso-date">1921-11-01</title>
+            <title type="id">tid_09009</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">23</title><title type="heft">577</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-23-577_n0040.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/577,040</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(„Kunst und Kaufmann“)</head>
+            <p ana="pr120193">
+<space/>Nur dort möglich:<lb/>
+</p>
+            <p ana="pr120195">
+<space/>»<rs type="title"><seg type="spc">Kunst und Kaufmann</seg></rs>.« Die <rs type="event">Königsberger Herbstmesse<lb/>
+</rs>, die vom <DATERANGE>14. bis 18. August</DATERANGE> stattfindet, wird, wie uns unser<lb/>
+Korrespondent schreibt, ebenso wie ihre Vorgängerin im Frühjahr<lb/>
+eine künstlerische Veranstaltung bringen. Verbunden mit der Messe<lb/>
+ist eine Kunstausstellung mit der <seg type="spc">interessanten Sonderausstellung<lb/>
+</seg> »<rs type="title"><seg type="spc">Kunst und Kaufmann</seg></rs>«, die <seg type="spc">dartun soll</seg>,<lb/>
+<seg type="spc">wie Künstler und Kaufmann aufeinander angewiesen<lb/>
+ sind</seg>, und die hoffentlich zum <seg type="spc">besseren gegenseitigen<lb/>
+ Verständnis</seg> beider beitragen wird.<lb/>
+</p>
+            <p ana="pr120197">
+<space/><seg type="insult">Kunst und Kaufmann</seg> sind so aufeinander angewiesen<lb/>
+wie <seg type="insult">Medizin und <rs type="pers" ana="n_73774" ref="#fk__p_55058">Ludendorff</rs></seg>, deren Verbindung sich ja gleichfalls<lb/>
+ in Königsberg vollzogen hat. Wenn <rs type="pers" ana="n_73775" ref="#fk__p_46454">Kant</rs> lebte, würde er<lb/>
+nun zum erstenmal diese Stadt verlassen.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_55058">
+               <persName>Ludendorff, Erich Friedrich Wilhelm</persName>
+               <birth>
+                  <date>1865-4-9</date>
+                  <place>Kruszewnia bei Posen</place>
+               </birth>
+               <death>
+                  <date>1937-12-20</date>
+                  <place>Tutzing</place>
+               </death>
+               <occupation>Offizier</occupation>
+               <occupation>Politiker</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17720</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12122</idno></person>
+            <person xml:id="fk__p_46454">
+               <persName>Kant, Immanuel</persName>
+               <birth>
+                  <date>1724-4-22</date>
+                  <place>Königsberg</place>
+               </birth>
+               <death>
+                  <date>1804-2-12</date>
+                  <place>Königsberg</place>
+               </death>
+               <occupation>Philosoph</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11871</idno></person>
+            </listPerson></back></text>
+</TEI>

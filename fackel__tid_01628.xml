@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01628.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01627.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01629.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Laie. (Kritikerbesuche), in: Fackel Heft 02, Nr. 068, 1901, S. 26-26</title>
+            <title type="iso-date">1901-02-01</title>
+            <title type="id">tid_01628</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">068</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-068_n0026.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/068,026</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Laie. (Kritikerbesuche)</head>
+            <p ana="pr15989">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="n_13346" key="#fk__p_48539">Laie</rs>.</seg></seg></seg> Sie schreiben: »In einem Referate <seg type="insult">des Herrn <rs type="pers" ana="n_13347" ref="#fk__p_47236">Julius<lb/>
+Bauer</rs></seg> über das Wiederauftreten der Frau <rs type="pers" ana="n_13348" ref="#fk__p_51086">Palmay</rs> im <rs type="inst">Theater an der<lb/>
+Wien</rs> ist zu lesen: ‚Wir erinnern uns noch, wie sie vor ihrem ersten<lb/>
+Auftreten in unserem Bureau erschien — — —‘. Ja, müssen denn die<lb/>
+Künstler, bevor sie sich dem Publicum vorstellen, zuerst bei <seg type="insult">den Herren<lb/>
+Journalisten</seg> die Visitkarte abgeben?« Gewiss; und oft mehr als das.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_47236">
+               <persName>Bauer, Julius</persName>
+               <birth>
+                  <date>1853-10-15</date>
+                  <place>Raab-Szigeth</place>
+               </birth>
+               <death>
+                  <date>1941-6-11</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Kritiker</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2150</idno></person>
+            <person xml:id="fk__p_51086">
+               <persName>Palmay, Ilka von</persName>
+               <birth>
+                  <date>1859-9-21</date>
+                  <place>Kaschau</place>
+               </birth>
+               <death>
+                  <date>1945-2-17</date>
+                  <place>Budapest</place>
+               </death>
+               <occupation>Schauspielerin</occupation>
+               <occupation>Sängerin</occupation>
+               <occupation>Schriftstellerin</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

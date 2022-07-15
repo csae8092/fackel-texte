@@ -1,0 +1,113 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_09230.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09229.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09231.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Kunstkritik, in: Fackel Heft 24, Nr. 595, 1922, S. 119-120</title>
+            <title type="iso-date">1922-07-01</title>
+            <title type="id">tid_09230</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">24</title><title type="heft">595</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-24-595_n0119.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/595,119</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Kunstkritik</head>
+            <p ana="pr122643">
+<space/>— Mit seiner noblen Getragenheit und klangvollen, frischen Wärme<lb/>
+— — Man hat ihn in den letzten Jahren selten gehört, nun erfreulicher<lb/>
+ Weise wieder häufiger. Er ist zwar aus der alten Schule, aber<lb/>
+aus einer, die nie veraltet. Sein Vortrag —<lb/>
+</p>
+            <p ana="pr122645">
+<seg type="insult">Aha, Ersatz für <rs type="pers" ana="n_75203" ref="#fk__p_60191">Winkelmann</rs>!</seg> Sofort engagieren!<lb/>
+</p>
+            <p ana="pr122647">
+— hat die satten Farben der alten Meister — —<lb/>
+</p>
+            <p ana="pr122649">
+<seg type="insult">Ah so, ein zweiter <rs type="pers" ana="n_75204" ref="#fk__p_49544">Makart</rs>!</seg> Sofort ausstellen!<lb/>
+</p>
+            <p ana="pr122651">
+— — außerordentlich wirkungsvoll und an dem Vergnügen, ihn<lb/>
+zu hören —<lb/>
+</p>
+            <p ana="pr122653">
+<seg type="insult">Ah so, also doch Ersatz für <rs type="pers" ana="n_75205" ref="#fk__p_55626">Winkelmann</rs>?</seg><lb/>
+</p>
+            <p ana="pr122655">
+— änderte nichts, daß er ein Idealbild eines Beamten malte — —<lb/>
+Man bewunderte das Geschick und die feinen Farben, mit denen<lb/>
+er an dem Bild im Goldrahmen pinselte —<lb/>
+</p>
+            <p ana="pr122657">
+<seg type="insult">Ah so, aha, also doch ein zweiter <rs type="pers" ana="n_75206" ref="#fk__p_49544">Makart</rs>?</seg><lb/>
+</p>
+            <p ana="pr122659">
+— und als dann ein inniger Appell um Milde kam — die Bitte um<lb/>
+bedingte Verurteilung konnte kein Gehör finden — fand er, wenigstens<lb/>
+bei den Zuhörern im Auditorium, bewegte Gemüter.<lb/>
+</p>
+            <p ana="pr122661">
+<seg type="insult">Ah so — der <rs type="pers" ana="n_75207" ref="#fk__p_41176">Doktor Steger</rs>!</seg> Da bin ich schön hereingefallen!<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_55626">
+               <persName>Winckelmann, Johann Joachim</persName>
+               <birth>
+                  <date>1717-12-09</date>
+                  <place>Stendal</place>
+               </birth>
+               <death>
+                  <date>1768-06-08</date>
+                  <place>Triest</place>
+               </death>
+               <occupation>Archäologe</occupation>
+            </person>
+            <person xml:id="fk__p_60191">
+               <persName>Winkelmann, Hermann</persName>
+               <birth>
+                  <date>1848-3-8</date>
+                  <place>Braunschweig</place>
+               </birth>
+               <death>
+                  <date>1912-1-18</date>
+                  <place>Mauer bei Wien</place>
+               </death>
+               <occupation>Sänger</occupation>
+               <note type="comment"/>
+               <note type="comment">Tenor</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/28861</idno></person>
+            <person xml:id="fk__p_41176">
+               <persName>Steger, Heinrich</persName>
+               <birth>
+                  <date>1854-11-14</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1929-12-7</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Rechtsanwalt</occupation>
+               <occupation>Musikkritiker</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/25357</idno></person>
+            <person xml:id="fk__p_49544">
+               <persName>Makart, Hans von</persName>
+               <birth>
+                  <date>1840-5-28</date>
+                  <place>Salzburg</place>
+               </birth>
+               <death>
+                  <date>1884-10-3</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Maler</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17796</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12167</idno></person>
+            </listPerson></back></text>
+</TEI>

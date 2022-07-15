@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01323.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01322.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01324.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Client. (Advocaten in Belgrad und Wien), in: Fackel Heft 02, Nr. 056, 1900, S. 27-27</title>
+            <title type="iso-date">1900-10-01</title>
+            <title type="id">tid_01323</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">056</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-056_n0027.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/056,027</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Client. (Advocaten in Belgrad und Wien)</head>
+            <p ana="pr12666">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_10475" key="#fk__p_40029">Client</rs>.</seg></seg> Sie finden es begreiflich, dass das ‚<rs type="paper" ana="werk_4041">Wiener Tagblatt</rs>‘<lb/>
+(<rs type="paperRef" ana="werk_4042">Abendblatt</rs> vom <date>18. Oktober</date>) an den Edelmuth der Vertheidiger im<lb/>
+Belgrader Attentatsprocess nicht glauben will, die jetzt nach der<lb/>
+Begnadigung der <seg type="insult">»Hochverräther«</seg> solidarisch beschlossen haben,<lb/>
+von ihren Clienten kein Honorar zu fordern, ja sogar auf die Vergütung<lb/>
+ihrer Barauslagen zu verzichten. <seg type="insult">Der Advocat <rs type="pers" ana="n_10476" ref="#fk__p_41607">Frischauer</rs>, eine<lb/>
+Zierde des <foreign xml:lang="fr">»<rs type="magazine" ana="werk_4043">Barreau</rs>«</foreign> in doppelter Bedeutung</seg>, ist ja der Eigenthümer<lb/>
+des ‚<rs type="paper" ana="werk_4044">Wiener Tagblatt</rs>‘, und man kann es verstehen, wie ihn die<lb/>
+eigene <seg type="insult">Expensengier</seg> dazu treiben muss, die Motive seiner anspruchslosen<lb/>
+ Collegen hämisch zu verkleinern. Er meint, ihr edler Verzicht<lb/>
+werde wohl der Einsicht von der Uneinbringlichkeit von Honorarforderungen<lb/>
+ bei ihren Clienten entsprungen sein und dem Bewusstsein,<lb/>
+dass sie die Barauslagen <seg type="insult">»nach Landesbrauch«</seg> wohl selbst noch<lb/>
+schuldig sind. Ach, wenn es doch in <choice><sic>Oestereich</sic><corr>Oesterreich</corr></choice> Landesbrauch wäre,<lb/>
+dass die Advocaten die Barauslagen schuldig bleiben!<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_41607">
+               <persName>Frischauer, Otto</persName>
+               <birth>
+                  <date>1863-2-5</date>
+                  <place>Brünn</place>
+               </birth>
+               <death>
+                  <date>1942-8-4</date>
+                  <place>Konzentrationslager Theresienstadt</place>
+               </death>
+               <occupation>Rechtsanwalt</occupation>
+               <occupation>Journalist</occupation>
+               <note type="comment">Vater von Paul, Willi, Eduard, Leo und Fritz Frischauer</note>
+               <note type="comment">Chefred. des Wr. Tgbl.</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/16716</idno></person>
+            </listPerson></back></text>
+</TEI>

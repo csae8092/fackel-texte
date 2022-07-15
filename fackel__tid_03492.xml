@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03492.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03491.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03493.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Väter und Söhne, in: Fackel Heft 05, Nr. 155, 1904, S. 12-13</title>
+            <title type="iso-date">1904-02-24</title>
+            <title type="id">tid_03492</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">05</title><title type="heft">155</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-05-155_n0012.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/155,012</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Väter und Söhne</head>
+            <p ana="pr34708">
+<space/><rs type="pers" ana="n_29765" ref="#fk__p_52212"><seg type="spc">Richard Wagner</seg></rs> war im <date>November 1875</date><lb/>
+nach Wien gekommen, um den »<rs type="title"><rs type="pers">Tannhäuser</rs></rs>« zu inszenieren<lb/>
+. Gelegentlich einer Auseinandersetzung mit<lb/>
+den Künstlern der Hofoper, in der es sich um die<lb/>
+Aufklärung eines durch eine Ansprache <rs type="pers" ana="n_29766" ref="#fk__p_52212">Wagners</rs> an<lb/>
+das Publikum hervorgerufenen Mißverständnisses<lb/>
+handelte, sprach er — im Regiezimmer des Theaters<lb/>
+— die Worte: »Ich selbst kann mit den Zeitungen<lb/>
+nicht in Verbindung treten, denn <seg type="spc">ich verachte<lb/>
+die <seg type="insult">Journalistik</seg></seg>!«<lb/>
+</p>
+            <p ana="pr34709">
+<space/><rs type="pers" ana="n_29767" ref="#fk__p_53259"><seg type="spc">Siegfried Wagner</seg></rs> war im <date>Februar 1904</date><lb/>
+nach Wien gekommen, um dem Direktor der <rs type="inst">Hofoper</rs><lb/>
+den »<rs type="title">Kobold</rs>« zu überreichen. Auf dem Ball der<lb/>
+Wiener Presse, den er am Abend seiner Ankunft<lb/>
+trotz der Erschöpfung einer vielstündigen Reise besuchte<lb/>
+, hielt er — im Komiteezimmer — eine Rede,<lb/>
+die in die Worte ausklang: »<seg type="spc">Die <rs type="inst">Concordia</rs> lebe<lb/>
+hoch</seg>!«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_53259">
+               <persName>Wagner, Siegfried</persName>
+               <birth>
+                  <date>1869-6-6</date>
+                  <place>Tribschen/Schweiz</place>
+               </birth>
+               <death>
+                  <date>1930-8-4</date>
+                  <place>Bayreuth</place>
+               </death>
+               <occupation>Komponist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/13027</idno></person>
+            <person xml:id="fk__p_52212">
+               <persName>Wagner, Richard</persName>
+               <birth>
+                  <date>1813-5-22</date>
+                  <place>Leipzig</place>
+               </birth>
+               <death>
+                  <date>1883-2-13</date>
+                  <place>Venedig</place>
+               </death>
+               <occupation>Komponist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/13024</idno></person>
+            </listPerson></back></text>
+</TEI>

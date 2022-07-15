@@ -1,0 +1,46 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06734.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06733.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06735.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Das tausendste Konzert des Wiener Männergesangvereins, in: Fackel Heft 16, Nr. 398, 1914, S. 14-14</title>
+            <title type="iso-date">1914-04-01</title>
+            <title type="id">tid_06734</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">16</title><title type="heft">398</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-16-398_n0014.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/398,014</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Das tausendste Konzert des Wiener Männergesangvereins</head>
+            <p ana="pr90808">
+fällt zum Glück nicht direkt mit dem <rs type="selfRef" ana="werk_20166">vierhundertsten Heft</rs> der<lb/>
+<rs type="self" ana="werk_20167">Fackel</rs> zusammen. Sonst könnte sichs der <RS pers="Max Freiherr von Hussarek-Heinlein" globID="name_201957">Minister für Kultus und<lb/>
+Unterricht</RS> nicht einteilen und der Sektionschef <rs type="pers" ana="n_61836" ref="#fk__p_50221">Milosch <abbr>v.</abbr> Fesch</rs><lb/>
+wüßte auch nicht, wo er zuerst dabei sein sollte.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_50221">
+               <persName>Fesch, Emil Milosch von</persName>
+               <birth>
+                  <date>1861-2-24</date>
+                  <place>Triest</place>
+               </birth>
+               <death>
+                  <date>1939-8-2</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Ministerialbeamter</occupation>
+               <note type="comment">1., Stubenbastei 12</note>
+               <note type="comment">Emil? Fesch</note>
+               <note type="comment">verh. mit Stefanie von Mayer-Gunthof, geb. 4.10.69</note>
+               <note type="comment">Sektionschef im Ministerium für Kunst und Unterricht</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,93 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_11445.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11444.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11446.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Pathos in Berlin, in: Fackel Heft 32, Nr. 838, 1930, S. 74-74</title>
+            <title type="iso-date">1930-09-01</title>
+            <title type="id">tid_11445</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">32</title><title type="heft">838</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-32-838_n0074.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/838,074</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Pathos in Berlin</head>
+            <p ana="pr166541">
+<space/><seg type="sidehead"><seg type="spc">Berlin zum Tode von <rs type="pers" ana="n_99902" ref="#fk__p_38441">Arno Holz</rs></seg>.</seg> <rs type="inst">Magistrat</rs> und <rs type="inst">Stadtverordnetenversammlung<lb/>
+</rs> haben an die Gattin des vor kurzem verschiedenen<lb/>
+ Dichters <rs type="pers" ana="n_99903" ref="#fk__p_38441">Arno Holz</rs> das folgende Beileidschreiben gesandt:<lb/>
+»Sehr verehrte gnädige Frau! Zu dem schweren Verluste, den Sie durch<lb/>
+den Heimgang Ihres Gatten erlitten haben, sprechen wir Ihnen, zugleich<lb/>
+ im Namen des <rs type="inst">Magistrats und der Stadtverordnetenversammlung</rs>,<lb/>
+unsere wärmste Anteilnahme aus. Wie der Name <rs type="pers" ana="n_99904" ref="#fk__p_38441">Arno Holz</rs> mit der<lb/>
+deutschen Literatur und Dichtkunst <seg type="spc">als dem</seg> schöpferischen Wegweiser<lb/>
+neuer deutscher Dichtung, dem kühnen Neuerer und Erneuerer der<lb/>
+Lehre von der Poesie untrennbar verknüpft ist, <seg type="spc">so ist sein Schaffen<lb/>
+auch aufs engste mit unserer Reichshauptstadt verbunden<lb/>
+</seg>. In Berlin <seg type="spc">lebte</seg>, <seg type="spc">darbte und schuf</seg> <rs type="pers" ana="n_99905" ref="#fk__p_38441">Arno Holz</rs> die<lb/>
+Werke, die seinen Tod überdauern werden. — —«<lb/>
+</p>
+            <p ana="pr166543">
+Man soll den <seg type="insult">Lokalpatriotismus</seg> nicht übertreiben, besonders in<lb/>
+Zeiten, wo er durch die Affäre <rs type="pers" ana="name_200379" ref="#fk__p_56975"><rs type="pers" ana="n_99906" ref="#fk__p_56977"><rs type="pers" ana="name_200766" ref="#fk__p_59706">Sklarek</rs></rs></rs> hinreichend befriedigt ist.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_56977">
+               <persName>Sklarek, Leo</persName>
+               <birth>
+                  <date>1884-5-1</date>
+                  <place>Berlin</place>
+               </birth>
+               <death>
+                  <date>1942-5-22</date>
+                  <place>Konzentrationslager Sachsenhausen</place>
+               </death>
+               <occupation>Kaufmann</occupation>
+               <note type="comment">NFP 16.10.1929, Seite 10</note>
+            </person>
+            <person xml:id="fk__p_59706">
+               <persName>Sklarek, Max</persName>
+               <birth>
+                  <date>1882</date>
+               </birth>
+               <death>
+                  <date>1934</date>
+               </death>
+               <occupation>Kaufmann</occupation>
+               <note type="comment">Max Sklarek im Banne einer Wahrsagerin NFP 02.10.1929, Seite 9</note>
+            </person>
+            <person xml:id="fk__p_38441">
+               <persName>Holz, Arno</persName>
+               <birth>
+                  <date>1863-4-26</date>
+                  <place>Rastenburg, Ostpreußen</place>
+               </birth>
+               <death>
+                  <date>1929-10-26</date>
+                  <place>Berlin</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11763</idno></person>
+            <person xml:id="fk__p_56975">
+               <persName>Sklarek, Willy</persName>
+               <birth>
+                  <date>1885-11-16</date>
+                  <place>Berlin</place>
+               </birth>
+               <death>
+                  <date>1938-3-18</date>
+                  <place>Prag</place>
+               </death>
+               <occupation>Kaufmann</occupation>
+               <note type="comment">Justizfall in Berlin 1932</note>
+               <note type="comment">Konfektionshändler</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

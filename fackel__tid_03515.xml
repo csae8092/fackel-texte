@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03515.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03514.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03516.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Wie war’s also?, in: Fackel Heft 05, Nr. 156, 1904, S. 22-23</title>
+            <title type="iso-date">1904-03-9</title>
+            <title type="id">tid_03515</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">05</title><title type="heft">156</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-05-156_n0022.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/156,022</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Wie war’s also?</head>
+            <p ana="pr34918">
+<seg ana="‚Neues Wiener Tagblatt‘&#10;28. Februar"/>:<lb/>
+</p>
+            <p ana="pr34920">
+<space/>»<QUOTE part="initial" rn="1" sourceID="FK-05-156_n0022_a">Aus München wird uns telegraphiert<lb/>
+: Im <rs type="inst">Schauspielhause</rs></QUOTE><lb/>
+</p>
+            <p ana="pr34922">
+<seg ana="‚Zeit‘&#10;28. Februar"/>:<lb/>
+</p>
+            <p ana="pr34924">
+<space/>»<QUOTE part="initial" rn="1" sourceID="FK-05-156_n0022_b">Man telegraphiert uns aus<lb/>
+München vom <date>27. <abbr>d. M.</abbr></date>: <rs type="pers" ana="n_29956" ref="#fk__p_45908">Bahrs</rs></QUOTE><lb/>
+</p>
+            <p ana="pr34920">
+<QUOTE part="final" rn="1" sourceID="FK-05-156_n0022_a">hatte ‚<rs type="title">Der Meister</rs>‘ von <rs type="pers" ana="n_29957" ref="#fk__p_45908">Hermann<lb/>
+ Bahr</rs> bei ausgezeichneter<lb/>
+Darstellung einen starken Erfolg.<lb/>
+Das ausverkaufte Haus zeigte<lb/>
+sich vom Anfange lebhaft interessiert<lb/>
+. <seg type="symbol" subtype="3dotsEditor"/> Schon nach dem zweiten<lb/>
+Akt steigerte sich der stürmische<lb/>
+Beifall zu Rufen nach dem Autor,<lb/>
+an dessen Stelle die Darsteller<lb/>
+oftmals erschienen.</QUOTE>«<lb/>
+</p>
+            <p ana="pr34924">
+<QUOTE part="final" rn="1" sourceID="FK-05-156_n0022_b">‚<rs type="title">Meister</rs>‘ fand bei seiner Erstaufführung<lb/>
+ im <rs type="inst">Schauspielhaus</rs> einen<lb/>
+von Akt zu Akt wachsenden<lb/>
+Widerspruch.</QUOTE>«
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_45908">
+               <persName>Bahr, Hermann</persName>
+               <birth>
+                  <date>1863-7-19</date>
+                  <place>Linz</place>
+               </birth>
+               <death>
+                  <date>1934-1-15</date>
+                  <place>München</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Kritiker</occupation>
+               <note type="comment">Ögg teilt auch 307/52, 445/49, 800/67 (Rotte Korah) Bahr zu</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10815</idno></person>
+            </listPerson></back></text>
+</TEI>

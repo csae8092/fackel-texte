@@ -1,0 +1,42 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06749.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06748.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06750.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Druckfehlerberichtigung), in: Fackel Heft 16, Nr. 398, 1914, S. 21-21</title>
+            <title type="iso-date">1914-04-01</title>
+            <title type="id">tid_06749</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">16</title><title type="heft">398</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-16-398_n0021.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/398,021</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Druckfehlerberichtigung)</head>
+            <p ana="pr90898">
+<space/><FCORR id="fcorr_5" ferrID="ferr_5" href="FK-15-395_n0027.xml">Im <rs type="selfRef" ana="werk_20173">letzten Heft ist auf <abbr>S.</abbr> 27</rs> in dem Zitat aus <seg type="insult">einer gehirnweichen<lb/>
+ Kritik</seg> der Gedichte <rs type="pers" ana="n_61892" ref="#fk__p_54239">Trakls</rs> ein Druckfehler zu berichtigen.<lb/>
+<seg type="insult">Das betreffende Individuum</seg> hat dem Dichter nicht <seg type="insult">»krassen<lb/>
+Neutralismus«</seg>, sondern <seg type="insult">»<EM id="em_5" ferrID="ferr_5" href="FK-15-395_n0027.xml">krassen Naturalismus</EM>«</seg> vorgeworfen.</FCORR><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_54239">
+               <persName>Trakl, Georg</persName>
+               <birth>
+                  <date>1887-2-3</date>
+                  <place>Salzburg</place>
+               </birth>
+               <death>
+                  <date>1914-11-3</date>
+                  <place>Krakau</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36113</idno></person>
+            </listPerson></back></text>
+</TEI>

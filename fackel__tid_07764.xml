@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07764.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07763.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07765.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Aus der Sammlung „Das dunkle Schiff“, auserlesene Sonette, Gedichte, Epigramme des Andreas Gryphius), in: Fackel Heft 19, Nr. 454, 1234, S. 27-27</title>
+            <title type="iso-date">1234-01-01</title>
+            <title type="id">tid_07764</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">19</title><title type="heft">454</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-19-454_n0027.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/454,027</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Aus der Sammlung „Das dunkle Schiff“, auserlesene Sonette, Gedichte, Epigramme des Andreas Gryphius)</head>
+            <p ana="pr103986">
+<space/>Aus der Sammlung »<rs type="title">Das dunkle Schiff, auserlesene<lb/>
+Sonette, Gedichte, Epigramme des <rs type="pers" ana="n2_5908" ref="#fk__p_38232"><seg type="spc">Andreas Gryphius</seg></rs></rs>«,<lb/>
+herausgegeben von <rs type="pers" ana="n_66884" ref="#fk__p_47850">Klabund</rs> (<rs type="inst"><rs type="pers" ana="n2_5909" key="#fk__p_58822">Roland-Verlag</rs></rs>, München):<lb/>
+</p>
+            <lg>
+<l>Ist jemals, weil der Bau der großen Welt gestanden,</l>
+<l><seg type="insult">So grimme Tyrannei und Greuel</seg> auch erhört?</l>
+<l>Ist was, das nicht durch <seg type="insult">Krieg, Schwert, Flamm und Spieß</seg> zerstört?</l>
+<l>Ist <seg type="insult">solche Grausamkeit</seg>, sind <seg type="insult">so viel Sünd und Schanden</seg></l>
+</lg>
+            <lg>
+<l>Ganz ohne Furcht verübt, nun Redlichkeit in Banden</l>
+<l>Und Heiligkeit verjagt, nun sich die <seg type="insult">Sünde</seg> mehrt,</l>
+<l>Und <seg type="insult">mancher Widerchrist</seg> in Gottes Tempel lehrt,</l>
+<l>Und <seg type="insult">schwere Ketzerei</seg> sich heckt in allen Landen?</l>
+</lg>
+            <lg>
+<l>Ach, wie wird deiner Schar, Herr <rs type="pers" ana="n_66885" ref="#fk__p_46843">Jesu Christ</rs>, so bang!</l>
+<l>Verkürze doch die Zeit und bleib nunmehr nicht lang,</l>
+<l>Daß nicht der Satan uns in <seg type="insult">Wahn und Irrtum</seg> bringe!</l>
+</lg>
+            <lg>
+<l>Indessen gib, daß ich, o wahre Seelenspeis,</l>
+<l>Mich von <seg type="insult">der faulen Welt</seg> und ihrer Lust abreiß’</l>
+<l>Und bald zu dir, mein Hort, mit Adlersflügeln schwinge!</l>
+</lg>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_38232">
+               <persName>Gryphius, Andreas</persName>
+               <birth>
+                  <date>1616-10-02</date>
+                  <place>Glogau/Schles.</place>
+               </birth>
+               <death>
+                  <date>1664-07-16</date>
+                  <place>Glogau/Schles.</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/52645</idno></person>
+            <person xml:id="fk__p_46843">
+               <persName>Jesus Christus</persName>
+            </person>
+            <person xml:id="fk__p_47850">
+               <persName>Klabund, d. i. Alfred Henschke</persName>
+               <birth>
+                  <date>1890-11-4</date>
+                  <place>Crossen a. d. Oder</place>
+               </birth>
+               <death>
+                  <date>1928-8-14</date>
+                  <place>Davos</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

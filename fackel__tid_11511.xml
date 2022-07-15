@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_11511.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11510.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11512.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Was man so am Sonntag erfährt, in: Fackel Heft 32, Nr. 838, 1930, S. 109-110</title>
+            <title type="iso-date">1930-09-01</title>
+            <title type="id">tid_11511</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">32</title><title type="heft">838</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-32-838_n0109.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/838,109</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Was man so am Sonntag erfährt</head>
+            <p ana="pr167262">
+<space/>Der <seg ana="Tag"/>:<lb/>
+</p>
+            <p ana="pr167264">
+<space/>Heute, zum fünfundzwanzigjährigen Jubiläum der ‚<rs type="magazine" ana="werk_30308">Weltbühne</rs>‘,<lb/>
+muß gesagt werden, daß <OMED>— —</OMED> Aber auch, wie unendlich traurig es<lb/>
+ist, daß wir in Österreich überhaupt keine Zeitschrift haben, geschweige<lb/>
+denn eine, die sich mit der ‚<rs type="magazine" ana="werk_30309">Weltbühne</rs>‘ messen könnte.<lb/>
+</p>
+            <p ana="pr167266">
+<space/><seg ana="Neues Wiener Journal"/>:<lb/>
+</p>
+            <p ana="pr167268">
+<space/>Im Augustheft des ‚<rs type="magazine" ana="werk_30311">Kunstwart</rs>‘ erzählt <rs type="pers" ana="n_100108" ref="#fk__p_47092">Josef Hofmiller</rs>, daß <date>1913</date> der<lb/>
+<rs type="pers" ana="n_100109" ref="#fk__p_50689">Nobelpreis</rs> für unseren <rs type="pers" ana="n_100110" ref="#fk__p_52473">Rosegger</rs> erhofft, aber dann an <rs type="pers" ana="n_100111" ref="#fk__p_51965">Rabindranath<lb/>
+Tagore</rs> verliehen wurde. Soviel ich weiß, ist bisher noch kein anderer<lb/>
+österreichischer Dichter für den <rs type="pers" ana="n_100112" ref="#fk__p_50689">Nobelpreis</rs> auch nur in Frage gezogen<lb/>
+worden. Uns zu bewerben sind wir zu stolz <OMED>— —</OMED><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_51965">
+               <persName>Tagore, Rabindranath</persName>
+               <birth>
+                  <date>1861-5-6</date>
+                  <place>antiniketan/West Bengal</place>
+               </birth>
+               <death>
+                  <date>1941-8-7</date>
+                  <place>Kalkutta</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Philosoph</occupation>
+               <occupation>Musiker</occupation>
+               <occupation>Zeichner</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/25836</idno></person>
+            <person xml:id="fk__p_52473">
+               <persName>Rosegger, Peter</persName>
+               <birth>
+                  <date>1843-7-31</date>
+                  <place>Alpl, Steiermark</place>
+               </birth>
+               <death>
+                  <date>1918-6-26</date>
+                  <place>Krieglach, Steiermark</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12551</idno></person>
+            <person xml:id="fk__p_50689">
+               <persName>Nobel, Alfred</persName>
+               <birth>
+                  <date>1833-10-21</date>
+                  <place>Stockholm</place>
+               </birth>
+               <death>
+                  <date>1896-12-10</date>
+                  <place>San Remo</place>
+               </death>
+               <occupation>Chemiker</occupation>
+               <occupation>Ingenieur</occupation>
+               <occupation>Industrieller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/3810</idno></person>
+            <person xml:id="fk__p_47092">
+               <persName>Hofmiller, Josef</persName>
+               <birth>
+                  <date>1872-04-26</date>
+                  <place>Kranzegg/Allgäu</place>
+               </birth>
+               <death>
+                  <date>1933-10-11</date>
+                  <place>Rosenheim</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/3861</idno></person>
+            </listPerson></back></text>
+</TEI>

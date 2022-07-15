@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_09086.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09085.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09087.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ein Nachtrag, in: Fackel Heft 23, Nr. 588, 1922, S. 40-40</title>
+            <title type="iso-date">1922-03-01</title>
+            <title type="id">tid_09086</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">23</title><title type="heft">588</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-23-588_n0040.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/588,040</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ein Nachtrag</head>
+            <p ana="pr121329">
+<space/>— Der vom Wiener <seg type="ELIDASH">Journalistenverein</seg> und Schriftstellerverein<lb/>
+»<rs type="inst">Concordia</rs>« am Samstag im <rs type="inst">Mittleren Konzerthaussaale</rs> veranstalteten<lb/>
+<rs type="pers" ana="n_74341" ref="#fk__p_43482">Grillparzer-Feier</rs>, über die wir bereits berichtet haben, wohnten unter<lb/>
+anderen bei: — — — <rs type="pers" ana="n_74342" ref="#fk__p_45448">Hans Müller</rs>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_43482">
+               <persName>Grillparzer, Franz</persName>
+               <birth>
+                  <date>1791-1-15</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1872-1-21</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Beamter</occupation>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Ögg teilt 912/23 Traum ein Leben Calderon zu</note>
+               <note type="comment">Ögg teilt irrt. 229/2, 305/50 zu</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11518</idno></person>
+            <person xml:id="fk__p_45448">
+               <persName>Müller, Hans</persName>
+               <birth>
+                  <date>1882-10-25</date>
+                  <place>Brünn</place>
+               </birth>
+               <death>
+                  <date>1950-3-8</date>
+                  <place>Einigen/Thunersee</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12327</idno></person>
+            </listPerson></back></text>
+</TEI>

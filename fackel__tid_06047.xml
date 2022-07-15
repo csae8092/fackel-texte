@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06047.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06046.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06048.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Sprichwörter-Erraten, in: Fackel Heft 14, Nr. 366, 1913, S. 12-12</title>
+            <title type="iso-date">1913-01-01</title>
+            <title type="id">tid_06047</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">14</title><title type="heft">366</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-14-366_n0012.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/366,012</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Sprichwörter-Erraten</head>
+            <p ana="pr81688">
+<space/><seg type="sidehead">[Journalistisches.]</seg> Nach dreißigjähriger angestrengter und erfolgreicher<lb/>
+ Tätigkeit ist der Wiener Korrespondent des ‚<rs type="paper" ana="werk_19144">Berliner Börsencourier<lb/>
+</rs>‘, Herr <rs type="pers" ana="n_57133" ref="#fk__p_53254">Siegfried Löwy</rs>, aus dieser Stellung geschieden. Herr<lb/>
+<rs type="pers" ana="n_57134" ref="#fk__p_53254">Löwy</rs> hat sich durch seinen geradezu <seg type="spc">sprichwörtlich</seg> gewordenen<lb/>
+Pflichteifer, seine Gewissenhaftigkeit und Sachkenntnis unbestrittenes<lb/>
+Ansehen in der Wiener Journalistik erworben. Der vortreffliche Kollege<lb/>
+wird sich in Hinkunft als Wiener Korrespondent der <choice><sic>‛</sic><corr>‚</corr></choice><rs type="paper" ana="werk_19145">Frankfurter<lb/>
+Nachrichten</rs>‘ betätigen.<lb/>
+</p>
+            <p ana="pr81690">
+<space/>Nicht Ruhe, nur Veränderung. Immer weiter, immer höher.<lb/>
+Die Volksseele, aus der die Sprichwörter kommen, fühlt, was sie<lb/>
+an ihm hat. »Verläßlich wie <rs type="pers" ana="n_57135" ref="#fk__p_53254">Löwy</rs>«, sagt das Volk. (Nach dem<lb/>
+Sprichwort gebildet: »Tüchtig wie <rs type="pers" ana="n_57136" ref="#fk__p_53254">Löwy</rs> und flink wie <rs type="pers" ana="n_57137" ref="#fk__p_56302">Hirsch</rs>.«)<lb/>
+Oder: »<seg type="insult">Ein lebendiger <rs type="pers" ana="n_57138" ref="#fk__p_53254">Löwy</rs></seg> ist besser als ein toter Hund.«<lb/>
+Mütter, die nur ein Kind haben, sagen gleich der Löwin in<lb/>
+<rs type="pers" ana="n_57139" ref="#fk__p_37865">Aesops</rs> Fabel: »Eins, aber es ist ein <rs type="pers" ana="n_57140" ref="#fk__p_53254">Löwy</rs>!« Und sogar in den<lb/>
+Redaktionen werden noch Kinder und Kindeskinder von einem,<lb/>
+der bis Berlin telephonieren kann, rühmen: »Er <foreign xml:lang="de-loc">blost</foreign> wie <rs type="pers" ana="n_57141" ref="#fk__p_53254">Löwy</rs>.«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_56302">
+               <persName>Hirsch, Julius Ferdinand</persName>
+               <birth>
+                  <date>1874-4-5</date>
+                  <place>Troppau</place>
+               </birth>
+               <death>
+                  <date>1942-11-18</date>
+                  <place>Konzentrationslager Theresienstadt</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <note type="comment">305/38 ?? 366/2 ?? 423/4-10??</note>
+               <note type="comment">1895-1914 Red.mitgl. NFP</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16216</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/4367</idno></person>
+            <person xml:id="fk__p_53254">
+               <persName>Loewy, Siegfried</persName>
+               <birth>
+                  <date>1857-11-1</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1931-5-8</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Namenskorrektur!</note>
+               <note type="comment">ÖBL</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12101</idno></person>
+            <person xml:id="fk__p_37865">
+               <persName>Aesop</persName>
+               <birth>
+                  <date>620 BC</date>
+               </birth>
+               <death>
+                  <date>564 BC</date>
+               </death>
+               <occupation>Sklave </occupation>
+               <occupation>Schriftsteller</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

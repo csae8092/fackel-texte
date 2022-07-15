@@ -1,0 +1,99 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_09968.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09967.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09969.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Kleiner Konzerthaussaal, 30. November, 7 Uhr:, in: Fackel Heft 26, Nr. 668, 1924, S. 54-54</title>
+            <title type="iso-date">1924-12-01</title>
+            <title type="id">tid_09968</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">26</title><title type="heft">668</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-26-668_n0054.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/668,054</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Kleiner Konzerthaussaal, 30. November, 7 Uhr:</head>
+            <p ana="pr135304">
+<space/><rs type="inst">Kleiner Konzerthaussaal</rs>, <date>30. November</date>, 7 Uhr:<lb/>
+</p>
+            <p ana="pr135305">
+<space/>I. <rs type="title"><rs type="pers" ana="n2_7399" ref="#fk__p_46960">Goethe</rs> über die »<rs type="pers">Pandora</rs>« und was <rs type="pers" ana="n2_7401" ref="#fk__p_42309">Eduard Engel</rs> sagt</rs><lb/>
+(<rs type="pers" ana="n_82864" ref="#fk__p_42487">Eckermann-Zitat</rs> und aus »<rs type="title">Sprachschule</rs>« <rs type="selfRef" ana="werk_26268"><abbr>Nr.</abbr> 640—648</rs>, <abbr>S.</abbr> 60—62,<lb/>
+verbunden durch die Worte »Das kann, nach genau 100 Jahren, die<lb/>
+deutsche Literaturgeschichte nicht finden«). — <rs type="pers" ana="n_82865" ref="#fk__p_46960"><seg type="spc">Goethe</seg></rs>: <rs type="title"><rs type="pers"><seg type="spc">Pandora</seg></rs></rs><lb/>
+(Mit der Beschreibung des Schauplatzes; 36 Verse gestrichen).<lb/>
+</p>
+            <p ana="pr135306">
+<space/>II. <rs type="title"><seg type="spc">Worte in Versen</seg></rs>: <rs type="title">Die Flamme der <rs type="pers">Epimeleia</rs></rs> / <foreign xml:lang="la"><rs type="title"><seg type="insult">Thyrsigeri<lb/>
+multi</seg> <seg type="symbol" subtype="3dots"/></rs></foreign> / <rs type="title">Abenteuer der Arbeit</rs> / <rs type="title">Traum vom Fliegen</rs> / <rs type="title">Dialog</rs> /<lb/>
+<rs type="title">Dein Fehler</rs> / <rs type="title">Grabschrift</rs> / <rs type="title">Hypnagogische Gestalten</rs> / <rs type="title">Mythologie</rs> /<lb/>
+<rs type="title">Das arme Leben</rs> / <rs type="title"><rs type="pers" ana="n2_7402" ref="#fk__p_51379">Peter Altenberg</rs></rs> / <rs type="title">Leben ohne Eitelkeit</rs> / <rs type="title">Der Grund</rs> /<lb/>
+<rs type="title">Nächtliche Stunde</rs> / <rs type="title">Todesfurcht</rs> / <rs type="title">Jugend</rs>.<lb/>
+</p>
+            <p ana="pr135307">
+<space/>Ein Teil des Ertrags (<abbr>inkl.</abbr> Programmerlös): K 3,097.100 wurde<lb/>
+dem <rs type="inst">Heim für blinde Mädchen</rs> und der <rs type="inst">Vereinigten Österreichischen<lb/>
+Krankenkassen-Hilfe für tuberkulös gefährdete Kinder</rs>, Zentralstelle<lb/>
+Wien, zugewendet.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46960">
+               <persName>Goethe, Johann Wolfgang von</persName>
+               <birth>
+                  <date>1749-8-28</date>
+                  <place>Frankfurt am Main</place>
+               </birth>
+               <death>
+                  <date>1832-3-22</date>
+                  <place>Weimar</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">890/142f.</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11461</idno></person>
+            <person xml:id="fk__p_51379">
+               <persName>Altenberg, Peter</persName>
+               <birth>
+                  <date>1859-3-9</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1919-1-8</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Ögg teilt 531/207 (Nachruf auf Moriz Benedikt) P. A. zu (mit ?)</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2147</idno></person>
+            <person xml:id="fk__p_42309">
+               <persName>Engel, Eduard</persName>
+               <birth>
+                  <date>1851-11-12</date>
+                  <place>Stolp</place>
+               </birth>
+               <death>
+                  <date>1938-11-23</date>
+                  <place>Bornim/Potsdam</place>
+               </death>
+               <occupation>Literarhistoriker</occupation>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">"Deutsche Stilkunst", Wien 1911</note>
+            </person>
+            <person xml:id="fk__p_42487">
+               <persName>Eckermann, Johann Peter</persName>
+               <birth>
+                  <date>1792-9-21</date>
+                  <place>Winsen a. d. Luhe</place>
+               </birth>
+               <death>
+                  <date>1854-12-3</date>
+                  <place>Weimar</place>
+               </death>
+               <occupation>Sekretär</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11220</idno></person>
+            </listPerson></back></text>
+</TEI>

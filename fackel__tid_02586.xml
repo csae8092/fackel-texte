@@ -1,0 +1,47 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02586.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02585.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02587.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Leser. (Vom Macaulay-Citat), in: Fackel Heft 04, Nr. 111, 1902, S. 32-32</title>
+            <title type="iso-date">1902-08-5</title>
+            <title type="id">tid_02586</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">04</title><title type="heft">111</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-04-111_n0032.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/111,032</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Leser. (Vom Macaulay-Citat)</head>
+            <p ana="pr25109">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_21765" ref="#fk__p_48877">Leser</rs>.</seg></seg> Jawohl, der <rs type="paperRef" ana="werk_40661">Leitartikel</rs>, in dem der <seg type="insult"><rs type="paperRef" ana="werk_40660"><rs type="inst">Börsenwöchner</rs></rs></seg> so<lb/>
+unglücklich und unvollständig die Worte citierte, die <rs type="pers" ana="n_21766" ref="#fk__p_49488">Macaulay</rs> zur<lb/>
+Verherrlichung der katholischen Kirche geschrieben, war — gegen die<lb/>
+<seg type="insult">»Reactionäre«</seg> gerichtet. Diese Pointe habe ich mir in <rs type="selfRef" ana="werk_8709"><abbr>Nr.</abbr> 109</rs> leider<lb/>
+entgehen lassen.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_48877">
+               <persName>Leser</persName>
+            </person>
+            <person xml:id="fk__p_49488">
+               <persName>Macaulay, Thomas Babington</persName>
+               <birth>
+                  <date>1800-10-25</date>
+                  <place>Rothley-Temple/Leicestershire</place>
+               </birth>
+               <death>
+                  <date>1859-12-28</date>
+                  <place>Campden Hill/London</place>
+               </death>
+               <occupation>Historiker</occupation>
+               <occupation>Politiker</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/4660</idno></person>
+            </listPerson></back></text>
+</TEI>

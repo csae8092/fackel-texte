@@ -1,0 +1,32 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00354.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00353.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00355.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">J. St., Fusch., in: Fackel Heft 01, Nr. 014, 1899, S. 24-24</title>
+            <title type="iso-date">1899-08-01</title>
+            <title type="id">tid_00354</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">014</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-014_n0024.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/014,024</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>J. St., Fusch.</head>
+            <p ana="pr3222">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_2286" key="#fk__p_46622"><abbr>J. St.</abbr></rs>, Fusch.</seg></seg> Vielen Dank für Ihre liebenswürdigen Worte.<lb/>
+Bezüglich <rs type="pers" ana="n_2287" ref="#fk__p_59270"><abbr>K.</abbr>’s</rs> ward ich neuerdings anders informiert.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_59270">
+               <persName>K.</persName>
+               <note type="comment"/>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/18969</idno></person>
+            </listPerson></back></text>
+</TEI>

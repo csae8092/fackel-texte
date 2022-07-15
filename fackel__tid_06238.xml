@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06238.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06237.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06239.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Das Zitat war ungenau, in: Fackel Heft 15, Nr. 374, 1913, S. 11-11</title>
+            <title type="iso-date">1913-05-01</title>
+            <title type="id">tid_06238</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">15</title><title type="heft">374</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-15-374_n0011.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/374,011</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Das Zitat war ungenau</head>
+            <p ana="pr84042">
+»<seg type="symbol" subtype="4dots"/> <seg type="spc">Die Kriegsgefahr für Europa ist ganz vorüber</seg> und<lb/>
+<rs type="pers" ana="n_58459" ref="#fk__p_50669">Zar Nikolaus</rs> hat, wie <seg type="spc">in dem Drama</seg>, zum <rs type="pers" ana="n_58460" ref="#fk__p_44037">König Nikolaus von<lb/>
+Montenegro</rs> gesagt: <seg type="spc">Ich kenne dich nicht mehr</seg>, <seg type="spc">alter Mann</seg>.«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_50669">
+               <persName>Nikolaus II., Zar</persName>
+               <birth>
+                  <date>1868-5-18</date>
+                  <place>Zarskoje Selo</place>
+               </birth>
+               <death>
+                  <date>1918-7-16/17</date>
+                  <place>Jekaterinburg</place>
+               </death>
+               <occupation>Zar</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_18456</idno></person>
+            <person xml:id="fk__p_44037">
+               <persName>Nikola I., König von Montenegro</persName>
+               <birth>
+                  <date>1841-10-7</date>
+                  <place>Njegosch</place>
+               </birth>
+               <death>
+                  <date>1921-3-1</date>
+                  <place>Antibes</place>
+               </death>
+               <note type="comment">Nikola I. Petrovic Njegos, 1860 bis 1918 König von Montenegro</note>
+               <note type="comment">Ögg teilt 360/48 Ferdinand von Bulgarien zu</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

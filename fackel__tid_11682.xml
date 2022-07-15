@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_11682.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11681.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11683.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Das Wrack, in: Fackel Heft 32, Nr. 847, 1931, S. 93-93</title>
+            <title type="iso-date">1931-03-01</title>
+            <title type="id">tid_11682</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">32</title><title type="heft">847</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-32-847_n0093.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/847,093</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Das Wrack</head>
+            <p ana="pr169538">
+<space/>Ein alter Mensch, einbeinig, müde, so schwach, daß er kaum<lb/>
+gehen kann, ist wegen verbotener Rückkehr vor dem Bezirksrichter<lb/>
+<rs type="pers" ana="n_101450" ref="#fk__p_51856"><seg type="spc">Pruckner</seg></rs> in Fünfhaus angeklagt. Auf seinen Stock gestützt, mühsam<lb/>
+ nur sprechend, macht der alte Mann den Eindruck eines Minderwertigen<lb/>
+, vielleicht eines Schwachsinnigen. Der Richter fragt: »Warum<lb/>
+sind Sie denn wiedergekommen?« und meint: »<seg type="spc">Es scheint Ihnen<lb/>
+hier sehr gut zu gefallen</seg>.« Der alte Mann deutet auf seine<lb/>
+Brust: <foreign xml:lang="de-loc">»Die Krankheit doda <seg type="symbol" subtype="3dots"/>«</foreign> stammelt er. Nein, er hat keinen<lb/>
+Verteidiger, niemanden, der in bewegten Worten auf den unwiderstehlichen<lb/>
+ Zwang hinweist, der den armen alten Menschen da hergetrieben<lb/>
+ hat. Vielleicht zum Arzt? Nur der Justizwachebeamte sagt<lb/>
+leise: »Er kann kaum gehen.« Aber der hat nichts zu sagen. Der<lb/>
+Richter aber sagt: »<seg type="spc">Acht Tage Arrest</seg>, <seg type="spc">verschärft durch<lb/>
+zwei Fasttage</seg>« und fügt hinzu: »<seg type="spc">Nächstes Mal zwei<lb/>
+Monate Minimum</seg>.«<lb/>
+</p>
+            <p ana="pr169540">
+Und das — als <seg type="insult">soziales Scherflein</seg> zwischen <rs type="title"><rs type="pers">Mutzenbacher-Prozeß</rs></rs><lb/>
+und einer <seg type="insult">Berichterstattung</seg>, die selbsttätig an der <seg type="insult">Sphäre</seg> nassauert<lb/>
+— druckt das <seg type="insult"><rs type="paperRef" ana="werk_30553">Zentralorgan</rs></seg> kommentarlos, ohne Perspektive auf<lb/>
+die erlaubte Rückkehr des <rs type="pers" ana="n_101451" ref="#fk__p_39716">Castiglioni</rs>, ohne Gefühl für die<lb/>
+<seg type="insult">Nichtsnutzigkeit</seg> einer Politik, die <seg type="insult">solche Justiz</seg>, <seg type="insult">solchen Jammer<lb/>
+der Gesellschaftsordnung</seg> einen Umsturz überdauern ließ, und<lb/>
+ohne die Erkenntnis, daß es selbst ein <seg type="insult">Wrack</seg> sei.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_39716">
+               <persName>Castiglioni, Camillo</persName>
+               <birth>
+                  <date>1879-10-22</date>
+                  <place>Triest</place>
+               </birth>
+               <death>
+                  <date>1957-12-18</date>
+                  <place>Rom</place>
+               </death>
+               <occupation>Finanzmann</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/6599</idno></person>
+            <person xml:id="fk__p_51856">
+               <persName>Pruckner, Otto</persName>
+               <birth>
+                  <date>1891-4-7</date>
+                  <place>Graz</place>
+               </birth>
+               <death>
+                  <date>leer</date>
+               </death>
+               <occupation>Richter</occupation>
+               <note type="comment">Lehmann 1931 Gerichte bestätigt den Namen</note>
+               <note type="comment">Le '38: Staatsanwalt, 3., Baumannstr. 7</note>
+               <note type="comment">Bezirksrichter Fünfhaus</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02439.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02438.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02440.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Bauchredner. (Der feinhörige Hevesi), in: Fackel Heft 04, Nr. 104, 1902, S. 24-24</title>
+            <title type="iso-date">1902-05-26</title>
+            <title type="id">tid_02439</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">04</title><title type="heft">104</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-04-104_n0024.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/104,024</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Bauchredner. (Der feinhörige Hevesi)</head>
+            <p ana="pr23722">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="n_20583" key="#fk__p_38937">Bauchredner</rs>.</seg></seg></seg> Es ist interessant, wie feinhörig <seg type="insult">Herr <rs type="pers" ana="n_20584" ref="#fk__p_49299">Hevesi</rs></seg> in<lb/>
+den <seg type="insult">Jahren der <rs type="inst">Secession</rs> und Stilverrenkung</seg> geworden ist. In seinem<lb/>
+<rs type="pers" ana="n_20585" ref="#fk__p_39121">Baumeister-Festartikel</rs> versicherte er uns, Herr <rs type="pers" ana="n_20586" ref="#fk__p_46351">Thimig</rs> sei eine zeitlang<lb/>
+»ein kleiner <rs type="pers" ana="n_20587" ref="#fk__p_39121">Baumeister</rs>« gewesen, der »sich die Grosszügigkeit und<lb/>
+Volltönigkeit <rs type="pers" ana="n_20588" ref="#fk__p_39121"><abbr>B.’s</abbr></rs> durch Nachahmung mit seinen kleinen Mitteln zu<lb/>
+einer Quelle komischer Wirkungen zu machen wusste«. Das ist aber<lb/>
+noch gar nichts. Man höre erst das Folgende: »<seg type="spc">Auch Frau <rs type="pers" ana="n_20589" ref="#fk__p_53643">Hohenfels<lb/>
+</rs></seg> verschmäht <rs type="pers" ana="n_20590" ref="#fk__p_39121">Baumeister’sche Naturlaute</rs> und Nuancen keineswegs,<lb/>
+und diese Aeusserungen einer Kraftnatur machen sich, von einem zierlichen<lb/>
+ Backfisch verwendet, recht putzig.« <seg type="insult">Welch ein Beobachter!</seg><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_49299">
+               <persName>Hevesi, Ludwig</persName>
+               <birth>
+                  <date>1843-12-20</date>
+                  <place>Heves, Ungarn</place>
+               </birth>
+               <death>
+                  <date>1910-2-27</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11687</idno></person>
+            <person xml:id="fk__p_46351">
+               <persName>Thimig, Hugo</persName>
+               <birth>
+                  <date>1854-6-16</date>
+                  <place>Dresden</place>
+               </birth>
+               <death>
+                  <date>1944-9-24</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <occupation>Theaterleiter</occupation>
+               <note type="comment">1874-1917 Burgtheater</note>
+               <note type="comment">Burgth. Dir. 1. 9. 1912 bis 17. 3. 1917</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12948</idno></person>
+            <person xml:id="fk__p_53643">
+               <persName>Hohenfels, Stella</persName>
+               <birth>
+                  <date>1858-4-16</date>
+                  <place>Florenz</place>
+               </birth>
+               <death>
+                  <date>1920-2-21</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schauspielerin</occupation>
+               <note type="comment">Burgtheater, Hofschauspielerin</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2850</idno></person>
+            <person xml:id="fk__p_39121">
+               <persName>Baumeister, Bernhard</persName>
+               <birth>
+                  <date>1827-9-28</date>
+                  <place>Posen</place>
+               </birth>
+               <death>
+                  <date>1917-10-25</date>
+                  <place>Baden bei Wien</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <note type="comment">Baden Friedhof St. Helena</note>
+               <note type="comment">1852-1917 Burgtheater</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13489</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/6173</idno></person>
+            </listPerson></back></text>
+</TEI>

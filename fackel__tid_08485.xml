@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_08485.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08484.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08486.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Flieger über Rodaun, in: Fackel Heft 20, Nr. 484, 1918, S. 173-173</title>
+            <title type="iso-date">1918-10-01</title>
+            <title type="id">tid_08485</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">20</title><title type="heft">484</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-20-484_n0173.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/484,173</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Flieger über Rodaun</head>
+            <p ana="pr111496">
+<space/><seg type="symbol" subtype="3dots"/> Das Geschwader passierte um 9 Uhr 20 Minuten <seg type="spc">Rodaun</seg> in<lb/>
+schätzungsweise 2200 Meter Höhe <seg type="symbol" subtype="4dots"/> Eines der italienischen Flugzeuge<lb/>
+kehrte über der Stadtgrenze um und passierte nach 10 Minuten <seg type="spc">mit<lb/>
+absteigender Tendenz</seg> wieder <seg type="spc">Rodaun</seg> <seg type="symbol" subtype="4dots"/><lb/>
+</p>
+            <p ana="pr111497">
+<space/>Offenbar hat <rs type="pers" ana="n_69500" ref="#fk__p_40254">d’Annunzio</rs> bei <seg type="insult">Herrn <rs type="pers" ana="n_69501" ref="#fk__p_46353">Hofmannsthal</rs></seg> notlanden<lb/>
+und ihn fragen wollen, ob er ihm einen Gegenbesuch machen<lb/>
+werde, aber rechtzeitig erfahren, daß dieser seit <date>1914</date> in Russisch-Polen<lb/>
+ kämpfe.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46353">
+               <persName>Hofmannsthal, Hugo Edler von</persName>
+               <birth>
+                  <date>1874-2-1</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1929-7-15</date>
+                  <place>Rodaun bei Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16293</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11740</idno></person>
+            <person xml:id="fk__p_40254">
+               <persName>d’Annunzio, Gabriele</persName>
+               <birth>
+                  <date>1863-3-12</date>
+                  <place>Pescara</place>
+               </birth>
+               <death>
+                  <date>1938-3-1</date>
+                  <place>Cargnacco bei Gardone</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2142</idno></person>
+            </listPerson></back></text>
+</TEI>

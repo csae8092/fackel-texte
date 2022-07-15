@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00351.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00350.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00352.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">X. Y., in: Fackel Heft 01, Nr. 014, 1899, S. 24-24</title>
+            <title type="iso-date">1899-08-01</title>
+            <title type="id">tid_00351</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">014</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-014_n0024.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/014,024</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>X. Y.</head>
+            <p ana="pr3213">
+<space/><seg type="sidehead"><rs type="pers" ana="n_2280" ref="#fk__p_55767"><seg type="i"><abbr>X. Y.</abbr></seg></rs></seg> Der Vorstand des <rs type="inst">Mittelschullehrervereines</rs> hat durch<lb/>
+sein <seg type="insult">serviles Gebaren</seg> wiederholt den Unwillen der Lehrer erregt,<lb/>
+so insbesondere damals, als er sich bei <rs type="pers" ana="n_2281" ref="#fk__p_43672"><seg type="spc">Gautsch</seg></rs> im Namen der<lb/>
+Lehrer dafür bedankte, dass dieser <seg type="spc">versprochen</seg> hatte, für die<lb/>
+Regulierung der Gehalte etwas zu thun. Die <seg type="insult">devote Haltung</seg> <rs type="pers" ana="n_2282" ref="#fk__p_43672">Gautsch</rs><lb/>
+gegenüber war umso anwidernder, als gerade dieser Mann die Lehrer<lb/>
+mit offenbarer Geringschätzung behandelte.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_43672">
+               <persName>Gautsch-Frankenthurn, Paul Freiherr von </persName>
+               <birth>
+                  <date>1851-02-26</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1918-04-20</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <note type="comment">verh. mit Helene Schlumberger von Goldeck</note>
+            </person>
+            <person xml:id="fk__p_55767">
+               <persName>X. Y.</persName>
+            </person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00341.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00340.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00342.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Ein kleiner Beitrag zur Lehre von der Inkompatibilität), in: Fackel Heft 01, Nr. 014, 1899, S. 22-22</title>
+            <title type="iso-date">1899-08-01</title>
+            <title type="id">tid_00341</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">014</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-014_n0022.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/014,022</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Ein kleiner Beitrag zur Lehre von der Inkompatibilität)</head>
+            <p ana="pr3164">
+<space/><seg type="sidehead">[<seg type="insult"><seg type="spc">Ein kleiner Beitrag zur Lehre von der</seg><lb/>
+<seg type="spc">Incompatibilität</seg></seg>.]</seg> »Bei der Firma: Actiengesellschaft<lb/>
+der Metallfabrik in Oed vormals Gebrüder <rs type="pers" ana="n_2252" ref="#fk__p_52505">Rosthorn</rs>,<lb/>
+wurde <rs type="pers" ana="n_2253" ref="#fk__p_42838">Ernst <seg type="spc">Oser</seg></rs>, <abbr>k. k.</abbr> Sectionschef in Wien, als<lb/>
+neugewähltes Mitglied des Verwaltungsrathes mit dem<lb/>
+statutenmäßigen Firmierungsrechte eingetragen.« —<lb/>
+Herr <rs type="pers" ana="n_2254" ref="#fk__p_42838"><seg type="spc">Oser</seg></rs> ist <seg type="spc">activer</seg> Sectionschef im <rs type="inst">Ackerbauministerium<lb/>
+</rs>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_52505">
+               <persName>Rosthorn, Gebrüder (Metallfabrik)</persName>
+               <note type="comment">in Oed</note>
+            </person>
+            <person xml:id="fk__p_42838">
+               <persName>Oser, Ernst</persName>
+               <birth>
+                  <date>1845-10-23</date>
+                  <place>Grafenegg</place>
+               </birth>
+               <death>
+                  <date>1902-9-25</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Ministerialbeamter</occupation>
+               <occupation>Industrieller</occupation>
+               <note type="comment">Ehrenbürger von Gumpoldskirchen</note>
+               <note type="comment">3., Ungargasse 9, verh. mit Josefine, geb. Rosthorn; MA 8 nicht eruiert</note>
+               <note type="comment">begraben Friedhof Waldegg/Niederösterreich</note>
+               <note type="comment">Sektionschef im Ackerbau-Minist.</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

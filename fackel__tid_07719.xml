@@ -1,0 +1,47 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07719.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07718.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07720.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Der Graf, in: Fackel Heft 18, Nr. 445, 1234, S. 162-162</title>
+            <title type="iso-date">1234-01-01</title>
+            <title type="id">tid_07719</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">18</title><title type="heft">445</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-18-445_n0162.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/445,162</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Der Graf</head>
+            <p ana="pr103480">
+<space/><seg type="symbol" subtype="3dots"/> Der <RS pers="Karl I." globID="name_201592">Kaiser</RS> wandte sich um und blickte auf die Türe, sagte<lb/>
+aber kein Wort, worauf sich die Tür öffnete und der <RS pers="Erzherzog Otto" globID="rs_778">Thronfolger</RS> ins<lb/>
+Zimmer lief. <rs type="pers" ana="n_66731" ref="#fk__p_45630">Graf Khuen-Hedervary</rs> erhob sich von seinem Sitz<lb/>
+und begrüßte den kleinen Erzherzog mit einer Verbeugung.<lb/>
+<seg type="spc">Dieser</seg> geriet durchaus nicht in Verlegenheit, sondern <seg type="spc">nahm von<lb/>
+dem Grafen überhaupt keine Notiz</seg> und lief direkt auf<lb/>
+seinen kaiserlichen Vater zu, dem er etwas sagte <seg type="symbol" subtype="4dots"/> und rief: »<seg type="spc">Dort<lb/>
+ist ein Stall ohne Dach</seg>!« Dieser Ausruf bezog sich auf ein<lb/>
+neues Spielzeug, welches der kleine Thronfolger erhalten hatte <seg type="symbol" subtype="4dots"/><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_45630">
+               <persName>Khuen-Héderváry, Károlyi Graf</persName>
+               <birth>
+                  <date>1849-5-23</date>
+                  <place>Gräfenberg/Freiwaldau/Schlesien</place>
+               </birth>
+               <death>
+                  <date>1918-2-16</date>
+                  <place>Budapest</place>
+               </death>
+               <occupation>Politiker</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

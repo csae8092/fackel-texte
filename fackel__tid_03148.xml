@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03148.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03147.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03149.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Wiener. (»Auf einen Glückwunsch des ‚Berliner Börsencourier‘«), in: Fackel Heft 05, Nr. 138, 1903, S. 20-21</title>
+            <title type="iso-date">1903-05-20</title>
+            <title type="id">tid_03148</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">05</title><title type="heft">138</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-05-138_n0020.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/138,020</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Wiener. (»Auf einen Glückwunsch des ‚Berliner Börsencourier‘«)</head>
+            <p ana="pr30887">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="n_26790" ref="#fk__p_55452">Wiener</rs>.</seg></seg></seg> Sie fanden im ‚<rs type="" ana="werk_11582">Extrablatt</rs>‘ (<date>14. Mai</date>) die Mittheilung,<lb/>
+daß <rs type="pers" ana="n_26791" ref="#fk__p_38058">Baron Berger</rs> in Hamburg »<seg type="spc">auf einen Glückwunsch des</seg><lb/>
+</p>
+            <p ana="pr30887">
+‚<rs type="paper" ana="werk_11583"><seg type="spc">Berliner Börsencourier</seg></rs>‘ mit folgender liebenswürdiger Dichtung<lb/>
+geantwortet« hat. Folgt ein kleines Meisterwerk sprachlicher Feinheit,<lb/>
+von dem man es nicht fassen kann, daß sein Schöpfer es — <seg type="insult">»ausgerechnet<lb/>
+«, Herr <rs type="pers" ana="n_26792" ref="#fk__p_47236">Julius Bauer</rs>!</seg> — dem ‚<rs type="paper" ana="werk_11584">Berliner Börsencourier</rs>‘ gewidmet<lb/>
+haben soll. Warum nicht gleich dem ‚<rs type="" ana="werk_11585">Extrablatt</rs>‘? Natürlich steckt —<lb/>
+und damit beantworte ich Ihre erstaunte Frage — ein <seg type="insult">schmöckischer<lb/>
+Schwindel</seg> dahinter. Das Gedicht ist die <seg type="spc">gedruckte</seg> Antwort, die<lb/>
+<rs type="pers" ana="n_26793" ref="#fk__p_38058">Berger</rs> <seg type="spc">allen</seg> jenen gesendet hat, die ihn zur Feier seines fünfzigsten<lb/>
+Geburtstages ihrer Sympathien versichert und die nicht vergessen haben,<lb/>
+daß Einer in weiter Ferne wirkt, der unter anderen Vorzügen so nebenbei<lb/>
+ auch den besitzt, Oesterreichs bester Theatermann zu sein.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_38058">
+               <persName>Berger, Alfred Freiherr von</persName>
+               <birth>
+                  <date>1853-4-30</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1912-8-24</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Theaterleiter</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13624</idno></person>
+            <person xml:id="fk__p_55452">
+               <persName>Wiener</persName>
+            </person>
+            <person xml:id="fk__p_47236">
+               <persName>Bauer, Julius</persName>
+               <birth>
+                  <date>1853-10-15</date>
+                  <place>Raab-Szigeth</place>
+               </birth>
+               <death>
+                  <date>1941-6-11</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Kritiker</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2150</idno></person>
+            </listPerson></back></text>
+</TEI>

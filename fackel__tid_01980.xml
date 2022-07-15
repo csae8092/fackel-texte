@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01980.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01979.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01981.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Aus dem Königthum Sonndorfer, in: Fackel Heft 03, Nr. 083, 1901, S. 25-26</title>
+            <title type="iso-date">1901-10-01</title>
+            <title type="id">tid_01980</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">03</title><title type="heft">083</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-03-083_n0025.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/083,025</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Aus dem Königthum Sonndorfer</head>
+            <p ana="pr19281">
+<space/><DATERANGE>Ende Juli</DATERANGE> machte die folgende Notiz die Runde durch die<lb/>
+Wiener Blätter, die zum Theil das Selbstmordmotiv verschwiegen,<lb/>
+sammt und sonders aber den Namen des Selbstmörders nannten:<lb/>
+</p>
+            <p ana="pr19283">
+<space/>(<seg type="spc">Als Leiche gefunden</seg>.) Der seit vierzehn Tagen abgängig<lb/>
+gewesene Student <rs type="pers" ana="n_16380" ref="#fk__p_46627"><abbr>J. U.</abbr></rs>, Wien, I., <seg type="symbol" subtype="2dots"/> wohnhaft gewesen, wurde gestern<lb/>
+in Aspern als Leiche aus der Donau gezogen und agnoscirt.<lb/>
+<rs type="pers" ana="n_16381" ref="#fk__p_46627"><abbr>J. U.</abbr></rs> besuchte den Abiturientencurs der hiesigen <rs type="inst"><seg type="spc">Handelsakademie<lb/>
+</seg></rs>. Bei der letzten Prüfung wurde er aus zwei Gegenständen<lb/>
+ für sechs Wochen reprobirt. Der sonst fleissige Schüler,<lb/>
+der das <seg type="spc">Obergymnasium und die Maturitätsprüfung mit<lb/>
+gutem Erfolge absolvirt</seg> hatte, nahm sich jenen Misserfolg so<lb/>
+zu Herzen, dass er zu sterben beschloss. <seg type="symbol" subtype="4dots"/> Alle Bemühungen,<lb/>
+den erst dreiundzwanzigjährigen jungen Mann an seinem Vorhaben<lb/>
+zu hindern, waren vergebens.<lb/>
+</p>
+            <p ana="fn114">
+<FN0_TEXT0>
+<space/>*) Siehe <rs type="selfRef" ana="werk_6294"><abbr>Nr.</abbr> 36</rs>, <rs type="selfRef" ana="werk_6295">38</rs> und <rs type="selfRef" ana="werk_6296">40.</rs></FN0_TEXT0><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46627">
+               <persName>Ullmann, Josef</persName>
+               <birth>
+                  <date>1878?</date>
+                  <place>Göding?</place>
+               </birth>
+               <death>
+                  <date>1901-7-11</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Student</occupation>
+               <note type="comment">1., Fleischmarkt 15; ZF 49a/14/62</note>
+               <note type="comment">NWJ 22. 07. 1901, Seite 3</note>
+               <note type="comment">IKG Lfdnr. 156434</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

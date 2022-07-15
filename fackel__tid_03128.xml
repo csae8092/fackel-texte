@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03128.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03127.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03129.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Literarhistoriker. (Literaturförderung), in: Fackel Heft 05, Nr. 137, 1903, S. 22-22</title>
+            <title type="iso-date">1903-05-11</title>
+            <title type="id">tid_03128</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">05</title><title type="heft">137</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-05-137_n0022.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/137,022</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Literarhistoriker. (Literaturförderung)</head>
+            <p ana="pr30706">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="n_26614" ref="#fk__p_49044">Literarhistoriker</rs>.</seg></seg></seg> In dem Aufsatz <seg type="insult">»Literaturförderung«</seg> in <rs type="selfRef" ana="werk_11513"><abbr>Nr.</abbr> 135</rs><lb/>
+war außer dem fatalen Druckfehler, der den Censor statt »die Leier«<lb/>
+die Leser <rs type="pers" ana="n_26615" ref="#fk__p_50670">Lenaus</rs> verunreinigen ließ, ein Irrthum bezüglich <rs type="pers" ana="n_26616" ref="#fk__p_43482">Grillparzers</rs><lb/>
+enthalten. Nicht den »<rs type="title"><rs type="pers">Ottokar</rs></rs>« wollte man ihm abkaufen, sondern den<lb/>
+»<rs type="title">Treuen Diener</rs>«. Den <rs type="title"><rs type="pers">Ottokar</rs></rs> mochte man nicht einmal kaufen, sondern<lb/>
+, so lang es gieng, kostenfrei im <seg type="insult">»Archiv«</seg> aufbewahren. Die Staatskanzlei<lb/>
+ hatte <seg type="insult">»Bedenken«</seg> gegen das Stück. Man gab dem Dichter auf<lb/>
+wiederholte Urgenzen überhaupt keinen Bescheid. Also <seg type="insult">weder Geld<lb/>
+noch Leben</seg>, aber eben, was <seg type="insult">Herr <rs type="pers" ana="n_26617" ref="#fk__p_55511"><abbr>v.</abbr> Hartel</rs></seg> so liebt, <seg type="spc">ein <seg type="insult">Archiv</seg></seg> war<lb/>
+für <rs type="pers" ana="n_26618" ref="#fk__p_43482">Grillparzer</rs> bereit.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_55511">
+               <persName>Hartel, Wilhelm Ritter von</persName>
+               <birth>
+                  <date>1839-05-28</date>
+                  <place>Hof/Mähren</place>
+               </birth>
+               <death>
+                  <date>1907-01-14</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Altphilologe</occupation>
+               <occupation>Politiker</occupation>
+               <note type="comment">Friedhof Penzing (=Kontrahentenfriedhof) Tel. 985 64 07</note>
+               <note type="comment">Unterrichtsminister 1900-05</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15937</idno></person>
+            <person xml:id="fk__p_43482">
+               <persName>Grillparzer, Franz</persName>
+               <birth>
+                  <date>1791-1-15</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1872-1-21</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Beamter</occupation>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Ögg teilt 912/23 Traum ein Leben Calderon zu</note>
+               <note type="comment">Ögg teilt irrt. 229/2, 305/50 zu</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11518</idno></person>
+            <person xml:id="fk__p_50670">
+               <persName>Lenau, Nikolaus</persName>
+               <birth>
+                  <date>1802-8-13</date>
+                  <place>Tschadat, Banat</place>
+               </birth>
+               <death>
+                  <date>1850-8-22</date>
+                  <place>Oberdöbling bei Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/63259</idno></person>
+            <person xml:id="fk__p_49044">
+               <persName>Literarhistoriker</persName>
+            </person>
+            </listPerson></back></text>
+</TEI>

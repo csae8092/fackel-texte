@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06979.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06978.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06980.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Rennen zu Wien, in: Fackel Heft 17, Nr. 413, 1915, S. 42-42</title>
+            <title type="iso-date">1915-12-01</title>
+            <title type="id">tid_06979</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">17</title><title type="heft">413</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-17-413_n0042.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/413,042</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Rennen zu Wien</head>
+            <p ana="pr94816">
+Wien, <date>19. September</date>. (<seg type="spc">Eigenbericht</seg>.)<lb/>
+</p>
+            <p ana="pr94817">
+<space/><seg type="symbol" subtype="4dots"/> im letzten Moment aber wurde der zur Teilnahme bestimmte<lb/>
+<rs type="pers" ana="n_63917" ref="#fk__p_55030"><seg type="spc">Marschall Hindenburg</seg></rs> wieder zurückgezogen. Bei der Parade<lb/>
+fanden sämtliche Bewerber den Beifall der Fachwelt mit Ausnahme von<lb/>
+<rs type="pers" ana="n_63918" ref="#fk__p_51904"><seg type="spc">Quargel</seg></rs> und <rs type="pers" ana="n_63919" key="#fk__p_42663">Emilyen</rs>, die heute etwas dürftig aussahen <seg type="symbol" subtype="4dots"/><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_55030">
+               <persName>Beneckendorff-Hindenburg, Paul von</persName>
+               <birth>
+                  <date>1847-10-2</date>
+                  <place>Posen</place>
+               </birth>
+               <death>
+                  <date>1934-8-2</date>
+                  <place>Neudeck</place>
+               </death>
+               <occupation>Offizier</occupation>
+               <occupation>Politiker</occupation>
+               <note type="comment">Reichspräsident seit 1925</note>
+            </person>
+            <person xml:id="fk__p_51904">
+               <persName>Quargel (Pferd)</persName>
+            </person>
+            </listPerson></back></text>
+</TEI>

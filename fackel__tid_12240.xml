@@ -1,0 +1,43 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_12240.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_12239.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_12241.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Architektenvereinssaal, 3. Oktober:, in: Fackel Heft 34, Nr. 885, 1932, S. 11-11</title>
+            <title type="iso-date">1932-12-01</title>
+            <title type="id">tid_12240</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">34</title><title type="heft">885</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-34-885_n0011.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/885,011</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Architektenvereinssaal, 3. Oktober:</head>
+            <p ana="pr178572">
+<space/><rs type="inst">Architektenvereinssaal</rs>, <date>3. Oktober</date>:<lb/>
+</p>
+            <p ana="pr178573">
+<space/><rs type="pers" ana="n_105973" ref="#fk__p_46664"><seg type="spc">Offenbach</seg></rs>: <rs type="title"><seg type="spc">Die Seufzerbrücke</seg></rs>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46664">
+               <persName>Offenbach, Jacques</persName>
+               <birth>
+                  <date>1819-06-21</date>
+                  <place>Köln</place>
+               </birth>
+               <death>
+                  <date>1880-10-05</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Komponist</occupation>
+               <note type="comment">Ögg teilt Fortunato F 876/34 Shakespeare zu</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/9131</idno></person>
+            </listPerson></back></text>
+</TEI>

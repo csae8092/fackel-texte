@@ -1,0 +1,42 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_11337.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11336.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11338.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Prag, Mozarteum, ½8 Uhr, in: Fackel Heft 32, Nr. 834, 1930, S. 29-29</title>
+            <title type="iso-date">1930-05-01</title>
+            <title type="id">tid_11337</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">32</title><title type="heft">834</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-32-834_n0029.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/834,029</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Prag, Mozarteum, ½8 Uhr</head>
+            <p ana="pr165065">
+<space/><seg type="spc">Prag</seg>, <rs type="inst"><rs type="pers" ana="n2_8835" ref="#fk__p_55699">Mozarteum</rs></rs>, ½8 Uhr<lb/>
+</p>
+            <p ana="pr165066">
+<space/><date>26. März</date>:<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_55699">
+               <persName>Mozart, Wolfgang Amadeus</persName>
+               <birth>
+                  <date>1756-1-27</date>
+                  <place>Salzburg</place>
+               </birth>
+               <death>
+                  <date>1791-12-5</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Komponist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12303</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06816.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06815.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06817.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Was die Werbungen von Freiwilligen für Albanien anlangt, in: Fackel Heft 16, Nr. 400, 1914, S. 11-11</title>
+            <title type="iso-date">1914-01-01</title>
+            <title type="id">tid_06816</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">16</title><title type="heft">400</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-16-400_n0011.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/400,011</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Was die Werbungen von Freiwilligen für Albanien anlangt</head>
+            <p ana="pr91708">
+so bin ich der Meinung, daß der Kommandant <rs type="pers" ana="n_62266" ref="#fk__p_45167">Gurschner</rs> <seg type="insult">ein<lb/>
+schlechter Bildhauer</seg> ist. Dagegen soll der Adjutant <rs type="pers" ana="n_62267" ref="#fk__p_55641">Wirth</rs> tatsächlich<lb/>
+ »eine Truppe gutgebauter Mädchen« für ein Berliner<lb/>
+Variété assentiert haben.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_45167">
+               <persName>Gurschner, Gustav?</persName>
+               <birth>
+                  <date>1873-9-28</date>
+                  <place>Mühldorf, Bayern</place>
+               </birth>
+               <death>
+                  <date>1970-8-2</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Bildhauer</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15755</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11551</idno></person>
+            <person xml:id="fk__p_55641">
+               <persName>Wirth, Leopold</persName>
+               <birth>
+                  <date>1879-8-22</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1965-1-31</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Architekt</occupation>
+               <note type="comment">Bruno Brehm, Apis und Este, Seite 317</note>
+               <note type="comment">Gurschner und Wirth in ihrem Atelier in der Lindengasse (No. 9)</note>
+               <note type="comment">18., Salmannsdorfer Straße 14</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

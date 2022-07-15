@@ -1,0 +1,93 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02025.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02024.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02026.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Kunstfreund. (Die »fünf Sinne« Makarts und der Geschmackssinn des Herrn v. Hartel), in: Fackel Heft 03, Nr. 085, 1901, S. 26-26</title>
+            <title type="iso-date">1901-11-16</title>
+            <title type="id">tid_02025</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">03</title><title type="heft">085</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-03-085_n0026.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/085,026</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Kunstfreund. (Die »fünf Sinne« Makarts und der Geschmackssinn des Herrn v. Hartel)</head>
+            <p ana="pr19749">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="n_16871" ref="#fk__p_48369">Kunstfreund</rs>.</seg></seg></seg> <seg type="insult">Herr <rs type="pers" ana="n_16872" ref="#fk__p_55511"><abbr>v.</abbr> Hartel</rs></seg> hat <rs type="pers" ana="n_16873" ref="#fk__p_49544">Makarts</rs> »<rs type="title">Fünf Sinne</rs>« eben<lb/>
+noch rechtzeitig gekauft. Sonst hätte sie Herr <rs type="pers" ana="n_16874" ref="#fk__p_50174">Miethke</rs> vielleicht dem<lb/>
+Staate geschenkt. Der Kunsthändler hat übrigens <seg type="insult">seine ältesten Ladenhüter<lb/>
+</seg> sicherlich billig hingegeben. Wie erstaunt mag er neulich gewesen<lb/>
+ sein, als ihn <seg type="insult">Herr <rs type="pers" ana="n_16875" ref="#fk__p_43580">Servaes</rs></seg> ihren wahren Werth kennen lehrte. <seg type="insult">Der<lb/>
+Kunstkritiker der ‚<rs type="paper" ana="werk_6538">Neuen Freien Presse</rs>‘</seg> schrieb: »Unzweifelhaft gehören<lb/>
+ die ‚<rs type="title">Fünf Sinne</rs>‘ zum Besten, was <rs type="pers" ana="n_16876" ref="#fk__p_49544">Makart</rs> überhaupt geschaffen<lb/>
+hat. Ja, man kann vielleicht sagen: sie sind sein Reifstes, Vollendetstes.«<lb/>
+Nein, das kann von <seg type="insult">den schönfrisierten weiblichen Acten</seg> niemand<lb/>
+sagen, der nicht zu kurzsichtig ist, um die mächtigen Tafeln zu überblicken<lb/>
+, auf denen <seg type="insult">der grösste aller Decorationsmaler</seg> seine <seg type="insult">Farbenräusche</seg><lb/>
+ausgetobt hat.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_55511">
+               <persName>Hartel, Wilhelm Ritter von</persName>
+               <birth>
+                  <date>1839-05-28</date>
+                  <place>Hof/Mähren</place>
+               </birth>
+               <death>
+                  <date>1907-01-14</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Altphilologe</occupation>
+               <occupation>Politiker</occupation>
+               <note type="comment">Friedhof Penzing (=Kontrahentenfriedhof) Tel. 985 64 07</note>
+               <note type="comment">Unterrichtsminister 1900-05</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15937</idno></person>
+            <person xml:id="fk__p_49544">
+               <persName>Makart, Hans von</persName>
+               <birth>
+                  <date>1840-5-28</date>
+                  <place>Salzburg</place>
+               </birth>
+               <death>
+                  <date>1884-10-3</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Maler</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17796</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12167</idno></person>
+            <person xml:id="fk__p_48369">
+               <persName>Kunstfreund</persName>
+            </person>
+            <person xml:id="fk__p_50174">
+               <persName>Miethke, Hugo Hermann Werner Ottomar</persName>
+               <birth>
+                  <date>1834-7-29</date>
+                  <place>Potsdam</place>
+               </birth>
+               <death>
+                  <date>1918-1-11</date>
+                  <place>Gutenegg bei Cilli</place>
+               </death>
+               <occupation>Kunsthändler</occupation>
+            </person>
+            <person xml:id="fk__p_43580">
+               <persName>Servaes, Franz Theodor Hubert</persName>
+               <birth>
+                  <date>1862-7-17</date>
+                  <place>Köln</place>
+               </birth>
+               <death>
+                  <date>1947-7-14</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Kritiker</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_20068</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12772</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07193.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07192.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07194.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">1916, in: Fackel Heft 18, Nr. 426, 1916, S. 25-25</title>
+            <title type="iso-date">1916-06-01</title>
+            <title type="id">tid_07193</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">18</title><title type="heft">426</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-18-426_n0025.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/426,025</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>1916</head>
+            <p ana="pr97458">
+<space/>»Im <rs type="inst"><rs type="pers" ana="n2_5701" ref="#fk__p_46949">Johann Strauß-Theater</rs></rs> wurde die Operette »<rs type="title">Die Csardasfürstin<lb/>
+</rs>« zum hundertfünfzigstenmal aufgeführt <seg type="symbol" subtype="4dots"/> Im <rs type="inst"><rs type="pers" ana="n2_5702" ref="#fk__p_57640">Carltheater</rs></rs> wurde<lb/>
+Samstag die Operette »<rs type="title">Fürstenliebe</rs>« zum fünfundsiebzigstenmal gegeben<lb/>
+ <seg type="symbol" subtype="4dots"/> Im <rs type="inst">Bürgertheater</rs> fand Sonntag abend die zweihundertste<lb/>
+Aufführung der Operette »<rs type="title">Ein Tag im Paradies</rs>« statt <seg type="symbol" subtype="4dots"/>«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46949">
+               <persName>Strauß, Johann jun.</persName>
+               <birth>
+                  <date>1825-10-25</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1899-6-3</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Komponist</occupation>
+               <occupation>Dirigent</occupation>
+               <note type="comment">261/15 zweifelhaft</note>
+               <note type="comment">368/22 Johann Strauß-Theater, 4., Favoritenstr. 8, ab 1931 Scala</note>
+            </person>
+            <person xml:id="fk__p_57640">
+               <persName>Carl, Carl</persName>
+               <birth>
+                  <date>1789-11-7</date>
+                  <place>Krakau</place>
+               </birth>
+               <death>
+                  <date>1854-8-14</date>
+                  <place>Bad Ischl</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <occupation>Regisseur</occupation>
+               <occupation>Theaterleiter</occupation>
+               <note type="comment">Ögg: Freiherr von Bernbrunn</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

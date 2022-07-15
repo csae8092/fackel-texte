@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07431.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07430.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07432.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Was es alles gibt, in: Fackel Heft 18, Nr. 437, 1916, S. 47-47</title>
+            <title type="iso-date">1916-11-01</title>
+            <title type="id">tid_07431</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">18</title><title type="heft">437</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-18-437_n0047.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/437,047</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Was es alles gibt</head>
+            <p ana="pr99990">
+<space/>Das <rs type="inst"><seg type="insult"><rs type="pers" ana="n2_5782" ref="#fk__p_59343"><SPAN norm="Wolff-Büro">Wolff-Bürrro</SPAN></rs></seg></rs>, dessen Zeitgenosse zu sein mich vor dem<lb/>
+Einschlafen hinwirft und vor dem Aufstehen lähmt, versendet auch<lb/>
+Theaterkritiken, freilich nur wenn es sich um <seg type="insult">Bombenerfolge</seg><lb/>
+handelt. So sonderbar die Möglichkeit ist, daß sich unter <seg type="insult">solchen<lb/>
+Schreibfäusten</seg> <rs type="pers" ana="n_65679" ref="#fk__p_46960">Goethes</rs> »<rs type="title"><rs type="pers">Egmont</rs></rs>« befinde, versendet das <rs type="inst"><seg type="insult"><rs type="pers" ana="n2_5783" ref="#fk__p_59343"><SPAN norm="Wolff-Büro">Wolff-Bürrro<lb/>
+</SPAN></rs></seg></rs> eine Kritik der Aufführung am <rs type="inst">Berliner Hoftheater</rs>,<lb/>
+<seg type="insult">eine halbamtliche Darstellung</seg>, die — anno <date>1916</date>! — etwas<lb/>
+von »pietätvoller Treue gegen Geist und Wort des Dichters«<lb/>
+enthält, offenbar aber nur, weil der <rs type="title"><seg type="insult"><rs type="pers">Egmont-Korrespondent</rs></seg></rs> der<lb/>
+Meinung war, daß ein älteres Werk <rs type="pers" ana="n_65680" ref="#fk__p_49293">Ganghofers</rs> gespielt wurde.<lb/>
+<seg type="insult">Die ‚<rs type="paper" ana="werk_20797">Vossische Zeitung</rs>‘ nun, auch ein Unternehmen</seg>, dem man sein<lb/>
+Alter gar nicht ansehen würde, hat zu fragen gewagt, ob sie sich<lb/>
+einer Störung <seg type="insult">des Burgfriedens</seg> aussetze, wenn sie sich diesmal<lb/>
+nicht in voller Übereinstimmung mit dem <rs type="inst"><seg type="insult"><rs type="pers" ana="n2_5784" ref="#fk__p_59343"><SPAN norm="Wolff-Büro">Wolff-Bürrro</SPAN></rs></seg></rs> befinde.<lb/>
+Die Antwort ist noch unbekannt, man kann sich aber darauf<lb/>
+verlassen, daß die <seg type="insult">Angriffe der feindlichen Kritik</seg> inzwischen<lb/>
+mühelos abgewiesen wurden.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46960">
+               <persName>Goethe, Johann Wolfgang von</persName>
+               <birth>
+                  <date>1749-8-28</date>
+                  <place>Frankfurt am Main</place>
+               </birth>
+               <death>
+                  <date>1832-3-22</date>
+                  <place>Weimar</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">890/142f.</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11461</idno></person>
+            <person xml:id="fk__p_49293">
+               <persName>Ganghofer, Ludwig Albert</persName>
+               <birth>
+                  <date>1855-7-7</date>
+                  <place>Kaufbeuren</place>
+               </birth>
+               <death>
+                  <date>1920-7-24</date>
+                  <place>Tegernsee</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15336</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11402</idno></person>
+            <person xml:id="fk__p_59343">
+               <persName>Wolff'sches Telegraphisches Bureau</persName>
+               <note type="comment">Nachrichten-Agentur</note>
+               <note type="comment">Gründer Bernhard Wolff (Berlin 3.3.1811-ebd. 11.5.1879), verk. das Büro 1864</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_11473.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11472.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11474.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Große Lust, aber keine Tatkraft, in: Fackel Heft 32, Nr. 838, 1930, S. 86-87</title>
+            <title type="iso-date">1930-09-01</title>
+            <title type="id">tid_11473</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">32</title><title type="heft">838</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-32-838_n0086.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/838,086</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Große Lust, aber keine Tatkraft</head>
+            <p ana="pr166802">
+<space/><rs type="pers" ana="n_100005" ref="#fk__p_52589">Rudolph Lothar</rs>, der nach <seg type="insult">vielfachen Abenteuern</seg> heute mit<lb/>
+<seg type="insult">unverminderter körperlicher Frische</seg> in <seg type="insult">Berlin</seg> wirkt, wo für alles<lb/>
+Raum ist, beginnt ein <seg ana="Feuilleton im Neuen Wiener Journal"/>, wo<lb/>
+auch für alles Raum ist, folgendermaßen:<lb/>
+</p>
+            <p ana="pr166804">
+<space/>Ehe ich über die beiden Opernabende spreche (»<rs type="title"><rs type="pers">Alkestis</rs></rs>« und<lb/>
+»<rs type="title">Opferung des Gefangenen</rs>« von <rs type="pers" ana="n_100006" ref="#fk__p_55362">Wellesz</rs> in der <rs type="inst">Städtischen Oper</rs><lb/>
+und »<rs type="title">Erwartung</rs>« und »<rs type="title">Die glückliche Hand</rs>« von <rs type="pers" ana="n_100007" ref="#fk__p_38451">Arnold Schönberg</rs><lb/>
+in der <rs type="inst">Staatsoper</rs> am Platz der Republik), <seg type="spc">hätte ich große Lust</seg>,<lb/>
+<seg type="spc">eine prinzipielle Abhandlung über Ziel</seg>, <seg type="spc">Zweck und<lb/>
+Sinn der Musik zu schreiben</seg>.<lb/>
+</p>
+            <p ana="pr166806">
+Er hats aber dann doch nicht getan. Schad’, immer wird mir<lb/>
+etwas fehlen.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_38451">
+               <persName>Schönberg, Arnold</persName>
+               <birth>
+                  <date>1874-9-13</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1951-7-13</date>
+                  <place>Los Angeles</place>
+               </death>
+               <occupation>Komponist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12743</idno></person>
+            <person xml:id="fk__p_52589">
+               <persName>Lothar, Rudolph</persName>
+               <birth>
+                  <date>1865-2-23</date>
+                  <place>Pest</place>
+               </birth>
+               <death>
+                  <date>1943-10-2</date>
+                  <place>Budapest</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Kritiker</occupation>
+               <note type="comment">743/107 Hans Müller ist offenbar für Thomas reserviert</note>
+               <note type="comment">Die Metternich-Pastete. Ein appetitliches Lustspiel in 3 Gängen. Leipzig, 1917. 96 S</note>
+               <note type="comment">fordert einen Offenbach-Querschnitt (F 845/14, 857/114)</note>
+            </person>
+            <person xml:id="fk__p_55362">
+               <persName>Wellesz, Egon</persName>
+               <birth>
+                  <date>1885-10-21</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1974-11-9</date>
+                  <place>Oxford</place>
+               </death>
+               <occupation>Komponist</occupation>
+               <occupation>Musikwissenschaftler</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/13085</idno></person>
+            </listPerson></back></text>
+</TEI>

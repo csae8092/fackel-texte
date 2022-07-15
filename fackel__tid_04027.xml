@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_04027.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04026.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04028.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Wiener. (Mein Cabaret), in: Fackel Heft 07, Nr. 192, 1906, S. 27-27</title>
+            <title type="iso-date">1906-01-5</title>
+            <title type="id">tid_04027</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">07</title><title type="heft">192</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-07-192_n0027.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/192,027</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Wiener. (Mein Cabaret)</head>
+            <p ana="pr41921">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="name_203493" ref="#fk__p_55452">Wiener</rs>.</seg></seg></seg> Ich ärgere mich immer, daß ich so spät erst von all den<lb/>
+Dingen, die ich tue, erfahre. Immer später als die anderen, unbeteiligten<lb/>
+Leute. Da habe ich hinter meinem Rücken ein modernes Cabaret gegründet.<lb/>
+Alle Leute wissen es, die Kaffeehäuser sind voll davon, die Blätter schreiben<lb/>
+darüber. <seg type="insult">Schreckliche Vereinshumoristen</seg> erzählen, ich hätte sie bereits<lb/>
+engagiert. All dies erfahre ich als der letzte. Und freue mich der<lb/>
+mythenbildenden Kraft, die ich mir in Wien bereits erworben habe.<lb/>
+Ich werde wohl einst aus den <seg type="insult">wohlwollenden Nachrufen der Wiener<lb/>
+Presse</seg> erfahren, daß ich gestorben bin. Die jüngste Neuigkeit freilich<lb/>
+ward mir in so bestimmter Form gemeldet, daß ich mich fragen muß,<lb/>
+ob’s denn nicht vielleicht doch wahr ist, daß ich das Nachtlokal »<rs type="inst"><rs type="pers" ana="n2_2767" ref="#fk__p_39452">Brady</rs></rs>«<lb/>
+gekauft habe und dort ein Cabaret eröffne. Aber so sehr ich ins<lb/>
+Schwanken gebracht werde, schließlich erinnere ich mich doch ganz<lb/>
+bestimmt, daß es <seg type="spc">nicht</seg> der Fall ist. Daß ich in Gesellschaft des<lb/>
+Leiters <choice><sic>Mr</sic><corr>Mr.</corr></choice> <rs type="pers" ana="n_34751" ref="#fk__p_37752">Henry</rs> und seiner Mitarbeiter zu sehen bin, ist unbestreitbar;<lb/>
+auch daß ich ab und zu in szenischen Dingen mit Rat helfe.<lb/>
+Aber im Ganzen habe ich zu dem Cabaret, das gegründet wird,<lb/>
+keine andere Beziehung als die des Interesses, das ein Kunstfreund<lb/>
+an einer künstlerischen Gründung nimmt, und die der Hoffnung, daß<lb/>
+sie dem Stil der Gattung näher kommen wird als <seg type="insult">jene im Souterrain<lb/>
+gelegene Herberge des Stumpfsinns und der Talentlosigkeit</seg>, die <rs type="pers" ana="n_34752" ref="#fk__p_43876">Schiller</rs><lb/>
+gewiß gemeint hat, als er die Worte schrieb: »Da unten aber ist’s<lb/>
+fürchterlich«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_39452">
+               <persName>Brady, Philipp</persName>
+               <birth>
+                  <date>1857</date>
+                  <place>Mosel</place>
+               </birth>
+               <death>
+                  <date>1907-11-9</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Friseur</occupation>
+               <occupation>Gastwirt</occupation>
+               <occupation>Volkssänger</occupation>
+               <note type="comment">Brady's Wintergarten</note>
+            </person>
+            <person xml:id="fk__p_37752">
+               <persName>Vaucheret d’Ailly, Achille Georges</persName>
+               <birth>
+                  <date>1873-4-1</date>
+                  <place>Paris</place>
+               </birth>
+               <death>
+                  <date>1943-12-24</date>
+                  <place>Saint-Raphael/Dept. Var</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Kabarettist</occupation>
+               <occupation>Kabarettleiter</occupation>
+            </person>
+            <person xml:id="fk__p_55452">
+               <persName>Wiener</persName>
+            </person>
+            <person xml:id="fk__p_43876">
+               <persName>Schiller, Friedrich von</persName>
+               <birth>
+                  <date>1759-11-10</date>
+                  <place>Marbach am Neckar</place>
+               </birth>
+               <death>
+                  <date>1805-5-9</date>
+                  <place>Weimar</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Mortimer 363/9, 679/69, 912/7 und 912/58 ist von Ögg Shakespeare zugeordnet</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12654</idno></person>
+            </listPerson></back></text>
+</TEI>

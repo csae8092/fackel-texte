@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00983.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00982.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00984.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Herrn Hermann Bahr, Realitätenbesitzer in Unter-St.-Veit. (Herrn Hermann Bahr), in: Fackel Heft 02, Nr. 041, 1900, S. 32-32</title>
+            <title type="iso-date">1900-05-01</title>
+            <title type="id">tid_00983</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">041</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-041_n0032.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/041,032</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Herrn Hermann Bahr, Realitätenbesitzer in Unter-St.-Veit. (Herrn Hermann Bahr)</head>
+            <p ana="pr9456">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i">Herrn <rs type="pers" ana="n_7700" ref="#fk__p_45908">Hermann Bahr</rs>, Realitätenbesitzer in Unter-St.-Veit.</seg></seg></seg><lb/>
+Also wirklich, die Vorstellung von <rs type="pers" ana="n_7701" ref="#fk__p_49912">Burckhardts</rs> »<rs type="title"><rs type="pers"><seg type="spc">Katherl</seg></rs></rs>« am<lb/>
+<rs type="inst"><rs type="pers" ana="n2_550" ref="#fk__p_43227">Raimund-Theater</rs></rs> hat den <seg type="insult">»modernen Stil«</seg> hervorragend zur Geltung<lb/>
+gebracht? So behaupten Sie nämlich in Ihrem <SPAN cont="Tagblatt-Feuilleton">‚<rs type="paper" ana="werk_2676">Tagblatt</rs>‘-Feuilleton</SPAN><lb/>
+vom <date>15. Mai</date>, das dem »<rs type="inst">Deutschen Theater</rs>« gewidmet war. <seg type="insult">Sie<lb/>
+Schäker!</seg> Nein, die Aufführung des »<rs type="title"><rs type="pers">Katherl</rs></rs>« am <rs type="inst"><rs type="pers" ana="n2_551" ref="#fk__p_43227">Raimund-Theater</rs></rs><lb/>
+war so unbedeutend wie das »<rs type="title"><rs type="pers">Katherl</rs></rs>« selbst. Regie führte damals<lb/>
+nämlich für den <seg type="insult"><foreign xml:lang="de-loc">»Spezi«</foreign></seg> <seg type="insult">Herr <rs type="pers" ana="n_7702" ref="#fk__p_45908">Hermann <seg type="spc">Bahr</seg></rs></seg>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_49912">
+               <persName>Burckhard, Max Eugen</persName>
+               <birth>
+                  <date>1854-7-14</date>
+                  <place>Korneuburg</place>
+               </birth>
+               <death>
+                  <date>1912-3-16</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Jurist</occupation>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Theaterleiter</occupation>
+               <note type="comment">Namenskorrektur!</note>
+               <note type="comment">12. 5. 1890 bis 25. 1. 1898 Burgth.</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11036</idno></person>
+            <person xml:id="fk__p_45908">
+               <persName>Bahr, Hermann</persName>
+               <birth>
+                  <date>1863-7-19</date>
+                  <place>Linz</place>
+               </birth>
+               <death>
+                  <date>1934-1-15</date>
+                  <place>München</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Kritiker</occupation>
+               <note type="comment">Ögg teilt auch 307/52, 445/49, 800/67 (Rotte Korah) Bahr zu</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10815</idno></person>
+            <person xml:id="fk__p_43227">
+               <persName>Raimund, Ferdinand</persName>
+               <birth>
+                  <date>1790-6-1</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1836-9-5</date>
+                  <place>Pottenstein, Niederösterreich</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Ögg teilt die Valentin-Stelle 254/4 Nestroy zu</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12468</idno></person>
+            </listPerson></back></text>
+</TEI>

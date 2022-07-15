@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07151.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07150.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07152.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Bibliographisches), in: Fackel Heft 18, Nr. 423, 1916, S. 17-18</title>
+            <title type="iso-date">1916-05-01</title>
+            <title type="id">tid_07151</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">18</title><title type="heft">423</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-18-423_n0017.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/423,017</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Bibliographisches)</head>
+            <p ana="pr96866">
+<space/><seg type="spc">Bibliographisches</seg>: »<rs type="title">Der Sozialismus als Ware</rs>« von <rs type="pers" ana="n_64587" ref="#fk__p_40085">Constantin<lb/>
+Jurenew</rs> (Bern) im ‚<rs type="magazine" ana="werk_20569">Archiv für die Geschichte des Sozialismus und der<lb/>
+Arbeiterbewegung</rs>‘ (herausgegeben von <abbr>Prof.</abbr> <rs type="pers" ana="n_64588" ref="#fk__p_45117"><abbr>Dr.</abbr> Carl Grünberg</rs>, Wien),<lb/>
+Band VI, Heft 2, <abbr><SPAN cont="S.">S<ADD>.</ADD></SPAN></abbr> 270 bis 272. — »<rs type="title">Kultur, Kunst und der Krieg</rs>«<lb/>
+von <rs type="pers" ana="n_64589" ref="#fk__p_51266">Paul Wengraf</rs> (<rs type="inst">Verlag <rs type="pers" ana="n2_5673" ref="#fk__p_58322">Konegen</rs></rs>, Wien <date>1916</date>), <abbr>S.</abbr> 64 bis 68.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_58322">
+               <persName>Konegen, Carl </persName>
+               <birth>
+                  <date>1843?</date>
+                  <place>Braunsberg</place>
+               </birth>
+               <death>
+                  <date>1903-1-25</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Verleger</occupation>
+               <note type="comment">1., Opernring 3</note>
+            </person>
+            <person xml:id="fk__p_45117">
+               <persName>Grünberg, Carl</persName>
+               <birth>
+                  <date>1861-02-10</date>
+                  <place>Focsani/Rumän.</place>
+               </birth>
+               <death>
+                  <date>1940-02-02</date>
+                  <place>Frankfurt/M.</place>
+               </death>
+               <occupation>Jurist</occupation>
+               <occupation>Wirtschaftshistoriker</occupation>
+            </person>
+            <person xml:id="fk__p_40085">
+               <persName>Jurenew, Konstantin Konstantinowitsch</persName>
+               <birth>
+                  <date>1888</date>
+               </birth>
+               <death>
+                  <date>1938</date>
+               </death>
+               <occupation>Politiker</occupation>
+               <occupation>Diplomat</occupation>
+               <note type="comment">"Der Sozialismus als Ware", in: Archiv f. d. Gesch. d. Soz. u. d. Arbeiterbewegung</note>
+               <note type="comment">21.7.37-10.12.37 Botschafter der UdSSR in Berlin</note>
+            </person>
+            <person xml:id="fk__p_51266">
+               <persName>Wengraf, Paul</persName>
+               <birth>
+                  <date>1878-12-6</date>
+               </birth>
+               <death>
+                  <date>1962-3-18</date>
+               </death>
+               <occupation/>
+               <note type="comment">etablierte "Arcades" Galerie in London</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/26942</idno></person>
+            </listPerson></back></text>
+</TEI>

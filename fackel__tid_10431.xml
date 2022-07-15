@@ -1,0 +1,43 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_10431.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10430.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10432.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Bibliographie), in: Fackel Heft 27, Nr. 717, 1926, S. 39-39</title>
+            <title type="iso-date">1926-04-01</title>
+            <title type="id">tid_10431</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">27</title><title type="heft">717</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-27-717_n0039.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/717,039</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Bibliographie)</head>
+            <p ana="pr143237">
+<space/><foreign xml:lang="en">»<rs type="title">Poster Art in Vienna</rs>«</foreign>, herausgegeben von <rs type="pers" ana="n_87254" key="#fk__p_55645">Wisotzky</rs>,<lb/>
+Chicago: in einem Aufsatz <foreign xml:lang="en">»<rs type="title">The Holy Every Day</rs>«</foreign> von <rs type="pers" ana="n_87255" ref="#fk__p_47261">Julius<lb/>
+Klinger</rs> (Wien, <date>September 1923</date>).<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_47261">
+               <persName>Klinger, Julius</persName>
+               <birth>
+                  <date>1876-5-22</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1942-6-2</date>
+                  <place>Minsk</place>
+               </death>
+               <occupation>Maler</occupation>
+               <occupation>Graphiker</occupation>
+               <note type="comment">Plakatkünstler</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,110 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_12244.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_12243.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_12245.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">München, Steinicke-Saal, in: Fackel Heft 34, Nr. 885, 1932, S. 13-13</title>
+            <title type="iso-date">1932-12-01</title>
+            <title type="id">tid_12244</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">34</title><title type="heft">885</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-34-885_n0013.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/885,013</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>München, Steinicke-Saal</head>
+            <p ana="pr178614">
+<space/><seg type="spc">München</seg>, <rs type="inst"><rs type="pers" ana="n2_9518" ref="#fk__p_58992">Steinicke-Saal</rs></rs><lb/>
+</p>
+            <p ana="pr178615">
+<space/>(Veranstaltet von der <rs type="inst">Buchhandlung <rs type="pers" ana="n2_9519" key="#fk__p_57799">Eichholz</rs> &amp; <rs type="pers" ana="n2_9520" key="#fk__p_58917">Schönfeld</rs></rs>)<lb/>
+</p>
+            <p ana="pr178616">
+<space/><date>24. Oktober</date>:<lb/>
+</p>
+            <p ana="pr178617">
+<space/>I. <rs type="pers" ana="n_105990" ref="#fk__p_43227"><seg type="spc">Raimund</seg></rs>: <rs type="title">Der Alpenkönig und der Menschenfeind</rs> I. Akt,<lb/>
+Szenen 7, 11 bis 21.<lb/>
+</p>
+            <p ana="pr178618">
+<space/>II. <rs type="pers" ana="n_105991" ref="#fk__p_39173"><seg type="spc">Brecht</seg></rs>: <rs type="title">Kranich und Wolke</rs>. — <rs type="pers" ana="n_105992" ref="#fk__p_51379"><seg type="spc">Altenberg</seg></rs>: <rs type="title">Die<lb/>
+<foreign xml:lang="de-loc">Seidenfetzerln</foreign></rs> / <rs type="title">Landpartie</rs> / <rs type="title">Frage</rs> / <rs type="title">Die Jugendzeit</rs> / <rs type="title">Mama</rs> /<lb/>
+<rs type="title">Altern</rs> / <rs type="title">Die Maus</rs> / <rs type="title">Café Capua</rs> / <rs type="title">Dame saß da mit steinernem<lb/>
+Herzen</rs>. — <rs type="pers" ana="n_105993" ref="#fk__p_43433"><seg type="spc">Wedekind</seg></rs>: <rs type="title">Konfession</rs> / <rs type="title"><rs type="pers">Galathea</rs></rs> / <rs type="title">Unterm<lb/>
+Apfelbaum</rs> / <rs type="title">Die Wetterfahne</rs> / <rs type="title">Auf eigenen Füßen</rs> — <rs type="title">Donnerwetter!</rs> /<lb/>
+<rs type="title">Modernes Mädchen</rs> (mit Vorbemerkung) / <rs type="title">Der Zoologe von Berlin</rs> /<lb/>
+<rs type="title">Parodie und Satire</rs> / <rs type="title">Diplomaten</rs> / <rs type="title">Revolution</rs>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_51379">
+               <persName>Altenberg, Peter</persName>
+               <birth>
+                  <date>1859-3-9</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1919-1-8</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Ögg teilt 531/207 (Nachruf auf Moriz Benedikt) P. A. zu (mit ?)</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2147</idno></person>
+            <person xml:id="fk__p_39173">
+               <persName>Brecht, Bertolt</persName>
+               <birth>
+                  <date>1898-2-10</date>
+                  <place>Augsburg</place>
+               </birth>
+               <death>
+                  <date>1956-8-14</date>
+                  <place>Berlin</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11008</idno></person>
+            <person xml:id="fk__p_58992">
+               <persName>Steinicke, Georg Carl</persName>
+               <birth>
+                  <date>1877</date>
+                  <place>Berlin</place>
+               </birth>
+               <death>
+                  <date>1939</date>
+                  <place>München</place>
+               </death>
+               <occupation>Buchhändler</occupation>
+               <occupation>Kunsthändler</occupation>
+               <note type="comment">München, Steinicke-Saal</note>
+            </person>
+            <person xml:id="fk__p_43433">
+               <persName>Wedekind, Frank</persName>
+               <birth>
+                  <date>1864-7-24</date>
+                  <place>Hannover</place>
+               </birth>
+               <death>
+                  <date>1918-3-9</date>
+                  <place>München</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/13068</idno></person>
+            <person xml:id="fk__p_43227">
+               <persName>Raimund, Ferdinand</persName>
+               <birth>
+                  <date>1790-6-1</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1836-9-5</date>
+                  <place>Pottenstein, Niederösterreich</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Ögg teilt die Valentin-Stelle 254/4 Nestroy zu</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12468</idno></person>
+            </listPerson></back></text>
+</TEI>

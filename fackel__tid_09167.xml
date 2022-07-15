@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_09167.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09166.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09168.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Aus Buckle, Geschichte der Zivilisation in England), in: Fackel Heft 24, Nr. 595, 1922, S. 58-59</title>
+            <title type="iso-date">1922-07-01</title>
+            <title type="id">tid_09167</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">24</title><title type="heft">595</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-24-595_n0058.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/595,058</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Aus Buckle, Geschichte der Zivilisation in England)</head>
+            <p ana="pr122241">
+<space/><rs type="pers" ana="n_74831" ref="#fk__p_39597">Buckle</rs>, <rs type="title">Geschichte der Zivilisation in England</rs> I.:<lb/>
+</p>
+            <p ana="pr122243">
+<date>1696</date> erschienen die einzigen Zeitungen, die es gab, wöchentlich;<lb/>
+die <rs type="paperRef" ana="werk_23368">erste Tageszeitung</rs> erschien während der Regierung <rs type="pers" ana="n_74832" ref="#fk__p_48070">Annas</rs>.<lb/>
+<date>1710</date> begannen sie an der Erörterung politscher Themen teilzunehmen<lb/>
+, nachdem sie bis zu dieser Zeit ausschließlich Neuigkeiten<lb/>
+ mitgeteilt hatten. Da dieser Veränderung sehr wenige<lb/>
+Jahre vorher die Einführung billiger politischer Flugschriften<lb/>
+vorausgegangen war, wurde es klar, daß eine große Bewegung<lb/>
+für die Verbreitung solcher Erörterungen begonnen hatte.<lb/>
+Zwanzig Jahre nach dem Tode <rs type="pers" ana="n_74833" ref="#fk__p_48070">Annas</rs> war die Umwälzung<lb/>
+ vollkommen und die Presse war, zum erstenmal in der<lb/>
+Weltgeschichte, zu einem Exponenten der öffentlichen Meinung<lb/>
+geworden. Die früheste <rs type="inst">parlamentarische Bemerkung</rs> über<lb/>
+diese neue Macht, der ich begegnet bin, ist in einer von <rs type="pers" ana="n_74834" ref="#fk__p_40260"><seg type="spc">Danvers</seg></rs><lb/>
+<date>1738</date> gehaltenen Rede; sie ist wert erwähnt zu werden, weil sie<lb/>
+eine Epoche anzeigt <seg type="symbol" subtype="4dots"/> »Ich aber glaube«, sagt dieser hervorragende<lb/>
+ Gesetzgeber, »daß das Volk von Großbritannien von<lb/>
+einer Macht regiert wird, von welcher als einer obersten<lb/>
+Autorität bis nun in keinem Zeitalter und in keinem Lande je<lb/>
+die Rede war. Diese Macht ist nicht der unbeschränkte Wille<lb/>
+des Fürsten oder die Leitung durch das <rs type="inst">Parlament</rs>, nicht die<lb/>
+Stärke einer Armee oder der Einfluß des Klerus; noch ist es eine<lb/>
+<seg type="insult">Unterrockherrschaft</seg>. Sondern es ist die Herrschaft der Presse.<lb/>
+Das <seg type="insult">Zeug</seg>, mit dem unsere Wochenblätter angefüllt sind, wird<lb/>
+mit größerer Ehrerbietung aufgenommen als die Gesetze des<lb/>
+<rs type="inst">Parlaments</rs>; und die Meinungen eines dieser <seg type="insult">Sudler</seg> haben mehr<lb/>
+Gewicht als die Anschauungen des besten Politikers im Königreich<lb/>
+.« (<seg/>)<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_39597">
+               <persName>Buckle, Henry Thomas</persName>
+               <birth>
+                  <date>1821-11-24</date>
+                  <place>Lee/Kent</place>
+               </birth>
+               <death>
+                  <date>1862-05-29</date>
+                  <place>Damaskus</place>
+               </death>
+               <occupation>Historiker</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/14666</idno></person>
+            <person xml:id="fk__p_40260">
+               <persName>d'Anvers, Caleb, d. i. William Pulteney, 1. Earl of Bath</persName>
+               <birth>
+                  <date>1684-3-22</date>
+                  <place>London</place>
+               </birth>
+               <death>
+                  <date>1764-7-7</date>
+                  <place>London</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <note type="comment">alternativ: Nicholas Amhurst (Marden/Kent 16.10.1697 - Twickenham 27.4.1742</note>
+               <note type="comment">gemeint ist die Zeitschrift "The Craftsman"</note>
+            </person>
+            <person xml:id="fk__p_48070">
+               <persName>Anna, Königin von England</persName>
+               <birth>
+                  <date>1665-02-06</date>
+                  <place>London</place>
+               </birth>
+               <death>
+                  <date>1714-08-01</date>
+                  <place>Kensington</place>
+               </death>
+               <occupation>Königin</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

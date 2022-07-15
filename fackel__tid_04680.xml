@@ -1,0 +1,100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_04680.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04679.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04681.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Ein erfahrener Kritiker), in: Fackel Heft 10, Nr. 253, 1908, S. 23-23</title>
+            <title type="iso-date">1908-05-9</title>
+            <title type="id">tid_04680</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">10</title><title type="heft">253</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-10-253_n0023.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/253,023</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Ein erfahrener Kritiker)</head>
+            <p ana="pr54105">
+<space/>»<seg type="symbol" subtype="3dots"/> Im übrigen jedoch müssen wir uns diesem <rs type="pers">Oedipus</rs> gegenüber<lb/>
+ablehnend verhalten. Vielleicht haben wir morgen, wenn Herr <rs type="pers" ana="n_42270" ref="#fk__p_50418"><abbr>M.</abbr></rs> im<lb/>
+‚<rs type="title"><rs type="pers">Ruy Blas</rs></rs>‘ spielt, Gelegenheit, unser Urteil zu modifizieren.«<lb/>
+</p>
+            <p ana="pr54106">
+<space/>»Herrn <rs type="pers" ana="n_42271" ref="#fk__p_50418"><abbr>M.</abbr></rs> liegt das Romantische offenbar besser als das Griechische<lb/>
+und <rs type="pers" ana="n_42272" ref="#fk__p_54881">Viktor Hugo</rs> näher als <rs type="pers" ana="n_42273" ref="#fk__p_53424">Sophokles</rs>. Seine Manier ist dieselbe, aber<lb/>
+im Rahmen dieser manirierten Dichtung stört sie weniger. Hier sieht<lb/>
+seine Unnatur oft wie Stil aus <seg type="symbol" subtype="3dots"/>«<lb/>
+</p>
+            <p ana="pr54107">
+<space/>»Immerhin überraschte Herr <rs type="pers" ana="n_42274" ref="#fk__p_50418"><abbr>M.</abbr></rs> heute, zumal in den stilleren<lb/>
+Partien seiner Rolle, so am Beginn des berühmten Monologs und in<lb/>
+der Szene mit den Schauspielern durch einen noblen Verzicht auf die<lb/>
+ihm geläufigen Mittel der Deklamation <seg type="symbol" subtype="3dots"/> «<lb/>
+</p>
+            <p ana="pr54108">
+<space/>»Seine Mimik ist nicht eben reich, aber er weiß damit zu wirtschaften<lb/>
+ <seg type="symbol" subtype="3dots"/>«<lb/>
+</p>
+            <p ana="pr54110">
+<space/>Der Debütant heißt <rs type="pers" ana="n_42275" ref="#fk__p_50418"><seg type="spc">Mounet-Sully</seg></rs>, <seg type="insult">der erfahrene<lb/>
+ Kritiker</seg> <rs type="pers" ana="n_42276" ref="#fk__p_52017"><seg type="spc">Auernheimer</seg></rs>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_53424">
+               <persName>Sophokles</persName>
+               <birth>
+                  <date>497/96</date>
+                  <place>Demos Kolonnos</place>
+               </birth>
+               <death>
+                  <date>407/06</date>
+                  <place>Athen</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2693</idno></person>
+            <person xml:id="fk__p_54881">
+               <persName>Hugo, Victor</persName>
+               <birth>
+                  <date>1802-02-26</date>
+                  <place>Besançon</place>
+               </birth>
+               <death>
+                  <date>1885-05-22</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/5359</idno></person>
+            <person xml:id="fk__p_52017">
+               <persName>Auernheimer, Raoul</persName>
+               <birth>
+                  <date>1876-4-15</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1948-1-6</date>
+                  <place>Oakland/Kalifornien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Journalist</occupation>
+               <occupation>Kritiker</occupation>
+               <note type="comment">404/13 "vergleichen eine Festung", s. NFP 31.07.1914 (Hinweis Schwarzer)</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10788</idno></person>
+            <person xml:id="fk__p_50418">
+               <persName>Mounet-Sully, Jean</persName>
+               <birth>
+                  <date>1841-2-27</date>
+                  <place>Bergerac/Dordogne</place>
+               </birth>
+               <death>
+                  <date>1916-3-1</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/21668</idno></person>
+            </listPerson></back></text>
+</TEI>

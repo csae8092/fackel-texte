@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_08342.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08341.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08343.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Die Sprache der Diplomaten, in: Fackel Heft 20, Nr. 484, 1918, S. 29-29</title>
+            <title type="iso-date">1918-10-01</title>
+            <title type="id">tid_08342</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">20</title><title type="heft">484</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-20-484_n0029.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/484,029</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Die Sprache der Diplomaten</head>
+            <p ana="pr110106">
+<space/><seg type="symbol" subtype="3dots"/> Ich (<rs type="pers" ana="n_68917" ref="#fk__p_50430">Mühlon</rs>) war während dieser Zeit in Berlin und<lb/>
+äußerte zu <rs type="pers" ana="n_68918" ref="#fk__p_45805">Helfferich</rs>, daß ich den Ton und den Inhalt des Ultimatums<lb/>
+geradezu ungeheuerlich finde. <rs type="pers" ana="n_68919" ref="#fk__p_45805">Helfferich</rs> meinte aber, <seg type="spc">das klinge<lb/>
+nur so in deutscher Übersetzung</seg>; er habe es in<lb/>
+französischer Sprache zu sehen bekommen <seg type="spc">und da könne man<lb/>
+es keineswegs als übertrieben empfinden</seg>.<lb/>
+</p>
+            <p ana="pr110108">
+<space/>Und trotzdem — auf der Basis des französischen Originals<lb/>
+— ist der <rs type="event">Weltkrieg</rs> entstanden! Im Deutschen lügt man, wenn<lb/>
+man höflich ist; und ganz besonders, nachdem man unhöflich war.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_50430">
+               <persName>Muehlon, Johann Wilhelm</persName>
+               <birth>
+                  <date>1878-10-31</date>
+                  <place>Karlstadt/Main</place>
+               </birth>
+               <death>
+                  <date>1944-2-5</date>
+                  <place>Kloster Serneus/Kanton Graubünden</place>
+               </death>
+               <occupation>Industrieller</occupation>
+               <occupation>Publizist</occupation>
+               <occupation>Diplomat</occupation>
+               <note type="comment">Mäzen von Hugo Ball und Ernst Bloch</note>
+               <note type="comment">Dir. bei Krupp</note>
+            </person>
+            <person xml:id="fk__p_45805">
+               <persName>Helfferich, Karl</persName>
+               <birth>
+                  <date>1872-07-22</date>
+                  <place>Neustadt/Hardt</place>
+               </birth>
+               <death>
+                  <date>1924-04-23</date>
+                  <place>Bellinzona</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <note type="comment">seit 1920 mit Tochter Georg von Siemens' verheiratet</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

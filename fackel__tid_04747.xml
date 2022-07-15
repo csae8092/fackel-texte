@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_04747.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04746.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04748.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Ein Gedicht der Carmen Sylva), in: Fackel Heft 10, Nr. 266, 1908, S. 13-13</title>
+            <title type="iso-date">1908-11-30</title>
+            <title type="id">tid_04747</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">10</title><title type="heft">266</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-10-266_n0013.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/266,013</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Ein Gedicht der Carmen Sylva)</head>
+            <p ana="pr57403">
+<space/>Für die Blinden aber dichtet die <rs type="pers" ana="n_43555" ref="#fk__p_39776">Königin von Rumänien</rs>.<lb/>
+Einäugig. <seg type="insult">Solch armseliges Reimgeschiele</seg>:<lb/>
+</p>
+            <lg>
+<l>O zündet ihnen den Leuchtturm an,</l>
+<l>Der Seele Feuer, es sollen</l>
+<l>Die Gottverlassenen Freude han,</l>
+<l>Gebt Freude den Leidensvollen</l>
+</lg>
+            <p ana="pr57407">
+findet natürlich bei den <seg type="insult">Lesern der Wiener Presse</seg> seinen Anwert.<lb/>
+Und <seg type="insult">die humanitären Poesien der <rs type="pers" ana="n_43556" ref="#fk__p_39776">Carmen Sylva</rs></seg> erfüllen ihren<lb/>
+Zweck: die Blinden empfinden ihren Zustand als Wohltat.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_39776">
+               <persName>Sylva, Carmen, Königin von Rumänien</persName>
+               <birth>
+                  <date>1843-12-29</date>
+                  <place>Schloß Monrepos bei Neuwied</place>
+               </birth>
+               <death>
+                  <date>1916-3-2</date>
+                  <place>Bukarest</place>
+               </death>
+               <occupation>Schriftstellerin</occupation>
+               <note type="comment">Ögg teilt 321/1 ebenfalls Eleonore, Königin von Bulgarien zu</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_20597</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10168</idno></person>
+            </listPerson></back></text>
+</TEI>

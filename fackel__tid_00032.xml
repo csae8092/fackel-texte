@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00032.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00031.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00033.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Ein neuer Name für Österreich.), in: Fackel Heft 01, Nr. 003, 1899, S. 13-14</title>
+            <title type="iso-date">1899-04-01</title>
+            <title type="id">tid_00032</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">003</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-003_n0013.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/003,013</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Ein neuer Name für Österreich.)</head>
+            <p ana="pr461">
+<space/>»Österreich« ist bekanntlich kein Name, der für das gemeinhin<lb/>
+darunter verstandene Ländergemenge politisch ausreichend wäre.<lb/>
+Eine staatsrechtliche Definition muss immer zu der gewissen längeren<lb/>
+Redensart Zuflucht nehmen, in der »Königreiche und Länder« und<lb/>
+</p>
+            <p ana="pr461">
+etwas wie ein <rs type="inst">Reichsrath</rs>, in dem sie »vertreten« seien, vorkommen.<lb/>
+Nun gibt es schon seit längerem keinen solchen <rs type="inst">Reichsrath</rs>. <RS persTitle="Grillparzer" title="König Ottokar">Der<lb/>
+Österreicher hat zwar ein Vaterland, »er liebt’s und hat auch Ursach’,<lb/>
+es zu lieben«</RS>, aber er ist in Verlegenheit, es zu benennen. In Zeiten,<lb/>
+da die Gesetzgebung von den Kundgebungen der Parteien abgelöst<lb/>
+ist und alles von der Stilisierung eines Communiqués abhängt, sei<lb/>
+darum dem Patrioten, der doch endlich wissen will, was er eigentlich<lb/>
+liebt, als prägnantester Name empfohlen: <seg type="insult">»<seg type="spc">Die von den Herren</seg><lb/>
+<seg type="spc"><rs type="pers" ana="n_457" ref="#fk__p_42591">Mendel Singer</rs> und <rs type="pers" ana="n_458" ref="#fk__p_51337">Penižek</rs> journalistisch vertretenen</seg><lb/>
+<seg type="spc">Königreiche und Länder</seg>«</seg>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_42591">
+               <persName>Singer, Emanuel (Mendl) Edler von </persName>
+               <birth>
+                  <date>1846-2-23</date>
+                  <place>Bisenz/Mähren</place>
+               </birth>
+               <death>
+                  <date>1929-12-2</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <note type="comment">1912 nobilitiert</note>
+               <note type="comment">N. Wr. Tgbl.</note>
+            </person>
+            <person xml:id="fk__p_51337">
+               <persName>Penižek, Josef</persName>
+               <birth>
+                  <date>1858-3-18</date>
+                  <place>Stalec/Böhmen</place>
+               </birth>
+               <death>
+                  <date>1932</date>
+                  <place>Prag?</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <note type="comment">kais. Rat; 18., Gentzgasse 38</note>
+               <note type="comment">Josef Penizek, stud. jur., geb. Wien 15.02.1887 muß der Sohn sein (selbe Adresse)</note>
+               <note type="comment">seine "Slavische Correspondenz"</note>
+               <note type="comment">Autor von "Aus bewegten Zeiten 1895-1905", Wien, Konegen</note>
+               <note type="comment">Wiener Korrespondent der "Národni listy"</note>
+               <note type="comment">auch Josef Minzer-Penizek</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

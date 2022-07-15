@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_05042.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05041.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05043.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Die Übersetzung, in: Fackel Heft 11, Nr. 296, 1910, S. 46-47</title>
+            <title type="iso-date">1910-02-18</title>
+            <title type="id">tid_05042</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">11</title><title type="heft">296</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-11-296_n0046.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/296,046</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Die Übersetzung</head>
+            <p ana="pr63632">
+<space/>Ich lese nicht polnisch, aber in einem <choice><sic>Zeitungsauschnitt</sic><corr>Zeitungsausschnitt</corr></choice>,<lb/>
+der mir aus Krakau zugeschickt wurde und in dem offenbar vom<lb/>
+Prozeß <rs type="pers" ana="n_46923" ref="#fk__p_39410">Borowska</rs> die Rede ist, verstehe ich doch manche Worte.<lb/>
+Vor allem den Titel. Er lautet: <seg type="insult"><foreign xml:lang="pl">»<rs type="title">Wiedeński ‚szmok‘</rs>«</foreign></seg>. Ferner<lb/>
+kann ich das Wort: <seg type="insult">»<rs type="pers" ana="n_46924" ref="#fk__p_51273">Paul Zifferer</rs>«</seg> übersetzen. Dann das Wort:<lb/>
+<seg type="insult">»<rs type="paper" ana="werk_17392">Neue Freie Presse</rs>«</seg>. Nun also, es geht, und bei einiger Übung<lb/>
+in <seg type="insult">solchen Vokabeln</seg> werde ich bald heraushaben, was in dem<lb/>
+Artikel steht.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_51273">
+               <persName>Zifferer, Paul</persName>
+               <birth>
+                  <date>1879-3-9</date>
+                  <place>Bistritz, Mähren</place>
+               </birth>
+               <death>
+                  <date>1929-2-14</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Red. der NFP</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/5156</idno></person>
+            <person xml:id="fk__p_39410">
+               <persName>Borowska, Janina</persName>
+               <birth>
+                  <date>1879?</date>
+               </birth>
+               <occupation>Ärztin</occupation>
+               <note type="comment">Prozeß Borowska, Zeitungsausschnitt aus Krakau vor 18.02.1910</note>
+               <note type="comment">Freispruch, NFP 30.1.10, 9.2.10</note>
+               <note type="comment">Absolvierung der aerztl. Studien, Bereinigung der Affaire (Emil) Haecker NFP 1.2.10</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/29159</idno></person>
+            </listPerson></back></text>
+</TEI>

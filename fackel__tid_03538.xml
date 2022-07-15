@@ -1,0 +1,93 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03538.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03537.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03539.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Eine Überraschung für Ibsen, in: Fackel Heft 05, Nr. 158, 1904, S. 17-17</title>
+            <title type="iso-date">1904-03-30</title>
+            <title type="id">tid_03538</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">05</title><title type="heft">158</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-05-158_n0017.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/158,017</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Eine Überraschung für Ibsen</head>
+            <p ana="pr35203">
+<space/><inciptit>In</inciptit> den Theaterrubriken kann man oft <seg type="insult">ganz gute Witze</seg><lb/>
+lesen. Zum Beispiel:<lb/>
+</p>
+            <p ana="pr35205">
+<space/>»Die Direktion des <rs type="inst">Deutschen Volkstheaters</rs> hat an <rs type="pers" ana="n_30381" ref="#fk__p_45852">Henrik<lb/>
+Ibsen</rs> die Einladung ergehen lassen, zur Erstaufführung von ‚<rs type="title">Wenn<lb/>
+wir Toten erwachen</rs>‘ nach Wien zu kommen«.<lb/>
+</p>
+            <p ana="pr35207">
+<space/>Noch besser:<lb/>
+</p>
+            <p ana="pr35209">
+<space/>»Aus Anlaß von <rs type="pers" ana="n_30382" ref="#fk__p_45852">Ibsens</rs> 76. Geburtstag wird morgen im<lb/>
+<rs type="inst">Deutschen Volkstheater</rs> den Theaterbesuchern nebst dem Theaterzettel<lb/>
+ von ‚<rs type="title">Wenn wir Toten erwachen</rs>‘ auch eine Ansichtskarte<lb/>
+mit dem Bilde des Dichters überreicht werden. Die erste dieser<lb/>
+Ansichtskarten wurde heute dem Dichter zugeschickt.«<lb/>
+</p>
+            <p ana="pr35211">
+<space/>Die Direktion des <rs type="inst">Deutschen Volkstheaters</rs> hat die Intentionen<lb/>
+ <rs type="pers" ana="n_30383" ref="#fk__p_45852">Ibsen’s</rs>, die man sonst immer für so schwer verständlich<lb/>
+ausgibt, sehr fein erfaßt. <rs type="pers" ana="n_30384" ref="#fk__p_45852">Ibsen</rs> soll hocherfreut gewesen <choice><sic>sein</sic><corr>sein,</corr></choice> und<lb/>
+aus der fortwirkenden pessimistischen Stimmung, die seinen Epilog<lb/>
+erfüllt und in der ihn <seg type="insult">diese Verklärung seines Lebensabends</seg> durch<lb/>
+<seg type="insult">die Herren <rs type="pers" ana="n_30385" ref="#fk__p_37848">Weisse</rs> und <rs type="pers" ana="n_30386" ref="#fk__p_42599">Bukovics</rs></seg> überraschte, gerufen haben:<lb/>
+»<seg type="spc">Das</seg> hätte ich nicht erwartet!«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_45852">
+               <persName>Ibsen, Henrik</persName>
+               <birth>
+                  <date>1828-3-20</date>
+                  <place>Skien</place>
+               </birth>
+               <death>
+                  <date>1906-5-23</date>
+                  <place>Christiania</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment"/>
+               <note type="comment">Ögg ordnet 368/49 Baumeister Solneß Strindberg zu</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11798</idno></person>
+            <person xml:id="fk__p_37848">
+               <persName>Weisse, Adolf</persName>
+               <birth>
+                  <date>1855-4-4</date>
+                  <place>Tanez, Ungarn</place>
+               </birth>
+               <death>
+                  <date>1933-7-17</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <occupation>Theaterleiter</occupation>
+               <note type="comment">seit 1906 Dir. Dt. Volksth.</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/26880</idno></person>
+            <person xml:id="fk__p_42599">
+               <persName>Bukovics-Kis-Alacska, Emerich von</persName>
+               <birth>
+                  <date>1844-2-28</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1905-7-4</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Theaterleiter</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02749.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02748.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02750.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Habitué. (Von der neuen Carltheateroperette), in: Fackel Heft 04, Nr. 120, 1902, S. 34-34</title>
+            <title type="iso-date">1902-11-8</title>
+            <title type="id">tid_02749</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">04</title><title type="heft">120</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-04-120_n0034.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/120,034</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Habitué. (Von der neuen Carltheateroperette)</head>
+            <p ana="pr26898">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="name_201804" ref="#fk__p_45322">Habitué</rs>.</seg></seg></seg> Von den Melodien der neuen <rs type="inst"><rs type="pers" ana="n2_1803" ref="#fk__p_57640">Carltheateroperette</rs></rs><lb/>
+(»<rs type="title">Der liebe Schatz</rs>« von <rs type="pers" ana="n_23202" ref="#fk__p_45747">Heinrich Reinhardt</rs>) weiß <seg type="insult">der Kritiker der<lb/>
+‚<rs type="paper" ana="werk_9461">Neuen Freien Presse</rs>‘</seg> am <date>31. October</date> begeistert zu erzählen: »Leichtbeschwingt<lb/>
+ schmeicheln und <seg type="spc">stehlen sie sich</seg> selbst in widerspenstige,<lb/>
+widerwillige Ohren« <seg type="symbol" subtype="3dots"/><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_45322">
+               <persName>Habitué</persName>
+            </person>
+            <person xml:id="fk__p_45747">
+               <persName>Reinhardt, Heinrich</persName>
+               <birth>
+                  <date>1865-4-13</date>
+                  <place>Pressburg</place>
+               </birth>
+               <death>
+                  <date>1922-1-31</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Komponist</occupation>
+               <occupation>Musikschriftsteller</occupation>
+               <note type="comment">"Das süße Mädel" 118/31</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12501</idno></person>
+            <person xml:id="fk__p_57640">
+               <persName>Carl, Carl</persName>
+               <birth>
+                  <date>1789-11-7</date>
+                  <place>Krakau</place>
+               </birth>
+               <death>
+                  <date>1854-8-14</date>
+                  <place>Bad Ischl</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <occupation>Regisseur</occupation>
+               <occupation>Theaterleiter</occupation>
+               <note type="comment">Ögg: Freiherr von Bernbrunn</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

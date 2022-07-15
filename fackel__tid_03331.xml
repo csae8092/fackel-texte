@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03331.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03330.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03332.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Offizier. (Der Fall Bilse), in: Fackel Heft 05, Nr. 147, 1903, S. 22-22</title>
+            <title type="iso-date">1903-11-21</title>
+            <title type="id">tid_03331</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">05</title><title type="heft">147</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-05-147_n0022.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/147,022</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Offizier. (Der Fall Bilse)</head>
+            <p ana="pr32972">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_28499" ref="#fk__p_50797">Offizier</rs>.</seg></seg> Der Fall des Leutnants <rs type="pers" ana="n_28500" ref="#fk__p_39250"><seg type="spc">Bilse</seg></rs> ist dumm beurteilt<lb/>
+worden. Daß er trotz »gelungenem Wahrheitsbeweis« verurteilt<lb/>
+wurde, ist zumindest ethisch berechtigt, da er — von dem militärischen<lb/>
+Subordinationsstandpunkt abgesehen — ehrenrührige Mitteilungen aus<lb/>
+dem <seg type="ELIDASH">Privatleben</seg> und Familienleben in tendenziöser Absicht verwertet hatte.<lb/>
+Lächerlich war nur, daß der Wahrheitsbeweis zugelassen und wie er<lb/>
+geführt wurde. Bekanntlich ist jeder einzelne Zeuge von dem Verhandlungsleiter<lb/>
+ gefragt worden, ob er ein Dieb, ein Trinker, ein <seg type="insult">Ehebrecher<lb/>
+</seg> sei, und <seg type="insult">ganz Deutschland mit seiner leichten Grazie</seg> lag in dem<lb/>
+Dialog: »Haben Sie bemerkt, daß der Oberleutnant <rs type="pers" ana="n_28501" key="#fk__p_45316">Habenicht</rs> bei Bällen<lb/>
+mit <seg type="spc">durchgedrückten Knieen</seg> getanzt hat, <seg type="spc">wie man es in den<lb/>
+Berliner</seg> ‚<rs type="inst"><rs type="pers"><seg type="spc">Amorsälen</seg></rs></rs>‘ <seg type="spc">sieht</seg>?« Zeuge: »Ja«. Verhandlungsführer:<lb/>
+»Glauben Sie, daß er das aus <seg type="insult">unsittlichen <seg type="spc">Gründen</seg></seg> getan hat?« Der<lb/>
+Zeuge zuckt die Achseln. — Heiliger <rs type="pers" ana="n_28502" ref="#fk__p_43433">Wedekind</rs>!<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_50797">
+               <persName>Offizier</persName>
+            </person>
+            <person xml:id="fk__p_39250">
+               <persName>Bilse, Fritz Oswald </persName>
+               <birth>
+                  <date>1878-3-31</date>
+                  <place>Kirn/Rheinland</place>
+               </birth>
+               <death>
+                  <date>1951</date>
+                  <place>Eberswalde/Brandenburg</place>
+               </death>
+               <occupation>Offizier</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/3349</idno></person>
+            <person xml:id="fk__p_43433">
+               <persName>Wedekind, Frank</persName>
+               <birth>
+                  <date>1864-7-24</date>
+                  <place>Hannover</place>
+               </birth>
+               <death>
+                  <date>1918-3-9</date>
+                  <place>München</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/13068</idno></person>
+            </listPerson></back></text>
+</TEI>

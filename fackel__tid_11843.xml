@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_11843.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11842.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11844.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Wenn er den Daumen hält, in: Fackel Heft 33, Nr. 857, 1931, S. 28-29</title>
+            <title type="iso-date">1931-08-01</title>
+            <title type="id">tid_11843</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">33</title><title type="heft">857</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-33-857_n0028.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/857,028</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Wenn er den Daumen hält</head>
+            <p ana="pr171481">
+jüdelt er so:<lb/>
+</p>
+            <p ana="pr171483">
+Wien, <date>16. Juni</date>.<lb/>
+</p>
+            <p ana="pr171484">
+<space/><seg type="spc">Es ist ein Wendepunkt</seg>. Diese Äußerung einer der maßgebenden<lb/>
+ Persönlichkeiten <seg type="spc">bleibt kennzeichnend</seg>. Eine andere<lb/>
+hervorragende Persönlichkeit betonte gestern, so oft man auch durch<lb/>
+Hoffnungen enttäuscht worden sei, diesmal müsse schon der Name<lb/>
+<rs type="pers" ana="n_102381" ref="#fk__p_53363">Sir Robert <seg type="spc">Kindersley</seg></rs> Bürgschaft dafür bieten, daß es sich nicht<lb/>
+</p>
+            <p ana="pr171484">
+wieder um <seg type="spc">flüchtige Erscheinungen</seg> handelt. Wir glauben uns<lb/>
+also nicht des ungebührlichen, des <seg type="spc">ruchlosen</seg> Optimismus schuldig<lb/>
+zu machen, wenn wir dem <seg type="spc">Gefühl</seg> Ausdruck geben: <seg type="spc">das Ärgste<lb/>
+ist überstanden</seg> — —.<lb/>
+</p>
+            <p ana="pr171486">
+Selbst der Name <rs type="pers" ana="n_102382" ref="#fk__p_53363">Kindersley</rs> klingt in diesem Mund merkwürdig.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_53363">
+               <persName>Kindersley, Sir Robert Molesworth</persName>
+               <birth>
+                  <date>1871-11-21</date>
+                  <place>Wanstead/Essex</place>
+               </birth>
+               <death>
+                  <date>1954-7-20</date>
+               </death>
+               <occupation>Finanzmann</occupation>
+               <occupation>Bankier</occupation>
+               <note type="comment">kanadischer Aktionär</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

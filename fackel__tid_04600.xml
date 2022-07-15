@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_04600.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04599.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04601.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(André Gide und Georg Brandes über Wagner), in: Fackel Heft 09, Nr. 244, 1908, S. 9-9</title>
+            <title type="iso-date">1908-02-17</title>
+            <title type="id">tid_04600</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">09</title><title type="heft">244</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-09-244_n0009.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/244,009</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(André Gide und Georg Brandes über Wagner)</head>
+            <p ana="pr52344">
+<space/>Unter den Antworten, die ein <rs type="perRef" ana="werk_15899">Berliner Blatt</rs><lb/>
+auf seine Rundfrage über <rs type="pers" ana="n_41458" ref="#fk__p_52212">Richard Wagner</rs> erhalten<lb/>
+hat, findet sich die eines echten Künstlers und die<lb/>
+<seg type="insult">eines echten Reporters</seg>. <rs type="pers" ana="n_41459" ref="#fk__p_38226">André <seg type="spc">Gide</seg></rs> schreibt:<lb/>
+</p>
+            <p ana="pr52345">
+<space/>»Ich verabscheue <rs type="pers" ana="n_41460" ref="#fk__p_52212">Wagners</rs> Person und sein<lb/>
+Wort. Mein leidenschaftlicher Widerwille hat sich<lb/>
+seit meiner Kindheit nur noch vertieft. Dieses erstaunliche<lb/>
+ Genie spendet weniger Entzückung, als es<lb/>
+zermalmt. <seg type="insult">Vielen Snobs, Literaten und Dummköpfen</seg><lb/>
+hat er erlaubt, zu wähnen, sie liebten die Musik, und<lb/>
+einige Künstler in den Irrtum versetzt, Genie sei zu<lb/>
+erlernen. Deutschland hat vielleicht nie etwas erzeugt,<lb/>
+das zu gleicher Zeit so groß war und so barbarisch.«<lb/>
+</p>
+            <p ana="pr52346">
+<space/><seg type="insult">Herr <rs type="pers" ana="n_41461" ref="#fk__p_44279">Georg <seg type="spc">Brandes</seg></rs></seg> schreibt:<lb/>
+</p>
+            <p ana="pr52347">
+<space/>»Der Widerstand gegen <rs type="pers" ana="n_41462" ref="#fk__p_52212">Wagner</rs> war in Dänemark<lb/>
+ niemals stark und ist jetzt ausgestorben. Seine<lb/>
+Opern werden als die Hauptopern der <rs type="inst">königlichen<lb/>
+Bühne</rs> in Kopenhagen betrachtet, obwohl die Ausführung<lb/>
+ sich nur ausnahmsweise über ein respektables<lb/>
+Mittelmaß erhebt.«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_38226">
+               <persName>Gide, André</persName>
+               <birth>
+                  <date>1869-11-22</date>
+                  <place>Paris</place>
+               </birth>
+               <death>
+                  <date>1951-2-19</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11435</idno></person>
+            <person xml:id="fk__p_44279">
+               <persName>Brandes, Georg</persName>
+               <birth>
+                  <date>1842-2-4</date>
+                  <place>Kopenhagen</place>
+               </birth>
+               <death>
+                  <date>1927-2-19</date>
+                  <place>Kopenhagen</place>
+               </death>
+               <occupation>Literarhistoriker</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10992</idno></person>
+            <person xml:id="fk__p_52212">
+               <persName>Wagner, Richard</persName>
+               <birth>
+                  <date>1813-5-22</date>
+                  <place>Leipzig</place>
+               </birth>
+               <death>
+                  <date>1883-2-13</date>
+                  <place>Venedig</place>
+               </death>
+               <occupation>Komponist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/13024</idno></person>
+            </listPerson></back></text>
+</TEI>

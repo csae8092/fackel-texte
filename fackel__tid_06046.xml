@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06046.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06045.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06047.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Hof und Personal, in: Fackel Heft 14, Nr. 366, 1913, S. 12-12</title>
+            <title type="iso-date">1913-01-01</title>
+            <title type="id">tid_06046</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">14</title><title type="heft">366</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-14-366_n0012.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/366,012</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Hof und Personal</head>
+            <p ana="pr81682">
+<space/>»— <rs type="pers" ana="n_57131" ref="#fk__p_47385">Erzherzog Karl Franz Josef</rs> hat die ihm übersandte, mit<lb/>
+seinem und seiner Gemahlin Bildnis geschmückte Nummer der ‚<rs type="" ana="werk_19143">Neuen<lb/>
+Illustrierten Zeitung</rs>‘ in Czernowitz angenommen und dem Herausgeber<lb/>
+und Redakteur Herrn <rs type="pers" ana="n_57132" ref="#fk__p_46521">Isidor Obstgarten</rs> telegraphisch seinen besten<lb/>
+Dank bekanntgegeben.«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46521">
+               <persName>Obstgarten, Isidor</persName>
+               <birth>
+                  <date>1872-05-10</date>
+                  <place>Krzywze/Galizien</place>
+               </birth>
+               <occupation>Journalist</occupation>
+            </person>
+            <person xml:id="fk__p_47385">
+               <persName>Karl I., Kaiser</persName>
+               <birth>
+                  <date>1887-08-17</date>
+                  <place>Persenbeug/NÖ</place>
+               </birth>
+               <death>
+                  <date>1922-04-01</date>
+                  <place>Quinta do Monte/Madeira</place>
+               </death>
+               <occupation>Kaiser</occupation>
+               <note type="comment">Ögg teilt irrt. 561/21 zu, da ist Franz Joseph I. gemeint</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

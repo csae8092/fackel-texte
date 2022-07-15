@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07433.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07432.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07434.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Shaw ist sechzig, Trebitsch gratuliert, in: Fackel Heft 18, Nr. 437, 1916, S. 47-48</title>
+            <title type="iso-date">1916-11-01</title>
+            <title type="id">tid_07433</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">18</title><title type="heft">437</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-18-437_n0047.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/437,047</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Shaw ist sechzig, Trebitsch gratuliert</head>
+            <p ana="pr99999">
+<space/>Heute bist du also sechzig Jahre alt geworden, <rs type="pers" ana="n_65686" ref="#fk__p_39112">Bernard Shaw</rs>;<lb/>
+und mir ist leider jeder trauliche Weg versperrt, dies dir gegenüber<lb/>
+<seg type="spc">anzumerken</seg>, ich muß es vor aller Welt tun oder sein lassen.<lb/>
+</p>
+            <p ana="pr100001">
+<space/>Das sind die Nachteile der Kriegführung. Aber warum im<lb/>
+Zweifelsfalle es nicht sein lassen?<lb/>
+</p>
+            <p ana="pr100003">
+<space/>Am <date>1. August 1914</date>, als das gigantische Unheil schon im <seg type="spc">Zuge</seg> war,<lb/>
+</p>
+            <p ana="pr100005">
+im Zuge aus Ostende nach der Heimat<lb/>
+</p>
+            <p ana="pr100007">
+erhielt ich das letzte große Freundschaftszeichen <seg type="spc">aus Fremdland</seg>:<lb/>
+deine Büste von Meister <rs type="pers" ana="n_65687" ref="#fk__p_52391">Rodin</rs>, die du mir mit gütigen Worten gestiftet<lb/>
+hast. Nun stehe ich vor diesem ewigen Werk und blicke in deine <seg type="spc">Züge</seg>:<lb/>
+Ja, so siehst du aus und so bist du <seg type="symbol" subtype="4dots"/> Versteher, aber auch zugleich<lb/>
+Verkenner des Wunderreiches Deutschland, das deine geistige Heimat<lb/>
+ist und bleibt, <seg type="spc"><seg type="insult">du <rs type="pers">Fortinbras</rs> aus Dublin</seg></seg>, <seg type="spc">protestierender<lb/>
+Protestant</seg>. Du bist kühn <seg type="spc">für uns</seg> eingetreten, da du uns<lb/>
+kanntest, und du hast mit dem belauernden, weithinklingenden Worte<lb/>
+allzuschnell auch gegen uns gesprochen <seg type="symbol" subtype="4dots"/> Du gabst uns dein Werk<lb/>
+<seg type="spc">und das geben wir nicht mehr heraus</seg>. Es hat uns<lb/>
+reicher gemacht. Du bist ein Freund. Ich grüße dich und deine Jugend,<lb/>
+und hoffe dich wiederzusehen; <seg type="spc">denn schon dämmert im<lb/>
+Osten der Tag</seg>.<lb/>
+</p>
+            <p ana="pr100009">
+<space/>Wer sagt das? Mit der Dämmerung <foreign xml:lang="de-loc">haperts</foreign>. Aber das<lb/>
+Geburtstagsversprechen, das Werk <seg type="insult">des Herrn <rs type="pers" ana="n_65688" ref="#fk__p_39112">Shaw</rs></seg> nicht mehr<lb/>
+herauszugeben, könnte gehalten werden.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_39112">
+               <persName>Shaw, George Bernard</persName>
+               <birth>
+                  <date>1856-7-26</date>
+                  <place>Dublin</place>
+               </birth>
+               <death>
+                  <date>1950-11-2</date>
+                  <place>Ayot St. Lawrence</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">226/21: Tanner, Katechismus des Umstürzlers, zu "Mensch und Übermensch"</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2381</idno></person>
+            <person xml:id="fk__p_52391">
+               <persName>Rodin, Auguste</persName>
+               <birth>
+                  <date>1840-11-12</date>
+                  <place>Paris</place>
+               </birth>
+               <death>
+                  <date>1917-11-17</date>
+                  <place>Meudon</place>
+               </death>
+               <occupation>Bildhauer</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/9554</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_09885.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09884.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09886.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Habe noch nie so gelacht, in: Fackel Heft 26, Nr. 657, 1924, S. 132-133</title>
+            <title type="iso-date">1924-08-01</title>
+            <title type="id">tid_09885</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">26</title><title type="heft">657</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-26-657_n0132.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/657,132</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Habe noch nie so gelacht</head>
+            <p ana="pr134145">
+<seg type="spc">Beisetzung <rs type="pers" ana="n_82160" ref="#fk__p_46350">Hugo Stinnes’</rs></seg><lb/>
+</p>
+            <p ana="pr134146">
+<rs type="pers" ana="n_82161" ref="#fk__p_54141">Tirpitz</rs> <seg type="symbol" subtype="X"/> verläßt das Krematorium.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_54141">
+               <persName>Tirpitz, Alfred</persName>
+               <birth>
+                  <date>1849-3-19</date>
+                  <place>Küstrin</place>
+               </birth>
+               <death>
+                  <date>1930-3-6</date>
+                  <place>Ebenhausen/München</place>
+               </death>
+               <occupation>Marineoffizier</occupation>
+               <note type="comment">Admiral</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_20754</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10230</idno></person>
+            <person xml:id="fk__p_46350">
+               <persName>Stinnes, Hugo sen.</persName>
+               <birth>
+                  <date>1870-02-12</date>
+                  <place>Mülheim</place>
+               </birth>
+               <death>
+                  <date>1924-04-10</date>
+                  <place>Berlin</place>
+               </death>
+               <occupation>Industrieller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/4676</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,41 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_09855.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09854.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09856.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ernst, aber zuversichtlich, in: Fackel Heft 26, Nr. 657, 1924, S. 87-87</title>
+            <title type="iso-date">1924-08-01</title>
+            <title type="id">tid_09855</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">26</title><title type="heft">657</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-26-657_n0087.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/657,087</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ernst, aber zuversichtlich</head>
+            <p ana="pr133840">
+verlassen <rs type="pers" ana="n_81809" ref="#fk__p_55058">Ludendorff</rs> und Gemahlin die <rs type="pers"><seg type="insult">Siegfriedstellung</seg></rs> und<lb/>
+begeben sich in die <seg type="insult">Walhalla</seg>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_55058">
+               <persName>Ludendorff, Erich Friedrich Wilhelm</persName>
+               <birth>
+                  <date>1865-4-9</date>
+                  <place>Kruszewnia bei Posen</place>
+               </birth>
+               <death>
+                  <date>1937-12-20</date>
+                  <place>Tutzing</place>
+               </death>
+               <occupation>Offizier</occupation>
+               <occupation>Politiker</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17720</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12122</idno></person>
+            </listPerson></back></text>
+</TEI>

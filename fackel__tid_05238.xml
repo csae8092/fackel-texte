@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_05238.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05237.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05239.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Vorsicht, in: Fackel Heft 12, Nr. 315, 1911, S. 9-9</title>
+            <title type="iso-date">1911-01-26</title>
+            <title type="id">tid_05238</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">12</title><title type="heft">315</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-12-315_n0009.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/315,009</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Vorsicht</head>
+            <p ana="pr67930">
+wäre der <rs type="paper" ana="werk_17942">Neuen Freien Presse</rs> zu empfehlen, welche sich in die<lb/>
+<seg type="insult">Sensation</seg> der angekündigten Memoiren <rs type="pers" ana="n_49233" ref="#fk__p_52212">Richard Wagners</rs> entschieden<lb/>
+ zu weit einläßt. Vorsicht ist notwendig, wenn Rücksicht<lb/>
+nicht zu erwarten ist. Die Memoiren sollen ja, wie Herr <rs type="pers" ana="n_49234" ref="#fk__p_53259">Siegfried<lb/>
+Wagner</rs> versichert, <seg type="spc">ungekürzt</seg> veröffentlicht werden!<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_53259">
+               <persName>Wagner, Siegfried</persName>
+               <birth>
+                  <date>1869-6-6</date>
+                  <place>Tribschen/Schweiz</place>
+               </birth>
+               <death>
+                  <date>1930-8-4</date>
+                  <place>Bayreuth</place>
+               </death>
+               <occupation>Komponist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/13027</idno></person>
+            <person xml:id="fk__p_52212">
+               <persName>Wagner, Richard</persName>
+               <birth>
+                  <date>1813-5-22</date>
+                  <place>Leipzig</place>
+               </birth>
+               <death>
+                  <date>1883-2-13</date>
+                  <place>Venedig</place>
+               </death>
+               <occupation>Komponist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/13024</idno></person>
+            </listPerson></back></text>
+</TEI>

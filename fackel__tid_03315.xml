@@ -1,0 +1,108 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03315.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03314.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03316.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Dieb. (Die Diebsfalle), in: Fackel Heft 05, Nr. 146, 1903, S. 29-30</title>
+            <title type="iso-date">1903-11-11</title>
+            <title type="id">tid_03315</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">05</title><title type="heft">146</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-05-146_n0029.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/146,029</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Dieb. (Die Diebsfalle)</head>
+            <p ana="pr32771">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="n_28291" ref="#fk__p_40433">Dieb</rs>.</seg></seg></seg> Die <seg type="insult">Schere des <rs type="pers" ana="n_28292" ref="#fk__p_46698">Lippowitz</rs></seg> auf frischer Tat zu ertappen,<lb/>
+bot oft genug das heiterste Vergnügen. <seg type="insult">»Unser <rs type="pers" ana="n_28293" ref="#fk__p_39266">Bismarck</rs>«</seg> und <seg type="insult">»<rs type="pers" ana="n_28294" ref="#fk__p_42338">Eduard VII.</rs>,<lb/>
+der Onkel <seg type="spc">unseres</seg> Kaisers«</seg>, die in <seg type="insult">»Originalartikeln« des ‚<rs type="paper" ana="werk_12283">Neuen<lb/>
+Wiener Journal</rs>‘</seg> prangten, haben den <seg type="insult">Dieb</seg> verraten. Ein ganz ähnlicher Fall<lb/>
+nun trug sich kürzlich zu. Unter dem Titel »<rs type="title">Ein tapferer Geistlicher</rs>«<lb/>
+erschien am <date>27. Oktober</date> ein Artikel, der ausdrücklich als <seg type="insult">»<seg type="spc">Originalkorrespondenz<lb/>
+</seg> des ‚<rs type="paper" ana="werk_12284">Neuen Wiener Journal</rs>‘«</seg> bezeichnet war. Er<lb/>
+begann mit den Worten: »In England starb dieser Tage ein Geistlicher<lb/>
+der Reverend <rs type="pers" ana="n_28295" ref="#fk__p_46633"><abbr>J. W.</abbr> Adams</rs>, der im Besitze des <rs type="pers" ana="n_28296" ref="#fk__p_48092">Viktoria-Kreuzes</rs> war,<lb/>
+eines Ehrenzeichens, das für außerordentliche Tapferkeit verliehen wird<lb/>
+und in vielfacher Beziehung <seg type="insult"><seg type="spc">unserem Eisernen Kreuz</seg></seg> entspricht.« <seg type="symbol" subtype="3dots"/><lb/>
+Was man der <seg type="insult">Schere des <rs type="pers" ana="n_28297" ref="#fk__p_46698">Lippowitz</rs></seg> mit Recht zum Vorwurf macht, ist<lb/>
+ihre Wahllosigkeit. Sie nimmt an keinem Hindernis Anstoß. Kein Mensch<lb/>
+verlangt von <seg type="insult">einem Redakteur des ‚<rs type="paper" ana="werk_12285">Neuen Wiener Journal</rs>‘</seg>, daß er einen<lb/>
+Artikel schreibe. Aber lesen sollte er ihn doch wenigstens. Bewahrheitet<lb/>
+es sich denn, daß der Name <rs type="pers" ana="n_28298" ref="#fk__p_46698">Lippowitz</rs> nur ein Deckname ist, daß eine<lb/>
+</p>
+            <p ana="pr32771">
+solche Persönlichkeit gar nicht existiert und ein <seg type="insult"><seg type="spc">Automat</seg></seg> seit zehn<lb/>
+Jahren die redaktionellen Geschäfte verrichtet?<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_42338">
+               <persName>Eduard VII., König von England</persName>
+               <birth>
+                  <date>1841-11-9</date>
+                  <place>London</place>
+               </birth>
+               <death>
+                  <date>1910-5-6</date>
+                  <place>London</place>
+               </death>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_14622</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/15665</idno></person>
+            <person xml:id="fk__p_46633">
+               <persName>Adams, James William</persName>
+               <birth>
+                  <date>1839</date>
+               </birth>
+               <death>
+                  <date>1903</date>
+               </death>
+               <occupation>Geistlicher</occupation>
+               <note type="comment">Armeekaplan in Indien</note>
+            </person>
+            <person xml:id="fk__p_40433">
+               <persName>Dieb</persName>
+            </person>
+            <person xml:id="fk__p_48092">
+               <persName>Victoria, Königin von England</persName>
+               <birth>
+                  <date>1819-5-24</date>
+                  <place>Kensington Palace, London</place>
+               </birth>
+               <death>
+                  <date>1901-1-22</date>
+                  <place>Osborne House, Isle of Wight</place>
+               </death>
+               <occupation>Königin</occupation>
+            </person>
+            <person xml:id="fk__p_46698">
+               <persName>Lippowitz, Jakob (Siegmund)</persName>
+               <birth>
+                  <date>1865-10-9</date>
+                  <place>Leipzig</place>
+               </birth>
+               <death>
+                  <date>1934-7-4</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17583</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/4054</idno></person>
+            <person xml:id="fk__p_39266">
+               <persName>Bismarck, Otto Eduard Leopold Fürst</persName>
+               <birth>
+                  <date>1815-04-01</date>
+                  <place>Schönhausen</place>
+               </birth>
+               <death>
+                  <date>1898-07-30</date>
+                  <place>Friedrichsruh</place>
+               </death>
+               <occupation>Politiker</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13749</idno></person>
+            </listPerson></back></text>
+</TEI>

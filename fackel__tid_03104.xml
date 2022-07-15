@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03104.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03103.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03105.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">‚Zeit‘-Genosse. (Der kleine Kohn), in: Fackel Heft 05, Nr. 136, 1903, S. 22-23</title>
+            <title type="iso-date">1903-04-30</title>
+            <title type="id">tid_03104</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">05</title><title type="heft">136</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-05-136_n0022.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/136,022</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>‚Zeit‘-Genosse. (Der kleine Kohn)</head>
+            <p ana="pr30503">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="name_203348" ref="#fk__p_60621"><SPAN cont="Zeit-Genosse">‚<rs type="paper" ana="werk_11369">Zeit</rs>‘-Genosse</SPAN></rs>.</seg></seg></seg> Was ist mit <seg type="insult">dem »kleinen <rs type="pers" ana="n_26436" ref="#fk__p_56429">Kohn</rs>«</seg> geschehen?<lb/>
+Er war lange bei der ‚<rs type="paper" ana="werk_11370">Zeit</rs>‘ angestellt gewesen; da hielt er den Abonnenten<lb/>
+die Mahnung: »Monatsschluss steht bevor!« entgegen. Dann aber kam<lb/>
+die ‚<rs type="self" ana="werk_11371">Fackel</rs>‘, und <seg type="insult">der kleine <rs type="pers" ana="n_26437" ref="#fk__p_56429">Kohn</rs></seg> war entdeckt; die Verkleidung als<lb/>
+<seg type="insult"><foreign xml:lang="en">»boy«</foreign></seg> hatte nichts geholfen, und die Leser der ‚<rs type="self" ana="werk_11372">Zeit</rs>‘ geriethen beim<lb/>
+Anblick <seg type="insult">des Knaben mit den riesigen Ohren, der Krummnase und den<lb/>
+feuchten Glotzaugen</seg> auf die Idee, <seg type="insult"><foreign xml:lang="en">»boy«</foreign></seg> sei kein englisches Wort,<lb/>
+</p>
+            <p ana="pr30503">
+sondern ein <seg type="insult">Naturlaut aus östlicheren Gegenden</seg>, <seg type="insult">etwa das Gegentheil<lb/>
+von »Goi«</seg>. <seg type="insult">Herr <rs type="pers" ana="n_26438" ref="#fk__p_46524">Singer</rs></seg> war wüthend; er sah sich den <seg type="insult">Burschen</seg>, dessen<lb/>
+Aeußeres in der <seg type="insult">Redaction der ‚<rs type="paper" ana="werk_11373">Zeit</rs>‘</seg> vorher gar nicht aufgefallen war,<lb/>
+an und erkannte, daß ihm der Zeichner wirklich, wie die ‚<rs type="self" ana="werk_11374">Fackel</rs>‘ behauptet<lb/>
+ hatte, einen Possen gespielt habe. Das Cliché mußte corrigiert<lb/>
+werden. Nun mag, wer etwa die Nummern der ‚<rs type="paper" ana="werk_11375">Zeit</rs>‘ vom <FERR href="FK-05-137_n0024.xml" fcorrID="fk_04_fcorr_27348483" id="fk_04_ferr_27348483" emID="fk_04_em_27348485"><ERR fcorr="24."><date>14.</date></ERR> und <ERR fcorr="25."><date>15. April</date></ERR></FERR><lb/>
+besitzt, nachsehen, wie das <seg type="insult">Kerlchen</seg> zurechtgestutzt wurde: die Ohren kurzgeschnitten<lb/>
+, der Höcker auf der Nase wegrasiert, die wulstigen Lippen<lb/>
+verschmälert, das schwere Augenlid hinaufgeschoben —: <seg type="insult">der kleine <rs type="pers" ana="n_26439" ref="#fk__p_56429">Kohn</rs></seg><lb/>
+schaut wie ein <seg type="insult">czechischer Lehrbub</seg> aus. Er macht ein <seg type="insult">blitzdummes<lb/>
+Gesicht</seg>. Aber man lasse sich nicht täuschen; er ist ein <seg type="insult">geriebener<lb/>
+Bursch</seg>, der sich bloß dumm stellt, um die Leute desto sicherer anzuschmieren<lb/>
+: er will einem die ‚<rs type="paper" ana="werk_11376">Zeit</rs>‘ anhängen.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_60621">
+               <persName>‚Zeit‘-Genosse</persName>
+               <note type="comment"/>
+            </person>
+            <person xml:id="fk__p_56429">
+               <persName>Kohn, der kleine (Inseratenfigur)</persName>
+            </person>
+            <person xml:id="fk__p_46524">
+               <persName>Singer, Isidor</persName>
+               <birth>
+                  <date>1857-01-16</date>
+                  <place>Pest</place>
+               </birth>
+               <death>
+                  <date>1927-12-08</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Nationalökonom</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12790</idno></person>
+            </listPerson></back></text>
+</TEI>

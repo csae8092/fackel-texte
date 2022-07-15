@@ -1,0 +1,45 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_11651.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11650.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11652.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Rezept, in: Fackel Heft 32, Nr. 847, 1931, S. 77-77</title>
+            <title type="iso-date">1931-03-01</title>
+            <title type="id">tid_11651</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">32</title><title type="heft">847</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-32-847_n0077.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/847,077</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Rezept</head>
+            <p ana="pr169252">
+<space/>Um <rs type="pers" ana="n_101345" ref="#fk__p_42755">Erich Kästner</rs> zu lesen, empfiehlt sich folgendes Rezept:<lb/>
+Man lege sich an einem Tag, an irgend einem Tag, es muß nicht<lb/>
+eben Sonntag sein, auf ein Sofa —<lb/>
+</p>
+            <p ana="pr169254">
+Bis dahin mache ich mit.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_42755">
+               <persName>Kästner, Erich</persName>
+               <birth>
+                  <date>1899-2-23</date>
+                  <place>Dresden</place>
+               </birth>
+               <death>
+                  <date>1974-7-29</date>
+                  <place>München</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Helmut Schwarzer: Fiete Fischer, Journalist 1901-1988</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

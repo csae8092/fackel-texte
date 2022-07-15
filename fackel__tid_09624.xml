@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_09624.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09623.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09625.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ein Nestroy-Kenner, in: Fackel Heft 25, Nr. 632, 1923, S. 130-131</title>
+            <title type="iso-date">1923-10-01</title>
+            <title type="id">tid_09624</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">25</title><title type="heft">632</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-25-632_n0130.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/632,130</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ein Nestroy-Kenner</head>
+            <p ana="pr129139">
+urteilt über den <seg type="insult">Unfug</seg> der Damenbesetzung des »<rs type="title"><rs type="pers">Lumpazivagabundus<lb/>
+</rs></rs>«:<lb/>
+</p>
+            <p ana="pr129141">
+<rs type="pers"><seg type="spc">Knieriem</seg></rs> war Frau <rs type="pers" ana="n_79203" ref="#fk__p_45523">Niese</rs>: ihre tiefe gutmütig polternde Stimme<lb/>
+verleiht <seg type="insult">der <seg type="spc">einfältigen Biederkeit</seg></seg> des Schustergesellen<lb/>
+echteste Farbe. Ihre Darstellung ist hervorragend. Weniger befriedigend<lb/>
+der sonst muntere <rs type="pers"><seg type="spc">Zwirn</seg></rs> <rs type="pers" ana="n_79204" ref="#fk__p_45041">Grete Petrovits’</rs>, schon weil er (sie) <seg type="spc">den<lb/>
+böhmischen Dialekt nicht beherrscht</seg>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_45523">
+               <persName>Niese, Hansi</persName>
+               <birth>
+                  <date>1875-1-30</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1934-4-4</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schauspielerin</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/21952</idno></person>
+            <person xml:id="fk__p_45041">
+               <persName>Petrovits, Margarete Barbara (Grete)</persName>
+               <birth>
+                  <date>1888-4-4</date>
+                  <place>Baden bei Wien</place>
+               </birth>
+               <occupation>Schauspielerin</occupation>
+               <occupation>Sängerin</occupation>
+               <note type="comment">zus. mit Hansi Niese in einer Lumpazivagabundus-Vorstellung</note>
+               <note type="comment">6., Papagenogasse 1 MA 8 n. e., 6., Laimgrubengasse 14 (Bjb 1912)</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

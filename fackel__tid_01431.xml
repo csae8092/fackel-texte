@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01431.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01430.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01432.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ein Eisenbahnunglück, in: Fackel Heft 02, Nr. 060, 1900, S. 26-26</title>
+            <title type="iso-date">1900-11-01</title>
+            <title type="id">tid_01431</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">060</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-060_n0026.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/060,026</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ein Eisenbahnunglück</head>
+            <p ana="pr13601">
+<space/>Aus <seg type="insult">Wiener Blättern</seg>: »Der gerettete Secretär des <rs type="pers" ana="n_11418" ref="#fk__p_46024">Herzogs<lb/>
+Canevaro</rs> erzählt: Ich bin von Madrid mit dem Herzog, der Herzogin<lb/>
+, dem Attaché <rs type="pers" ana="n_11419" key="#fk__p_42575">Elster</rs> und der Kammerfrau <rs type="pers" ana="n_11420" ref="#fk__p_59407">Maria</rs> abgereist.<lb/>
+Diese vier Personen occupierten im Speisewaggon einen Tisch. Ich<lb/>
+musste mich mit Herrn <rs type="pers" ana="n_11421" ref="#fk__p_44607">Goyeneche</rs> an einen anderen Tisch am entgegengesetzten<lb/>
+ Ende des Waggons setzen. — — — Wir waren gerade<lb/>
+beim zweiten Gange des Frühstücks, einem <seg type="spc">Kalbsbraten mit<lb/>
+Spinat</seg>, als wir einen entsetzlichen Ruck verspürten — — —«.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_44607">
+               <persName>Goyeneche y Gamio, Juan Mariano de</persName>
+               <birth>
+                  <date>1834-2-4</date>
+                  <place>Arequipa/Peru</place>
+               </birth>
+               <death>
+                  <date>1924-7-6</date>
+                  <place>San Sebastian/Spanien</place>
+               </death>
+               <note type="comment">Eisenbahnunglück 1900</note>
+            </person>
+            <person xml:id="fk__p_59407">
+               <persName>Maria</persName>
+               <occupation>Kammerfrau</occupation>
+               <note type="comment">des Herzogs Canevaro</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/20987</idno></person>
+            <person xml:id="fk__p_46024">
+               <persName>Canevaro Valega, José Francisco Herzog von</persName>
+               <birth>
+                  <date>1837</date>
+                  <place>Lima/Peru</place>
+               </birth>
+               <death>
+                  <date>1900</date>
+                  <place>Frankreich</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <occupation>Geschäftsmann</occupation>
+               <note type="comment">Eisenbahnunglück 1900?</note>
+               <note type="comment">oder Filippo Canevaro, duca di Castelvari e Zoagli *Lima 10.1842, +Baden-Baden 10.1900</note>
+               <note type="comment">Felix Napoleon Canevaro Valega sein Bruder</note>
+               <note type="comment">José Canevaro died in an accident in France in 1900</note>
+               <note type="comment">1878 Vizepräsident Peru</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

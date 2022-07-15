@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06562.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06561.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06563.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Hof- und Personalnachrichten, in: Fackel Heft 15, Nr. 391, 1914, S. 16-16</title>
+            <title type="iso-date">1914-01-01</title>
+            <title type="id">tid_06562</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">15</title><title type="heft">391</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-15-391_n0016.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/391,016</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Hof- und Personalnachrichten</head>
+            <p ana="pr89012">
+<space/>— Bei der Vorlesung <rs type="pers" ana="n_60835" ref="#fk__p_43495">Franz Höbling</rs>, über die schon berichtet<lb/>
+wurde, hat der Künstler auch die sinnigen Gedichte »<rs type="title">Das arme<lb/>
+Königskind</rs>«, »<rs type="title">Das Märchen</rs>« und »<rs type="title">Verhext</rs>« von <rs type="pers" ana="n_60836" ref="#fk__p_45904">Herma <abbr>v.</abbr> Skoda</rs> vorgetragen<lb/>
+. — Am Schlusse des letzten Abendgottesdienstes im israelitischen<lb/>
+Tempel zu Lemberg hielt Rabbiner <rs type="pers" ana="n_60837" ref="#fk__p_56557"><abbr>Dr.</abbr> Guttmann</rs> eine Predigt, deren<lb/>
+Thema er mit dem <rs type="event">65jährigen Regierungsjubiläum des <RS pers="Franz Joseph I." globID="name_201560">Kaisers</RS></rs> verknüpfte.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_56557">
+               <persName>Guttmann, Michael?</persName>
+               <birth>
+                  <date>1872-2-6</date>
+                  <place>Felegyhaza/Ungarn</place>
+               </birth>
+               <death>
+                  <date>1942-11-7</date>
+                  <place>Budapest</place>
+               </death>
+               <occupation>Rabbiner</occupation>
+            </person>
+            <person xml:id="fk__p_45904">
+               <persName>Škoda, Herma von</persName>
+               <birth>
+                  <date>1879-4-18</date>
+                  <place>Pilsen</place>
+               </birth>
+               <death>
+                  <date>1966</date>
+                  <place>Kisber/Ungarn</place>
+               </death>
+               <occupation>Schriftstellerin</occupation>
+               <note type="comment">jüngste Tochter des Großindustriellen Emil Ritter von Skoda; verehelichte Lauer</note>
+               <note type="comment">Friedrich C. Heller, Die bunte Welt. Handbuch zum künstlerisch illustr. Kinderbuch, 2008</note>
+            </person>
+            <person xml:id="fk__p_43495">
+               <persName>Höbling, Franz</persName>
+               <birth>
+                  <date>1886-9-9</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1965-2-14</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <note type="comment">seit 1911 Burgtheater</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/7954</idno></person>
+            </listPerson></back></text>
+</TEI>

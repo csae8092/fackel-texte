@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_11496.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11495.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11497.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Im Abendblatt, in: Fackel Heft 32, Nr. 838, 1930, S. 99-99</title>
+            <title type="iso-date">1930-09-01</title>
+            <title type="id">tid_11496</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">32</title><title type="heft">838</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-32-838_n0099.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/838,099</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Im Abendblatt</head>
+            <p ana="pr167039">
+wo er so schön spationiert, beginnt er:<lb/>
+</p>
+            <p ana="pr167041">
+<space/>Die Begnadigung <rs type="pers" ana="n_100058" ref="#fk__p_49297">Ludwig <abbr>v.</abbr> Hatvanys</rs> <seg type="spc">entspricht einem<lb/>
+öffentlichen Bedürfnis</seg>.<lb/>
+</p>
+            <p ana="pr167043">
+Und schließt:<lb/>
+</p>
+            <p ana="pr167045">
+<rs type="pers" ana="n_100059" ref="#fk__p_49297">Hatvany</rs> ist wirklich schon gestraft genug.<lb/>
+</p>
+            <p ana="pr167047">
+Das könnte doch der letzte Leser auch nicht prägnanter sagen.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_49297">
+               <persName>Hatvany-Deutsch, Ludwig Freiherr von</persName>
+               <birth>
+                  <date>1880-10-28</date>
+                  <place>Budapest</place>
+               </birth>
+               <death>
+                  <date>1961-1-12</date>
+                  <place>Budapest</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">3 Ehen: </note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15972</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/17929</idno></person>
+            </listPerson></back></text>
+</TEI>

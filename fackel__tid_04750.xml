@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_04750.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04749.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04751.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Erklärung., in: Fackel Heft 10, Nr. 266, 1908, S. 14-14</title>
+            <title type="iso-date">1908-11-30</title>
+            <title type="id">tid_04750</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">10</title><title type="heft">266</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-10-266_n0014.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/266,014</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Erklärung.</head>
+            <p ana="pr57421">
+<space/>Ein <seg type="insult">Feuilletonkritiker der <seg ana="‚Neuen Freien Presse‘"/></seg> hat kürzlich<lb/>
+die folgende Behauptung aufgestellt:<lb/>
+</p>
+            <p ana="pr57423">
+<space/>»<QUOTE rn="1" sourceID="FK-10-266_n0014_a">Wir wissen hierzulande genau, was wir <rs type="pers" ana="n_43570" ref="#fk__p_45908">Hermann <seg type="spc">Bahr</seg></rs> verdanken,<lb/>
+die Jugend vor allem weiß es. Und in der Tat, die literarische Jugend<lb/>
+Österreichs verdankt ihm mehr, als der einzelne zugeben kann und<lb/>
+wird. Wir alle, die wir in Österreich schreiben und die Vierzig noch<lb/>
+nicht überschritten haben, sind ein bißchen durch die Schule dieses<lb/>
+unruhigen, aber geistreichen Schriftstellers gegangen.</QUOTE>«<lb/>
+</p>
+            <p ana="pr57425">
+<space/>Ich nicht! Ich habe geschwänzt! <rs type="pers" ana="n_43571" ref="#fk__p_47565"><AUCTOR><seg type="spc">Karl Kraus</seg></AUCTOR></rs>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_47565">
+               <persName>Kraus, Karl</persName>
+               <birth>
+                  <date>1874-4-28</date>
+                  <place>Jicin, Böhmen</place>
+               </birth>
+               <death>
+                  <date>1936-6-12</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Publizist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11988</idno></person>
+            <person xml:id="fk__p_45908">
+               <persName>Bahr, Hermann</persName>
+               <birth>
+                  <date>1863-7-19</date>
+                  <place>Linz</place>
+               </birth>
+               <death>
+                  <date>1934-1-15</date>
+                  <place>München</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Kritiker</occupation>
+               <note type="comment">Ögg teilt auch 307/52, 445/49, 800/67 (Rotte Korah) Bahr zu</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10815</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00397.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00396.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00398.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ein Beitrag zur Geschichte der zionistischen Bewegung., in: Fackel Heft 01, Nr. 016, 1899, S. 23-24</title>
+            <title type="iso-date">1899-09-01</title>
+            <title type="id">tid_00397</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">016</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-016_n0023.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/016,023</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ein Beitrag zur Geschichte der zionistischen Bewegung.</head>
+            <p ana="pr3646">
+<space/>Am <date>17. October 1894</date> plaudert <seg type="insult">Herr <rs type="pers" ana="n_2577" ref="#fk__p_41891">Theodor<lb/>
+<seg type="spc">Herzl</seg></rs></seg> in der ‚<rs type="paper" ana="werk_950">Neuen Freien Presse</rs>‘ über »Pariser<lb/>
+Theater«. Er bringt eine Revue älterer Stücke und bespricht<lb/>
+ <foreign xml:lang="fr">»<rs type="title">Femme de <rs type="pers">Claude</rs></rs>«</foreign>, ein Drama des <rs type="pers" ana="n_2578" ref="#fk__p_47292">jüngeren<lb/>
+Dumas</rs>, das damals im <rs type="inst">Renaissance-Theater</rs> von <rs type="pers" ana="n_2579" ref="#fk__p_52770">Sarah<lb/>
+Bernhardt</rs> aufgefrischt wurde. <rs type="pers" ana="n_2580" ref="#fk__p_41891">Herzl</rs> charakterisiert<lb/>
+<rs type="pers" ana="n_2581" ref="#fk__p_47292">Dumas’</rs> Sucht, überall <seg type="insult">»Perspectiven«</seg> anzubringen;<lb/>
+auch die Figur <rs type="pers">Daniels</rs>, des Vaters der <rs type="pers">Rebecca</rs>, diene<lb/>
+einer solchen:<lb/>
+</p>
+            <p ana="pr3648">
+<space/>»Das versagende Mittel wird nun zugleich dazu<lb/>
+benützt, einen Ausblick auf die Judenfrage zu eröffnen.<lb/>
+</p>
+            <p ana="pr3648">
+Wieder ein Ausblick; versteht sich, ein falscher. Der<lb/>
+gute Jude <rs type="pers">Daniel</rs> will die Heimat seines Stammes<lb/>
+wiederfinden und seine zerstreuten Brüder heimführen.<lb/>
+Doch gerade ein solcher <rs type="pers">Daniel</rs> weiß, dass den Juden<lb/>
+mit ihrer historischen Heimat nicht mehr gedient wäre.<lb/>
+Es ist kindisch, die geographische Lage dieses Landes<lb/>
+zu suchen. Jeder Schuljunge kennt sie. Und wenn die<lb/>
+Juden wirklich ‚heimkehrten‘, so würden sie am<lb/>
+andern Tag entdecken, dass sie längst nicht mehr zusammengehören<lb/>
+. Sie wurzeln seit Jahrhunderten in<lb/>
+neuen Heimaten, nationalisiert, von einander verschieden<lb/>
+, in einer Charakterähnlichkeit nur durch den<lb/>
+sie überall umgebenden Druck erhalten <seg type="symbol" subtype="4dots"/>«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_52770">
+               <persName>Bernhardt, Sarah</persName>
+               <birth>
+                  <date>1844-10-22</date>
+                  <place>Paris</place>
+               </birth>
+               <death>
+                  <date>1923-3-26</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Schauspielerin</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10899</idno></person>
+            <person xml:id="fk__p_47292">
+               <persName>Dumas, Alexandre (fils)</persName>
+               <birth>
+                  <date>1824-7-27</date>
+                  <place>Paris</place>
+               </birth>
+               <death>
+                  <date>1895-11-27</date>
+                  <place>Merly bei Paris</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_14546</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/15512</idno></person>
+            <person xml:id="fk__p_41891">
+               <persName>Herzl, Theodor</persName>
+               <birth>
+                  <date>1860-5-2</date>
+                  <place>Pest</place>
+               </birth>
+               <death>
+                  <date>1904-7-3</date>
+                  <place>Edlach, Niederösterreich</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11673</idno></person>
+            </listPerson></back></text>
+</TEI>

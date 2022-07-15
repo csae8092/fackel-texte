@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_09203.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09202.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09204.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Zu den „Lustigen Weibern von Windsor“), in: Fackel Heft 24, Nr. 595, 1922, S. 72-72</title>
+            <title type="iso-date">1922-07-01</title>
+            <title type="id">tid_09203</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">24</title><title type="heft">595</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-24-595_n0072.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/595,072</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Zu den „Lustigen Weibern von Windsor“)</head>
+            <p ana="pr122393">
+<space/>Zu den »<rs type="title">Lustigen Weibern von Windsor</rs>«:<lb/>
+</p>
+            <p ana="pr122395">
+<space/><rs type="pers" ana="n_74896" ref="#fk__p_55589">Shakespeares</rs> bestes Lustspiel, ebendeshalb von den Eseln<lb/>
+der <rs type="pers" ana="n_74897" ref="#fk__p_55589">Shakespeare-Kritik</rs> für sein schwächstes gehalten. Denn sie<lb/>
+wissen Bescheid, daß es nur ein <seg type="insult">»Gelegenheitsstück«</seg> zu einer<lb/>
+Windsorhochzeit war. Von allen Kostbarkeiten abgesehen ist hier<lb/>
+die Skizze <rs type="pers">Falstaffs</rs> in <rs type="title"><rs type="pers">Heinrich IV.</rs></rs> zu ganzer, am Schluß fast<lb/>
+tragischer Fülle erwachsen. Nach der Übersetzung <rs type="pers" ana="n_74898" ref="#fk__p_55691">Baudissins</rs> von<lb/>
+mir bearbeitet. Nach dem 2. und 3. Akt je eine Pause.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_55589">
+               <persName>Shakespeare, William</persName>
+               <birth>
+                  <date>1564-4-23?</date>
+                  <place>Stratford-upon-Avon</place>
+               </birth>
+               <death>
+                  <date>1616-4-23</date>
+                  <place>Stratford-upon-Avon</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2412</idno></person>
+            <person xml:id="fk__p_55691">
+               <persName>Baudissin, Wolf Heinrich Graf</persName>
+               <birth>
+                  <date>1789-01-30</date>
+                  <place>Kopenhagen</place>
+               </birth>
+               <death>
+                  <date>1878-04-04</date>
+                  <place>Dresden</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

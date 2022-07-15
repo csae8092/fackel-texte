@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06577.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06576.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06578.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Die Enthüllung des Heine-Denkmals), in: Fackel Heft 15, Nr. 391, 1914, S. 24-24</title>
+            <title type="iso-date">1914-01-01</title>
+            <title type="id">tid_06577</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">15</title><title type="heft">391</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-15-391_n0024.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/391,024</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Die Enthüllung des Heine-Denkmals)</head>
+            <p ana="pr89101">
+<space/>In Frankfurt ist gottlob das <rs type="pers" ana="n_60896" ref="#fk__p_45715">Heine-Denkmal</rs> enthüllt<lb/>
+worden. Selbstredend sinnig und stimmungsvoll. Nun wird<lb/>
+Ruh sein.<lb/>
+</p>
+            <p ana="pr89103">
+<space/><rs type="pers" ana="n_60897" ref="#fk__p_51206">Paul Fulda</rs>, ein Bruder des Dichters <rs type="pers" ana="n_60898" ref="#fk__p_49290">Ludwig Fulda</rs>, feierte bei<lb/>
+der heutigen Denkmalenthüllung namens der <rs type="inst">Freien Literarischen<lb/>
+Gesellschaft</rs> den Dichter <rs type="pers" ana="n_60899" ref="#fk__p_45715">Heine</rs>.<lb/>
+</p>
+            <p ana="pr89105">
+<space/>Wie, es gibt deren zwei? Das ist praktisch, aber es wäre<lb/>
+mehr im Sinne <rs type="pers" ana="n_60900" ref="#fk__p_45715">Heines</rs> gewesen, wenn <seg type="insult">der <rs type="pers" ana="n_60901" ref="#fk__p_49290">Ludwig Fulda</rs></seg><lb/>
+selbst gesprochen hätte.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_45715">
+               <persName>Heine, Heinrich</persName>
+               <birth>
+                  <date>1797-12-13</date>
+                  <place>Düsseldorf</place>
+               </birth>
+               <death>
+                  <date>1856-2-17</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Journalist</occupation>
+               <note type="comment">Ögg separiert F 24/25 </note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11640</idno></person>
+            <person xml:id="fk__p_51206">
+               <persName>Fulda, Paul</persName>
+               <birth>
+                  <date>1865-7-6</date>
+                  <place>Frankfurt am Main</place>
+               </birth>
+               <death>
+                  <date>1920-2-21</date>
+                  <place>Wiesbaden</place>
+               </death>
+               <note type="comment">Frankfurt am Main 1914, Freie Literarische Gesellschaft</note>
+               <note type="comment">Ludwig Fulda, Briefwechsel 1882-1939. Zeugnisse des lit. Lebens, Bd. 2, </note>
+            </person>
+            <person xml:id="fk__p_49290">
+               <persName>Fulda, Ludwig</persName>
+               <birth>
+                  <date>1862-7-15</date>
+                  <place>Frankfurt/Main</place>
+               </birth>
+               <death>
+                  <date>1939-3-30</date>
+                  <place>Berlin</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Übersetzer</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11391</idno></person>
+            </listPerson></back></text>
+</TEI>

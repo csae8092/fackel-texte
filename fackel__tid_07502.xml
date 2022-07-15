@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07502.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07501.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07503.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Das ist mein Wien, die Stadt der Lieder, in: Fackel Heft 18, Nr. 437, 1916, S. 95-96</title>
+            <title type="iso-date">1916-11-01</title>
+            <title type="id">tid_07502</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">18</title><title type="heft">437</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-18-437_n0095.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/437,095</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Das ist mein Wien, die Stadt der Lieder</head>
+            <p ana="pr100597">
+<space/>Das <seg type="insult"><rs type="perRef" ana="werk_20852">Witzblatt</rs></seg>, dessen <seg type="insult">fachlicher Humor</seg> <seg type="insult">die so zeitgemäße<lb/>
+Verbindung von Dreck und Feuer</seg> ist, bringt von einem seiner<lb/>
+<seg type="insult">Handwerker</seg> eine Karikatur der <rs type="pers" ana="n_65878" ref="#fk__p_48082">Königin von Rumänien</rs> und von<lb/>
+einem seiner <seg type="insult">Mundwerker</seg> den Text dazu:<lb/>
+</p>
+            <p ana="pr100599">
+<space/>»Ich lasse mich grundsätzlich mit Lilien photographieren. Die<lb/>
+geben einen prachtvollen Kontrast zu meinem politischen und<lb/>
+<seg type="spc">sexualen Leben</seg>.«<lb/>
+</p>
+            <p ana="pr100601">
+<space/>Keine Hundspeitsche würde sich auf <seg type="insult">solches Niveau</seg> herablassen<lb/>
+ wollen. Das muß auch der einfachste Mann an der Front<lb/>
+zugeben, dem bis dahin die Unterscheidung von <seg type="insult">Humor</seg> und<lb/>
+<seg type="insult">Niedrigkeit</seg> noch nicht in allen Fällen geglückt wäre. Denn die<lb/>
+<seg type="insult">Gemeinheit</seg> besteht nicht in ihr selbst, sondern in der Bereitschaft,<lb/>
+sie auszusprechen, wenn es infolge einer politischen Wendung<lb/>
+erlaubt ist und die Neutralität eines Staates die Beschmutzung seiner<lb/>
+Königin nicht mehr verbietet.<lb/>
+</p>
+            <p ana="pr100602">
+<CENSORED/>Daß sie <seg type="insult">die wehrlosen Ortsgenossen<lb/>
+ dieser Schande</seg> gewesen sind! <seg type="insult">Diese ehrvergessene Stadt</seg>,<lb/>
+die die <seg type="insult">Auswucherung ihres heiligen <rs type="pers" ana="n_65879" ref="#fk__p_43574">Schubert</rs> durch Operettenkonsortien<lb/>
+</seg> zuläßt und unterstützt und schon darum allein Pest<lb/>
+und Bomben verdient hat; die <seg type="insult">einem <RS pers="Alice Schalek" globID="name_201472">leichenphotographierenden<lb/>
+Weib</RS></seg> in den Konzertsaal nachläuft und es zwar schicklich findet,<lb/>
+daß <seg type="insult">die »alleinstehende Frau«</seg> an die Isonzofront, aber unschicklich,<lb/>
+daß sie ins Kaffeehaus geht; die <seg type="insult">ihre Zahlkellner, ihre wahrsten<lb/>
+Kulturrepräsentanten</seg> beauftragt, in der <seg type="insult">Epoche der Truppentransporte</seg><lb/>
+den Mangel an »Herrenbegleitung« zu beanstanden — <seg type="insult">dieses Wien</seg><lb/>
+ist offenbar von einem Dämon dazu verdammt worden, nicht<lb/>
+unterzugehen, sondern im Gegenteil täglich sich selbst zu ertragen,<lb/>
+sich hören zu müssen, sich sehen zu müssen, und <seg type="insult">die bitterste aller<lb/>
+Schickungen</seg> durchzuhalten — sein eigenes Dasein!<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_43574">
+               <persName>Schubert, Franz Peter</persName>
+               <birth>
+                  <date>1797-1-31</date>
+                  <place>Wien-Lichtenthal</place>
+               </birth>
+               <death>
+                  <date>1828-11-19</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Komponist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12729</idno></person>
+            <person xml:id="fk__p_48082">
+               <persName>Marie Alexandra, Königin von Rumänien, geb. Sachsen-Coburg-Gotha</persName>
+               <birth>
+                  <date>1875-10-29</date>
+                  <place>Eastwell Park/Großbritannien</place>
+               </birth>
+               <death>
+                  <date>1938-7-18</date>
+                  <place>Sinaia/Rumänien</place>
+               </death>
+               <note type="comment">Ögg teilt 437/95 dem König Ferdinand zu</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

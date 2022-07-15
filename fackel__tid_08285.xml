@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_08285.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08284.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08286.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ein sonderbarer Schwärmer, in: Fackel Heft 20, Nr. 474, 1918, S. 142-143</title>
+            <title type="iso-date">1918-05-01</title>
+            <title type="id">tid_08285</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">20</title><title type="heft">474</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-20-474_n0142.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/474,142</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ein sonderbarer Schwärmer</head>
+            <p ana="pr109432">
+<seg type="insult">Der <rs type="pers" ana="n_68677" ref="#fk__p_51724">Prinz Max von Baden</rs></seg> zu <seg type="insult">einem Vertreter des <rs type="inst"><rs type="pers" ana="n2_6162" ref="#fk__p_59343">Wolff</rs></rs></seg>:<lb/>
+</p>
+            <p ana="pr109434">
+<space/><rs type="pers" ana="n_68678" ref="#fk__p_54273">Trotzky</rs> proklamiert ein Weltenschicksal, das er herbeiführen<lb/>
+will. Gegen Ideen muß man auch mit Ideen kämpfen. Gewiß, wir<lb/>
+kämpfen für unser Dasein und unsere wirtschaftlichen Entwicklungsmöglichkeiten<lb/>
+. Aber der Gedanke der Selbsterhaltung, wenn er allein<lb/>
+steht, läßt große menschliche Kraftquellen unerschlossen. Wir müssen<lb/>
+der <seg type="insult">Weltunordnung <rs type="pers" ana="n_68679" ref="#fk__p_54273">Trotzkys</rs></seg>, die die Freiheit zerstört, <seg type="spc">eine<lb/>
+Weltordnung entgegensetzen</seg>, <seg type="spc">die die Freiheit<lb/>
+schützt</seg>. <seg type="spc">Deutschland soll es getrost bekennen</seg>,<lb/>
+<seg type="spc">daß es das Glück und das Recht anderer Völker<lb/>
+in seinen nationalen Willen aufnimmt</seg>. Unser Name<lb/>
+darf <seg type="spc">nicht nur</seg> innerhalb unserer Grenzen <seg type="spc">einen guten<lb/>
+Klang haben</seg>. Alle großen Nationen müssen einen Weltzustand<lb/>
+anstreben, wo ihr <choice><sic>Namen</sic><corr>Name</corr></choice> mit Furcht und Hoffnung überall dort<lb/>
+genannt wird, wo Unrecht geschieht. Hier darf Deutschland nicht<lb/>
+auf die moralische Weltgeltung verzichten. <seg type="spc">Das hieße einen<lb/>
+Verzichtfrieden anstreben</seg>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_59343">
+               <persName>Wolff'sches Telegraphisches Bureau</persName>
+               <note type="comment">Nachrichten-Agentur</note>
+               <note type="comment">Gründer Bernhard Wolff (Berlin 3.3.1811-ebd. 11.5.1879), verk. das Büro 1864</note>
+            </person>
+            <person xml:id="fk__p_54273">
+               <persName>Trotzkij, Lew Davidowitsch</persName>
+               <birth>
+                  <date>1879-11-7</date>
+                  <place>Janowka/Ukraine</place>
+               </birth>
+               <death>
+                  <date>1940-8-21</date>
+                  <place>Coyoacán/Mexico City</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <note type="comment">759/46 Piscator ließ den Spiegelberg in Trotzkij-Maske auftreten</note>
+            </person>
+            <person xml:id="fk__p_51724">
+               <persName>Max Alexander Friedrich Wilhelm, Prinz von Baden</persName>
+               <birth>
+                  <date>1867-07-10</date>
+                  <place>Baden-Baden</place>
+               </birth>
+               <death>
+                  <date>1929-11-06</date>
+                  <place>Salem</place>
+               </death>
+               <occupation>Politiker</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

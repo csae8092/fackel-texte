@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07576.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07575.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07577.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Fröhliche Operationen, in: Fackel Heft 18, Nr. 445, 1234, S. 24-24</title>
+            <title type="iso-date">1234-01-01</title>
+            <title type="id">tid_07576</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">18</title><title type="heft">445</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-18-445_n0024.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/445,024</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Fröhliche Operationen</head>
+            <p ana="pr101879">
+<space/><seg type="symbol" subtype="3dots"/> Über den Osten und den Westen ist gesprochen worden. Bleibt<lb/>
+nur noch der rumänische Kriegsschauplatz. Der Generalfeldmarschall<lb/>
+äußert:<lb/>
+</p>
+            <p ana="pr101880">
+<space/>»In Siebenbürgen geht es ausgezeichnet. Die Rumänen gehen zurück<lb/>
+und bekommen ihren Zahltag. Ich habe übrigens ihr Losgehen mit Freude<lb/>
+begrüßt. Denn ihnen ist es zu danken, daß wir aus dem Stellungskrieg<lb/>
+herausgekommen sind und wieder einmal zu frischen, <seg type="spc">fröhlichen<lb/>
+Operationen</seg> haben übergehen können.«<lb/>
+</p>
+            <p ana="pr101882">
+<space/>Das soll <rs type="pers" ana="n_66052" ref="#fk__p_55030">Hindenburg</rs> <seg type="insult">dem <rs type="pers" ana="n_66053" ref="#fk__p_51209">Paul Goldmann</rs></seg> gesagt haben, der<lb/>
+es einer <seg type="insult">Welt</seg> erzählt, in der alle fröhlich sind, die an Operationen<lb/>
+nicht teilnehmen müssen.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_55030">
+               <persName>Beneckendorff-Hindenburg, Paul von</persName>
+               <birth>
+                  <date>1847-10-2</date>
+                  <place>Posen</place>
+               </birth>
+               <death>
+                  <date>1934-8-2</date>
+                  <place>Neudeck</place>
+               </death>
+               <occupation>Offizier</occupation>
+               <occupation>Politiker</occupation>
+               <note type="comment">Reichspräsident seit 1925</note>
+            </person>
+            <person xml:id="fk__p_51209">
+               <persName>Goldmann, Paul</persName>
+               <birth>
+                  <date>1865-1-31</date>
+                  <place>Breslau</place>
+               </birth>
+               <death>
+                  <date>1935-9-25</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11485</idno></person>
+            </listPerson></back></text>
+</TEI>

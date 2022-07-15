@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00060.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00059.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00061.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">N., in: Fackel Heft 01, Nr. 004, 1899, S. 26-27</title>
+            <title type="iso-date">1899-05-01</title>
+            <title type="id">tid_00060</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">004</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-004_n0026.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/004,026</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>N.</head>
+            <p ana="pr818">
+<space/><seg type="sidehead"><rs type="pers" ana="n_714" key="#fk__p_59430"><seg type="i"><abbr>N.</abbr></seg></rs></seg> Sie schreiben: »Eine <seg type="insult"><RS pers="Annie Kalmar"><rs type="pers" ana="name_202018" ref="#fk__p_38313">Venus</rs></RS></seg> ist deshalb <seg type="insult">noch kein Talent</seg>«.<lb/>
+Das ist ein Axiom, das jeder bedingungslos hinnehmen muss. Nur den<lb/>
+Verdächtigungen möchte ich widersprechen, die Sie daran zu knüpfen<lb/>
+sich erlauben. So kann nur eine geärgerte Collegin schreiben, die sich<lb/>
+vermuthlich mehr über die andere unbestreitbare Wahrheit kränkt, dass<lb/>
+nämlich »<seg type="insult"><seg type="spc">keine</seg> <rs type="pers">Venus</rs></seg> deshalb <seg type="insult">auch noch kein Talent</seg>« ist. Ich will<lb/>
+Ihnen also rasch mittheilen, dass einst ein sicheres Fräulein <rs type="pers" ana="n_716" ref="#fk__p_39911"><seg type="spc">Wolter</seg></rs><lb/>
+</p>
+            <p ana="pr818">
+Solodame am <rs type="inst"><rs type="pers" ana="n2_58" ref="#fk__p_57640">Carltheater</rs></rs> war und dass der Blick der Leute nur an<lb/>
+ihrer bekannten Schönheit haften blieb. »So schön und so talentlos!«<lb/>
+riefen damals <seg type="insult">alle Theatersachverständigen</seg> <seg type="symbol" subtype="3dots"/> Noch eines ersuche ich<lb/>
+<seg type="insult">Sie und die Leute Ihresgleichen</seg> zur Kenntnis zu nehmen: die <RS pers="Annie Kalmar" globID="name_203944">Dame</RS>,<lb/>
+der <seg type="insult">Ihre ganze Missgunst</seg> gilt <choice><sic>nnd</sic><corr>und</corr></choice> mit deren Lob ich nach Ihrer<lb/>
+Meinung ein Unrecht an der Theatermenschheit begangen habe,<lb/>
+kenne ich <seg type="spc">nicht</seg> persönlich und habe <seg type="spc">nie</seg> mit ihr ein Wort gesprochen<lb/>
+. Sonst bin ich mit einer Anzahl von Schauspielern und<lb/>
+Schauspielerinnen persönlich bekannt, was aber die Unabhängigkeit<lb/>
+meines Urtheils nie tangiert hat. Man müsste in <rs type="title">Wolkenkuckucksheim</rs><lb/>
+leben, wollte man sich kritisch nur mit Leuten befassen, mit denen<lb/>
+man nie zusammentrifft. Freilich wäre es am unverdächtigsten, die<lb/>
+Nummern der »<rs type="self" ana="werk_39941">Fackel</rs>« mit Polemiken gegen <seg type="insult">unbekannte, wenn auch<lb/>
+tobsüchtige Briefschreiber</seg> auszufüllen; aber auf die Dauer würde<lb/>
+dies den Leser nicht minder als den Herausgeber ermüden.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_38313">
+               <persName>Kalmar, Annie</persName>
+               <birth>
+                  <date>1877-09-14</date>
+                  <place>Frankfurt</place>
+               </birth>
+               <death>
+                  <date>1901-05-03</date>
+                  <place>Hamburg</place>
+               </death>
+               <occupation>Schauspielerin</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/19039</idno></person>
+            <person xml:id="fk__p_57640">
+               <persName>Carl, Carl</persName>
+               <birth>
+                  <date>1789-11-7</date>
+                  <place>Krakau</place>
+               </birth>
+               <death>
+                  <date>1854-8-14</date>
+                  <place>Bad Ischl</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <occupation>Regisseur</occupation>
+               <occupation>Theaterleiter</occupation>
+               <note type="comment">Ögg: Freiherr von Bernbrunn</note>
+            </person>
+            <person xml:id="fk__p_39911">
+               <persName>Wolter, Charlotte</persName>
+               <birth>
+                  <date>1834-3-1</date>
+                  <place>Köln</place>
+               </birth>
+               <death>
+                  <date>1897-6-14</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schauspielerin</occupation>
+               <note type="comment">ab 1863 (Debut 1862) am Burgth.</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/13166</idno></person>
+            </listPerson></back></text>
+</TEI>

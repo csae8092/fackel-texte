@@ -1,0 +1,93 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01588.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01587.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01589.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Zwei Kunstkritiker., in: Fackel Heft 02, Nr. 067, 1901, S. 22-23</title>
+            <title type="iso-date">1901-02-01</title>
+            <title type="id">tid_01588</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">067</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-067_n0022.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/067,022</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Zwei Kunstkritiker.</head>
+            <p ana="pr15693">
+<seg ana="Fremdenblatt, 30. Jänner"/>:<lb/>
+</p>
+            <p ana="pr15695">
+<space/>Sie ist zunächst wegen der<lb/>
+wilden dunklen Haarmasse gemacht<lb/>
+, für die sich dem Künstler<lb/>
+ein besonders üppig gemischter,<lb/>
+tiefdunkler <seg type="spc">Marmor</seg> bot. <OMED>— — —</OMED><lb/>
+Keine naturgetreue Bemalung oder<lb/>
+Färbelung, die den Stein hinwegtäuschen<lb/>
+ würde. Im Gegentheil.<lb/>
+Sind ja doch in die Pupillen sogar<lb/>
+ <seg type="spc">Smaragde</seg> eingesetzt, deren<lb/>
+Innenseite so geschliffen ist, dass<lb/>
+ein seltsames Phosphorescieren<lb/>
+von ihnen ausgeht. <OMED>— — — —</OMED><lb/>
+</p>
+            <p ana="pr15697">
+<seg ana="Wiener Abendpost, 29. Jänner"/>:<lb/>
+</p>
+            <p ana="pr15699">
+<space/>Der Haarwald, die gefesselte<lb/>
+Mähne mit Knopf und Schopf ist<lb/>
+aus bräunlichem <seg type="spc">Jaspis</seg> hergestellt<lb/>
+, aufgesetzt, und die Draperie<lb/>
+aus <seg type="spc">fast</seg> ebensolchem Gestein,<lb/>
+nur mit einem leichten grün-goldigen<lb/>
+ Anflug. <OMED>— — — —</OMED> Der<lb/>
+Künstler hat die Pupille mit<lb/>
+<seg type="spc">Perlmutter</seg> ausgelegt und die<lb/>
+schwarzen Wimpern, die hohen<lb/>
+Brauenbogen, die staunend sich<lb/>
+wölben, hinzugemalt. <OMED>— — — —</OMED><lb/>
+</p>
+            <p ana="pr15701">
+<space/>Welchem von <seg type="insult">diesen beiden Kennern</seg> soll nun der Leser glauben,<lb/>
+<seg type="insult">Herrn <rs type="pers" ana="n_13091" ref="#fk__p_49299"><seg type="spc">Hevesi</seg></rs></seg> oder <seg type="insult">Herrn <rs type="pers" ana="n_13092" ref="#fk__p_38435"><seg type="spc">Friedmann</seg></rs></seg>? Ich glaube, dem zweiten;<lb/>
+er muss sich auf Steine verstehen. <seg type="insult">Herr <rs type="pers" ana="n_13093" ref="#fk__p_38435">Friedmann</rs></seg> war bis vor<lb/>
+kurzem, wie man erzählt, Juwelier. <seg type="insult">Herr <rs type="pers" ana="n_13094" ref="#fk__p_49299">Hevesi</rs></seg> nicht einmal das.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_49299">
+               <persName>Hevesi, Ludwig</persName>
+               <birth>
+                  <date>1843-12-20</date>
+                  <place>Heves, Ungarn</place>
+               </birth>
+               <death>
+                  <date>1910-2-27</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11687</idno></person>
+            <person xml:id="fk__p_38435">
+               <persName>Friedmann, Armin</persName>
+               <birth>
+                  <date>1863-12-31</date>
+                  <place>Budapest</place>
+               </birth>
+               <death>
+                  <date>1939-5-30</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Feuilleton im NWT</note>
+               <note type="comment">Red. des Österr. Volkskalenders</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/16654</idno></person>
+            </listPerson></back></text>
+</TEI>

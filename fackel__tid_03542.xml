@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03542.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03541.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03543.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Sklavenhälter. (Dienstbotenehre), in: Fackel Heft 05, Nr. 158, 1904, S. 22-22</title>
+            <title type="iso-date">1904-03-30</title>
+            <title type="id">tid_03542</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">05</title><title type="heft">158</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-05-158_n0022.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/158,022</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Sklavenhälter. (Dienstbotenehre)</head>
+            <p ana="pr35223">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="n_30412" key="#fk__p_53383">Sklavenhälter</rs>.</seg></seg></seg> »Kürzlich wurde die Arztensgattin Frau <rs type="pers" ana="n_30413" key="#fk__p_59198"><abbr>H.</abbr></rs> vom<lb/>
+<rs type="inst">Bezirksgerichte Neubau</rs> wegen Ehrenbeleidigung zu einer Geldstrafe<lb/>
+von 40 Kronen verurteilt, weil sie ihr Dienstmädchen <rs type="pers" ana="n_30414" ref="#fk__p_38277">Anna <abbr>F.</abbr></rs><lb/>
+<seg type="insult">‚<seg type="spc">allergemeinste Person</seg>‘</seg> genannt hatte. Als Zeugen wurden die<lb/>
+Stiefkinder der von dem Dienstmädchen geklagten Frau vernommen,<lb/>
+welche die inkriminierten Worte bestätigten. Frau <rs type="pers" ana="n_30415" key="#fk__p_59198"><abbr>H.</abbr></rs> berief gegen<lb/>
+das Urteil. Ein landesgerichtlicher Appellsenat hob gestern das Urteil<lb/>
+auf und fällte einen <seg type="spc">Freispruch</seg>. In der Begründung heißt es, daß<lb/>
+die Frau die aus dem Jahre <date>1809</date> stammende, noch zu Recht bestehende<lb/>
+Dienstbotenordnung nicht überschritten habe, nach welcher eine berechtigte<lb/>
+ <seg type="insult"><seg type="spc">Kritik</seg></seg> des Hausgesindes erlaubt ist.« Demselben Appellsenat<lb/>
+verdanken wir auch den Freispruch <seg type="insult">des Herrn <rs type="pers" ana="n_30416" ref="#fk__p_46891">Gfrorner</rs></seg>. Er tagt unter<lb/>
+dem Vorsitz <seg type="insult">des Herrn Landesgerichtsrates <rs type="pers" ana="n_30417" ref="#fk__p_56490"><seg type="spc">Adamu</seg></rs>. Muh <seg type="symbol" subtype="3dots"/>!</seg><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_38277">
+               <persName>F., Anna</persName>
+               <occupation>Dienstmädchen</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/16064</idno></person>
+            <person xml:id="fk__p_56490">
+               <persName>Adamu, Karl</persName>
+               <birth>
+                  <date>1852-5-6</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1926-11-12</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Richter</occupation>
+               <note type="comment">15., Sechshauserstr. 39</note>
+               <note type="comment">Oberlandesgerichtsrat</note>
+            </person>
+            <person xml:id="fk__p_46891">
+               <persName>Gfrorner, Johann</persName>
+               <birth>
+                  <date>1844?</date>
+               </birth>
+               <death>
+                  <date>1922-2-6?</date>
+               </death>
+               <occupation>Konditor</occupation>
+               <note type="comment">Obmann des Elisabeth-Denkmal-Komités</note>
+               <note type="comment">Sept. 1902 Freispruch für Mörder</note>
+               <note type="comment">1., Sterngasse 3</note>
+               <note type="comment">Friedhof Baumgarten 08.02.1922, P/1155 (bis 07.02.1999)</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

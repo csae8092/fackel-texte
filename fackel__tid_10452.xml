@@ -1,0 +1,45 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_10452.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10451.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10453.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ein Übersehen, in: Fackel Heft 27, Nr. 717, 1926, S. 76-76</title>
+            <title type="iso-date">1926-04-01</title>
+            <title type="id">tid_10452</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">27</title><title type="heft">717</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-27-717_n0076.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/717,076</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ein Übersehen</head>
+            <p ana="pr143720">
+<space/>Das <seg ana="Neue Wiener Tagblatt"/> druckt einen Abschnitt aus<lb/>
+einem Werk von <abbr>Prof.</abbr> <rs type="pers" ana="n_87517" ref="#fk__p_41041">Friedrich Wieser</rs> und hat unterlassen, den<lb/>
+Schlußsatz zu streichen:<lb/>
+</p>
+            <p ana="pr143722">
+Der große geistige Führer wird die Macht der Tagespresse überwinden.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_41041">
+               <persName>Wieser, Friedrich Freiherr von</persName>
+               <birth>
+                  <date>1851-07-10</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1926-07-22</date>
+                  <place>St. Gilgen/OÖ</place>
+               </death>
+               <occupation>Nationalökonom</occupation>
+               <occupation>Politiker</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

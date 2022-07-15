@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06500.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06499.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06501.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Verleihungen und Ernennungen, in: Fackel Heft 15, Nr. 387, 1913, S. 8-9</title>
+            <title type="iso-date">1913-11-01</title>
+            <title type="id">tid_06500</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">15</title><title type="heft">387</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-15-387_n0008.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/387,008</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Verleihungen und Ernennungen</head>
+            <p ana="pr87900">
+<space/>Dem <seg type="ELIDASH">Hausbesitzer</seg> und Realitätenbesitzer <rs type="pers" ana="n_60336" ref="#fk__p_49323">Ludwig Riedl</rs>, Besitzer des <rs type="inst">Café<lb/>
+de l’Europe</rs>, ist das Ritterkreuz des <rs type="inst"><rs type="pers" ana="n2_5320" ref="#fk__p_43514">Franz Josefs-Ordens</rs></rs> verliehen worden.<lb/>
+</p>
+            <p ana="pr87902">
+<space/>Damit erscheint ein altes Unrecht gut gemacht. Peinlich<lb/>
+schon durch den Umstand, daß selbst weniger verdiente Persönlichkeiten<lb/>
+ wie <rs type="pers" ana="n_60337" ref="#fk__p_38335">Anton Bruckner</rs> längst diesen Orden hatten <seg type="symbol" subtype="3dots"/> Jetzt<lb/>
+werde ich Ruhe geben. Ich sag gar nichts mehr. Ich bin befriedigt,<lb/>
+wenn ich sie nur vorübergehen sehe, das <seg type="insult">Frauenzimmer</seg>. Wen denn?<lb/>
+Na wen, was <foreign xml:lang="de-loc">fragen S’</foreign> denn so blöd, <seg type="insult">die <foreign xml:lang="de-loc">fesche</foreign> Austria</seg>! Oh<lb/>
+ich bin ein Prostituiertenfreund, warum sollte ich Ärgernis<lb/>
+nehmen? Diese Austria — ich sage nichts als: tulli —!<lb/>
+<foreign xml:lang="de-loc"><seg type="insult">Diese Austria</seg> — <seg type="insult">ein mudlsauberes Drahdiwaberl überanand</seg>,<lb/>
+schaun’s Ihnen nur die <seg type="insult">Gspaßlaberln</seg> an! Pst, nix red’n —<lb/>
+greif’n! Alles fest mei Liaber, da gibts nix! Das is nicht<lb/>
+a so! Jede Nacht punkt 2 wirds hineingelassen ins <rs type="inst">Café Europe</rs>.</foreign><lb/>
+Was sie bis dahin tut, ist ihre Sache. Erwürgt hat sie noch keiner.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_43514">
+               <persName>Franz Joseph I., Kaiser</persName>
+               <birth>
+                  <date>1830-8-18</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1916-11-21</date>
+                  <place>Wien</place>
+               </death>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15150</idno></person>
+            <person xml:id="fk__p_38335">
+               <persName>Bruckner, Anton</persName>
+               <birth>
+                  <date>1824-9-4</date>
+                  <place>Ansfelden, Oberöst.</place>
+               </birth>
+               <death>
+                  <date>1896-10-11</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Komponist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11024</idno></person>
+            <person xml:id="fk__p_49323">
+               <persName>Riedl, Ludwig</persName>
+               <birth>
+                  <date>1858-12-7</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1919-8-6</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Kaffeehausbesitzer </occupation>
+               <note type="comment">Inh. Café Europe; 1., Stephansplatz 8a (gegenüber dem Riesentor)</note>
+               <note type="comment">Whg.: 18., Ferrogasse 6</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

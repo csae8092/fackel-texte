@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_10500.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10499.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10501.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Unbegrenzte Möglichkeiten, in: Fackel Heft 28, Nr. 726, 1926, S. 44-45</title>
+            <title type="iso-date">1926-06-01</title>
+            <title type="id">tid_10500</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">28</title><title type="heft">726</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-28-726_n0044.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/726,044</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Unbegrenzte Möglichkeiten</head>
+            <p ana="pr145833">
+verdankt <seg type="insult">die deutsche Zeitungssprache und <seg type="ELIDASH">Zeitungsbildung</seg></seg> <seg type="insult">dem<lb/>
+ungarischen Zuzug</seg>. So erwartet das <seg ana="6 Uhr-Blatt"/><lb/>
+</p>
+            <p ana="pr145835">
+daß die ganze <seg type="spc">unleidige</seg> Affäre <seg type="symbol" subtype="2dotsEditor"/> in Bälde beigelegt sein wird.<lb/>
+</p>
+            <p ana="pr145837">
+(Es meint aber nicht die anhängige Untersuchung nach § 98b.)<lb/>
+<seg type="insult">Der <seg ana="‚Tag‘"/></seg>, der außer der ‚<rs type="paper" ana="werk_23847">Stunde</rs>‘ heute <seg type="insult">das elastischeste Deutsch</seg><lb/>
+schreibt, hat eine Sammlung für eine notleidende alte Dame veranstaltet<lb/>
+, die direkt von <rs type="pers" ana="n_88121" ref="#fk__p_43876">Schiller</rs> abstammen soll, und zwar unter<lb/>
+dem Titel<lb/>
+</p>
+            <p ana="pr145839">
+<seg type="spc">Eine Nachkomme</seg> <rs type="pers" ana="n_88122" ref="#fk__p_43876">Friedrich Schillers</rs> in Wien.<lb/>
+</p>
+            <p ana="pr145841">
+Im maskulinen Fall wäre es wohl ein <seg type="insult">Nachkomm</seg>. (Die Sammlung<lb/>
+hat übrigens das stattliche Sümmchen von 280 Schilling ergeben,<lb/>
+und extra hat noch die <rs type="inst">Wiener <rs type="pers" ana="n2_7803" ref="#fk__p_43876">Schiller-Stiftung</rs></rs> 10 Schilling<lb/>
+zugelegt. Besondere Freude habe aber der alten Dame eine Ansichtskarte<lb/>
+ der Frau <rs type="pers" ana="n_88123" ref="#fk__p_42570">Wohlgemuth</rs> gemacht mit ihrem Bild und »mit der<lb/>
+Legende: ‚Am Tage der Aufführung von <rs type="title"><rs type="pers">Maria Stuart</rs></rs> sendet der<lb/>
+Großnichte unseres <rs type="pers" ana="n_88124" ref="#fk__p_43876">Schiller</rs> die Darstellerin der <rs type="pers">Maria Stuart</rs><lb/>
+herzliche Grüße <rs type="pers" ana="n_88125" ref="#fk__p_42570">Else Wohlgemuth</rs>‘«.) Sehr einprägsam ist auch die<lb/>
+Aufschrift:<lb/>
+</p>
+            <p ana="pr145843">
+Die Unvergessenen, die <seg type="spc">noch</seg> am <seg type="spc">alten</seg> <rs type="inst">Burgtheater</rs> gewesen sind.<lb/>
+</p>
+            <p ana="pr145845">
+Aber das ist gar nichts gegen die Erneuerung des Sprachwesens<lb/>
+durch das <seg type="insult"><SPAN norm="Analphabetentum">Analphabetyarentum</SPAN></seg>, an jener Stelle, wo man täglich<lb/>
+<seg type="insult">die interessantesten »Artikeln«</seg> und über ihnen <seg type="insult">die packendsten<lb/>
+»Titeln«</seg> zu lesen bekommt, zum Beispiel:<lb/>
+</p>
+            <p ana="pr145847">
+Ihr <seg type="spc">läßt</seg> den Armen <seg type="spc">Sünder</seg> werden <seg type="symbol" subtype="3dotsEditor"/><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_42570">
+               <persName>Wohlgemuth, Else</persName>
+               <birth>
+                  <date>1881-1-1</date>
+                  <place>Berlin</place>
+               </birth>
+               <death>
+                  <date>1972-5-29</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schauspielerin</occupation>
+               <note type="comment">seit 1. 5. 1910 am Burgth., Ehrenmitglied</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/13149</idno></person>
+            <person xml:id="fk__p_43876">
+               <persName>Schiller, Friedrich von</persName>
+               <birth>
+                  <date>1759-11-10</date>
+                  <place>Marbach am Neckar</place>
+               </birth>
+               <death>
+                  <date>1805-5-9</date>
+                  <place>Weimar</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Mortimer 363/9, 679/69, 912/7 und 912/58 ist von Ögg Shakespeare zugeordnet</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12654</idno></person>
+            </listPerson></back></text>
+</TEI>

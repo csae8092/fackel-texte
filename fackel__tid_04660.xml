@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_04660.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04659.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04661.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Ein Anachronismus), in: Fackel Heft 10, Nr. 251, 1908, S. 25-25</title>
+            <title type="iso-date">1908-04-28</title>
+            <title type="id">tid_04660</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">10</title><title type="heft">251</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-10-251_n0025.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/251,025</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Ein Anachronismus)</head>
+            <p ana="pr53640">
+<space/><seg type="sidehead">(<seg type="insult"><seg type="spc"><seg type="ELIDASH">Hofnachrichten</seg> und Personalnachrichten</seg>.</seg>)</seg> Ein Maler,<lb/>
+der das Hauptverdienst an der künstlerischen Ausgestaltung<lb/>
+ des Festzugs haben wird, wird schon heute<lb/>
+in den Zeitungen Professor genannt. Ein Anachronismus<lb/>
+ also. Hoffentlich werden solche Verstöße gegen<lb/>
+die historische Wahrheit wenigstens bei den Kostümen<lb/>
+ vermieden sein. — Handelsminister <rs type="pers" ana="n_42153" ref="#fk__p_43264">Fiedler</rs> hat<lb/>
+dem <RS pers="Franz Joseph I." globID="name_201517">Kaiser</RS> die Ernennung von acht Ministerialräten<lb/>
+unterbreitet und durch einen Hinweis auf das Jubiläum<lb/>
+ begründet, worauf der Kaiser bemerkte: »<seg type="spc">Ich<lb/>
+glaube</seg>, <seg type="spc">die Herren nützen die Sache zu sehr<lb/>
+für sich aus</seg>. Es sollte etwas für die <seg type="spc">unteren</seg><lb/>
+Rangsklassen geschehen.«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_43264">
+               <persName>Fiedler, Franz</persName>
+               <birth>
+                  <date>1858-12-13</date>
+                  <place>Dwur/Prachatitz</place>
+               </birth>
+               <death>
+                  <date>1925-01-28</date>
+                  <place>Prag</place>
+               </death>
+               <occupation>Jurist</occupation>
+               <occupation>Politiker</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

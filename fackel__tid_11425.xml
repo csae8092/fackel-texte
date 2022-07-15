@@ -1,0 +1,119 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_11425.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11424.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11426.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Le roi s’ennuie, in: Fackel Heft 32, Nr. 838, 1930, S. 64-64</title>
+            <title type="iso-date">1930-09-01</title>
+            <title type="id">tid_11425</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">32</title><title type="heft">838</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-32-838_n0064.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/838,064</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Le roi s’ennuie</head>
+            <p ana="pr166341">
+<space/>Aus den Briefen <rs type="pers" ana="n_99814" ref="#fk__p_43514">Franz Josephs</rs> an seine Mutter:<lb/>
+</p>
+            <p ana="pr166343">
+<space/>»— — Und jetzt sitzen die Brüder mit <rs type="pers" ana="n_99815" ref="#fk__p_56088">Georg (von Sachsen)</rs><lb/>
+seit ½7 Uhr in <rs type="title"><rs type="pers">Torquato Tasso</rs></rs>, <seg type="spc">was</seg> zur 100jährigen Feier des<lb/>
+<seg type="insult"><seg type="spc">Altvaters <rs type="pers" ana="n_99816" ref="#fk__p_46960">Goethe</rs> glorreichen Angedenkens</seg></seg> gegeben<lb/>
+wird. Diese unnütze Feier hätten wir uns hier wohl schenken können,<lb/>
+wir haben <seg type="spc">bessere Sachen und Leute zu feiern</seg>. Das Stück<lb/>
+freut <rs type="pers" ana="n_99817" ref="#fk__p_56088">Georg</rs> sehr, auf mich wirkt es ungeheuer ennuyierend. Ich werde<lb/>
+nur einen Augenblick wegen <rs type="pers" ana="n_99818" ref="#fk__p_56088">Georg</rs> hinfahren, weshalb ich jetzt<lb/>
+schließen muß.«<lb/>
+</p>
+            <p ana="pr166346">
+<space/>»— — Gestern war ich mit <rs type="pers" ana="n_99819" ref="#fk__p_42522">Sisi (Elisabeth)</rs> im »<rs type="title">Sommernachtstraum<lb/>
+</rs>« von <rs type="pers" ana="n_99820" ref="#fk__p_55589">Shakespeare</rs> im <rs type="inst">Burgtheater</rs>. Es war ziemlich langweilig<lb/>
+und ungeheuer dumm. Nur <rs type="pers" ana="n_99821" ref="#fk__p_39009">Beckmann</rs> mit einem Eselskopf ist<lb/>
+amüsant. — —«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46960">
+               <persName>Goethe, Johann Wolfgang von</persName>
+               <birth>
+                  <date>1749-8-28</date>
+                  <place>Frankfurt am Main</place>
+               </birth>
+               <death>
+                  <date>1832-3-22</date>
+                  <place>Weimar</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">890/142f.</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11461</idno></person>
+            <person xml:id="fk__p_42522">
+               <persName>Elisabeth von Österreich, geb. Prinzessin von Bayern</persName>
+               <birth>
+                  <date>1837-12-24</date>
+                  <place>München</place>
+               </birth>
+               <death>
+                  <date>1898-9-10</date>
+                  <place>Genf</place>
+               </death>
+               <occupation>Kaiserin</occupation>
+               <occupation>Königin</occupation>
+            </person>
+            <person xml:id="fk__p_55589">
+               <persName>Shakespeare, William</persName>
+               <birth>
+                  <date>1564-4-23?</date>
+                  <place>Stratford-upon-Avon</place>
+               </birth>
+               <death>
+                  <date>1616-4-23</date>
+                  <place>Stratford-upon-Avon</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2412</idno></person>
+            <person xml:id="fk__p_56088">
+               <persName>Georg I., König von Sachsen</persName>
+               <birth>
+                  <date>1832-8-8</date>
+                  <place>Dresden</place>
+               </birth>
+               <death>
+                  <date>1904-10-15</date>
+                  <place>Pillnitz</place>
+               </death>
+               <occupation>König</occupation>
+               <note type="comment">1902 bis 1904</note>
+            </person>
+            <person xml:id="fk__p_39009">
+               <persName>Beckmann, Friedrich</persName>
+               <birth>
+                  <date>1803-01-13</date>
+                  <place>Breslau</place>
+               </birth>
+               <death>
+                  <date>1866-09-07</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <occupation>Regisseur</occupation>
+               <occupation>Theaterschriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/6192</idno></person>
+            <person xml:id="fk__p_43514">
+               <persName>Franz Joseph I., Kaiser</persName>
+               <birth>
+                  <date>1830-8-18</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1916-11-21</date>
+                  <place>Wien</place>
+               </death>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15150</idno></person>
+            </listPerson></back></text>
+</TEI>

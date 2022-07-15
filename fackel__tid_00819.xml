@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00819.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00818.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00820.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Albert J. Gutmann, kaiserlicher Rath, Musikhändler, katholisch. (Dem Musikhändler Gutmann), in: Fackel Heft 01, Nr. 033, 1900, S. 32-32</title>
+            <title type="iso-date">1900-02-01</title>
+            <title type="id">tid_00819</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">033</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-033_n0032.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/033,032</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Albert J. Gutmann, kaiserlicher Rath, Musikhändler, katholisch. (Dem Musikhändler Gutmann)</head>
+            <p ana="pr7662">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="n_6013" ref="#fk__p_37924">Albert <abbr>J.</abbr> Gutmann</rs>, kaiserlicher Rath, Musikhändler, katholisch.</seg></seg></seg><lb/>
+Eine Schar von Verehrern <rs type="pers" ana="n_6014" ref="#fk__p_38335">Anton <seg type="spc">Bruckners</seg></rs> bittet mich, Sie zu<lb/>
+befragen, wie es mit den Einnahmen aus den Werken des Meisters<lb/>
+steht. Man behauptet, dass zwischen Ihnen und dem allverehrten<lb/>
+Manne ein Vertrag bestanden hat, in dem Sie sich verpflichteten,<lb/>
+nach Deckung der Kosten des Stiches einen bestimmten Antheil —<lb/>
+<rs type="pers" ana="n_6015" ref="#fk__p_38335">Bruckner</rs> hatte ja doch immerhin auch einiges Verdienst an seinen<lb/>
+Werken — dem Componisten zuzuwenden. Und nun heißt es, dass<lb/>
+von den Einnahmen für zwei Symphonieen und ein Streichquintett<lb/>
+weder <rs type="pers" ana="n_6016" ref="#fk__p_38335">Bruckner</rs> bei Lebzeiten noch auch seine rechtlichen Erben,<lb/>
+Bruder und Schwester, bisher einen Kreuzer erhalten haben. Durch<lb/>
+diesen Umstand beunruhigt, wendet sich die Schar der <rs type="pers" ana="n_6017" ref="#fk__p_38335">Bruckner-Verehrer<lb/>
+</rs> nunmehr an Sie, als den einzigen Mann, der heute in der Lage<lb/>
+ist, über den Ertrag der <rs type="pers" ana="n_6018" ref="#fk__p_38335">Bruckner’schen Werke</rs> authentische Auskunft<lb/>
+zu geben. Sie würden sich ein musikhistorisches Verdienst erwerben,<lb/>
+wenn Sie die Oeffentlichkeit, die wenigstens nach dem Tode ihrer<lb/>
+Großen Antheil an deren materiellem Wohlergehen nimmt, darüber<lb/>
+belehren wollten, wie sich die Popularität eines Mannes wie <rs type="pers" ana="n_6019" ref="#fk__p_38335">Bruckner</rs><lb/>
+in Zahlen ausdrücken lässt, und alle Zweifel an der Ertragfähigkeit<lb/>
+eines musikalischen Genius verscheuchten. Dass es nicht <seg type="insult">»<rs type="pers" ana="n_6020" ref="#fk__p_51167">Patti-Preise</rs>«</seg><lb/>
+sind, auf die er Anspruch hat, ist man ja längst gewöhnt, mit<lb/>
+Resignation hinzunehmen.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_51167">
+               <persName>Patti, Adelina</persName>
+               <birth>
+                  <date>1843-2-10</date>
+                  <place>Madrid</place>
+               </birth>
+               <death>
+                  <date>1919-9-27</date>
+                  <place>Craig-y-Nos Castle, Wales</place>
+               </death>
+               <occupation>Sängerin</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/22381</idno></person>
+            <person xml:id="fk__p_37924">
+               <persName>Gutmann, Albert Ignaz</persName>
+               <birth>
+                  <date>1851-6-20</date>
+                  <place>Fürth/Nürnberg</place>
+               </birth>
+               <death>
+                  <date>1915-3-7</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Konzertagent</occupation>
+               <occupation>Musikalienhändler</occupation>
+               <note type="comment">1., Elisabethstr. 6 (= Opernring 5)</note>
+               <note type="comment">verh. mit Bertha Sigmann, geb. 1864? oder 1858?</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2185</idno></person>
+            <person xml:id="fk__p_38335">
+               <persName>Bruckner, Anton</persName>
+               <birth>
+                  <date>1824-9-4</date>
+                  <place>Ansfelden, Oberöst.</place>
+               </birth>
+               <death>
+                  <date>1896-10-11</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Komponist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11024</idno></person>
+            </listPerson></back></text>
+</TEI>

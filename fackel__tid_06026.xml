@@ -1,0 +1,110 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06026.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06025.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06027.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Astronomie, in: Fackel Heft 14, Nr. 363, 1912, S. 62-63</title>
+            <title type="iso-date">1912-12-01</title>
+            <title type="id">tid_06026</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">14</title><title type="heft">363</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-14-363_n0062.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/363,062</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Astronomie</head>
+            <p ana="pr81413">
+Weihnachts-Bücher<lb/>
+<lb/>
+aus dem Lager der<lb/>
+<rs type="inst">Buchhandlung <rs type="pers" ana="n2_4987" ref="#fk__p_46331">Heller</rs></rs><lb/>
+</p>
+            <p ana="pr81414">
+<rs type="title"><B>Das große deutsche Dreigestirn</B></rs><lb/>
+literarischer Neuerscheinungen am Weihnachtshimmel des Jahres <date>1912</date><lb/>
+</p>
+            <p ana="pr81415">
+<seg type="symbol" subtype="*"/><lb/>
+<rs type="pers" ana="n_56924" ref="#fk__p_44354">Hauptmann</rs><lb/>
+</p>
+            <p ana="pr81416">
+<seg type="symbol" subtype="*"/><lb/>
+<rs type="pers" ana="n_56925" ref="#fk__p_38500">Schnitzler</rs><lb/>
+</p>
+            <p ana="pr81417">
+<seg type="symbol" subtype="*"/><lb/>
+<rs type="pers" ana="n_56926" ref="#fk__p_43433">Wedekind</rs><lb/>
+</p>
+            <p ana="pr81419">
+<space/><rs type="pers">Hannele</rs> hat sich das anders geträumt. <rs type="pers">Lulu</rs> sagt: »Ich weiß<lb/>
+nicht.« <rs type="pers" ana="n_56927" ref="#fk__p_44354">Hauptmann</rs> verzeiht. <rs type="pers" ana="n_56928" ref="#fk__p_43433">Wedekind</rs> sagt: »<SPAN norm="Verdammt">Vrrrdammt</SPAN>! Das<lb/>
+</p>
+            <p ana="pr81419">
+ist genau das entgegengesetzte Gegenteil von dem, was ich mir<lb/>
+immer gedacht habe <seg type="symbol" subtype="3dots"/>« <seg type="insult">Eine schöne Bescherung!</seg> Wenn man<lb/>
+mich fragte, ob ich auch dereinst in den <seg type="insult">Weihnachtshimmel</seg><lb/>
+kommen möchte, so würde ich sagen: Von Herzen gern. Aber<lb/>
+nicht durch die <seg type="insult">Sterngasse</seg>!<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46331">
+               <persName>Heller, Hugo</persName>
+               <birth>
+                  <date>1870-5-8</date>
+                  <place>Alba, Ungarn</place>
+               </birth>
+               <death>
+                  <date>1923-11-29</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Buchhändler</occupation>
+               <occupation>Verleger</occupation>
+               <note type="comment">Friedhof Sievering 2/12/3/11 (1938 aufgelassen)</note>
+               <note type="comment">Hedwig, 10j. Tochter, 17.3.21 beigesetzt</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11646</idno></person>
+            <person xml:id="fk__p_43433">
+               <persName>Wedekind, Frank</persName>
+               <birth>
+                  <date>1864-7-24</date>
+                  <place>Hannover</place>
+               </birth>
+               <death>
+                  <date>1918-3-9</date>
+                  <place>München</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/13068</idno></person>
+            <person xml:id="fk__p_38500">
+               <persName>Schnitzler, Arthur</persName>
+               <birth>
+                  <date>1862-5-15</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1931-10-21</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Arzt</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2121</idno></person>
+            <person xml:id="fk__p_44354">
+               <persName>Hauptmann, Gerhart</persName>
+               <birth>
+                  <date>1862-11-15</date>
+                  <place>Salzbrunn, Schlesien</place>
+               </birth>
+               <death>
+                  <date>1946-6-6</date>
+                  <place>Agnetendorf</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Ögg teilt die indirekte Stelle 521/64 zu, irrtümlich</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11617</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_08607.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08606.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08608.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Großer Saal des Volksheims (XVI. Koflerpark 7., in: Fackel Heft 21, Nr. 508, 1919, S. 39-39</title>
+            <title type="iso-date">1919-04-01</title>
+            <title type="id">tid_08607</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">21</title><title type="heft">508</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-21-508_n0039.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/508,039</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Großer Saal des Volksheims (XVI. Koflerpark 7.</head>
+            <p ana="pr112934">
+<space/><rs type="inst">Großer Saal des <seg type="spc">Volksheims</seg></rs> (XVI. Koflerpark 7. Über<lb/>
+Einladung der <rs type="inst">Sozialdemokratischen Bezirksorganisation Josefstadt</rs>,<lb/>
+zu Gunsten ihrer Bibliothek), <date>23. März</date>, 3 Uhr:<lb/>
+</p>
+            <p ana="pr112935">
+<space/>I. <rs type="title">Worte <rs type="pers" ana="n2_6311" ref="#fk__p_53452">Kierkegaards</rs></rs> / <rs type="title"><seg type="spc">Zum ewigen Gedächtnis</seg></rs>:<lb/>
+<rs type="title"><seg type="insult"><seg type="spc">Zwei Züge</seg></seg></rs> / <rs type="title">Kriegslied von <rs type="pers" ana="n2_6312" ref="#fk__p_49871">Claudius</rs></rs> / <rs type="title"><seg type="spc">Die Schuldigkeit</seg></rs> /<lb/>
+Aus dem »<rs type="title"><seg type="spc">Nachruf</seg></rs>«: <rs type="title"><seg type="insult">Vom Generalisieren</seg></rs>; <rs type="title">Musterung</rs>.<lb/>
+</p>
+            <p ana="pr112936">
+<space/>II. <rs type="title"><seg type="insult"><seg type="spc">Das Ehrenkreuz</seg></seg></rs> / <rs type="title"><seg type="insult">Zur Darnachachtung</seg></rs> / <rs type="title">Das hätte<lb/>
+ich nicht erfinden können</rs> / <rs type="title"><seg type="insult">Kriegsnamen</seg></rs> / <rs type="title"><seg type="insult">Gedankenleser</seg></rs> / <rs type="title">Getreide<lb/>
+aus der Ukraine</rs> / <rs type="title">Vor Abgang des Zugs</rs> / <rs type="title"><seg type="insult">Verdrossenheit in der<lb/>
+<rs type="inst">Entente</rs></seg></rs> / <rs type="title"><seg type="spc">Die Ballade vom Papagei</seg></rs> / <rs type="title"><seg type="insult"><seg type="spc">Die Kriegsschreiber<lb/>
+ nach dem Krieg</seg></seg></rs>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_53452">
+               <persName>Kierkegaard, Sören</persName>
+               <birth>
+                  <date>1813-5-5</date>
+                  <place>Kopenhagen</place>
+               </birth>
+               <death>
+                  <date>1855-11-11</date>
+                  <place>Kopenhagen</place>
+               </death>
+               <occupation>Philosoph</occupation>
+               <occupation>Theologe</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16839</idno></person>
+            <person xml:id="fk__p_49871">
+               <persName>Claudius, Matthias</persName>
+               <birth>
+                  <date>1740-08-15</date>
+                  <place>Rheinfeld/Holstein</place>
+               </birth>
+               <death>
+                  <date>1815-01-21</date>
+                  <place>Hamburg</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Enkel Hermann Claudius 19.10.1878-8.9.1980, Arbeiterlied "Mit uns zieht die neue Zeit"</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/39422</idno></person>
+            </listPerson></back></text>
+</TEI>

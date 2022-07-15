@@ -1,0 +1,44 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_10508.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10507.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10509.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Wie man’s macht, ist’s nicht recht, in: Fackel Heft 28, Nr. 726, 1926, S. 52-53</title>
+            <title type="iso-date">1926-06-01</title>
+            <title type="id">tid_10508</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">28</title><title type="heft">726</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-28-726_n0052.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/726,052</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Wie man’s macht, ist’s nicht recht</head>
+            <p ana="pr145965">
+<space/>»Ein ganzes <rs type="selfRef" ana="werk_39996">Heft</rs> über <rs type="pers" ana="n_88164" ref="#fk__p_55589">Shakespeare</rs> und kein Wort von dem,<lb/>
+was er vorausgewußt hat!«<lb/>
+</p>
+            <p ana="pr145966">
+<space/>»Ein ganzes <rs type="selfRef" ana="werk_39997">Heft</rs> über das, was er vorausgewußt hat, und<lb/>
+kein Wort von <rs type="pers" ana="n_88165" ref="#fk__p_55589">Shakespeare</rs>!«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_55589">
+               <persName>Shakespeare, William</persName>
+               <birth>
+                  <date>1564-4-23?</date>
+                  <place>Stratford-upon-Avon</place>
+               </birth>
+               <death>
+                  <date>1616-4-23</date>
+                  <place>Stratford-upon-Avon</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2412</idno></person>
+            </listPerson></back></text>
+</TEI>

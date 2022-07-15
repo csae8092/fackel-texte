@@ -1,0 +1,44 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06704.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06703.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06705.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Euch, ihr Götter, gehört der Kaufmann, in: Fackel Heft 15, Nr. 395, 1914, S. 62-63</title>
+            <title type="iso-date">1914-01-01</title>
+            <title type="id">tid_06704</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">15</title><title type="heft">395</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-15-395_n0062.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/395,062</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Euch, ihr Götter, gehört der Kaufmann</head>
+            <p ana="pr90388">
+<space/><seg type="sidehead">[Verhaftung.]</seg> Der Weingroßhändler <rs type="pers" ana="n_61693" key="#fk__p_39124">Bernhard <abbr>D.</abbr></rs>, aus Ungarn<lb/>
+zugereist, wurde heute bei seiner Ankunft in Wien verhaftet und nach<lb/>
+Einvernahme beim Polizeikommissariat dem <rs type="inst">Landesgerichte</rs> eingeliefert.<lb/>
+Gegen den <seg type="spc">Kaufmann</seg> sind in letzter Zeit Strafanzeigen über betrügerische<lb/>
+ Geschäftsabschlüsse eingelaufen. Der Schaden beträgt 40.000 K.<lb/>
+<rs type="pers" ana="n_61694" key="#fk__p_39124"><abbr>D.</abbr></rs> hatte kürzlich auch <seg type="spc">eine Beanständung</seg> wegen Weinverfälschung.<lb/>
+</p>
+            <p ana="pr90390">
+<space/>Aber die <rs type="pers" ana="n_61695" ref="#fk__p_44982">Gräfin Vera Esterhazy</rs>, der das Tagebuch gestohlen<lb/>
+wurde, ist mit vollem Namen genannt worden.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_44982">
+               <persName>Esterházy de Gálantha, Vera Alexandrine Gräfin </persName>
+               <birth>
+                  <date>1889-1-9</date>
+                  <place>Landschütz</place>
+               </birth>
+               <note type="comment">Prozeß um ihr gestohlenes Tagebuch vor März April 1914</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

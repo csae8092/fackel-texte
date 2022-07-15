@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06277.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06276.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06278.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Die Duplizität der Fälle, in: Fackel Heft 15, Nr. 374, 1913, S. 57-57</title>
+            <title type="iso-date">1913-05-01</title>
+            <title type="id">tid_06277</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">15</title><title type="heft">374</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-15-374_n0057.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/374,057</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Die Duplizität der Fälle</head>
+            <p ana="pr84467">
+<space/>(Der Streit zwischen der Witwe und der Tochter <rs type="pers" ana="n_58678" ref="#fk__p_48747">Tolstois</rs>.)<lb/>
+</p>
+            <p ana="pr84469">
+und<lb/>
+</p>
+            <p ana="pr84471">
+<space/>(Der Prozeß der Brüder <rs type="pers" ana="n_58679" ref="#fk__p_54249">Trebitsch</rs>.)<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_54249">
+               <persName>Trebitsch, Siegfried</persName>
+               <birth>
+                  <date>1868-12-22</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1956-6-3</date>
+                  <place>Zürich</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Übersetzer</occupation>
+               <note type="comment">Eltern: Leopold Trebitsch (gest. 12.12.1906) und Malvine, geb. Singer (gest. 8.4.1918)</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_20796</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12968</idno></person>
+            <person xml:id="fk__p_48747">
+               <persName>Tolstoi, Leo Nikolajewitsch</persName>
+               <birth>
+                  <date>1828-9-9</date>
+                  <place>Jasnaja Poljana (Gouv. Tula)</place>
+               </birth>
+               <death>
+                  <date>1910-11-20</date>
+                  <place>Astapowo (Gouv. Tambow)</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_20772</idno></person>
+            </listPerson></back></text>
+</TEI>

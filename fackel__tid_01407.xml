@@ -1,0 +1,126 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01407.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01406.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01408.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Liebe Fackel! (Ein Preisräthsel.), in: Fackel Heft 02, Nr. 059, 1900, S. 28-29</title>
+            <title type="iso-date">1900-11-01</title>
+            <title type="id">tid_01407</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">059</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-059_n0028.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/059,028</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Liebe Fackel! (Ein Preisräthsel.)</head>
+            <lg>
+<l>Preisräthsel: Eine Dame</l>
+<l>sitzt auf <seg type="insult">einem Sessel von <rs type="pers" ana="n_11141" ref="#fk__p_50807">Olbrich-Darmstadt</rs></seg>,</l>
+<l>trägt <seg type="insult">ein Kleid von <rs type="pers" ana="n_11142" ref="#fk__p_54791">Van de Velde-Brüssel</rs></seg>,</l>
+<l><seg type="insult">Ohrgehänge von <rs type="pers" ana="n_11143" ref="#fk__p_48550">Lalique-Paris</rs></seg>,</l>
+<l><seg type="insult">eine Broche von <rs type="pers" ana="n_11144" ref="#fk__p_38525">Ashbee-London</rs></seg>,</l>
+<l>trinkt aus <seg type="insult">einem Glase von <rs type="pers" ana="n_11145" ref="#fk__p_47973">Kolo Moser-Wien</rs></seg>,</l>
+<l>liest in <seg type="insult">einem Buche aus dem Verlage »Insel-München</seg></l>
+<l><seg type="insult"/>, gedruckt mit <seg type="insult">Lettern von <rs type="pers" ana="n_11146" ref="#fk__p_50945">Otto Eckman-Berlin</rs></seg></l>
+<l><seg type="insult"><rs type="pers"/></seg>, verfasst von <seg type="insult"><rs type="pers" ana="n_11147" ref="#fk__p_46353"><SPAN cont="Hoffmansthal-Wien"><choice><sic>Hoffmansthal</sic><corr>Hofmannsthal</corr></choice>-Wien</SPAN></rs></seg>.</l>
+</lg>
+            <p ana="pr13404">
+Welcher Confession gehört die Dame an?<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_54791">
+               <persName>Velde, Henry van de</persName>
+               <birth>
+                  <date>1863-4-3</date>
+                  <place>Antwerpen</place>
+               </birth>
+               <death>
+                  <date>1957-10-25</date>
+                  <place>Zürich</place>
+               </death>
+               <occupation>Architekt</occupation>
+            </person>
+            <person xml:id="fk__p_47973">
+               <persName>Moser, Kolo(man)</persName>
+               <birth>
+                  <date>1868-3-30</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1918-10-18</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Maler</occupation>
+               <occupation>Graphiker</occupation>
+               <occupation>Kunstgewerbler</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/3280</idno></person>
+            <person xml:id="fk__p_50807">
+               <persName>Olbrich, Joseph Maria</persName>
+               <birth>
+                  <date>1867-12-22</date>
+                  <place>Troppau</place>
+               </birth>
+               <death>
+                  <date>1908-08-08</date>
+                  <place>Düsseldorf</place>
+               </death>
+               <occupation>Architekt</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/3368</idno></person>
+            <person xml:id="fk__p_46353">
+               <persName>Hofmannsthal, Hugo Edler von</persName>
+               <birth>
+                  <date>1874-2-1</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1929-7-15</date>
+                  <place>Rodaun bei Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16293</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11740</idno></person>
+            <person xml:id="fk__p_48550">
+               <persName>Lalique, René</persName>
+               <birth>
+                  <date>1860-04-06</date>
+                  <place>Ay/Marne</place>
+               </birth>
+               <death>
+                  <date>1945-05-01</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Goldschmied</occupation>
+            </person>
+            <person xml:id="fk__p_50945">
+               <persName>Eckman, Otto</persName>
+               <birth>
+                  <date>1865-11-19</date>
+                  <place>Hamburg</place>
+               </birth>
+               <death>
+                  <date>1902-06-11</date>
+                  <place>Badenweiler</place>
+               </death>
+               <occupation>Maler</occupation>
+               <occupation>Illustrator</occupation>
+            </person>
+            <person xml:id="fk__p_38525">
+               <persName>Ashbee, Charles-Robert</persName>
+               <birth>
+                  <date>1863-05-17</date>
+                  <place>Isleworth/London</place>
+               </birth>
+               <death>
+                  <date>1942-05-23</date>
+                  <place>Godden Green/Kent</place>
+               </death>
+               <occupation>Architekt</occupation>
+               <occupation>Kunstgewerbler</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

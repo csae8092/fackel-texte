@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00103.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00102.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00104.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Nekrologe.), in: Fackel Heft 01, Nr. 006, 1899, S. 20-21</title>
+            <title type="iso-date">1899-05-01</title>
+            <title type="id">tid_00103</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">006</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-006_n0020.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/006,020</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Nekrologe.)</head>
+            <p ana="pr1250">
+<space/>An dem Tode des Hofschauspielers <seg type="spc"><rs type="pers" ana="n_919" ref="#fk__p_42598">Robert</rs></seg> hat sich wieder<lb/>
+einmal die <seg type="insult">Fixigkeit des journalistischen Apparates</seg> bewährt. <seg type="insult">Die<lb/>
+neue Construction</seg>, die neben <seg type="insult">biographischer Bereitschaft</seg> auch<lb/>
+auf <seg type="insult">Stimmung</seg> und <seg type="insult">zarte Impressionen</seg> bedacht nimmt, hat sich<lb/>
+sehr zweckdienlich erwiesen. Im Laufe des Vormittags langte in Wien<lb/>
+die Trauernachricht ein, und schon in den Abendblättern waren<lb/>
+<seg type="insult">sinnige Beziehungen</seg> zwischen dem Sterben <rs type="pers" ana="n_920" ref="#fk__p_42598">Roberts</rs> und seiner oftgespielten<lb/>
+ Rolle des Sorgenlösers im »<rs type="title">Meister von Palmyra</rs>« geknüpft.<lb/>
+Die <rs type="paper" ana="werk_352">Neue Freie Presse</rs> hatte gar aus sicherer Quelle erfahren, dass<lb/>
+<rs type="pers" ana="n_921" ref="#fk__p_42598">Robert</rs> auch ein »letztes Wort« gesprochen habe.<lb/>
+</p>
+            <p ana="pr1251">
+<space/>Heute gibt es kein <seg type="insult">besseres Bureau</seg> in Wien, das nicht seinen<lb/>
+eigenen <seg type="insult">Stimmungsmenschen</seg> hätte. Einst musste der Setzerlehrling<lb/>
+vor Schreibtischen warten, heute holt er den Redacteur von <seg type="insult">Irrgängen<lb/>
+verlorener Schwermuth</seg> heim. <seg type="insult">Die in der Redactionsconferenz beschlossene<lb/>
+ Empfindsamkeit</seg> gehorcht den Regeln der technischen Herstellung;<lb/>
+was will <seg type="insult">im Auge des Herrn <rs type="pers" ana="n_922" ref="#fk__p_41891"><abbr>Dr.</abbr> Herzl</rs> die einsame Thräne</seg>, wenn<lb/>
+die übrigen schon durch die Druckmaschine rollen? <seg type="symbol" subtype="4dots"/><lb/>
+</p>
+            <p ana="pr1252">
+<space/>Immerhin wird sich noch eine wesentliche Vereinfachung des<lb/>
+Verfahrens erreichen lassen. Schon findet sich in fast allen Nekrologen<lb/>
+für Hofschauspieler der Satz: »Nun er todt ist, bleibt eigentlich<lb/>
+niemand zurück, der jene Traditionen noch vertritt, welche er verkörperte<lb/>
+,« <seg type="insult">alle Feuilletonisten</seg> versichern, wenn <seg type="insult">»der Besten Einer«</seg><lb/>
+gestorben ist, auch »am Grabe des <rs type="inst">Burgtheaters</rs>« zu stehen, und alle<lb/>
+fragen sich, nachdem sie <seg type="insult">eine Handvoll Phrasen</seg> auf den Sarg geworfen<lb/>
+haben: »Was soll noch werden? <seg type="symbol" subtype="4dots"/>« Auch der neue Stil wird<lb/>
+allmählich zu einer <seg type="insult">Clichierung</seg> führen, und die Zeitungsherausgeber<lb/>
+werden sich gegebenenfalls die <seg type="insult">Wehmuth</seg> von einer Localcorrespondenz<lb/>
+ besorgen lassen.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_42598">
+               <persName>Robert, Emerich</persName>
+               <birth>
+                  <date>1847-05-21</date>
+                  <place>Budapest</place>
+               </birth>
+               <death>
+                  <date>1899-05-29</date>
+                  <place>Würzburg</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <note type="comment">Friedhof Hietzing Gr. 19/No. 3</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12534</idno></person>
+            <person xml:id="fk__p_41891">
+               <persName>Herzl, Theodor</persName>
+               <birth>
+                  <date>1860-5-2</date>
+                  <place>Pest</place>
+               </birth>
+               <death>
+                  <date>1904-7-3</date>
+                  <place>Edlach, Niederösterreich</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11673</idno></person>
+            </listPerson></back></text>
+</TEI>

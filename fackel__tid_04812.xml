@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_04812.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04811.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04813.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Eine Zuschrift von Detlev von Liliencron, in: Fackel Heft 10, Nr. 274, 1909, S. 5-6</title>
+            <title type="iso-date">1909-02-27</title>
+            <title type="id">tid_04812</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">10</title><title type="heft">274</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-10-274_n0005.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/274,005</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Eine Zuschrift von Detlev von Liliencron</head>
+            <p ana="pr59312">
+<space/>Einmal las ich in einem Buch von <rs type="pers" ana="n_44290" ref="#fk__p_51379">Peter Altenberg<lb/>
+</rs>, ich glaube es war in »<rs type="title">Wie ich es sehe</rs>«, eine<lb/>
+Stelle, wo ein Nachen durch einen engen, mit Rosen<lb/>
+und Ranken überhangenen Kanal fährt — seitdem<lb/>
+liebe ich <rs type="pers" ana="n_44291" ref="#fk__p_51379">Peter Altenberg</rs>.<lb/>
+</p>
+            <p ana="pr59313">
+<rs type="pers" ana="n_44292" ref="#fk__p_40404"><AUCTOR><seg type="spc">Detlev Baron Liliencron</seg></AUCTOR></rs>.<lb/>
+</p>
+            <p ana="pr59314">
+<space/>Alt-Rahlstedt bei Hamburg, <date>19. 2. 9.</date><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_51379">
+               <persName>Altenberg, Peter</persName>
+               <birth>
+                  <date>1859-3-9</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1919-1-8</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Ögg teilt 531/207 (Nachruf auf Moriz Benedikt) P. A. zu (mit ?)</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2147</idno></person>
+            <person xml:id="fk__p_40404">
+               <persName>Liliencron, Detlev Freiherr von</persName>
+               <birth>
+                  <date>1844-6-3</date>
+                  <place>Kiel</place>
+               </birth>
+               <death>
+                  <date>1909-7-22</date>
+                  <place>Altrahlstedt bei Hamburg</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment"/>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17547</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12071</idno></person>
+            </listPerson></back></text>
+</TEI>

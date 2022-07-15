@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07474.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07473.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07475.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ein Fachmann, in: Fackel Heft 18, Nr. 437, 1916, S. 77-77</title>
+            <title type="iso-date">1916-11-01</title>
+            <title type="id">tid_07474</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">18</title><title type="heft">437</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-18-437_n0077.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/437,077</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ein Fachmann</head>
+            <p ana="pr100341">
+Berlin, <date>16. August</date>.<lb/>
+</p>
+            <p ana="pr100342">
+<space/>Der »<rs type="" ana="werk_20844">Lokalanzeiger</rs>« gibt einen in einer <rs type="perRef" ana="werk_20845">Feldzeitung im Westen</rs><lb/>
+veröffentlichten Brief des Direktors der <rs type="inst">Deutschen Bank</rs>, <rs type="pers" ana="n_65800" ref="#fk__p_38510">Artur von<lb/>
+Gwinner</rs>, an seinen Neffen wieder, der sich mit der Frage der Kriegsanleihe<lb/>
+ befaßt <seg type="symbol" subtype="4dots"/><lb/>
+</p>
+            <p ana="pr100344">
+<space/>Er rät, »den Krieg bis zu einem siegreichen Ende fortzusetzen<lb/>
+«. <seg type="insult">Dieser Goldonkel</seg> scheint ein <rs type="pers" ana="n_65801" ref="#fk__p_38510"><seg type="insult"><SPAN norm="Kriegsgewinner">Kriegsgwinner</SPAN></seg></rs> zu sein.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_38510">
+               <persName>Gwinner, Arthur Philipp Friedrich Wilhelm von</persName>
+               <birth>
+                  <date>1856-04-06</date>
+                  <place>Frankfurt/M.</place>
+               </birth>
+               <death>
+                  <date>1931-12-29</date>
+                  <place>Berlin</place>
+               </death>
+               <occupation>Bankier</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

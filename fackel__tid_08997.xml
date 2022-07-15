@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_08997.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08996.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08998.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Der Zug, in: Fackel Heft 23, Nr. 577, 1921, S. 26-27</title>
+            <title type="iso-date">1921-11-01</title>
+            <title type="id">tid_08997</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">23</title><title type="heft">577</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-23-577_n0026.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/577,026</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Der Zug</head>
+            <p ana="pr120043">
+<space/><seg type="insult">Einem »vorläufig allerdings noch lückenhaften Bild der<lb/>
+Ereignisse«</seg>, das die <seg ana="‚Reichspost‘"/> einem Augenzeugen verdankt,<lb/>
+entnimmt sie:<lb/>
+</p>
+            <p ana="pr120045">
+<space/>Der <seg type="spc">Zug</seg> des Königs von Oedenburg bis Budaörs war <OMED>— —</OMED><lb/>
+ein wahrer <seg type="spc">Triumphzug</seg> gewesen <OMED>— —</OMED> es war <seg type="spc">kein Hofzug</seg>,<lb/>
+sondern ein notdürftig adaptierter <rs type="inst"><seg type="spc">Roter Kreuz-Zug</seg></rs> <OMED>— —</OMED> Der<lb/>
+König befahl den <seg type="spc">Rückzug</seg> <OMED>— —</OMED> Auch der <seg type="spc">Hofzug</seg> des Königs,<lb/>
+den die Gegenseite als solchen erkannt haben mußte, stand unter<lb/>
+Schrapnellfeuer <OMED>— —</OMED> während des Königs Berater <rs type="pers" ana="n_73664" ref="#fk__p_53596">Rakovszky</rs> den<lb/>
+günstigen Augenblick des <FERR href="FK-23-583_n0034.xml" fcorrID="fk_04_fcorr_28805278" id="fk_04_ferr_28805278" emID="fk_04_em_28805281"><ERR fcorr="Einzugs"><seg type="spc">Einzuges</seg></ERR></FERR> nach Budapest ungenützt<lb/>
+verstreichen ließ.<lb/>
+</p>
+            <p ana="pr120047">
+<space/>Es ist also nicht klar, ob der Zug <seg type="insult">ein Triumphzug oder<lb/>
+nur ein Hofzug</seg> war, es ist zweifelhaft, ob es <seg type="insult">ein Einzug oder<lb/>
+nur ein <rs type="inst">Roter Kreuz-Zug</rs></seg> gewesen wäre, aber daß es ein <seg type="insult">Rückzug</seg><lb/>
+war, scheint in <seg type="insult">dem vorläufig allerdings noch lückenhaften Bild<lb/>
+der Ereignisse</seg> doch festzustehn.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_53596">
+               <persName>Rakovszky, Stefan (István) von</persName>
+               <birth>
+                  <date>1858-6-18</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1931-8-12</date>
+                  <place>Budapest</place>
+               </death>
+               <occupation>Politiker</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

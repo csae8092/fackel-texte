@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01935.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01934.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01936.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Personalnachrichten.), in: Fackel Heft 03, Nr. 081, 1901, S. 18-18</title>
+            <title type="iso-date">1901-06-01</title>
+            <title type="id">tid_01935</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">03</title><title type="heft">081</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-03-081_n0018.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/081,018</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Personalnachrichten.)</head>
+            <p ana="pr18916">
+<space/>[<seg type="insult"><seg type="spc">Personal-Nachrichten</seg>.</seg>] Herrn Professor <rs type="pers" ana="n_15898" ref="#fk__p_59231"><seg type="spc">Chiari</seg></rs>, dem seit<lb/>
+mehreren Monaten behandelnden Arzt des erkrankten Hofschauspielers<lb/>
+<rs type="pers" ana="n_15899" ref="#fk__p_43933">Fritz Krastel</rs>, ist es zu danken, dass sein Neffe, Herr <rs type="pers" ana="n_15900" ref="#fk__p_41156"><abbr>Dr.</abbr> <seg type="spc">Hanczel</seg></rs>,<lb/>
+zum II. Assistenten an seiner Klinik ernannt wurde. Herr <rs type="pers" ana="n_15901" ref="#fk__p_41156"><abbr>Dr.</abbr> Hanczel</rs><lb/>
+tritt sein neues Amt am <date>1. September</date> an. — Die Lungenentzündung<lb/>
+des an einem Unterleibstyphus erkrankten Hofschauspielers <rs type="pers" ana="n_15902" ref="#fk__p_43933">Krastel</rs><lb/>
+ist in der Besserung begriffen, so dass nunmehr Hoffnung auf eine<lb/>
+<seg type="spc">vollständige</seg> Wiederherstellung des Künstlers vorhanden ist.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_59231">
+               <persName>Chiari, Ottokar von</persName>
+               <birth>
+                  <date>1853-2-1</date>
+                  <place>Prag</place>
+               </birth>
+               <death>
+                  <date>1918-5-12</date>
+                  <place>Puchberg am Schneeberg</place>
+               </death>
+               <occupation>Laryngologe</occupation>
+               <note type="comment">1., Bellariastr. 12</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/6634</idno></person>
+            <person xml:id="fk__p_43933">
+               <persName>Krastel, Fritz</persName>
+               <birth>
+                  <date>1839-4-6</date>
+                  <place>Mannheim</place>
+               </birth>
+               <death>
+                  <date>1908-2-12</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/8330</idno></person>
+            <person xml:id="fk__p_41156">
+               <persName>Hanszel, Friedrich</persName>
+               <birth>
+                  <date>1869-12-11</date>
+                  <place>Mährisch Schönberg</place>
+               </birth>
+               <death>
+                  <date>1936-2-10</date>
+                  <place>Perchtoldsdorf</place>
+               </death>
+               <occupation>Laryngologe</occupation>
+               <note type="comment">1., Stadiongasse 6</note>
+               <note type="comment">möglicherweise zwischen 1936 und 1938 in Perchtoldsdorf gestorben?</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

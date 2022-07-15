@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01894.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01893.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01895.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Delegierter. (Was der Kaiser bestimmt nicht gesagt hat), in: Fackel Heft 03, Nr. 079, 1901, S. 23-24</title>
+            <title type="iso-date">1901-06-01</title>
+            <title type="id">tid_01894</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">03</title><title type="heft">079</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-03-079_n0023.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/079,023</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Delegierter. (Was der Kaiser bestimmt nicht gesagt hat)</head>
+            <p ana="pr18516">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_15599" key="#fk__p_40351">Delegierter</rs>.</seg></seg> Sie haben es deutlich gehört, wie der <RS pers="Franz Joseph" globID="rs_237">Kaiser</RS> zum<lb/>
+<abbr>Abg.</abbr> <rs type="pers" ana="n_15600" ref="#fk__p_51609">Pommer</rs> sagte: »Jetzt werden Sie auch froh sein, <seg type="spc">nach</seg> Hause<lb/>
+zu kommen«. <seg type="insult">Herr <rs type="pers" ana="n_15601" ref="#fk__p_42591">Mendel Singer</rs></seg> freilich hat den <RS pers="Franz Joseph" globID="rs_238">Kaiser</RS> sagen<lb/>
+lassen: »Jetzt werden Sie auch froh sein, <seg type="spc">zu</seg> Hause zu kommen«. Und<lb/>
+</p>
+            <p ana="pr18516">
+nicht alle Redactionen haben diesmal das Kaiserwort redigiert. Jetzt<lb/>
+lässt also <seg type="insult">irgendein Schmock</seg> den Monarchen nicht nur <seg type="insult">Schmocks<lb/>
+Anerkennung</seg> für eine ausstellende Firma, sondern auch <seg type="insult">Schmocks<lb/>
+Sprache</seg> sprechen. — Dass, wie Sie mir mittheilen, der Exminister<lb/>
+<rs type="pers" ana="n_15602" ref="#fk__p_40762">Baernreither</rs> Arm in Arm mit <rs type="pers" ana="n_15603" ref="#fk__p_42591">Mendel Singer</rs> durch die Couloirs<lb/>
+schreitet, ist gewiss betrübend. Etwas anderes ist es, wenn man <seg type="insult">Herrn<lb/>
+<rs type="pers" ana="n_15604" ref="#fk__p_46888">Chlumecky</rs></seg> und <seg type="insult">den hohen Hausjuden</seg> so gepaart sieht.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46888">
+               <persName>Chlumecký, Johann Freiherr von</persName>
+               <birth>
+                  <date>1834-3-23</date>
+                  <place>Zara</place>
+               </birth>
+               <death>
+                  <date>1924-12-11</date>
+                  <place>Bad Aussee</place>
+               </death>
+               <occupation>Beamter</occupation>
+               <note type="comment">in der Statthalterei, Zensurkompetenz</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_14201</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/14956</idno></person>
+            <person xml:id="fk__p_42591">
+               <persName>Singer, Emanuel (Mendl) Edler von </persName>
+               <birth>
+                  <date>1846-2-23</date>
+                  <place>Bisenz/Mähren</place>
+               </birth>
+               <death>
+                  <date>1929-12-2</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <note type="comment">1912 nobilitiert</note>
+               <note type="comment">N. Wr. Tgbl.</note>
+            </person>
+            <person xml:id="fk__p_40762">
+               <persName>Baernreither, Josef Maria</persName>
+               <birth>
+                  <date>1845-04-12</date>
+                  <place>Prag</place>
+               </birth>
+               <death>
+                  <date>1925-09-19</date>
+                  <place>Teplitz</place>
+               </death>
+               <occupation>Politiker</occupation>
+            </person>
+            <person xml:id="fk__p_51609">
+               <persName>Pommer, Josef</persName>
+               <birth>
+                  <date>1845-02-07</date>
+                  <place>Mürzzuschlag</place>
+               </birth>
+               <death>
+                  <date>1918-11-25</date>
+                  <place>Gröbming</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <occupation>Pädagoge</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

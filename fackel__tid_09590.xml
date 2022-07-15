@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_09590.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09589.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09591.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Anzeige der Auflösung des „Verlags der Schriften von Karl Kraus“), in: Fackel Heft 25, Nr. 632, 1923, S. 84-84</title>
+            <title type="iso-date">1923-10-01</title>
+            <title type="id">tid_09590</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">25</title><title type="heft">632</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-25-632_n0084.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/632,084</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Anzeige der Auflösung des „Verlags der Schriften von Karl Kraus“)</head>
+            <p ana="pr128486">
+<space/>Der »<rs type="inst"><seg type="spc">Verlag der Schriften von <rs type="pers" ana="n2_7108" ref="#fk__p_47565">Karl Kraus</rs></seg></rs>«<lb/>
+(<rs type="inst"><rs type="pers" ana="n2_7109" ref="#fk__p_48414">Kurt Wolff</rs></rs>), München und Leipzig, ist im <date>August</date> aufgelöst<lb/>
+worden und seine Rechte sind auf den <rs type="inst"><seg type="spc">Verlag</seg> ‚<seg type="spc">Die Fackel</seg></rs>‘,<lb/>
+Wien und Leipzig, übergegangen. Die Neuauflagen der vergriffenen<lb/>
+ Werke werden vorbereitet.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_47565">
+               <persName>Kraus, Karl</persName>
+               <birth>
+                  <date>1874-4-28</date>
+                  <place>Jicin, Böhmen</place>
+               </birth>
+               <death>
+                  <date>1936-6-12</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Publizist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11988</idno></person>
+            <person xml:id="fk__p_48414">
+               <persName>Wolff, Kurt</persName>
+               <birth>
+                  <date>1887-3-3</date>
+                  <place>Bonn</place>
+               </birth>
+               <death>
+                  <date>1963-10-21</date>
+                  <place>Ludwigsburg</place>
+               </death>
+               <occupation>Verleger</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10595</idno></person>
+            </listPerson></back></text>
+</TEI>

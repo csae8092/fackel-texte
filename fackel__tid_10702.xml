@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_10702.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10701.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10703.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Übereinstimmung, in: Fackel Heft 28, Nr. 743, 1926, S. 37-38</title>
+            <title type="iso-date">1926-12-01</title>
+            <title type="id">tid_10702</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">28</title><title type="heft">743</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-28-743_n0037.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/743,037</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Übereinstimmung</head>
+            <p ana="pr149038">
+<space/>Die <seg ana="‚Arbeiter-Zeitung‘"/>:<lb/>
+</p>
+            <p ana="pr149040">
+<space/><seg type="symbol" subtype="3dotsEditor"/> Der Herr <rs type="pers" ana="n_89441" ref="#fk__p_40730"><abbr>Dr.</abbr> Rintelen</rs> fühlt sich ja in <seg type="insult">solcher Gesellschaft</seg><lb/>
+wohl. <seg type="insult">Sein Anwalt im Wiener Zeitungswesen</seg> war früher der <rs type="pers" ana="n_89442" ref="#fk__p_46460">Bekessy</rs>;<lb/>
+<seg type="insult">die ganze <rs type="pers" ana="n_89443" ref="#fk__p_40730">Rintelen-Bande</rs></seg> hat mit dem <seg type="insult">Schandkerl</seg> intimsten Umgang<lb/>
+</p>
+            <p ana="pr149040">
+gepflogen, als das Gericht schon seine Erpressungsfakten untersuchte.<lb/>
+Jetzt, da der <rs type="pers" ana="n_89444" ref="#fk__p_46460">Bekessy</rs> seinem <rs type="pers" ana="n_89445" ref="#fk__p_40730">Rintelen</rs> abhanden gekommen ist, hält<lb/>
+sich der <rs type="pers" ana="n_89446" ref="#fk__p_40730">Rintelen</rs> an den <rs type="pers" ana="n_89447" ref="#fk__p_38020">Alexander Weiß</rs>.<lb/>
+</p>
+            <p ana="pr149042">
+<space/>Die <seg ana="‚Stunde‘"/>:<lb/>
+</p>
+            <p ana="pr149044">
+<space/><seg type="symbol" subtype="3dotsEditor"/> Man kann ihm nur vorwerfen, daß er nicht gerade wählerisch<lb/>
+in seinem politischen Umgang war.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_40730">
+               <persName>Rintelen, Anton</persName>
+               <birth>
+                  <date>1876-11-15</date>
+                  <place>Graz</place>
+               </birth>
+               <death>
+                  <date>1946-01-28</date>
+                  <place>Graz</place>
+               </death>
+               <occupation>Politiker</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/39201</idno></person>
+            <person xml:id="fk__p_38020">
+               <persName>Weisz, Alexander</persName>
+               <birth>
+                  <date>1884-10-18</date>
+                  <place>Senica/Slowakei</place>
+               </birth>
+               <occupation>Journalist</occupation>
+               <note type="comment">18., Eckpergasse 26/4/10</note>
+               <note type="comment">Adoptivvater von Friederike Burger-Winternitz-Zweig (Staudacher, Austritte, Seite 91)</note>
+               <note type="comment">"Abend"</note>
+            </person>
+            <person xml:id="fk__p_46460">
+               <persName>Békessy, Imre</persName>
+               <birth>
+                  <date>1887-10-13</date>
+                  <place>Deutschkreuz</place>
+               </birth>
+               <death>
+                  <date>1951-3-15</date>
+                  <place>Budapest</place>
+               </death>
+               <occupation>Zeitungsverleger</occupation>
+               <note type="comment">Wikipedia gibt als Todesdatum an: "vor dem 17. März 1951"</note>
+               <note type="comment">Deutschkreuz</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37843</idno></person>
+            </listPerson></back></text>
+</TEI>

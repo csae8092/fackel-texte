@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_11534.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11533.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11535.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Revanche, in: Fackel Heft 32, Nr. 838, 1930, S. 122-122</title>
+            <title type="iso-date">1930-09-01</title>
+            <title type="id">tid_11534</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">32</title><title type="heft">838</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-32-838_n0122.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/838,122</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Revanche</head>
+            <lg>
+<l><seg type="insult">Herr <rs type="pers" ana="n_100166" ref="#fk__p_53075">Schumy</rs></seg> sprach von <seg type="insult">einem <rs type="pers" ana="n_100167" ref="#fk__p_47565">Karl Kraus</rs></seg>.</l>
+<l>Wie soll ich mich rächen?</l>
+<l>Ich warte, bis die Geschichte aus:</l>
+<l>sie wird von keinem <rs type="pers" ana="n_100168" ref="#fk__p_53075">Schumy</rs> sprechen.</l>
+</lg>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_47565">
+               <persName>Kraus, Karl</persName>
+               <birth>
+                  <date>1874-4-28</date>
+                  <place>Jicin, Böhmen</place>
+               </birth>
+               <death>
+                  <date>1936-6-12</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Publizist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11988</idno></person>
+            <person xml:id="fk__p_53075">
+               <persName>Schumy, Vinzenz</persName>
+               <birth>
+                  <date>1878-07-28</date>
+                  <place>Saak/Nötsch/Kärnten</place>
+               </birth>
+               <death>
+                  <date>1962-12-13</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <note type="comment">Mai-Sept. 1929 Vizekanzler, 1929-1930, 1933 Innenminister</note>
+               <note type="comment">Ögg gibt die Vizekanzler-Stelle 811/27 sowohl Schumy als auch Hartleb!</note>
+               <note type="comment">Vizekanzler Mai-Sept. 1929</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

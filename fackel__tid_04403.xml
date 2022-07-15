@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_04403.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04402.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04404.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Eingeweihter. (Ein Telephongespräch), in: Fackel Heft 08, Nr. 219, 1907, S. 37-38</title>
+            <title type="iso-date">1907-02-22</title>
+            <title type="id">tid_04403</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">08</title><title type="heft">219</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-08-219_n0037.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/219,037</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Eingeweihter. (Ein Telephongespräch)</head>
+            <p ana="pr48065">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="name_202709" ref="#fk__p_42459">Eingeweihter</rs>.</seg></seg></seg> <seg type="insult">Zwei telephonische Gespräche.</seg> »Hier Weihbischof<lb/>
+<rs type="pers" ana="n_38794" ref="#fk__p_56621">Marschall</rs>. Kann ich Ihre kaiserliche Hoheit, die Frau <rs type="pers" ana="n_38795" ref="#fk__p_42943">Erzherzogin Maria<lb/>
+Theresia</rs>, persönlich sprechen?« <seg type="symbol" subtype="2dots"/> »Kaiserliche Hoheit, ich möchte mir<lb/>
+die Erkundigung erlauben, wie es um das Befinden Seiner kaiserlichen<lb/>
+Hoheit, des Herrn <rs type="pers" ana="n_38796" ref="#fk__p_42916">Erzherzogs Otto</rs>, steht.« »‚Es steht schlecht (folgt<lb/>
+genauere Auskunft). Aber, pardon, ich erkenne ja heute Ihre Stimme gar<lb/>
+nicht. Ist dort der Weihbischof <rs type="pers" ana="n_38797" ref="#fk__p_49772">Marschall</rs> persönlich?‘« Rrrr <seg type="symbol" subtype="4dots"/> »Ihre<lb/>
+kaiserliche Hoheit läßt fragen, mit wem sie soeben in telephonischer Verbindung<lb/>
+ war.« Antwort des Telephonamtes: »Mit der Redaktion der ‚<rs type="paper" ana="werk_15260">Zeit</rs>‘«.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_42459">
+               <persName>Eingeweihter</persName>
+            </person>
+            <person xml:id="fk__p_56621">
+               <persName>Marschall, Godfried</persName>
+               <birth>
+                  <date>1840-10-01</date>
+                  <place>Neudorf/Böhmen</place>
+               </birth>
+               <death>
+                  <date>1911-03-23</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Bischof</occupation>
+               <note type="comment">Generalvikar</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/21086</idno></person>
+            <person xml:id="fk__p_49772">
+               <persName>Marschall, Rudolf</persName>
+               <birth>
+                  <date>1873-12-3</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1967-7-24</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Bildhauer</occupation>
+               <occupation>Medailleur</occupation>
+            </person>
+            <person xml:id="fk__p_42916">
+               <persName>Otto Franz Josef, Erzherzog</persName>
+               <birth>
+                  <date>1865-04-21</date>
+                  <place>Graz</place>
+               </birth>
+               <death>
+                  <date>1906-11-01</date>
+                  <place>Wien</place>
+               </death>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_18612</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/22253</idno></person>
+            <person xml:id="fk__p_42943">
+               <persName>Maria Theresia, Erzherzogin</persName>
+               <birth>
+                  <date>1855-8-24</date>
+                  <place>Heubach</place>
+               </birth>
+               <death>
+                  <date>1944-2-12</date>
+                  <place>Wien</place>
+               </death>
+            </person>
+            </listPerson></back></text>
+</TEI>

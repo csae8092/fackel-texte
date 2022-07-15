@@ -1,0 +1,42 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_09591.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09590.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09592.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Anzeige von Wolkenkuckucksheim), in: Fackel Heft 25, Nr. 632, 1923, S. 84-84</title>
+            <title type="iso-date">1923-10-01</title>
+            <title type="id">tid_09591</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">25</title><title type="heft">632</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-25-632_n0084.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/632,084</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Anzeige von Wolkenkuckucksheim)</head>
+            <p ana="pr128487">
+<space/><rs type="title"><seg type="insult"><seg type="spc">Wolkenkuckucksheim</seg></seg></rs>, phantastisches Versspiel in<lb/>
+drei Akten auf Grundlage der »<rs type="title">Vögel</rs>« von <rs type="pers" ana="n_78918" ref="#fk__p_38427">Aristophanes</rs> (mit<lb/>
+Beibehaltung einiger Stellen der Chöre in der <rs type="pers" ana="n_78919" key="#fk__p_52917">Schinck’schen<lb/>
+Übersetzung</rs>), entstanden <DATERANGE>Ende Juni bis Mitte Juli 1923</DATERANGE>, ist am<lb/>
+<date>8. Oktober</date> erschienen.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_38427">
+               <persName>Aristophanes</persName>
+               <birth>
+                  <date>445? BC</date>
+                  <place>Athen</place>
+               </birth>
+               <death>
+                  <date>385? BC</date>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/13473</idno></person>
+            </listPerson></back></text>
+</TEI>

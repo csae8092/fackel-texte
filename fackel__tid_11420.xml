@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_11420.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11419.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11421.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Die Unvergeßlichen, in: Fackel Heft 32, Nr. 838, 1930, S. 60-61</title>
+            <title type="iso-date">1930-09-01</title>
+            <title type="id">tid_11420</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">32</title><title type="heft">838</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-32-838_n0060.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/838,060</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Die Unvergeßlichen</head>
+            <p ana="pr166283">
+<space/>— — Es soll nicht vergessen werden, daß <rs type="pers" ana="n_99777" ref="#fk__p_47540">Martin</rs> in der kurzen<lb/>
+Frist seiner Direktionsführung die <rs type="inst">Volksbühne</rs>, die ein <seg type="insult">verschlafenes<lb/>
+Provinztheater</seg> war, zu einem lebendigen und interessanten Schauspielhause<lb/>
+ gemacht hat. — — <rs type="pers" ana="n_99778" ref="#fk__p_45453">Peppler</rs>, sonst ein ausgezeichneter Schauspieler<lb/>
+ — —<lb/>
+</p>
+            <p ana="pr166285">
+<seg type="insult"><rs type="pers" ana="n_99779" ref="#fk__p_51209">Goldmanns</rs> Gattin und Stellvertreterin</seg> meint da sicher ein Werk,<lb/>
+das sie nicht nennen darf.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_45453">
+               <persName>Peppler, Hans</persName>
+               <birth>
+                  <date>1889?</date>
+               </birth>
+               <death>
+                  <date>1930-12-20</date>
+                  <place>Berlin</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <note type="comment">Darsteller des "Wacker"</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/39306</idno></person>
+            <person xml:id="fk__p_47540">
+               <persName>Martin, Karl Heinz</persName>
+               <birth>
+                  <date>1886-5-6</date>
+                  <place>Freiburg i. Br.</place>
+               </birth>
+               <death>
+                  <date>1948-1-13</date>
+                  <place>Berlin</place>
+               </death>
+               <occupation>Regisseur</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17945</idno></person>
+            <person xml:id="fk__p_51209">
+               <persName>Goldmann, Paul</persName>
+               <birth>
+                  <date>1865-1-31</date>
+                  <place>Breslau</place>
+               </birth>
+               <death>
+                  <date>1935-9-25</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11485</idno></person>
+            </listPerson></back></text>
+</TEI>

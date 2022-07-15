@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_12262.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_12261.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_12263.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Wien, Architektenvereinssaal, in: Fackel Heft 34, Nr. 885, 1932, S. 20-20</title>
+            <title type="iso-date">1932-12-01</title>
+            <title type="id">tid_12262</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">34</title><title type="heft">885</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-34-885_n0020.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/885,020</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Wien, Architektenvereinssaal</head>
+            <p ana="pr178721">
+<space/><seg type="spc">Wien</seg>, <rs type="inst">Architektenvereinssaal</rs><lb/>
+</p>
+            <p ana="pr178722">
+<space/><date>9. Dezember</date>:<lb/>
+</p>
+            <p ana="pr178723">
+<space/><rs type="pers" ana="n_106076" ref="#fk__p_46664"><seg type="spc">Offenbach</seg></rs>: <rs type="title"><seg type="spc">Die Schwätzerin von Saragossa</seg></rs>.<lb/>
+</p>
+            <p ana="pr178724">
+<space/>Auf dem Programm zu der Stelle »<rs type="pers">Roland</rs> — <rs type="pers" ana="n_106077" ref="#fk__p_39762">Carl Treumann</rs>«<lb/>
+die Fußnote:<lb/>
+</p>
+            <p ana="pr178726">
+<space/>Diese Besetzung (in Paris Mme <rs type="pers" ana="n_106078" ref="#fk__p_54354">Ugalde</rs>) durch den berühmten<lb/>
+ Allesspieler — man stelle sich den Brasilianer aus<lb/>
+»<rs type="title">Pariser Leben</rs>« in einer Hosenrolle vor — hat offenbar das<lb/>
+rasche Ableben des entzückenden Werkes in Wien verschuldet.<lb/>
+<seg type="insult">Welche Schmach</seg>, daß dem Beispiel der <rs type="inst">Berliner Funkstunde</rs><lb/>
+keine <rs type="inst">Staatsoper</rs> gefolgt ist! (Heute freilich können sich die<lb/>
+Theater um <rs type="pers" ana="n_106079" ref="#fk__p_46664">Offenbach-Bearbeitungen</rs> lange bewerben.)<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_39762">
+               <persName>Treumann, Carl</persName>
+               <birth>
+                  <date>1823-7-27</date>
+                  <place>Hamburg</place>
+               </birth>
+               <death>
+                  <date>1877-4-18</date>
+                  <place>Baden bei Wien</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+            </person>
+            <person xml:id="fk__p_46664">
+               <persName>Offenbach, Jacques</persName>
+               <birth>
+                  <date>1819-06-21</date>
+                  <place>Köln</place>
+               </birth>
+               <death>
+                  <date>1880-10-05</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Komponist</occupation>
+               <note type="comment">Ögg teilt Fortunato F 876/34 Shakespeare zu</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/9131</idno></person>
+            <person xml:id="fk__p_54354">
+               <persName>Ugalde-Beaucé, Delphine</persName>
+               <birth>
+                  <date>1829-12-3</date>
+                  <place>Paris</place>
+               </birth>
+               <death>
+                  <date>1910-7-19</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Sängerin</occupation>
+               <note type="comment">Sopran</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

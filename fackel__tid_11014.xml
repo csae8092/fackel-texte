@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_11014.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11013.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11015.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Teplitz-Schönau, in: Fackel Heft 30, Nr. 800, 1929, S. 48-48</title>
+            <title type="iso-date">1929-02-01</title>
+            <title type="id">tid_11014</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">30</title><title type="heft">800</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-30-800_n0048.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/800,048</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Teplitz-Schönau</head>
+            <p ana="pr158208">
+<space/><seg type="spc">Teplitz-Schönau</seg><lb/>
+</p>
+            <p ana="pr158209">
+<space/><rs type="inst">Monopol-Theater</rs>, <date>22. Mai</date>, 8 Uhr:<lb/>
+</p>
+            <p ana="pr158210">
+<space/>I. <rs type="title">Zum ewigen Frieden</rs> / <rs type="title">Der Bauer, der Hund und der Soldat</rs>. —<lb/>
+Drei Szenen (<rs type="title"><seg type="insult">Hauptmann im Landesverteidigungsministerium</seg></rs>; <rs type="title"><seg type="insult"><rs type="pers">Generalstäbler<lb/>
+</rs> am Telephon</seg></rs>; <rs type="title"><rs type="pers"><rs type="pers" ana="n2_8369" ref="#fk__p_56128"><seg type="insult">Erzherzog Friedrich</seg></rs></rs></rs>). — <rs type="title">Definitionen</rs> / <rs type="title">Der Reim</rs> /<lb/>
+<rs type="title">Jugend</rs> / <rs type="title"><seg type="insult">Mein Widerspruch</seg></rs> / <rs type="title"><seg type="insult">Weg damit!</seg></rs> / <rs type="title">Der Grund</rs>. — <rs type="title">Das<lb/>
+Ehrenkreuz</rs>.<lb/>
+</p>
+            <p ana="pr158211">
+<space/>II. <rs type="title"><seg type="insult">Bunte Begebenheiten</seg></rs> / Epigramme: <rs type="title"><seg type="insult"><rs type="pers" ana="n2_8370" ref="#fk__p_46960">Goethe</rs> und <rs type="pers" ana="n2_8371" ref="#fk__p_46353">Hofmannsthal</rs></seg></rs>;<lb/>
+<rs type="title">Definition</rs>; <rs type="title">Wahl des Titels</rs>; <rs type="title"><seg type="insult">Im Zeichen des Kreuzes</seg></rs>; <rs type="title"><seg type="insult">§ 144</seg></rs>; <rs type="title">Die Räuber</rs>;<lb/>
+<rs type="title"><seg type="insult">Der große Betrug</seg></rs> / <rs type="title">Die Raben</rs> / <rs type="title">Die weiblichen Hilfskräfte</rs>. — <rs type="title"><seg type="insult">Reklamefahrten<lb/>
+ zur Hölle</seg></rs>.<lb/>
+</p>
+            <p ana="pr158212">
+<space/>III. <rs type="title">Traumstück</rs>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_56128">
+               <persName>Friedrich Maria Albrecht, Erzherzog</persName>
+               <birth>
+                  <date>1856-6-4</date>
+                  <place>Groß-Seelowitz/Böhmen</place>
+               </birth>
+               <death>
+                  <date>1936-12-30</date>
+                  <place>Ung. Altenburg</place>
+               </death>
+               <occupation>Offizier</occupation>
+               <note type="comment">FML, Oberbefehlshaber der k.k. Armee</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15242</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/16687</idno></person>
+            <person xml:id="fk__p_46960">
+               <persName>Goethe, Johann Wolfgang von</persName>
+               <birth>
+                  <date>1749-8-28</date>
+                  <place>Frankfurt am Main</place>
+               </birth>
+               <death>
+                  <date>1832-3-22</date>
+                  <place>Weimar</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">890/142f.</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11461</idno></person>
+            <person xml:id="fk__p_46353">
+               <persName>Hofmannsthal, Hugo Edler von</persName>
+               <birth>
+                  <date>1874-2-1</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1929-7-15</date>
+                  <place>Rodaun bei Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16293</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11740</idno></person>
+            </listPerson></back></text>
+</TEI>

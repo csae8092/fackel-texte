@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03427.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03426.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03428.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Une campagne abominable, in: Fackel Heft 05, Nr. 152, 1904, S. 11-12</title>
+            <title type="iso-date">1904-01-16</title>
+            <title type="id">tid_03427</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">05</title><title type="heft">152</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-05-152_n0011.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/152,011</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Une campagne abominable</head>
+            <p ana="pr34062">
+<space/>Unter diesem Titel bringt das ‚<rs type="paper" ana="werk_12671"><seg type="spc">Echo de Paris</seg></rs>‘<lb/>
+vom <date>10. Januar</date> einen vortrefflichen Artikel über die<lb/>
+<seg type="insult"><foreign xml:lang="fr">»campagne de calomnies«</foreign></seg> gegen die <rs type="pers" ana="n_29337" ref="#fk__p_51794">Prinzessin <seg type="spc">Louise<lb/>
+von Coburg</seg></rs>, deren Schauplatz das ‚<rs type="paper" ana="werk_12672">Neue Wiener<lb/>
+Journal</rs>‘ und deren <seg type="insult">Stratege</seg> der <seg type="insult"><seg type="ELIDASH">Hofadvokat</seg> und Polizeiadvokat<lb/>
+ <rs type="pers" ana="n_29338" ref="#fk__p_38658"><abbr>Dr.</abbr> Bachrach</rs></seg> ist, während <seg type="insult">der prinzliche<lb/>
+Feldherr</seg> sich weit außer Schußlinie hält. Das ‚<rs type="paper" ana="werk_12673">Echo<lb/>
+de Paris</rs>‘ zitiert <seg type="insult">die jüngste Niederträchtigkeit der<lb/>
+neuen Wiener Journaille</seg> gegen die unglückliche Prinzessin<lb/>
+ und fügt hinzu: <foreign xml:lang="fr">»Cette ironie d’un <seg type="insult">goût<lb/>
+détestable</seg> a produit une très mauvaise impression sur<lb/>
+le public qui, ému par les appels de quelques journaux<lb/>
+ allemands, et surtout de la ‚<rs type="self" ana="werk_12674"><seg type="spc">Fackel</seg></rs>‘ de Vienne,<lb/>
+recommence à s’intéresser à la situation de la princesse<lb/>
+.«</foreign> Von den <seg type="insult">Stimmungsnotizen</seg>, die über die Verschlimmerung<lb/>
+ des Zustandes der Prinzessin in regelmäßigen<lb/>
+ Intervallen in der Wiener Presse auftauchen<lb/>
+, heißt es: <foreign xml:lang="fr">»On dit que ses articles, reportages<lb/>
+ et interviews n’émanent pas de l’initiative<lb/>
+des journaux qui les publient, mais qu’ils sont<lb/>
+inspirés. On nomme <seg type="spc">l’avocat qui les inspire<lb/>
+et le personnage qui inspire l’avocat</seg>«.</foreign> Es<lb/>
+folgt eine eingehende Schilderung der <seg type="insult">Machinationen</seg><lb/>
+</p>
+            <p ana="pr34062">
+gegen <rs type="pers" ana="n_29339" ref="#fk__p_51794">Louise von Coburg</rs>, um auch das französische<lb/>
+Publikum zu der Erkenntnis zu bringen, die allen<lb/>
+anständigen Menschen in Österreich längst feststeht:<lb/>
+<foreign xml:lang="fr">»Que les indiscrétions</foreign> — die Nachrichten, die angeblich<lb/>
+ aus der Heilanstalt in Coswig stammen, trotz<lb/>
+der Arztespflicht des Schweigens — <foreign xml:lang="fr">sont voulues,<lb/>
+<seg type="spc">c’est à dire ordonnées</seg>, et que ceux qui les<lb/>
+ordonnent ont un intérêt à les ordonner«</foreign> <seg type="symbol" subtype="3dots"/><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_38658">
+               <persName>Bachrach, Adolf Edler von</persName>
+               <birth>
+                  <date>1853-12-27</date>
+                  <place>Sternberg/Mähren</place>
+               </birth>
+               <death>
+                  <date>1932-4-18</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Rechtsanwalt</occupation>
+               <note type="comment">1., Rosenbursenstr. 8</note>
+               <note type="comment">Stockhammer, mailing list 19. 1. 2008</note>
+               <note type="comment">ZF 1. Tor, 20/16/57</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/3618</idno></person>
+            <person xml:id="fk__p_51794">
+               <persName>Coburg, Prinzessin Louise Maria Amalie von, geb. Prinzessin von Belgien</persName>
+               <birth>
+                  <date>1858-02-18</date>
+                  <place>Laeken</place>
+               </birth>
+               <death>
+                  <date>1924-03-01</date>
+                  <place>Wiesbaden</place>
+               </death>
+               <note type="comment">NFP 5.11.1927, Seite 10: Film über ihr Leben, Erna Morena in der Hauptrolle</note>
+               <note type="comment">134/9 von Ögg Luise von Sachsen zugeteilt</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

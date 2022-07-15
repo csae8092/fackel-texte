@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03606.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03605.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03607.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Musiker. (Mauldeutsches), in: Fackel Heft 06, Nr. 162, 1904, S. 29-29</title>
+            <title type="iso-date">1904-05-19</title>
+            <title type="id">tid_03606</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">06</title><title type="heft">162</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-06-162_n0029.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/162,029</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Musiker. (Mauldeutsches)</head>
+            <p ana="pr35911">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="name_203377" ref="#fk__p_50471">Musiker</rs>.</seg></seg> <seg type="insult">Ein <rs type="perRef" ana="werk_13158">mauldeutsches Provinzblatt</rs></seg> bringt den folgenden<lb/>
+Nachruf für <rs type="pers" ana="n_30869" ref="#fk__p_38339">Anton Dvořak</rs>: »In Prag ist am <date>1. <abbr>d. M.</abbr></date> nach kurzer<lb/>
+Krankheit <rs type="pers" ana="n_30870" ref="#fk__p_38339">Anton Dworschak</rs>, der Komponist tschechischer Opern, Symphonien<lb/>
+ und Kammermusikwerke gestorben. <rs type="pers" ana="n_30871" ref="#fk__p_38339">Dworschak</rs>, der in Mühlhausen<lb/>
+ bei Kralup in Böhmen geboren war, stand im 63. Lebensjahre.<lb/>
+Bei den Tschechen galt er als musikalische Größe, ebenso wie dort<lb/>
+<rs type="pers" ana="n_30872" ref="#fk__p_46761">Vrchlicky</rs> als dichterische Größe gilt, und wurde deshalb gleichzeitig<lb/>
+mit letzterem vor zwei Jahren ins <rs type="inst">Herrenhaus</rs> berufen.« <seg type="insult">Punktum und<lb/>
+Streusand.</seg> Ich stelle mir <seg type="insult">die bekannte »Lage der Deutschen in Österreich«</seg><lb/>
+so vor, daß sie dazu einladet, <seg type="insult">ihren hervorragendsten »Schriftleitern«</seg><lb/>
+fünfundzwanzig aufzumessen.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46761">
+               <persName>Vrchlický, Jaroslav</persName>
+               <birth>
+                  <date>1853-2-17</date>
+                  <place>Laun</place>
+               </birth>
+               <death>
+                  <date>1912-9-9</date>
+                  <place>Taus</place>
+               </death>
+               <occupation>Literarhistoriker</occupation>
+               <occupation>Schriftsteller</occupation>
+            </person>
+            <person xml:id="fk__p_38339">
+               <persName>Dvořák, Antonin</persName>
+               <birth>
+                  <date>1841-9-8</date>
+                  <place>Mühlhausen a. d. Moldau</place>
+               </birth>
+               <death>
+                  <date>1904-5-1</date>
+                  <place>Prag</place>
+               </death>
+               <occupation>Komponist</occupation>
+            </person>
+            <person xml:id="fk__p_50471">
+               <persName>Musiker</persName>
+            </person>
+            </listPerson></back></text>
+</TEI>

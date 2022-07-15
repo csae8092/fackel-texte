@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_10729.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10728.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10730.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Bibliographisches), in: Fackel Heft 28, Nr. 743, 1926, S. 70-70</title>
+            <title type="iso-date">1926-12-01</title>
+            <title type="id">tid_10729</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">28</title><title type="heft">743</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-28-743_n0070.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/743,070</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Bibliographisches)</head>
+            <p ana="pr149341">
+<space/>‚<rs type="magazine" ana="werk_24344">Hochland</rs>‘ (München, <date>November</date>): »<rs type="title">Die literarische Kritik</rs>«.<lb/>
+Von <rs type="pers" ana="n_89654" ref="#fk__p_43851">Friedrich <abbr>M.</abbr> Reifferscheidt</rs>. — ‚<rs type="title">Das Programm der <rs type="inst">Münchner<lb/>
+Kammerspiele</rs> im <rs type="inst">Schauspielhaus</rs></rs>‘ (Redaktion: <rs type="pers" ana="n_89655" ref="#fk__p_45705">Heinrich Fischer</rs>, München,<lb/>
+<date>November</date>): »<rs type="title">Neue Theaterbücher</rs>, besprochen von <rs type="pers" ana="n_89656" ref="#fk__p_38587">August Wilhelm<lb/>
+Schlegel</rs>«: »<rs type="title">Wolkenkuckucksheim</rs>«. — ‚<rs type="magazine" ana="werk_24345">Der Pionier</rs>‘ (Hamburg V. 13,<lb/>
+<date>September</date>): »<rs type="title">Die letzten Tage der Menschheit</rs>«. Von <rs type="pers" ana="n_89657" key="#fk__p_47823">Kilian Közle</rs>. —<lb/>
+<foreign xml:lang="en">‚<rs type="" ana="werk_24346">Saturday Telegraph</rs>‘</foreign> (Grimsby, <date>November 6</date>): <rs type="title"><foreign xml:lang="en">Vienna to-day</foreign></rs>. <foreign xml:lang="en">By<lb/>
+»<rs type="pers" ana="n_89658" key="#fk__p_53980">The Scribe</rs>«</foreign>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_43851">
+               <persName>Reifferscheidt, Friedrich M.</persName>
+               <birth>
+                  <date>1900?</date>
+                  <place>Regensburg</place>
+               </birth>
+               <death>
+                  <date>1957-09-24</date>
+                  <place>Florenz</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/62865</idno></person>
+            <person xml:id="fk__p_38587">
+               <persName>Schlegel, August Wilhelm von</persName>
+               <birth>
+                  <date>1767-9-5</date>
+                  <place>Hannover</place>
+               </birth>
+               <death>
+                  <date>1845-5-12</date>
+                  <place>Bonn</place>
+               </death>
+               <occupation>Literarhistoriker</occupation>
+               <occupation>Übersetzer</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/24212</idno></person>
+            <person xml:id="fk__p_45705">
+               <persName>Fischer, Heinrich</persName>
+               <birth>
+                  <date>1896-8-22</date>
+                  <place>Karlsbad</place>
+               </birth>
+               <death>
+                  <date>1974-3-16</date>
+                  <place>München</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Dramaturg</occupation>
+               <note type="comment">Liste "Theater der Dichtung"</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38133</idno></person>
+            </listPerson></back></text>
+</TEI>

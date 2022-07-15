@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_10564.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10563.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10565.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ein Mißgriff, in: Fackel Heft 28, Nr. 735, 1926, S. 13-13</title>
+            <title type="iso-date">1926-10-01</title>
+            <title type="id">tid_10564</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">28</title><title type="heft">735</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-28-735_n0013.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/735,013</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ein Mißgriff</head>
+            <p ana="pr146946">
+<space/>Die <seg type="insult">vollständige Trennung</seg> funktioniert schon, aber natürlich<lb/>
+ kann im Anfang noch manches vorkommen. Bei <rs type="pers" ana="n_88615" ref="#fk__p_45546">O’Brien</rs><lb/>
+war’s in Ordnung, doch <rs type="pers" ana="n_88616" ref="#fk__p_42973">Forda</rs> selbst, der Chef der Inseratenverwaltung<lb/>
+, ist in der Redaktion verhaftet worden. <rs type="pers" ana="n_88617" ref="#fk__p_46460">Bekessy</rs> kann<lb/>
+froh sein, daß er <seg type="insult">diesem <foreign xml:lang="de-loc">Pallawatsch</foreign></seg> entrückt ist.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_42973">
+               <persName>Forda, Eugen</persName>
+               <birth>
+                  <date>1878-6-20</date>
+                  <place>Budapest</place>
+               </birth>
+               <occupation>Angestellter</occupation>
+               <note type="comment">Anzeigenleiter der "Stunde" in Wien</note>
+               <note type="comment">8., Wickenburggasse 3</note>
+            </person>
+            <person xml:id="fk__p_46460">
+               <persName>Békessy, Imre</persName>
+               <birth>
+                  <date>1887-10-13</date>
+                  <place>Deutschkreuz</place>
+               </birth>
+               <death>
+                  <date>1951-3-15</date>
+                  <place>Budapest</place>
+               </death>
+               <occupation>Zeitungsverleger</occupation>
+               <note type="comment">Wikipedia gibt als Todesdatum an: "vor dem 17. März 1951"</note>
+               <note type="comment">Deutschkreuz</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37843</idno></person>
+            <person xml:id="fk__p_45546">
+               <persName>Weller-O’Brien, Harry</persName>
+               <birth>
+                  <date>1891-7-2</date>
+                  <place>Nagyvazsony/Ungarn</place>
+               </birth>
+               <death>
+                  <date>1969-8-28</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Verlagsangestellter</occupation>
+               <note type="comment">Prokurist Kronos AG Verlag, Wien</note>
+               <note type="comment">4., Wiedner Gürtel 26</note>
+               <note type="comment">NFP 2.12.27, Seite 11 Forda und Weller-O'Brien wegen Erpressung verurteilt</note>
+               <note type="comment">Ögg teilt 730/25 fälschlich Eugen Forda zu</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

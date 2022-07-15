@@ -1,0 +1,95 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_10907.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10906.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10908.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Blaubart), in: Fackel Heft 29, Nr. 759, 1927, S. 25-26</title>
+            <title type="iso-date">1927-06-01</title>
+            <title type="id">tid_10907</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">29</title><title type="heft">759</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-29-759_n0025.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/759,025</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Blaubart)</head>
+            <p ana="pr152192">
+<space/>Ebenda, <date>20. Februar</date>:<lb/>
+</p>
+            <p ana="pr152193">
+<space/><rs type="title">Theater der Dichtung</rs><lb/>
+</p>
+            <p ana="pr152194">
+<space/>Zum 4. Mal<lb/>
+</p>
+            <p ana="pr152195">
+<space/><rs type="pers" ana="n_90872" ref="#fk__p_46664"><seg type="spc">Offenbach</seg></rs>: <rs type="title"><rs type="pers"><seg type="spc">Blaubart</seg></rs></rs>.<lb/>
+</p>
+            <p ana="pr152196">
+<space/>Begleitung: <rs type="pers" ana="n_90873" ref="#fk__p_50971">Otto Janowitz</rs>.<lb/>
+</p>
+            <p ana="pr152197">
+<space/>Das <rs type="title">Höflingslied</rs> des <rs type="pers">Grafen Oskar</rs> (zu zwei Strophen des Originals)<lb/>
+mit fünf Zeitstrophen der früheren Vorträge und einer neuen. Wiederholt<lb/>
+wurden das Lied der <rs type="pers">Boulotte</rs> und die Finanzminister-Strophe des <rs type="title">Höflingsliedes<lb/>
+</rs>. Das Lied des <rs type="pers">Pagen Urbain</rs> zuerst französisch, dann deutsch.<lb/>
+</p>
+            <p ana="pr152200">
+<rs type="pers"><SPK><seg type="spc">Oskar</seg></SPK></rs><lb/>
+</p>
+            <lg>
+<l>Einstmals machte <seg type="insult">Idioten</seg></l>
+<l>Die Geburt zur Majestät.</l>
+<l>Das ist heutzutag verboten,</l>
+<l>weil der Wind jetzt anders weht.</l>
+<l>Von <seg type="insult">solchem Wahn</seg> ist frei die Welt.</l>
+<l>Heut tun sich die [[: Leute lieber :]]</l>
+<l>Bücken vor dem [[: <rs type="inst"><seg type="insult">Börsenschieber</seg></rs> :]]</l>
+<l>[: Jetzt regiert allein das Geld :]</l>
+</lg>
+            <p ana="pr152204">
+<rs type="pers"><SPK><seg type="spc">Chor</seg></SPK></rs><lb/>
+</p>
+            <lg>
+<l>Heut tun sich die [[: Leute lieber :]]</l>
+<l>Bücken vor dem [[: <rs type="inst"><seg type="insult">Börsenschieber</seg></rs> :]]</l>
+<l>Bücken vor dem <rs type="inst"><seg type="insult">Börsenschieber</seg></rs>,</l>
+<l>Denn nur Geld regiert die Welt.</l>
+<l>Lieber vor dem <rs type="inst"><seg type="insult">Börsenschieber</seg></rs></l>
+<l>Bückt sich heut die Welt.</l>
+</lg>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_50971">
+               <persName>Janowitz, Otto</persName>
+               <birth>
+                  <date>1888-7-22</date>
+                  <place>Podjebrad/Böhmen</place>
+               </birth>
+               <death>
+                  <date>1965-7</date>
+                  <place>New York</place>
+               </death>
+               <occupation>Pianist</occupation>
+               <note type="comment">Klavierbegleiter von KK</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38543</idno></person>
+            <person xml:id="fk__p_46664">
+               <persName>Offenbach, Jacques</persName>
+               <birth>
+                  <date>1819-06-21</date>
+                  <place>Köln</place>
+               </birth>
+               <death>
+                  <date>1880-10-05</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Komponist</occupation>
+               <note type="comment">Ögg teilt Fortunato F 876/34 Shakespeare zu</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/9131</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07659.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07658.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07660.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Zu Jean Pauls ‚Friedenspredigt‘), in: Fackel Heft 18, Nr. 445, 1234, S. 105-106</title>
+            <title type="iso-date">1234-01-01</title>
+            <title type="id">tid_07659</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">18</title><title type="heft">445</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-18-445_n0105.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/445,105</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Zu Jean Pauls ‚Friedenspredigt‘)</head>
+            <p ana="pr102989">
+<space/><FCORR id="fcorr_218" ferrID="ferr_218" href="FK-18-443_n0022.xml">Der Satz in <rs type="pers" ana="n_66436" ref="#fk__p_46784">Jean Pauls</rs> <rs type="title">Friedenspredigt</rs>, der in <rs type="selfRef" ana="werk_20946"><abbr>Nr.</abbr> 443/444</rs><lb/>
+auf <abbr>S.</abbr> 22, 9. bis 5. Zeile von unten steht, ist wörtlich so der<lb/>
+<rs type="inst"><rs type="pers" ana="n2_5860" ref="#fk__p_43292">Reclam’schen Ausgabe</rs></rs> der »<rs type="title">Levana</rs>« entnommen und dürfte durch<lb/>
+einen jener Druckfehler verstümmelt sein, die dieses schwierigste<lb/>
+aller Genies noch unwegsamer machen, den Dichter, der sich durch<lb/>
+<seg type="ELIDASH">Empfindungskonglomerate</seg> und leider auch <seg type="insult">Bildungskonglomerate</seg>, die oft —<lb/>
+oder vielmehr »häufig« — seine Sätze sind, den Strom der Phantasie<lb/>
+ staut und den Schritt, welcher am fähigsten wäre, seiner Vision<lb/>
+zu folgen, noch durch die Angeln der Fußnoten zu hemmen weiß.<lb/>
+Die Wendung: »die sogenannte Ajüstagen« als alten grammatischen<lb/>
+Usus anzusprechen, ist auf den ersten Blick verlockend, hieße aber<lb/>
+den ganzen Satz zu einem <seg type="insult">Monstrum</seg> machen, da der Vergleich<lb/>
+nicht restlos aufgegangen wäre. Es bleibt wohl nichts übrig als <EM id="em_218" ferrID="" href="FK-18-443_n0022.xml">»die«<lb/>
+durch »<seg type="spc">wie</seg>« und den Plural »sich erhalten« durch »<seg type="spc">sich erhält</seg>«<lb/>
+zu ersetzen</EM>.</FCORR> Jener Plural ist kein Druckfehler, sondern offenbar eine<lb/>
+Entgleisung, da ja das Verbum von »der Krone«, die verglichen<lb/>
+wird, ausgeht und nicht von den »Blutströmen«. Der Dichter<lb/>
+war hier offenbar durch den bessern Klang und durch<lb/>
+die Nähe des pluralischen Substantivs verführt. Aber so schön der<lb/>
+Vergleich ist, ganz Sprache ist der Gedanke eben doch nicht geworden<lb/>
+, wenn der bessere Klang mit dem bessern Sinn nicht<lb/>
+zusammenstimmt. <rs type="pers" ana="n_66437" ref="#fk__p_46784">Jean Paul</rs> wirkt manchmal so, als ob die Schöpfung<lb/>
+an einem Wunder die letzte Korrektur versäumt hätte, etwa auch<lb/>
+die vorletzte, und seine Drucker haben das übrige getan, indem<lb/>
+sie es unterlassen haben. Der Schutz der Dichter gegen das Recht<lb/>
+ihrer Verbreitung ist eine grauenvolle Sorge. <seg type="insult">Der deutsche Literarhistoriker<lb/>
+</seg>, dem das deutsche Wort immer ein Fremdwort ist, ahnt<lb/>
+nicht, selbst wenn er »Lesarten vergleicht«, was aus den Klassikern<lb/>
+im Lauf jener Jahrzehnte, in denen <seg type="insult">die deutsche Bildung</seg> grassiert,<lb/>
+geworden ist.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46784">
+               <persName>Paul, Jean</persName>
+               <birth>
+                  <date>1763-3-21</date>
+                  <place>Wunsiedel</place>
+               </birth>
+               <death>
+                  <date>1825-11-14</date>
+                  <place>Bayreuth</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            </person>
+            <person xml:id="fk__p_43292">
+               <persName>Reclam, Philipp (Verlag)</persName>
+               <note type="comment">Leipzig</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

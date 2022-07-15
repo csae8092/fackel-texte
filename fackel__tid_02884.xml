@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02884.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02883.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02885.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">‚Zeit‘-Genosse. (Der Psycholog der ‚Zeit‘), in: Fackel Heft 04, Nr. 127, 1903, S. 23-23</title>
+            <title type="iso-date">1903-01-21</title>
+            <title type="id">tid_02884</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">04</title><title type="heft">127</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-04-127_n0023.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/127,023</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>‚Zeit‘-Genosse. (Der Psycholog der ‚Zeit‘)</head>
+            <p ana="pr28469">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="name_203341" ref="#fk__p_60621"><SPAN cont="Zeit-Genosse">‚<rs type="paper" ana="werk_10300">Zeit</rs>‘-Genosse</SPAN></rs>.</seg></seg></seg> <seg type="insult">Herr <rs type="pers" ana="n_24492" ref="#fk__p_43175">Salten</rs></seg> ist für <seg type="insult">»Beobachtungen«</seg> engagiert.<lb/>
+Und alle, die er macht, gefallen ihm. Sechsmal dreht und wendet er<lb/>
+jede, hält sie ans Licht und tritt mit ihr vor den Spiegel. Wenn er<lb/>
+die Haltung der Gräfinnen auf dem Hofball nach der kaiserlichen Ansprache<lb/>
+ beschreibt, kommt er sich sogar wie ein <seg type="insult">Psycholog</seg> vor. Und<lb/>
+erst die <seg type="insult">»Stimmungsbilder«</seg> aus dem <rs type="inst">Parlamentsleben</rs>! Mit einem, zwei<lb/>
+Strichen ist hier das Wesentliche des Individuums erfasst: »Früher trug<lb/>
+er (der Abgeordnete <rs type="pers" ana="n_24493" ref="#fk__p_54492">Choc</rs>) sein Haar in der Mitte gescheitelt. Der<lb/>
+einzige Grund, aus welchem er das nicht mehr thut, ist, weil er hier<lb/>
+wenig Haare mehr hat. Der Scheitel ist geblieben, aber, früher wohl<lb/>
+nur ein schmales Gässchen, das sich weiß durch die dunkle Fülle zog,<lb/>
+ist er jetzt eine breite Straße geworden, die über die schimmernde Glatze<lb/>
+zu einem Stirnschöpfchen zieht, das wie ein Tintenfleck einsam vorn<lb/>
+liegt.« Ist das nicht tief? Weniger glücklich fiel die Beschreibung des im<lb/>
+Couloir schlafenden Herrn <rs type="pers" ana="n_24494" ref="#fk__p_50712">Noske</rs> aus: »Ach, er ruht hier wie ein Symbol<lb/>
+<seg type="spc">auf</seg> die letzten Arbeiten seiner Partei.« <seg type="insult">Ein Symbol <seg type="spc">auf</seg>?</seg> Worauf<lb/>
+hinauf?<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_54492">
+               <persName>Choc, Václav</persName>
+               <birth>
+                  <date>1860-9-23</date>
+               </birth>
+               <occupation>Jurist</occupation>
+               <occupation>Politiker</occupation>
+               <note type="comment">Reichsratsabgeordneter 1901-18</note>
+            </person>
+            <person xml:id="fk__p_60621">
+               <persName>‚Zeit‘-Genosse</persName>
+               <note type="comment"/>
+            </person>
+            <person xml:id="fk__p_50712">
+               <persName>Noske, Constantin</persName>
+               <birth>
+                  <date>1848-10-28</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1920-3-10</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Versicherungsbeamter</occupation>
+               <occupation>Journalist</occupation>
+               <occupation>Politiker</occupation>
+               <note type="comment">Gen. Sekretär des Fabriken-Rückversicherungsverbandes, 1., Börsegasse 10</note>
+               <note type="comment">Le Figaro 25.07.1901, Seite 2 schreibt Constantin Doske</note>
+            </person>
+            <person xml:id="fk__p_43175">
+               <persName>Salten, Felix</persName>
+               <birth>
+                  <date>1869-9-6</date>
+                  <place>Budapest</place>
+               </birth>
+               <death>
+                  <date>1945-10-8</date>
+                  <place>Zürich</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Zuordnung von 77/9: Saltens Vater stammte aus Miskolcz</note>
+               <note type="comment">Ögg gibt 249/15 sowohl Salten als auch Friedrich Schütz</note>
+               <note type="comment">Bruder Michael Emil Salzmann, gest. Wien 26.06.1908, im 50. Lj.</note>
+               <note type="comment">Der Gemeine, S. 60f. (O du mein Österreich), F 514/23</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2167</idno></person>
+            </listPerson></back></text>
+</TEI>

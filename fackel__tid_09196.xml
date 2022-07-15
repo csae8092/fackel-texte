@@ -1,0 +1,48 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_09196.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09195.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09197.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ebenda, 11. Mai, 8 Uhr:, in: Fackel Heft 24, Nr. 595, 1922, S. 70-70</title>
+            <title type="iso-date">1922-07-01</title>
+            <title type="id">tid_09196</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">24</title><title type="heft">595</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-24-595_n0070.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/595,070</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ebenda, 11. Mai, 8 Uhr:</head>
+            <p ana="pr122372">
+<space/>Ebenda, <date>11. Mai</date>, 8 Uhr:<lb/>
+</p>
+            <p ana="pr122373">
+<space/><seg type="spc"><rs type="pers" ana="n_74881" ref="#fk__p_55589">Shakespeare</rs></seg>, <seg type="spc"><rs type="title"><rs type="pers">König Lear</rs></rs></seg>. [Musik in der Zelt-Szene:<lb/>
+<rs type="pers" ana="n_74882" ref="#fk__p_43183">Felix Zeller</rs>]<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_43183">
+               <persName>Zeller, Felix</persName>
+               <occupation>Musiker</occupation>
+               <note type="comment">musikal. Begleiter von KK bei "Lear"-Lesung 11.5.1922 in Prag</note>
+            </person>
+            <person xml:id="fk__p_55589">
+               <persName>Shakespeare, William</persName>
+               <birth>
+                  <date>1564-4-23?</date>
+                  <place>Stratford-upon-Avon</place>
+               </birth>
+               <death>
+                  <date>1616-4-23</date>
+                  <place>Stratford-upon-Avon</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2412</idno></person>
+            </listPerson></back></text>
+</TEI>

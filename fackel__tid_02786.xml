@@ -1,0 +1,47 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02786.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02785.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02787.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Gynäkolog. (Gynäkologisches), in: Fackel Heft 04, Nr. 122, 1902, S. 23-23</title>
+            <title type="iso-date">1902-11-29</title>
+            <title type="id">tid_02786</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">04</title><title type="heft">122</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-04-122_n0023.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/122,023</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Gynäkolog. (Gynäkologisches)</head>
+            <p ana="pr27307">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="n_23538" ref="#fk__p_45244">Gynäkolog</rs>.</seg></seg></seg> In der Redaction der ‚<rs type="paper" ana="werk_9663">Neuen Freien Presse</rs>‘ ist ein<lb/>
+merkwürdiger Fall vorgekommen. »Nach seinem Austritt aus der Armee<lb/>
+durchzog er (der Attentäter <rs type="pers" ana="n_23539" ref="#fk__p_52531">Rubino</rs>) die meisten Länder Europas, dann<lb/>
+scheiterte er vor einigen Jahren in London, wo er mit einer Dienstmagd<lb/>
+verehelicht war und <seg type="spc">Vater eines vierjährigen Sohnes wurde</seg>.«<lb/>
+(<date>17. November</date>).<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_52531">
+               <persName>Rubino, Gennaro</persName>
+               <birth>
+                  <date>1859-11-23</date>
+                  <place>Bitonto/Italien</place>
+               </birth>
+               <death>
+                  <date>1918-3-14</date>
+                  <place>Louvain/Belgien</place>
+               </death>
+               <occupation>Anarchist</occupation>
+            </person>
+            <person xml:id="fk__p_45244">
+               <persName>Gynäkolog</persName>
+            </person>
+            </listPerson></back></text>
+</TEI>

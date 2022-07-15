@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00777.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00776.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00778.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Empfang der »Concordia«., in: Fackel Heft 01, Nr. 032, 1900, S. 28-28</title>
+            <title type="iso-date">1900-02-01</title>
+            <title type="id">tid_00777</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">032</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-032_n0028.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/032,028</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Empfang der »Concordia«.</head>
+            <p ana="pr7401">
+<space/><seg type="insult">Die Herren <seg type="spc"><rs type="pers" ana="n_5786" ref="#fk__p_54940">Chiavacci</rs></seg> und <seg type="spc"><rs type="pers" ana="n_5787" ref="#fk__p_45211">Steinbach</rs></seg></seg> waren dieser Tage<lb/>
+beim <RS pers="Franz Joseph" globID="rs_59">Kaiser</RS> in Audienz; auch <seg type="insult">Herr <seg type="spc"><rs type="pers" ana="n_5788" ref="#fk__p_42271">Spiegl</rs></seg></seg> war nicht fernzuhalten<lb/>
+gewesen. Der <RS pers="Franz Joseph" globID="rs_60">Kaiser</RS> empfieng die Deputation auf das huldvollste<lb/>
+und bemerkte dann, nach vorliegenden Meldungen, zu den Herren<lb/>
+<rs type="pers" ana="n_5789" ref="#fk__p_54940">Chiavacci</rs> und <rs type="pers" ana="n_5790" ref="#fk__p_45211">Steinbach</rs> — offenbar mit einem Seitenblick auf <rs type="pers" ana="n_5791" ref="#fk__p_42271">Spiegl</rs> —:<lb/>
+»Der Verein hat wohl <seg type="insult">viele Lasten</seg> zu tragen.« <seg type="symbol" subtype="4dots"/><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_42271">
+               <persName>Spiegl-Thurnsee, Edgar von</persName>
+               <birth>
+                  <date>1839-5-1</date>
+                  <place>Steingrub, Niederösterreich</place>
+               </birth>
+               <death>
+                  <date>1908-6-29</date>
+                  <place>Steingrub, Niederösterreich</place>
+               </death>
+               <occupation>Zeitungsverleger</occupation>
+               <occupation>Präsident der „Concordia“</occupation>
+               <note type="comment">Namenskorrektur!</note>
+               <note type="comment">Hrsg. "Ill. Wr. Extrablatt"</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/25196</idno></person>
+            <person xml:id="fk__p_54940">
+               <persName>Chiavacci, Vincenz</persName>
+               <birth>
+                  <date>1847-6-15</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1916-2-2</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Beamter</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2154</idno></person>
+            <person xml:id="fk__p_45211">
+               <persName>Steinbach, Gustav</persName>
+               <birth>
+                  <date>1848-2-18</date>
+                  <place>Preßburg</place>
+               </birth>
+               <death>
+                  <date>1911-12-6</date>
+                  <place>Meran</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <note type="comment">Redacteurstöchterlein 42/30: Therese, geb. 1879</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

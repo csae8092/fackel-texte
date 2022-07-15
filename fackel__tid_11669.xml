@@ -1,0 +1,43 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_11669.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11668.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11670.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ein guter Satz, in: Fackel Heft 32, Nr. 847, 1931, S. 89-89</title>
+            <title type="iso-date">1931-03-01</title>
+            <title type="id">tid_11669</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">32</title><title type="heft">847</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-32-847_n0089.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/847,089</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ein guter Satz</head>
+            <p ana="pr169440">
+<space/>Weshalb in einem Lande, in dem jeder Bürger, namentlich aber<lb/>
+617 Abgeordnete und nahezu 400 Senatoren vom Ministerportefeuille<lb/>
+träumen, die zauberhafte Geschicklichkeit eines <rs type="pers" ana="n_101422" ref="#fk__p_48649">Laval</rs> erforderlich ist,<lb/>
+um neunundzwanzig Minister zusammenzubringen, <seg type="spc">kann in aller<lb/>
+Kürze schwer beantwortet werden</seg>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_48649">
+               <persName>Laval, Pierre</persName>
+               <birth>
+                  <date>1883-06-28</date>
+                  <place>Chateldon</place>
+               </birth>
+               <death>
+                  <date>1945-10-15</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Politiker</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

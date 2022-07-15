@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01437.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01436.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01438.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Herrn Prof. Isidor Singer. (Herrn Prof. Isidor Singer), in: Fackel Heft 02, Nr. 060, 1900, S. 27-27</title>
+            <title type="iso-date">1900-11-01</title>
+            <title type="id">tid_01437</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">060</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-060_n0027.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/060,027</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Herrn Prof. Isidor Singer. (Herrn Prof. Isidor Singer)</head>
+            <p ana="pr13620">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i">Herrn <abbr>Prof.</abbr> <rs type="pers" ana="n_11437" ref="#fk__p_46524">Isidor Singer</rs>.</seg></seg></seg> In der Nummer der ‚<rs type="magazine" ana="werk_4425">Zeit</rs>‘ vom <date>17. November<lb/>
+</date> beginnt der financielle Bericht aus Berlin also: »Die Berliner<lb/>
+<rs type="inst">Börse</rs> hat wieder Lachs essen dürfen.« Was bedeutet das? Sie vergessen<lb/>
+, dass auch <seg type="insult">Ihre Anhänger an der <rs type="inst">Börse</rs></seg> nicht <seg type="spc">alle</seg> jüdischen<lb/>
+Anekdoten kennen und dass bloße Anspielungen <seg type="insult">jene breiten, gemüthlichen<lb/>
+Erzählungen in den »Localzugstudien« des Herrn <rs type="pers" ana="n_11438" ref="#fk__p_38006">Scharf</rs></seg> niemals ersetzen<lb/>
+ können. Lieber eine bekannte Anekdote nochmals erzählt —<lb/>
+<seg type="insult">die vertrauten Laute des Jargons</seg> klingen stets lieblich —, als eine<lb/>
+unbekannte bloß angedeutet. Der Leser, der sicher ist, dass hier ein<lb/>
+guter Witz steckt, ihn aber nicht herausfinden kann, wird nur ärgerlich.<lb/>
+In Zukunft werden Sie also <seg type="insult">Ihren financiellen Mitarbeitern</seg> <seg type="insult">das bewährte<lb/>
+ und in der <rs type="magazine" ana="werk_4426"><seg type="ELIDASH">Sonntagszeitung</seg> und Montagszeitung</rs> beliebte Schema</seg> für<lb/>
+solche Anekdoten empfehlen müssen: <foreign xml:lang="de-loc">»Das kommt mir vor, wie <seg type="insult">der<lb/>
+Schnorrer <rs type="pers">Feiwel Rosenblüh</rs></seg>, was is gekommen zu dem Banquier <seg type="symbol" subtype="3dots"/>«</foreign><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46524">
+               <persName>Singer, Isidor</persName>
+               <birth>
+                  <date>1857-01-16</date>
+                  <place>Pest</place>
+               </birth>
+               <death>
+                  <date>1927-12-08</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Nationalökonom</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12790</idno></person>
+            <person xml:id="fk__p_38006">
+               <persName>Scharf, Alexander</persName>
+               <birth>
+                  <date>1834-05-24</date>
+                  <place>Budapest</place>
+               </birth>
+               <death>
+                  <date>1904-11-04</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Zeitungsverleger</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/9671</idno></person>
+            </listPerson></back></text>
+</TEI>

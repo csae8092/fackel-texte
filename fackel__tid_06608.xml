@@ -1,0 +1,129 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06608.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06607.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06609.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Die elektrische Bahn Wien-Preßburg ist eröffnet worden, in: Fackel Heft 15, Nr. 393, 1914, S. 32-33</title>
+            <title type="iso-date">1914-03-01</title>
+            <title type="id">tid_06608</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">15</title><title type="heft">393</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-15-393_n0032.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/393,032</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Die elektrische Bahn Wien-Preßburg ist eröffnet worden</head>
+            <p ana="pr89518">
+das ist praktisch. <seg type="insult">Mitglieder des <rs type="inst">Wiener Männergesangvereins</rs></seg><lb/>
+trugen dabei einen Chor vor, das ist unpraktisch. An der<lb/>
+Eröffnungsfahrt nahmen teil <seg type="insult">die Inspektoren <rs type="pers" ana="n_61223" ref="#fk__p_42256">Edelstein</rs> und <rs type="pers" ana="n_61224" ref="#fk__p_48280">Kronos</rs></seg>,<lb/>
+das ist interessant, wiewohl der letztere nicht identisch oder verschwägert<lb/>
+ ist. In Preßburg angelangt, bemerkte einer, daß dort<lb/>
+<date>1277</date> <rs type="pers" ana="n_61225" ref="#fk__p_48514">Ladislaus IV.</rs> mit <rs type="pers" ana="n_61226" ref="#fk__p_48041">König Rudolf</rs> jenen Bündnisvertrag<lb/>
+geschlossen habe, auf Grund dessen die <rs type="event">Schlacht bei Dürnkrut</rs><lb/>
+gewonnen wurde, und daß dorthin, nach Preßburg, <rs type="pers" ana="n_61227" ref="#fk__p_47372">Ferdinand I.</rs><lb/>
+nach der <rs type="event">Schlacht bei Mohacs</rs> seine Residenz verlegte. Das ist<lb/>
+lückenhaft, weil in Preßburg auch der <RS pers="Arthur Schnitzler"><rs type="title" ana="name_202746" ref="#fk__p_38500">Professor <rs type="pers">Bernhardi</rs></rs></RS> aufgeführt<lb/>
+ werden sollte. Der österreichische <RS pers="Zdenko Ritter von Forster" globID="name_201484">Eisenbahnminister</RS> hielt<lb/>
+drei Reden, eine bei der Abfahrt des Zuges, eine an der Grenze<lb/>
+und eine beim Ziel. Das ist viel. »Man hat sich schließlich<lb/>
+gesagt«, meinte er, »es kann nicht Sache der Regierung sein, den<lb/>
+technischen Fortschritt aufzuhalten, und was das Interesse der<lb/>
+Allgemeinheit ist, ist schließlich auch das Interesse des Staates.«<lb/>
+Das ist einsichtig. Ein anderer Redner sagte: »Österreich braucht<lb/>
+Ungarn und Ungarn braucht Österreich, und daher wollen<lb/>
+wir zusammen leben und miteinander kämpfen.« Das ist zweideutig<lb/>
+. Am nächsten Tag wurde gemeldet, daß soeben bei der<lb/>
+Sophienbrücke der Starkstromleitungsdraht der elektrischen Bahn<lb/>
+Wien-Preßburg gerissen sei. »Infolge dieses Zwischenfalles mußte<lb/>
+der Verkehr auf der Strecke eingestellt werden.« Das ist<lb/>
+bedauerlich.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_42256">
+               <persName>Edelstein, Leon</persName>
+               <birth>
+                  <date>1855-3-9</date>
+                  <place>Czernowitz</place>
+               </birth>
+               <death>
+                  <date>1926-4-12</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Bahnbeamter</occupation>
+               <note type="comment">4., Schelleingasse 5</note>
+               <note type="comment">Ing., Vorstand der Bahnerhaltungssektion</note>
+            </person>
+            <person xml:id="fk__p_48280">
+               <persName>Krones, Viktor</persName>
+               <birth>
+                  <date>1876-9-10</date>
+                  <place>Brünn</place>
+               </birth>
+               <death>
+                  <date>1927-2-22</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Bahnbeamter</occupation>
+               <note type="comment">Lehmann 1914, Staatsbahnen, Seite 351 (Abteilung 5 für den Verkehrsdienst)</note>
+               <note type="comment">Namenskorrektur!</note>
+               <note type="comment">durch die Namensverschreibung wird das das Wortspiel erst möglich</note>
+               <note type="comment">19., Billrothstraße 56</note>
+               <note type="comment">Friedhof Döbling 33/3/5</note>
+            </person>
+            <person xml:id="fk__p_47372">
+               <persName>Ferdinand I., Kaiser</persName>
+               <birth>
+                  <date>1793-04-19</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1875-06-29</date>
+                  <place>Prag</place>
+               </death>
+               <occupation>Kaiser</occupation>
+            </person>
+            <person xml:id="fk__p_48041">
+               <persName>Rudolf von Habsburg, König</persName>
+               <birth>
+                  <date>1218-05-01</date>
+                  <place>Schloß Limburg/Breisgau</place>
+               </birth>
+               <death>
+                  <date>1291-07-15</date>
+                  <place>Speyer</place>
+               </death>
+               <occupation>König</occupation>
+            </person>
+            <person xml:id="fk__p_48514">
+               <persName>Ladislaus IV.</persName>
+               <birth>
+                  <date>1262</date>
+               </birth>
+               <death>
+                  <date>1290-7-10</date>
+                  <place>Körösszeg</place>
+               </death>
+               <occupation>König</occupation>
+            </person>
+            <person xml:id="fk__p_38500">
+               <persName>Schnitzler, Arthur</persName>
+               <birth>
+                  <date>1862-5-15</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1931-10-21</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Arzt</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2121</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_10383.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10382.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10384.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">2. November:, in: Fackel Heft 27, Nr. 706, 1925, S. 93-93</title>
+            <title type="iso-date">1925-12-01</title>
+            <title type="id">tid_10383</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">27</title><title type="heft">706</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-27-706_n0093.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/706,093</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>2. November:</head>
+            <p ana="pr141813">
+<space/><date>2. November</date>:<lb/>
+</p>
+            <p ana="pr141814">
+<space/><rs type="pers" ana="n_86577" ref="#fk__p_47565"><seg type="spc">Karl Kraus</seg></rs>: <rs type="title"><seg type="insult"><seg type="spc">Wolkenkuckucksheim</seg></seg></rs>.<lb/>
+</p>
+            <p ana="pr141815">
+<space/>Begleitmusik nach Angabe des Vortragenden. (Das Couplet des<lb/>
+<rs type="pers">Flamingo von Fahnenfeld</rs> wiederholt.) Ouverture und in den Zwischenakten<lb/>
+: <rs type="pers" ana="n_86578" ref="#fk__p_46664">Offenbachs</rs> »<rs type="title"><rs type="pers">Orpheus</rs> in der Unterwelt</rs>«.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_47565">
+               <persName>Kraus, Karl</persName>
+               <birth>
+                  <date>1874-4-28</date>
+                  <place>Jicin, Böhmen</place>
+               </birth>
+               <death>
+                  <date>1936-6-12</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Publizist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11988</idno></person>
+            <person xml:id="fk__p_46664">
+               <persName>Offenbach, Jacques</persName>
+               <birth>
+                  <date>1819-06-21</date>
+                  <place>Köln</place>
+               </birth>
+               <death>
+                  <date>1880-10-05</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Komponist</occupation>
+               <note type="comment">Ögg teilt Fortunato F 876/34 Shakespeare zu</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/9131</idno></person>
+            </listPerson></back></text>
+</TEI>

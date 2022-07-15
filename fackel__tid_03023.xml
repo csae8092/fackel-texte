@@ -1,0 +1,48 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03023.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03022.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03024.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Neugieriger. (Eine boshafte Anrede), in: Fackel Heft 04, Nr. 133, 1903, S. 27-27</title>
+            <title type="iso-date">1903-03-26</title>
+            <title type="id">tid_03023</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">04</title><title type="heft">133</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-04-133_n0027.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/133,027</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Neugieriger. (Eine boshafte Anrede)</head>
+            <p ana="pr29764">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_25796" ref="#fk__p_50609">Neugieriger</rs>.</seg></seg> Sie fragen, ob <seg type="insult">Herr <rs type="pers" ana="n_25797" ref="#fk__p_46698">Lippowitz</rs></seg> auch aus französischen<lb/>
+ Blättern nimmt. Grundsätzlich nicht, wiewohl ihn hier keinerlei<lb/>
+autorrechtliche Bedenken hindern müßten. Aber bedenken Sie die Mühe<lb/>
+des Uebersetzens, und dann: er fürchtet sich vor den brieflichen Recriminationen<lb/>
+ französischer Redacteure. Da ist nämlich schon das erste<lb/>
+Wort eine höfliche Bosheit: <seg type="insult"><foreign xml:lang="">»Mon <SPAN norm="cher"><seg type="spc">scher</seg></SPAN> confrère!«</foreign></seg><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46698">
+               <persName>Lippowitz, Jakob (Siegmund)</persName>
+               <birth>
+                  <date>1865-10-9</date>
+                  <place>Leipzig</place>
+               </birth>
+               <death>
+                  <date>1934-7-4</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17583</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/4054</idno></person>
+            <person xml:id="fk__p_50609">
+               <persName>Neugieriger</persName>
+            </person>
+            </listPerson></back></text>
+</TEI>

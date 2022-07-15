@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_11587.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11586.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11588.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Die Leistung, in: Fackel Heft 32, Nr. 847, 1931, S. 5-5</title>
+            <title type="iso-date">1931-03-01</title>
+            <title type="id">tid_11587</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">32</title><title type="heft">847</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-32-847_n0005.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/847,005</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Die Leistung</head>
+            <p ana="pr168380">
+<space/><OMED>— —</OMED> war, <seg type="spc">wie das</seg> »<rs type="paper" ana="werk_30428"><seg type="spc">Neue Wiener Journal</seg></rs>« <seg type="spc">als<lb/>
+einziges Blatt berichten konnte</seg>, während der Festaufführung<lb/>
+ von <rs type="pers" ana="n_100797" ref="#fk__p_55699">Mozarts</rs> »<rs type="title"><rs type="pers">Don Juan</rs></rs>« am <date>27. Januar</date> in der Loge des<lb/>
+Bundespräsidenten <rs type="pers" ana="n_100798" ref="#fk__p_50182">Miklas</rs> vom Schlage gerührt und dann durch die<lb/>
+herbeigerufene <rs type="inst">Rettungsgesellschaft</rs> in ein Sanatorium geführt worden.<lb/>
+Der Zustand des Sektionschefs <rs type="pers" ana="n_100799" ref="#fk__p_41068"><abbr>Dr.</abbr> Gärtner</rs> schien sich zunächst zu<lb/>
+bessern, doch erlitt er gestern einen zweiten Schlaganfall, dem er in<lb/>
+den ersten Nachmittagsstunden erlegen ist.<lb/>
+</p>
+            <p ana="pr168382">
+»Brav«, sagte der Chef zum Melder, »und was ist’s mit dem<lb/>
+zweiten?« »Haben wir auch!« <seg type="symbol" subtype="3dots"/> Bitte, das ist ein Beruf, der einem<lb/>
+sozialen Bedürfnis entspricht und dessen <seg type="insult">Vertreter</seg> Respekt genießen<lb/>
+. Wenn sie in Funktion treten, hat selbst die <rs type="inst">Rettungsgesellschaft<lb/>
+</rs> Platz zu machen.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_55699">
+               <persName>Mozart, Wolfgang Amadeus</persName>
+               <birth>
+                  <date>1756-1-27</date>
+                  <place>Salzburg</place>
+               </birth>
+               <death>
+                  <date>1791-12-5</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Komponist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12303</idno></person>
+            <person xml:id="fk__p_50182">
+               <persName>Miklas, Wilhelm</persName>
+               <birth>
+                  <date>1872-10-15</date>
+                  <place>Krems</place>
+               </birth>
+               <death>
+                  <date>1956-03-20</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <note type="comment">Bundespräsident</note>
+            </person>
+            <person xml:id="fk__p_41068">
+               <persName>Gaertner, Friedrich</persName>
+               <birth>
+                  <date>1882-5-1</date>
+                  <place>Teschen/Österr. Schlesien</place>
+               </birth>
+               <death>
+                  <date>1931-2-6</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Ministerialbeamter</occupation>
+               <occupation>Nationalökonom</occupation>
+               <note type="comment">19., Dittesgasse 48</note>
+               <note type="comment">Daten auch auf dem Grabstein; Pia Gaertner 29.5.1888-17.12.1990</note>
+               <note type="comment">Sektionschef </note>
+            </person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06425.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06424.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06426.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Das kann ja wahr sein, in: Fackel Heft 15, Nr. 381, 1913, S. 53-53</title>
+            <title type="iso-date">1913-11-01</title>
+            <title type="id">tid_06425</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">15</title><title type="heft">381</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-15-381_n0053.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/381,053</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Das kann ja wahr sein</head>
+            <p ana="pr86675">
+<space/>»Bald darauf begehrte <rs type="pers" ana="n_59802" ref="#fk__p_40487">Dobrohruschka</rs> von der <rs type="pers" ana="n_59803" ref="#fk__p_46509">Isabella Leffler</rs><lb/>
+neuerdings Geld; er beabsichtige, vom <seg type="spc">Schriftsteller</seg> <rs type="pers" ana="n_59804" ref="#fk__p_55610">Willy Sterk</rs><lb/>
+einen Sketch schreiben und vom <seg type="spc">Komponisten</seg> <rs type="pers" ana="n_59805" ref="#fk__p_39018">Bela Laszky</rs> in Musik<lb/>
+setzen zu lassen. Sie gab ihm wieder Geld, das er bald vertan hatte.<lb/>
+Um von ihr wieder Mittel zu erlangen, spiegelte ihr <rs type="pers" ana="n_59806" ref="#fk__p_40487">Dobrohruschka</rs> vor,<lb/>
+daß er eine <seg type="spc">Idee</seg> zu einer Operette habe, deren Verwertung eine halbe<lb/>
+Million abwerfen würde<seg type="symbol" subtype="4dots"/>«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46509">
+               <persName>Leffler, Isabella</persName>
+               <birth>
+                  <date>1870?</date>
+               </birth>
+               <note type="comment">Ingenieurswitwe, Opfer des Heiratsschwindlers Anton Dobrohruschka</note>
+            </person>
+            <person xml:id="fk__p_39018">
+               <persName>Laszky, Béla</persName>
+               <birth>
+                  <date>1867-6-3</date>
+                  <place>Nyita/Ungarn</place>
+               </birth>
+               <death>
+                  <date>1935-11-2</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Komponist</occupation>
+               <occupation>Pianist</occupation>
+               <occupation>Kapellmeister</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/8492</idno></person>
+            <person xml:id="fk__p_40487">
+               <persName>Dobrohruschka, Anton</persName>
+               <birth>
+                  <date>1884-7-13</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1950-7-9</date>
+                  <place>Krems/Donau</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <note type="comment">Heiratsschwindler, Hochstapler, Prozeß NFP 28.08.1913, Seite 10f. und 29.08.1913, Seite 10f.</note>
+               <note type="comment">Künstlername Doburg, auch Namensvariante Dobruschka</note>
+               <note type="comment">Sohn eines wohlhabenden Bauunternehmers</note>
+               <note type="comment">Vater Georg Dobrohruschka, 16., Ganglbauergasse 26 (1851?-1919)</note>
+               <note type="comment">Bruder Georg 29.08.1882-April 1947 (Friedhof Ottakring)</note>
+               <note type="comment">befindet sich 1921 in Untersuchungshaft (Verl.abhdgl. des Vaters)</note>
+            </person>
+            <person xml:id="fk__p_55610">
+               <persName>Sterk, Willy</persName>
+               <birth>
+                  <date>1880-7-28</date>
+                  <place>Budapest</place>
+               </birth>
+               <death>
+                  <date>leer</date>
+                  <place>Konzentrationslager Theresienstadt</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">deportiert am 5.1.1943</note>
+               <note type="comment">hat den 8.5.1945 nicht überlebt</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

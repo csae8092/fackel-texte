@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07569.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07568.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07570.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Vaterländischer Hilfsdienst, in: Fackel Heft 18, Nr. 445, 1234, S. 22-22</title>
+            <title type="iso-date">1234-01-01</title>
+            <title type="id">tid_07569</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">18</title><title type="heft">445</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-18-445_n0022.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/445,022</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Vaterländischer Hilfsdienst</head>
+            <p ana="pr101829">
+<space/><seg type="symbol" subtype="3dots"/> Der Dienst in der deutschen Presse müsse als Kriegsdienst<lb/>
+erklärt werden, ohne die Presse kann das Gesetz überhaupt nicht<lb/>
+durchgeführt werden und <seg type="spc">die <seg type="insult">Lahmlegung von Zeitungen</seg><lb/>
+würde einen großen moralischen Schaden bedeuten<lb/>
+</seg> <seg type="symbol" subtype="4dots"/>.<lb/>
+</p>
+            <p ana="pr101831">
+<space/>Siebzig Jahre, nachdem <rs type="pers" ana="n_66050" ref="#fk__p_53452">Kierkegaard</rs> nicht die <seg type="insult">Lahmlegung<lb/>
+von Zeitungen</seg>, sondern die Totschießung von <seg type="insult">Journalisten</seg><lb/>
+gefordert hat, die die <seg type="insult">Lahmlegung der Menschheit</seg> bewirken!<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_53452">
+               <persName>Kierkegaard, Sören</persName>
+               <birth>
+                  <date>1813-5-5</date>
+                  <place>Kopenhagen</place>
+               </birth>
+               <death>
+                  <date>1855-11-11</date>
+                  <place>Kopenhagen</place>
+               </death>
+               <occupation>Philosoph</occupation>
+               <occupation>Theologe</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16839</idno></person>
+            </listPerson></back></text>
+</TEI>

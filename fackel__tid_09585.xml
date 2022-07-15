@@ -1,0 +1,99 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_09585.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09584.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09586.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(„Verkitschter Hoffmann“), in: Fackel Heft 25, Nr. 632, 1923, S. 78-78</title>
+            <title type="iso-date">1923-10-01</title>
+            <title type="id">tid_09585</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">25</title><title type="heft">632</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-25-632_n0078.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/632,078</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(„Verkitschter Hoffmann“)</head>
+            <p ana="pr128425">
+<space/>Wenn schon die Oper »<rs type="title"><rs type="pers">Hoffmanns</rs> Erzählungen</rs>« als <seg type="insult"><seg type="spc">verkitschter<lb/>
+ <rs type="pers" ana="n_78875" ref="#fk__p_42223">Hoffmann</rs></seg></seg> bezeichnet werden muß, so ist das<lb/>
+<rs type="pers">Kreislerstück</rs> <seg type="insult">Kitsch zum Quadrat</seg>.<lb/>
+</p>
+            <p ana="pr128427">
+<space/>Dies mag sein; jenes ist so falsch, daß man heute nur<lb/>
+den »<rs type="title">Sandmann</rs>« und den <rs type="pers">Olympia-Akt</rs> zu vergleichen braucht,<lb/>
+um eher dort den Eindruck <seg type="insult">eines verkitschten <rs type="pers" ana="n_78877" ref="#fk__p_46664">Offenbach</rs></seg> zu<lb/>
+haben. Noch nie dürfte das Wesentliche eines Originals — in<lb/>
+dessen Breite der Schauer sich verflüchtigt — so herausgearbeitet<lb/>
+ worden sein wie in dieser <rs type="pers" ana="n_78878" ref="#fk__p_38714">Barbier’schen Grundlage</rs><lb/>
+für einen Musiker, der mit einem Ton — einem »einz’gen<lb/>
+Blick durchs Fenster« — diese ganze Automatenwelt und<lb/>
+<seg type="ELIDASH">Automatenliebe</seg>, alles was der Erzähler gewollt hat und weit mehr, zur<lb/>
+Gestalt bringen konnte. Freilich hat auch die ebenbürtige<lb/>
+Feinfühligkeit einer Inszenierung wie der <rs type="pers" ana="n_78879" ref="#fk__p_45200">Gustav Mahlers</rs><lb/>
+dazu gehört.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_38714">
+               <persName>Barbier, Jules</persName>
+               <birth>
+                  <date>1825-3-8</date>
+                  <place>Paris</place>
+               </birth>
+               <death>
+                  <date>1901-1-16</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Librettist von "Hoffmanns Erzählungen", fehlt bei Ögg</note>
+               <note type="comment">Silvia Hauptmann, Macht der Töne, Ohnmacht des Wortes, 2002</note>
+            </person>
+            <person xml:id="fk__p_42223">
+               <persName>Hoffmann, Ernst Theodor Amadeus</persName>
+               <birth>
+                  <date>1776-1-24</date>
+                  <place>Königsberg</place>
+               </birth>
+               <death>
+                  <date>1822-6-25</date>
+                  <place>Berlin</place>
+               </death>
+               <occupation>Beamter</occupation>
+               <occupation>Zeichner</occupation>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Komponist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/4194</idno></person>
+            <person xml:id="fk__p_46664">
+               <persName>Offenbach, Jacques</persName>
+               <birth>
+                  <date>1819-06-21</date>
+                  <place>Köln</place>
+               </birth>
+               <death>
+                  <date>1880-10-05</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Komponist</occupation>
+               <note type="comment">Ögg teilt Fortunato F 876/34 Shakespeare zu</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/9131</idno></person>
+            <person xml:id="fk__p_45200">
+               <persName>Mahler, Gustav</persName>
+               <birth>
+                  <date>1860-7-7</date>
+                  <place>Kalischt, Böhmen</place>
+               </birth>
+               <death>
+                  <date>1911-5-18</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Komponist</occupation>
+               <occupation>Dirigent</occupation>
+               <occupation>Theaterleiter</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12163</idno></person>
+            </listPerson></back></text>
+</TEI>

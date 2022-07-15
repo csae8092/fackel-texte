@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01930.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01929.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01931.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Entbindung und Befreiung.), in: Fackel Heft 03, Nr. 081, 1901, S. 10-11</title>
+            <title type="iso-date">1901-06-01</title>
+            <title type="id">tid_01930</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">03</title><title type="heft">081</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-03-081_n0010.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/081,010</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Entbindung und Befreiung.)</head>
+            <p ana="pr18887">
+<space/><inciptit>Hoch</inciptit> klingt <seg type="insult">das Lied vom freisinnigen Czaren</seg>! <rs type="pers" ana="n_15855" ref="#fk__p_50669">Nikolaus II.</rs><lb/>
+hat die Strafen, die vor Monaten über hunderte von unbotmäßigen<lb/>
+Studenten verhängt wurden, gnädig gemildert. Für so manchen der<lb/>
+Verfolgten, der in langer Qual gebrochen wurde, kommt die kaiserliche<lb/>
+ Gnade freilich zu spät. Aber die ‚<rs type="paper" ana="werk_6115">Neue Freie Presse</rs>‘ wusste<lb/>
+</p>
+            <p ana="pr18887">
+am <date>24. Juni</date> mitzutheilen, dass der Zeitpunkt, in dem sie eintrat,<lb/>
+ebenso wohlberechnet war wie ihr Umfang. »Der Czar hatte schon längst<lb/>
+die Absicht, die Studenten zu begnadigen, nur wartete er die Entbindung<lb/>
+ der Czarin ab, um bei der Geburt eines Thronfolgers diese<lb/>
+Gnade in noch höherem Maße walten zu lassen. Als eine Tochter<lb/>
+zur Welt kam, wurde der Gnadenact in der gegenwärtigen Form<lb/>
+erlassen.« Die von der Begnadigung ausgeschlossenen Studenten<lb/>
+und ihre Angehörigen werden sicherlich eine höchst loyale Betrübnis<lb/>
+darüber empfinden, dass dem Herrscher aller Reussen ein männlicher<lb/>
+Spross versagt blieb. Aber auch eine kaiserliche Tochter ist ein Gnadengeschenk<lb/>
+ des Himmels, und es hätte ja leicht auch noch schlimmer<lb/>
+kommen können. Wie viele jetzt Begnadigte müssten eine <foreign xml:lang="fr">fausse<lb/>
+couche</foreign> oder gar eine <foreign xml:lang="fr">grossesse imaginée</foreign> büßen? Die russischen<lb/>
+Studenten können mit ihrer Kaiserin zufrieden sein. Sie mögen<lb/>
+daran denken, wie es den im serbischen Hochverrathsprocess Verurtheilten<lb/>
+ ergangen wäre, wenn man ihre Begnadigung von Frau<lb/>
+<rs type="pers" ana="n_15856" ref="#fk__p_42081">Dragas</rs> Wohlverhalten abhängig gemacht hätte.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_50669">
+               <persName>Nikolaus II., Zar</persName>
+               <birth>
+                  <date>1868-5-18</date>
+                  <place>Zarskoje Selo</place>
+               </birth>
+               <death>
+                  <date>1918-7-16/17</date>
+                  <place>Jekaterinburg</place>
+               </death>
+               <occupation>Zar</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_18456</idno></person>
+            <person xml:id="fk__p_42081">
+               <persName>Draga Maschin, geb. Lunjevic, Königin von Serbien</persName>
+               <birth>
+                  <date>1867-09-23</date>
+                  <place>Gornji Milanovac</place>
+               </birth>
+               <death>
+                  <date>1903-06-11</date>
+                  <place>Belgrad</place>
+               </death>
+               <occupation>Königin</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

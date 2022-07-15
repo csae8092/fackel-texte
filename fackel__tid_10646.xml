@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_10646.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10645.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10647.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Neid auf Informationen, in: Fackel Heft 28, Nr. 735, 1926, S. 132-133</title>
+            <title type="iso-date">1926-10-01</title>
+            <title type="id">tid_10646</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">28</title><title type="heft">735</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-28-735_n0132.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/735,132</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Neid auf Informationen</head>
+            <p ana="pr148310">
+In der Ehescheidungssache haben nämlich die Angestellten des<lb/>
+Grafen von Szenen berichtet, die sich zwischen der <rs type="pers" ana="n_89245" ref="#fk__p_44988">Gräfin Zichy</rs> und<lb/>
+Frau <rs type="pers" ana="n_89246" ref="#fk__p_54216">Tormay</rs> abgespielt haben sollen und von den Angestellten<lb/>
+angeblich im Auftrag des Grafen beobachtet wurden. Der Graf und<lb/>
+seine Dienerschaft wurden verurteilt. In der Begründung des Urteils<lb/>
+hieß es, daß <rs type="pers" ana="n_89247" ref="#fk__p_56270">Graf Zichy</rs> die falschen Zeugen gedungen habe, um<lb/>
+seiner Gattin die Verfehlungen mit Frau <rs type="pers" ana="n_89248" ref="#fk__p_54216">Tormay</rs> nachzuweisen. Die<lb/>
+Kammerzofe der Gräfin gab an, der Graf habe den Plafond des<lb/>
+Schlafzimmers der Gräfin und die Wand des Badezimmers durchbohren<lb/>
+lassen, um auf solche Art die Gräfin beobachten zu können.<lb/>
+Tatsächlich gab die Dienerschaft in der Verhandlung an, daß ihre<lb/>
+<seg type="spc">Informationen</seg> aus Beobachtungen durch das Guckloch herrühren.<lb/>
+</p>
+            <p ana="pr148312">
+Man sieht, wie schwer es der Journalistik gemacht wird, wenn sie,<lb/>
+anstatt sogleich an den Tatort gerufen zu werden, die Informationen<lb/>
+aus zweiter Hand beziehen muß.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_44988">
+               <persName>Zichy, Edina Gräfin, geb. Markgräfin Pallavicini</persName>
+               <birth>
+                  <date>1877-4-24</date>
+                  <place>Budapest</place>
+               </birth>
+               <death>
+                  <date>1964-2-15</date>
+                  <place>Alhaurin de la Torre, Spanien</place>
+               </death>
+            </person>
+            <person xml:id="fk__p_54216">
+               <persName>Tormay, Cécile?</persName>
+               <birth>
+                  <date>1876-10-8</date>
+                  <place>Budapest</place>
+               </birth>
+               <death>
+                  <date>1937-4-12</date>
+                  <place>Matráháza</place>
+               </death>
+               <occupation>Schriftstellerin</occupation>
+               <note type="comment">Affaire 1926, Graf/Gräfin Zichy</note>
+               <note type="comment">Hrsg. der Zs. "Napkelet" (Morgenland), die Januar 1923 bis August 1940 erschien</note>
+            </person>
+            <person xml:id="fk__p_56270">
+               <persName>Zichy, Rafael Graf</persName>
+               <birth>
+                  <date>1877-3-12</date>
+                  <place>Budapest</place>
+               </birth>
+               <death>
+                  <date>1944-11-9</date>
+                  <place>Szentiván</place>
+               </death>
+            </person>
+            </listPerson></back></text>
+</TEI>

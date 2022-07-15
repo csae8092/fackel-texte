@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03235.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03234.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03236.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Actionär. (Petroleumaktien), in: Fackel Heft 05, Nr. 142, 1903, S. 21-21</title>
+            <title type="iso-date">1903-07-3</title>
+            <title type="id">tid_03235</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">05</title><title type="heft">142</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-05-142_n0021.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/142,021</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Actionär. (Petroleumaktien)</head>
+            <p ana="pr31830">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_27459" ref="#fk__p_37761">Actionär</rs>.</seg></seg> <seg type="insult">Herr <rs type="pers" ana="n_27460" ref="#fk__p_40282">David Fanto</rs></seg> ist jetzt <seg type="insult">der Nährvater der Wiener<lb/>
+Presse</seg>, <foreign xml:lang="la">»Petroleum non olet«</foreign> ihr Wahlspruch. »Das Rohölcartell ist<lb/>
+fertig«, »die ‚<rs type="inst">Petrolea</rs>‘ ist als constituiert zu betrachten«, »die Versammlung<lb/>
+ der Petroleum-Raffinerien findet in den nächsten Tagen statt«<lb/>
+— so geht’s nun seit Monaten immer fort. Und jedesmal steigen Petroleumactien<lb/>
+, und wenn schließlich das Cartell nicht zustande kommen sollte,<lb/>
+wird <seg type="insult">Herr <rs type="pers" ana="n_27461" ref="#fk__p_40282">Fanto</rs></seg> wenigstens schlechte Actien zu guten Preisen losgeworden<lb/>
+ sein.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_40282">
+               <persName>Fanto, David</persName>
+               <birth>
+                  <date>1852-6-29</date>
+                  <place>Holic/Slowakei</place>
+               </birth>
+               <death>
+                  <date>1920-5-27</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Industrieller</occupation>
+               <note type="comment">1., Rosenbursenstr. 4</note>
+               <note type="comment">Palais am Schwarzenbergplatz 6 (1917)</note>
+               <note type="comment">Präs. der AG f. Mineralölindustrie</note>
+            </person>
+            <person xml:id="fk__p_37761">
+               <persName>Actionär</persName>
+            </person>
+            </listPerson></back></text>
+</TEI>

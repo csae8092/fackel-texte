@@ -1,0 +1,46 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06320.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06319.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06321.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Die Lage der Deutschen in Österreich, in: Fackel Heft 15, Nr. 376, 1913, S. 36-36</title>
+            <title type="iso-date">1913-06-01</title>
+            <title type="id">tid_06320</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">15</title><title type="heft">376</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-15-376_n0036.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/376,036</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Die Lage der Deutschen in Österreich</head>
+            <p ana="pr85281">
+<space/>Die <seg type="insult"><seg ana="‚Ostdeutsche Rundschau‘"/></seg>, die es noch gibt, enthielt<lb/>
+die folgende Briefkastennotiz:<lb/>
+</p>
+            <p ana="pr85283">
+<space/>Wegen eines <seg type="spc">meisterhaften</seg> Rezeptes zur aromatischen Waldmeisterbowle<lb/>
+ wenden Sie sich nur <seg type="spc">vertrauensvoll</seg> an unseren Reichsratsabgeordneten<lb/>
+ <rs type="pers" ana="n_58926" ref="#fk__p_41062"><abbr>Dr.</abbr> <abbr>G.</abbr> Bodirsky</rs>, Mariahilferstraße 178; <seg type="spc">unsere<lb/>
+Stimme muß da bescheiden schweigen</seg>! <seg type="spc">Heil</seg>!<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_41062">
+               <persName>Bodirsky, Gustav</persName>
+               <birth>
+                  <date>1864-04-01</date>
+                  <place>Stackenwald/Mähren</place>
+               </birth>
+               <death>
+                  <date>1934-09-18</date>
+                  <place>Fulnek/Mähren</place>
+               </death>
+               <occupation>Rechtsanwalt</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

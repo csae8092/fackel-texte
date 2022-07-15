@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_12140.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_12139.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_12141.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">13. Mai, in: Fackel Heft 34, Nr. 876, 1932, S. 93-93</title>
+            <title type="iso-date">1932-10-01</title>
+            <title type="id">tid_12140</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">34</title><title type="heft">876</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-34-876_n0093.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/876,093</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>13. Mai</head>
+            <p ana="pr176903">
+<space/><date>13. Mai</date><lb/>
+</p>
+            <p ana="pr176904">
+<space/><rs type="title"><seg type="spc">Die Reise in den Mond</seg></rs>.<lb/>
+</p>
+            <p ana="pr176905">
+<space/>Programmnotiz der Wiener Vorlesung <abbr>etc.</abbr><lb/>
+</p>
+            <p ana="pr176906">
+<space/>Begleitung: <rs type="pers" ana="n_105429" ref="#fk__p_43546">Franz Mittler</rs>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_43546">
+               <persName>Mittler, Franz</persName>
+               <birth>
+                  <date>1893-4-14</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1970-12-28</date>
+                  <place>München</place>
+               </death>
+               <occupation>Pianist</occupation>
+               <note type="comment">auch Klavierbegleiter von Karl Kraus</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/8955</idno></person>
+            </listPerson></back></text>
+</TEI>

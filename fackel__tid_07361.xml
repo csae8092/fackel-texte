@@ -1,0 +1,41 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07361.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07360.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07362.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ein Scharmör, in: Fackel Heft 18, Nr. 431, 1916, S. 106-106</title>
+            <title type="iso-date">1916-08-01</title>
+            <title type="id">tid_07361</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">18</title><title type="heft">431</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-18-431_n0106.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/431,106</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ein Scharmör</head>
+            <p ana="pr99315">
+<space/>» <seg type="symbol" subtype="3dots"/> <rs type="pers" ana="name_200758" ref="#fk__p_59704">Süsser</rs> (der Verfasser des Werkes ‚<rs type="title">Deutscher, sprich deutsch!</rs>‘)<lb/>
+regt dann an, die Fremdwörter in der Schreibweise zu verdeutschen, so<lb/>
+zwar, daß man ‚Soße‘, ‚Palä‘, ‚Budoar‘ <abbr>usw.</abbr> schriebe <seg type="symbol" subtype="4dots"/>«<lb/>
+</p>
+            <p ana="pr99317">
+<space/><seg type="insult">Du Süßer!</seg><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_59704">
+               <persName>Süsser, Josef</persName>
+               <birth>
+                  <date>1878-3-18</date>
+                  <place>Hilbetten/Landskron</place>
+               </birth>
+               <occupation>Handelsschullehrer</occupation>
+               <note type="comment">Verfasser des Werkes "Deutscher, sprich deutsch!"</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

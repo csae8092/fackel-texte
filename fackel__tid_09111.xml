@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_09111.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09110.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09112.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Prag , Mozarteum, 27. Dezember, halb 8 Uhr:, in: Fackel Heft 23, Nr. 588, 1922, S. 65-66</title>
+            <title type="iso-date">1922-03-01</title>
+            <title type="id">tid_09111</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">23</title><title type="heft">588</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-23-588_n0065.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/588,065</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Prag , Mozarteum, 27. Dezember, halb 8 Uhr:</head>
+            <p ana="pr121494">
+<space/><seg type="spc">Prag</seg>, <rs type="inst"><rs type="pers" ana="n2_6813" ref="#fk__p_55699">Mozarteum</rs></rs>, <date>27. Dezember</date>, halb 8 Uhr:<lb/>
+</p>
+            <p ana="pr121495">
+<space/>I. <rs type="title">Epilog</rs>. — <rs type="title"><seg type="insult">Alle Gebildeten</seg> begreifen</rs>. — Vorbemerkung.<lb/>
+Szenen: <rs type="title">Winter in den Karpathen</rs> / <rs type="title">Der <seg type="insult"><rs type="pers">Nörgler</rs></seg> und der <seg type="insult"><rs type="pers">Optimist</rs></seg><lb/>
+[Feldpostbriefe]</rs> / <rs type="title">Wallfahrtskirche</rs> / <rs type="title">Bahnhof bei Wien</rs> / <rs type="title"><seg type="insult">Landesverteidigungsministerium<lb/>
+</seg></rs> / <rs type="title"><seg type="insult">Kriegsministerium</seg></rs> / Vorbemerkung. <rs type="title"><seg type="insult">Ringstraßenkaffee<lb/>
+</seg></rs>. — <rs type="title">Im Untergang</rs>.<lb/>
+</p>
+            <p ana="pr121496">
+<space/>II. <rs type="title">Die Republik ist schuld</rs> / <rs type="title">Wohnungswechsel</rs>. — <rs type="title">Jugend</rs> /<lb/>
+<rs type="title">Du seit langem einziges Erlebnis</rs> / <rs type="title"><rs type="pers">Eros</rs> und der Dichter</rs> / <rs type="title">Du bist<lb/>
+sie, die ich nie gekannt</rs> / <rs type="title">Todesfurcht</rs>.<lb/>
+</p>
+            <p ana="pr121497">
+<space/>III. <rs type="title"><seg type="insult">Vazierende Löwen</seg></rs>. — Szene: <rs type="title"><seg type="insult"><rs type="pers"><rs type="pers" ana="n2_6814" ref="#fk__p_56128">Erzherzog Friedrich</rs></rs></seg></rs>. —<lb/>
+<rs type="title"><seg type="insult">Aus dem Ungarischen</seg></rs>. — <rs type="title">Orgovan</rs> (mit Vorbemerkung). — <rs type="title"><seg type="insult">Reklamefahrten<lb/>
+ zur Hölle</seg></rs>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_55699">
+               <persName>Mozart, Wolfgang Amadeus</persName>
+               <birth>
+                  <date>1756-1-27</date>
+                  <place>Salzburg</place>
+               </birth>
+               <death>
+                  <date>1791-12-5</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Komponist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12303</idno></person>
+            <person xml:id="fk__p_56128">
+               <persName>Friedrich Maria Albrecht, Erzherzog</persName>
+               <birth>
+                  <date>1856-6-4</date>
+                  <place>Groß-Seelowitz/Böhmen</place>
+               </birth>
+               <death>
+                  <date>1936-12-30</date>
+                  <place>Ung. Altenburg</place>
+               </death>
+               <occupation>Offizier</occupation>
+               <note type="comment">FML, Oberbefehlshaber der k.k. Armee</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15242</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/16687</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,43 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00697.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00696.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00698.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Güterverkehr.), in: Fackel Heft 01, Nr. 029, 1900, S. 7-8</title>
+            <title type="iso-date">1900-01-01</title>
+            <title type="id">tid_00697</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">029</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-029_n0007.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/029,007</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Güterverkehr.)</head>
+            <p ana="pr6634">
+<space/><seg type="sidehead">(<seg type="spc">Güterverkehr</seg>.)</seg> <foreign xml:lang="pl">»Słobudka leśna«</foreign> ist kürzlich aus dem<lb/>
+Besitze <seg type="insult">des Exministers <rs type="pers" ana="n_4975" ref="#fk__p_37779"><abbr>v.</abbr> Jędrzejowicz</rs></seg> in das Eigenthum der »<rs type="inst">Ika</rs>«<lb/>
+(<rs type="inst">Jüdische Colonisationsgesellschaft</rs>) übergegangen.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_37779">
+               <persName>Jędrzejowicz, Adam von</persName>
+               <birth>
+                  <date>1847-12-17</date>
+                  <place>Zaczernie/Galizien</place>
+               </birth>
+               <death>
+                  <date>1924-05-04</date>
+                  <place>Krakau</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <occupation>Großgrundbesitzer</occupation>
+               <note type="comment">Minister für Galizien 1898/99</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_05430.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05429.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05431.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Wien, in: Fackel Heft 13, Nr. 331, 1911, S. 24-24</title>
+            <title type="iso-date">1911-11-30</title>
+            <title type="id">tid_05430</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">13</title><title type="heft">331</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-13-331_n0024.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/331,024</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Wien</head>
+            <p ana="pr71181">
+<space/><seg type="symbol" subtype="4dots"/> eine zahlreich besuchte Versammlung von Gewerbetreibenden<lb/>
+ statt, in der gegen die <rs type="inst">christlichsoziale Partei</rs> in scharfer<lb/>
+Weise Stellung genommen wurde. Als erster Redner besprach der<lb/>
+Delegierte des gewerblichen Zentralausschusses <rs type="pers" ana="n_51675" ref="#fk__p_52499">Rößler</rs> die traurige Lage<lb/>
+des Gewerbestandes. Er führte aus, daß insbesondere das Fuhrwerk im<lb/>
+Laufe der letzten Jahre großen Schaden gelitten habe und auch bei den<lb/>
+Behörden wenig Förderung finde. Sei es <seg type="spc">zum Beispiel nicht<lb/>
+traurig</seg>, daß jeder der Vizebürgermeister ein Automobil von Amts<lb/>
+wegen habe und der <RS pers="Josef Neumayer" globID="name_203739">Bürgermeister</RS> sogar zwei? Früher, in den Zeiten<lb/>
+der geschmähten Liberalen, sei man im ganzen mit zwei Fiakern<lb/>
+ausgekommen, und die haben völlig genügt. Redner <rs type="pers" ana="n_51676" ref="#fk__p_52499">Rößler</rs> tadelte es<lb/>
+insbesondere, daß auch ihre Privatreisen die Vizebürgermeister mittels<lb/>
+Automobils machen, so zum Beispiel Vizebürgermeister <rs type="pers" ana="n_51677" ref="#fk__p_46076">Hierhammer</rs><lb/>
+in den Naßwald und nach München. Es sei dies einerseits eine Vergeudung<lb/>
+ der Steuergelder und anderseits eine Schädigung des<lb/>
+Fiakergewerbes. Jemand, der über Repräsentationsgelder im Betrage von<lb/>
+9000 K verfügt, sei aber verpflichtet, Fiaker oder Automobile, die er<lb/>
+für seinen Privatgebrauch benötige, selbst zu bezahlen. Die steuerbezahlenden<lb/>
+ <seg type="ELIDASH">Fiakerbesitzer</seg> <seg type="spc">und Automobilbesitzer wollen<lb/>
+auch leben</seg>. (Beifall.) Handschuhmacher <rs type="pers" ana="n_51678" ref="#fk__p_56982">Sommer</rs> erklärt <seg type="symbol" subtype="4dots"/><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_56982">
+               <persName>Sommer, Carl</persName>
+               <birth>
+                  <date>1872-9-15</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1927-2-7</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Handschuhmacher</occupation>
+               <note type="comment">1., Plankengasse 7</note>
+            </person>
+            <person xml:id="fk__p_46076">
+               <persName>Hierhammer, Heinrich</persName>
+               <birth>
+                  <date>1857-05-11</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1936-12-23</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <occupation>Journalist</occupation>
+               <note type="comment">RP 17.2.1912 Prozeß Stahlich Hierhammer über christlichsoz. Kandidatur</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/7858</idno></person>
+            <person xml:id="fk__p_52499">
+               <persName>Rößner, Johann</persName>
+               <birth>
+                  <date>1870-8-18</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1916-1-1</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Fuhrunternehmer</occupation>
+               <note type="comment">1911 Delegierter des gewerblichen Zentralausschusses</note>
+               <note type="comment">Wiener Gewerbetreibender</note>
+               <note type="comment">19., Sandgasse 7</note>
+               <note type="comment">Namenskorrektur!</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

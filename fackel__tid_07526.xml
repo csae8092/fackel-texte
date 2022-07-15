@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07526.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07525.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07527.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Für Kirchen, in: Fackel Heft 18, Nr. 437, 1916, S. 119-119</title>
+            <title type="iso-date">1916-11-01</title>
+            <title type="id">tid_07526</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">18</title><title type="heft">437</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-18-437_n0119.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/437,119</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Für Kirchen</head>
+            <p ana="pr100883">
+<space/>»Die ‚<rs type="magazine" ana="werk_20887">Preußische Kirchenzeitung</rs>‘ schreibt: In einer Berliner Kirche<lb/>
+soll am <date>1. August</date> ein Gottesdienst mit folgender Ordnung stattgefunden<lb/>
+haben: 1. Gemeinde: Wir treten zum Beten vor Gott dem Gerechten<lb/>
+<abbr>u. s. w.</abbr> 2. Geistlicher: Eingangsgebet. Schriftverlesung: 2. <rs type="title"><abbr>Kön.</abbr></rs> 23, 1<lb/>
+bis 3. 3. Gemeinde: <seg type="spc">Ein Lied von</seg> <rs type="pers" ana="n_65942" ref="#fk__p_42836"><abbr>E. M.</abbr> <seg type="spc">Arndt</seg></rs> und <rs type="title">Eine<lb/>
+feste Burg</rs>. 4. Geistlicher: <seg type="spc">Verlesung der Botschaft des<lb/>
+Kaisers an das deutsche Volk</seg>. Predigt über <rs type="title"><abbr>Sam.</abbr></rs> 7, 12.<lb/>
+5. Gemeinde: <rs type="title">Vaterunser</rs>. 6. Gemeinde: <rs type="title"><seg type="spc">Die Wacht am<lb/>
+Rhein</seg></rs>. 7. Zum Schluß: <seg type="spc">Ein dreimalig gewaltig durch<lb/>
+die ehrwürdigen Räume des Gotteshauses brausendes<lb/>
+ Hoch auf den Kaiser</seg> <seg type="symbol" subtype="4dots"/>«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_42836">
+               <persName>Arndt, Ernst Moritz</persName>
+               <birth>
+                  <date>1769-12-26</date>
+                  <place>Schoritz bei Garz auf Rügen</place>
+               </birth>
+               <death>
+                  <date>1860-1-29</date>
+                  <place>Bonn</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/6027</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,123 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_12248.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_12247.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_12249.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Prag, Mozarteum, in: Fackel Heft 34, Nr. 885, 1932, S. 14-14</title>
+            <title type="iso-date">1932-12-01</title>
+            <title type="id">tid_12248</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">34</title><title type="heft">885</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-34-885_n0014.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/885,014</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Prag, Mozarteum</head>
+            <p ana="pr178634">
+<space/><seg type="spc">Prag</seg>, <rs type="inst"><rs type="pers" ana="n2_9526" ref="#fk__p_55699">Mozarteum</rs></rs><lb/>
+</p>
+            <p ana="pr178635">
+<space/><date>8. November</date>:<lb/>
+</p>
+            <p ana="pr178636">
+<space/><rs type="title">Vorbemerkung</rs>. — <rs type="pers" ana="n_106005" ref="#fk__p_55589"><seg type="spc">Shakespeare</seg></rs>: <rs type="title"><seg type="spc"><rs type="pers">Timon</rs> von Athen</seg></rs>.<lb/>
+</p>
+            <p ana="pr178637">
+<space/>Vorbemerkung:<lb/>
+</p>
+            <p ana="pr178638">
+<space/>Eine Ansprache an die Abwesenden:<lb/>
+</p>
+            <p ana="pr178640">
+<space/><rs type="pers">Timons</rs> Menschenhaß wäre noch von der Erfahrung zu<lb/>
+nähren, daß sich sein Dichter einer so geringen Zugkraft erfreut.<lb/>
+Ich habe diese schon in <seg type="insult">allen möglichen Städten</seg>, wo angeblich<lb/>
+deutsch gesprochen wird, erprobt, und Prag will natürlich nicht<lb/>
+zurückbleiben. Zur Rehabilitierung des kulturellen Bedürfnisses<lb/>
+ könnte freilich eingewendet werden, daß es auch<lb/>
+darauf ankomme, wer und wie man <rs type="pers" ana="n_106006" ref="#fk__p_55589">Shakespeare</rs> bringt. Das hat<lb/>
+etwas für sich. Es ist richtig, daß meine Zugkraft in der letzten<lb/>
+Zeit abgenommen hat, teils weil ich mich ausgeschrieben habe,<lb/>
+teils aus andern bekannten Gründen. Auch ich bin überzeugt,<lb/>
+daß wenn <seg type="insult">Herr <rs type="pers" ana="n_106007" ref="#fk__p_51195">Eger</rs></seg>, zu dessen Erfolgen ich als älterer Kenner<lb/>
+seiner <seg type="insult">Individualität</seg> Prag nur beglückwünschen kann, die Sache<lb/>
+in die Hand nähme — ich stelle mir vor, in der Regie von<lb/>
+<rs type="pers" ana="n_106008" ref="#fk__p_52119">Renato Mordo</rs> und mit Kulissen <seg type="insult">des Herrn <rs type="pers" ana="n_106009" ref="#fk__p_51500">Pirchan</rs></seg>, der im<lb/>
+Zwischenakt auch einige seiner <seg type="insult">würzigen Anekdoten</seg> zum besten<lb/>
+geben könnte — also ich bin überzeugt, der Zulauf zum <rs type="title"><rs type="pers">Timon</rs></rs><lb/>
+wäre dann so groß, daß sich am Schluß »drei <rs type="pers" ana="n_106010" ref="#fk__p_55589">Shakespeares</rs>«<lb/>
+verbeugen könnten.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_55589">
+               <persName>Shakespeare, William</persName>
+               <birth>
+                  <date>1564-4-23?</date>
+                  <place>Stratford-upon-Avon</place>
+               </birth>
+               <death>
+                  <date>1616-4-23</date>
+                  <place>Stratford-upon-Avon</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2412</idno></person>
+            <person xml:id="fk__p_51195">
+               <persName>Eger, Paul</persName>
+               <birth>
+                  <date>1881-1-23</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1947-4-9</date>
+                  <place>Luzern</place>
+               </death>
+               <occupation>Dramaturg</occupation>
+               <occupation>Regisseur</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11227</idno></person>
+            <person xml:id="fk__p_51500">
+               <persName>Pirchan, Emil</persName>
+               <birth>
+                  <date>1884-05-27</date>
+                  <place>Brünn</place>
+               </birth>
+               <death>
+                  <date>1957-12-20</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Bühnenbildner</occupation>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Maler</occupation>
+               <occupation>Architekt</occupation>
+            </person>
+            <person xml:id="fk__p_55699">
+               <persName>Mozart, Wolfgang Amadeus</persName>
+               <birth>
+                  <date>1756-1-27</date>
+                  <place>Salzburg</place>
+               </birth>
+               <death>
+                  <date>1791-12-5</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Komponist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12303</idno></person>
+            <person xml:id="fk__p_52119">
+               <persName>Mordo, Renato</persName>
+               <birth>
+                  <date>1894-8-3</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1955-11-5</date>
+                  <place>Mainz</place>
+               </death>
+               <occupation>Regisseur</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/21602</idno></person>
+            </listPerson></back></text>
+</TEI>

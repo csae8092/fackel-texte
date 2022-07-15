@@ -1,0 +1,40 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06099.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06098.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06100.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Urteilsbegründung: A Hur war’s!, in: Fackel Heft 14, Nr. 368, 1913, S. 21-21</title>
+            <title type="iso-date">1913-02-01</title>
+            <title type="id">tid_06099</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">14</title><title type="heft">368</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-14-368_n0021.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/368,021</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Urteilsbegründung: A Hur war’s!</head>
+            <p ana="pr82198">
+<space/>»<seg type="sidehead">(Milde Bestrafung eines Muttermörders.)</seg> Aus Mannheim, <date>23. <abbr>d. M.</abbr></date>,<lb/>
+wird uns gedrahtet: Das <rs type="inst">Schwurgericht</rs> verurteilte den 19jährigen Arbeiter<lb/>
+<rs type="pers" ana="n_57607" ref="#fk__p_39080">Benzinger</rs>, der am <date>8. Dezember vorigen Jahres</date> seine Mutter durch elf<lb/>
+Messerstiche ermordete, weil sie einen <seg type="insult">leichtsinnigen Lebenswandel</seg><lb/>
+führte und er sie mit einem Liebsten überraschte, unter weitgehender<lb/>
+Zubilligung mildernder Umstände zu zwei Jahren Gefängnis.«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_39080">
+               <persName>Benzinger</persName>
+               <birth>
+                  <date>1894?</date>
+               </birth>
+               <occupation>Arbeiter</occupation>
+               <note type="comment">Muttermörder in Mannheim 1912/13</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

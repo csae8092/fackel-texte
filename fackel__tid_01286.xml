@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01286.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01285.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01287.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(An gebrochenem Herzen.), in: Fackel Heft 02, Nr. 055, 1900, S. 13-13</title>
+            <title type="iso-date">1900-10-01</title>
+            <title type="id">tid_01286</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">055</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-055_n0013.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/055,013</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(An gebrochenem Herzen.)</head>
+            <p ana="pr12396">
+<space/><seg type="insult"><inciptit>Ein</inciptit> tragisches Schicksal</seg> wird von <seg type="insult">unserer liberalen<lb/>
+ Presse</seg> in spaltenlangen Artikeln beklagt: <seg type="insult"><rs type="pers" ana="n_10171" ref="#fk__p_53300">»Baron«<lb/>
+Sigmund <seg type="spc">Schoßberger</seg></rs></seg> ist <seg type="insult">an gebrochenem Herzen<lb/>
+wegen des Tiefstandes der Creditactie</seg> gestorben. Schon<lb/>
+seit Wochen war <seg type="insult">diese Säule des Budapester Freisinns</seg><lb/>
+geborsten; über Nacht ist sie jetzt gestürzt. Und im<lb/>
+Gebälke der Wiener und Budapester <rs type="inst">Börse</rs> hört man’s<lb/>
+krachen <seg type="symbol" subtype="4dots"/> »Ist denn kein <rs type="pers" ana="n_10172" ref="#fk__p_42655">Zola</rs> da«, um den <seg type="insult">Kampf<lb/>
+des Budapester Speculanten</seg> zu schildern? <seg type="insult">»Dank vom<lb/>
+Hause <rs type="pers" ana="n_10173" ref="#fk__p_37913">Rothschild</rs>!«</seg>, sollen seine letzten Worte gewesen<lb/>
+sein. Er hatte den Gründern der <rs type="inst">Creditanstalt</rs> die<lb/>
+geschenkten Actien zu guten Preisen abgenommen,<lb/>
+hatte die Million, die sie verdienten, aus seiner Tasche<lb/>
+gezahlt und noch drei andere dazu verloren. Dann<lb/>
+flehte er die <rs type="pers" ana="n_10174" ref="#fk__p_37913">Rothschild-Gruppe</rs> um Hilfe an. Sie ward<lb/>
+ihm zugesagt. Aber die letzten Wochen haben seine<lb/>
+Hoffnungen enttäuscht. <rs type="pers" ana="n_10175" ref="#fk__p_37913">Rothschild</rs> hat für den Mann,<lb/>
+dem er so stark verpflichtet war, nicht einen Kreuzer<lb/>
+geopfert. <RS persTitle="Goethe" title="Derselbe (Lieder der Mignon)">Die <rs type="pers" ana="n_10176" ref="#fk__p_53300">Sigmund Schoßberger</rs> hatten schuldig<lb/>
+werden lassen, überließen ihn der Pein</RS>. Da legte er<lb/>
+sich hin zum Sterben. Auf seinen Grabstein wird man<lb/>
+schreiben müssen: »Er blühte <date>1899</date>, als die Creditactie<lb/>
+ 750 Kronen wert war, und starb <date>1900</date>, als sie<lb/>
+650 stand«.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_37913">
+               <persName>Rothschild, Albert Salomon Freiherr von</persName>
+               <birth>
+                  <date>1844-10-29</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1911-2-11</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Bankier</occupation>
+               <note type="comment">Liaison mit Helene Odilon</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_19430</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12576</idno></person>
+            <person xml:id="fk__p_42655">
+               <persName>Zola, Émile</persName>
+               <birth>
+                  <date>1840-4-2</date>
+                  <place>Paris</place>
+               </birth>
+               <death>
+                  <date>1902-9-29</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Journalist</occupation>
+               <note type="comment">Ögg gibt ihm 717/26, vielleicht wegen Dreyfus-Syndikat</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/13194</idno></person>
+            <person xml:id="fk__p_53300">
+               <persName>Schoßberger de Tornya, Sigmund Baron</persName>
+               <birth>
+                  <date>1827-10-8</date>
+                  <place>Pest</place>
+               </birth>
+               <death>
+                  <date>1900-10-5</date>
+                  <place>Budapest</place>
+               </death>
+               <occupation>Bankier</occupation>
+               <occupation>Gutsbesitzer</occupation>
+               <note type="comment">Budapest</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

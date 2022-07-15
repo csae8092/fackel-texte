@@ -1,0 +1,118 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_09195.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09194.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09196.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Prag, Mozarteum, 10. Mai, 8. Uhr:, in: Fackel Heft 24, Nr. 595, 1922, S. 70-70</title>
+            <title type="iso-date">1922-07-01</title>
+            <title type="id">tid_09195</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">24</title><title type="heft">595</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-24-595_n0070.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/595,070</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Prag, Mozarteum, 10. Mai, 8. Uhr:</head>
+            <p ana="pr122368">
+<space/><seg type="spc">Prag</seg>, <rs type="inst"><rs type="pers" ana="n2_6871" ref="#fk__p_55699">Mozarteum</rs></rs>, <date>10. Mai</date>, 8. Uhr:<lb/>
+</p>
+            <p ana="pr122369">
+<space/>I. Aus: <rs type="title"><seg type="insult">Der Journalismus</seg></rs>. Von <rs type="pers" ana="n_74880" ref="#fk__p_46252">Honoré de Balzac</rs>. — <rs type="title"><seg type="insult">Die<lb/>
+Zeitung</seg></rs>. — <rs type="title">Ostende, erster Morgen</rs>. — <rs type="title">Wenn <seg type="insult">Herr <rs type="pers" ana="n2_6872" ref="#fk__p_49994">Harden</rs></seg> glaubt</rs>. —<lb/>
+<rs type="title">Aus »Forumszene«</rs>. — <rs type="title"><seg type="insult">Ein Satz des <rs type="pers" ana="n2_6873" ref="#fk__p_51209">Paul Goldmann</rs></seg></rs>. —<lb/>
+<rs type="title">Dorfkirchl schaut zu</rs>. — <rs type="title"><rs type="pers" ana="n2_6874" ref="#fk__p_43714">Conrad <abbr>v.</abbr> Hötzendorf</rs></rs>. — Szene: <rs type="title">Armeeoberkommando<lb/>
+</rs>. — <rs type="title">Gespräch mit <FERR href="FK-24-601_n0097.xml" fcorrID="fk_04_fcorr_28908322" id="fk_04_ferr_28908322" emID="fk_04_em_28908325"><ERR fcorr="dem">den</ERR></FERR> Monarchisten</rs> / <rs type="title"><seg type="insult">Prestige</seg></rs> /<lb/>
+<rs type="title"><seg type="insult"><rs type="pers" ana="n2_6875" ref="#fk__p_43514">Franz Joseph</rs></seg></rs> / <rs type="title">Der Letzte</rs> / <rs type="title"><seg type="insult">Der Funktionär</seg></rs>. — <rs type="title"><seg type="insult">Die Grüngekleideten</seg></rs>. —<lb/>
+<rs type="title">Alles, nur nicht die Gobelins!</rs><lb/>
+</p>
+            <p ana="pr122370">
+<space/>II. Monolog des <rs type="pers">Nörglers</rs> (V. Akt).<lb/>
+</p>
+            <p ana="pr122371">
+<space/>III. <rs type="title">Der tote Wald</rs> / <rs type="title">Die Raben</rs> / <rs type="title">Die weiblichen Hilfskräfte</rs>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46252">
+               <persName>Balzac, Honoré de</persName>
+               <birth>
+                  <date>1799-5-20</date>
+                  <place>Tours</place>
+               </birth>
+               <death>
+                  <date>1850-8-18</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10825</idno></person>
+            <person xml:id="fk__p_43714">
+               <persName>Conrad-Hötzendorf, Franz Graf </persName>
+               <birth>
+                  <date>1852-11-11</date>
+                  <place>Penzing bei Wien</place>
+               </birth>
+               <death>
+                  <date>1925-8-25</date>
+                  <place>Bad Mergentheim</place>
+               </death>
+               <occupation>Offizier</occupation>
+               <note type="comment">seit 1906 Chef des Generalstabs</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_14266</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11102</idno></person>
+            <person xml:id="fk__p_49994">
+               <persName>Harden, Maximilian</persName>
+               <birth>
+                  <date>1861-10-20</date>
+                  <place>Berlin</place>
+               </birth>
+               <death>
+                  <date>1927-10-30</date>
+                  <place>Montana-Vermala, Schweiz</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Publizist</occupation>
+               <note type="comment">166/18 Johannes</note>
+               <note type="comment">Hrsg. der "Zukunft"</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11581</idno></person>
+            <person xml:id="fk__p_43514">
+               <persName>Franz Joseph I., Kaiser</persName>
+               <birth>
+                  <date>1830-8-18</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1916-11-21</date>
+                  <place>Wien</place>
+               </death>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15150</idno></person>
+            <person xml:id="fk__p_51209">
+               <persName>Goldmann, Paul</persName>
+               <birth>
+                  <date>1865-1-31</date>
+                  <place>Breslau</place>
+               </birth>
+               <death>
+                  <date>1935-9-25</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11485</idno></person>
+            <person xml:id="fk__p_55699">
+               <persName>Mozart, Wolfgang Amadeus</persName>
+               <birth>
+                  <date>1756-1-27</date>
+                  <place>Salzburg</place>
+               </birth>
+               <death>
+                  <date>1791-12-5</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Komponist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12303</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03731.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03730.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03732.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Gebildeter. (Ein Nachruf der ‚Neuen Freien Presse‘), in: Fackel Heft 06, Nr. 170, 1904, S. 22-22</title>
+            <title type="iso-date">1904-12-7</title>
+            <title type="id">tid_03731</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">06</title><title type="heft">170</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-06-170_n0022.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/170,022</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Gebildeter. (Ein Nachruf der ‚Neuen Freien Presse‘)</head>
+            <p ana="pr37268">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="name_203419" ref="#fk__p_44243">Gebildeter</rs>.</seg></seg></seg> <seg type="insult">Die denkwürdigen Männer der ‚<rs type="paper" ana="werk_13461">Neuen Freien Presse</rs>‘!</seg><lb/>
+Aus einem <seg type="insult">Nachruf</seg>: »Nicht alles, was über seine Eßkunst in qualitativer<lb/>
+ und in quantitativer Hinsicht erzählt wurde, mag buchstäblich wahr<lb/>
+gewesen sein; aber hartnäckig erhielt sich die Gasthaussage, <rs type="pers" ana="n_31964" ref="#fk__p_49922">Baron<lb/>
+Springer</rs> habe in einem unserer vornehmsten Restaurants das eifersüchtig<lb/>
+ gehütete Vorrecht genossen, zur Mittagsstunde in die Küche zu<lb/>
+gehen und sich selbst sein Rindfleisch abzuschneiden.«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_49922">
+               <persName>Springer, Max Freiherr von</persName>
+               <birth>
+                  <date>1808-11-10</date>
+                  <place>Ansbach</place>
+               </birth>
+               <death>
+                  <date>1885-4-13</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Bankier</occupation>
+               <occupation>Industrieller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/63825</idno></person>
+            <person xml:id="fk__p_44243">
+               <persName>Gebildeter</persName>
+            </person>
+            </listPerson></back></text>
+</TEI>

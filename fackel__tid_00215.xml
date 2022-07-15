@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00215.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00214.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00216.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Mitteilung des Verlegers der ‚Fackel‘), in: Fackel Heft 01, Nr. 010, 1899, S. 30-31</title>
+            <title type="iso-date">1899-07-01</title>
+            <title type="id">tid_00215</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">010</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-010_n0030.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/010,030</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Mitteilung des Verlegers der ‚Fackel‘)</head>
+            <p ana="pr2189">
+<space/><inciptit>Der</inciptit> Verleger der ‚<rs type="self" ana="werk_613">Fackel</rs><choice><sic>’</sic><corr>‘</corr></choice> hat an die Buchhändler auf recommandierter<lb/>
+ Karte folgende Mittheilung gelangen lassen:<lb/>
+</p>
+            <p ana="pr2191">
+<space/>»Die Zeichnung auf der ersten Umschlagseite der in meinem<lb/>
+Verlage erscheinenden, von Herrn <rs type="pers" ana="n_1613" ref="#fk__p_47565">Karl Kraus</rs> herausgegebenen<lb/>
+periodischen Druckschrift ‚<rs type="self" ana="werk_614">Die Fackel</rs><choice><sic>’</sic><corr>‘</corr></choice> steht unter dem Schutze des<lb/>
+Gesetzes vom <date>6. Jänner 1890</date>.<lb/>
+</p>
+            <p ana="pr2192">
+<space/>Ich zeige Ihnen dies mit dem höflichen Bemerken an, dass<lb/>
+Sie die mit einem nachgemachten Umschlag versehene, im Selbstverlage<lb/>
+</p>
+            <p ana="pr2192">
+ von <rs type="pers" ana="n_1614" ref="#fk__p_42887"><abbr>E.</abbr> Rosenberger</rs> erschienene, in der <rs type="inst">Buchdruckerei<lb/>
+‚Industrie<choice><sic>’</sic><corr>‘</corr></choice></rs> gedruckte Broschüre ‚<rs type="magazine" ana="werk_615">Der Pinsel</rs><choice><sic>’</sic><corr>‘</corr></choice> nicht verkaufen dürfen,<lb/>
+ohne gegen den § 23 des citierten Gesetzes zu verstoßen.«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_47565">
+               <persName>Kraus, Karl</persName>
+               <birth>
+                  <date>1874-4-28</date>
+                  <place>Jicin, Böhmen</place>
+               </birth>
+               <death>
+                  <date>1936-6-12</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Publizist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11988</idno></person>
+            <person xml:id="fk__p_42887">
+               <persName>Rosenberger, Erwin</persName>
+               <birth>
+                  <date>1875-2-15</date>
+                  <place>Brandeis</place>
+               </birth>
+               <death>
+                  <date>1966-10-28</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

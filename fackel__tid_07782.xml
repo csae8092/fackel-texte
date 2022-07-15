@@ -1,0 +1,42 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07782.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07781.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07783.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Die Verlassenschaft Verhaerens, in: Fackel Heft 19, Nr. 454, 1234, S. 42-42</title>
+            <title type="iso-date">1234-01-01</title>
+            <title type="id">tid_07782</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">19</title><title type="heft">454</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-19-454_n0042.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/454,042</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Die Verlassenschaft Verhaerens</head>
+            <p ana="pr104100">
+<space/>Die <rs type="inst">Firma <rs type="pers" ana="n2_5927" key="#fk__p_58626"><abbr>M.</abbr> Zweig</rs></rs>, mechanische Weberei in Ober-Rosenthal<lb/>
+bei Reichenberg, mit Niederlassung in Wien, I. Esslinggasse 13, hat<lb/>
+<rs type="pers" ana="n_66958" ref="#fk__p_53600"><abbr>Dr.</abbr> <seg type="spc">Stephan Zweig</seg></rs>, Schriftsteller in Wien,<lb/>
+als Teilhaber aufgenommen.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_53600">
+               <persName>Zweig, Stefan</persName>
+               <birth>
+                  <date>1881-11-28</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1942-2-22</date>
+                  <place>Petropolis, Brasilien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/13212</idno></person>
+            </listPerson></back></text>
+</TEI>

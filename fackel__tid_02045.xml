@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02045.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02044.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02046.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Aus einer Theaterkritik, in: Fackel Heft 03, Nr. 086, 1901, S. 11-12</title>
+            <title type="iso-date">1901-11-26</title>
+            <title type="id">tid_02045</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">03</title><title type="heft">086</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-03-086_n0011.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/086,011</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Aus einer Theaterkritik</head>
+            <p ana="pr19950">
+<space/><seg type="insult"><seg type="spc">Aus einer Theaterkritik</seg></seg>: »<QUOTE rn="1" sourceID="FK-03-086_n0011_a">Den Schluss machte<lb/>
+<rs type="pers" ana="n_16959" ref="#fk__p_43850">Friedrich Ludwig Zacharias Werner</rs>, er, der als Freimaurer begann,<lb/>
+als katholischer Prediger endete. ‚<rs type="title">Der <date>24. Februar</date></rs>‘, den wir heute<lb/>
+von ihm sahen, war seine einzige That. <OMED>— —</OMED> Was immer man<lb/>
+gegen <rs type="pers" ana="n_16960" ref="#fk__p_43850">Zacharias Werner</rs> einwenden mag, <seg type="spc">Stimmung zu machen<lb/>
+verstand er</seg>.</QUOTE>« (<seg ana="‚Neue Freie Presse‘, 15. November"/>.)<lb/>
+</p>
+            <p ana="pr19951">
+<space/>Nach ihm aber kamen <seg type="insult"><RS pers="Hermann Bahr" globID="name_201247">Dramatiker</RS></seg> auf, die sich von ihm nur<lb/>
+dadurch unterscheiden, dass sie vermuthlich nicht als katholische<lb/>
+Prediger enden werden. Sonst gleichen sie ihm vielfach: Sie begannen<lb/>
+ als Freimaurer und verstehen es, <seg type="insult">Stimmung</seg> zu machen.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_43850">
+               <persName>Werner, Friedrich Ludwig Zacharias</persName>
+               <birth>
+                  <date>1768-11-18/19</date>
+                  <place>Königsberg</place>
+               </birth>
+               <death>
+                  <date>1823-01-17</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">wurde um Mitternacht geboren (Deutsche Biographie)</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,44 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06928.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06927.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06929.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">So viel?, in: Fackel Heft 17, Nr. 406, 1915, S. 26-26</title>
+            <title type="iso-date">1915-10-01</title>
+            <title type="id">tid_06928</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">17</title><title type="heft">406</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-17-406_n0026.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/406,026</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>So viel?</head>
+            <p ana="pr93267">
+<space/>»Das <rs type="inst"><abbr>k. k.</abbr> israelitische Militärseelsorgeamt</rs> hat für seine Gläubigen<lb/>
+und für die ins Feld Ziehenden ein kleines Andachtsbüchlein vorbereitet,<lb/>
+das vom Feldrabbiner <rs type="pers" ana="n_63032" ref="#fk__p_40734"><abbr>Dr.</abbr> Arnold Frankfurter</rs> verfaßt und vom Feldrabbiner<lb/>
+<rs type="pers" ana="n_63033" key="#fk__p_40941"><abbr>Dr.</abbr> Ernst Deutsch</rs> ins Ungarische übersetzt wurde. Vierzigtausend solcher<lb/>
+Büchlein sind bereits verteilt, aber <seg type="spc">noch unendlich viele</seg> Soldaten wären<lb/>
+damit zu beteilen, wenn die Kosten aufgebracht würden <seg type="symbol" subtype="4dots"/>«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_40734">
+               <persName>Frankfurter, Arnold</persName>
+               <birth>
+                  <date>1881-12-18</date>
+                  <place>Szobotist/Ungarn</place>
+               </birth>
+               <death>
+                  <date>1942-3-19</date>
+                  <place>Konzentrationslager Buchenwald</place>
+               </death>
+               <occupation>Rabbiner</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

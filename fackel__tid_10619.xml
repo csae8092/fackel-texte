@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_10619.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10618.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10620.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Der Plauderer, in: Fackel Heft 28, Nr. 735, 1926, S. 112-113</title>
+            <title type="iso-date">1926-10-01</title>
+            <title type="id">tid_10619</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">28</title><title type="heft">735</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-28-735_n0112.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/735,112</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Der Plauderer</head>
+            <p ana="pr148014">
+hört im Grammophon <rs type="pers" ana="n_89108" ref="#fk__p_37978">Girardi</rs> das <RS pers="Ferdinand Raimund"><rs type="title" ana="name_202518" ref="#fk__p_43227">Hobellied</rs></RS> singen. Er sieht ihn<lb/>
+natürlich dabei und beschreibt den großen Moment der dritten<lb/>
+Strophe (dem <rs type="pers" ana="n_89109" ref="#fk__p_37978">Girardi</rs> übrigens, in frommer Furcht des Erlebnisses,<lb/>
+nie ganz gewachsen war):<lb/>
+</p>
+            <p ana="pr148016">
+— — Die größte Coupletstrophe, die der deutschen Bühne jemals<lb/>
+gegeben wurde!<lb/>
+</p>
+            <p ana="pr148017">
+<space/><seg type="symbol" subtype="2dots"/> Auf offener Szene hat er dabei jedesmal einen kleinen Schritt nach<lb/>
+vorne gemacht. Die Stimme um Nuancen weicher. Das Orchester trat<lb/>
+vollständig hinter der Deklamation zurück. Die Atempausen wurden<lb/>
+länger. Und wenn auch an dem <seg type="spc">langen hageren Körper</seg><lb/>
+keine Bewegung heftigeres Echauffement verriet <seg type="symbol" subtype="4dots"/> so gewannen<lb/>
+doch seine lieben, tiefliegenden Augen von Sekunde zu Sekunde mehr<lb/>
+Glanz, schimmerten jenem Augenblick entgegen, von dem die dritte<lb/>
+Strophe spricht, nahmen tränenbetauten Abschied, ehe ihr Träger <seg type="symbol" subtype="3dots"/><lb/>
+</p>
+            <lg>
+<l><seg type="symbol" subtype="3dots"/> Da leg’ ich <seg type="spc">halt mein</seg> Hobel hin</l>
+<l>Und sag’ der Welt Ade.</l>
+</lg>
+            <p ana="pr148021">
+<space/>Langsam und leise kommen diese Worte aus dem Grammophon. — —<lb/>
+</p>
+            <p ana="pr148023">
+Nicht ganz diese. Man müßte meinen, daß einer verpflichtet wäre,<lb/>
+die »<RS pers="Ferdinand Raimund" globID="name_204051">größte Coupletstrophe, die der deutschen Bühne jemals<lb/>
+gegeben wurde</RS>« richtig zu zitieren. Aber vielleicht ist das<lb/>
+Grammophon schuld, das ihm ja auch den Eindruck eines langen<lb/>
+hageren <rs type="pers" ana="n_89110" ref="#fk__p_37978">Girardi</rs> vermittelt hat. Wenn nur nicht das Denkmal<lb/>
+nach diesem Entwurf entsteht!<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_37978">
+               <persName>Girardi, Alexander</persName>
+               <birth>
+                  <date>1850-12-5</date>
+                  <place>Graz</place>
+               </birth>
+               <death>
+                  <date>1918-4-20</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11441</idno></person>
+            <person xml:id="fk__p_43227">
+               <persName>Raimund, Ferdinand</persName>
+               <birth>
+                  <date>1790-6-1</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1836-9-5</date>
+                  <place>Pottenstein, Niederösterreich</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Ögg teilt die Valentin-Stelle 254/4 Nestroy zu</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12468</idno></person>
+            </listPerson></back></text>
+</TEI>

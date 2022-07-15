@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_09478.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09477.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09479.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Ergänzung der Programmnotiz zum „Lumpazivagabundus“), in: Fackel Heft 25, Nr. 622, 1923, S. 112-112</title>
+            <title type="iso-date">1923-06-01</title>
+            <title type="id">tid_09478</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">25</title><title type="heft">622</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-25-622_n0112.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/622,112</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Ergänzung der Programmnotiz zum „Lumpazivagabundus“)</head>
+            <p ana="pr126738">
+<space/>Die in <rs type="selfRef" ana="werk_25192"><abbr>Nr.</abbr> 608—612</rs> enthaltene Programm-Notiz zum<lb/>
+»<rs type="title"><rs type="pers">Lumpazivagabundus</rs></rs>« ergänzend, vergegenwärtigt nachträgliche<lb/>
+Erinnerung das Bild des echtesten <rs type="pers">Knieriem</rs>, den der Verfasser vor<lb/>
+etwa zwei Jahrzehnten in einem Sommertheater gesehen hat: des<lb/>
+<rs type="pers" ana="n_78115" ref="#fk__p_46919">Nestroyspielers</rs> <rs type="pers" ana="n_78116" ref="#fk__p_50899">Oskar <seg type="spc">Sachs</seg></rs>, dessen Wucht und Fähigkeit, aus<lb/>
+dem Satzbau als Gestalt hervorzutreten, beträchtlich ist und seit<lb/>
+dem Hinweis in <seg type="insult">»<rs type="title"><rs type="pers" ana="n2_7052" ref="#fk__p_46919">Nestroy</rs> und die Nachwelt</rs>«</seg> in eben deren<lb/>
+Theaterniederung noch mehr verkannt und vergeudet wurde. (Oder<lb/>
+eigentlich: die Vorstellung seiner Kongruenz mit der Gestalt des<lb/>
+<rs type="pers">Knieriem</rs> war stärker als die Erinnerung, ihn auch als diesen<lb/>
+gesehen zu haben.) Der Nachtrag ist doppelt geboten in den Tagen<lb/>
+des <seg type="insult"><rs type="inst">Burgtheaterjuxes</rs></seg> (von dem Schauderdinge erzählt werden) und<lb/>
+da der <seg type="insult">Unfug</seg> der Maskerade eines Schusters, hinter dem sich<lb/>
+<seg type="insult">die Frau <rs type="pers" ana="n_78117" ref="#fk__p_45523">Niese</rs></seg> verbirgt, wieder einmal gewagt, ja durch <seg type="insult">die<lb/>
+Damen <rs type="pers">Leim</rs> und <rs type="pers">Zwirn</rs></seg> vervollständigt wird und Opernsänger<lb/>
+in einer nicht vorkommenden »Konzertszene« auftreten. Daß<lb/>
+<seg type="insult">eine so schundige Zeit</seg> kein vollwertiges Theater erschaffen<lb/>
+kann, ist begreiflich. Aber daß sie auch die spärlichen Reste<lb/>
+von Wert und Eigenart nicht achtet und daß zum Beispiel<lb/>
+keine Bühne nach dem von mir entdeckten und erweckten<lb/>
+Meisterstück »<rs type="title">Eine Wohnung zu vermieten</rs>« (mit <rs type="pers" ana="n_78118" ref="#fk__p_50899">Sachs</rs> als<lb/>
+<rs type="pers">Cajetan</rs>) langt, scheint schon eine Anstrengung der <seg type="insult">Wurstigkeit</seg><lb/>
+zu bedeuten.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_50899">
+               <persName>Sachs, Oskar</persName>
+               <birth>
+                  <date>1869-01-23</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1941-2-8</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <note type="comment">4., Margaretenstr. 29</note>
+               <note type="comment">letzte Adresse: 18., Antonigasse 70; Urnenhain</note>
+               <note type="comment">wurde 26.10.1938 schwerkrank und gelähmt aus seiner Whg. 4., Weyringergasse 16-18 delogiert</note>
+            </person>
+            <person xml:id="fk__p_46919">
+               <persName>Nestroy, Johann Nepomuk</persName>
+               <birth>
+                  <date>1801-12-7</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1862-5-25</date>
+                  <place>Graz</place>
+               </death>
+               <occupation>Sänger</occupation>
+               <occupation>Schauspieler</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12338</idno></person>
+            <person xml:id="fk__p_45523">
+               <persName>Niese, Hansi</persName>
+               <birth>
+                  <date>1875-1-30</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1934-4-4</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schauspielerin</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/21952</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_10995.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10994.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10996.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Bücher), in: Fackel Heft 30, Nr. 781, 1928, S. 67-68</title>
+            <title type="iso-date">1928-06-01</title>
+            <title type="id">tid_10995</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">30</title><title type="heft">781</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-30-781_n0067.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/781,067</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Bücher)</head>
+            <p ana="pr155533">
+<space/>Das Buch <rs type="title"><seg type="spc">Epigramme</seg></rs> ist am <date>27. September 1927</date><lb/>
+im Verlag der <rs type="self" ana="werk_28263">Fackel</rs> erschienen. (Die Zusammenstellung hatte<lb/>
+<rs type="pers" ana="n_92897" ref="#fk__p_54925">Viktor Stadler</rs> besorgt.) Die Übersetzung der <RS pers="Jacques Offenbach"><rs type="title" ana="name_202406" ref="#fk__p_46664"><foreign xml:lang="fr"><seg type="spc">Madame<lb/>
+l’Archiduc</seg></foreign></rs></RS> am <date>9. Oktober 1927</date> im <rs type="inst">Verlag <rs type="pers" ana="n2_8160" ref="#fk__p_52185">Richard Lányi</rs></rs>.<lb/>
+<rs type="title"><seg type="insult"><seg type="spc">Die Unüberwindlichen</seg></seg></rs>, Nachkriegsdrama in vier Akten,<lb/>
+am <date>29. Mai 1928</date> im Verlag der <rs type="self" ana="werk_28264">Fackel</rs>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_52185">
+               <persName>Lányi, Richard</persName>
+               <birth>
+                  <date>1884-12-9</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1942-5-28</date>
+                  <place>Konzentrationslager Auschwitz</place>
+               </death>
+               <occupation>Buchhändler</occupation>
+               <occupation>Verleger</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/20707</idno></person>
+            <person xml:id="fk__p_54925">
+               <persName>Stadler, Viktor</persName>
+               <birth>
+                  <date>1877-8-1</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1951-3-22</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Ingenieur</occupation>
+               <note type="comment">16. Gallitzinstr. 98</note>
+               <note type="comment">Viktor jun., Ing., Oberkommissär, Fachlehrer, Inhaber und Leiter einer priv. Lehranstalt für Handfertigkeit und Liebhaberkünste</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38714</idno></person>
+            <person xml:id="fk__p_46664">
+               <persName>Offenbach, Jacques</persName>
+               <birth>
+                  <date>1819-06-21</date>
+                  <place>Köln</place>
+               </birth>
+               <death>
+                  <date>1880-10-05</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Komponist</occupation>
+               <note type="comment">Ögg teilt Fortunato F 876/34 Shakespeare zu</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/9131</idno></person>
+            </listPerson></back></text>
+</TEI>

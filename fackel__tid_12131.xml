@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_12131.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_12130.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_12132.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Et hoc meminisse juvabit, in: Fackel Heft 34, Nr. 876, 1932, S. 82-82</title>
+            <title type="iso-date">1932-10-01</title>
+            <title type="id">tid_12131</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">34</title><title type="heft">876</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-34-876_n0082.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/876,082</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Et hoc meminisse juvabit</head>
+            <p ana="pr176784">
+<space/><seg type="symbol" subtype="2dots"/> <rs type="pers" ana="n_105294" ref="#fk__p_45942">Röbbeling</rs> <seg type="symbol" subtype="2dots"/> angekommen <seg type="symbol" subtype="2dots"/> die Direktionskanzlei des<lb/>
+<rs type="inst">Burgtheaters</rs> aufgesucht, die er erst gegen 7 Uhr abends verließ, um sich<lb/>
+in das Hotel zurückzubegeben, <seg type="spc">wo er aber nur kurze Zeit<lb/>
+verweilte</seg>, <seg type="spc">um sich umzuziehen</seg> und wieder ins <rs type="inst">Burgtheater</rs><lb/>
+zu fahren, da er der Abendvorstellung — es wurde <rs type="pers" ana="n_105295" ref="#fk__p_43547">Molnars</rs> »<rs type="title">Der<lb/>
+Schwan</rs>« gespielt — beiwohnen wollte <seg type="symbol" subtype="4dots"/><lb/>
+</p>
+            <p ana="pr176785">
+<space/><seg type="symbol" subtype="2dots"/> gestern seine neue Wiener Wohnung bezogen <seg type="symbol" subtype="4dots"/> doch<lb/>
+werden <seg type="spc">selbstverständlich noch Wochen vergehen</seg>,<lb/>
+bevor die Einrichtung vollständig ist.<lb/>
+</p>
+            <p ana="pr176787">
+Man muß sich gedulden, und immerhin:<lb/>
+</p>
+            <p ana="pr176789">
+<space/>Vorläufig bewohnt die Villa der Hamburger <seg type="spc">Chauffeur</seg> des<lb/>
+<rs type="inst">Burgtheaterdirektors</rs> und <seg type="spc">eine Zofe seiner Frau</seg>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_43547">
+               <persName>Molnár, Franz</persName>
+               <birth>
+                  <date>1878-1-12</date>
+                  <place>Budapest</place>
+               </birth>
+               <death>
+                  <date>1952-4-1</date>
+                  <place>New York</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            </person>
+            <person xml:id="fk__p_45942">
+               <persName>Röbbeling, Hermann</persName>
+               <birth>
+                  <date>1875-10-31</date>
+                  <place>Stolberg/Harz</place>
+               </birth>
+               <death>
+                  <date>1949-06-4</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <occupation>Regisseur</occupation>
+               <occupation>Theaterleiter</occupation>
+               <note type="comment">Urnenhain 1/3/9/22 (FD)</note>
+               <note type="comment">1.1.1932 bis 12.3.1938 Burgth. Dir.</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,93 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_10919.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10918.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10920.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Aus »Nouvelles Litteraires«), in: Fackel Heft 29, Nr. 759, 1927, S. 44-45</title>
+            <title type="iso-date">1927-06-01</title>
+            <title type="id">tid_10919</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">29</title><title type="heft">759</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-29-759_n0044.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/759,044</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Aus »Nouvelles Litteraires«)</head>
+            <p ana="pr152496">
+<space/><foreign xml:lang="fr"><seg ana="‚Nouvelles Litteraires‘ (Paris, 5. 3. 1927)"/>, Lettre de Vienne:</foreign><lb/>
+</p>
+            <p ana="pr152498">
+<space/><foreign xml:lang="fr"><OMED>— —</OMED> C’est à <rs type="pers" ana="n_90989" ref="#fk__p_47565">Karl Kraus</rs> que nous devons nos plus fortes<lb/>
+impressions de conférences. Vous savez qu’il vit à Vienne, adoré et<lb/>
+haï passionnément, inattaquablement protégé par son œuvre glorieuse<lb/>
+qu’il construit des numéros de sa »<rs type="self" ana="werk_27777">Torche</rs>«. Ses conférences, dont il<lb/>
+a fait, refusant avec dédain tout compte rendu, et même l’annonce de<lb/>
+la part de la presse, plus de quatre cents, devant des salles toujours<lb/>
+combles et devant un public toujours enthousiaste nous entretiennent,<lb/>
+sinon de ses propres écrits, des œuvres de haute littérature qu’il<lb/>
+aime. Ces conférences sont une chose unique quant à la faculté d’un<lb/>
+homme seul de créer des drames par des paroles plastiques, de les<lb/>
+faire ressusciter devant l’auditoire dans une richesse complète de<lb/>
+personnages, de pensées et de couleurs, avec des moyens purement oraux.<lb/>
+J’entendis de <rs type="pers" ana="n_90990" ref="#fk__p_47565">Kraus</rs> une charmante <RS pers="Jacques Offenbach"><rs type="title" ana="name_202411" ref="#fk__p_46664"><rs type="pers"><seg type="i">Grande Duchesse de Gérolstein</seg></rs></rs></RS><lb/>
+qu’il récitait et chantait, accompagné où il fallait par un piano, avec<lb/>
+toutes les chansons, chœurs et parties d’ensemble, évoquant toute la<lb/>
+naïveté, toute la joie de vivre et tout le plaisir moqueur de cette<lb/>
+opérette immortelle. Trois heures de spectacle d’un charme et d’une<lb/>
+gaieté irrésistibles. Par les journaux, le public n’apprend rien de ces<lb/>
+chefs-d’œuvre, parce que <rs type="pers" ana="n_90991" ref="#fk__p_47565">Karl Kraus</rs> hait la presse. Et l’opinion<lb/>
+publique prend sa revanche en démontrant avec ostentation qu’elle<lb/>
+estime <rs type="pers" ana="n_90992" ref="#fk__p_47565">Karl Kraus</rs>.</foreign><lb/> 
+</p>
+            <p ana="pr152499">
+<rs type="pers" ana="n_90993" ref="#fk__p_38085"><AUCTOR>Alfred Polgar</AUCTOR></rs>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_47565">
+               <persName>Kraus, Karl</persName>
+               <birth>
+                  <date>1874-4-28</date>
+                  <place>Jicin, Böhmen</place>
+               </birth>
+               <death>
+                  <date>1936-6-12</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Publizist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11988</idno></person>
+            <person xml:id="fk__p_46664">
+               <persName>Offenbach, Jacques</persName>
+               <birth>
+                  <date>1819-06-21</date>
+                  <place>Köln</place>
+               </birth>
+               <death>
+                  <date>1880-10-05</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Komponist</occupation>
+               <note type="comment">Ögg teilt Fortunato F 876/34 Shakespeare zu</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/9131</idno></person>
+            <person xml:id="fk__p_38085">
+               <persName>Polgar, Alfred</persName>
+               <birth>
+                  <date>1873-10-17</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1955-4-24</date>
+                  <place>Zürich</place>
+               </death>
+               <occupation>Kritiker</occupation>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Übersetzer</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2989</idno></person>
+            </listPerson></back></text>
+</TEI>

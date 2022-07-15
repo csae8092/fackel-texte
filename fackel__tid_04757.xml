@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_04757.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04756.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04758.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Anzeige eines Gedichtbandes, in: Fackel Heft 10, Nr. 267, 1908, S. 31-32</title>
+            <title type="iso-date">1908-12-17</title>
+            <title type="id">tid_04757</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">10</title><title type="heft">267</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-10-267_n0031.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/267,031</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Anzeige eines Gedichtbandes</head>
+            <p ana="pr57881">
+<space/><rs type="title">»<seg type="spc">Auf Erden</seg>, ein <seg type="ELIDASH">Zeitbuch</seg> und Reisebuch in fünf Passionen«</rs><lb/>
+heißt ein Gedichtband von <rs type="pers" ana="n_43746" ref="#fk__p_38034"><seg type="spc">Alfons Paquet</seg></rs> in Frankfurt, der bei<lb/>
+<rs type="inst"><rs type="pers" ana="n2_3687" ref="#fk__p_57858">Eugen Diederichs</rs></rs> in Jena verlegt ist. Als ich ihn aufschlug, fiel<lb/>
+mein Blick auf diese wunderschönen Zeilen:<lb/>
+</p>
+            <lg>
+<l>Wir haben heute den Leib begraben, der uns einst geboren hat;</l>
+<l>Wir haben heute die Mutter versenkt in den trockenen scholligen Boden</l>
+<l>Und Schollen hinterher geschaufelt (sie schlugen auf wie Fäuste</l>
+<l>Über dem seligen schmalen Frauenantlitz, über den geschlossenen Augen,</l>
+<l>Über dem Frauenleibe, dem wir viele Maiblumen mitgaben).</l>
+<l>Warum Tränen, ihr Schwestern? Warum den gebeugten Nacken, Vater?</l>
+<l>Sind wir Sträflinge? Sind wir etwa durch ein Joch gegangen?</l>
+<l>Ihr Besucher, wollet nicht weinen.</l>
+<l>Und du, mein Geist, der du aus dem Bette aufstehst,</l>
+<l>Unruhig umherzugehen im eklen Dunkel:</l>
+<l>Laß uns schlafen, laß uns den Stachel aus der Seele reißen und schwören:</l>
+<l>Nicht der Mutter zu rufen, die nun schreitet in der Morgenfrische;</l>
+<l>Nicht das ferne Frohgespräch der Abgeschiedenen zu stören.</l>
+</lg>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_57858">
+               <persName>Diederichs, Eugen (Verlag)</persName>
+               <note type="comment">Eugen Diederichs, gest. Jena 10.9.1930, 62jährig (Reichspost 11.9.30)</note>
+               <note type="comment">in Jena</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11161</idno></person>
+            <person xml:id="fk__p_38034">
+               <persName>Paquet, Alfons</persName>
+               <birth>
+                  <date>1881-01-26</date>
+                  <place>Wiesbaden</place>
+               </birth>
+               <death>
+                  <date>1944-02-08</date>
+                  <place>Frankfurt</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Journalist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/62732</idno></person>
+            </listPerson></back></text>
+</TEI>

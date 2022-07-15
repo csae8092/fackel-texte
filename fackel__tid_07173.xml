@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07173.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07172.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07174.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Die Phrase des Kriegs im Krieg gegen den Krieg der Phrase, in: Fackel Heft 18, Nr. 426, 1916, S. 12-12</title>
+            <title type="iso-date">1916-06-01</title>
+            <title type="id">tid_07173</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">18</title><title type="heft">426</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-18-426_n0012.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/426,012</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Die Phrase des Kriegs im Krieg gegen den Krieg der Phrase</head>
+            <p ana="pr97242">
+<space/>Dicht nebeneinander die Titel:<lb/>
+</p>
+            <p ana="pr97244">
+<space/><rs type="title"><seg type="spc">Der heldenmütige Vorstoß bei Olyka</seg></rs>.<lb/>
+</p>
+            <p ana="pr97245">
+<space/><rs type="title"><seg type="spc">Der Vorstoß gegen die englische Regierung in der<lb/>
+Rekrutierungsfrage</seg></rs>.<lb/>
+</p>
+            <p ana="pr97247">
+<space/>Oder:<lb/>
+</p>
+            <p ana="pr97249">
+<space/><rs type="title"><seg type="spc"><rs type="pers" ana="n2_5695" ref="#fk__p_39693">Cadorna</rs> hat gesiegt</seg></rs>.<lb/>
+</p>
+            <p ana="pr97251">
+<space/>Wie?<lb/>
+</p>
+            <p ana="pr97253">
+<space/><seg type="symbol" subtype="3dots"/> Der Rücktritt <rs type="pers" ana="n_64780" ref="#fk__p_55912">Zupellis</rs>, der im Gegensatz zu <rs type="pers" ana="n_64781" ref="#fk__p_39693">Cadorna</rs> als<lb/>
+<seg type="spc">Vorkämpfer</seg> der vom <rs type="inst">Dreiverband</rs> gewünschten Erweiterung der<lb/>
+italienischen Militärkonventionen gilt, ist perfekt geworden.<lb/>
+</p>
+            <p ana="pr97255">
+<space/>Wenn nur <seg type="insult">diese Vorstoßer und Vorkämpfer</seg> einmal beim<lb/>
+Vorstoßen und Vorkämpfen dabei wären!<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_55912">
+               <persName>Zupelli, Vittorio Italico</persName>
+               <birth>
+                  <date>1859-3-6</date>
+                  <place>Capodistria</place>
+               </birth>
+               <death>
+                  <date>1945-1-22</date>
+                  <place>Rom</place>
+               </death>
+               <occupation>General</occupation>
+               <occupation>Politiker</occupation>
+            </person>
+            <person xml:id="fk__p_39693">
+               <persName>Cadorna, Luigi Graf</persName>
+               <birth>
+                  <date>1850-09-04</date>
+                  <place>Pallanza</place>
+               </birth>
+               <death>
+                  <date>1928-12-23</date>
+                  <place>Bordighera</place>
+               </death>
+               <occupation>General</occupation>
+               <note type="comment">als Geburtsort findet man auch: Verbania (Doppel-Ort am Lago Maggiore)</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/39394</idno></person>
+            </listPerson></back></text>
+</TEI>

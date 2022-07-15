@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07003.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07002.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07004.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Deutsche Annonce, in: Fackel Heft 17, Nr. 413, 1915, S. 85-85</title>
+            <title type="iso-date">1915-12-01</title>
+            <title type="id">tid_07003</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">17</title><title type="heft">413</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-17-413_n0085.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/413,085</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Deutsche Annonce</head>
+            <p ana="pr95045">
+<B>Honigfliegenfänger<lb/>
+<rs type="pers" ana="n_64000" ref="#fk__p_55030"><seg type="spc">Hindenburg</seg></rs></B><lb/>
+</p>
+            <p ana="pr95046">
+<B>„<seg type="spc">Einen bessern findst<lb/>
+du nicht</seg>“</B><lb/>
+</p>
+            <p ana="pr95047">
+<abbr>m.</abbr> <abbr>Aufhängevorrichtg.</abbr>, beste frische<lb/>
+Beleimung, 100 <abbr>St.</abbr> 4.20 <abbr>M.</abbr>, 200 <abbr>St.</abbr><lb/>
+franko Nachnahme. Will, Honigfliegenfänger-Versand<lb/>
+ Wartenfels <abbr>Nr.</abbr> 292<lb/>
+(<abbr>Bay. Obfr.</abbr>)<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_55030">
+               <persName>Beneckendorff-Hindenburg, Paul von</persName>
+               <birth>
+                  <date>1847-10-2</date>
+                  <place>Posen</place>
+               </birth>
+               <death>
+                  <date>1934-8-2</date>
+                  <place>Neudeck</place>
+               </death>
+               <occupation>Offizier</occupation>
+               <occupation>Politiker</occupation>
+               <note type="comment">Reichspräsident seit 1925</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_08923.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08922.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08924.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Vorbemerkung zur „Apokalypse“), in: Fackel Heft 22, Nr. 561, 1921, S. 80-80</title>
+            <title type="iso-date">1921-03-01</title>
+            <title type="id">tid_08923</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">22</title><title type="heft">561</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-22-561_n0080.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/561,080</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Vorbemerkung zur „Apokalypse“)</head>
+            <p ana="pr118761">
+<space/>Vorbemerkung zu »<rs type="title">Apokalypse</rs>«:<lb/>
+</p>
+            <p ana="pr118762">
+<space/>Ich lese jetzt mein Gedicht <rs type="title">Apokalypse</rs>, das bald nach<lb/>
+seinem Erscheinen als <seg type="insult">Plagiat</seg> erkannt worden ist. <seg type="insult">Ein gewisser<lb/>
+<rs type="pers" ana="n_73119" ref="#fk__p_37909">Albert Ehrenstein</rs></seg>, <seg type="insult">unter den Schwachköpfen der neueren Literatur<lb/>
+ein nicht ganz unbegabter</seg>, hat bekanntlich und sogar an der<lb/>
+Hand einer überaus drastischen Gegenüberstellung nachgewiesen,<lb/>
+daß in diesem Gedicht, welches 100 Verszeilen hat, nicht 14 ganz<lb/>
+von mir sind, während alle andern aus dem <seg type="ELIDASH">Vorstellungsmaterial</seg>, ja<lb/>
+Wortmaterial der <rs type="title">Bibel</rs>, das heißt der <rs type="pers" ana="n_73120" ref="#fk__p_49801">Luther-Übersetzung</rs> der<lb/>
+gleichnamigen <rs type="title">Apokalypse des <rs type="pers" ana="n2_6712" ref="#fk__p_59264">Johannes</rs></rs> zusammengesetzt sind.<lb/>
+Daß ich auch manches der <rs type="pers" ana="n_73121" ref="#fk__p_48663">van Essischen Übersetzung</rs> entlehnt<lb/>
+habe, soll der Gerechtigkeit halber nicht verschwiegen sein.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_49801">
+               <persName>Luther, Martin</persName>
+               <birth>
+                  <date>1483-11-10</date>
+                  <place>Eisleben</place>
+               </birth>
+               <death>
+                  <date>1546-2-18</date>
+                  <place>Eisleben</place>
+               </death>
+               <occupation>Reformator</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12136</idno></person>
+            <person xml:id="fk__p_37909">
+               <persName>Ehrenstein, Albert</persName>
+               <birth>
+                  <date>1886-12-23</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1950-4-8</date>
+                  <place>New York</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11230</idno></person>
+            <person xml:id="fk__p_48663">
+               <persName>Eß, Leander van</persName>
+               <birth>
+                  <date>1772-02-15</date>
+                  <place>Warburg/Westf.</place>
+               </birth>
+               <death>
+                  <date>1847-10-13</date>
+                  <place>Affolterbach/Odenwald</place>
+               </death>
+               <occupation>Theologe</occupation>
+            </person>
+            <person xml:id="fk__p_59264">
+               <persName>Johannes </persName>
+               <occupation>Evangelist</occupation>
+               <note type="comment">Lieblingsjünger</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

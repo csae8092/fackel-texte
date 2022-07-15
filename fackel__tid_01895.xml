@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01895.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01894.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01896.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Leser. (Der rüstige Jubilar), in: Fackel Heft 03, Nr. 079, 1901, S. 24-24</title>
+            <title type="iso-date">1901-06-01</title>
+            <title type="id">tid_01895</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">03</title><title type="heft">079</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-03-079_n0024.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/079,024</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Leser. (Der rüstige Jubilar)</head>
+            <p ana="pr18519">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_15605" ref="#fk__p_48877">Leser</rs>.</seg></seg> Sie vermissten in der ‚<rs type="paper" ana="werk_5955">Neuen Freien Presse</rs>‘ die Fortsetzung<lb/>
+ des Berichtes über die Verhandlung gegen den Heiratsschwindler<lb/>
+<rs type="pers" ana="n_15606" key="#fk__p_47147">Joseph Schima</rs>? Nun, das <rs type="paperRef" ana="werk_5956">Blatt</rs> unterdrückt auch zuweilen für <seg type="insult">Lieblinge</seg><lb/>
+Gerichtssaalberichte. Herr <rs type="pers" ana="n_15607" ref="#fk__p_49955"><abbr>Dr.</abbr> Neuda</rs> war ja der Vertheidiger in jenem<lb/>
+Processe, und am <date>21. Mai</date> ward <seg type="insult">die folgende anmuthige Reclamenotiz</seg><lb/>
+gebracht: »Einen Beweis für die vielgerühmte Rüstigkeit und Frische,<lb/>
+deren sich der siebzigjährige Jubilar erfreut, erbrachte <rs type="pers" ana="n_15608" ref="#fk__p_49955"><abbr>Dr.</abbr> Neuda</rs><lb/>
+damit, dass er, nachdem er Samstag den ganzen Tag Deputationen und<lb/>
+Gratulanten empfangen, die Nacht bei dem Bankett verbracht hatte<lb/>
+und Sonntag bis in den Abend Gegenstand einer von mehreren<lb/>
+humanitären Corporationen veranstalteten großartigen Feier war, heute<lb/>
+früh im Schwurgerichtssaal erschien, um in zweitägiger Verhandlung<lb/>
+einen Heiratsschwindler zu vertheidigen.« Die Leser erwarteten nun<lb/>
+ausführliche Berichte über die zweitägige Verhandlung und die Leistung<lb/>
+<seg type="insult">des rüstigen Jubilars</seg>. Aber nur einer erschien. Später ward in einem<lb/>
+Abendblatt in kleinstem Druck der folgende Epilog gebracht: »Dieser<lb/>
+Process endete mit der Verurtheilung <rs type="pers" ana="n_15609" key="#fk__p_47147">Josef Schimas</rs> zu drei Jahren<lb/>
+schweren Kerkers.<choice><sic>»</sic><corr>«</corr></choice> <seg type="insult">Der rüstige Jubilar</seg> aber blieb aus dem Spiele <seg type="symbol" subtype="3dots"/><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_49955">
+               <persName>Neuda, Max</persName>
+               <birth>
+                  <date>1831-5-18</date>
+                  <place>Raußnitz, Mähren</place>
+               </birth>
+               <death>
+                  <date>1911-9-18</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Rechtsanwalt</occupation>
+            </person>
+            <person xml:id="fk__p_48877">
+               <persName>Leser</persName>
+            </person>
+            </listPerson></back></text>
+</TEI>

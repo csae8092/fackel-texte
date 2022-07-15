@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_04350.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04349.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04351.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Arzt. (Die Krankheit Balfours), in: Fackel Heft 08, Nr. 216, 1907, S. 26-26</title>
+            <title type="iso-date">1907-01-9</title>
+            <title type="id">tid_04350</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">08</title><title type="heft">216</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-08-216_n0026.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/216,026</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Arzt. (Die Krankheit Balfours)</head>
+            <p ana="pr47426">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="name_203272" ref="#fk__p_38520">Arzt</rs>.</seg></seg></seg> In der <seg ana="‚Neuen Freien Presse‘"/> war das folgende »<QUOTE rn="1" sourceID="FK-08-216_n0026_a">Telegramm<lb/>
+des Korrespondenzbureaus« zu lesen: London, <date>20. Dezember</date>. <rs type="pers" ana="n_38350" ref="#fk__p_38473"><seg type="spc">Balfour</seg></rs><lb/>
+ist an <seg type="spc">Influenza</seg> erkrankt und muß zu Bette liegen. Nach dem<lb/>
+Krankheitsberichte ist es unmöglich vorherzusehen, welchen Verlauf die<lb/>
+Krankheit nehmen wird, aber aus früheren Anfällen ist zu schließen,<lb/>
+daß er voraussichtlich <seg type="spc">zehn Tage ans Haus gefesselt sein wird</seg>.</QUOTE>«<lb/>
+Es gibt Fälle, in denen die ‚<rs type="paper" ana="werk_15111">Neue Freie Presse</rs>‘ keinen <seg type="insult">Consiliarius</seg><lb/>
+braucht. Wie lange <rs type="pers" ana="n_38351" ref="#fk__p_38473">Balfour</rs> krank sein wird, das weiß <seg type="insult">ein Londoner<lb/>
+Reporter</seg> so gut, wie <seg type="insult">ein Wiener <rs type="inst">Universitätsprofessor</rs></seg>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_38473">
+               <persName>Balfour, Arthur James Earl of</persName>
+               <birth>
+                  <date>1848-07-25</date>
+                  <place>Wittingehame</place>
+               </birth>
+               <death>
+                  <date>1930-03-19</date>
+                  <place>Woking</place>
+               </death>
+               <occupation>Staatsmann</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/61888</idno></person>
+            <person xml:id="fk__p_38520">
+               <persName>Arzt</persName>
+            </person>
+            </listPerson></back></text>
+</TEI>

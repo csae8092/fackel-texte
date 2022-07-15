@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_11256.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11255.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11257.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Für Zweifler, in: Fackel Heft 31, Nr. 820, 1929, S. 140-140</title>
+            <title type="iso-date">1929-10-01</title>
+            <title type="id">tid_11256</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">31</title><title type="heft">820</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-31-820_n0140.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/820,140</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Für Zweifler</head>
+            <p ana="pr163228">
+<space/>— — Und ich freue mich dessen, daß ein Österreicher dieses<lb/>
+Drama geschrieben hat, einer, <seg type="spc">der das Geschichtliche<lb/>
+natürlich nur aus Büchern kennt</seg>, der es aber — —<lb/>
+</p>
+            <p ana="pr163230">
+Also <seg type="insult">nicht Zeitgenosse des <rs type="pers" ana="n_97745" ref="#fk__p_44268">Gentz</rs>, sondern nur des <rs type="pers" ana="n_97746" ref="#fk__p_42299">Wengraf</rs></seg>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_42299">
+               <persName>Wengraf, Edmund</persName>
+               <birth>
+                  <date>1860-1-9</date>
+                  <place>Nikolsburg</place>
+               </birth>
+               <death>
+                  <date>1933-12-11</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <note type="comment">1913-26 Präs. der "Concordia"</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/13088</idno></person>
+            <person xml:id="fk__p_44268">
+               <persName>Gentz, Friedrich von</persName>
+               <birth>
+                  <date>1764-5-2</date>
+                  <place>Breslau</place>
+               </birth>
+               <death>
+                  <date>1832-6-9</date>
+                  <place>Weinhaus bei Wien</place>
+               </death>
+               <occupation>Beamter</occupation>
+               <occupation>Publizist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11416</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03400.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03399.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03401.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Techniker. (Noch ist Polen …), in: Fackel Heft 05, Nr. 150, 1903, S. 31-32</title>
+            <title type="iso-date">1903-12-23</title>
+            <title type="id">tid_03400</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">05</title><title type="heft">150</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-05-150_n0031.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/150,031</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Techniker. (Noch ist Polen …)</head>
+            <p ana="pr33719">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="n_29115" ref="#fk__p_53987">Techniker</rs>.</seg></seg></seg> Alles gerettet, außer der Ehre! Die Versteigerung<lb/>
+in der Pragerstraße hat <seg type="spc">nicht</seg> stattgefunden, Polen gab <seg type="insult">seinen <rs type="pers" ana="n_29116" ref="#fk__p_46730">Szczepanik</rs></seg><lb/>
+nicht verloren, der Gläubiger wurde befriedigt. So ist denn auch im<lb/>
+Jahre <date>1903</date>, wenn schon keine Erfindung, doch wenigstens eine <seg type="insult">Entdeckung<lb/>
+</seg> gelungen: Man hat einen neuen Geldgeber entdeckt. Der Mann<lb/>
+</p>
+            <p ana="pr33719">
+muß mindestens so uneigennützig sein wie die <seg type="insult">Leute</seg>, welche die Prioritäts-Aktien<lb/>
+ der ‚<rs type="paper" ana="werk_12534">Zeit</rs>‘ erwerben; nur daß sich diese noch nicht gefunden haben,<lb/>
+während jener die Börse öffnete, ohne auch nur einen Blick in die Bilanz<lb/>
+von <rs type="inst"><rs type="pers" ana="n2_2241" ref="#fk__p_46730">Szczepanik</rs> &amp; <abbr>Cie.</abbr></rs> für das Jahr <date>1902</date> zu werfen. Diese Bilanz ist aber<lb/>
+wirklich beachtenswert. An Aktiven, deren Gesamtsumme K 1,132.556<lb/>
+beträgt, werden unter anderem angeführt: Die Patente, welche mit<lb/>
+872.000 Kronen, und die Maschinen, welche mit 50.300 Kronen bewertet<lb/>
+sind. Abgeschrieben wurden, dem Ausgaben-Konto zufolge, insgesamt<lb/>
+12.245 Kronen, obwohl die Patente, selbst wenn sie überhaupt verwertbar<lb/>
+wären, mit jedem Jahr minderwertig werden. Da sie vor acht Jahren<lb/>
+erworben wurden, laufen sie jetzt nur noch sieben Jahre, und das Unternehmen<lb/>
+ hätte den siebenten Teil ihres Wertes in der letzten Bilanz<lb/>
+abschreiben müssen. An Einnahmen war im Jahre <date>1902</date> außer einem<lb/>
+Pönale von 40.000 Kronen fast nichts zu verzeichnen. Wie wird es<lb/>
+weiter gehen?<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46730">
+               <persName>Szczepanik, Jan</persName>
+               <birth>
+                  <date>1872-4-13</date>
+                  <place>Rudniki bei Mostyska/Ukraine</place>
+               </birth>
+               <death>
+                  <date>1926-4-18</date>
+                  <place>Tarnów/Polen</place>
+               </death>
+               <occupation>Erfinder</occupation>
+            </person>
+            <person xml:id="fk__p_53987">
+               <persName>Techniker</persName>
+            </person>
+            </listPerson></back></text>
+</TEI>

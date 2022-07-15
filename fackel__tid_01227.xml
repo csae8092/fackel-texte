@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01227.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01226.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01228.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Confuser Leser. (Eine Verwechslung), in: Fackel Heft 02, Nr. 052, 1900, S. 25-25</title>
+            <title type="iso-date">1900-09-01</title>
+            <title type="id">tid_01227</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">052</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-052_n0025.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/052,025</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Confuser Leser. (Eine Verwechslung)</head>
+            <p ana="pr11767">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="n_9604" ref="#fk__p_40067">Confuser Leser</rs>.</seg></seg></seg> Nein. <seg type="spc">Verhaftet</seg> wurde der <seg type="insult"><rs type="inst">Börsencomptoirsinhaber<lb/>
+</rs> <rs type="pers" ana="n_9605" ref="#fk__p_47921">Knöpflmacher</rs></seg>. Die 400 Kronen für die türkisch-sephardische<lb/>
+Gemeinde hat der <seg type="insult"><rs type="inst">Börsencomptoirsinhaber</rs> »Consul« <rs type="pers" ana="n_9606" ref="#fk__p_53920">Thalberg</rs></seg> gespendet.<lb/>
+Die ‚<rs type="paper" ana="werk_3620">Neue Freie Presse</rs>‘ hat an auffallender Stelle eine Danksagung<lb/>
+des Vorstandes gebracht, und ich begreife nicht, wie Sie die beiden<lb/>
+Ereignisse verwechseln können.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_53920">
+               <persName>Thalberg, Josef</persName>
+               <birth>
+                  <date>1838-6-24</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1902-12-8</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Kaufmann</occupation>
+               <occupation>Bankier</occupation>
+               <occupation>Publizist</occupation>
+               <note type="comment">kais. ottomanischer Generalkonsul</note>
+               <note type="comment">Großhändler</note>
+               <note type="comment">Eig. des Finanzblattes "Der Kapitalist"</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/41894</idno></person>
+            <person xml:id="fk__p_47921">
+               <persName>Knöpflmacher, Sigmund</persName>
+               <birth>
+                  <date>1867</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1943-5-12</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Börsenmakler</occupation>
+               <note type="comment">Ges. der Fa. Herm. Knöpflmacher, 1., Graben 28</note>
+               <note type="comment">Bruder? Knöpflmacher, Arthur, Ges. der Fa. Herm. Knöpflmacher; Hrsg. der Oesterr.-ung. Finanz-Rundschau</note>
+               <note type="comment">heiratet 1893 Katharina Grund</note>
+            </person>
+            <person xml:id="fk__p_40067">
+               <persName>Confuser Leser</persName>
+            </person>
+            </listPerson></back></text>
+</TEI>

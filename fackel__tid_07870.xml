@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07870.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07869.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07871.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ein Gesellschaftsbild oder Das haben die Delphine so gerne, in: Fackel Heft 19, Nr. 457, 1234, S. 82-83</title>
+            <title type="iso-date">1234-01-01</title>
+            <title type="id">tid_07870</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">19</title><title type="heft">457</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-19-457_n0082.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/457,082</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ein Gesellschaftsbild oder Das haben die Delphine so gerne</head>
+            <p ana="pr105310">
+<space/>» <seg type="symbol" subtype="3dots"/> <rs type="pers" ana="n_67405" ref="#fk__p_47385">Kaiser Karl</rs> hat in seinen Jünglingsjahren mit Vorliebe seinen<lb/>
+Urlaub in dem herrlichen Erdenwinkel von Miramar zugebracht. Von<lb/>
+dort aus hat er <seg type="spc">alljährlich als Oberleutnant</seg> der<lb/>
+<rs type="inst">Lothringer-Dragoner</rs> seine Jagden im Karstgebiet arrangiert. Prosecco,<lb/>
+Aquileja, Duino haben ihn oft gesehen. Er spricht vorzüglich<lb/>
+italienisch. Er besitzt große Liebe zum Meer. Der Kaiser ist auch<lb/>
+ein <seg type="spc">eminenter Schwimmer</seg>; er ist oft mit größter Kühnheit<lb/>
+ins Meer hinaus geschwommen und hat in bewegtester See gebadet,<lb/>
+<seg type="spc">man könnte förmlich sagen</seg>, <seg type="spc">in der Gesellschaft</seg><lb/>
+</p>
+            <p ana="pr105310">
+<seg type="spc">von Delphinen</seg>, die sich dort <seg type="spc">gern</seg> in großer Menge einfinden.<lb/>
+Während seines Aufenthaltes in Miramar ist dort die Jacht »Pelagosa«<lb/>
+und ein Kriegsschiff vor Anker gelegen. Er machte mit seiner <RS pers="Maria Josepha" globID="name_204165">Mutter</RS><lb/>
+öfter Ausflüge in die Küstenorte. <rs type="pers" ana="n_67406" ref="#fk__p_42914">Erzherzog Max</rs>, der jüngere<lb/>
+<seg type="spc">Bruder</seg> unseres Kaisers, der <seg type="spc">oft in seiner Gesellschaft</seg><lb/>
+war, besaß eine Jolle, die er selbst zu steuern pflegte; es war ein<lb/>
+fröhliches, schönes Leben in der goldenen Friedenszeit.«<lb/>
+</p>
+            <p ana="pr105312">
+<space/>Und ein <seg type="insult">Gesellschaftsleben</seg>. Besonders die Delphine, die<lb/>
+sich gern einfanden, werden so bald nicht vergessen sein. Aber<lb/>
+vom neuen Kaiser ist wohl zu erwarten, daß er <seg type="insult">die sich noch<lb/>
+lieber einfindenden Tintenfische</seg> verjagen wird.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_47385">
+               <persName>Karl I., Kaiser</persName>
+               <birth>
+                  <date>1887-08-17</date>
+                  <place>Persenbeug/NÖ</place>
+               </birth>
+               <death>
+                  <date>1922-04-01</date>
+                  <place>Quinta do Monte/Madeira</place>
+               </death>
+               <occupation>Kaiser</occupation>
+               <note type="comment">Ögg teilt irrt. 561/21 zu, da ist Franz Joseph I. gemeint</note>
+            </person>
+            <person xml:id="fk__p_42914">
+               <persName>Maximilian Eugen Ludwig, Erzherzog</persName>
+               <birth>
+                  <date>1895-4-13</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1952-1-19</date>
+                  <place>Nizza</place>
+               </death>
+               <occupation>Erzherzog</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_18003</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/21212</idno></person>
+            </listPerson></back></text>
+</TEI>

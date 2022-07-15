@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_10417.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10416.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10418.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Herder-Zitat), in: Fackel Heft 27, Nr. 712, 1926, S. 51-52</title>
+            <title type="iso-date">1926-01-01</title>
+            <title type="id">tid_10417</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">27</title><title type="heft">712</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-27-712_n0051.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/712,051</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Herder-Zitat)</head>
+            <p ana="pr142377">
+<space/>Im Reiche der Wahrheit kommt es nicht auf Größe und<lb/>
+Kleinheit des Objekts, sondern auf die Art an, wie es uns<lb/>
+bekannt gemacht wird; der Zergliederer einer Weidenraupe<lb/>
+kann mehr Verdienst haben als <seg type="insult">der unbestimmte Lobredner des<lb/>
+Elephanten</seg>. Alle Begriffe hangen in der Kette der Wahrheit an<lb/>
+einander; die kleinste kann der größesten oft nicht nur dienen,<lb/>
+sondern selbst unentbehrlich werden.<lb/>
+</p>
+            <p ana="pr142378">
+<rs type="pers" ana="n_86852" ref="#fk__p_46893"><AUCTOR>Herder</AUCTOR></rs>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46893">
+               <persName>Herder, Johann Gottfried von</persName>
+               <birth>
+                  <date>1744-08-25</date>
+                  <place>Mohrungen/Ostpreußen</place>
+               </birth>
+               <death>
+                  <date>1803-12-18</date>
+                  <place>Weimar</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Literaturtheoretiker</occupation>
+               <occupation>Theologe</occupation>
+               <note type="comment">geadelt 1802</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/4996</idno></person>
+            </listPerson></back></text>
+</TEI>

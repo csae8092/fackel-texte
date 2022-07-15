@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_08714.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08713.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08715.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Mord in Ungarn, in: Fackel Heft 22, Nr. 544, 1920, S. 10-10</title>
+            <title type="iso-date">1920-06-01</title>
+            <title type="id">tid_08714</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">22</title><title type="heft">544</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-22-544_n0010.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/544,010</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Mord in Ungarn</head>
+            <lg>
+<l>Es wird die Welt für <rs type="pers" ana="n_71603" ref="#fk__p_47385">Karl</rs> und <rs type="pers" ana="n_71604" ref="#fk__p_47419">Zita</rs></l>
+<l>noch lang nicht ihres Daseins froh.</l>
+<l>Extra <foreign xml:lang="la">Hungariam non est vita</foreign></l>
+<l><foreign xml:lang="la">et in Hungaria</foreign> ebenso.</l>
+</lg>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_47385">
+               <persName>Karl I., Kaiser</persName>
+               <birth>
+                  <date>1887-08-17</date>
+                  <place>Persenbeug/NÖ</place>
+               </birth>
+               <death>
+                  <date>1922-04-01</date>
+                  <place>Quinta do Monte/Madeira</place>
+               </death>
+               <occupation>Kaiser</occupation>
+               <note type="comment">Ögg teilt irrt. 561/21 zu, da ist Franz Joseph I. gemeint</note>
+            </person>
+            <person xml:id="fk__p_47419">
+               <persName>Zita, Kaiserin</persName>
+               <birth>
+                  <date>1892-5-9</date>
+                  <place>Villa delle Pianore/Lucca</place>
+               </birth>
+               <death>
+                  <date>1989-3-14</date>
+                  <place>Zizers/Schweiz</place>
+               </death>
+            </person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07704.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07703.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07705.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Eine anregende Frau, in: Fackel Heft 18, Nr. 445, 1234, S. 158-158</title>
+            <title type="iso-date">1234-01-01</title>
+            <title type="id">tid_07704</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">18</title><title type="heft">445</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-18-445_n0158.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/445,158</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Eine anregende Frau</head>
+            <p ana="pr103377">
+<space/>»Kriegsberichterstatter <rs type="pers" ana="n_66722" ref="#fk__p_52385">Roda Roda</rs> hat sich <seg type="spc">auf Anregung<lb/>
+von Frau <rs type="pers" ana="n_66723" ref="#fk__p_49780">Martha Beyer</rs></seg> bereit erklärt, in der <DATERANGE>zweiten Hälfte<lb/>
+Januar</DATERANGE> zu Gunsten des Wiederaufbaues der zerstörten Dörfer in den<lb/>
+Karpathen und Siebenbürgen einen Vortrag zu halten. Das Thema ist:<lb/>
+‚<rs type="title">Der Krieg in Gegenwart und Zukunft</rs>‘.«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_52385">
+               <persName>Roda Roda, Alexander</persName>
+               <birth>
+                  <date>1872-4-13</date>
+                  <place>Drnowitz, Mähren</place>
+               </birth>
+               <death>
+                  <date>1945-8-20</date>
+                  <place>New York</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/9546</idno></person>
+            <person xml:id="fk__p_49780">
+               <persName>Beyer, Martha, geb. Freisinger</persName>
+               <birth>
+                  <date>1861-1-22</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1933-8-12</date>
+                  <place>Wien</place>
+               </death>
+               <note type="comment">Großindustriellenwitwe, Mitglied des Kuratoirums des Elisabeth Asyls für verkrüppelte Kinder zu Maria Langendorf</note>
+               <note type="comment">Vorstands Dame des Wärmestuben Vereins</note>
+               <note type="comment">2., Praterstraße 24</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

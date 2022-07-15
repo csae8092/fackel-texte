@@ -1,0 +1,103 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03621.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03620.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03622.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Zur Wiener Liliencronfeier, in: Fackel Heft 06, Nr. 163, 1904, S. 15-16</title>
+            <title type="iso-date">1904-05-31</title>
+            <title type="id">tid_03621</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">06</title><title type="heft">163</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-06-163_n0015.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/163,015</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Zur Wiener Liliencronfeier</head>
+            <p ana="pr36063">
+<space/>Von <rs type="pers" ana="n_30968" ref="#fk__p_44576">Gottfried August Bürger</rs> (<DATERANGE>1748-1794</DATERANGE>), der als Pfadfinder<lb/>
+ und Neubildner anschaulicher Worte, nach Temperament<lb/>
+und Schicksal, wohl eine gewisse Ähnlichkeit mit <rs type="pers" ana="n_30969" ref="#fk__p_40404">Liliencron</rs> aufweist<lb/>
+ — ohne in der Genialität lyrischer Stimmung unserem gefeierten<lb/>
+Zeitgenossen auch nur nahe zu kommen —, von Bürger, nicht von<lb/>
+<rs type="pers" ana="n_30970" ref="#fk__p_40404">Liliencron</rs> stammt die zornige Abwehr:<lb/>
+</p>
+            <lg>
+<l>»Ha, das <seg type="insult"><rs type="pers" ana="n_30971" key="#fk__p_38117"><SPAN cont="Donatgeschmeiß"><seg type="spc">Donatg</seg>eschmeiß</SPAN></rs></seg>!</l>
+<l>Kaum hört und sieht’s was Neues,</l>
+<l>So hat es gleich <seg type="insult">Geschreies</seg>,</l>
+<l>So puppert Herz und Steiß.</l>
+<l>Geduld! Man wird’s euch zahlen,</l>
+<l><seg type="insult">Euch dünnen Schulpennalen</seg>!</l>
+</lg>
+            <lg>
+<l>Traut nicht! Es regt sich hie</l>
+<l>In meinem Wolfstornister</l>
+<l>Der Kuckuck und sein Küster —</l>
+<l>Ein Kobold — heißt Genie.</l>
+<l>Dem schafft’s gar guten Frieden,</l>
+<l>Wem Gott solch Ding beschieden.</l>
+</lg>
+            <lg>
+<l>Doch ihr, <seg type="insult">Kunstjüngerlein</seg>!</l>
+<l>Mögt meine Melodeien</l>
+<l>Nur nicht flugs nachlalleien.</l>
+<l>So leicht lallt sich’s nicht ’nein.</l>
+<l>Beherzigt doch das dictum:</l>
+<l><foreign xml:lang="la">Cacatum non est pictum</foreign>.</l>
+</lg>
+            <p ana="pr36069">
+<space/>Die Verse stehen in der »<rs type="title">Prinzessin Europa</rs>« (<rs type="title"><rs type="pers" ana="n2_2424" ref="#fk__p_44576">Bürger’s</rs><lb/>
+sämtliche Werke</rs>, Ausgabe <rs type="pers" ana="n_30972" ref="#fk__p_60192">Wurzbach</rs>, <rs type="inst"><rs type="pers" ana="n2_2425" ref="#fk__p_58142">Hesse’s</rs> Verlag</rs> I. <abbr>Bd.</abbr> 2. Buch.)<lb/>
+<rs type="pers" ana="n_30973" key="#fk__p_38117">Älius <seg type="spc">Donatus</seg></rs> war ein römischer Grammatiker und Rhetor im<lb/>
+<DATERANGE>4. Jahrhundert <abbr>n.</abbr> <rs type="pers"><abbr>Chr.</abbr></rs></DATERANGE><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_44576">
+               <persName>Bürger, Gottfried August</persName>
+               <birth>
+                  <date>1747-12-31</date>
+                  <place>Molmerswende, Unterharz</place>
+               </birth>
+               <death>
+                  <date>1794-6-8</date>
+                  <place>Göttingen</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/6567</idno></person>
+            <person xml:id="fk__p_40404">
+               <persName>Liliencron, Detlev Freiherr von</persName>
+               <birth>
+                  <date>1844-6-3</date>
+                  <place>Kiel</place>
+               </birth>
+               <death>
+                  <date>1909-7-22</date>
+                  <place>Altrahlstedt bei Hamburg</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment"/>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17547</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12071</idno></person>
+            <person xml:id="fk__p_58142">
+               <persName>Hesse (Verlag)</persName>
+            </person>
+            <person xml:id="fk__p_60192">
+               <persName>Wurzbach, Wolfgang von</persName>
+               <birth>
+                  <date>1879-6-3</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1957-2-10</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Romanist</occupation>
+               <note type="comment">Bürger's sämtliche Werke, Hesse Verlag</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

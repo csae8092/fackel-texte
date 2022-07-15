@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_11603.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11602.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11604.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Können Attentate verhindert werden?, in: Fackel Heft 32, Nr. 847, 1931, S. 18-19</title>
+            <title type="iso-date">1931-03-01</title>
+            <title type="id">tid_11603</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">32</title><title type="heft">847</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-32-847_n0018.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/847,018</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Können Attentate verhindert werden?</head>
+            <p ana="pr168567">
+Eine erschöpfende Antwort erteilte <rs type="pers" ana="n_100875" ref="#fk__p_39461">Brandl</rs>:<lb/>
+</p>
+            <p ana="pr168569">
+<space/>Unser Mitarbeiter fragte den Leiter der <rs type="inst">Polizeidirektion</rs>, ob<lb/>
+seiner Ansicht nach Attentate überhaupt verhindert werden können.<lb/>
+</p>
+            <p ana="pr168570">
+<space/>»Ich muß schon von Berufs wegen sagen«, erklärte Vizepräsident<lb/>
+<rs type="pers" ana="n_100876" ref="#fk__p_39461"><abbr>Dr.</abbr> Brandl</rs>, »Attentate <seg type="spc">können nicht</seg>, <seg type="spc">sondern sie müssen</seg><lb/>
+verhindert werden. <seg type="spc">Wenn</seg> ein Anschlag <seg type="spc">gelingt</seg>, dann mag man dieser<lb/>
+Tatsache die Feststellung gegenüber halten, daß es in der Regel ja<lb/>
+<seg type="spc">nicht bekannt wird</seg>, <seg type="spc">in wie vielen Fällen</seg> Attentate <seg type="spc">abgewehrt<lb/>
+</seg> werden.<lb/>
+</p>
+            <p ana="pr168571">
+<space/><seg type="spc">Es ist bezeichnend</seg>, daß Attentate auf gekrönte Häupter oder<lb/>
+andere führende Persönlichkeiten <seg type="spc">gerade auch dann</seg> gelingen,<lb/>
+wenn eine hermetische Abschließung stattfindet.<lb/>
+</p>
+            <p ana="pr168572">
+<space/><seg type="spc">Gegen eine fliegende Kugel schützt keine<lb/>
+lebende Mauer</seg>. Das klassische Beispiel ist der Tod des Thronfolgers<lb/>
+ <rs type="pers" ana="n_100877" ref="#fk__p_43472">Franz Ferdinand</rs> in der militärisch besetzten Stadt Sarajevo.<lb/>
+</p>
+            <p ana="pr168574">
+In der Tat ein klassisches Beispiel.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_43472">
+               <persName>Franz Ferdinand von Este</persName>
+               <birth>
+                  <date>1863-12-18</date>
+                  <place>Graz</place>
+               </birth>
+               <death>
+                  <date>1914-6-28</date>
+                  <place>Sarajewo</place>
+               </death>
+               <occupation>Erzherzog</occupation>
+               <occupation>Thronfolger</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15149</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/3287</idno></person>
+            <person xml:id="fk__p_39461">
+               <persName>Brandl, Franz J.</persName>
+               <birth>
+                  <date>1875-4-14</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1953-3-15</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Polizeibeamter</occupation>
+               <note type="comment">Polizeirat, zuletzt Polizeipräsident</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

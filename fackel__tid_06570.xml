@@ -1,0 +1,44 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06570.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06569.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06571.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ein reiner Künstler, in: Fackel Heft 15, Nr. 391, 1914, S. 19-19</title>
+            <title type="iso-date">1914-01-01</title>
+            <title type="id">tid_06570</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">15</title><title type="heft">391</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-15-391_n0019.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/391,019</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ein reiner Künstler</head>
+            <p ana="pr89060">
+<space/>»<rs type="pers" ana="n_60863" ref="#fk__p_38500">Arthur Schnitzlers</rs> dreiaktiges Theaterstück ‚<rs type="title">Liebelei</rs>‘, das<lb/>
+bekanntlich auch vertont worden ist, wird bereits im <date>Januar</date> als<lb/>
+Film erscheinen. Der Dichter hat für die Vorstellung seines Werkes<lb/>
+eine Reihe von Bedingungen gestellt, so <abbr>z. B.</abbr> dürfen keine Untertitel<lb/>
+ gegeben werden und keine Briefe vorkommen.«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_38500">
+               <persName>Schnitzler, Arthur</persName>
+               <birth>
+                  <date>1862-5-15</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1931-10-21</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Arzt</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2121</idno></person>
+            </listPerson></back></text>
+</TEI>

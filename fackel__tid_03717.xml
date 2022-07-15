@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03717.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03716.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03718.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Spirituskonsument. (Folgen der Spiritusausstellung), in: Fackel Heft 06, Nr. 169, 1904, S. 23-23</title>
+            <title type="iso-date">1904-11-23</title>
+            <title type="id">tid_03717</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">06</title><title type="heft">169</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-06-169_n0023.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/169,023</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Spirituskonsument. (Folgen der Spiritusausstellung)</head>
+            <p ana="pr37080">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="name_203405" key="#fk__p_60647">Spirituskonsument</rs>.</seg></seg></seg> <seg type="insult">Die segensreichen Folgen der <rs type="event">Spiritusausstellung<lb/>
+</rs></seg> — so schreiben Sie — stellen sich allmählig ein. Der Brennspiritus<lb/>
+ ist im Kleinverschleiß um 100% teuerer, Sektionschef <rs type="pers" ana="n_31846" ref="#fk__p_55499">Exner</rs><lb/>
+noch immer nicht Geheimer Rat und <seg type="insult">Herr <rs type="pers" ana="n_31847" ref="#fk__p_44157">Gabor Steiner</rs></seg> Ritter des<lb/>
+<rs type="pers" ana="n_31848" ref="#fk__p_43514">Franz Josefs-Ordens</rs> geworden. Und da soll man nicht Antialkoholiker<lb/>
+werden!<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_44157">
+               <persName>Steiner, Gabor</persName>
+               <birth>
+                  <date>1858-5-28</date>
+                  <place>Temesvar/Siebenbürgen</place>
+               </birth>
+               <death>
+                  <date>1944-9-9</date>
+                  <place>Beverly Hills/Kalif.</place>
+               </death>
+               <occupation>Theaterleiter</occupation>
+               <note type="comment">IKG: 02.04.1858 als Geburtsdatum</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/62837</idno></person>
+            <person xml:id="fk__p_43514">
+               <persName>Franz Joseph I., Kaiser</persName>
+               <birth>
+                  <date>1830-8-18</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1916-11-21</date>
+                  <place>Wien</place>
+               </death>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15150</idno></person>
+            <person xml:id="fk__p_55499">
+               <persName>Exner, Wilhelm Franz</persName>
+               <birth>
+                  <date>1840-4-9</date>
+                  <place>Unter-Gänserndorf</place>
+               </birth>
+               <death>
+                  <date>1931-5-25</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Techniker</occupation>
+               <occupation>Politiker</occupation>
+               <note type="comment">1908 Gründer des Technischen Museums</note>
+               <note type="comment">Reichsratsabgeordneter 1882-97, Herrenhaus 1905-18</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/7044</idno></person>
+            </listPerson></back></text>
+</TEI>

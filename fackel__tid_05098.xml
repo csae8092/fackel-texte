@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_05098.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05097.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05099.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Der Dichter, in: Fackel Heft 12, Nr. 301, 1910, S. 58-59</title>
+            <title type="iso-date">1910-05-3</title>
+            <title type="id">tid_05098</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">12</title><title type="heft">301</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-12-301_n0058.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/301,058</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Der Dichter</head>
+            <p ana="pr65309">
+<space/><seg type="insult">Ein italienischer <rs type="pers">Schmock</rs></seg> hat <rs type="pers" ana="n_47568" ref="#fk__p_44354">Gerhart Hauptmann</rs> in Portofino<lb/>
+besucht. »Natürlich weiß er in fesselnder Weise zu plaudern«. Der<lb/>
+Anfang und das Ende des Berichtes lauten:<lb/>
+</p>
+            <p ana="pr65311">
+<space/>Dieses Jahr kam er <DATERANGE>Ende Januar</DATERANGE> hierher, und jetzt schickt er<lb/>
+sich bereits zur Heimreise an. <seg type="spc">Der Dichter von</seg> »<rs type="title"><seg type="spc"><rs type="pers">Hanneles</rs> Himmelfahrt<lb/>
+</seg></rs>« schwärmt für diesen blühenden, abseits vom Verkehr liegenden<lb/>
+ Winkel Italiens <seg type="symbol" subtype="4dots"/><lb/>
+</p>
+            <p ana="pr65312">
+<space/><seg type="symbol" subtype="4dots"/> Zu denen, die sich häufiger in der Villa einfinden, gehört<lb/>
+<rs type="pers" ana="n_47569" ref="#fk__p_53259">Siegfried Wagner</rs>, der in Santa Margherita wohnt. Mehrere Wochen<lb/>
+weilte auch <rs type="pers" ana="n_47570" ref="#fk__p_42699">Humperdinck</rs> im Lande und sang <seg type="spc">mit dem Dichter der</seg><lb/>
+»<rs type="title"><seg type="spc">Weber</seg></rs>« das Lob des blauen italienischen Himmels, wobei ein herrlicher<lb/>
+ Wein von Orvieto getrunken wurde.<lb/>
+</p>
+            <p ana="pr65314">
+<space/>Natürlich ganz falsch informiert. Der Dichter der »<rs type="title">Weber</rs>«<lb/>
+schwärmt für den blühenden Winkel Italiens und der Dichter des<lb/>
+</p>
+            <p ana="pr65314">
+»<rs type="title"><rs type="pers">Hannele</rs></rs>« sang gemeinsam mit <seg type="insult">Herrn <rs type="pers" ana="n_47571" ref="#fk__p_42699">Humperdinck</rs></seg> das Lob des<lb/>
+blauen italienischen Himmels, während <rs type="pers" ana="n_47572" ref="#fk__p_53259">Siegfried Wagner</rs> den Dichter<lb/>
+des »<rs type="title"><rs type="pers">Fuhrmann Henschel</rs></rs>« besuchte und der Dichter der »<rs type="title">Einsamen<lb/>
+Menschen</rs>« es ist, der die <seg type="insult">Reporter</seg> empfängt.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_53259">
+               <persName>Wagner, Siegfried</persName>
+               <birth>
+                  <date>1869-6-6</date>
+                  <place>Tribschen/Schweiz</place>
+               </birth>
+               <death>
+                  <date>1930-8-4</date>
+                  <place>Bayreuth</place>
+               </death>
+               <occupation>Komponist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/13027</idno></person>
+            <person xml:id="fk__p_42699">
+               <persName>Humperdinck, Engelbert</persName>
+               <birth>
+                  <date>1854-9-1</date>
+                  <place>Siegburg</place>
+               </birth>
+               <death>
+                  <date>1921-9-27</date>
+                  <place>Neustrelitz</place>
+               </death>
+               <occupation>Komponist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11784</idno></person>
+            <person xml:id="fk__p_44354">
+               <persName>Hauptmann, Gerhart</persName>
+               <birth>
+                  <date>1862-11-15</date>
+                  <place>Salzbrunn, Schlesien</place>
+               </birth>
+               <death>
+                  <date>1946-6-6</date>
+                  <place>Agnetendorf</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Ögg teilt die indirekte Stelle 521/64 zu, irrtümlich</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11617</idno></person>
+            </listPerson></back></text>
+</TEI>

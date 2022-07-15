@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_10782.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10781.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10783.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Die Führerin des Volkes, in: Fackel Heft 28, Nr. 743, 1926, S. 127-128</title>
+            <title type="iso-date">1926-12-01</title>
+            <title type="id">tid_10782</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">28</title><title type="heft">743</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-28-743_n0127.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/743,127</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Die Führerin des Volkes</head>
+            <p ana="pr149977">
+hat <seg type="insult">der Herr Hofrat <rs type="pers" ana="n_90008" ref="#fk__p_40876">Dreßler</rs></seg> auf dem <rs type="event">Berliner Polizeikongreß</rs> die<lb/>
+Presse genannt. Das bezieht die <seg/><lb/>
+auf sich:<lb/>
+</p>
+            <p ana="pr149979">
+<seg type="symbol" subtype="3dotsEditor"/> Die Jahre des Umsturzes und der Inflation haben ja leider da<lb/>
+und dort Journalisten auftauchen lassen, die in ruhigeren Zeiten niemals<lb/>
+einen Zutritt zum Arbeitsfeld der Journalisten gefunden hätten; gegen<lb/>
+<seg type="insult">diese unsauberen und die Journalistik schwer schädigenden Elemente</seg><lb/>
+</p>
+            <p ana="pr149979">
+zeigte sich <seg type="spc">auch die Polizei fast ohnmächtig</seg>. Was aber<lb/>
+der Polizei nicht gelang, das gelingt jetzt der Journalistik selbst; sie<lb/>
+<seg type="spc">stoßt</seg> diese Fremdkörper ab und besinnt sich ihrer eigentlichen<lb/>
+Arbeit — »Führerin des Volkes« zu sein.<lb/>
+</p>
+            <p ana="pr149982">
+Nämlich <seg type="insult">das <rs type="paperRef" ana="werk_24419">Organ der Herren <rs type="pers" ana="n_90009" ref="#fk__p_45335">Hacsak</rs> und <rs type="pers" ana="n_90010" ref="#fk__p_44410">Herczeg</rs></rs></seg>, das den<lb/>
+Mordskandal entfesselt hat. Sie sind die <seg type="insult">Journalistik</seg>, die »abstoßt«,<lb/>
+nicht die <seg type="insult">Fremdkörper</seg>, die abzustoßen der <seg type="insult">Journalistik</seg> gelingt.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_45335">
+               <persName>Hacsag, Géza</persName>
+               <birth>
+                  <date>1875-6-5</date>
+                  <place>Budapest</place>
+               </birth>
+               <occupation>Journalist</occupation>
+               <note type="comment">Wr. Allg. Zeitung, das Organ der Herren Hacsak &amp; Herczeg</note>
+               <note type="comment">3., Landstraßer Hauptstr. 1</note>
+            </person>
+            <person xml:id="fk__p_40876">
+               <persName>Dreßler, Oskar</persName>
+               <birth>
+                  <date>1878-3-23</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1959-12-21</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Polizeibeamter</occupation>
+               <note type="comment">2., Wolfgang Schmälzl-Gasse 27</note>
+               <note type="comment">Polizeikommissar</note>
+            </person>
+            <person xml:id="fk__p_44410">
+               <persName>Herczeg, Géza</persName>
+               <birth>
+                  <date>1888-3-1</date>
+                  <place>Nagykanizsa/Ungarn</place>
+               </birth>
+               <death>
+                  <date>1954-2-19</date>
+                  <place>Rom</place>
+               </death>
+               <occupation>Journalist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/7795</idno></person>
+            </listPerson></back></text>
+</TEI>

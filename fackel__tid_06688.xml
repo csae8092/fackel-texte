@@ -1,0 +1,42 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06688.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06687.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06689.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Im Drange der Zeit, in: Fackel Heft 15, Nr. 395, 1914, S. 54-54</title>
+            <title type="iso-date">1914-01-01</title>
+            <title type="id">tid_06688</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">15</title><title type="heft">395</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-15-395_n0054.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/395,054</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Im Drange der Zeit</head>
+            <p ana="pr90277">
+<space/>Kleine Bühne (<rs type="inst">Elite-Kino</rs>). Der Programmwechsel bringt die<lb/>
+besonders interessante Originalaufnahme des Herrn <rs type="pers" ana="n_61651" ref="#fk__p_42910">Erzherzogs Leopold<lb/>
+Salvator</rs> <seg type="spc">im Kreise der Familie</seg>. Als Hauptdrama figuriert »<rs type="title">Der<lb/>
+Kampf ums Leben</rs>«, ein farbenprächtiger Film, in welchem bunte Szenen<lb/>
+uns in das Leben fränkischer Bewohner einführen.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_42910">
+               <persName>Leopold Salvator, Erzherzog</persName>
+               <birth>
+                  <date>1863-10-15</date>
+                  <place>Altbunzlau</place>
+               </birth>
+               <death>
+                  <date>1931-09-04</date>
+                  <place>Weimar</place>
+               </death>
+            </person>
+            </listPerson></back></text>
+</TEI>

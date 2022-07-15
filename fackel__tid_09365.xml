@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_09365.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09364.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09366.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Festsaal des Niederöst. Gewerbevereines, 24. Januar, 7 Uhr:, in: Fackel Heft 25, Nr. 613, 1923, S. 42-42</title>
+            <title type="iso-date">1923-04-01</title>
+            <title type="id">tid_09365</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">25</title><title type="heft">613</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-25-613_n0042.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/613,042</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Festsaal des Niederöst. Gewerbevereines, 24. Januar, 7 Uhr:</head>
+            <p ana="pr124777">
+<space/>Festsaal des <rs type="inst"><abbr>Niederöst.</abbr> Gewerbevereines</rs>, <date>24. Januar</date>, 7 Uhr:<lb/>
+</p>
+            <p ana="pr124778">
+<space/>I. <rs type="title"><seg type="spc"><rs type="pers">Judith</rs> und <rs type="pers">Holofernes</rs></seg></rs>. Travestie in einem Akt.<lb/>
+Musik von <rs type="pers" ana="n_76775" ref="#fk__p_54913">Viktor Junk</rs> (Marsch und Entree des <rs type="pers">Joab</rs> nach der<lb/>
+Originalmusik von <rs type="pers" ana="n_76776" ref="#fk__p_39736">Carl Binder</rs>). (Diese vollständige Vorlesung enthielt<lb/>
+auch das Couplet »<rs type="title">Man <foreign xml:lang="de-loc">find’t’s</foreign> ganz natürlich und kein Hahn kräht<lb/>
+darnach</rs>«, mit Zusatzstrophen.)<lb/>
+</p>
+            <p ana="pr124779">
+<space/>II. <rs type="title"><seg type="spc">Die schlimmen Buben in der Schule</seg></rs>, Burleske<lb/>
+mit Gesang in einem Akt. Musik von <rs type="pers" ana="n_76777" ref="#fk__p_37834">Adolph Müller <abbr><SPAN cont="sen.">sen<ADD>.</ADD></SPAN></abbr></rs> (Der<lb/>
+fehlende Chor der Väter und Mütter nach Angabe des Vortragenden.<lb/>
+Das Lied des <rs type="pers">Willibald</rs> von <rs type="pers" ana="n_76778" ref="#fk__p_50021">Mechtilde Lichnowsky</rs>).<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_50021">
+               <persName>Lichnowsky, Mechtilde Fürstin, geb. Gräfin von und zu Arco-Zinneberg</persName>
+               <birth>
+                  <date>1879-3-8</date>
+                  <place>Schloß Schönburg</place>
+               </birth>
+               <death>
+                  <date>1958-6-4</date>
+                  <place>London</place>
+               </death>
+               <occupation>Schriftstellerin</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38988</idno></person>
+            <person xml:id="fk__p_54913">
+               <persName>Junk, Viktor</persName>
+               <birth>
+                  <date>1875-4-18</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1948-4-5</date>
+                  <place>Frohnleiten/Steiermark</place>
+               </death>
+               <occupation>Germanist</occupation>
+               <occupation>Musikwissenschaftler</occupation>
+            </person>
+            <person xml:id="fk__p_37834">
+               <persName>Müller, Adolf sen.</persName>
+               <birth>
+                  <date>1807-10-7</date>
+                  <place>Tolna/Ungarn</place>
+               </birth>
+               <death>
+                  <date>1886-7-29</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <occupation>Kapellmeister</occupation>
+               <occupation>Komponist</occupation>
+               <note type="comment">Ögg erteilt ihm die Lebensdaten von Adolph Müller jun.</note>
+            </person>
+            <person xml:id="fk__p_39736">
+               <persName>Binder, Carl</persName>
+               <birth>
+                  <date>1816-11-29</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1860-11-05</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Komponist</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

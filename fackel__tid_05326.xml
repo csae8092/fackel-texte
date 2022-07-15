@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_05326.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05325.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05327.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Hof- und Personalnachrichten, in: Fackel Heft 13, Nr. 321, 1911, S. 22-22</title>
+            <title type="iso-date">1911-04-29</title>
+            <title type="id">tid_05326</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">13</title><title type="heft">321</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-13-321_n0022.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/321,022</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Hof- und Personalnachrichten</head>
+            <p ana="pr69294">
+<seg type="spc">Wien</seg>, <date>31. März</date>.<lb/>
+</p>
+            <p ana="pr69295">
+<space/>— Der neuernannte Hofsekretär des <rs type="inst">Ministeriums des Äußern</rs>,<lb/>
+<rs type="pers" ana="n_50354" ref="#fk__p_56676">Doktor Friedrich <abbr>v.</abbr> <SPAN sug="Wiesner">W......</SPAN></rs>, Sohn des hervorragenden <RS pers="Julius von Wiesner" globID="rs_676">Gelehrten</RS>, war<lb/>
+bis in die letzten Tage noch als Staatsanwaltstellvertreter bei dem<lb/>
+<rs type="inst">Wiener Landesgerichte</rs> beschäftigt, mußte aber diese Tätigkeit plötzlich<lb/>
+unterbrechen, um sich aus Anlaß einer Blinddarmentzündung einer<lb/>
+Perforierung des Darmes im <rs type="inst">Sanatorium <rs type="pers" ana="n2_4414" ref="#fk__p_57761">Löw</rs></rs> zu unterziehen.<lb/>
+</p>
+            <p ana="pr69297">
+<space/><seg type="insult">Solche Auszeichnungen</seg> erfolgen sonst auch aus anderen<lb/>
+Anlässen und können mit der Versetzung in den dauernden Ruhestand<lb/>
+ verbunden sein, was aber diesmal zum Glück nicht der<lb/>
+Fall war. Es ist betrübend genug, daß in den <seg type="insult">Kreisen der höheren<lb/>
+Beamtenschaft</seg> einmal eine Blinddarmentzündung eine Perforierung<lb/>
+des Darms, statt daß diese ein Avancement zur Folge hatte.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_57761">
+               <persName>Loew, Anton</persName>
+               <birth>
+                  <date>1847-10-20</date>
+                  <place>Preßburg</place>
+               </birth>
+               <death>
+                  <date>1907-9-14</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Arzt</occupation>
+               <occupation>Sanatoriumsleiter</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/20565</idno></person>
+            <person xml:id="fk__p_56676">
+               <persName>Wiesner, Friedrich Ritter von</persName>
+               <birth>
+                  <date>1871-10-27</date>
+                  <place>Maria-Brunn bei Wien</place>
+               </birth>
+               <death>
+                  <date>1951-11-5</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Ministerialbeamter</occupation>
+               <note type="comment">zunächst Staatsanwalts-Substitut</note>
+               <note type="comment">Sektionsrat im Min. des Äußeren</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_21314</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/27104</idno></person>
+            </listPerson></back></text>
+</TEI>

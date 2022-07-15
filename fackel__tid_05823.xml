@@ -1,0 +1,124 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_05823.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05822.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05824.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Alfred Freiherr von Ismay, in: Fackel Heft 14, Nr. 351, 1912, S. 69-70</title>
+            <title type="iso-date">1912-06-01</title>
+            <title type="id">tid_05823</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">14</title><title type="heft">351</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-14-351_n0069.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/351,069</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Alfred Freiherr von Ismay</head>
+            <p ana="pr77993">
+<space/>Die folgende unpassende Anspielung erlaubte sich der<lb/>
+Komiker <rs type="pers" ana="n_55270" ref="#fk__p_46351">Thimig</rs> in seiner Ansprache an <rs type="pers" ana="n_55271" ref="#fk__p_39121">Baumeister</rs>:<lb/>
+</p>
+            <p ana="pr77995">
+<space/>»<seg type="symbol" subtype="4dots"/> Sie sind der Kompaß unserer <rs type="inst">Burgtheaterkunst</rs>, der, aufgerichtet<lb/>
+ vor dem Steuer unseres Fahrzeuges, uns zwischen allen Klippen,<lb/>
+Strömungen und Untiefen des Tagesgeschmackes, im Fahrwasser der<lb/>
+Wahrheit, Schönheit, der Bescheidenheit, der Natur, erhält.«<lb/>
+</p>
+            <p ana="pr77997">
+<space/>Solche Vergleiche werden im <rs type="inst">Schottengymnasium</rs> gemacht,<lb/>
+dem der <rs type="inst">Burgtheaterdirektor</rs> nahesteht und von dem er <seg type="insult">seine besten<lb/>
+Kräfte</seg> bezieht <seg type="symbol" subtype="3dots"/> Aber die Erinnerung an die Titanic war noch<lb/>
+allzu frisch. Man lache nicht! Man erwehre sich der Assoziationen.<lb/>
+<seg type="symbol" subtype="3dots"/> <seg type="insult">Die größte Katastrophe der Theatergeschichte <seg type="symbol" subtype="3dots"/></seg> Das <rs type="inst">Burgtheater<lb/>
+</rs> ist unsinkbar <seg type="symbol" subtype="3dots"/> <rs type="pers" ana="n_55272" ref="#fk__p_52478">Rosenbaum</rs> schickt Funkennotizen <seg type="symbol" subtype="3dots"/> Das<lb/>
+mit <seg type="insult">allem Komfort der Neuzeit</seg> ausgestattete und mit einem<lb/>
+Kostenaufwand von 20 Millionen Kronen erbaute <seg type="insult">Riesenfahrzeug</seg><lb/>
+geht unter <seg type="symbol" subtype="3dots"/> <rs type="pers" ana="n_55273" ref="#fk__p_39121">Baumeister</rs> lebt noch <seg type="symbol" subtype="3dots"/> Ruft: Jungens, ihr habt<lb/>
+</p>
+            <p ana="pr77997">
+eure Pflicht getan <seg type="symbol" subtype="3dots"/> <seg type="insult">Direktor <RS pers="Alfred Freiherr von Berger" globID="rs_692"><rs type="pers" ana="n_55274" ref="#fk__p_57288">Ismay</rs></RS></seg> rettet sich <seg type="symbol" subtype="3dots"/> Man unterdrücke<lb/>
+ Kalauer <seg type="symbol" subtype="3dots"/> <seg type="insult"><rs type="pers" ana="n_55275" ref="#fk__p_38058">Eisberger</rs> <seg type="symbol" subtype="3dots"/> große Rederei <seg type="symbol" subtype="3dots"/></seg> Die <seg type="insult">Schotten</seg><lb/>
+haben schlecht funktioniert.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_38058">
+               <persName>Berger, Alfred Freiherr von</persName>
+               <birth>
+                  <date>1853-4-30</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1912-8-24</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Theaterleiter</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13624</idno></person>
+            <person xml:id="fk__p_52478">
+               <persName>Rosenbaum, Richard</persName>
+               <birth>
+                  <date>1867-11-4</date>
+                  <place>Zikow, Böhmen</place>
+               </birth>
+               <death>
+                  <date>1942-6-25</date>
+                  <place>Konzentrationslager Theresienstadt</place>
+               </death>
+               <occupation>Dramaturg</occupation>
+               <occupation>Verleger</occupation>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">es dürfte sich um einen ÖBL-Irrtum handeln</note>
+               <note type="comment">literarisch-artistischer Sekretär des Hofburgtheaters</note>
+               <note type="comment">Donau-Verlag</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12556</idno></person>
+            <person xml:id="fk__p_46351">
+               <persName>Thimig, Hugo</persName>
+               <birth>
+                  <date>1854-6-16</date>
+                  <place>Dresden</place>
+               </birth>
+               <death>
+                  <date>1944-9-24</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <occupation>Theaterleiter</occupation>
+               <note type="comment">1874-1917 Burgtheater</note>
+               <note type="comment">Burgth. Dir. 1. 9. 1912 bis 17. 3. 1917</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12948</idno></person>
+            <person xml:id="fk__p_57288">
+               <persName>Ismay, Joseph Bruce</persName>
+               <birth>
+                  <date>1862-12-12</date>
+                  <place>Crosby/Merseyside</place>
+               </birth>
+               <death>
+                  <date>1937-10-17</date>
+                  <place>Mayfair bei London</place>
+               </death>
+               <occupation>Finanzmann</occupation>
+               <occupation>Reeder</occupation>
+               <note type="comment">Eigner der Titanic, Überlebender des Unglücks</note>
+            </person>
+            <person xml:id="fk__p_39121">
+               <persName>Baumeister, Bernhard</persName>
+               <birth>
+                  <date>1827-9-28</date>
+                  <place>Posen</place>
+               </birth>
+               <death>
+                  <date>1917-10-25</date>
+                  <place>Baden bei Wien</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <note type="comment">Baden Friedhof St. Helena</note>
+               <note type="comment">1852-1917 Burgtheater</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13489</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/6173</idno></person>
+            </listPerson></back></text>
+</TEI>

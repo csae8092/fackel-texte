@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00714.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00713.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00715.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Pressfeind. (Einem Pressfeind), in: Fackel Heft 01, Nr. 029, 1900, S. 32-32</title>
+            <title type="iso-date">1900-01-01</title>
+            <title type="id">tid_00714</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">029</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-029_n0032.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/029,032</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Pressfeind. (Einem Pressfeind)</head>
+            <p ana="pr6726">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_5155" ref="#fk__p_51675">Pressfeind</rs>.</seg></seg> Auch ich habe seit Jahren <seg type="insult">nichts Gemeineres</seg> gelesen<lb/>
+als den Aufruf der <rs type="pers" ana="n_5156" ref="#fk__p_38006">Scharf’schen ‚<rs type="magazine" ana="werk_1812"><seg type="ELIDASH">Sonntagszeitung</seg> und Montagszeitung</rs>‘</rs>: »Geld am<lb/>
+<seg type="ELIDASH">Sonntag</seg> und Montag!« Man kann auf die Art, wie der Mann das Publicum<lb/>
+ zur Mitarbeit »heranziehen« wird, begierig sein. Der Kampf gegen<lb/>
+die ‚<rs type="paper" ana="werk_1813">Neue Freie Presse</rs>‘ ist aber selbst durch <seg type="insult">Herrn <rs type="pers" ana="n_5157" ref="#fk__p_38006">Scharf</rs></seg> noch nicht<lb/>
+compromittiert. Er hat jetzt die richtige Methode gewählt, den <seg type="insult"><rs type="paperRef" ana="werk_40690"><rs type="inst">Börsenwöchner<lb/>
+</rs></rs></seg> unterzukriegen: <seg type="insult">Stilblüten gegen Stilblüten</seg>. <seg type="insult">Herr <rs type="pers" ana="n_5158" ref="#fk__p_50373">Benedikt</rs></seg>,<lb/>
+meinte <rs type="pers" ana="n_5159" ref="#fk__p_38006">Scharf</rs> neulich, ist <seg type="insult">»kein richtiger <rs type="title"><rs type="pers">Wilhelm Tell</rs></rs>«</seg>; denn er ruft<lb/>
+immer: »Landgraf, werde — weich!« Und doch ist es eine Thatsache,<lb/>
+dass sich im ganzen <rs type="title"><rs type="pers">Tell</rs></rs> der bekannte Ruf: »Landgraf, werde hart!«<lb/>
+nicht ein einziges Mal findet.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_51675">
+               <persName>Pressfeind</persName>
+            </person>
+            <person xml:id="fk__p_50373">
+               <persName>Benedikt, Moriz</persName>
+               <birth>
+                  <date>1849-5-27</date>
+                  <place>Kwatschitz/Mähren</place>
+               </birth>
+               <death>
+                  <date>1920-3-18</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <note type="comment">Geburtsort Kwatschitz bei Ungarisch Hradisch/Mähren, nicht Kwassitz bei Kremsier</note>
+               <note type="comment">1. Tor, 20/1/1a</note>
+               <note type="comment">Hrsg. der NFP (seit 1908 alleiniger Leiter)</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10875</idno></person>
+            <person xml:id="fk__p_38006">
+               <persName>Scharf, Alexander</persName>
+               <birth>
+                  <date>1834-05-24</date>
+                  <place>Budapest</place>
+               </birth>
+               <death>
+                  <date>1904-11-04</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Zeitungsverleger</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/9671</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_10406.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10405.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10407.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">6. Januar:, in: Fackel Heft 27, Nr. 712, 1926, S. 47-47</title>
+            <title type="iso-date">1926-01-01</title>
+            <title type="id">tid_10406</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">27</title><title type="heft">712</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-27-712_n0047.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/712,047</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>6. Januar:</head>
+            <p ana="pr142320">
+<space/><date>6. Januar</date>:<lb/>
+</p>
+            <p ana="pr142321">
+<space/><rs type="pers" ana="n_86835" ref="#fk__p_46919"><seg type="spc">Nestroy</seg></rs>: <rs type="title"><seg type="spc">Der konfuse Zauberer</seg></rs>, bearbeitet vom<lb/>
+Vortragenden. Musik von <rs type="pers" ana="n_86836" ref="#fk__p_37834">Adolf Müller <abbr>sen.</abbr></rs> Das Lied des <rs type="pers">Schmafu</rs><lb/>
+mit den 2 <rs type="pers" ana="n_86837" ref="#fk__p_46919">Nestroy’schen und 2 neuen Zeitstrophen</rs> (die zweite<lb/>
+wiederholt).<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_37834">
+               <persName>Müller, Adolf sen.</persName>
+               <birth>
+                  <date>1807-10-7</date>
+                  <place>Tolna/Ungarn</place>
+               </birth>
+               <death>
+                  <date>1886-7-29</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <occupation>Kapellmeister</occupation>
+               <occupation>Komponist</occupation>
+               <note type="comment">Ögg erteilt ihm die Lebensdaten von Adolph Müller jun.</note>
+            </person>
+            <person xml:id="fk__p_46919">
+               <persName>Nestroy, Johann Nepomuk</persName>
+               <birth>
+                  <date>1801-12-7</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1862-5-25</date>
+                  <place>Graz</place>
+               </death>
+               <occupation>Sänger</occupation>
+               <occupation>Schauspieler</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12338</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,48 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_10004.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10003.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10005.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Bunte Welt, in: Fackel Heft 26, Nr. 668, 1924, S. 116-117</title>
+            <title type="iso-date">1924-12-01</title>
+            <title type="id">tid_10004</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">26</title><title type="heft">668</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-26-668_n0116.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/668,116</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Bunte Welt</head>
+            <p ana="pr135813">
+<space/>— — <rs type="pers" ana="n_83183" ref="#fk__p_52784">Sascha Leontjew</rs> ist Philosoph. »— — Der Tänzer muß<lb/>
+vorerst Philosoph sein, um überhaupt tanzen zu können — —«,<lb/>
+sagt er. Er wird das Gottsuchen, das Streben nach Erlösung in einer<lb/>
+harmonischen Vereinigung mit dem Unerklärlichen mimen.<lb/>
+</p>
+            <p ana="pr135815">
+In »<rs type="title">Küsse um Mitternacht</rs>«, zwischen »<rs type="title">Der <rs type="pers">Bobby Kohn</rs> ist kein<lb/>
+Verkehr für dich!</rs>«, »<rs type="title">Das ist der <rs type="pers">Java von Bratislava</rs></rs>« und dem<lb/>
+»<rs type="title">Bubikopflied</rs>«.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_52784">
+               <persName>Leontjew, Sascha</persName>
+               <birth>
+                  <date>1897-6-12</date>
+                  <place>Riga</place>
+               </birth>
+               <death>
+                  <date>1942-8-24</date>
+                  <place>Konzentrationslager Mauthausen</place>
+               </death>
+               <occupation>Tänzer</occupation>
+               <note type="comment">Susanne Rode-Breymann, Die Wr. Staatsoper in den Zwischenkriegsjahren, 1994, Seite 176</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

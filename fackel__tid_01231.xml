@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01231.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01230.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01232.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Herrn Stoll, Regisseur der Hofoper. (Herrn Stoll), in: Fackel Heft 02, Nr. 052, 1900, S. 26-26</title>
+            <title type="iso-date">1900-09-01</title>
+            <title type="id">tid_01231</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">052</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-052_n0026.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/052,026</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Herrn Stoll, Regisseur der Hofoper. (Herrn Stoll)</head>
+            <p ana="pr11779">
+<space/><seg type="sidehead"><seg type="i">Herrn <rs type="pers" ana="n_9618" ref="#fk__p_53698">Stoll</rs>, Regisseur der <rs type="inst">Hofoper</rs>.</seg></seg> Ich höre, dass Sie sich<lb/>
+etwas paschamäßig aufführen und den Chor und die Bühnenarbeiter<lb/>
+mehr, als es erlaubt und in anderen Theatern üblich ist, schinden und<lb/>
+plagen. Ich hätte Ihnen gerne zu dieser Auffassung Ihres Berufes ein<lb/>
+Wörtchen gesagt. Aber seitdem Sie den <rs type="pers" ana="n_9619" ref="#fk__p_43514">Franz Josefs-Orden</rs> bekommen<lb/>
+haben, soll mit Ihnen überhaupt nicht mehr zu reden sein <seg type="symbol" subtype="4dots"/><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_43514">
+               <persName>Franz Joseph I., Kaiser</persName>
+               <birth>
+                  <date>1830-8-18</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1916-11-21</date>
+                  <place>Wien</place>
+               </death>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15150</idno></person>
+            <person xml:id="fk__p_53698">
+               <persName>Stoll, August</persName>
+               <birth>
+                  <date>1853/1854-01-03</date>
+                  <place>Hermannstadt</place>
+               </birth>
+               <death>
+                  <date>1918-7-12</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Sänger</occupation>
+               <occupation>Regisseur</occupation>
+               <occupation>Komponist</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

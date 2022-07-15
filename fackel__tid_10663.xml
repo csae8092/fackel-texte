@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_10663.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10662.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10664.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Auteur autrichien, in: Fackel Heft 28, Nr. 735, 1926, S. 156-157</title>
+            <title type="iso-date">1926-10-01</title>
+            <title type="id">tid_10663</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">28</title><title type="heft">735</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-28-735_n0156.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/735,156</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Auteur autrichien</head>
+            <p ana="pr148594">
+<space/>Aus Paris wird mir geschrieben:<lb/>
+</p>
+            <p ana="pr148596">
+<space/>Mein Freund <rs type="pers" ana="n_89349" ref="#fk__p_59481"><abbr>P.</abbr></rs>, abends im Bett »<rs type="title">Die Stunde des Todes</rs>« lesend,<lb/>
+legt nach der letzten Zeile das <rs type="selfRef" ana="werk_24269">Heft</rs> auf den Nachttisch und will das<lb/>
+Licht abdrehen. Da fällt sein Blick auf <foreign xml:lang="fr">‚<rs type="" ana="werk_24270">Le Journal</rs>‘</foreign>, auf das er das<lb/>
+Heft der <rs type="self" ana="werk_24272">Fackel</rs> gelegt hat. Ein Zauber: gerade unter dem Rand des<lb/>
+<rs type="perRef" ana="werk_40498">Heftes</rs> steht der Name »<rs type="pers" ana="n_89350" ref="#fk__p_46460">Bekessy</rs>« im <foreign xml:lang="fr">‚<rs type="" ana="werk_24274">Journal</rs>‘</foreign>. Er traut seinen Augen<lb/>
+nicht und beginnt die Sache zu untersuchen. Da liest er die beiliegende<lb/>
+Annonce (die Sie hoffentlich veranlassen wird, hieherzukommen, um<lb/>
+Ihre Arbeit auch hier zu tun).<lb/>
+</p>
+            <p ana="pr148597">
+<space/><seg ana="‚Le Journal‘, 10. Sept."/>:<lb/>
+</p>
+            <p ana="pr148599"><foreign xml:lang="fr">
+<seg type="spc">Auteur autrichien</seg> et sa femme <abbr>dem.</abbr><lb/>
+pour <seg type="spc">quelques mois</seg> appartement<lb/>
+meubles <seg type="spc">luxueux</seg>, 3 ou 4 chambres (2 <abbr>ch.</abbr><lb/>
+<seg type="spc">à coucher</seg>, cabinet <seg type="spc">d’étude</seg> avec<lb/>
+<seg type="spc">grand bureau</seg>, <abbr>etc.</abbr>) Passy ou Auteuil<lb/>
+de préférence. Offre avec dernier <seg type="spc">prix</seg>:<lb/>
+<rs type="pers" ana="n_89351" ref="#fk__p_46460"><seg type="spc">Bekessy</seg></rs>, 20. avenue Victor-Hugo, Paris.<lb/></foreign>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46460">
+               <persName>Békessy, Imre</persName>
+               <birth>
+                  <date>1887-10-13</date>
+                  <place>Deutschkreuz</place>
+               </birth>
+               <death>
+                  <date>1951-3-15</date>
+                  <place>Budapest</place>
+               </death>
+               <occupation>Zeitungsverleger</occupation>
+               <note type="comment">Wikipedia gibt als Todesdatum an: "vor dem 17. März 1951"</note>
+               <note type="comment">Deutschkreuz</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37843</idno></person>
+            <person xml:id="fk__p_59481">
+               <persName>P.</persName>
+               <note type="comment"/>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/22287</idno></person>
+            </listPerson></back></text>
+</TEI>

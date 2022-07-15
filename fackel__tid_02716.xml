@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02716.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02715.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02717.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Wiener. (Wienerisches), in: Fackel Heft 04, Nr. 118, 1902, S. 32-32</title>
+            <title type="iso-date">1902-10-17</title>
+            <title type="id">tid_02716</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">04</title><title type="heft">118</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-04-118_n0032.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/118,032</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Wiener. (Wienerisches)</head>
+            <p ana="pr26463">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="n_22941" ref="#fk__p_55452">Wiener</rs>.</seg></seg></seg> Jüngst hörte ich in einer Tabak-Trafik den folgenden<lb/>
+Dialog: Austrägerin, die das ‚<rs type="" ana="werk_9256">Extrablatt</rs>‘ bringt, zur Verschleißerin:<lb/>
+»Heute sehr wichtiger Inhalt!« »So? Was denn?« »Ein Gastwirt auf<lb/>
+dem Neubau hat sich und seine Familie umgebracht!« »Und da bringen’s<lb/>
+mir so wenig?« — Das <seg type="insult">Wohlthätigkeitsfest</seg>, das <seg type="insult">zu Ehren des freigesprochenen<lb/>
+ Mörders <rs type="pers" ana="n_22942" ref="#fk__p_53593">Stefan <seg type="spc">Tippel</seg></rs></seg> am <date>6. October</date> in <rs type="inst"><rs type="pers" ana="n2_1786" ref="#fk__p_57482">Anderschitz’</rs> Restauration<lb/>
+</rs> (Hernalser Hauptstraße) veranstaltet wurde, hat einen sehr<lb/>
+animierten Verlauf genommen.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_57482">
+               <persName>Anderschitz, Mathias</persName>
+               <birth>
+                  <date>1867-12-13</date>
+                  <place>Guttenfeld/Mähren</place>
+               </birth>
+               <death>
+                  <date>1928-4-26</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Gastwirt</occupation>
+               <note type="comment">17., Hernalser Hauptstraße; Whg.: 16., Ottakringer Straße 183</note>
+            </person>
+            <person xml:id="fk__p_55452">
+               <persName>Wiener</persName>
+            </person>
+            <person xml:id="fk__p_53593">
+               <persName>Tippl, Stefan</persName>
+               <birth>
+                  <date>1859-9-7</date>
+                  <place>Poliken/Böhmen</place>
+               </birth>
+               <death>
+                  <date>1932-11-11</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Buchbinder</occupation>
+               <note type="comment">Mordprozeß, Freispruch, Volksblatt 4.10.02, Seite 7</note>
+               <note type="comment">17. Taubergasse 14</note>
+               <note type="comment">Namenskorrektur!</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

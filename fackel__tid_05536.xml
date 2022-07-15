@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_05536.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05535.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05537.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lyrik, in: Fackel Heft 13, Nr. 336, 1234, S. 31-32</title>
+            <title type="iso-date">1234-01-01</title>
+            <title type="id">tid_05536</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">13</title><title type="heft">336</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-13-336_n0031.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/336,031</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Lyrik</head>
+            <p ana="pr72665">
+<space/>»<rs type="pers" ana="n_52500" ref="#fk__p_44957">Gräfin <AUCTOR>Marianne Kuenburg</AUCTOR></rs> sendet uns nachstehende stimmungsvolle<lb/>
+ Verse:<lb/>
+</p>
+            <lg>
+<l>Nebel wallen,</l>
+<l>Blätter fallen,</l>
+<l>»Allerseelen« zieht ins Land!</l>
+<l>Blumen, Lichter schmücken Gräber,</l>
+<l>Prangend heut im Festgewand.</l>
+</lg>
+            <lg>
+<l>Herzen bluten,</l>
+<l>Tränen fluten,</l>
+<l>Alte Wunden brechen auf.</l>
+<l>Kalte, bleiche Knochenhände</l>
+<l>Hemmen heut’ den Alltagslauf.</l>
+<l>Morgen wieder</l>
+<l>Sinkt ihr nieder</l>
+<l>In Vergessenheit und Ruh’!</l>
+<l>Frisches Leben, neues Streben</l>
+<l>Schließen eure Gräber zu.«</l>
+</lg>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_44957">
+               <persName>Küenburg, Marianne Gräfin, geb. Freiin von Matz-Spiegelfeld</persName>
+               <birth>
+                  <date>1856-10-25</date>
+                  <place>St. Pölten</place>
+               </birth>
+               <death>
+                  <date>1932-06-02</date>
+                  <place>Linz</place>
+               </death>
+            </person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03773.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03772.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03774.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Wiener. (Wienerisches), in: Fackel Heft 06, Nr. 173, 1905, S. 22-22</title>
+            <title type="iso-date">1905-01-16</title>
+            <title type="id">tid_03773</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">06</title><title type="heft">173</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-06-173_n0022.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/173,022</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Wiener. (Wienerisches)</head>
+            <p ana="pr37860">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="name_203434" ref="#fk__p_55452">Wiener</rs>.</seg></seg></seg> Es gibt Dinge, die nur in <seg type="insult">Wien</seg> möglich sind. Nur<lb/>
+in <seg type="insult">Wien</seg> konnte in dem Nachrufe für einen Verstorbenen erwähnt werden,<lb/>
+daß er in seinem Stammrestaurant das Vorrecht genossen hatte, »zur Mittagsstunde<lb/>
+ in die Küche zu gehen und sich selbst sein Rindfleisch abzuschneiden<lb/>
+«. Man zählt <date>1905</date>, und man ißt noch immer <seg type="insult">»sein« Rindfleisch</seg>.<lb/>
+Die <seg type="insult">Kruspelspitz-Weltanschauung</seg> bestimmt noch immer alle Entwicklung.<lb/>
+In der <seg type="insult">Stadt</seg>, in der ein Zahlkellner <seg type="insult">»<rs type="pers" ana="n_32375" key="#fk__p_50523">Napoleon</rs>«</seg> gerufen wird, war <seg type="insult">der<lb/>
+feierliche Ernst</seg> möglich, der jüngst wieder in einem Nachruf — siehe<lb/>
+‚<rs type="paper" ana="werk_13539">Neues Wiener Abendblatt</rs>‘ vom <date>31. Dezember</date> — die Worte fand:<lb/>
+»Nach dem Tode des Meisters (<rs type="pers" ana="n_32376" ref="#fk__p_46949">Johann Strauß</rs>) <seg type="spc">zog sich</seg> <rs type="pers" ana="n_32377" ref="#fk__p_51683">Priester</rs><lb/>
+<seg type="spc">immer mehr ins <rs type="inst">Café <rs type="pers" ana="n2_2571" ref="#fk__p_52861">Scheidl</rs></rs> zurück</seg>; auch schloß er sich<lb/>
+einer in Wien sehr bekannten Stammgesellschaft an«.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46949">
+               <persName>Strauß, Johann jun.</persName>
+               <birth>
+                  <date>1825-10-25</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1899-6-3</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Komponist</occupation>
+               <occupation>Dirigent</occupation>
+               <note type="comment">261/15 zweifelhaft</note>
+               <note type="comment">368/22 Johann Strauß-Theater, 4., Favoritenstr. 8, ab 1931 Scala</note>
+            </person>
+            <person xml:id="fk__p_55452">
+               <persName>Wiener</persName>
+            </person>
+            <person xml:id="fk__p_52861">
+               <persName>Scheidl (Café)</persName>
+            </person>
+            <person xml:id="fk__p_51683">
+               <persName>Priester, Josef S.</persName>
+               <birth>
+                  <date>1836</date>
+               </birth>
+               <death>
+                  <date>1904-12-31</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Sektvertreter</occupation>
+               <note type="comment">Freund, Sekretär, Billardpartner von Johann Strauß</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

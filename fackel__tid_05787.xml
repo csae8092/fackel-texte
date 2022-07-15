@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_05787.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05786.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05788.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Denken sie an Ibsen!, in: Fackel Heft 14, Nr. 351, 1912, S. 18-19</title>
+            <title type="iso-date">1912-06-01</title>
+            <title type="id">tid_05787</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">14</title><title type="heft">351</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-14-351_n0018.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/351,018</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Denken sie an Ibsen!</head>
+            <p ana="pr77423">
+<space/>»<seg type="symbol" subtype="3dots"/> Wer meine Liebesbriefe, so lange ich lebe, veröffentlichen<lb/>
+wollte, mag von mir unter dem Beifall aller anständigen Leute ein<lb/>
+<seg type="insult">Schurke</seg> genannt werden. Wenn er aber die Veröffentlichung nach<lb/>
+meinem Tode bewirkt, so wird er ein <seg type="insult">Forscher</seg> genannt, der im Dienste<lb/>
+der Literaturwissenschaft steht. Denken Sie an <rs type="pers" ana="n_54834" ref="#fk__p_43482">Franz Grillparzer</rs>, an<lb/>
+<rs type="pers" ana="n_54835" ref="#fk__p_50670">Nikolaus Lenau</rs>! Erinnern Sie sich an die empörende Gründlichkeit, mit<lb/>
+welcher man alle ihre seelischen und sinnlichen Kämpfe aufgedeckt hat.<lb/>
+Denken Sie an <rs type="pers" ana="n_54836" ref="#fk__p_45852">Henrik Ibsen</rs>, der kaum die Augen geschlossen hatte,<lb/>
+als man die Greisentorheit seines Sommerromans in Gossensaß uns<lb/>
+urkundlich enthüllt hat <seg type="symbol" subtype="4dots"/> Was man sonst eine verwerfliche Indiskretion<lb/>
+genannt hätte, wird jetzt als wissenschaftliches Material gewertet.«<lb/>
+</p>
+            <p ana="pr77425">
+<space/>So läßt <seg type="insult">Herr <rs type="pers" ana="n_54837" ref="#fk__p_50878">Blumenthal</rs></seg> einen berühmten Mann klagen.<lb/>
+Wo? Nun dort, wo <seg type="insult">das wissenschaftliche Material über den Fall<lb/>
+<rs type="pers" ana="n_54838" ref="#fk__p_45852">Ibsen</rs></seg> urkundlich enthüllt wurde.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_43482">
+               <persName>Grillparzer, Franz</persName>
+               <birth>
+                  <date>1791-1-15</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1872-1-21</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Beamter</occupation>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Ögg teilt 912/23 Traum ein Leben Calderon zu</note>
+               <note type="comment">Ögg teilt irrt. 229/2, 305/50 zu</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11518</idno></person>
+            <person xml:id="fk__p_50670">
+               <persName>Lenau, Nikolaus</persName>
+               <birth>
+                  <date>1802-8-13</date>
+                  <place>Tschadat, Banat</place>
+               </birth>
+               <death>
+                  <date>1850-8-22</date>
+                  <place>Oberdöbling bei Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/63259</idno></person>
+            <person xml:id="fk__p_45852">
+               <persName>Ibsen, Henrik</persName>
+               <birth>
+                  <date>1828-3-20</date>
+                  <place>Skien</place>
+               </birth>
+               <death>
+                  <date>1906-5-23</date>
+                  <place>Christiania</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment"/>
+               <note type="comment">Ögg ordnet 368/49 Baumeister Solneß Strindberg zu</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11798</idno></person>
+            <person xml:id="fk__p_50878">
+               <persName>Blumenthal, Oskar</persName>
+               <birth>
+                  <date>1852-3-13</date>
+                  <place>Berlin</place>
+               </birth>
+               <death>
+                  <date>1917-4-24</date>
+                  <place>Berlin</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Theaterleiter</occupation>
+               <note type="comment">Eigentümer des Lessingtheaters</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/14328</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,32 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07575.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07574.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07576.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Die Stellung wird siegreich behauptet, in: Fackel Heft 18, Nr. 445, 1234, S. 24-24</title>
+            <title type="iso-date">1234-01-01</title>
+            <title type="id">tid_07575</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">18</title><title type="heft">445</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-18-445_n0024.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/445,024</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Die Stellung wird siegreich behauptet</head>
+            <p ana="pr101873">
+<space/>» <seg type="symbol" subtype="3dots"/> Es ist <seg type="spc">kein Wunder</seg>, daß das <rs type="inst">Café <rs type="pers" ana="n2_5819" ref="#fk__p_58507">Lurion</rs></rs> sich zum<lb/>
+ausgesprochenen Lieblingslokal des Wiener Publikums aufgeschwungen hat<lb/>
+und seine bevorzugte Stellung siegreich zu behaupten weiß.«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_58507">
+               <persName>Lurion (Café)</persName>
+            </person>
+            </listPerson></back></text>
+</TEI>

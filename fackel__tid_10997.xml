@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_10997.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10996.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10998.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Druck der Zeitstrophen), in: Fackel Heft 30, Nr. 781, 1928, S. 68-68</title>
+            <title type="iso-date">1928-06-01</title>
+            <title type="id">tid_10997</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">30</title><title type="heft">781</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-30-781_n0068.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/781,068</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Druck der Zeitstrophen)</head>
+            <p ana="pr155545">
+<space/>Die Fülle der neuen Zeitstrophen zu den <rs type="pers" ana="n_92899" ref="#fk__p_46919"><seg type="ELIDASH">Nestroy-Couplets</seg></rs> und<lb/>
+<rs type="pers" ana="n_92900" ref="#fk__p_46664">Offenbach-Couplets</rs> (wie auch zu dem Couplet aus »<rs type="title"><rs type="pers">Angot</rs></rs>«)<lb/>
+macht deren vollständigen Abdruck unmöglich. Sie werden voraussichtlich<lb/>
+ — mit den seit »<rs type="title">Worte in Versen</rs>« VIII in der <rs type="self" ana="werk_28267">Fackel</rs><lb/>
+veröffentlichten — als Sonderdruck in Buchform erscheinen.<lb/>
+Auch die übliche Mitteilung, wie viele Strophen jeweils vorgetragen<lb/>
+ und welche Strophen oder Lieder wiederholt wurden,<lb/>
+wird von nun an unterbleiben.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46919">
+               <persName>Nestroy, Johann Nepomuk</persName>
+               <birth>
+                  <date>1801-12-7</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1862-5-25</date>
+                  <place>Graz</place>
+               </death>
+               <occupation>Sänger</occupation>
+               <occupation>Schauspieler</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12338</idno></person>
+            <person xml:id="fk__p_46664">
+               <persName>Offenbach, Jacques</persName>
+               <birth>
+                  <date>1819-06-21</date>
+                  <place>Köln</place>
+               </birth>
+               <death>
+                  <date>1880-10-05</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Komponist</occupation>
+               <note type="comment">Ögg teilt Fortunato F 876/34 Shakespeare zu</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/9131</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,48 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07122.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07121.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07123.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Aus eiserner Zeit, in: Fackel Heft 18, Nr. 418, 1916, S. 78-78</title>
+            <title type="iso-date">1916-04-01</title>
+            <title type="id">tid_07122</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">18</title><title type="heft">418</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-18-418_n0078.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/418,078</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Aus eiserner Zeit</head>
+            <p ana="pr96317">
+<space/><seg type="symbol" subtype="4dots"/> Der Komiteepräsident hat besonders darauf geachtet, <seg type="spc">das<lb/>
+Büffet</seg>, welches in eigener Regie des Komitees durch den Oberbaurat<lb/>
+<rs type="pers" ana="n_64491" ref="#fk__p_43265">Fieger</rs> des <rs type="inst">Ministeriums des Innern</rs> in <seg type="spc">liebenswürdigster Weise</seg><lb/>
+besorgt wurde, <seg type="spc">in einer dem Ernste der Zeit</seg> und dem finanziellen<lb/>
+Zwecke der Veranstaltung <seg type="spc">entsprechenden Weise</seg> unter Vermeidung<lb/>
+jedes überflüssigen Luxus nur auf das notwendigste zu beschränken.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_43265">
+               <persName>Fieger, August</persName>
+               <birth>
+                  <date>1864-3-29</date>
+                  <place>Eibenschitz</place>
+               </birth>
+               <death>
+                  <date>1928-12-27</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Ingenieur</occupation>
+               <occupation>Ministerialbeamter</occupation>
+               <note type="comment">Friedhof Hietzing 29.12.1928 Gruppe 18/11</note>
+               <note type="comment">1., Judenplatz 11</note>
+               <note type="comment">Bau-Rat</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_11671.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11670.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11672.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tempo-Funk, in: Fackel Heft 32, Nr. 847, 1931, S. 89-89</title>
+            <title type="iso-date">1931-03-01</title>
+            <title type="id">tid_11671</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">32</title><title type="heft">847</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-32-847_n0089.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/847,089</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Tempo-Funk</head>
+            <p ana="pr169455">
+<space/>— — Er selbst habe die Theorie genau in der Form, wie sie<lb/>
+<rs type="pers" ana="n_101425" ref="#fk__p_37911">Einstein</rs> vorgetragen habe, schon im Jahre <date>1929</date> publiziert und sie<lb/>
+habe auch das Copyright, <seg type="spc">das</seg> also <rs type="pers" ana="n_101426" ref="#fk__p_37911">Einstein</rs> durch seine Wiedergabe<lb/>
+der Feldtheorie als seine eigene <seg type="spc">verletzt habe</seg>, <seg type="spc">und nur</seg><lb/>
+<abbr>Prof.</abbr> <rs type="pers" ana="n_101427" ref="#fk__p_40317">de Sitter</rs> als Anreger <seg type="spc">nannte</seg>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_40317">
+               <persName>Sitter, Willem de</persName>
+               <birth>
+                  <date>1872-5-6</date>
+                  <place>Sneek</place>
+               </birth>
+               <death>
+                  <date>1934-11-20</date>
+                  <place>Leiden</place>
+               </death>
+               <occupation>Astronom</occupation>
+            </person>
+            <person xml:id="fk__p_37911">
+               <persName>Einstein, Albert</persName>
+               <birth>
+                  <date>1879-3-14</date>
+                  <place>Ulm</place>
+               </birth>
+               <death>
+                  <date>1955-4-18</date>
+                  <place>Princeton</place>
+               </death>
+               <occupation>Physiker</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11237</idno></person>
+            </listPerson></back></text>
+</TEI>

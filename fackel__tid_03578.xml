@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03578.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03577.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03579.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Literat. (Ein Blatt, das sich selbst langweilt), in: Fackel Heft 06, Nr. 160, 1904, S. 22-22</title>
+            <title type="iso-date">1904-04-23</title>
+            <title type="id">tid_03578</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">06</title><title type="heft">160</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-06-160_n0022.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/160,022</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Literat. (Ein Blatt, das sich selbst langweilt)</head>
+            <p ana="pr35566">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="name_201276" ref="#fk__p_49045">Literat</rs>.</seg></seg></seg> ‚<rs type="magazine" ana="werk_13074">Der liebe Augustin</rs>‘, <seg type="insult">unser neuestes Witzblatt</seg>, langweilt<lb/>
+sich selbst. Seiner Redaktion beginnt vor <seg type="insult">der eigenen Öde</seg> zu grauen.<lb/>
+Die ersten zwei Nummern hatten <seg type="insult">das vollkommenste Abbild der vaterländischen<lb/>
+ Produktion</seg> geboten: <seg type="insult">Deutsch-österreichisches Flachland</seg>, dessen<lb/>
+Horizont von <seg type="insult">jenen Bergen</seg> umsäumt wird, deren Bewohner Kröpfe haben<lb/>
+und auch sonst zurückgeblieben sind. Und <seg type="insult">der Geist <rs type="pers" ana="n_30592" ref="#fk__p_43036">Masaidek’s</rs></seg> schwebete<lb/>
+über den Wassern <seg type="symbol" subtype="3dots"/> Nun versendet die <seg type="insult">Unternehmung</seg> mit der <rs type="magazineRef" ana="werk_13075">dritten<lb/>
+Nummer</rs> ein Zirkular, in welchem sie einen Wechsel in der Chefredaktion<lb/>
+anzeigt und versichert, daß die <rs type="magazineRef" ana="werk_13076">Zeitschrift</rs> nunmehr »eine andere, entschieden<lb/>
+ flottere Form angenommen« habe. »Wenn auch die im Umfange<lb/>
+schwächer gehaltene Nummer«, heißt es wörtlich in der zum Abdruck<lb/>
+in der Tagespresse bestimmten Notiz, »quasi als Interimsnummer angesehen<lb/>
+werden muß, so beweist sie dennoch, daß man mit wenigen, aber guten<lb/>
+Beiträgen Besseres leistet, <seg type="spc">als mit der <seg type="insult">Unmenge altmodischen<lb/>
+Krams</seg></seg>.« Statt <seg type="insult">des Herrn <rs type="pers" ana="n_30593" ref="#fk__p_37775">Müller Guttenbrunn</rs></seg>, dem man wirklich alles<lb/>
+eher als Humor nachsagen konnte, soll der originelle <rs type="pers" ana="n_30594" ref="#fk__p_45204">Gustav Meyrink</rs><lb/>
+vom ‚<rs type="magazine" ana="werk_13077">Simplicissimus</rs>‘ die Leitung übernehmen. Hoffentlich gelingt es jetzt<lb/>
+dem ‚<rs type="magazine" ana="werk_13078">lieben Augustin</rs>‘, seinem Titel und dem <seg type="insult">Ansturm deutsch-österreichischer<lb/>
+ Talentlosigkeit</seg> zu trotzen!<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_49045">
+               <persName>Literat</persName>
+            </person>
+            <person xml:id="fk__p_43036">
+               <persName>Masaidek, Franz Friedrich</persName>
+               <birth>
+                  <date>1840-10-04</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1911-04-06</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+            </person>
+            <person xml:id="fk__p_37775">
+               <persName>Müller-Guttenbrunn, Adam</persName>
+               <birth>
+                  <date>1852-10-22</date>
+                  <place>Guttenbrunn, Banat</place>
+               </birth>
+               <death>
+                  <date>1923-1-5</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Beamter</occupation>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Theaterleiter</occupation>
+               <note type="comment">F 146/32 Gärungen und Klärungen, Roman Wien 1903</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12331</idno></person>
+            <person xml:id="fk__p_45204">
+               <persName>Meyrink, Gustav</persName>
+               <birth>
+                  <date>1868-1-19</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1932-12-4</date>
+                  <place>Starnberg</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12248</idno></person>
+            </listPerson></back></text>
+</TEI>

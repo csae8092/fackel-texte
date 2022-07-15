@@ -1,0 +1,100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00279.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00278.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00280.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Eine »Nichte« des Finanzministers?, in: Fackel Heft 01, Nr. 012, 1899, S. 19-20</title>
+            <title type="iso-date">1899-07-01</title>
+            <title type="id">tid_00279</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">012</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-012_n0019.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/012,019</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Eine »Nichte« des Finanzministers?</head>
+            <p ana="pr2675">
+<space/><seg type="insult">Ministerialsecretär <seg type="spc"><rs type="pers" ana="n_1929" ref="#fk__p_51554">Ploj</rs></seg></seg>, dessen größtes Verdienst<lb/>
+darin bestehen soll, dass er der slovenischen Sprache<lb/>
+mächtig ist, 36 Jahre alt, wurde vor einem Monat zum<lb/>
+<seg type="spc">Sectionsrath</seg> im <rs type="inst">Finanzministerium</rs> und <seg type="spc">eine Woche</seg><lb/>
+<seg type="spc">später</seg> zum Hofrath beim <rs type="inst">Verwaltungsgerichtshof</rs> befördert<lb/>
+. Man ist an diese Plötzlichkeit von den Fällen <rs type="pers" ana="n_1930" ref="#fk__p_56877">Schenk</rs><lb/>
+und <rs type="pers" ana="n_1931" ref="#fk__p_52801">Sawizki</rs> her schon einigermaßen gewöhnt. Herr <rs type="pers" ana="n_1932" ref="#fk__p_41280">Kaizl</rs><lb/>
+glaubte, hinter seinem polnischen Vorgänger nicht zurückbleiben<lb/>
+ zu dürfen und hat die Gunst außertourlicher Beförderung<lb/>
+ natürlich einem Slaven erwiesen. Die deutschliberale<lb/>
+ Presse, welche die Ernennung keines tschechischen<lb/>
+Amtsdieners unglossiert vorübergehen lässt, hat diesmal<lb/>
+<seg type="insult">den üblichen nationalen Aufschrei</seg> unterlassen. Und doch<lb/>
+wäre der Name <seg type="insult"><rs type="pers" ana="n_1933" ref="#fk__p_51554">Ploj</rs></seg> so leicht zu merken gewesen, — ein<lb/>
+Name, der jenen Wässerchen des Karstgebietes gleicht,<lb/>
+die urplötzlich irgendwo im Sande entspringen, um nach<lb/>
+rascher Carrière wieder zu versanden <seg type="symbol" subtype="4dots"/> Indes scheinen<lb/>
+die Blätter, die ihm seine slovenische Abstammung gerne<lb/>
+nachtragen möchten, <seg type="insult">Herrn <rs type="pers" ana="n_1934" ref="#fk__p_51554">Ploj</rs></seg> als ehemaligen <rs type="inst">Börsecommissärstellvertreter<lb/>
+</rs> zu schätzen.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_41280">
+               <persName>Kaizl, Josef</persName>
+               <birth>
+                  <date>1854-06-10</date>
+                  <place>Wolin</place>
+               </birth>
+               <death>
+                  <date>1901-08-19</date>
+                  <place>Myskowitz</place>
+               </death>
+               <occupation>Nationalökonom</occupation>
+               <occupation>Politiker</occupation>
+            </person>
+            <person xml:id="fk__p_56877">
+               <persName>Schenk, Joseph Freiherr von</persName>
+               <birth>
+                  <date>1858-8-23</date>
+                  <place>Tarnopol</place>
+               </birth>
+               <death>
+                  <date>1944-4-16</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Jurist</occupation>
+               <occupation>Politiker</occupation>
+               <note type="comment">Justizminister im Kabinett Clam-Martinic</note>
+               <note type="comment">Senatspräsident des Verwaltungsgerichtshofs</note>
+               <note type="comment">Justizminister 1916-17</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_19647</idno></person>
+            <person xml:id="fk__p_51554">
+               <persName>Ploj, Friedrich</persName>
+               <birth>
+                  <date>1862-6-14</date>
+                  <place>Pettau/Steiermark</place>
+               </birth>
+               <death>
+                  <date>1944-1-22</date>
+                  <place>Marburg</place>
+               </death>
+               <occupation>Jurist</occupation>
+               <occupation>Politiker</occupation>
+               <note type="comment">Hofrat beim Verwaltungsgerichtshof</note>
+               <note type="comment">Reichsratsabgeordneter 1901-18</note>
+            </person>
+            <person xml:id="fk__p_52801">
+               <persName>Sawicki-Lubicz, Johann Ritter von</persName>
+               <birth>
+                  <date>1861?</date>
+                  <place>Brzezany/Galizien</place>
+               </birth>
+               <occupation>Richter</occupation>
+               <note type="comment">3., Rennweg 33</note>
+               <note type="comment">Senatspräsident beim Verwaltungsgerichtshof</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

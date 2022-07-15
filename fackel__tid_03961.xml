@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03961.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03960.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03962.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Klerikaler. (Los von Lippay), in: Fackel Heft 07, Nr. 186, 1905, S. 26-26</title>
+            <title type="iso-date">1905-10-26</title>
+            <title type="id">tid_03961</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">07</title><title type="heft">186</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-07-186_n0026.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/186,026</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Klerikaler. (Los von Lippay)</head>
+            <p ana="pr40674">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="name_201461" ref="#fk__p_47880">Klerikaler</rs>.</seg></seg></seg> Rom ist <seg type="insult">los von <rs type="pers" ana="n_33927" ref="#fk__p_38633">Lippay</rs></seg>. Man schwelgt dort jetzt<lb/>
+in Aufklärung. Der österreichische Hochadel nahm sich seine Vertretung<lb/>
+durch <seg type="insult">den talentlosen Maler</seg> so zu Herzen, daß <rs type="pers" ana="n_33928" ref="#fk__p_51776">Prinzessin Alexandrine<lb/>
+Windischgrätz</rs> nach Rom eilte, um <seg type="insult">den guten Papst, diesen gläubigsten<lb/>
+aller Katholiken und Förderer der Künste des Herrn <rs type="pers" ana="n_33929" ref="#fk__p_38633">Lippay</rs></seg>, über<lb/>
+die <seg type="insult">Persönlichkeit des Herrn</seg>, der sich im Vatikan auf einen Auftrag<lb/>
+ des Thronfolgers berufen hatte, zu unterrichten. Der Vatikan hat<lb/>
+seine Beziehungen zu <seg type="insult">Herrn <rs type="pers" ana="n_33930" ref="#fk__p_38633">Lippay</rs></seg> sofort abgebrochen und bedauert<lb/>
+es tief, daß sich weder der päpstliche Segen noch der päpstliche Grafentitel<lb/>
+ rückgängig machen läßt. Der Sultan, dem einst <seg type="insult">Herr <rs type="pers" ana="n_33931" ref="#fk__p_42482">Angelo Eisner</rs></seg><lb/>
+schöne Grüße vom <RS pers="Franz Joseph" globID="rs_478">Kaiser</RS> überbrachte, soll noch immer nicht aufgeklärt<lb/>
+ sein.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_47880">
+               <persName>Klerikaler</persName>
+            </person>
+            <person xml:id="fk__p_42482">
+               <persName>Eisner-Eisenhof, Angelo Franz Baron von</persName>
+               <birth>
+                  <date>1857-1-24</date>
+                  <place>Triest</place>
+               </birth>
+               <death>
+                  <date>1938-4-2</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Großgrundbesitzer</occupation>
+               <occupation>Industrieller</occupation>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Hrsg. der "Information", dilettierte als Bariton</note>
+               <note type="comment">ZF 34B/2/G 1 Gruft Winter - Eisner - Martini ohne Daten auf dem Grabstein</note>
+               <note type="comment">18.8.1911 Kurgast Angel --- bei den Kaiser-Geburtstagsfeiern 331/31</note>
+               <note type="comment">Friedhofsdatei Eisner, Angela!!</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/15810</idno></person>
+            <person xml:id="fk__p_51776">
+               <persName>Windisch-Graetz, Alexandrine Prinzessin</persName>
+               <birth>
+                  <date>1850-8-29</date>
+                  <place>Como</place>
+               </birth>
+               <death>
+                  <date>1933-7-12</date>
+                  <place>Gonobitz/Slowenien</place>
+               </death>
+            </person>
+            <person xml:id="fk__p_38633">
+               <persName>Lippay, Bartholomäus Dominik </persName>
+               <birth>
+                  <date>1864-9-21</date>
+                  <place>Turzófalva/Komitat Trencin, Ungarn</place>
+               </birth>
+               <death>
+                  <date>1919-12-17</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Maler</occupation>
+               <note type="comment">ZF 47B/5/6 (FD) 22.12.1919</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17580</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/20498</idno></person>
+            </listPerson></back></text>
+</TEI>

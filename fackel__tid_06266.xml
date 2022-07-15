@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06266.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06265.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06267.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Die Kunst, in: Fackel Heft 15, Nr. 374, 1913, S. 47-47</title>
+            <title type="iso-date">1913-05-01</title>
+            <title type="id">tid_06266</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">15</title><title type="heft">374</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-15-374_n0047.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/374,047</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Die Kunst</head>
+            <p ana="pr84298">
+<space/>»<seg type="sidehead">[Ein interessantes Gemälde.]</seg> ‚Ja, so ist das richtige Kaffeehaus,‘<lb/>
+sagte <rs type="pers" ana="n_58649" ref="#fk__p_47385">Erzherzog Karl Franz Josef</rs>, als er anläßlich der Eröffnung der<lb/>
+Jahresausstellung des <rs type="inst">Künstlerhauses</rs> das ausgestellte Triptichongemälde<lb/>
+<rs type="pers" ana="n_58650" ref="#fk__p_46918">Johann Nepomuk Gellers</rs>, darstellend das <rs type="inst">Café <rs type="pers" ana="n2_5142" ref="#fk__p_58960">Siller</rs></rs> auf dem Ferdinandsplatz<lb/>
+, besichtigte. Der Erzherzog äußerte sich überdies mit schmeichelhaften<lb/>
+ Worten der Anerkennung über den Kunstwert des Bildes sowohl<lb/>
+als auch über den volkstümlichen Gegenstand desselben, das bekannte<lb/>
+<rs type="inst">Café <rs type="pers" ana="n2_5143" ref="#fk__p_58960">Siller</rs></rs>, 1. Bezirk (vis-à-vis der Ferdinandsbrücke). Der Ruf dieses<lb/>
+erstklassigen Cafés ist weit über die heimischen Grenzen gedrungen.<lb/>
+Es war eine gute Idee des Malers, gerade dieses mustergültige Café in<lb/>
+Farben auf der Leinwand festzuhalten und das jeden Beschauer anheimelnde<lb/>
+ Gemälde der Öffentlichkeit zugänglich gemacht zu haben.«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_47385">
+               <persName>Karl I., Kaiser</persName>
+               <birth>
+                  <date>1887-08-17</date>
+                  <place>Persenbeug/NÖ</place>
+               </birth>
+               <death>
+                  <date>1922-04-01</date>
+                  <place>Quinta do Monte/Madeira</place>
+               </death>
+               <occupation>Kaiser</occupation>
+               <note type="comment">Ögg teilt irrt. 561/21 zu, da ist Franz Joseph I. gemeint</note>
+            </person>
+            <person xml:id="fk__p_46918">
+               <persName>Geller, Johann Nepomuk</persName>
+               <birth>
+                  <date>1860-03-21</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1954-11-09</date>
+                  <place>Weißenkirchen/NÖ</place>
+               </death>
+               <occupation>Maler</occupation>
+            </person>
+            <person xml:id="fk__p_58960">
+               <persName>Siller (Café)</persName>
+            </person>
+            </listPerson></back></text>
+</TEI>

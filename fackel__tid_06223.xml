@@ -1,0 +1,48 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06223.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06222.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06224.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ein aufgeregter Vergleich, in: Fackel Heft 15, Nr. 374, 1913, S. 4-4</title>
+            <title type="iso-date">1913-05-01</title>
+            <title type="id">tid_06223</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">15</title><title type="heft">374</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-15-374_n0004.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/374,004</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ein aufgeregter Vergleich</head>
+            <p ana="pr83904">
+<space/>Werden sie jedoch auch einmütig sein, um die Mittel zur Durchsetzung<lb/>
+ dieses Beschlusses anzuwenden und werden sie nicht wieder<lb/>
+als <rs type="pers" ana="n_58418" ref="#fk__p_51977">Rafael</rs> ohne Hände dastehen, der meisterhaft malen kann, wenn er<lb/>
+eben nur Hände hätte?<lb/>
+</p>
+            <p ana="pr83906">
+<space/>Demnach war <rs type="pers" ana="n_58419" ref="#fk__p_51977">Rafael</rs> ein Krüppel und das Zitat scheint zu<lb/>
+lauten: Er wäre ein großer Maler geworden, wenn er mit Händen<lb/>
+auf die Welt gekommen wäre. Aber dann wird man bekanntlich<lb/>
+lieber gleich <seg type="insult">Redner</seg>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_51977">
+               <persName>Raffael, d. i. Raffaello Santi</persName>
+               <birth>
+                  <date>1483-4-6?</date>
+                  <place>Urbino</place>
+               </birth>
+               <death>
+                  <date>1520-4-6</date>
+                  <place>Rom</place>
+               </death>
+               <occupation>Maler</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_05327.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05326.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05328.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Wiener Totschlag, in: Fackel Heft 13, Nr. 321, 1911, S. 22-23</title>
+            <title type="iso-date">1911-04-29</title>
+            <title type="id">tid_05327</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">13</title><title type="heft">321</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-13-321_n0022.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/321,022</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Wiener Totschlag</head>
+            <p ana="pr69302">
+<space/><seg type="sidehead"><B>Im Kot erstickt.</B></seg> Der 23jährige Hilfsarbeiter <rs type="pers" ana="n_50355" ref="#fk__p_53597">Stephan <abbr>W.</abbr></rs> hatte<lb/>
+sich gestern wegen eines folgenschweren Roheitsaktes zu verantworten.<lb/>
+Er hatte sich am <date>19. Februar</date> in einen Streit, den der Taglöhner<lb/>
+<rs type="pers" ana="n_50356" ref="#fk__p_49319">Ludwig <abbr>R.</abbr></rs> mit mehreren Burschen hatte und der ihn gar nichts anging,<lb/>
+eingemengt, dem <rs type="pers" ana="n_50357" ref="#fk__p_49319"><abbr>R.</abbr></rs> einen Stoß versetzt und dem Fliehenden einen Stein<lb/>
+nachgeworfen, der den <rs type="pers" ana="n_50358" ref="#fk__p_49319"><abbr>R.</abbr></rs> so unglücklich am Hinterhaupt traf, daß er<lb/>
+niederfiel und im Straßenkot erstickte. <rs type="pers" ana="n_50359" ref="#fk__p_53597"><abbr>W.</abbr></rs> stand nun gestern wegen<lb/>
+Totschlages vor den Geschwornen <seg type="symbol" subtype="3dots"/> Die Geschwornen erkannten den<lb/>
+Angeklagten schuldig, worauf der <rs type="inst">Gerichtshof</rs> ihn zu zwei Jahren<lb/>
+schweren Kerkers verurteilte.<lb/>
+</p>
+            <p ana="pr69304">
+<space/>Der Zustand der Wiener Straßen ist <seg type="insult">ein nicht nur das<lb/>
+Leben, sondern auch das Delikt der Körperverletzung erschwerender<lb/>
+Umstand</seg>. Er führt unbedingt den Tod herbei und würde deshalb<lb/>
+selbst die Tat eines Hilfsarbeiters, der einen Taglöhner bloß um<lb/>
+die Erd haut, als <choice><sic>Todschlag</sic><corr>Totschlag</corr></choice> qualifizieren. Auch ohne Steinwurf<lb/>
+</p>
+            <p ana="pr69304">
+muß die Sache letal enden. Maßgebend ist allein, daß der Betroffene<lb/>
+ auf der Straße lag, daß also eine Situation gegeben war,<lb/>
+die den Erstickungstod herbeiführen mußte. In anderen Städten<lb/>
+wäre es ein schlechter, vielleicht ein roher Spaß, einen hinzulegen.<lb/>
+In <seg type="insult">Wien</seg> ist es die Tat eines <seg type="insult">Unholds</seg>. In anderen Städten ist die<lb/>
+Behauptung, daß man im Straßenkot ersticke, eine Metapher. In<lb/>
+<seg type="insult">Wien</seg> bezeichnet sie einen Tatbestand.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_53597">
+               <persName>W., Stephan</persName>
+               <birth>
+                  <date>1888?</date>
+               </birth>
+               <occupation>Hilfsarbeiter</occupation>
+            </person>
+            <person xml:id="fk__p_49319">
+               <persName>R., Ludwig </persName>
+               <death>
+                  <date>1911-2-19</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Taglöhner</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,48 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07729.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07728.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07730.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Träume, in: Fackel Heft 18, Nr. 445, 1234, S. 167-168</title>
+            <title type="iso-date">1234-01-01</title>
+            <title type="id">tid_07729</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">18</title><title type="heft">445</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-18-445_n0167.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/445,167</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Träume</head>
+            <p ana="pr103552">
+<space/>— Dem Schriftsteller <rs type="pers" ana="n_66751" ref="#fk__p_38165">Alter Eisenschloß</rs>, Kriegsflüchtling aus<lb/>
+Nowominsk, derzeit in Lundenburg, wurde durch die <rs type="inst">mährische Statthalterei<lb/>
+</rs> vom <rs type="inst">Oberstkämmereramt</rs> auf Grund der für Einsendungen aus<lb/>
+Anlaß des Krieges vom Kaiser erteilten <seg type="spc">generellen Ermächtigung</seg><lb/>
+für die Vorlage seiner Broschüre »<rs type="title"><seg type="spc">Mein Traum</seg></rs>« der Dank bekanntgegeben<lb/>
+.<lb/>
+</p>
+            <p ana="pr103554">
+<space/><foreign xml:lang="de-loc">Las’n</foreign> verdienen.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_38165">
+               <persName>Eisenschloß, Alter</persName>
+               <birth>
+                  <date>1879-1-22</date>
+                  <place>Nowominsk/Warschau</place>
+               </birth>
+               <death>
+                  <date>1925-9-1?</date>
+                  <place>Lodz</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Kriegsflüchtling aus Nowominsk; Broschüre "Mein Traum"</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_09280.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09279.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09281.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ebenda, 15. Oktober, 3 Uhr:, in: Fackel Heft 24, Nr. 601, 1922, S. 92-93</title>
+            <title type="iso-date">1922-11-01</title>
+            <title type="id">tid_09280</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">24</title><title type="heft">601</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-24-601_n0092.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/601,092</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ebenda, 15. Oktober, 3 Uhr:</head>
+            <p ana="pr123429">
+<space/>Ebenda, <date>15. Oktober</date>, 3 Uhr:<lb/>
+</p>
+            <p ana="pr123430">
+<space/>I. <rs type="title">Worte von <rs type="pers" ana="n2_6928" ref="#fk__p_39885">Charles Baudelaire</rs></rs> [Mit Vorbemerkung]. —<lb/>
+Monolog des <rs type="pers">Nörglers</rs> (aus dem V. Akt).<lb/>
+</p>
+            <p ana="pr123431">
+<space/>II. <rs type="title"><rs type="pers" ana="n2_6929" ref="#fk__p_52212">Richard Wagners</rs> Sehnsucht nach Wien</rs>. — <rs type="title">Der Löwenkopf<lb/>
+oder Die Gefahren der Technik</rs>. — <rs type="title">Aus dem Deutschen</rs> / <rs type="title">Die Vornamen<lb/>
+</rs> (Siehe <abbr>S.</abbr> 84). — <rs type="title">Alles, nur nicht die Gobelins!</rs> / <rs type="title">Definition</rs>.<lb/>
+</p>
+            <p ana="pr123432">
+<space/>III. <seg type="spc">Szenen</seg>: <rs type="title">Armeeoberkommando</rs> / <rs type="title">Hauptquartier</rs>. —<lb/>
+<rs type="title"><seg type="insult">Faschingsleben <date>1913</date></seg></rs>. — <rs type="title"><seg type="insult">Die Grüngekleideten</seg></rs> / <rs type="title">Jugend</rs>.<lb/>
+</p>
+            <p ana="pr123433">
+<space/>Ein Teil des Ertrages — einschließlich des Programmerlöses<lb/>
+ (mit Nachlaß der halben Druckkosten) —: K 1,300.000<lb/>
+für den <rs type="inst"><abbr>österr.</abbr> Bund für Mutterschutz</rs> (<rs type="pers" ana="n_75687" ref="#fk__p_41221"><abbr>Dr.</abbr> Hugo Klein</rs>, VII., Mariahilferstraße<lb/>
+ 12), das <rs type="inst">Israelitische Knaben-Waisenhaus</rs> (XIX., Probusgasse<lb/>
+ 2—4), die <rs type="inst">Reichsanstalt für <seg type="ELIDASH">Mutterfürsorge</seg> und Säuglingsfürsorge</rs><lb/>
+(XVIII., Glanzinggasse 37) und notleidende Familien.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_39885">
+               <persName>Baudelaire, Charles</persName>
+               <birth>
+                  <date>1821-04-09</date>
+                  <place>Paris</place>
+               </birth>
+               <death>
+                  <date>1867-08-31</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/4950</idno></person>
+            <person xml:id="fk__p_41221">
+               <persName>Klein, Hugo</persName>
+               <birth>
+                  <date>1853-7-21</date>
+                  <place>Szegedin/Ungarn</place>
+               </birth>
+               <death>
+                  <date>1915-6-29</date>
+                  <place>Karlsbad</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/8236</idno></person>
+            <person xml:id="fk__p_52212">
+               <persName>Wagner, Richard</persName>
+               <birth>
+                  <date>1813-5-22</date>
+                  <place>Leipzig</place>
+               </birth>
+               <death>
+                  <date>1883-2-13</date>
+                  <place>Venedig</place>
+               </death>
+               <occupation>Komponist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/13024</idno></person>
+            </listPerson></back></text>
+</TEI>

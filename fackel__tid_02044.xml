@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02044.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02043.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02045.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Peregrinus Ganz, in: Fackel Heft 03, Nr. 086, 1901, S. 11-11</title>
+            <title type="iso-date">1901-11-26</title>
+            <title type="id">tid_02044</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">03</title><title type="heft">086</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-03-086_n0011.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/086,011</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Peregrinus Ganz</head>
+            <p ana="pr19947">
+<space/><inciptit>In</inciptit> Frankfurt <abbr>a. M.</abbr> erscheint das ‚<rs type="magazine" ana="werk_6597">Freie Wort</rs>‘, in welchem<lb/>
+<seg type="insult">ein Herr <rs type="pers" ana="n_16952" key="#fk__p_51346"><seg type="spc">Peregrinus</seg></rs></seg> den <rs type="pers" ana="n_16953" ref="#fk__p_44673">Grafen Goluchowski</rs> in vehementer<lb/>
+Weise bekämpft. Nicht nur der Minister des Aeussern, sogar das<lb/>
+Aeussere des Ministers missfällt <seg type="insult">dem grimmigen Mann</seg>. Dass<lb/>
+er den schlechten Geschmack hat, <seg type="insult">Herrn <rs type="pers" ana="n_16954" ref="#fk__p_47448">Kanners</rs> <rs type="pers" ana="n_16955" ref="#fk__p_44673">Anti-Goluchowski-Politik<lb/>
+</rs></seg> zu copieren, wäre an sich nicht interessant. Das Amusante<lb/>
+an der Sache liegt aber in <seg type="insult">der Persönlichkeit des Herrn <rs type="pers" ana="n_16956" key="#fk__p_51346">Peregrinus</rs></seg>,<lb/>
+der in der Wiener ‚<rs type="paper" ana="werk_6598">Neuen Freien Presse</rs>‘ unter dem Namen<lb/>
+<rs type="pers" ana="n_16957" ref="#fk__p_46330"><seg type="spc">Hugo Ganz</seg></rs> den <rs type="pers" ana="n_16958" ref="#fk__p_44673">Grafen Goluchowski</rs> in den Himmel hebt.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_47448">
+               <persName>Kanner, Heinrich</persName>
+               <birth>
+                  <date>1864-11-9</date>
+                  <place>Galatz, Rumänien</place>
+               </birth>
+               <death>
+                  <date>1930-2-15</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Publizist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11867</idno></person>
+            <person xml:id="fk__p_46330">
+               <persName>Ganz, Hugo</persName>
+               <birth>
+                  <date>1862-4-24</date>
+                  <place>Mainz</place>
+               </birth>
+               <death>
+                  <date>1922-1-2</date>
+                  <place>Frankfurt/Main</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <note type="comment">NFP, Zeit, Frankfurter Zeitung</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2618</idno></person>
+            <person xml:id="fk__p_44673">
+               <persName>Goluchowski, Agenor Graf</persName>
+               <birth>
+                  <date>1849-03-25</date>
+                  <place>Lemberg</place>
+               </birth>
+               <death>
+                  <date>1921-03-28</date>
+                  <place>Lemberg</place>
+               </death>
+               <occupation>Diplomat</occupation>
+               <occupation>Politiker</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

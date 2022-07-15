@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_09379.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09378.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09380.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Programmnotiz zu „Der Zerrissene“), in: Fackel Heft 25, Nr. 613, 1923, S. 54-55</title>
+            <title type="iso-date">1923-04-01</title>
+            <title type="id">tid_09379</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">25</title><title type="heft">613</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-25-613_n0054.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/613,054</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Programmnotiz zu „Der Zerrissene“)</head>
+            <p ana="pr124892">
+<space/>Auf dem Programm:<lb/>
+</p>
+            <p ana="pr124893">
+<space/>Die erste Aufführung hat am <date>9. April 1844</date> mit <rs type="pers" ana="n_76849" ref="#fk__p_46919">Nestroy</rs><lb/>
+als <rs type="pers">Herrn von Lips</rs> und <rs type="pers" ana="n_76850" ref="#fk__p_55383">Scholz</rs> als <rs type="pers">Gluthammer</rs> stattgefunden.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46919">
+               <persName>Nestroy, Johann Nepomuk</persName>
+               <birth>
+                  <date>1801-12-7</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1862-5-25</date>
+                  <place>Graz</place>
+               </death>
+               <occupation>Sänger</occupation>
+               <occupation>Schauspieler</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12338</idno></person>
+            <person xml:id="fk__p_55383">
+               <persName>Scholz, Wenzel</persName>
+               <birth>
+                  <date>1787-03-28</date>
+                  <place>Brixen/Südtir.</place>
+               </birth>
+               <death>
+                  <date>1857-10-05</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

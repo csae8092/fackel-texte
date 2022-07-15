@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01941.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01940.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01942.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Leser. (Ganz und Nordau), in: Fackel Heft 03, Nr. 081, 1901, S. 22-22</title>
+            <title type="iso-date">1901-06-01</title>
+            <title type="id">tid_01941</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">03</title><title type="heft">081</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-03-081_n0022.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/081,022</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Leser. (Ganz und Nordau)</head>
+            <p ana="pr18951">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_15940" ref="#fk__p_48877">Leser</rs>.</seg></seg> Dass <seg type="insult">Herr <rs type="pers" ana="n_15941" ref="#fk__p_46330"><seg type="spc">Ganz</seg></rs></seg> ein eigenes Feuilleton <seg type="insult">zum Preise des<lb/>
+Herrn <rs type="pers" ana="n_15942" ref="#fk__p_49957"><seg type="spc">Nordau</seg></rs></seg> geschrieben hat, braucht Sie nicht Wunder zu nehmen.<lb/>
+Das ist nicht, wie Sie meinen, ein <seg type="insult">Act gegenseitiger Beweihräucherung</seg>,<lb/>
+sondern der Ausdruck ehrlichen Respectes vor einem <seg type="insult">Schriftsteller</seg>,<lb/>
+dessen <seg type="insult">Schmockthum</seg> <seg type="insult">etwas Cyklopisches</seg> hat. <seg type="insult">Herr <rs type="pers" ana="n_15943" ref="#fk__p_46330">Ganz</rs></seg> drückt dies,<lb/>
+da er nur <seg type="insult">ein kleiner Schmock</seg> ist, natürlich so aus, dass er <seg type="insult">»dem<lb/>
+Manne mit dem Eisenpanzer des berechtigten Selbstbewusstseins und<lb/>
+der Keule der unwiderstehlichen Dialektik«</seg> seine Reverenz bezeigt.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_48877">
+               <persName>Leser</persName>
+            </person>
+            <person xml:id="fk__p_46330">
+               <persName>Ganz, Hugo</persName>
+               <birth>
+                  <date>1862-4-24</date>
+                  <place>Mainz</place>
+               </birth>
+               <death>
+                  <date>1922-1-2</date>
+                  <place>Frankfurt/Main</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <note type="comment">NFP, Zeit, Frankfurter Zeitung</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2618</idno></person>
+            <person xml:id="fk__p_49957">
+               <persName>Nordau, Max Simon</persName>
+               <birth>
+                  <date>1849-7-29</date>
+                  <place>Pest</place>
+               </birth>
+               <death>
+                  <date>1923-1-22</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Arzt</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_18472</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12365</idno></person>
+            </listPerson></back></text>
+</TEI>

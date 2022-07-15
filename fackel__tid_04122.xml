@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_04122.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04121.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04123.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Prophet. (Prophetisches aus dem ‚Deutschen Volksblatt‘), in: Fackel Heft 07, Nr. 198, 1906, S. 23-24</title>
+            <title type="iso-date">1906-03-12</title>
+            <title type="id">tid_04122</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">07</title><title type="heft">198</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-07-198_n0023.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/198,023</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Prophet. (Prophetisches aus dem ‚Deutschen Volksblatt‘)</head>
+            <p ana="pr43171">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="name_202351" key="#fk__p_60471">Prophet</rs>.</seg></seg></seg> Es ist ein ziemlich verbreiteter Irrtum, daß die <seg type="insult">antisemitische<lb/>
+ Zeitungstechnik</seg> schwerfälliger sei als die jüdische. Das<lb/>
+</p>
+            <p ana="pr43171">
+‚<rs type="paper" ana="werk_14460">Deutsche Volksblatt</rs>‘ hat neulich eine <seg type="insult">Probe der Fixigkeit</seg> abgelegt, die,<lb/>
+wäre sie bemerkt worden, <seg type="insult">alle <rs type="pers" ana="n_35488" ref="#fk__p_53860">Szepse</rs> und Schapseln</seg> mit neidvoller<lb/>
+Bewunderung erfüllt hätte. Im <rs type="paperRef" ana="werk_14461">Morgenblatt</rs> vom <date>2. März</date> brachte es<lb/>
+einen Bericht über einen Vortrag, den der Linienschiffsleutnant <rs type="pers" ana="n_35489" ref="#fk__p_55463">Wickenhauser<lb/>
+</rs> über die »entscheidenden Episoden im letzten Seekriege« im<lb/>
+<rs type="inst">Militärwissenschaftlichen und Kasino-Vereine</rs> »gestern abends <seg type="spc">vor einem<lb/>
+überaus zahlreichen Auditorium</seg>« gehalten hatte. Er »schilderte<lb/>
+einleitend« und »kam zu den folgenden Schlußfolgerungen«. Dazwischen<lb/>
+ ausführliche Inhaltsangabe. Wenn der Historiker <seg type="insult">ein rückwärts<lb/>
+gekehrter Prophet</seg> ist, so ist der Reporter <seg type="insult">ein vorwärts schauender<lb/>
+Historiker</seg>. Im Abendblatt des ‚<rs type="paper" ana="werk_14462">Deutschen Volksblatts</rs>‘ vom <date>2. März</date> konnte <seg type="insult">das<lb/>
+»überaus zahlreiche Auditorium«</seg>, das den Ausführungen des Linienschiffsleutnants<lb/>
+ gelauscht hatte, zu seiner Überraschung die folgende<lb/>
+Notiz lesen: »Dieser interessante Vortrag findet erst heute Abends im<lb/>
+<rs type="inst">Militärwissenschaftlichen und Kasino-Vereine</rs> statt. Unsere heutige Nachricht<lb/>
+ beruhte auf einem Mißverständnisse«.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_53860">
+               <persName>Szeps, Julius</persName>
+               <birth>
+                  <date>1867</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1924-10-27</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/25793</idno></person>
+            <person xml:id="fk__p_55463">
+               <persName>Wickenhauser, Viktor</persName>
+               <birth>
+                  <date>1866-11-25</date>
+                  <place>Agram</place>
+               </birth>
+               <death>
+                  <date>1940</date>
+               </death>
+               <occupation>Marineoffizier</occupation>
+               <note type="comment">Ögg korrigiert wohl fälschlich in Wickerhauser</note>
+               <note type="comment">8., Wickenburggasse 26; MA 8 nicht eruiert</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

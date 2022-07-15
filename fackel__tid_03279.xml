@@ -1,0 +1,114 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03279.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03278.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03280.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Erfinder. (Vom polnischen Edison), in: Fackel Heft 05, Nr. 144, 1903, S. 25-26</title>
+            <title type="iso-date">1903-10-17</title>
+            <title type="id">tid_03279</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">05</title><title type="heft">144</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-05-144_n0025.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/144,025</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Erfinder. (Vom polnischen Edison)</head>
+            <p ana="pr32344">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="n_27905" key="#fk__p_42740">Erfinder</rs>.</seg></seg></seg> Das Ärar verhandelt mit der <rs type="inst">Berliner Akkumulatoren-Gesellschaft<lb/>
+</rs> wegen Aufstellung von Akkumulatoren in den ärarischen<lb/>
+Gebäuden. Und <seg type="insult">unser »polnischer <rs type="pers" ana="n_27906" ref="#fk__p_42280">Edison</rs>« <rs type="pers" ana="n_27907" ref="#fk__p_46730">Jan <seg type="spc">Szczepanik</seg></rs></seg>, dessen<lb/>
+berühmter Akkumulator um ⅓ leichter als die gegenwärtigen ist und<lb/>
+noch dazu die 3—5 fache Energie bei geringerer und billigerer Ladung<lb/>
+besitzt? <seg type="symbol" subtype="3dots"/> Die Tagesblätter bringen die Nachricht, daß ein gewisser<lb/>
+<rs type="pers" ana="n_27908" key="#fk__p_42790">Ernesto Benedetti</rs> in Mailand der Erfinder eines kugelsicheren und<lb/>
+stichfesten Panzers ist, den er zuerst vor geladenen Gästen und dann<lb/>
+öffentlich im <rs type="inst"><choice><sic>Theatro</sic><corr>Teatro</corr></choice> <rs type="pers" ana="n2_2147" ref="#fk__p_49585">Alessandro Manzoni</rs></rs> vorgeführt hat. Und <seg type="insult">unser<lb/>
+»polnischer <rs type="pers" ana="n_27909" ref="#fk__p_42280">Edison</rs>« <rs type="pers" ana="n_27910" ref="#fk__p_46730">Jan Szczepanik</rs></seg>, dessen <seg type="insult">»aus einem ½—1 Kilo<lb/>
+schweren eigentümlichen Seidengewebe gefertigter Panzer«</seg> im <DATERANGE>Mai 1902</DATERANGE><lb/>
+selbst den <seg type="insult">Revolverkugeln der Wiener Presse</seg> standhielt? <seg type="symbol" subtype="3dots"/> Und dennoch<lb/>
+— das Wort: <foreign xml:lang="la">nemo propheta</foreign> <seg type="symbol" subtype="3dots"/> bewahrheitet sich hier nicht. <seg type="spc">Einen</seg><lb/>
+<seg type="insult">ungeahnten Erfolg</seg> hat <seg type="insult">Herr <rs type="pers" ana="n_27911" ref="#fk__p_46730">Szczepanik</rs></seg> doch errungen. Im <rs type="inst"><abbr>k. k.</abbr> Schulbücherverlag<lb/>
+</rs> ist ein für Bürgerschulen bestimmter »<rs type="title">Grundriß der Naturlehre<lb/>
+</rs>« von <rs type="pers" ana="n_27912" ref="#fk__p_46676">Jahne</rs> und <rs type="pers" ana="n_27913" ref="#fk__p_55840">Zeitelberger</rs> erschienen — Preis 2 K —, der<lb/>
+</p>
+            <p ana="pr32344">
+— das Konterfei <seg type="insult">des großen Erfinders so vieler Erfindungen</seg> bringt, auf<lb/>
+daß sich wenigstens die kommende Generation das Gesicht des Mannes<lb/>
+merke, dessen Namen die gegenwärtige so schwer aussprechen kann.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_49585">
+               <persName>Manzoni, Alessandro</persName>
+               <birth>
+                  <date>1785-03-07</date>
+                  <place>Mailand</place>
+               </birth>
+               <death>
+                  <date>1873-05-22</date>
+                  <place>Mailand</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/5024</idno></person>
+            <person xml:id="fk__p_42280">
+               <persName>Edison, Thomas Alva</persName>
+               <birth>
+                  <date>1847-02-11</date>
+                  <place>Milan/Ohio</place>
+               </birth>
+               <death>
+                  <date>1931-10-18</date>
+                  <place>West Orange/New Jersey</place>
+               </death>
+               <occupation>Techniker</occupation>
+               <occupation>Erfinder</occupation>
+            </person>
+            <person xml:id="fk__p_55840">
+               <persName>Zeitelberger, Georg Josef</persName>
+               <birth>
+                  <date>1869-12-22</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1953-9-23</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Gymnasiallehrer</occupation>
+               <note type="comment">Josef Jahne/Georg Zeitelberger, Grundriß der Naturlehre für Bürgerschulen, Wien 1904</note>
+               <note type="comment">Friedhof Ober St. Veit H/G 18</note>
+            </person>
+            <person xml:id="fk__p_46730">
+               <persName>Szczepanik, Jan</persName>
+               <birth>
+                  <date>1872-4-13</date>
+                  <place>Rudniki bei Mostyska/Ukraine</place>
+               </birth>
+               <death>
+                  <date>1926-4-18</date>
+                  <place>Tarnów/Polen</place>
+               </death>
+               <occupation>Erfinder</occupation>
+            </person>
+            <person xml:id="fk__p_46676">
+               <persName>Jahne, Josef</persName>
+               <birth>
+                  <date>1862-7-12</date>
+                  <place>Unterstratzau</place>
+               </birth>
+               <death>
+                  <date>1921-4-3</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schulinspektor</occupation>
+               <occupation>Schulleiter</occupation>
+               <note type="comment">Josef Jahne/Georg Zeitelberger, Grundriß der Naturlehre für Bürgerschulen, Wien 1904</note>
+               <note type="comment">6., Millergasse 25</note>
+               <note type="comment">Bürgerschuldirektor</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

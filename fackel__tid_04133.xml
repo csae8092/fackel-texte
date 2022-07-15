@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_04133.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04132.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04134.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Sammler. (Aus meiner Sammlung), in: Fackel Heft 07, Nr. 199, 1906, S. 24-24</title>
+            <title type="iso-date">1906-03-23</title>
+            <title type="id">tid_04133</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">07</title><title type="heft">199</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-07-199_n0024.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/199,024</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Sammler. (Aus meiner Sammlung)</head>
+            <p ana="pr43391">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="name_203460" ref="#fk__p_52736">Sammler</rs>.</seg></seg> Sogar in der Rubrik der Theaterzettel ist die ‚<rs type="paper" ana="werk_14486">Neue<lb/>
+Freie Presse</rs>‘ desorientiert. Lange Zeit erfuhr man unter der Spitzmarke<lb/>
+ <seg type="insult"><rs type="paperRef" ana="werk_14487">»<rs type="title">Theater und Vergnügungen in Wien</rs>«</rs></seg>, was in den Schauspielhäusern<lb/>
+ von Prag, Brünn, Graz und Innsbruck gespielt wurde. Die<lb/>
+weite Entfernung dieser Theater vom Zentrum unserer Stadt hat den<lb/>
+Wert der Ankündigungen wesentlich herabgemindert. Man kommt<lb/>
+doch noch rascher ins <rs type="inst"><rs type="pers" ana="n2_2885" ref="#fk__p_57640">Carltheater</rs></rs>. Aber ach, dort hieß es am <date>9. März</date>:<lb/>
+»Geschlossen. Anfang ½8 Uhr, Ende 10 Uhr«! — Ein Leser schreibt:<lb/>
+»Zu den Abenteuern am ‚<SPAN cont="Lop-Nor-See">Lop<seg type="spc">-Nor-See</seg></SPAN>‘, zu den schrecklichen <seg type="insult">‚<seg type="spc">Guerilla-Kriegen<lb/>
+</seg>‘</seg>, zu den schauerlichen <seg type="insult">‚<seg type="spc">Attentats-Versuchen</seg>‘</seg>, die wir fast<lb/>
+täglich über uns ergehen lassen müssen, kommt nun in der ‚<rs type="paper" ana="werk_14488">Neuen<lb/>
+Freien Presse</rs>‘ vom <date>10. <abbr>d. M.</abbr></date>, <rs type="paperRef" ana="werk_14489">Abendblatt</rs>, eine Verunglückung in <seg type="spc">Ski-Schuhen<lb/>
+</seg> und tags vorher im <rs type="paperRef" ana="werk_14490">Morgenblatte</rs> gar eine <seg type="insult"><seg type="spc">Anti-Duellbekämpfung<lb/>
+</seg></seg>. Die ‚<rs type="paper" ana="werk_14491">Neue Freie Presse</rs>‘ ist doch eine <seg type="insult">aufregende Lektüre</seg>!«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_52736">
+               <persName>Sammler</persName>
+            </person>
+            <person xml:id="fk__p_57640">
+               <persName>Carl, Carl</persName>
+               <birth>
+                  <date>1789-11-7</date>
+                  <place>Krakau</place>
+               </birth>
+               <death>
+                  <date>1854-8-14</date>
+                  <place>Bad Ischl</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <occupation>Regisseur</occupation>
+               <occupation>Theaterleiter</occupation>
+               <note type="comment">Ögg: Freiherr von Bernbrunn</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

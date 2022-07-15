@@ -1,0 +1,38 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06642.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06641.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06643.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Märtyrer, in: Fackel Heft 15, Nr. 395, 1914, S. 18-18</title>
+            <title type="iso-date">1914-01-01</title>
+            <title type="id">tid_06642</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">15</title><title type="heft">395</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-15-395_n0018.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/395,018</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Märtyrer</head>
+            <p ana="pr89848">
+<space/>» <seg type="symbol" subtype="4dots"/> Die Honneurs machte <rs type="pers" ana="n_61372" ref="#fk__p_44925">Baronin Bienerth</rs>, unterstützt von<lb/>
+einer Anzahl von <seg type="spc">aufopferungsvollen</seg> Komiteedamen und Herren.«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_44925">
+               <persName>Bienerth-Schmerling, Anka Gräfin, geb. Lazarovics de Nagy et Kis-Szredistyie</persName>
+               <birth>
+                  <date>1869-2-1</date>
+                  <place>Szredistyie</place>
+               </birth>
+               <death>
+                  <date>1937-7-13?</date>
+               </death>
+            </person>
+            </listPerson></back></text>
+</TEI>

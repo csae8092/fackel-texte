@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07873.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07872.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07874.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Der Herold, in: Fackel Heft 19, Nr. 457, 1234, S. 84-85</title>
+            <title type="iso-date">1234-01-01</title>
+            <title type="id">tid_07873</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">19</title><title type="heft">457</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-19-457_n0084.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/457,084</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Der Herold</head>
+            <p ana="pr105337">
+Wien, <date>20. April 1917</date><lb/>
+</p>
+            <p ana="pr105338">
+<space/><seg type="sidehead">[Auszeichnung der Schriftstellerin <rs type="pers" ana="n_67421" ref="#fk__p_38111">Alice Schalek</rs>.]</seg> Der Kaiser hat der<lb/>
+Schriftstellerin <rs type="pers" ana="n_67422" ref="#fk__p_38111">Alice Schalek</rs> in Anerkennung vorzüglicher und aufopferungsvoller<lb/>
+ Leistungen als Kriegsberichterstatterin das goldene Verdienstkreuz<lb/>
+ mit der Krone am Bande der Tapferkeitsmedaille verliehen.<lb/>
+Fräulein <rs type="pers" ana="n_67423" ref="#fk__p_38111">Alice Schalek</rs> gehört als einzige österreichische Schriftstellerin<lb/>
+seit <date>1915</date> als Berichterstatterin der »<rs type="paper" ana="werk_21162">Neuen Freien Presse</rs>« dem <rs type="inst">Kriegspressequartier<lb/>
+</rs> an und hat Monate in den vordersten Linien der<lb/>
+</p>
+            <p ana="pr105338">
+Tiroler, <seg type="ELIDASH">Isonzo-Front</seg> und der montenegrinischen Front zugebracht. Die<lb/>
+Früchte dieser mit vielfacher Gefahr des eigenen Lebens verbundenen<lb/>
+Arbeit sind zwei Kriegsbücher: »<rs type="title">Tirol in Waffen</rs>« und »<rs type="title">Am Isonzo</rs>«,<lb/>
+beide mit eigenen Aufnahmen illustriert, und der Vortrag »<rs type="title">Drei Monate<lb/>
+an der Isonzofront</rs>« mit 220 eigenen Bildern. Für die Überlassung<lb/>
+vieler Hunderte ihrer Aufnahmen aus dem Feuerbereich an das <rs type="inst">Kriegsarchiv<lb/>
+</rs> hat <rs type="pers" ana="n_67424" ref="#fk__p_38111">Alice Schalek</rs> bereits eine belobende Anerkennung erhalten.<lb/>
+Fräulein <rs type="pers" ana="n_67425" ref="#fk__p_38111">Schalek</rs> hat den erwähnten Vortrag einundzwanzigmal in<lb/>
+Deutschland und einundzwanzigmal in Österreich vor zirka 26.000<lb/>
+Zuhörern gehalten und hat dazu beigetragen, den Ruhm unserer<lb/>
+Isonzoarmee zu verbreiten.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_38111">
+               <persName>Schalek, Alice</persName>
+               <birth>
+                  <date>1874-8-21</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1956-11-6</date>
+                  <place>New York</place>
+               </death>
+               <occupation>Journalistin</occupation>
+               <occupation>Schriftstellerin</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/9664</idno></person>
+            </listPerson></back></text>
+</TEI>

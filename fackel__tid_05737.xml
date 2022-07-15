@@ -1,0 +1,111 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_05737.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05736.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05738.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Rundfragen, in: Fackel Heft 14, Nr. 347, 1912, S. 12-13</title>
+            <title type="iso-date">1912-01-01</title>
+            <title type="id">tid_05737</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">14</title><title type="heft">347</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-14-347_n0012.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/347,012</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Rundfragen</head>
+            <p ana="pr75836">
+sind nicht immer einträglich. Eine <seg type="insult"><seg ana="Zeitung"/></seg>, die wohl in ihrem Leben<lb/>
+noch wenig mit der Feder verdorben hat, weil sie den <seg type="insult">internationalen<lb/>
+Tratsch</seg> immer gleich mit der Schere zu fassen kriegt, wollte<lb/>
+wissen, »was hervorragende Männer über die Tageszeitung sagen«.<lb/>
+Solche Neugierde rächt sich, denn sie bringt Originalartikel ein.<lb/>
+Zum Beispiel:<lb/>
+</p>
+            <p ana="pr75838">
+<rs type="pers" ana="n_54311" ref="#fk__p_40686"><abbr><seg type="spc">Dr</seg>.</abbr> <seg type="spc">Adolf Wagner</seg></rs>,<lb/>
+</p>
+            <p ana="pr75839">
+Wirklicher Geheimer Rat, Professor der<lb/>
+Nationalökonomie an der <rs type="inst">Universität Berlin</rs>.<lb/>
+</p>
+            <p ana="pr75840">
+<space/>Ich will nur erwähnen, daß ich im Inhalt eines großen Teiles der<lb/>
+gesamten öffentlichen deutschen Presse so ziemlich aller politischen<lb/>
+Parteien in viel zu starkem Maß Reizmittel sehe, die auf die Leser in<lb/>
+kultureller Hinsicht oft schädlich einwirken <seg type="symbol" subtype="3dotsEditor"/><lb/>
+</p>
+            <p ana="pr75842">
+<space/>Das ist etwas allgemein. Mehr aufs Besondere geht schon<lb/>
+</p>
+            <p ana="pr75844">
+<rs type="pers" ana="n_54312" ref="#fk__p_43492"><seg type="spc">Franz Herczeg</seg></rs>,<lb/>
+</p>
+            <p ana="pr75845">
+<rs type="inst">ungarischer Reichstagsabgeordneter</rs>, Präsident der <rs type="inst"><rs type="pers" ana="n2_4771" ref="#fk__p_51409">Petöfi-Gesellschaft</rs></rs>.<lb/>
+</p>
+            <p ana="pr75846">
+<space/>Die Zeitung, welche von Kulturmenschen gemacht wird, ist ein<lb/>
+mächtiger Kulturfaktor. Es gibt aber Zeitungen, welche <seg type="insult">Faktoren einer<lb/>
+Unkultur</seg> sind. Die <seg type="insult">Dummheit und Bosheit</seg>, welche über eine Rotationsmaschine<lb/>
+ verfügt, ist eine Gefahr und eine <seg type="insult">Schmach</seg>, welche alle<lb/>
+Kulturmenschen der Presse zu einem <rs type="pers" ana="n_54313" ref="#fk__p_49416">Lynchgerichte</rs> vereinigen sollte.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_51409">
+               <persName>Petöfi, Sándor</persName>
+               <birth>
+                  <date>1823-1-1</date>
+                  <place>Nagy-Körös</place>
+               </birth>
+               <death>
+                  <date>1849?-7-31</date>
+                  <place>bei Schäßburg in Siebenbürgen</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Revolutionär</occupation>
+            </person>
+            <person xml:id="fk__p_43492">
+               <persName>Herczeg, Franz</persName>
+               <birth>
+                  <date>1863-09-22</date>
+                  <place>Versec/Banat</place>
+               </birth>
+               <death>
+                  <date>1954-02-24</date>
+                  <place>Budapest</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/65053</idno></person>
+            <person xml:id="fk__p_40686">
+               <persName>Wagner, Adolph</persName>
+               <birth>
+                  <date>1835-3-25</date>
+                  <place>Erlangen</place>
+               </birth>
+               <death>
+                  <date>1917-11-8</date>
+                  <place>Berlin</place>
+               </death>
+               <occupation>Nationalökonom</occupation>
+               <note type="comment">Wirklicher Geheimer Rat</note>
+               <note type="comment">Universität Berlin</note>
+            </person>
+            <person xml:id="fk__p_49416">
+               <persName>Lynch, Charles</persName>
+               <birth>
+                  <date>1736</date>
+               </birth>
+               <death>
+                  <date>1796-10-29</date>
+               </death>
+               <occupation>Farmer</occupation>
+               <occupation>Friedensrichter</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

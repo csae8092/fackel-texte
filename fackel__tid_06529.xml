@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06529.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06528.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06530.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">U. a. nicht genannt, in: Fackel Heft 15, Nr. 389, 1913, S. 7-8</title>
+            <title type="iso-date">1913-12-01</title>
+            <title type="id">tid_06529</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">15</title><title type="heft">389</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-15-389_n0007.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/389,007</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>U. a. nicht genannt</head>
+            <p ana="pr88290">
+<space/>»<seg type="symbol" subtype="4dots"/> Weiter gibt es ein Bild ‚<rs type="title">Soiree im Highlife</rs>‘, auf dem eine<lb/>
+<seg type="spc">Anzahl Wiener Zeitgenossen</seg>, <seg type="spc">auch solche</seg>, <seg type="spc">die außer diesem<lb/>
+Vorzug keine besonderen Verdienste aufzuweisen haben</seg>,<lb/>
+erscheinen, wie sie <rs type="pers" ana="n_60596" ref="#fk__p_38064">Alfred Grünfeld</rs> lauschen, der die ‚<rs type="title">Frühlingsstimmen<lb/>
+</rs>‘ spielt und dann <rs type="pers" ana="n_60597" ref="#fk__p_53181">Selma Kurz</rs> am Klavier begleitet<seg type="symbol" subtype="4dots"/>«<lb/>
+</p>
+            <p ana="pr88292">
+<space/>Das ist <seg type="insult">die Kritik der Zeitung am Film</seg>. Was hat aber der<lb/>
+Film anderes getan, als <seg type="insult">einen dieser ekelhaften Zeitungsberichte</seg>,<lb/>
+die <seg type="insult">die lauschenden Zeitgenossen</seg> alle aufzählen, zu illustrieren?<lb/>
+Es ist <seg type="insult">die Kritik des Films an der Zeitung</seg>. Sie hätte den Mut<lb/>
+haben sollen, <seg type="insult">die endlich verleugneten Zeitgenossen</seg> auch hier<lb/>
+aufzuzählen.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_53181">
+               <persName>Halban-Kurz, Selma</persName>
+               <birth>
+                  <date>1874-10-15</date>
+                  <place>Bielitz</place>
+               </birth>
+               <death>
+                  <date>1933-5-10</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Sängerin</occupation>
+            </person>
+            <person xml:id="fk__p_38064">
+               <persName>Grünfeld, Alfred</persName>
+               <birth>
+                  <date>1852-7-4</date>
+                  <place>Prag</place>
+               </birth>
+               <death>
+                  <date>1924-1-4</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Pianist</occupation>
+               <occupation>Komponist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11533</idno></person>
+            </listPerson></back></text>
+</TEI>

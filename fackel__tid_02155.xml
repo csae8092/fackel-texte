@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02155.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02154.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02156.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Zeitgenosse. (Der Pelzmantel der Frau Odilon), in: Fackel Heft 03, Nr. 090, 1902, S. 31-31</title>
+            <title type="iso-date">1902-01-4</title>
+            <title type="id">tid_02155</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">03</title><title type="heft">090</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-03-090_n0031.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/090,031</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Zeitgenosse. (Der Pelzmantel der Frau Odilon)</head>
+            <p ana="pr20989">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="n_18135" ref="#fk__p_55841">Zeitgenosse</rs>.</seg></seg></seg> Ob der Pelzmantel der Frau <rs type="pers" ana="n_18136" ref="#fk__p_50784">Odilon</rs> der ‚<rs type="paper" ana="werk_6936">Neuen<lb/>
+Freien Presse</rs>‘ mehr getragen, als er Frau <rs type="pers" ana="n_18137" ref="#fk__p_50784">Odilon</rs> gekostet hat? Ohne<lb/>
+Frage. Jedenfalls ist dies der am wenigsten bestrittene Punkt im ganzen<lb/>
+Streite. Hart sind <seg type="insult">die Geister</seg> aufeinandergestossen. Wem gebührte<lb/>
+das Verdienst, wem hatten wir <seg type="insult">die eigentliche Sensation des »<rs type="title">Neuen<lb/>
+<rs type="pers">Simson</rs></rs>«</seg> zu danken: dem Confectionär oder dem Pelzhändler? Es war ein<lb/>
+Meinungskampf, der die ‚<rs type="paper" ana="werk_6937">Neue Freie Presse</rs>‘ sicherlich näher berührt hat<lb/>
+als der Steit um die <seg type="insult">voraussetzungslose Forschung</seg>. Hier wurden Angriffe<lb/>
+<seg type="spc">inseriert</seg> und <SPN cont="§ 19-Berichtigungen"><rs type="title">§ 19</rs>-Berichtigungen</SPN> durch die Administration vermittelt.<lb/>
+Die ‚<rs type="paper" ana="werk_6938">Neue Freie Presse</rs>‘, objectiv wie immer, hat sich weder für <rs type="pers" ana="n_18138" ref="#fk__p_56321">Hoffmann<lb/>
+</rs> noch für <rs type="pers" ana="n_18139" ref="#fk__p_54158">Toch</rs> eingesetzt; sie liess jeden von beiden für fünf<lb/>
+Gulden per Zeile seinen Standpunkt <choice><sic>sspinnen</sic><corr>ausspinnen</corr></choice> und fiel keinem ins<lb/>
+Wort. Und doch hätte sie, da sie von beiden bezahlt, also eigentlich unparteiisch<lb/>
+ war, ganz gut das Amt des Schiedsrichters übernehmen können.<lb/>
+Aber wahrlich, wenn irgendwo, so lässt sich auf diesen Streit das<lb/>
+lateinische Sprichwort anwenden: <foreign xml:lang="la">Duobus litigantibus tertius <seg type="spc">gaudet</seg></foreign>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_55841">
+               <persName>Zeitgenosse</persName>
+            </person>
+            <person xml:id="fk__p_56321">
+               <persName>Hofmann, Edmund</persName>
+               <birth>
+                  <date>1835?</date>
+                  <place>Grätz/Schlesien</place>
+               </birth>
+               <death>
+                  <date>1904-2-27</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Kürschner</occupation>
+               <occupation>Pelzhändler</occupation>
+               <note type="comment">1., Kohlmarkt 11</note>
+            </person>
+            <person xml:id="fk__p_50784">
+               <persName>Odilon, Helene, geb. Petermann</persName>
+               <birth>
+                  <date>1864-7-31</date>
+                  <place>Dresden</place>
+               </birth>
+               <death>
+                  <date>1939-2-9</date>
+                  <place>Baden bei Wien</place>
+               </death>
+               <occupation>Schauspielerin</occupation>
+               <note type="comment">verh. (2) Alexander Girardi, (3) Franz von Rekovsky, (4) Béla von Pecic, (5) Radwan-Praglowski</note>
+               <note type="comment">Das Buch einer Schwachsinnigen. Lebenserinnerungen, Walther, Berlin 1909</note>
+               <note type="comment">1916 erblindet</note>
+               <note type="comment">Grabstein: 1865-1939</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/22098</idno></person>
+            <person xml:id="fk__p_54158">
+               <persName>Toch, Josef</persName>
+               <birth>
+                  <date>1851-10-1</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1919-1-18</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Pelzhändler</occupation>
+               <note type="comment">1., Seilerstätte 16; ZF 1. Tor, Urne beigesetzt am 26.03.1919 52A/12/16</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

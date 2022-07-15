@@ -1,0 +1,48 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_11046.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11045.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11047.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Der Aufsatz »Der größte Feigling im ganzen Land« (S. 32 ff.), in: Fackel Heft 31, Nr. 806, 1929, S. 10-10</title>
+            <title type="iso-date">1929-05-01</title>
+            <title type="id">tid_11046</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">31</title><title type="heft">806</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-31-806_n0010.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/806,010</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Der Aufsatz »Der größte Feigling im ganzen Land« (S. 32 ff.)</head>
+            <p ana="pr158981">
+<space/>Der Aufsatz <seg type="insult">»<rs type="title">Der größte Feigling im ganzen Land</rs>«</seg> (<abbr>S.</abbr> 32 <abbr>ff.</abbr>)<lb/>
+wurde im <date>März</date> als Vorabdruck (im Umfang von 12 Seiten) veröffentlicht<lb/>
+.<lb/>
+</p>
+            <p ana="pr158982">
+<space/><rs type="title"><seg type="spc">Literatur und Lüge</seg></rs>, 1. Band, ist am <date>1. Februar 1929</date><lb/>
+im Verlag der <rs type="self" ana="werk_29106">Fackel</rs> erschienen. Die Durchsicht der Korrekturen<lb/>
+hatte <rs type="pers" ana="n_95423" ref="#fk__p_45705">Heinrich Fischer</rs> besorgt.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_45705">
+               <persName>Fischer, Heinrich</persName>
+               <birth>
+                  <date>1896-8-22</date>
+                  <place>Karlsbad</place>
+               </birth>
+               <death>
+                  <date>1974-3-16</date>
+                  <place>München</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Dramaturg</occupation>
+               <note type="comment">Liste "Theater der Dichtung"</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38133</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03037.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03036.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03038.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Zwei Standpunkte, in: Fackel Heft 04, Nr. 134, 1903, S. 23-23</title>
+            <title type="iso-date">1903-04-6</title>
+            <title type="id">tid_03037</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">04</title><title type="heft">134</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-04-134_n0023.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/134,023</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Zwei Standpunkte</head>
+            <p ana="pr29967">
+<space/><seg ana="‚Deutsche Zeitung‘ (anti-&#10;semitisch), 31. März"/>:<lb/>
+</p>
+            <p ana="pr29968">
+<space/>Unterrichtsminister <rs type="pers" ana="n_25902" ref="#fk__p_55511"><abbr>Dr. v.</abbr><lb/>
+Hartel</rs> beantwortet die Interpellation<lb/>
+ <rs type="pers" ana="n_25903" ref="#fk__p_41624">Pattai</rs>:<lb/>
+</p>
+            <p ana="pr29970">
+<space/>»<QUOTE rn="1" sourceID="FK-04-134_n0023_a"><OMED>— —</OMED> Obwohl ich mich<lb/>
+demnach nicht verpflichtet fühle,<lb/>
+für meine Handlungen als Privatmann<lb/>
+ Rechenschaft zu geben,<lb/>
+so stehe ich doch nicht an, zuzugestehen<lb/>
+, daß unter meiner<lb/>
+Theilnahme <seg type="insult">Gerechte und Sünder<lb/>
+, <seg type="spc">Christen</seg> und <seg type="spc">Juden</seg></seg> <seg type="symbol" subtype="3dotsEditor"/><lb/>
+durch Ehrengaben und Preise<lb/>
+ausgezeichnet worden sind <OMED>— —</OMED></QUOTE>«<lb/>
+</p>
+            <p ana="pr29972">
+<space/><seg ana="‚Extrablatt‘ (liberal), 31. März"/>:<lb/>
+</p>
+            <p ana="pr29973">
+<space/>Unterrichtsminister <rs type="pers" ana="n_25904" ref="#fk__p_55511"><abbr>Dr. v.</abbr><lb/>
+Hartel</rs> beantwortet die Interpellation<lb/>
+ <rs type="pers" ana="n_25905" ref="#fk__p_41624">Pattai</rs>:<lb/>
+</p>
+            <p ana="pr29975">
+<space/>»<QUOTE rn="1" sourceID="FK-04-134_n0023_b"><OMED>— —</OMED> Obwohl ich mich für<lb/>
+meine Handlungen als Privatmann<lb/>
+ hier nicht zu rechtfertigen<lb/>
+brauche, stehe ich doch nicht<lb/>
+an, daß unter meiner Theilnahme<lb/>
+<seg type="insult">Gerechte und Sünder, <seg type="spc">Juden</seg><lb/>
+und <seg type="spc">Christen</seg></seg> <seg type="symbol" subtype="3dotsEditor"/> durch Ehrengaben<lb/>
+ und Preise ausgezeichnet<lb/>
+worden sind <OMED>— —</OMED></QUOTE>«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_55511">
+               <persName>Hartel, Wilhelm Ritter von</persName>
+               <birth>
+                  <date>1839-05-28</date>
+                  <place>Hof/Mähren</place>
+               </birth>
+               <death>
+                  <date>1907-01-14</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Altphilologe</occupation>
+               <occupation>Politiker</occupation>
+               <note type="comment">Friedhof Penzing (=Kontrahentenfriedhof) Tel. 985 64 07</note>
+               <note type="comment">Unterrichtsminister 1900-05</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15937</idno></person>
+            <person xml:id="fk__p_41624">
+               <persName>Pattai, Robert</persName>
+               <birth>
+                  <date>1864-8-9</date>
+                  <place>Graz</place>
+               </birth>
+               <death>
+                  <date>1920-9-29</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <note type="comment">Abgeordneter</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/22378</idno></person>
+            </listPerson></back></text>
+</TEI>

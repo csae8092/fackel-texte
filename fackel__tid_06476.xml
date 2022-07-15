@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06476.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06475.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06477.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Bettelheims, in: Fackel Heft 15, Nr. 384, 1913, S. 35-36</title>
+            <title type="iso-date">1913-10-01</title>
+            <title type="id">tid_06476</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">15</title><title type="heft">384</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-15-384_n0035.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/384,035</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Bettelheims</head>
+            <p ana="pr87408">
+<seg type="insult">Gemahlin</seg> schreibt in <rs type="pers" ana="n_60090" ref="#fk__p_41086">Glossys</rs> <seg ana="Österreichischer Rundschau"/>:<lb/>
+</p>
+            <p ana="pr87410">
+<space/><seg type="symbol" subtype="4dotsEditor"/> Und passiert es heute einem Hofschauspieler, daß er in<lb/>
+Geldkalamitäten gerät, dann streckt er nicht, auf <rs type="pers"><seg type="spc">Jovis</seg></rs> bauend, seine<lb/>
+Hand zum Himmel empor, wie der <rs type="pers">Apollo</rs> des <rs type="inst">Burgtheaters</rs> <seg type="symbol" subtype="4dotsEditor"/><lb/>
+sondern er geht zum Varieté über <seg type="symbol" subtype="4dotsEditor"/> er wird dann der <rs type="pers" ana="n_60091" ref="#fk__p_55664"><seg type="insult">Augenblicks-Krösus</seg></rs><lb/>
+</p>
+            <p ana="pr87410">
+<seg type="insult"><rs type="pers"/> der Lebewelt</seg> — aber oft wird sich ebenso rasch wie seine<lb/>
+Kinobilder, seine Künstlerschaft abkurbeln ins Dunkle und Ungewisse,<lb/>
+wo der Leiden und Leidenschaften viele an ihm zerren, aus der Büchse<lb/>
+der <rs type="pers">Pandora</rs>!<lb/>
+</p>
+            <p ana="pr87412">
+<space/>Das ist ja <seg type="insult">ein furchtbares mythologisches Verhängnis</seg>, aber<lb/>
+wenn man schon schreiben muß und das Glück hat, <seg type="insult">soviel Bildung<lb/>
+in der Familie</seg> zu haben, dann soll man sich vorher erkundigen.<lb/>
+Denn zuweilen schläft selbst <seg type="insult">der gute <rs type="pers" ana="n_60092" ref="#fk__p_41086">Glossy</rs></seg>, und <seg type="insult">dieser <rs type="pers">Jupiter</rs></seg><lb/>
+ist <seg type="insult">ein alter Vokativus</seg>, der oft als <seg type="insult">Genitiv</seg> verkleidet zu einer<lb/>
+<seg type="insult">Schriftstellerin</seg> schleicht, ihr die <rs type="title">Büchse der <rs type="pers">Pandora</rs></rs> als<lb/>
+Andenken hinterlassend.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_41086">
+               <persName>Glossy, Karl</persName>
+               <birth>
+                  <date>1848-3-7</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1937-9-9</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Bibliothekar</occupation>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Literarhistoriker</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11447</idno></person>
+            <person xml:id="fk__p_55664">
+               <persName>Krösus</persName>
+               <birth>
+                  <date>591/590? BC</date>
+               </birth>
+               <death>
+                  <date>541? BC</date>
+               </death>
+               <occupation>König</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

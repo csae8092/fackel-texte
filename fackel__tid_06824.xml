@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06824.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06823.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06825.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Etwas ist faul im Staate Dänemark, in: Fackel Heft 16, Nr. 400, 1914, S. 15-15</title>
+            <title type="iso-date">1914-01-01</title>
+            <title type="id">tid_06824</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">16</title><title type="heft">400</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-16-400_n0015.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/400,015</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Etwas ist faul im Staate Dänemark</head>
+            <p ana="pr91797">
+<space/>Der <RS pers="Christian X." globID="rs_734">König</RS> fragte <seg type="insult">den Präsidenten des Preßkongresses,<lb/>
+Herrn <rs type="pers" ana="n_62284" ref="#fk__p_55546">Singer</rs></seg>, wie sich der <rs type="pers" ana="n_62285" ref="#fk__p_43514">Kaiser Franz Josef</rs> befinde, der ihn<lb/>
+»lebhaft an seinen Großvater erinnere«. Zu den Budapester Journalisten<lb/>
+meinte er, daß die Ungarn viel Ähnlichkeit mit den Dänen hätten:<lb/>
+»sie sind ebenso temperamentvoll«. Auf die Mitteilung, daß auf<lb/>
+dem Preßkongreß alle Nationen und Parteien vertreten seien,<lb/>
+bemerkte die Königin lächelnd: »Dann sind wohl heute auch<lb/>
+Herren hier, <seg type="spc">welche sonst nicht bei Hofe erscheinen</seg>.«<lb/>
+Auch, gnäd’ge Frau? Nein, nur! Mir gilt kein auch.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_43514">
+               <persName>Franz Joseph I., Kaiser</persName>
+               <birth>
+                  <date>1830-8-18</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1916-11-21</date>
+                  <place>Wien</place>
+               </death>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15150</idno></person>
+            <person xml:id="fk__p_55546">
+               <persName>Singer, Wilhelm (Vilmos, Wolwele)</persName>
+               <birth>
+                  <date>1847-11-26</date>
+                  <place>Bisenz/Mähren</place>
+               </birth>
+               <death>
+                  <date>1917-10-10</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <note type="comment">Ögg gibt 706/56 Sándor Singer</note>
+               <note type="comment">Ögg gibt Wilhelm Singer auch F 25/12</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_20141</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2202</idno></person>
+            </listPerson></back></text>
+</TEI>

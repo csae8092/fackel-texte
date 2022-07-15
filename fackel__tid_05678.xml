@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_05678.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05677.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05679.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Der Pathetiker, in: Fackel Heft 13, Nr. 343, 1912, S. 46-46</title>
+            <title type="iso-date">1912-03-01</title>
+            <title type="id">tid_05678</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">13</title><title type="heft">343</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-13-343_n0046.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/343,046</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Der Pathetiker</head>
+            <p ana="pr74858">
+<space/>»<abbr>Abg.</abbr> <rs type="pers" ana="n_53844" ref="#fk__p_43167">Hraba</rs>: Ich bin der Mann, der immer nur für die Interessen<lb/>
+des Volkes gearbeitet hat. Ich habe mich nie um eine Stadtratsstelle<lb/>
+beworben, sondern <rs type="pers" ana="n_53845" ref="#fk__p_47583"><abbr>Dr.</abbr> Lueger</rs> hat mich aus allen herausgezogen und<lb/>
+hat mich verlangt, weil er gesagt hat: »Du bist der einzige, der einmal<lb/>
+ein paar Tausender in der Hand gehabt hat.« Kollege <rs type="pers" ana="n_53846" ref="#fk__p_48350">Kulhanek</rs> tut mir<lb/>
+unrecht, wenn er sagt, daß ich beim Brauhaus etwas verdient hätte.<lb/>
+Ich habe in meinem Leben nie einen Kreuzer genommen, der nicht<lb/>
+ehrlich verdient wäre. Seine Stellung als öffentlicher Vertreter auszunützen<lb/>
+und sich zu bereichern, <seg type="spc">das hat es beim <rs type="pers" ana="n_53847" ref="#fk__p_43167">Felix Hraba</rs> nie gegeben<lb/>
+</seg>, <seg type="spc">dazu war er ein zu großer Kavalier</seg>! Ich bin nicht als<lb/>
+<seg type="insult">Schnorrer</seg> in die Partei gekommen, ich weiß aber <seg type="insult">einige Herren</seg>, die in<lb/>
+den Jahren <date>1895</date> und <date>1896</date> <seg type="insult">mit verhatschten Absätzen und ausgefransten<lb/>
+<foreign xml:lang="de-loc"><seg type="spc">Hoserln</seg></foreign></seg> in die Partei gekommen sind. <seg type="spc">Ich bin als wohlhabender<lb/>
+Mann hineingekommen</seg> und weise den Vorwurf des Regierungsrates<lb/>
+<rs type="pers" ana="n_53848" ref="#fk__p_48350">Kulhanek</rs> als eine niederträchtige Entstellung zurück und werde ihm die<lb/>
+Möglichkeit geben, mir Rechenschaft zu geben.«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_47583">
+               <persName>Lueger, Karl</persName>
+               <birth>
+                  <date>1844-10-24</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1910-3-10</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <note type="comment">Rosa Lueger (Schwester) gest. Wien 24.09.1920</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/3561</idno></person>
+            <person xml:id="fk__p_43167">
+               <persName>Hraba, Felix</persName>
+               <birth>
+                  <date>1850-5-30</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1920-8-8</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Bankbeamter</occupation>
+               <occupation>Politiker</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/18592</idno></person>
+            <person xml:id="fk__p_48350">
+               <persName>Kulhanek, Albert</persName>
+               <birth>
+                  <date>1854-04-04</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1940-4-22</date>
+               </death>
+               <occupation>Beamter</occupation>
+               <note type="comment">18., Pötzleinsdorferstr. 50</note>
+               <note type="comment">Postsparkasse</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

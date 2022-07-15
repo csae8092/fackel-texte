@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06630.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06629.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06631.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Aus einem Weltblatt, in: Fackel Heft 15, Nr. 395, 1914, S. 12-12</title>
+            <title type="iso-date">1914-01-01</title>
+            <title type="id">tid_06630</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">15</title><title type="heft">395</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-15-395_n0012.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/395,012</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Aus einem Weltblatt</head>
+            <p ana="pr89738">
+<space/><seg type="sidehead">[Jubiläum.]</seg> Am <date>17. <abbr>d.</abbr></date> feiern Herr und Frau <rs type="pers" ana="n_61338" ref="#fk__p_46935">Johann</rs> und <rs type="pers" ana="n_61339" ref="#fk__p_54082">Theresia<lb/>
+Ruzizka</rs>, I. Bezirk, Johannesgasse 22 wohnhaft, das Jubiläum ihrer<lb/>
+fünfundzwanzigjährigen Tätigkeit im obgenannten Hause, in dem Herr<lb/>
+<rs type="pers" ana="n_61340" ref="#fk__p_46935">Ruzizka</rs> als Portier bedienstet ist.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46935">
+               <persName>Ruzizka, Johann</persName>
+               <birth>
+                  <date>1861-8-11</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1940-4-3</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Hausbesorger</occupation>
+            </person>
+            <person xml:id="fk__p_54082">
+               <persName>Ruzizka, Theresia</persName>
+               <birth>
+                  <date>1878?</date>
+               </birth>
+               <death>
+                  <date>1929-2-28</date>
+                  <place>Wien</place>
+               </death>
+               <note type="comment">1., Johannesgasse 22</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

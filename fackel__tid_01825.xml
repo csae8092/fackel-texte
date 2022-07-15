@@ -1,0 +1,93 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01825.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01824.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01826.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Der Schmockgeist.), in: Fackel Heft 03, Nr. 077, 1901, S. 8-9</title>
+            <title type="iso-date">1901-05-01</title>
+            <title type="id">tid_01825</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">03</title><title type="heft">077</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-03-077_n0008.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/077,008</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Der Schmockgeist.)</head>
+            <p ana="pr17998">
+<space/><inciptit>Der</inciptit> <seg type="insult">Schmockgeist</seg>, der die Cultur unserer Tage<lb/>
+durchdringt, ist Situationen der Trauer und des Schauers<lb/>
+nicht gewachsen. Vor Gräbern ist er witzig, und wo<lb/>
+aus Abgründen Entsetzen athmet, vermag er nur <seg type="insult">die<lb/>
+grinsende Miene seichter Ueberlegenheit</seg> aufzusetzen.<lb/>
+Eine Stunde vor Verkündigung eines Todesurtheils hat<lb/>
+der Vertheidiger <rs type="pers" ana="n_15123" ref="#fk__p_41553">Morgenstern</rs> das Wort von der <seg type="insult">»Firma<lb/>
+<rs type="inst"><rs type="pers" ana="n2_1208" ref="#fk__p_58889">Schenker</rs> &amp; <abbr>Comp.</abbr></rs>«</seg> gefunden, und die ‚<rs type="paper" ana="werk_5773">Neue Freie<lb/>
+Presse</rs>‘ nannte seine Rede eine <seg type="insult">»Causerie«</seg>. Jetzt ist<lb/>
+der Todtschläger <rs type="pers" ana="n_15124" ref="#fk__p_55258">Wanyek</rs> justificiert worden, und am<lb/>
+Abend vor der Hinrichtung wurden in der Redaction<lb/>
+der ‚<seg ana="Neuen Freien Presse"/>‘ die Worte niedergeschrieben:<lb/>
+</p>
+            <p ana="pr18000">
+»Es heißt, dass <rs type="pers" ana="n_15125" ref="#fk__p_56563">Lang</rs> (der Scharfrichter) morgen im<lb/>
+Cylinder, in Lackstiefeln und mit Glacéhandschuhen<lb/>
+zur Hinrichtung erscheinen will. <seg type="spc">Er würde dann</seg><lb/>
+</p>
+            <p ana="pr18000">
+<seg type="spc">wie zu einem Balle kommen</seg>, <seg type="spc">um im Tanze mit<lb/>
+dem Delinquenten diesen in eine andere Welt<lb/>
+zu befördern</seg>.«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_56563">
+               <persName>Lang, Josef</persName>
+               <birth>
+                  <date>1855-3-11</date>
+                  <place>Simmering</place>
+               </birth>
+               <death>
+                  <date>1925-2-21</date>
+                  <place>Wien-Simmering</place>
+               </death>
+               <occupation>Kaffeehausbesitzer </occupation>
+               <occupation>Scharfrichter</occupation>
+               <occupation>Hausmeister</occupation>
+               <note type="comment">501/53 vermutl. ebenfalls (s. KK Liste Stockhammer 2.8.07)</note>
+               <note type="comment">Dekret vom 27.02.1900</note>
+            </person>
+            <person xml:id="fk__p_55258">
+               <persName>Wanyek, Stephan</persName>
+               <birth>
+                  <date>1877?</date>
+               </birth>
+               <death>
+                  <date>1901-5-22</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Mörder</occupation>
+               <note type="comment">die Tat erfolgte am 08.01.1901</note>
+            </person>
+            <person xml:id="fk__p_58889">
+               <persName>Schenker (Schenker &amp; Comp., Speditionsfirma)</persName>
+            </person>
+            <person xml:id="fk__p_41553">
+               <persName>Morgenstern, Gustav Christian</persName>
+               <birth>
+                  <date>1857-2-21</date>
+                  <place>Budapest</place>
+               </birth>
+               <death>
+                  <date>1922-4-14</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Rechtsanwalt</occupation>
+               <occupation>Publizist</occupation>
+               <note type="comment">Hrsg. "Das Forum"</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

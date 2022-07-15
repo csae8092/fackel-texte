@@ -1,0 +1,43 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_09572.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09571.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09573.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Seipel, in: Fackel Heft 25, Nr. 632, 1923, S. 57-58</title>
+            <title type="iso-date">1923-10-01</title>
+            <title type="id">tid_09572</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">25</title><title type="heft">632</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-25-632_n0057.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/632,057</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Seipel</head>
+            <p ana="pr128198">
+<space/>Ich habe nichts gegen <rs type="pers" ana="n_78763" ref="#fk__p_41233"><abbr>S.</abbr></rs>, er hat für mich nur<lb/>
+den einen Fehler als Politiker, daß er Priester ist,<lb/>
+und als Priester, daß er Politik treibt.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_41233">
+               <persName>Seipel, Ignaz</persName>
+               <birth>
+                  <date>1876-7-18</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1932-8-2</date>
+                  <place>Pernitz, Niederösterreich</place>
+               </death>
+               <occupation>Prälat</occupation>
+               <occupation>Politiker</occupation>
+               <note type="comment">1922-24, 1926-29 Bundeskanzler</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12762</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_12105.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_12104.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_12106.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Das Semikomma, in: Fackel Heft 34, Nr. 876, 1932, S. 68-68</title>
+            <title type="iso-date">1932-10-01</title>
+            <title type="id">tid_12105</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">34</title><title type="heft">876</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-34-876_n0068.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/876,068</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Das Semikomma</head>
+            <p ana="pr176488">
+ist ererbt. Man erinnert sich noch an den Fall: <RS pers="Friedrich von Schiller"><rs type="pers" ana="name_201982" ref="#fk__p_43876">Tell</rs></RS> sagt, jeder<lb/>
+geht an sein Geschäft und meines ist der Mord. Es kann sogar<lb/>
+wegfallen:<lb/>
+</p>
+            <p ana="pr176490">
+Der Freispruch des Attentäters <rs type="pers" ana="n_105223" ref="#fk__p_51478">Piklovic</rs> bildet einen neuen Ansporn.<lb/>
+<seg type="spc">Freilich darf es nicht heißen</seg>: Weg mit den Geschwornen,<lb/>
+<seg type="spc">sondern verbessert</seg> die so oft erprobte und so schwer erkämpfte<lb/>
+Institution des Volksrichtertums!<lb/>
+</p>
+            <p ana="pr176492">
+Einfach unfaßbar, was hier die Zunge leistet, wenn sie<lb/>
+zum typischen Schluß eilt. (Noch vollkommener wäre: <seg type="symbol" subtype="3dots"/> darf<lb/>
+es nicht heißen, weg mit den Geschwornen, sondern verbessert.)<lb/>
+Ob es wirklich einmal erschienen oder mir soeben erst eingefallen<lb/>
+ist, kann ich nicht sagen, aber das stärkste Beispiel wäre:<lb/>
+</p>
+            <p ana="pr176494">
+<rs type="pers" ana="n_105224" ref="#fk__p_44178">Galilei</rs> hat gesagt, und sie bewegt sich doch.<lb/>
+</p>
+            <p ana="pr176496">
+Man stelle sich nun vor, daß <seg type="insult">so etwas</seg> noch immer, wenngleich<lb/>
+in minimaler Auflage, der Kultur des deutschen Bürgertums in<lb/>
+Österreich <seg type="insult">das tägliche Leitwort</seg> gibt. Warum finden sich nicht<lb/>
+Leser, die ihm diese Glosse in zehn Exemplaren zuschicken mit<lb/>
+dem Wunsch, er soll sich einmal anhören. Vielleicht kann man<lb/>
+dann hoffen, er hört auf.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_51478">
+               <persName>Piklovic, Andreas</persName>
+               <birth>
+                  <date>1903</date>
+                  <place>Podzarevac</place>
+               </birth>
+               <occupation>Student</occupation>
+               <note type="comment">Serbe, der am 27. 07. 1931 Georg Semmelmann ermordete</note>
+               <note type="comment">unter dem falsche Namen Egon Spielmann Juli 1931 in Wien abgestiegen</note>
+               <note type="comment">auch Piklovitsch</note>
+            </person>
+            <person xml:id="fk__p_43876">
+               <persName>Schiller, Friedrich von</persName>
+               <birth>
+                  <date>1759-11-10</date>
+                  <place>Marbach am Neckar</place>
+               </birth>
+               <death>
+                  <date>1805-5-9</date>
+                  <place>Weimar</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Mortimer 363/9, 679/69, 912/7 und 912/58 ist von Ögg Shakespeare zugeordnet</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12654</idno></person>
+            <person xml:id="fk__p_44178">
+               <persName>Galilei, Galileo</persName>
+               <birth>
+                  <date>1564-2-15</date>
+                  <place>Pisa</place>
+               </birth>
+               <death>
+                  <date>1642-1-8</date>
+                  <place>Arcetri bei Florenz</place>
+               </death>
+               <occupation>Physiker</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/7327</idno></person>
+            </listPerson></back></text>
+</TEI>

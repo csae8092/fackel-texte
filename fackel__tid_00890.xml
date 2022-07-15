@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00890.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00889.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00891.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Berichterstattung der ‚Neuen Freien Presse‘., in: Fackel Heft 02, Nr. 037, 1900, S. 26-27</title>
+            <title type="iso-date">1900-04-01</title>
+            <title type="id">tid_00890</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">037</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-037_n0026.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/037,026</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Berichterstattung der ‚Neuen Freien Presse‘.</head>
+            <p ana="pr8480">
+<space/>»<QUOTE rn="1" sourceID="FK-02-037_n0026_a">Die Berichterstattung über die <rs type="event">Pariser Weltausstellung</rs>,</QUOTE>«<lb/>
+schrieb die ‚<seg ana="Neue Freie Presse"/>‘ in dem in <rs type="selfRef" ana="werk_2365"><abbr>Nr.</abbr> 35</rs> veröffentlichten<lb/>
+Briefe an eine Trafikantin, »<QUOTE rn="2" sourceID="FK-02-037_n0026_a">soll ohne Rücksicht auf die Kosten <seg type="spc">im<lb/>
+größten Stile</seg> eingerichtet werden.</QUOTE>« Und wer ist der Berichterstatter?<lb/>
+Wie man aus zwei Vorberichten ersehen hat, <seg type="spc"><rs type="pers" ana="n_6672" ref="#fk__p_40792">Berthold Frischauer</rs></seg>.<lb/>
+Die Berichterstattung wird also, <seg type="insult">wenn nicht im grössten, so doch<lb/>
+sicherlich im <seg type="spc">besten</seg> Stil</seg> erfolgen <seg type="symbol" subtype="3dots"/><lb/>
+</p>
+            <p ana="pr8484">
+<space/><seg ana="Morgenblatt vom 31. März, Seite 3, mittlere Spalte, Privat-&#10;telegramm"/>: »<QUOTE rn="1" sourceID="FK-02-037_n0026_b">Unsere Verluste sind: <seg type="spc">ein</seg> Officier wurde getötet,<lb/>
+<seg type="spc">sieben</seg> Officiere und hundert Mann wurden <seg type="spc">theils</seg> getötet, <seg type="spc">theils</seg><lb/>
+verwundet.</QUOTE>« Der eine Officier ist also ganz todt, von den sieben<lb/>
+anderen weiß man nicht, ob sie mehr todt als lebendig oder mehr<lb/>
+<SPAN cont="lebendig"><ADD>l</ADD>ebendig</SPAN> als todt sind.<lb/>
+</p>
+            <p ana="pr8488">
+<space/><seg ana="Abendblatt vom 15. März, Seite 2"/>: »<QUOTE rn="1" sourceID="FK-02-037_n0027_a"><rs type="pers" ana="n_6673" ref="#fk__p_52770">Sarah Bernhardt</rs> als <rs type="pers">Herzog<lb/>
+von Reichstadt</rs> trägt im ersten Aufzug dunkle Bürgertracht, einen<lb/>
+Paletot mit drei Krägen, schwarze Weste mit Spitzenjabot und einer<lb/>
+großen Goldkette, <seg type="spc">darüber</seg> Reithose und hohe <SPAN cont="Stiefeln" norm="Stiefel">Stie<seg type="spc">feln</seg></SPAN>.</QUOTE>«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_52770">
+               <persName>Bernhardt, Sarah</persName>
+               <birth>
+                  <date>1844-10-22</date>
+                  <place>Paris</place>
+               </birth>
+               <death>
+                  <date>1923-3-26</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Schauspielerin</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10899</idno></person>
+            <person xml:id="fk__p_40792">
+               <persName>Frischauer, Berthold</persName>
+               <birth>
+                  <date>1851-9-9</date>
+                  <place>Brünn</place>
+               </birth>
+               <death>
+                  <date>1924-2-4</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <note type="comment">6., Linke Wienzeile 36</note>
+               <note type="comment">Ögg teilt ihm auch 56/23 zu, nicht erkennbar, weshalb</note>
+               <note type="comment">Red. der NFP</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/16710</idno></person>
+            </listPerson></back></text>
+</TEI>

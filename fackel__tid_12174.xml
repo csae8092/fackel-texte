@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_12174.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_12173.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_12175.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Nicht unbegreiflich, in: Fackel Heft 34, Nr. 876, 1932, S. 112-112</title>
+            <title type="iso-date">1932-10-01</title>
+            <title type="id">tid_12174</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">34</title><title type="heft">876</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-34-876_n0112.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/876,112</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Nicht unbegreiflich</head>
+            <p ana="pr177194">
+<space/>— — aber da dort gerade kein Stück für mich vorhanden ist,<lb/>
+Direktor <rs type="pers" ana="n_105612" ref="#fk__p_41761"><abbr>Dr.</abbr> Beer</rs> jedoch das Stück »<rs type="title"><seg type="spc">Flieger</seg></rs>« von <rs type="pers" ana="n_105613" ref="#fk__p_45943">Hermann Roßmann</rs><lb/>
+angenommen hat, das eine <seg type="spc">Bombenrolle</seg> für mich enthält — —<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_41761">
+               <persName>Beer, Rudolf</persName>
+               <birth>
+                  <date>1885-8-22</date>
+                  <place>Graz</place>
+               </birth>
+               <death>
+                  <date>1938-5-9</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Regisseur</occupation>
+               <occupation>Theaterleiter</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/13920</idno></person>
+            <person xml:id="fk__p_45943">
+               <persName>Roßmann, Hermann</persName>
+               <birth>
+                  <date>1902-2-15</date>
+                  <place>Berlin</place>
+               </birth>
+               <death>
+                  <date>1985-3-3</date>
+                  <place>Wörgl</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

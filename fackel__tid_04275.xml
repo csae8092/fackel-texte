@@ -1,0 +1,46 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_04275.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04274.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04276.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Sammler. (Aus meiner Sammlung), in: Fackel Heft 08, Nr. 209, 1906, S. 21-21</title>
+            <title type="iso-date">1906-10-20</title>
+            <title type="id">tid_04275</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">08</title><title type="heft">209</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-08-209_n0021.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/209,021</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Sammler. (Aus meiner Sammlung)</head>
+            <p ana="pr46207">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="name_202611" ref="#fk__p_52736">Sammler</rs>.</seg></seg> Aus der ersten Nummer eines <rs type="magazineRef" ana="werk_14853">neuen Wochenblattes</rs>:<lb/>
+»<abbr>F. Z. M.</abbr> <rs type="pers" ana="n_37356" ref="#fk__p_38743">Graf Beck</rs>, der Chef unseres <rs type="inst">Generalstabes</rs>, tritt <DATERANGE>anfangs<lb/>
+November</DATERANGE> über eigenes Ansuchen in den <seg type="spc">Ruhestand</seg>, und zwar ist es<lb/>
+lediglich das Bedürfnis nach der <seg type="spc">ersteren</seg>, das ihn zum Verlassen<lb/>
+des so lange innegehabten Postens veranlaßt.«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_52736">
+               <persName>Sammler</persName>
+            </person>
+            <person xml:id="fk__p_38743">
+               <persName>Beck von Rzikowsky, Friedrich Graf</persName>
+               <birth>
+                  <date>1830-03-21</date>
+                  <place>Freiburg</place>
+               </birth>
+               <death>
+                  <date>1920-02-09</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>General</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

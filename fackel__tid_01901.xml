@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01901.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01900.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01902.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Wer ist Th. Thomas?), in: Fackel Heft 03, Nr. 080, 1901, S. 18-18</title>
+            <title type="iso-date">1901-06-01</title>
+            <title type="id">tid_01901</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">03</title><title type="heft">080</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-03-080_n0018.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/080,018</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Wer ist Th. Thomas?)</head>
+            <p ana="pr18664">
+<space/><inciptit>Kein</inciptit> Leser der ‚<rs type="paper" ana="werk_6012">Neuen Freien Presse</rs>‘ hat sich noch von der<lb/>
+Frage beunruhigt gefühlt, wer <seg type="insult"><rs type="pers" ana="n_15697" ref="#fk__p_52589"><abbr><seg type="spc">Th</seg>.</abbr> <seg type="spc">Thomas</seg></rs></seg> sei, der seit Wochen das<lb/>
+<seg type="insult">Sonntagsterrain des Humors</seg> beherrscht; <seg type="insult">zwischen <rs type="pers" ana="n_15698" ref="#fk__p_47222">Sternberg</rs> und<lb/>
+<rs type="pers" ana="n_15699" ref="#fk__p_43872">Staberl</rs></seg> konnte eine <seg type="insult">Langweile</seg>, der alles Individuelle abgieng, nicht<lb/>
+aufreizend wirken. Gleichgiltig und als ob man das bereits längst<lb/>
+gewusst hätte, nimmt man jetzt die Nachricht auf, dass hinter<lb/>
+<seg type="insult"><rs type="pers" ana="n_15700" ref="#fk__p_52589"><abbr>Th.</abbr> Thomas</rs></seg> sich <seg type="insult"><rs type="pers" ana="n_15701" ref="#fk__p_52589">Rudolf Lothar</rs></seg> verberge, hinter dem sich bekanntlich<lb/>
+ wieder <seg type="insult"><rs type="pers" ana="n_15702" ref="#fk__p_52589">Rudolf Spitzer</rs></seg> verbirgt. Man sagt sich, als der <rs type="pers" ana="n_15703" ref="#fk__p_40244">Spitzer</rs><lb/>
+des Sonntags noch <rs type="pers" ana="n_15704" ref="#fk__p_40244">Daniel</rs> mit dem Vornamen hieß, seien bessere<lb/>
+Zeiten gewesen, und schläft weiter.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_40244">
+               <persName>Spitzer, Daniel </persName>
+               <birth>
+                  <date>1835-07-03</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1893-1-11</date>
+                  <place>Meran</place>
+               </death>
+               <occupation>Rechtsanwalt</occupation>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Journalist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/25237</idno></person>
+            <person xml:id="fk__p_43872">
+               <persName>Uhl, Friedrich</persName>
+               <birth>
+                  <date>1825-5-14</date>
+                  <place>Teschen</place>
+               </birth>
+               <death>
+                  <date>1906-1-20</date>
+                  <place>Mondsee</place>
+               </death>
+               <occupation>Journalist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12987</idno></person>
+            <person xml:id="fk__p_52589">
+               <persName>Lothar, Rudolph</persName>
+               <birth>
+                  <date>1865-2-23</date>
+                  <place>Pest</place>
+               </birth>
+               <death>
+                  <date>1943-10-2</date>
+                  <place>Budapest</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Kritiker</occupation>
+               <note type="comment">743/107 Hans Müller ist offenbar für Thomas reserviert</note>
+               <note type="comment">Die Metternich-Pastete. Ein appetitliches Lustspiel in 3 Gängen. Leipzig, 1917. 96 S</note>
+               <note type="comment">fordert einen Offenbach-Querschnitt (F 845/14, 857/114)</note>
+            </person>
+            <person xml:id="fk__p_47222">
+               <persName>Sternberg, Julian</persName>
+               <birth>
+                  <date>1868-11-8</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1945-6-28</date>
+                  <place>Havanna/Kuba</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <note type="comment">Red. der NFP</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_20423</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/3021</idno></person>
+            </listPerson></back></text>
+</TEI>

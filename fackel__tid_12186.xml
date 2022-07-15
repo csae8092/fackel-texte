@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_12186.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_12185.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_12187.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Das tägliche Goethe-Wort, in: Fackel Heft 34, Nr. 876, 1932, S. 116-117</title>
+            <title type="iso-date">1932-10-01</title>
+            <title type="id">tid_12186</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">34</title><title type="heft">876</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-34-876_n0116.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/876,116</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Das tägliche Goethe-Wort</head>
+            <lg>
+<l><seg type="spc">In unsers Busens Reine</seg> wogt ein Streben,</l>
+<l>Sich einem Höhern, Reinern, Unbekannten</l>
+<l>Aus Dankbarkeit freiwillig hinzugeben,</l>
+<l>Enträtselnd sich <seg type="spc">den ewig Ungenannten</seg>;</l>
+<l><seg type="spc">Wir</seg> heißen’s: <seg type="spc">fromm sein</seg>!</l>
+</lg>
+            <p ana="pr177307">
+Das mußte die <seg ana="Neue Freie Presse"/> uns in Erinnerung bringen!<lb/>
+Aber auch dieses hat sie zitiert:<lb/>
+</p>
+            <lg>
+<l>Mit Siegessang und Harfenschlag</l>
+<l>Verklimpern sie den lieben Tag;</l>
+<l>sie kränzen freudig sich wechselweise,</l>
+<l>einer lebt in des anderen Preise <seg type="symbol" subtype="3dotsEditor"/></l>
+</lg>
+            <p ana="pr177311">
+Während das <rs type="paper" ana="werk_33280">Neue Wiener Journal</rs> sich mit dem täglichen<lb/>
+Gerichtssaalbericht begnügt, der im Gegensatz zu der Auffassung<lb/>
+unseres <RS pers="Wilhelm Miklas" globID="name_202329">Bundespräsidenten</RS> <seg type="insult">den einzigen echten Zusammenhang<lb/>
+des Österreichers mit <rs type="pers" ana="n_105643" ref="#fk__p_46960">Goethe</rs></seg> beglaubigt und den einzigen<lb/>
+Bescheid, den er von ihm weiß.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46960">
+               <persName>Goethe, Johann Wolfgang von</persName>
+               <birth>
+                  <date>1749-8-28</date>
+                  <place>Frankfurt am Main</place>
+               </birth>
+               <death>
+                  <date>1832-3-22</date>
+                  <place>Weimar</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">890/142f.</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11461</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07183.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07182.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07184.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Kriegsgreuel, in: Fackel Heft 18, Nr. 426, 1916, S. 20-20</title>
+            <title type="iso-date">1916-06-01</title>
+            <title type="id">tid_07183</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">18</title><title type="heft">426</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-18-426_n0020.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/426,020</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Kriegsgreuel</head>
+            <p ana="pr97383">
+<space/><seg type="sidehead">[<rs type="pers" ana="n_64829" ref="#fk__p_39897"><seg type="spc">Karl Weinbergieff</seg></rs>.]</seg> Unter diesem Pseudonym birgt sich <seg type="spc">niemand<lb/>
+anderer</seg> als der bekannte Wiener Operettenkomponist <rs type="pers" ana="n_64830" ref="#fk__p_39897">Karl Weinberger</rs>.<lb/>
+Er verdankt die Russifizierung seines Namens einem findigen italienischen<lb/>
+Agenten <seg type="symbol" subtype="4dots"/> Nach der italienischen Kriegserklärung hielt sich der Agent<lb/>
+berechtigt, auch aus anderen <rs type="pers" ana="n_64831" ref="#fk__p_39897">Weinbergerschen Operetten</rs> <seg type="spc">Melodien<lb/>
+herauszunehmen</seg> und sie der Operette »<rs type="title">Der Schmetterling</rs>« <seg type="spc">willkürlich<lb/>
+ einzuverleiben</seg> <seg type="symbol" subtype="4dots"/><lb/>
+</p>
+            <p ana="pr97385">
+<space/>Das dürfte zur Verschärfung der Gegensätze beitragen,<lb/>
+wiewohl eigentlich <seg type="insult">der treubrüchige Agent</seg> mit den anderen<lb/>
+<rs type="pers" ana="n_64832" ref="#fk__p_39897">Weinbergerschen Operetten</rs> nichts anderes vorgenommen hat<lb/>
+als der <seg type="insult">Schöpfer</seg> selbst mit anderen. Was die Namensänderung<lb/>
+anlangt, so liegt ein schweres Unrecht vor, an dem nur<lb/>
+die Anerkennung des deutschen Vornamens sympathisch berührt.<lb/>
+Denn <rs type="pers" ana="n_64833" ref="#fk__p_39897"><seg type="insult">Weinbergieff</seg></rs> gehört zu <seg type="insult">jenen von unseren Leuten</seg>,<lb/>
+die im Krieg heimgefunden haben, und ähnlich <seg type="insult">einem <rs type="pers" ana="n_64834" ref="#fk__p_46777">Winterfeld</rs></seg>,<lb/>
+der freilich schon in Klammern seinen alten Anspruch auf den<lb/>
+<rs type="pers" ana="n_64835" ref="#fk__p_46777">Jean Gilbert</rs> zu behaupten anfängt, verzichtet er fortan darauf,<lb/>
+<rs type="pers" ana="n_64836" ref="#fk__p_39897">Charles</rs> zu heißen, so lange bis das Vaterland von der Gefahr,<lb/>
+daß weniger Tantiemen verdient werden, befreit ist.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_39897">
+               <persName>Weinberger, Charles</persName>
+               <birth>
+                  <date>1861-4-3</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1939-11-1</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Komponist</occupation>
+               <note type="comment">Operette "Pagenstreiche" (1888)</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/26806</idno></person>
+            <person xml:id="fk__p_46777">
+               <persName>Gilbert, Jean</persName>
+               <birth>
+                  <date>1979-2-11</date>
+                  <place>Hamburg</place>
+               </birth>
+               <death>
+                  <date>1942-12-20</date>
+                  <place>Buenos Aires</place>
+               </death>
+               <occupation>Komponist</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15428</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/7411</idno></person>
+            </listPerson></back></text>
+</TEI>

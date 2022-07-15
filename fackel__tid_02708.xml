@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02708.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02707.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02709.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Wie sich der Dieb selbst verrieth, in: Fackel Heft 04, Nr. 118, 1902, S. 27-28</title>
+            <title type="iso-date">1902-10-17</title>
+            <title type="id">tid_02708</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">04</title><title type="heft">118</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-04-118_n0027.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/118,027</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Wie sich der Dieb selbst verrieth</head>
+            <p ana="pr26439">
+<space/><seg type="insult">Die Schere des <rs type="pers" ana="n_22883" ref="#fk__p_46698">Lippowitz</rs></seg> schneidet wahllos, schonungslos<lb/>
+und — gedankenlos <seg type="symbol" subtype="4dots"/> Am <date>6. October</date> durften sich die Leser<lb/>
+an <seg type="insult">einer amüsanten Plauderei</seg> »<seg type="spc">Berühmte Raucher</seg>« erfreuen.<lb/>
+Da ward erzählt, welcher Sorte <rs type="pers" ana="n_22884" ref="#fk__p_55493">Wilhelm II.</rs> den Vorzug gibt, und<lb/>
+<seg type="insult">»<rs type="pers" ana="n_22885" ref="#fk__p_42338">König Eduard VII. von England</rs>, <seg type="spc">der Onkel unseres Kaisers</seg>«</seg>,<lb/>
+hieß es, sei gleichfalls ein Verehrer der Havanna. Gute Oesterreicher<lb/>
+, die die Nachricht, daß der <rs type="pers" ana="n_22886" ref="#fk__p_42338">König von England</rs> starke<lb/>
+Cigarren rauche, kalt gelassen hatte, fühlten sich durch die Entdeckung<lb/>
+, daß er <seg type="insult">ein Onkel unseres <RS pers="Franz Joseph" globID="rs_393">Kaisers</RS></seg> sei, beunruhigt. Aber<lb/>
+</p>
+            <p ana="pr26439">
+es war kein Irrthum. Wörtlich so war’s in dem — <rs type="paperRef" ana="werk_9226"><seg type="spc">reichsdeutschen<lb/>
+</seg> Blatt</rs> gestanden, dem der Artikel ohne Angabe der<lb/>
+Quelle und fataler Weise auch ohne Aenderung der auf <rs type="pers" ana="n_22887" ref="#fk__p_55493">Wilhelm II.</rs><lb/>
+bezüglichen Stelle entnommen ward. <seg type="insult"><foreign xml:lang="en">Made in Germany!</foreign></seg><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_42338">
+               <persName>Eduard VII., König von England</persName>
+               <birth>
+                  <date>1841-11-9</date>
+                  <place>London</place>
+               </birth>
+               <death>
+                  <date>1910-5-6</date>
+                  <place>London</place>
+               </death>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_14622</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/15665</idno></person>
+            <person xml:id="fk__p_46698">
+               <persName>Lippowitz, Jakob (Siegmund)</persName>
+               <birth>
+                  <date>1865-10-9</date>
+                  <place>Leipzig</place>
+               </birth>
+               <death>
+                  <date>1934-7-4</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17583</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/4054</idno></person>
+            <person xml:id="fk__p_55493">
+               <persName>Wilhelm II., Kaiser</persName>
+               <birth>
+                  <date>1859-1-27</date>
+                  <place>Berlin</place>
+               </birth>
+               <death>
+                  <date>1941-6-4</date>
+                  <place>Doorn/Niederlande</place>
+               </death>
+               <occupation>Kaiser</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_21338</idno></person>
+            </listPerson></back></text>
+</TEI>

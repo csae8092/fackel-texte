@@ -1,0 +1,44 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07203.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07202.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07204.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ein seltener Fall, in: Fackel Heft 18, Nr. 426, 1916, S. 32-32</title>
+            <title type="iso-date">1916-06-01</title>
+            <title type="id">tid_07203</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">18</title><title type="heft">426</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-18-426_n0032.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/426,032</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ein seltener Fall</head>
+            <p ana="pr97527">
+<space/>Konstantinopel, <date>1. Mai</date>. Die Kunde von der Kapitulation der<lb/>
+englischen Armee in Kut-el-Amara hat hier eine riesige Begeisterung<lb/>
+wachgerufen. Alle Straßen sind in den türkischen Farben und denen<lb/>
+der Verbündeten beflaggt. Höhere türkische Militärs bezeichnen die<lb/>
+Kapitulation als das letzte Werk Feldmarschalls <rs type="pers" ana="n_64891" ref="#fk__p_55008">von der Goltz</rs>, der <seg type="spc">im<lb/>
+Tode noch den Triumph</seg> der von ihm reorganisierten Armee <seg type="spc">erlebte</seg>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_55008">
+               <persName>Goltz von der Colmar, Wilhelm Leopold Freiherr </persName>
+               <birth>
+                  <date>1843-08-12</date>
+                  <place>Bielkenfeld/Labian</place>
+               </birth>
+               <death>
+                  <date>1916-04-19</date>
+                  <place>Bagdad</place>
+               </death>
+               <occupation>General</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

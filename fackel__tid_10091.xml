@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_10091.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10090.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10092.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Anzeige von Matthias Claudius’ Werken), in: Fackel Heft 26, Nr. 679, 1925, S. 80-81</title>
+            <title type="iso-date">1925-03-01</title>
+            <title type="id">tid_10091</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">26</title><title type="heft">679</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-26-679_n0080.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/679,080</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Anzeige von Matthias Claudius’ Werken)</head>
+            <p ana="pr137354">
+<space/><rs type="pers" ana="n_84259" ref="#fk__p_49871"><seg type="spc">Matthias Claudius’</seg></rs> Werke sind kürzlich in drei Bänden<lb/>
+im <rs type="inst">Utopia-Verlag Weimar</rs> erschienen. Der Herausgeber <rs type="pers" ana="n_84260" ref="#fk__p_39550"><abbr>Dr.</abbr> Bruno<lb/>
+Adler</rs> läßt diese Gesamtausgabe, die in den ersten zwei Bänden<lb/>
+»<rs type="title">Sämtliche Werke des Wandsbecker Boten</rs>« und in ihrem dritten<lb/>
+Band eine Auslese aus »<rs type="title">Tändeleien und Erzählungen</rs>« enthält,<lb/>
+seiner kleinen, bei <rs type="inst"><rs type="pers" ana="n2_7474" ref="#fk__p_57872">Perthes</rs></rs> erschienenen Sammlung folgen, in der<lb/>
+leider das unvergängliche »<rs type="title">Kriegslied</rs>« gefehlt hat.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_39550">
+               <persName>Adler, Bruno</persName>
+               <birth>
+                  <date>1888-10-14</date>
+                  <place>Karlsbad</place>
+               </birth>
+               <death>
+                  <date>1968-12-26</date>
+                  <place>London</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            </person>
+            <person xml:id="fk__p_57872">
+               <persName>Perthes, F. A. (Verlag)</persName>
+               <note type="comment">Gotha</note>
+            </person>
+            <person xml:id="fk__p_49871">
+               <persName>Claudius, Matthias</persName>
+               <birth>
+                  <date>1740-08-15</date>
+                  <place>Rheinfeld/Holstein</place>
+               </birth>
+               <death>
+                  <date>1815-01-21</date>
+                  <place>Hamburg</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Enkel Hermann Claudius 19.10.1878-8.9.1980, Arbeiterlied "Mit uns zieht die neue Zeit"</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/39422</idno></person>
+            </listPerson></back></text>
+</TEI>

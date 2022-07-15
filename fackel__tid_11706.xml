@@ -1,0 +1,47 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_11706.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11705.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11707.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Von einem Zeileis-Film, in: Fackel Heft 33, Nr. 852, 1931, S. 12-12</title>
+            <title type="iso-date">1931-05-01</title>
+            <title type="id">tid_11706</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">33</title><title type="heft">852</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-33-852_n0012.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/852,012</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Von einem Zeileis-Film</head>
+            <p ana="pr169850">
+weiß er nichts,<lb/>
+</p>
+            <p ana="pr169852">
+hingegen von einem <rs type="pers" ana="n_101553" ref="#fk__p_52028">Rasputin-Film</rs>.<lb/>
+</p>
+            <p ana="pr169854">
+Aber da er so viel anderes nicht zu tun hat, wird auch dafür<lb/>
+keine freie Zeit bleiben.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_52028">
+               <persName>Rasputin, Grigorij Jefimowitsch</persName>
+               <birth>
+                  <date>1869-1-10</date>
+                  <place>Pokrowskoje, Oblast Tjumen</place>
+               </birth>
+               <death>
+                  <date>1916-12-30</date>
+                  <place>Sankt Petersburg</place>
+               </death>
+               <occupation>Prediger</occupation>
+               <occupation>Wunderheiler</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

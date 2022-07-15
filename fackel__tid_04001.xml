@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_04001.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04000.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04002.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">‚Zeit‘-Genosse. (Spiro spero), in: Fackel Heft 07, Nr. 190, 1905, S. 17-17</title>
+            <title type="iso-date">1905-12-11</title>
+            <title type="id">tid_04001</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">07</title><title type="heft">190</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-07-190_n0017.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/190,017</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>‚Zeit‘-Genosse. (Spiro spero)</head>
+            <p ana="pr41432">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="name_203498" ref="#fk__p_60621"><SPAN cont="Zeit-Genosse">‚<rs type="paper" ana="werk_14173">Zeit</rs>‘-Genosse</SPAN></rs><ADD>.</ADD></seg></seg></seg> Ihr <rs type="paperRef" ana="werk_14174">Blatt</rs> ist eine <seg type="insult">Mühle</seg>. Wenn es einst verstummen<lb/>
+ wird, wird der Leser aus dem Schlaf erwachen. Die <seg type="insult">Ödigkeit<lb/>
+dieses journalistischen Daseins</seg> wird vorläufig nur durch <seg type="insult">krampfhafte<lb/>
+Versuche zur Unanständigkeit</seg> unterbrochen. Vor zwei Jahren habe die<lb/>
+‚<rs type="paper" ana="werk_14175">Zeit</rs>‘, so erzählen Sie, vor <seg type="insult">der brieflich ordinierenden ärztlichen Anstalt<lb/>
+<foreign xml:lang="la">»<rs type="inst">Spiro spero</rs>«</foreign></seg> gewarnt. <seg type="insult">Die gemeinschädliche Wirksamkeit dieses »Kur-Instituts<lb/>
+«</seg>, die damals von den <seg type="insult">skrupellosen Wiener Blättern — mit Ausnahme<lb/>
+ der ‚<rs type="paper" ana="werk_14176">Zeit</rs>‘</seg> — durch Annoncen gefördert wurde, erscheint jetzt<lb/>
+dadurch paralysiert, daß die Annoncen auch in der ‚<rs type="paper" ana="werk_14177">Zeit</rs>‘ erscheinen <seg type="symbol" subtype="3dots"/> Und<lb/>
+<seg type="insult">Herr <rs type="pers" ana="n_34468" ref="#fk__p_46524">Singer</rs></seg> führt den Titel eines außerordentlichen <rs type="inst">Universitätsprofessors</rs>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_60621">
+               <persName>‚Zeit‘-Genosse</persName>
+               <note type="comment"/>
+            </person>
+            <person xml:id="fk__p_46524">
+               <persName>Singer, Isidor</persName>
+               <birth>
+                  <date>1857-01-16</date>
+                  <place>Pest</place>
+               </birth>
+               <death>
+                  <date>1927-12-08</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Nationalökonom</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12790</idno></person>
+            </listPerson></back></text>
+</TEI>

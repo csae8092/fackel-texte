@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_05517.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05516.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05518.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Eine seriöse Zuschrift, in: Fackel Heft 13, Nr. 336, 1234, S. 9-10</title>
+            <title type="iso-date">1234-01-01</title>
+            <title type="id">tid_05517</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">13</title><title type="heft">336</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-13-336_n0009.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/336,009</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Eine seriöse Zuschrift</head>
+            <p ana="pr72422">
+<space/>»Regierungsrat <rs type="pers" ana="n_52306" ref="#fk__p_51081"><abbr>J.</abbr> Palisa</rs> schreibt uns: <seg type="insult"><seg type="spc">Aus Anlaß des Erdbebens<lb/>
+</seg></seg>, das gestern nach 10 Uhr abends <seg type="spc">stattfand</seg>, wurde die<lb/>
+<rs type="inst">Sternwarte</rs> mit telephonischen Anfragen von seiten des Publikums<lb/>
+bestürmt. Obwohl <seg type="insult">dieses <seg type="spc">Interesse des Publikums</seg></seg> gewiß äußerst<lb/>
+lobenswert ist, muß doch darauf aufmerksam gemacht werden, daß<lb/>
+seismographische Apparate nicht auf der <rs type="inst">Sternwarte</rs>, sondern auf der<lb/>
+<rs type="inst">Zentralanstalt für Meteorologie und Geodynamik</rs> aufgestellt sind<seg type="symbol" subtype="4dots"/><lb/>
+Die Zentralanstalt besitzt zwar ein Telephon, dasselbe hat aber eine<lb/>
+geheime Nummer, denn sonst würde ein ganzes Dutzend Beamter nicht<lb/>
+genügen, um alle Anfragen über das Wetter aus dem Publikum zu<lb/>
+befriedigen, und jede wissenschaftliche Tätigkeit wäre an gewissen<lb/>
+Tagen und Stunden lahmgelegt <seg type="symbol" subtype="4dots"/> Anders ist es bei der<lb/>
+<rs type="inst">Sternwarte</rs>. Hier hat das Telephon den Zweck, astronomische Mitteilungen<lb/>
+ zu allen <seg type="ELIDASH">Tageszeiten</seg> und Nachtzeiten in Empfang nehmen zu<lb/>
+können. So kann um Mitternacht eine Depesche die <choice><sic>Endeckung</sic><corr>Entdeckung</corr></choice> eines<lb/>
+<seg type="spc">Kometen</seg> melden, der dann noch in <choice><sic>dcrselben</sic><corr>derselben</corr></choice> Nacht beobachtet werden<lb/>
+kann<seg type="symbol" subtype="4dots"/> Das Telephon funktioniert daher nach den Amtsstunden in der<lb/>
+Wohnung <seg type="insult">eines <seg type="spc">verheirateten Astronomen</seg></seg>. Ist das Wetter in<lb/>
+der Nacht schön, so ist der Astronom in der Kuppel und das Telephon<lb/>
+</p>
+            <p ana="pr72422">
+wird von seiner Frau bedient, und nur bei schlechtem Wetter wird die<lb/>
+Nachtruhe des Astronomen seltener gestört<seg type="symbol" subtype="3dots"/> Was kann aber der<lb/>
+Astronom oder auch der Meteorolog auf der <rs type="inst">Hohen Warte</rs> nach einem<lb/>
+Erdbeben machen!? <seg type="symbol" subtype="3dots"/> Alle Beobachtungen des Publikums kommen<lb/>
+genug zeitig an, wenn sie am folgenden Tage der <rs type="inst">Zentralanstalt</rs><lb/>
+schriftlich mitgeteilt werden. Es wird daher auch verständlich sein, wenn<lb/>
+gestern nach den ersten einander jagenden Anfragen das Telephon der<lb/>
+<rs type="inst">Sternwarte</rs> einfach außer Funktion gesetzt wurde.«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_51081">
+               <persName>Palisa, Johann</persName>
+               <birth>
+                  <date>1848-12-06</date>
+                  <place>Troppau</place>
+               </birth>
+               <death>
+                  <date>1925-05-02</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Astronom</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

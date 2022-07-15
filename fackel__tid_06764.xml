@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06764.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06763.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06765.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Nicht diese Stimme!, in: Fackel Heft 16, Nr. 399, 1914, S. 9-10</title>
+            <title type="iso-date">1914-05-01</title>
+            <title type="id">tid_06764</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">16</title><title type="heft">399</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-16-399_n0009.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/399,009</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Nicht diese Stimme!</head>
+            <p ana="pr91131">
+<space/>Wie man weiß, halte ich von <seg type="insult">dem »Intendanten des <rs type="inst">großherzoglichen<lb/>
+ Hoftheaters</rs> in Darmstadt«</seg> nicht viel. Unter <seg type="insult">diesem<lb/>
+Pseudonym</seg> verbirgt sich <seg type="insult">Herr <rs type="pers" ana="n_62010" ref="#fk__p_51195">Paul Eger</rs></seg>, der nun, anstatt die <rs type="inst">Burgtheaterdirektion<lb/>
+</rs> zu bekommen, zu Ostern einen »Brief an einen<lb/>
+jungen Dramaturgen« veröffentlichen darf, was noch viel unpassender<lb/>
+ist. Der Titel lautet: »<rs type="title">Was will das Publikum?</rs>« Nicht <seg type="insult">den <rs type="pers" ana="n_62011" ref="#fk__p_51195">Paul<lb/>
+Eger</rs></seg>, alles weitere wird sich finden. Er ist zwar auch noch <seg type="insult">ein<lb/>
+junger Dramaturg</seg>, ich kann mich noch erinnern, wie er so klein<lb/>
+war (Geste), aber er erteilt schon am Sonntag Ratschläge. »Ich<lb/>
+kann Sie versichern, es gibt nichts Komischeres«, sagt er. Aber<lb/>
+mit <seg type="insult">ausgereiften Versicherungsagenten</seg> wird man fertig, während<lb/>
+die <rs type="inst"><seg type="insult">Hoftheaterintendanten</seg></rs> mit einer <seg type="insult">Stimme</seg>, die wie eine schlecht<lb/>
+geschmierte Tür kreischt, uns in den Ohren liegen bleiben und<lb/>
+uns versichern, daß <rs type="pers" ana="n_62012" ref="#fk__p_55589">Shakespeare</rs> noch lange »am« Repertoire<lb/>
+bleiben wird. Wie das der <rs type="pers" ana="n_62013" ref="#fk__p_45095">Großherzog von Darmstadt</rs> aushält,<lb/>
+ist mir ein Rätsel!<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_55589">
+               <persName>Shakespeare, William</persName>
+               <birth>
+                  <date>1564-4-23?</date>
+                  <place>Stratford-upon-Avon</place>
+               </birth>
+               <death>
+                  <date>1616-4-23</date>
+                  <place>Stratford-upon-Avon</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2412</idno></person>
+            <person xml:id="fk__p_45095">
+               <persName>Ernst Ludwig, Großherzog von Hessen</persName>
+               <birth>
+                  <date>1868-11-25</date>
+                  <place>Darmstadt</place>
+               </birth>
+               <death>
+                  <date>1937-10-9</date>
+                  <place>Schloß Wolfsgarten bei Langen/Hessen</place>
+               </death>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_14799</idno></person>
+            <person xml:id="fk__p_51195">
+               <persName>Eger, Paul</persName>
+               <birth>
+                  <date>1881-1-23</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1947-4-9</date>
+                  <place>Luzern</place>
+               </death>
+               <occupation>Dramaturg</occupation>
+               <occupation>Regisseur</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11227</idno></person>
+            </listPerson></back></text>
+</TEI>

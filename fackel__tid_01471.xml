@@ -1,0 +1,40 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01471.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01470.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01472.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Zur Affaire des Herrn Barlovac.), in: Fackel Heft 02, Nr. 062, 1900, S. 3-3</title>
+            <title type="iso-date">1900-12-01</title>
+            <title type="id">tid_01471</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">062</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-062_n0003.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/062,003</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Zur Affaire des Herrn Barlovac.)</head>
+            <p ana="pr13946">
+<space/><inciptit>Zur</inciptit> Affaire <seg type="insult">des Herrn <rs type="pers" ana="n_11769" ref="#fk__p_44275">Barlovac</rs></seg> (siehe <rs type="selfRef" ana="werk_4552"><abbr>Nr.</abbr> 61</rs>)<lb/>
+lässt sich die ‚<rs type="paper" ana="werk_4553">Neue Freie Presse</rs>‘ am <date>10. December</date><lb/>
+aus Rom melden, die Ernennung und Abberufung <seg type="insult">des<lb/>
+Herrn</seg> sei in Belgrad verfügt worden, »ohne irgendein<lb/>
+Zuthun von Seite Italiens«. Natürlich, »abberufen«<lb/>
+musste <seg type="insult">Herrn <rs type="pers" ana="n_11770" ref="#fk__p_44275">Barlovac</rs></seg> die serbische Regierung, da ihn<lb/>
+die italienische nicht mochte. Aber Italien versichert<lb/>
+eben, dass <seg type="spc">es</seg> auch an der <seg type="spc">Ernennung</seg> <seg type="insult">des Herrn<lb/>
+<rs type="pers" ana="n_11771" ref="#fk__p_44275">Barlovac</rs></seg> nicht die geringste Schuld trägt <seg type="symbol" subtype="3dots"/><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_44275">
+               <persName>Barlovac, Georg</persName>
+               <occupation>Diplomat</occupation>
+               <note type="comment">Kaufmann, serb. Armee, Attaché in Berlin, Ges. secr. in Wien, Athen, Genconsul Budapest</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

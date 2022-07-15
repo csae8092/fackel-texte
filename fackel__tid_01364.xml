@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01364.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01363.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01365.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Nekrologe.), in: Fackel Heft 02, Nr. 058, 1900, S. 13-13</title>
+            <title type="iso-date">1900-11-01</title>
+            <title type="id">tid_01364</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">058</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-058_n0013.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/058,013</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Nekrologe.)</head>
+            <p ana="pr13062">
+<space/><rs type="pers" ana="n_10792" ref="#fk__p_38574"><inciptit>August</inciptit> <seg type="spc">Krawani</seg></rs>, bis zum Jahre <date>1893</date> Chefredacteur<lb/>
+ der ‚<rs type="paper" ana="werk_4219">Oesterreichischen Volkszeitung</rs>‘; von<lb/>
+dem Verwaltungsrath der <rs type="inst">Steyrermühl</rs> auf die Straße<lb/>
+geworfen, weil er sich weigerte, gegen das allgemeine<lb/>
+Wahlrecht zu schreiben; im Spital gestorben am<lb/>
+<date>4. November 1900</date>. Am <date>5. November</date> fließen <seg type="insult">die Zähren<lb/>
+aller liberalen Nekrologisten</seg>, denen nie die Zumuthung<lb/>
+gestellt werden wird, gegen ihre Ueberzeugung zu<lb/>
+schreiben. Am lautesten klagen die Blätter der Actiengesellschaft<lb/>
+ <rs type="inst">Steyrermühl</rs>, die mit der Entlassung eines<lb/>
+anständigen Menschen — dank <seg type="insult">Herrn <rs type="pers" ana="n_10793" ref="#fk__p_51543">Plener</rs></seg> —<lb/>
+seinerzeit ein fast ebenso gutes Geschäft gemacht hat,<lb/>
+wie später mit der Defraudation des <rs type="event">Zeitungsstempels</rs>.<lb/>
+Die ‚<rs type="paper" ana="werk_4220">Oesterreichische Volkszeitung</rs>‘ lässt sich in ihrem<lb/>
+Schmerze zu der Uebertreibung verleiten, <rs type="pers" ana="n_10794" ref="#fk__p_38574">Krawani</rs> habe<lb/>
+seine »überzeugungstreue Feder unserem <rs type="paperRef" ana="werk_4221">Blatte</rs> geliehen<lb/>
+« <seg type="spc">und</seg> »seine durchaus demokratische Gesinnung<lb/>
+niemals verleugnet«. Am Grabe rühmt <seg type="insult">Herr <rs type="pers" ana="n_10795" ref="#fk__p_42271">Spiegl</rs> als<lb/>
+Vertreter der <rs type="inst">Concordia</rs></seg> die <seg type="insult"><seg type="spc">Uneigennützigkeit</seg></seg><lb/>
+<rs type="pers" ana="n_10796" ref="#fk__p_38574">Krawanis</rs> <seg type="symbol" subtype="3dots"/><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_51543">
+               <persName>Plener, Ernst von</persName>
+               <birth>
+                  <date>1841-10-14</date>
+                  <place>Eger</place>
+               </birth>
+               <death>
+                  <date>1923-4-30</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Politiker</occupation>
+            </person>
+            <person xml:id="fk__p_42271">
+               <persName>Spiegl-Thurnsee, Edgar von</persName>
+               <birth>
+                  <date>1839-5-1</date>
+                  <place>Steingrub, Niederösterreich</place>
+               </birth>
+               <death>
+                  <date>1908-6-29</date>
+                  <place>Steingrub, Niederösterreich</place>
+               </death>
+               <occupation>Zeitungsverleger</occupation>
+               <occupation>Präsident der „Concordia“</occupation>
+               <note type="comment">Namenskorrektur!</note>
+               <note type="comment">Hrsg. "Ill. Wr. Extrablatt"</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/25196</idno></person>
+            <person xml:id="fk__p_38574">
+               <persName>Krawani, August</persName>
+               <birth>
+                  <date>1829-10-06</date>
+                  <place>Pettau/Steierm.</place>
+               </birth>
+               <death>
+                  <date>1900-11-04</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_04486.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04485.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04487.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Kritiker. (Kritisches), in: Fackel Heft 09, Nr. 227, 1907, S. 39-39</title>
+            <title type="iso-date">1907-06-10</title>
+            <title type="id">tid_04486</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">09</title><title type="heft">227</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-09-227_n0039.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/227,039</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Kritiker. (Kritisches)</head>
+            <p ana="pr49406">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="name_203707" ref="#fk__p_60644">Kritiker</rs>.</seg></seg></seg><lb/>
+</p>
+            <p ana="pr49408">
+<space/><seg ana="‚Arbeiterzeitung‘"/>:<lb/>
+</p>
+            <p ana="pr49410">
+<space/>»<QUOTE rn="1" sourceID="FK-09-227_n0039_a">Den dichtenden <rs type="pers">Kammerdiener<lb/>
+</rs> spielte Herr <rs type="pers" ana="n_39724" ref="#fk__p_55524">Wilhelm Klitsch</rs>.<lb/>
+Ein junger Mann, der Schwung<lb/>
+und Hitze hat, auch ein prächtiger<lb/>
+Sprecher werden könnte.</QUOTE>«<lb/>
+</p>
+            <p ana="pr49412">
+<space/><seg ana="‚Zeit‘"/>:<lb/>
+</p>
+            <p ana="pr49414">
+<space/>»<QUOTE rn="1" sourceID="FK-09-227_n0039_b">Herr <rs type="pers" ana="n_39725" ref="#fk__p_55524">Klitsch</rs> verdarb die<lb/>
+Hauptrolle durch seine äußerliche<lb/>
+, unbeseelte und im übrigen<lb/>
+ nur selten verständliche Deklamation<lb/>
+.</QUOTE>«
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_60644">
+               <persName>Kritiker</persName>
+               <note type="comment"/>
+            </person>
+            <person xml:id="fk__p_55524">
+               <persName>Klitsch, Wilhelm</persName>
+               <birth>
+                  <date>1882-11-25</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1941-2-24</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <occupation>Regisseur</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/8246</idno></person>
+            </listPerson></back></text>
+</TEI>

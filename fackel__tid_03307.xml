@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03307.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03306.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03308.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Das Haus der Kaufmannschaft, in: Fackel Heft 05, Nr. 146, 1903, S. 21-22</title>
+            <title type="iso-date">1903-11-11</title>
+            <title type="id">tid_03307</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">05</title><title type="heft">146</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-05-146_n0021.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/146,021</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Das Haus der Kaufmannschaft</head>
+            <p ana="pr32734">
+<space/><inciptit>Auf</inciptit> dem Weg, der den Herausgeber der ‚<rs type="self" ana="werk_12258">Fackel</rs>‘ von seiner<lb/>
+Wohnung in die Innere Stadt führt, ist in diesem Sommer ein<lb/>
+<seg type="insult">Verkehrshindernis</seg> aufgetaucht: Das neue »<rs type="inst">Haus der Wiener Kaufmannschaft<lb/>
+</rs>« hemmt zwar nicht den Schritt, aber doch den ungern<lb/>
+verweilenden Blick des Passanten. Wie erstaunt mußte er sein, als<lb/>
+er eines Tages vernahm, daß er ein <seg type="insult">Meisterwerk der Baukunst</seg><lb/>
+verkannt habe! Die Versicherung klang freilich aus den Spalten<lb/>
+der ‚<rs type="paper" ana="werk_12259">Neuen Freien Presse</rs>‘ und der Kunstreferent hatte dem Lokalredakteur<lb/>
+ sein Amt abgetreten. Aber verständlich ward das Lob<lb/>
+eines Bauwerks dennoch erst durch die Erinnerungen, welche der<lb/>
+Name <seg type="insult">des Baukünstlers</seg> weckte: Der Architekt <rs type="pers" ana="n_28238" ref="#fk__p_44584"><seg type="spc">Gotthilf</seg></rs> hat es<lb/>
+zum <seg type="insult">Schwiegersohn des Herrn <rs type="pers" ana="n_28239" ref="#fk__p_40618">Donat Zifferer</rs></seg> gebracht und sollte<lb/>
+es nicht zu <seg type="insult">Reklamartikeln</seg> in der liberalen Presse bringen? Freimauerei<lb/>
+ und Architektur sind <seg type="insult">verwandte Gewerbe</seg>, und auch<lb/>
+Architekten hängen häufig gleich den Freimaurern an veralteten<lb/>
+Formen. Nur pflegen sonst Architekten das <seg type="insult">Bekenntnis ihrer künstlerischen<lb/>
+ Gesinnung</seg> nicht wortwörtlich einem andern nachzustammeln,<lb/>
+wie’s, nach der Versicherung eines Fachmannes, Herr <rs type="pers" ana="n_28240" ref="#fk__p_44584">Gotthilf</rs> tat;<lb/>
+er hat sich begnügt, beim <rs type="inst">Haus der Wiener Kaufmannschaft</rs> die<lb/>
+Fassade des vom Architekten <rs type="pers" ana="n_28241" ref="#fk__p_52946">Schmalz</rs> erbauten <abbr>kgl.</abbr> <seg type="ELIDASH">Landgerichtsgebäudes</seg> und<lb/>
+Amtsgerichtsgebäudes in Berlin bis ins Detail zu kopieren (man<lb/>
+sehe »<rs type="title">Die Architektur des <DATERANGE>20. Jahrhunderts</DATERANGE></rs>«, Verlag <rs type="inst"><rs type="pers" ana="n2_2180" key="#fk__p_59110"><choice><sic>Waßmuth</sic><corr>Wasmuth</corr></choice></rs></rs>,<lb/>
+Berlin). So sollte man ihn eigentlich für seinen Geschmack in der<lb/>
+Wahl des Originals tadeln, wenn man schon das <seg type="insult">Kopiertalent</seg><lb/>
+loben will. Aber ein <seg type="insult">Liberalismus</seg>, der dem Schwiegervater zuliebe<lb/>
+den Schwiegersohn für einen Originalkünstler gelten läßt, geht<lb/>
+entschieden zu weit.<lb/>
+</p>
+            <p ana="pr32735">
+<rs type="pers" ana="n_28242" ref="#fk__p_59604"><AUCTOR notation="symbol"><seg type="symbol" subtype="+"/></AUCTOR></rs><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_52946">
+               <persName>Schmalz, Otto</persName>
+               <birth>
+                  <date>1861-3-30</date>
+                  <place>Karthaus/Westpreußen</place>
+               </birth>
+               <death>
+                  <date>1906-10-6</date>
+                  <place>Berlin</place>
+               </death>
+               <occupation>Architekt</occupation>
+            </person>
+            <person xml:id="fk__p_40618">
+               <persName>Zifferer, Donat</persName>
+               <birth>
+                  <date>1845-10-2</date>
+                  <place>Bistritz/Mähren</place>
+               </birth>
+               <death>
+                  <date>1909-9-29</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Architekt</occupation>
+               <occupation>Stadtbaumeister</occupation>
+               <occupation>Politiker</occupation>
+               <note type="comment">9., Maximilianplatz 6</note>
+               <note type="comment">Ögg: Donath</note>
+               <note type="comment">Daten von IKG bestätigt</note>
+               <note type="comment">Gemeinderat</note>
+            </person>
+            <person xml:id="fk__p_44584">
+               <persName>Gotthilf-Miskolczy, Ernst von</persName>
+               <birth>
+                  <date>1865-10-01</date>
+                  <place>Temesvar</place>
+               </birth>
+               <death>
+                  <date>1950-9-17</date>
+                  <place>Oxford</place>
+               </death>
+               <occupation>Architekt</occupation>
+               <note type="comment">erbaute u. a. das Palais Fanto, das CA-Hauptgebäude, das San. Loew</note>
+               <note type="comment">seine Frau starb am 06.11.1965 in London</note>
+            </person>
+            <person xml:id="fk__p_59604">
+               <persName>mm</persName>
+               <note type="comment"/>
+            </person>
+            </listPerson></back></text>
+</TEI>

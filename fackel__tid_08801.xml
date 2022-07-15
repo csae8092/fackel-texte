@@ -1,0 +1,38 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_08801.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08800.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08802.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Druckfehlerberichtigung), in: Fackel Heft 22, Nr. 551, 1920, S. 14-15</title>
+            <title type="iso-date">1920-08-01</title>
+            <title type="id">tid_08801</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">22</title><title type="heft">551</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-22-551_n0014.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/551,014</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Druckfehlerberichtigung)</head>
+            <p ana="pr116803">
+<space/><FCORR href="FK-22-544_n0028.xml" ferrID="fk_04_ferr_28455711" id="fk_04_fcorr_28455711">In <rs type="selfRef" ana="werk_22366"><abbr>Nr.</abbr> 544/545</rs>, <abbr>S.</abbr> 28, <abbr>Z.</abbr> 14 <abbr>v. u.</abbr>, ist statt ‚entfernen — eine‘<lb/>
+zu lesen: <EM href="FK-22-544_n0028.xml" ferrID="fk_04_ferr_28455711" id="fk_04_em_28455713"><seg type="i">entfernen</seg>« — <seg type="i">eine</seg></EM> (mit dem Anführungszeichen).</FCORR><lb/>
+</p>
+            <p ana="pr116804">
+<space/><FCORR href="FK-22-546_n0033.xml" ferrID="fk_04_ferr_28455716" id="fk_04_fcorr_28455716">In <rs type="selfRef" ana="werk_22367"><abbr>Nr.</abbr> 546—550</rs>, <abbr>S.</abbr> 33, 12. <abbr>Z. v. u.</abbr>, statt ‚<seg type="spc">die</seg> eine‘:<lb/>
+<seg type="i"><EM href="FK-22-546_n0033.xml" ferrID="fk_04_ferr_28455716" id="fk_04_em_28455719">der eine</EM>;</seg></FCORR> <FCORR href="FK-22-546_n0076.xml" ferrID="fk_04_ferr_28455773" id="fk_04_fcorr_28455773">ebenda, <abbr>S.</abbr> 76, <abbr>Z.</abbr> 7, statt ‚rehabiltiert‘: <EM href="FK-22-546_n0076.xml" ferrID="fk_04_ferr_28455773" id="fk_04_em_28455776"><seg type="i">rehabilitiert</seg></EM>.</FCORR><lb/>
+</p>
+            <p ana="pr116805">
+<space/>Von den in den Sonderausgaben der »<rs type="title">Letzten Tage der<lb/>
+Menschheit</rs>« enthaltenen Druckfehlern sei hier nur der folgende<lb/>
+korrigiert: <abbr>S.</abbr> 397, 17. Zeile, statt ‚für Mark: das ist <seg type="spc">ein</seg> Kursverlust<lb/>
+!‘: <seg type="symbol" subtype="3dots"/> <seg type="i">kein Kursverlust!</seg><lb/>
+</p>
+         </div>
+      </body>
+  <back/></text>
+</TEI>

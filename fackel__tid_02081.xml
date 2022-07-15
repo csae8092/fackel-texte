@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02081.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02080.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02082.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Die Wissenschaft und die Interesselosen, in: Fackel Heft 03, Nr. 088, 1901, S. 9-9</title>
+            <title type="iso-date">1901-12-16</title>
+            <title type="id">tid_02081</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">03</title><title type="heft">088</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-03-088_n0009.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/088,009</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Die Wissenschaft und die Interesselosen</head>
+            <p ana="pr20390">
+<space/><inciptit>Herr</inciptit> Professor <rs type="pers" ana="n_17433" ref="#fk__p_42989">von <seg type="spc">Philippovich</seg></rs> hat die Discussion<lb/>
+ über das Terminhandelsgesetz in der »<rs type="inst">Gesellschaft<lb/>
+ österreichischer Volkswirte</rs>« mit der Bemerkung<lb/>
+eingeleitet, es sei »berechtigt, dass auch die Wissenschaft<lb/>
+ und die Unparteiischen — die Interesselosen —<lb/>
+zum Worte kommen.«<lb/>
+</p>
+            <p ana="pr20391">
+<space/>Als er geendet, kamen zum Worte: <seg type="insult">Herr Docent<lb/>
+<rs type="pers" ana="n_17434" ref="#fk__p_41429"><abbr>Dr.</abbr> Landesberger</rs>, der Bruder des <RS pers="Siegfried Landesberger" globID="rs_256">Banquiers</RS>, »die<lb/>
+Wissenschaft«</seg>, und <seg type="insult">Herr <rs type="inst">Börsenrath</rs> <rs type="pers" ana="n_17435" ref="#fk__p_57022">Strasser</rs>, »die<lb/>
+Interesselosen«</seg>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_57022">
+               <persName>Strasser, Josef</persName>
+               <birth>
+                  <date>1836?</date>
+               </birth>
+               <death>
+                  <date>1918-10-25</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Kaufmann</occupation>
+               <note type="comment">MA 8 nicht eruiert; Todesanzeige kaiserl. Rat</note>
+               <note type="comment">2., Große Mohrengasse 3</note>
+               <note type="comment">Börserat</note>
+            </person>
+            <person xml:id="fk__p_42989">
+               <persName>Philippovich-Philippsberg, Eugen Freiherr von</persName>
+               <birth>
+                  <date>1858-3-15</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1917-6-4</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Nationalökonom</occupation>
+               <occupation>Politiker</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_18756</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/22513</idno></person>
+            <person xml:id="fk__p_41429">
+               <persName>Landesberger, Julius</persName>
+               <birth>
+                  <date>1865-3-4</date>
+                  <place>Lemberg</place>
+               </birth>
+               <death>
+                  <date>1920-6-21</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Rechtsanwalt</occupation>
+               <occupation>Jurist</occupation>
+               <occupation>Bankdirektor</occupation>
+               <note type="comment">Univ. Prof.</note>
+               <note type="comment">Gen.rat der Anglobank</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17278</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12034</idno></person>
+            </listPerson></back></text>
+</TEI>

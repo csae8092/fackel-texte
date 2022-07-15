@@ -1,0 +1,44 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06323.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06322.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06324.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Das Geheimnis der Popularität, in: Fackel Heft 15, Nr. 376, 1913, S. 39-39</title>
+            <title type="iso-date">1913-06-01</title>
+            <title type="id">tid_06323</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">15</title><title type="heft">376</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-15-376_n0039.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/376,039</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Das Geheimnis der Popularität</head>
+            <p ana="pr85312">
+<space/>»Morgen, am <date>21. Mai</date>, feiert der allverehrte <rs type="pers" ana="n_58960" ref="#fk__p_42892">Erzherzog Eugen</rs><lb/>
+seinen fünfzigsten Geburtstag <seg type="symbol" subtype="4dots"/> Musikalisch und ein Sänger mit<lb/>
+gut gebildeter Baritonstimme, hat er als Husarenoffizier in Pardubitz<lb/>
+bei dem jüdischen Kantor gründlichen Gesangsunterricht genommen <seg type="symbol" subtype="4dots"/><lb/>
+Überall gewann er mit seiner hochragenden Gestalt, mit dem mehr<lb/>
+südländischen Ausdruck seines Gesichtes, vor allem durch den gewinnenden<lb/>
+ Reiz seiner Persönlichkeit alle Herzen.«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_42892">
+               <persName>Eugen, Erzherzog</persName>
+               <birth>
+                  <date>1863-05-21</date>
+                  <place>Groß-Seelowitz/Mähren</place>
+               </birth>
+               <death>
+                  <date>1954-12-30</date>
+                  <place>Meran</place>
+               </death>
+            </person>
+            </listPerson></back></text>
+</TEI>

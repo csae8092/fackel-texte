@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_09462.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09461.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09463.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Goethe und Hofmannsthal, in: Fackel Heft 25, Nr. 622, 1923, S. 73-73</title>
+            <title type="iso-date">1923-06-01</title>
+            <title type="id">tid_09462</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">25</title><title type="heft">622</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-25-622_n0073.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/622,073</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Goethe und Hofmannsthal</head>
+            <lg>
+<l>Will <rs type="pers" ana="n_77887" ref="#fk__p_46353">Hofmannsthal</rs> <rs type="pers" ana="n_77888" ref="#fk__p_46960">Goethes</rs> Entwicklung begleiten,</l>
+<l>so wirkt es noch in die fernsten Zeiten.</l>
+<l>Was immer auch dieser jenem leiht,</l>
+<l>es reicht für beider Unsterblichkeit.</l>
+<l>Müssen die, die späterhin beide lesen,</l>
+<l>denn wissen, welcher der Ältre gewesen?</l>
+<l>Die hundert Jahre, welche dazwischen,</l>
+<l>werden weitere hundert wieder verwischen.</l>
+<l>Nach tausend aber ist’s schon egal,</l>
+<l>ob <rs type="pers" ana="n_77889" ref="#fk__p_46960">Goethe</rs> oder <rs type="pers" ana="n_77890" ref="#fk__p_46353">Hofmannsthal</rs>.</l>
+</lg>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46960">
+               <persName>Goethe, Johann Wolfgang von</persName>
+               <birth>
+                  <date>1749-8-28</date>
+                  <place>Frankfurt am Main</place>
+               </birth>
+               <death>
+                  <date>1832-3-22</date>
+                  <place>Weimar</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">890/142f.</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11461</idno></person>
+            <person xml:id="fk__p_46353">
+               <persName>Hofmannsthal, Hugo Edler von</persName>
+               <birth>
+                  <date>1874-2-1</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1929-7-15</date>
+                  <place>Rodaun bei Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16293</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11740</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07614.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07613.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07615.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ein guter Schüler, in: Fackel Heft 18, Nr. 445, 1234, S. 59-59</title>
+            <title type="iso-date">1234-01-01</title>
+            <title type="id">tid_07614</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">18</title><title type="heft">445</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-18-445_n0059.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/445,059</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ein guter Schüler</head>
+            <p ana="pr102408">
+<space/>Ein <rs type="pers"><seg type="insult">Musikschmock</seg></rs> sagt:<lb/>
+</p>
+            <p ana="pr102410">
+<space/><seg type="symbol" subtype="3dots"/> <seg type="spc">Andere</seg> spielen um diese Zeit Karten, lieben und studieren<lb/>
+zwischendurch. <seg type="spc">Dieser Junge wuchs nicht wie der wilde<lb/>
+Wein</seg>; er bewahrte sich das Vergnügen am Leben, blieb nicht auf der<lb/>
+<seg type="insult">Oberquinta des Weltschmerzes</seg> sitzen, ein <seg type="insult">Repetent der Empfindsamkeit</seg>.<lb/>
+<seg type="spc">Weiß</seg>, <seg type="spc">was Begierde ist</seg>, <seg type="spc">und wertet sie um</seg>, verfeinert<lb/>
+und verflüchtigt sie im modernsten Musikdeutsch <seg type="symbol" subtype="4dots"/><lb/>
+</p>
+            <p ana="pr102412">
+<space/>Es bleibt also die Frage, ob <seg type="insult">der kleine <rs type="pers" ana="n_66232" ref="#fk__p_42772">Korngold</rs></seg> <seg type="insult">die gute Note</seg><lb/>
+verdient, die er bekommen hat, nämlich ob sie von ihm ist.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_42772">
+               <persName>Korngold, Erich Wolfgang</persName>
+               <birth>
+                  <date>1897-5-29</date>
+                  <place>Brünn</place>
+               </birth>
+               <death>
+                  <date>1957-11-29</date>
+                  <place>Hollywood</place>
+               </death>
+               <occupation>Komponist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11969</idno></person>
+            </listPerson></back></text>
+</TEI>

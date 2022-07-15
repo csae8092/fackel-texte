@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00664.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00663.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00665.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Aus dem Polenclub., in: Fackel Heft 01, Nr. 027, 1899, S. 27-28</title>
+            <title type="iso-date">1899-12-01</title>
+            <title type="id">tid_00664</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">027</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-027_n0027.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/027,027</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Aus dem Polenclub.</head>
+            <p ana="pr6273">
+<space/>Das ‚<rs type="paper" ana="werk_1620">Fremdenblatt</rs>‘ brachte neulich folgende Meldung: »In<lb/>
+der gestrigen Schlusssitzung des Polenclubs erstattete Abgeordneter<lb/>
+<rs type="pers" ana="n_4712" ref="#fk__p_44478">Gizowski</rs> namens der auf Wunsch des Abgeordneten <rs type="pers" ana="n_4713" ref="#fk__p_43715">Freiherrn<lb/>
+<abbr>v.</abbr> <seg type="spc">Czecz-Lindenwald</seg></rs> eingesetzten Commission einen ausführlichen<lb/>
+ Bericht bezüglich der vom Abgeordneten <rs type="pers" ana="n_4714" ref="#fk__p_53559">Stapinski</rs> gegen<lb/>
+<rs type="pers" ana="n_4715" ref="#fk__p_43715"><abbr>Dr. v.</abbr> Czecz</rs> erhobenen Anwürfe <seg type="symbol" subtype="4dots"/> Der Club beschloss den vom<lb/>
+Abgeordneten <rs type="pers" ana="n_4716" ref="#fk__p_44478">Gizowski</rs> erstatteten Bericht in Druck legen und veröffentlichen<lb/>
+ zu lassen, weiters wurde eine Resolution beschlossen,<lb/>
+in welcher erklärt wird, dass die gegen <rs type="pers" ana="n_4717" ref="#fk__p_43715"><abbr>Dr. v.</abbr> Czecz</rs> erhobenen<lb/>
+Vorwürfe gänzlich aus der Luft gegriffen sind und <rs type="pers" ana="n_4718" ref="#fk__p_43715"><abbr>Dr. v.</abbr> Czecz</rs> <seg type="spc">in<lb/>
+der Achtung des Polenclubs noch gestiegen</seg> ist.« Der bloße<lb/>
+Vorwurf einer unehrenhaften Handlung scheint offenbar genügt zu<lb/>
+haben — um einen Abgeordneten in der <seg type="insult">Achtung des Polenclubs</seg><lb/>
+noch steigen zu lassen <seg type="symbol" subtype="3dots"/><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_44478">
+               <persName>Giżowski, Julius Ritter von</persName>
+               <birth>
+                  <date>1854</date>
+                  <place>Lemberg</place>
+               </birth>
+               <death>
+                  <date>1908?</date>
+               </death>
+               <occupation>Jurist</occupation>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Politiker</occupation>
+               <note type="comment">LGR in Sambor</note>
+               <note type="comment">Reichsratsabgeordneter</note>
+            </person>
+            <person xml:id="fk__p_43715">
+               <persName>Czecz-Lindenwald, Herman Artur Freiherr von</persName>
+               <birth>
+                  <date>1854-07-07</date>
+                  <place>Biala</place>
+               </birth>
+               <death>
+                  <date>1904-11-18</date>
+                  <place>Kozy</place>
+               </death>
+               <occupation>Politiker</occupation>
+            </person>
+            <person xml:id="fk__p_53559">
+               <persName>Stapiński, Jan (Johann)</persName>
+               <birth>
+                  <date>1867-12-21</date>
+                  <place>Jablonicapolska</place>
+               </birth>
+               <death>
+                  <date>1946-2-17</date>
+                  <place>Krosno/Polen</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Politiker</occupation>
+               <note type="comment">RP 19.3.1912, S. 8 Prozeß des Abg. Stapinski Krakau</note>
+               <note type="comment">Reichsratsabgeordneter</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

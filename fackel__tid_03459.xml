@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03459.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03458.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03460.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Offizier. (Mannlicher und die ‚Zeit‘), in: Fackel Heft 05, Nr. 153, 1904, S. 22-23</title>
+            <title type="iso-date">1904-01-27</title>
+            <title type="id">tid_03459</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">05</title><title type="heft">153</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-05-153_n0022.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/153,022</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Offizier. (Mannlicher und die ‚Zeit‘)</head>
+            <p ana="pr34334">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="n_29565" ref="#fk__p_50797">Offizier</rs>.</seg></seg></seg> Sie schreiben: »Die ‚<rs type="paper" ana="werk_12753">Zeit</rs>‘ (Abendblatt vom <date>20. Jänner</date>)<lb/>
+über <rs type="pers" ana="n_29566" ref="#fk__p_57888">Mannlicher</rs>: ‚Seit <date>1878</date> beschäftigte er sich mit der Konstruktion<lb/>
+ <seg type="spc">verschiedener Repetiergewehre mit Geradezugsverschluß</seg><lb/>
+</p>
+            <p ana="pr34334">
+<seg type="spc"> und Pakettladung</seg> und vervollkommnete seine Erfindung<lb/>
+immer mehr, bis er beim <seg type="spc">automatischen Repetiergewehr</seg>, <seg type="spc">bei<lb/>
+dem auch die Verschlußfunktion durch den Druck des<lb/>
+Pulvergases selbsttätig bewirkt wird</seg>, <seg type="spc">angelangt war</seg> —<lb/>
+<seg type="spc">er hatte das nach ihm benannte</seg> ‚<seg type="spc">System <rs type="pers" ana="n_29567" ref="#fk__p_57888">Mannlicher</rs></seg>‘<lb/>
+<seg type="spc">praktisch verwertbar gemacht</seg>. Nach vielen Versuchen entschloß<lb/>
+sich die Heeresverwaltung, eine Neubewaffnung der Armee mit Gewehren<lb/>
+<seg type="spc">dieses</seg> Systems vorzunehmen.‘ — Soweit die ‚<rs type="paper" ana="werk_12754">Zeit</rs>‘. Wenn sie recht hat,<lb/>
+dann führt unsere Armee jetzt <seg type="spc">automatische Repetierer</seg>; wenn sie<lb/>
+recht hat, dann hat <rs type="pers" ana="n_29568" ref="#fk__p_57888">Mannlicher</rs> die Idee des Mittelschaftsmagazin-Repetierers<lb/>
+ nicht (wie man allgemein glaubt) erst <date>1885</date>, sondern schon<lb/>
+<date>1878</date> gehabt. Es ist nun immerhin möglich, daß sich unter den Lesern<lb/>
+der ‚<rs type="paper" ana="werk_12755">Zeit</rs>‘ auch ein Reserveoffizier befindet; möge er vertrauensvoll bei<lb/>
+dem bleiben, was man ihn in der Freiwilligenschule gelehrt hat: daß<lb/>
+die Armee <seg type="spc">keine</seg> automatischen Repetierer hat und die Idee des<lb/>
+Mittelschaftsmagazins (schlechthin ‚System <rs type="pers" ana="n_29569" ref="#fk__p_57888">Mannlicher</rs>‘) erst aus dem<lb/>
+Jahre <date>1885</date> stammt.« — Nichts stimmt! <RS persTitle="Shakespeare" title="Hamlet">Die <seg type="insult">‚<rs type="paper" ana="werk_12756">Zeit</rs>‘</seg> ist aus den Fugen</RS>:<lb/>
+Schmach und Gram, — daß ich zur Welt, sie einzurichten, kam!<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_50797">
+               <persName>Offizier</persName>
+            </person>
+            <person xml:id="fk__p_57888">
+               <persName>Mannlicher, Ferdinand Ritter von </persName>
+               <birth>
+                  <date>1848-01-30</date>
+                  <place>Mainz</place>
+               </birth>
+               <death>
+                  <date>1904-01-20</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Techniker</occupation>
+               <note type="comment">Handfeuerwaffenkonstrukteur</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

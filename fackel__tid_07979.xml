@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07979.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07978.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07980.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Propaganda, in: Fackel Heft 19, Nr. 462, 1917, S. 98-99</title>
+            <title type="iso-date">1917-10-01</title>
+            <title type="id">tid_07979</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">19</title><title type="heft">462</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-19-462_n0098.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/462,098</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Propaganda</head>
+            <p ana="pr106602">
+<space/>Nachdem die Wiener Operette in Zürich gastiert hatte,<lb/>
+sofort nach der Abreise, versagte das sonst so exakte Zürcher<lb/>
+Telephon völlig. Es war, zur Nachfeier, eine Woche lang keine<lb/>
+Verbindung zu bekommen und die Telephonistinnen — was<lb/>
+früher bestimmt nie vorgekommen war — verstanden statt 5149<lb/>
+7971. Aber auch schon beim Tonhalle-Konzert, das die<lb/>
+Wiener gegeben hatten, hatte ein in Zürich noch nicht erlebter<lb/>
+<seg type="insult"><foreign xml:lang="de-loc">Pallawatsch</foreign></seg> geherrscht, bei dem sich sogar — es ging eben<lb/>
+drunter und drüber — »die Ouvertüre aus der Operette von<lb/>
+<rs type="pers" ana="n_67860" ref="#fk__p_50864"><seg type="spc">Oskar Straus</seg></rs> ‚<rs type="title"><seg type="spc">Eine Nacht in Venedig</seg></rs>‘« kaum zur<lb/>
+</p>
+            <p ana="pr106602">
+Geltung bringen konnte. Von einem der Dirigenten, die ihr<lb/>
+Äußerstes taten, hieß es:<lb/>
+</p>
+            <p ana="pr106604">
+<space/>Das Abwischen seines in Schweiß geratenen Kopfes nach jeder<lb/>
+einzelnen Nummer war ganz bestimmt keine Pose.<lb/>
+</p>
+            <p ana="pr106606">
+<space/><seg type="insult">Der Schlachtbericht des <rs type="perRef" ana="werk_21252">Zürcher Blattes</rs></seg>, dessen Referent<lb/>
+in seinen freien Stunden tatsächlich <seg type="insult">Frontberichterstatter</seg> ist,<lb/>
+würdigt <seg type="insult">die Aufopferung der Besten für eine verlorene Sache</seg>:<lb/>
+</p>
+            <p ana="pr106608">
+<space/>Mit einiger Bitterkeit wird besonders der als Conférencier<lb/>
+<seg type="spc">amtende</seg> bekannte Wiener Schriftsteller <rs type="pers" ana="n_67861" ref="#fk__p_43159">Felix Dörmann</rs> <seg type="symbol" subtype="2dots"/><lb/>
+an den Abend zurückdenken.<lb/>
+</p>
+            <p ana="pr106610">
+<space/>Da hat einer einmal erlebt, daß es viel leichter ist, die<lb/>
+Russen und die Serben zu hauen in Scherben, als selber, wenn<lb/>
+es einmal ernst wird, mit der <rs type="pers" ana="n_67862" ref="#fk__p_49367">Kartousch</rs> vorzugehen.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_50864">
+               <persName>Straus, Oscar</persName>
+               <birth>
+                  <date>1870-3-6</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1954-1-11</date>
+                  <place>Bad Ischl</place>
+               </death>
+               <occupation>Komponist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12861</idno></person>
+            <person xml:id="fk__p_43159">
+               <persName>Dörmann, Felix</persName>
+               <birth>
+                  <date>1870-5-29</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1928-10-26</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Cousine Mizi von Stankowitz (Dickel, Salten)</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2425</idno></person>
+            <person xml:id="fk__p_49367">
+               <persName>Kartousch, Luise</persName>
+               <birth>
+                  <date>1886-8-17</date>
+                  <place>Linz</place>
+               </birth>
+               <death>
+                  <date>1964-2-13</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schauspielerin</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

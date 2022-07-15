@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_10857.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10856.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10858.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Verborgenes Aufsehen, in: Fackel Heft 28, Nr. 751, 1927, S. 108-109</title>
+            <title type="iso-date">1927-02-01</title>
+            <title type="id">tid_10857</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">28</title><title type="heft">751</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-28-751_n0108.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/751,108</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Verborgenes Aufsehen</head>
+            <p ana="pr151244">
+<space/><seg type="symbol" subtype="3dots"/> <seg type="spc">Die Öffentlichkeit erfuhr</seg> von dieser grauenhaften<lb/>
+Tat, trotz der Verhaftung des mutmaßlichen Mörders, wie wir jetzt<lb/>
+festgestellt haben, <seg type="spc">gar nichts</seg>. Ungefähr in derselben Zeit lief<lb/>
+die Untersuchung gegen <rs type="pers" ana="n_90568" ref="#fk__p_50944">Otto Eisler</rs>, der seinen Vetter, den Großindustriellen<lb/>
+ <rs type="pers" ana="n_90569" ref="#fk__p_52333">Robert Eisler</rs> ermordet hat. Die Aufmerksamkeit der<lb/>
+gesamten Presse war auf diesen Fall gelenkt und so konnte es<lb/>
+geschehen, daß <seg type="spc">eine aufsehenerregende Mordaffäre</seg> sich<lb/>
+mitten in Wien abspielen konnte, <seg type="spc">ohne daß die Bevölkerung</seg>,<lb/>
+außer den unmittelbaren Nachbarn, seitens der Polizei <seg type="spc">auch nur eine<lb/>
+Andeutung</seg> von dieser Tragödie erhalten hätte.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_52333">
+               <persName>Eissler, Robert Josef</persName>
+               <birth>
+                  <date>1870-5-27</date>
+                  <place>Bisenz</place>
+               </birth>
+               <death>
+                  <date>1923-8-30</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Industrieller</occupation>
+               <note type="comment">1., Dr. Karl Luegerplatz 2</note>
+               <note type="comment">wurde von seinem Vetter Otto Eissler ermordet</note>
+               <note type="comment">"Die Neue Zeitung", 31.8.1923, Seite 3</note>
+               <note type="comment">Affaire mit Amalie Zuckerkandl (Schnitzler Tgb 1918)</note>
+               <note type="comment">Vater des PSychoanalytikers Kurt R. Eissler</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/15828</idno></person>
+            <person xml:id="fk__p_50944">
+               <persName>Eissler, Otto</persName>
+               <birth>
+                  <date>1874-7-15</date>
+                  <place>Bisenz/Mähren</place>
+               </birth>
+               <occupation>Forstwirt</occupation>
+               <note type="comment">ermordete seinen Vetter, den Großindustriellen Robert Eissler am 30.8.1923</note>
+               <note type="comment">Haftanstalt Stein</note>
+               <note type="comment">am 11.12.1928 zu seiner Lebensgefährtin Anna Heimerle in häusl. Pflege entlassen</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

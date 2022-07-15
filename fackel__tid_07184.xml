@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07184.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07183.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07185.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Es brost ein Ruf, in: Fackel Heft 18, Nr. 426, 1916, S. 20-20</title>
+            <title type="iso-date">1916-06-01</title>
+            <title type="id">tid_07184</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">18</title><title type="heft">426</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-18-426_n0020.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/426,020</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Es brost ein Ruf</head>
+            <p ana="pr97390">
+<space/>Dem Schriftsteller <rs type="pers" ana="n_64837" ref="#fk__p_38054">Alfred <SPAN cont="Deutsch-German">Deutsc<seg type="spc">h-German</seg></SPAN></rs> wurde das<lb/>
+<seg type="spc">Kommandeurkreuz</seg> des <rs type="inst">bulgarischen nationalen Ordens für Zivilverdienste<lb/>
+</rs> verliehen.<lb/>
+</p>
+            <p ana="pr97391">
+<space/>Der Arztensgattin <rs type="pers" ana="n_64838" key="#fk__p_43362">Flora <seg type="spc">Kohn</seg></rs>, Präsidentin der <rs type="inst">Flüchtlingsausspeisungsaktion<lb/>
+</rs> in der Rotensterngasse 23, wurde vom <rs type="inst">Obersthofmeisteramte<lb/>
+</rs> des Kaisers im Wege der Statthalterei der Dank für das<lb/>
+von ihr verfaßte und der <rs type="inst">Kabinettskanzlei</rs> unterbreitete »<rs type="title"><seg type="spc">Kampflied</seg></rs>«<lb/>
+übermittelt.<lb/>
+</p>
+            <p ana="pr97392">
+<space/>Herr <rs type="pers" ana="n_64839" ref="#fk__p_38086">Alfred <seg type="spc">Pollak</seg></rs> in Baden hat an den Generalobersten<lb/>
+<rs type="pers" ana="n_64840" ref="#fk__p_43714">Freiherrn Conrad <abbr>v.</abbr> Hötzendorf</rs> ein <seg type="spc">selbstverfaßtes</seg> Gedicht gesandt,<lb/>
+worauf er nach wenigen Tagen eine liebenswürdige Antwort erhielt, die<lb/>
+»den herzlichsten Dank für das schöne Gedicht« und die »<seg type="spc">besten<lb/>
+Grüße</seg>« brachte.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_43714">
+               <persName>Conrad-Hötzendorf, Franz Graf </persName>
+               <birth>
+                  <date>1852-11-11</date>
+                  <place>Penzing bei Wien</place>
+               </birth>
+               <death>
+                  <date>1925-8-25</date>
+                  <place>Bad Mergentheim</place>
+               </death>
+               <occupation>Offizier</occupation>
+               <note type="comment">seit 1906 Chef des Generalstabs</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_14266</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11102</idno></person>
+            <person xml:id="fk__p_38086">
+               <persName>Pollak, Alfred</persName>
+               <note type="comment">in Baden, hat an Frh. Conrad v. Hötzendorf ein Gedicht gesandt</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/22718</idno></person>
+            <person xml:id="fk__p_38054">
+               <persName>Deutsch-German, Alfred Ludwig</persName>
+               <birth>
+                  <date>1870-9-27</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1943?</date>
+                  <place>Konzentrationslager Auschwitz</place>
+               </death>
+               <occupation>Journalist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/15356</idno></person>
+            </listPerson></back></text>
+</TEI>

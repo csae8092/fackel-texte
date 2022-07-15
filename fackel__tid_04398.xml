@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_04398.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04397.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04399.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Österreicher. (Ein Nachruf für Hartel), in: Fackel Heft 08, Nr. 219, 1907, S. 35-36</title>
+            <title type="iso-date">1907-02-22</title>
+            <title type="id">tid_04398</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">08</title><title type="heft">219</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-08-219_n0035.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/219,035</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Österreicher. (Ein Nachruf für Hartel)</head>
+            <p ana="pr48041">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="name_202704" ref="#fk__p_50912">Österreicher</rs>.</seg></seg></seg> Am allerwenigsten hätte man erwartet, <seg type="insult">in der ‚<rs type="magazine" ana="werk_15249">Österreichischen<lb/>
+ Rundschau</rs>‘, also vor einem Forum von Lesern</seg>, die so lange<lb/>
+<seg type="insult">Treu und Redlichkeit</seg> üben, bis sie im Grazer Stadtpark die Vögel füttern<lb/>
+dürfen, ein entschiedenes Wort über den toten <rs type="pers" ana="n_38777" ref="#fk__p_55511"><seg type="spc">Hartel</seg></rs> zu finden. Ein Wort,<lb/>
+das <seg type="insult">aller falschen Pietät</seg> zum Trotz die Wahrheit über den Mann sagt,<lb/>
+dem ein beschauliches Dasitzen zwischen <seg type="insult">den österreichischen Parteistühlen<lb/>
+</seg> die allgemeine Anerkennung errungen hat. In einer kurzen<lb/>
+</p>
+            <p ana="pr48041">
+Notiz heißt es dort wörtlich: »Heute sei nur des liebenswürdigen<lb/>
+Menschen gedacht, der neben einem glänzenden Verstand ein warm<lb/>
+fühlendes Herz besaß und <seg type="spc">der sich jeden</seg>, <seg type="spc">der mit ihm zusammentraf<lb/>
+</seg>, <seg type="spc">zum Freunde zu gewinnen suchte</seg>«. Jetzt<lb/>
+weiß man nicht: wollte der Verfasser vielleicht doch sagen, <seg type="insult">Herr <rs type="pers" ana="n_38778" ref="#fk__p_55511">von<lb/>
+Hartel</rs></seg> habe sich jeden, der mit ihm zusammentraf, zum Freunde zu<lb/>
+gewinnen <seg type="spc">gewußt</seg>? (Was freilich auch nicht immer ein Wertmesser<lb/>
+sein muß.) Oder hält er es wirklich für eine rühmenswerte Eigenschaft<lb/>
+, wenn man sich jeden, der mit einem zusammentrifft, zum<lb/>
+Freunde zu gewinnen <seg type="spc">sucht</seg>? Oder hatte er die Absicht, auf unmerkliche<lb/>
+ Art eine die ganze menschliche Größe des Gefeierten vernichtende<lb/>
+<seg type="insult">Bosheit</seg> anzubringen? So oder so, das Verdienst, die Wahrheit über<lb/>
+einen klerikal-liberalen österreichischen Minister gesagt zu haben, gebührt<lb/>
+<seg type="insult">jener von Herrn <rs type="pers" ana="n_38779" ref="#fk__p_41086"><abbr>Dr.</abbr> Glossy</rs> redigierten <rs type="magazineRef" ana="werk_15250">Revue</rs></seg>, die seit ihrer Geburt im<lb/>
+Sterben liegt und die mit jeder <rs type="magazineRef" ana="werk_41223">Nummer</rs> die <seg type="insult">Unverwüstlichkeit</seg><lb/>
+beweist, die der <seg type="insult">Marasmus</seg> einem jungen Unternehmen sichert.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_41086">
+               <persName>Glossy, Karl</persName>
+               <birth>
+                  <date>1848-3-7</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1937-9-9</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Bibliothekar</occupation>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Literarhistoriker</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11447</idno></person>
+            <person xml:id="fk__p_55511">
+               <persName>Hartel, Wilhelm Ritter von</persName>
+               <birth>
+                  <date>1839-05-28</date>
+                  <place>Hof/Mähren</place>
+               </birth>
+               <death>
+                  <date>1907-01-14</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Altphilologe</occupation>
+               <occupation>Politiker</occupation>
+               <note type="comment">Friedhof Penzing (=Kontrahentenfriedhof) Tel. 985 64 07</note>
+               <note type="comment">Unterrichtsminister 1900-05</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15937</idno></person>
+            <person xml:id="fk__p_50912">
+               <persName>Österreicher</persName>
+            </person>
+            </listPerson></back></text>
+</TEI>

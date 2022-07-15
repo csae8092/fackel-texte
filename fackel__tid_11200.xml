@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_11200.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11199.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11201.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Unruhen in Wien, in: Fackel Heft 31, Nr. 820, 1929, S. 53-54</title>
+            <title type="iso-date">1929-10-01</title>
+            <title type="id">tid_11200</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">31</title><title type="heft">820</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-31-820_n0053.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/820,053</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Unruhen in Wien</head>
+            <p ana="pr162261">
+<space/><seg type="sidehead"><rs type="pers" ana="n2_8666" ref="#fk__p_59604"><AUCTOR notation="symbol">+</AUCTOR></rs></seg> <seg type="spc">Wilde Szenen im <rs type="inst">Ungarischen Weinhaus</rs> in<lb/>
+der Spiegelgasse</seg>. Die <rs type="inst">Zigeunerkapelle <rs type="pers" ana="n2_8667" key="#fk__p_57535">Bambo Jenö</rs></rs>, die von<lb/>
+ihrem achtwöchigen Gastspiel in Baden, wo sie allabendlich stürmisch<lb/>
+akklamiert wurde und am Abschiedsabend mit einem Blumenregen<lb/>
+bejubelt und geehrt wurde, <seg type="spc">sollte</seg> am Mittwoch mit ihrer diesjährigen<lb/>
+ Saisonpremiere im <rs type="inst">Ungarischen Weinhaus</rs> wieder beginnen.<lb/>
+</p>
+            <p ana="pr162263">
+Doch kam es dazu? Ja Schnecken!<lb/>
+</p>
+            <p ana="pr162265">
+Um 8 Uhr abends füllte sich das Lokal mit einer <seg type="spc">derart großen<lb/>
+Menschenmenge</seg>, die unbedingt das Wiederauftreten der berühmten<lb/>
+Zigeunerkapelle <seg type="spc">miterleben</seg> wollte, daß es Mühe kostete, <seg type="spc">dem<lb/>
+Menschenstrom Herr</seg> zu werden.<lb/>
+</p>
+            <p ana="pr162267">
+Aber wir leben schließlich in einem <seg type="insult">Ordnungsstaat</seg>. Leicht freilich<lb/>
+war es nicht.<lb/>
+</p>
+            <p ana="pr162269">
+Erst um 9 Uhr abends gelang es soweit <seg type="spc">Ruhe und Ordnung</seg><lb/>
+herzustellen, <seg type="spc">damit</seg> die Kapelle beginnen konnte. <seg type="spc">Unter den<lb/>
+ernsten feierlichen Klängen</seg> der <rs type="title">II. Rhapsodie</rs> von <seg type="spc"><rs type="pers" ana="n_97310" ref="#fk__p_43534">Liszt</rs><lb/>
+sprang alles von den Sitzen</seg> und brachte stürmische Ovationen<lb/>
+durch Eljenrufe auf die herrliche Zigeunerkapelle <seg type="spc">und den Besitzer<lb/>
+des Restaurants</seg>, Herrn <rs type="pers" ana="n_97311" ref="#fk__p_37896">Aladar Pataky</rs>, aus.<lb/>
+</p>
+            <p ana="pr162271">
+<foreign xml:lang="">Last, not <rs type="pers" ana="n_97312" ref="#fk__p_43534"><SPAN norm="least">liszt</SPAN></rs>.</foreign><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_43534">
+               <persName>Liszt, Franz von</persName>
+               <birth>
+                  <date>1811-10-22</date>
+                  <place>Raiding</place>
+               </birth>
+               <death>
+                  <date>1886-7-31</date>
+                  <place>Bayreuth</place>
+               </death>
+               <occupation>Pianist</occupation>
+               <occupation>Komponist</occupation>
+               <note type="comment">1859 geadelt</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17593</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/8679</idno></person>
+            <person xml:id="fk__p_59604">
+               <persName>mm</persName>
+               <note type="comment"/>
+            </person>
+            <person xml:id="fk__p_37896">
+               <persName>Pataky, Aladár</persName>
+               <birth>
+                  <date>1872-9-9</date>
+                  <place>Nagy Kanizsa/Ungarn</place>
+               </birth>
+               <death>
+                  <date>1952-9-1</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Restaurantbesitzer</occupation>
+               <note type="comment">Lokal 1., Speiegelgasse 10; Whg.: 1., Postgasse 14</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

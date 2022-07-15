@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_11609.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11608.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11610.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Der Empfang, in: Fackel Heft 32, Nr. 847, 1931, S. 22-22</title>
+            <title type="iso-date">1931-03-01</title>
+            <title type="id">tid_11609</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">32</title><title type="heft">847</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-32-847_n0022.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/847,022</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Der Empfang</head>
+            <p ana="pr168658">
+<space/>Mit dem gleichen Zuge, wie Reichsaußenminister <rs type="pers" ana="n_100902" ref="#fk__p_40177"><seg type="spc">Curtius</seg></rs>, kam<lb/>
+heute morgens <rs type="pers" ana="n_100903" ref="#fk__p_37996">Alexander <seg type="spc">Moissi</seg></rs> in Wien an<seg type="symbol" subtype="2dots"/> Er will wissen, warum<lb/>
+so viele Polizisten am Bahnsteig stehen, warum man die Straßen<lb/>
+nicht passieren kann <seg type="symbol" subtype="2dots"/> warum ihn seine Frau nicht abgeholt hat<lb/>
+und warum die Träger sein Gepäck nicht bringen.<lb/>
+</p>
+            <p ana="pr168660">
+<space/>Warum die Frau nicht kam, weiß ich nicht, Träger<lb/>
+kommen selten, Polizisten und großer Andrang erklären sich aus<lb/>
+der Absicht, <rs type="pers" ana="n_100904" ref="#fk__p_37996">Moissi</rs> für den stürmischen Empfang des <rs type="pers" ana="n_100905" ref="#fk__p_42624">Jannings</rs><lb/>
+durch Ovationen für <rs type="pers" ana="n_100906" ref="#fk__p_40177">Curtius</rs> zu entschädigen.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_42624">
+               <persName>Jannings, Emil</persName>
+               <birth>
+                  <date>1884-7-23</date>
+                  <place>Rorschach am Bodensee</place>
+               </birth>
+               <death>
+                  <date>1950-1-2</date>
+                  <place>Strobl am Wolfgangsee</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11816</idno></person>
+            <person xml:id="fk__p_40177">
+               <persName>Curtius, Julius</persName>
+               <birth>
+                  <date>1877-02-07</date>
+                  <place>Duisburg</place>
+               </birth>
+               <death>
+                  <date>1948-11-10</date>
+                  <place>Heidelberg</place>
+               </death>
+               <occupation>Politiker</occupation>
+            </person>
+            <person xml:id="fk__p_37996">
+               <persName>Moissi, Alexander</persName>
+               <birth>
+                  <date>1879-4-2</date>
+                  <place>Triest</place>
+               </birth>
+               <death>
+                  <date>1935-3-22</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <note type="comment">Mutter Amélie M., geb. Radio von Radiis, gest. Mödling 13.02.1929, im 87. Lj.</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12274</idno></person>
+            </listPerson></back></text>
+</TEI>

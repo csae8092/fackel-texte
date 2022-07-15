@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_09533.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09532.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09534.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Bahr am Sonntag, in: Fackel Heft 25, Nr. 622, 1923, S. 197-198</title>
+            <title type="iso-date">1923-06-01</title>
+            <title type="id">tid_09533</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">25</title><title type="heft">622</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-25-622_n0197.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/622,197</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Bahr am Sonntag</head>
+            <lg>
+<l><seg type="insult">Unter Larven die einzig fühlende Brust</seg>,</l>
+<l>steht er mitten in <seg type="insult">irdischer Hatz</seg></l>
+<l>und fällt, <seg type="insult">dieses Treibens</seg> unbewußt,</l>
+<l>direkt aus dem <seg type="insult">Rahmen des <rs type="paperRef" ana="werk_25301">Blatts</rs></seg>.</l>
+</lg>
+            <lg>
+<l><seg type="insult">Intimes, Klatsch und Theaterspott</seg></l>
+<l><seg type="insult">und Sport und Welt und Skandal</seg>,</l>
+<l><seg type="insult">Gespräche mit <rs type="pers" ana="n_78548" ref="#fk__p_48758">Slezak</rs> und mit Gott</seg></l>
+<l>für das <rs type="paper" ana="werk_25302">Neue Wiener Journal</rs>.</l>
+</lg>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_48758">
+               <persName>Slezak, Leo</persName>
+               <birth>
+                  <date>1873-8-18</date>
+                  <place>Mährisch-Schönberg</place>
+               </birth>
+               <death>
+                  <date>1946-6-1</date>
+                  <place>Rottach-Egern</place>
+               </death>
+               <occupation>Sänger</occupation>
+               <occupation>Schauspieler</occupation>
+               <note type="comment">Tenor</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12800</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07289.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07288.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07290.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Menschliches Allzumenschliches, in: Fackel Heft 18, Nr. 431, 1916, S. 37-38</title>
+            <title type="iso-date">1916-08-01</title>
+            <title type="id">tid_07289</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">18</title><title type="heft">431</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-18-431_n0037.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/431,037</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Menschliches Allzumenschliches</head>
+            <p ana="pr98563">
+<space/>— <rs type="pers" ana="n_65262" ref="#fk__p_56146">Prinzessin <seg type="spc">Gisela</seg> von <seg type="spc">Bayern</seg></rs>, hat der Frau <rs type="pers" ana="n_65263" ref="#fk__p_41836"><abbr>Dr.</abbr> Sophie<lb/>
+<seg type="spc">Großmann</seg></rs> für ein Glückwunschtelegramm zum 60. Geburtstage durch<lb/>
+die Kammervorstehung folgendes Telegramm zugehen lassen: Ihre kaiserliche<lb/>
+ Hoheit Frau <rs type="pers" ana="n_65264" ref="#fk__p_56146">Prinzessin Gisela</rs> lassen Ihnen für Ihre so warmen<lb/>
+Glückwünsche herzlich danken. <rs type="pers" ana="n_65265" ref="#fk__p_51349"><seg type="spc">Perfall</seg></rs>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_51349">
+               <persName>Perfall, Franz Xaver Ferdinand Freiherr von</persName>
+               <birth>
+                  <date>1879-7-11</date>
+                  <place>Greifenberg</place>
+               </birth>
+               <death>
+                  <date>1966</date>
+               </death>
+               <occupation>Kämmerer</occupation>
+            </person>
+            <person xml:id="fk__p_56146">
+               <persName>Gisela Luise Marie, Prinzessin von Bayern, geb. Erzherzogin von Österreich</persName>
+               <birth>
+                  <date>1856-7-12</date>
+                  <place>Laxenburg</place>
+               </birth>
+               <death>
+                  <date>1932-7-27</date>
+                  <place>München</place>
+               </death>
+               <note type="comment">seit 20.04.1873 verh. mit Leopold von Bayern (1846-1930)</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15448</idno></person>
+            <person xml:id="fk__p_41836">
+               <persName>Großmann, Sophie</persName>
+               <birth>
+                  <date>1854-5-16</date>
+                  <place>Brüx/Böhmen</place>
+               </birth>
+               <death>
+                  <date>1933-2-14</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schriftstellerin</occupation>
+               <note type="comment">2., Waschhausgasse 1b</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

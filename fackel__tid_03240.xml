@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03240.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03239.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03241.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Reisender. (Beim Großvezier), in: Fackel Heft 05, Nr. 142, 1903, S. 23-23</title>
+            <title type="iso-date">1903-07-3</title>
+            <title type="id">tid_03240</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">05</title><title type="heft">142</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-05-142_n0023.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/142,023</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Reisender. (Beim Großvezier)</head>
+            <p ana="pr31845">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="n_27479" ref="#fk__p_52104">Reisender</rs>.</seg></seg></seg> <seg type="insult">Herr <rs type="pers" ana="n_27480" ref="#fk__p_47268">Julius Löwy</rs></seg> ward von <abbr>Sr.</abbr> Hoheit dem Großvezier<lb/>
+ empfangen. Daß ihn der Großvezier fragte, wann er abreise,<lb/>
+wissen die Leser der ‚<rs type="self" ana="werk_11952">Fackel</rs>‘ bereits. Aber die türkische Hoheit hat<lb/>
+<seg type="insult">Herrn <rs type="pers" ana="n_27481" ref="#fk__p_47268">Löwy</rs></seg> auch einen Auftrag auf die Reise mitgegeben. <seg type="insult">Der Correspondent<lb/>
+ der ‚<rs type="paper" ana="werk_11953">Neuen Freien Presse</rs>‘</seg>, stolz auf <seg type="insult">seine vornehmen Verbindungen<lb/>
+</seg>, hatte dem Großvezier erzählt, er sei jüngst mit <seg type="insult">Herrn<lb/>
+<rs type="pers" ana="n_27482" key="#fk__p_53122"><seg type="spc">Schwimmer</seg></rs> aus Temesvar, »dem bekannten Pferdehändler«</seg>, zusammengetroffen<lb/>
+. Und <rs type="pers" ana="n_27483" ref="#fk__p_43237">Ferid Pascha</rs> — so versichert <seg type="insult">Herr <rs type="pers" ana="n_27484" ref="#fk__p_47268">Löwy</rs></seg> — antwortete:<lb/>
+»Ich höre, daß Herr <rs type="pers" ana="n_27485" key="#fk__p_53122">Schwimmer</rs> an Rheuma leidet. Grüßen Sie mir ihn!«<lb/>
+Natürlich ist das Geschichtchen wahr; aber natürlich wollte der türkische<lb/>
+Diplomat bloß einen <seg type="insult">lästigen Besucher</seg> dorthin schicken, wo der Paprika<lb/>
+wächst, nach Temesvar.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_52104">
+               <persName>Reisender</persName>
+            </person>
+            <person xml:id="fk__p_47268">
+               <persName>Löwy, Julius</persName>
+               <birth>
+                  <date>1851-09-14</date>
+                  <place>Eidlitz/Böhm.</place>
+               </birth>
+               <death>
+                  <date>1905-12-27</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/3300</idno></person>
+            <person xml:id="fk__p_43237">
+               <persName>Damat Ferid Pascha</persName>
+               <birth>
+                  <date>1853</date>
+                  <place>Istanbul</place>
+               </birth>
+               <death>
+                  <date>1923-10-6</date>
+                  <place>Nizza</place>
+               </death>
+               <occupation>Großvezir</occupation>
+               <note type="comment">10.3.1919 bis 4.10.1919, 5.4.1920 bis 18.10.1920</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

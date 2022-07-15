@@ -1,0 +1,106 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02968.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02967.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02969.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Gschaftlhuber. (Herr Alfred Kirchhoff aus Berlin), in: Fackel Heft 04, Nr. 131, 1903, S. 23-23</title>
+            <title type="iso-date">1903-03-4</title>
+            <title type="id">tid_02968</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">04</title><title type="heft">131</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-04-131_n0023.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/131,023</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Gschaftlhuber. (Herr Alfred Kirchhoff aus Berlin)</head>
+            <p ana="pr29317">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="n_25311" key="#fk__p_45137">Gschaftlhuber</rs>.</seg></seg></seg> <seg type="insult">Herr <rs type="pers" ana="n_25312" ref="#fk__p_38075">Alfred Kirchhoff</rs> aus Berlin</seg> fängt an, auf<lb/>
+die Nerven zu gehen. Dem Wiener Publicum ward er zuerst als <seg type="insult">Mittheiler<lb/>
+ der unedierten Ideen des Geschlechtsbestimmers <rs type="pers" ana="n_25313" ref="#fk__p_37608">Schenk</rs></seg> vorgestellt<lb/>
+. Dann stieg er <seg type="insult"><foreign xml:lang="la">ad astra</foreign></seg>, plauderte mit <seg type="insult">Herrn <rs type="pers" ana="n_25314" ref="#fk__p_55499">Wilhelm Exner</rs></seg>,<lb/>
+und neulich wurde uns sein Gespräch mit dem Handelsminister vermittelt<lb/>
+. <seg type="insult">Herr <rs type="pers" ana="n_25315" ref="#fk__p_54486"><abbr>v.</abbr> Call</rs></seg> braucht Reclame, und <seg type="insult">unsere großen liberalen<lb/>
+Blätter</seg> sind, wenn <rs type="pers" ana="n_25316" ref="#fk__p_60159">Giron</rs> sich von der <rs type="pers" ana="n_25317" ref="#fk__p_49205">Kronprinzessin Louise</rs> wendet,<lb/>
+auch für <seg type="insult">die ältesten geistigen Ladenhüter</seg> zu haben.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_49205">
+               <persName>Sachsen, Luise von, geb. Erzherzogin von Österreich-Toscana</persName>
+               <birth>
+                  <date>1870-9-2</date>
+                  <place>Salzburg</place>
+               </birth>
+               <death>
+                  <date>1947-3-23</date>
+                  <place>Brüssel</place>
+               </death>
+               <note type="comment">Gräfin Montignoso, starb als Blumenfrau</note>
+               <note type="comment">Affaire mit André Giron</note>
+               <note type="comment">Ögg irrt. statt 126/19: 126/29</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_19511</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/23855</idno></person>
+            <person xml:id="fk__p_54486">
+               <persName>Call zu Rosenburg und Kulmbach, Guido Freiherr von</persName>
+               <birth>
+                  <date>1849-09-06</date>
+                  <place>Triest</place>
+               </birth>
+               <death>
+                  <date>1927-05-12</date>
+                  <place>Graz</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <occupation>Diplomat</occupation>
+               <note type="comment">als Diplomat in Konstantinopel, Sofia, Tokio</note>
+               <note type="comment">Handelsminister 1900-1905</note>
+               <note type="comment">Botschafter in Japan</note>
+            </person>
+            <person xml:id="fk__p_37608">
+               <persName>Schenk, Samuel Leopold</persName>
+               <birth>
+                  <date>1840-08-23</date>
+                  <place>Ürmény/Ung.</place>
+               </birth>
+               <death>
+                  <date>1902-08-17</date>
+                  <place>Schwanberg/Steierm.</place>
+               </death>
+               <occupation>Gynäkologe</occupation>
+            </person>
+            <person xml:id="fk__p_38075">
+               <persName>Kirchhoff, Alfred</persName>
+               <occupation/>
+               <note type="comment">Ögg identifiziert mit dem Geographen an der Univ. Halle mit Daten 1838-1907</note>
+            </person>
+            <person xml:id="fk__p_60159">
+               <persName>Giron, André</persName>
+               <birth>
+                  <date>1879</date>
+                  <place>Gent</place>
+               </birth>
+               <occupation>Hauslehrer</occupation>
+               <note type="comment">Affaire mit der Prinzessin Luise von Toscana</note>
+               <note type="comment">Sohn eines belg. Capitäns im Geniecorps (NFP 11.01.1903, Seite 8)</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/17058</idno></person>
+            <person xml:id="fk__p_55499">
+               <persName>Exner, Wilhelm Franz</persName>
+               <birth>
+                  <date>1840-4-9</date>
+                  <place>Unter-Gänserndorf</place>
+               </birth>
+               <death>
+                  <date>1931-5-25</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Techniker</occupation>
+               <occupation>Politiker</occupation>
+               <note type="comment">1908 Gründer des Technischen Museums</note>
+               <note type="comment">Reichsratsabgeordneter 1882-97, Herrenhaus 1905-18</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/7044</idno></person>
+            </listPerson></back></text>
+</TEI>

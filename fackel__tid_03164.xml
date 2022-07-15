@@ -1,0 +1,39 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03164.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03163.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03165.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Culturactuelles, in: Fackel Heft 05, Nr. 139, 1903, S. 17-18</title>
+            <title type="iso-date">1903-05-30</title>
+            <title type="id">tid_03164</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">05</title><title type="heft">139</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-05-139_n0017.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/139,017</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Culturactuelles</head>
+            <p ana="pr31054">
+<space/><date>20. Mai</date>: Die ‚<rs type="paper" ana="werk_11683">Zeit</rs>‘ hat bereits den Trousseau der <rs type="pers" ana="n_26958" ref="#fk__p_42939">Erzherzogin<lb/>
+Maria Anna</rs> beschnüffelt. <RS persTitle="Schiller" title="Don Carlos">Wo alles liebt</RS> <seg type="symbol" subtype="3dots"/><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_42939">
+               <persName>Maria Anna, Erzherzogin </persName>
+               <birth>
+                  <date>1882-01-06</date>
+                  <place>Linz</place>
+               </birth>
+               <death>
+                  <date>1940-02-25</date>
+                  <place>Lausanne</place>
+               </death>
+            </person>
+            </listPerson></back></text>
+</TEI>

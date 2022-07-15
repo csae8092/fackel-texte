@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_10514.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10513.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10515.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Schon damals!, in: Fackel Heft 28, Nr. 726, 1926, S. 57-58</title>
+            <title type="iso-date">1926-06-01</title>
+            <title type="id">tid_10514</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">28</title><title type="heft">726</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-28-726_n0057.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/726,057</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Schon damals!</head>
+            <p ana="pr146031">
+<space/>Aus der deutschen Musikzeitschrift <seg ana="‚Die Musik‘"/>:<lb/>
+</p>
+            <p ana="pr146033">
+<space/>Seitdem <rs type="pers" ana="n_88184" ref="#fk__p_49615">Marchettus von Padua</rs> um <date>1300</date> die Einführung<lb/>
+chromatischer Töne gelehrt und durchgeführt hatte und die Chromatik<lb/>
+von Komponisten des <DATERANGE>16. Jahrhunderts</DATERANGE>, wie beispielsweise <rs type="pers" ana="n_88185" ref="#fk__p_39993">Cipriano<lb/>
+de Rore</rs>, künstlerisch <seg type="spc">vertieft und ausgebaut</seg> war, gerieten die<lb/>
+<seg type="spc">Kirchentöne stark ins Hintertreffen</seg> <seg type="symbol" subtype="4dots"/><lb/>
+</p>
+            <p ana="pr146035">
+Das änderte sich erst wieder, als man Kanonen aus Kirchenglocken<lb/>
+ machte.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_49615">
+               <persName>Marchettus von Padua</persName>
+               <birth>
+                  <date>1274?</date>
+               </birth>
+               <death>
+                  <date>1305/19</date>
+               </death>
+               <occupation>Musiktheoretiker</occupation>
+               <occupation>Komponist</occupation>
+            </person>
+            <person xml:id="fk__p_39993">
+               <persName>Rore, Cipriano de</persName>
+               <birth>
+                  <date>1516</date>
+                  <place>Antwerpen</place>
+               </birth>
+               <death>
+                  <date>1565-9</date>
+                  <place>Parma</place>
+               </death>
+               <occupation>Musiker</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00395.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00394.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00396.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Goethe-Tage), in: Fackel Heft 01, Nr. 016, 1899, S. 20-21</title>
+            <title type="iso-date">1899-09-01</title>
+            <title type="id">tid_00395</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">016</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-016_n0020.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/016,020</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Goethe-Tage)</head>
+            <p ana="pr3639">
+<space/><inciptit>Die</inciptit> <rs type="pers" ana="n_2553" ref="#fk__p_46960">Goethe-Tage</rs> haben mit einem Schlage <seg type="insult">das ganze Pressgewürm<lb/>
+</seg> hervorgelockt, das die Oeffentlichkeit unsicher macht. Weil<lb/>
+<rs type="pers" ana="n_2554" ref="#fk__p_46960">Goethe</rs> so hoch stand, dass ihn jeder auch von dem beschränktesten<lb/>
+Gesichtsfelde aus sehen muss, reclamieren sie ihn ganz für sich,<lb/>
+und glaubte man <seg type="insult">ihrem geschäftigen Sinn</seg>, mit dem sie seine Werke<lb/>
+</p>
+            <p ana="pr3639">
+durchwühlen, so hätte der Dichter besser gethan, nichts zu veröffentlichen<lb/>
+, als sich durch unbedachte Aeußerungen in den Ruf<lb/>
+eines <seg type="insult">Nationalliberalen</seg> oder <seg type="insult">Deutschfortschrittlichen</seg> <abbr>etc.</abbr> zu bringen.<lb/>
+»Wenn <rs type="pers" ana="n_2555" ref="#fk__p_46960">Goethe</rs> noch lebte« — <seg type="insult">welch tiefsinnige Perspective</seg>! Er würde<lb/>
+in Deutschland für die Canalvorlage stimmen, in Frankreich für<lb/>
+<rs type="pers" ana="n_2556" ref="#fk__p_38056">Dreyfus</rs> sein, in Oesterreich — ländlich, sittlich — für den Gründergewinn<lb/>
+ der <rs type="inst">Creditanstalt</rs>, für die Obstruction und schließlich (nach<lb/>
+der ‚<rs type="paper" ana="werk_949">Neuen Freien Presse</rs>‘) für das Wekelsdorfer Bezirksgericht eintreten<lb/>
+ <seg type="symbol" subtype="4dots"/><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46960">
+               <persName>Goethe, Johann Wolfgang von</persName>
+               <birth>
+                  <date>1749-8-28</date>
+                  <place>Frankfurt am Main</place>
+               </birth>
+               <death>
+                  <date>1832-3-22</date>
+                  <place>Weimar</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">890/142f.</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11461</idno></person>
+            <person xml:id="fk__p_38056">
+               <persName>Dreyfus, Alfred</persName>
+               <birth>
+                  <date>1859-10-9</date>
+                  <place>Mühlhausen</place>
+               </birth>
+               <death>
+                  <date>1935-7-12</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Offizier</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/4216</idno></person>
+            </listPerson></back></text>
+</TEI>

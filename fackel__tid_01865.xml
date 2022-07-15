@@ -1,0 +1,100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01865.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01864.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01866.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Demonstration und Bubenstück), in: Fackel Heft 03, Nr. 078, 1901, S. 25-26</title>
+            <title type="iso-date">1901-05-01</title>
+            <title type="id">tid_01865</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">03</title><title type="heft">078</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-03-078_n0025.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/078,025</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Demonstration und Bubenstück)</head>
+            <p ana="pr18286">
+<space/>Die <seg ana="‚Sonn- und Montags-Zeitung‘ vom 27. Mai d. J."/> bringt<lb/>
+auf Seite 5 die nachstehenden Telegramme:<lb/>
+</p>
+            <p ana="pr18289">
+<space/><seg type="insult"><seg type="spc">Ein antisemitisches Bubenstück<lb/>
+ in Havre</seg>.</seg> Paris,<lb/>
+<date>26. Mai</date>. Ministerpräsident<lb/>
+<rs type="pers" ana="n_15425" ref="#fk__p_55187">Waldeck-Rousseau</rs> ist heute<lb/>
+Abends in Havre eingetroffen.<lb/>
+In dem Augenblicke, als er ans<lb/>
+Land stieg, warf <seg type="insult">ein etwa<lb/>
+<SPAN norm="zwanzigjähriges">2<seg type="spc">0jähriges</seg></SPAN><seg type="spc"> Individuum</seg></seg><seg type="spc"> eine<lb/>
+Orange nach dem Ministerpräsidenten<lb/>
+</seg>, <seg type="spc">ohne ihn zu<lb/>
+treffen</seg>. Der Thäter, ein Bäckergehilfe<lb/>
+ namens <rs type="pers" ana="n_15426" ref="#fk__p_42788">Ernest Parfait</rs>,<lb/>
+welcher der <seg type="spc">nationalistischen<lb/>
+Partei angehört</seg>, wurde <seg type="spc">verhaftet<lb/>
+</seg>.<lb/>
+</p>
+            <p ana="pr18292">
+<space/><seg type="insult"><seg type="spc">Anticlericale Demonstrationen<lb/>
+ in Spanien</seg>.</seg> Barcelona,<lb/>
+<date>26. Mai</date>. Eine Gruppe junger<lb/>
+Leute bewarf mehrere Mönche<lb/>
+mit Steinen, wobei ein Mönch<lb/>
+am Kopf verwundet wurde. Die<lb/>
+Angegriffenen flüchteten sich auf<lb/>
+die Schiffe. <seg type="spc">Die Polizei zerstreute<lb/>
+ die Angreifer</seg>.<lb/>
+</p>
+            <p ana="pr18294">
+<space/>Im ersten Falle hat ein <seg type="insult">»Individuum«</seg> eine <seg type="spc">Orange</seg> auf den<lb/>
+<seg type="spc">liberalen Ministerpräsidenten</seg> geworfen, ohne ihn zu treffen.<lb/>
+Dies wird mit Recht als <seg type="insult"><seg type="spc">Bubenstück</seg></seg> bezeichnet; die Rolle, die<lb/>
+der Antisemitismus dabei gespielt haben soll, ist allerdings höchst<lb/>
+unklar. — Im zweiten Falle wurden <seg type="spc">spanische Mönche</seg> von<lb/>
+<seg type="insult">mehreren »jungen Leuten«</seg> mit <seg type="spc">Steinen</seg> beworfen, wobei ein Mönch<lb/>
+am Kopf verwundet wurde. <seg type="insult">Diese Gemeinheit</seg>, an der im Vergleiche<lb/>
+ mit jener noch die <seg type="insult">besondere Feigheit</seg> auffällt —<lb/>
+denn Herr <rs type="pers" ana="n_15427" ref="#fk__p_55187">Waldeck-Rousseau</rs> befand sich jedenfalls unter dem<lb/>
+Schutz von Polizei, während die Mönche sich nur durch die Flucht<lb/>
+dem Angriffe einer offenbar an Zahl überlegenen Schar entziehen<lb/>
+konnten —, ist natürlich bloß eine <seg type="insult">»<seg type="spc">Demonstration</seg>«</seg>.<lb/>
+</p>
+            <p ana="pr18295">
+<space/>Da mir die Unterscheidung zwischen den Worten <seg type="insult">»Bubenstück<lb/>
+«</seg> und <seg type="insult">»Demonstration«</seg> nicht vollkommen klar ist, erlaube ich<lb/>
+mir die höfliche Anfrage zu stellen:<lb/>
+</p>
+            <p ana="pr18296">
+<space/>Ist das wöchentliche Erscheinen der ‚<rs type="magazine" ana="werk_5870"><seg type="ELIDASH">Sonntags-Zeitung</seg> und Montags-Zeitung<lb/>
+</rs>‘ bloß <seg type="insult">eine »anticlericale Demonstration«</seg> oder <seg type="insult">»ein semitisches<lb/>
+Bubenstück«</seg>?<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_55187">
+               <persName>Waldeck-Rousseau, Pierre Marie Ernest</persName>
+               <birth>
+                  <date>1846-12-02</date>
+                  <place>Nantes</place>
+               </birth>
+               <death>
+                  <date>1904-08-10</date>
+                  <place>Corbeil</place>
+               </death>
+               <occupation>Politiker</occupation>
+            </person>
+            <person xml:id="fk__p_42788">
+               <persName>Parfait, Ernest</persName>
+               <birth>
+                  <date>1881?</date>
+               </birth>
+               <occupation>Bäckergehilfe</occupation>
+               <occupation>Attentäter</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

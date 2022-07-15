@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03463.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03462.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03464.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Musiker. (Herrn v. Perger’s Neujahrswunsch), in: Fackel Heft 05, Nr. 153, 1904, S. 24-24</title>
+            <title type="iso-date">1904-01-27</title>
+            <title type="id">tid_03463</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">05</title><title type="heft">153</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-05-153_n0024.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/153,024</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Musiker. (Herrn v. Perger’s Neujahrswunsch)</head>
+            <p ana="pr34346">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_29578" ref="#fk__p_50471">Musiker</rs>.</seg></seg> Ein <rs type="perRef" ana="werk_12760">Berliner Blatt</rs> veranstaltete eine Rundfrage: was <seg type="insult">die<lb/>
+»führenden Geister«</seg> sich vom Jahre <date>1904</date> erhoffen und erwünschen. <seg type="insult">Herr<lb/>
+<rs type="pers" ana="n_29579" ref="#fk__p_52207">Richard von <seg type="spc">Perger</seg></rs></seg> sprach den Wunsch nach <seg type="insult">»<seg type="spc">Verbesserung der<lb/>
+Wiener Musikzustände</seg>«</seg> aus <seg type="symbol" subtype="3dots"/> Die Erfüllung scheint nicht so<lb/>
+fern zu sein. »Wie verlautet«, melden die Blätter, »soll sich mit Ende<lb/>
+dieser Saison in der Leitung des <rs type="inst">Wiener Konservatoriums</rs> eine Veränderung<lb/>
+ vollziehen. Direktor <rs type="pers" ana="n_29580" ref="#fk__p_52207">Richard <abbr>v.</abbr> Perger</rs> dürfte aus dem Amte<lb/>
+scheiden und Professor <rs type="pers" ana="n_29581" ref="#fk__p_52178">Heuberger</rs> sein Nachfolger werden.«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_52178">
+               <persName>Heuberger, Richard</persName>
+               <birth>
+                  <date>1850-6-18</date>
+                  <place>Graz</place>
+               </birth>
+               <death>
+                  <date>1914-10-28</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Komponist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11684</idno></person>
+            <person xml:id="fk__p_52207">
+               <persName>Perger, Richard von</persName>
+               <birth>
+                  <date>1854-01-10</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1911-01-11</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Dirigent</occupation>
+               <occupation>Komponist</occupation>
+               <note type="comment">Urgroßenkel von Franz von Miklosich, also verwandt mit Moritz von M. und Dora Bea von M.</note>
+            </person>
+            <person xml:id="fk__p_50471">
+               <persName>Musiker</persName>
+            </person>
+            </listPerson></back></text>
+</TEI>

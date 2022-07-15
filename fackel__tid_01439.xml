@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01439.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01438.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01440.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Getreidehändler. (Getreidehändler), in: Fackel Heft 02, Nr. 060, 1900, S. 28-28</title>
+            <title type="iso-date">1900-11-01</title>
+            <title type="id">tid_01439</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">060</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-060_n0028.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/060,028</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Getreidehändler. (Getreidehändler)</head>
+            <p ana="pr13626">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_11441" key="#fk__p_44402">Getreidehändler</rs>.</seg></seg> Gewiss, das war ein Irrthum. Herr <rs type="pers" ana="n_11442" ref="#fk__p_52476">Rosenbach</rs>, der<lb/>
+in die Enquête berufen wurde, ist bald darauf gestorben. Das brauchte<lb/>
+ich nicht zu wissen. Aber zum Glück bewies das Erscheinen <seg type="insult">des<lb/>
+Herrn <rs type="pers" ana="n_11443" ref="#fk__p_47742">Kauders</rs></seg>, dass die <seg type="insult">Terminspieler</seg> nicht ausgestorben sind.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_52476">
+               <persName>Rosenbach, Gustav</persName>
+               <occupation>Börsenmakler</occupation>
+               <note type="comment">Terminhändler 1900; 8., Kochgasse 8; MA 8 nicht eruiert</note>
+            </person>
+            <person xml:id="fk__p_47742">
+               <persName>Kauders, Albert</persName>
+               <birth>
+                  <date>1854-1-20</date>
+                  <place>Prag</place>
+               </birth>
+               <death>
+                  <date>1912-4-27</date>
+                  <place>Tulln</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Komponist</occupation>
+               <note type="comment">Musikkritiker Wr. Allg. Ztg.</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/8133</idno></person>
+            </listPerson></back></text>
+</TEI>

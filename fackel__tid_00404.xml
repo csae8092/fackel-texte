@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00404.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00403.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00405.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Em. Sch., in: Fackel Heft 01, Nr. 016, 1899, S. 27-27</title>
+            <title type="iso-date">1899-09-01</title>
+            <title type="id">tid_00404</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">016</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-016_n0027.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/016,027</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Em. Sch.</head>
+            <p ana="pr3698">
+<space/><seg type="sidehead"><rs type="pers" ana="n_2614" ref="#fk__p_42580"><seg type="i"><abbr>Em. Sch.</abbr></seg></rs></seg> Nicht mit Unrecht heben Sie <seg type="insult">die treffliche Vermittlerrolle<lb/>
+</seg> hervor, die <seg type="insult">der jüdisch-deutsche Jargon</seg> in der ‚<rs type="paper" ana="werk_962">Neuen Freien<lb/>
+Presse</rs>‘ zwischen <seg type="insult">der deutsch-radicalen Gesinnung der Herren <rs type="pers" ana="n_2615" ref="#fk__p_50373">Benedikt</rs><lb/>
+und <rs type="pers" ana="n_2616" ref="#fk__p_38657">Bacher</rs> ober und der jüdisch-nationalen der Herren <rs type="pers" ana="n_2617" ref="#fk__p_41891">Herzl</rs> und<lb/>
+<rs type="pers" ana="n_2618" ref="#fk__p_49957">Nordau</rs> unter dem Strich</seg> spielt.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_42580">
+               <persName>Sch., Em.</persName>
+            </person>
+            <person xml:id="fk__p_41891">
+               <persName>Herzl, Theodor</persName>
+               <birth>
+                  <date>1860-5-2</date>
+                  <place>Pest</place>
+               </birth>
+               <death>
+                  <date>1904-7-3</date>
+                  <place>Edlach, Niederösterreich</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11673</idno></person>
+            <person xml:id="fk__p_50373">
+               <persName>Benedikt, Moriz</persName>
+               <birth>
+                  <date>1849-5-27</date>
+                  <place>Kwatschitz/Mähren</place>
+               </birth>
+               <death>
+                  <date>1920-3-18</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <note type="comment">Geburtsort Kwatschitz bei Ungarisch Hradisch/Mähren, nicht Kwassitz bei Kremsier</note>
+               <note type="comment">1. Tor, 20/1/1a</note>
+               <note type="comment">Hrsg. der NFP (seit 1908 alleiniger Leiter)</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10875</idno></person>
+            <person xml:id="fk__p_49957">
+               <persName>Nordau, Max Simon</persName>
+               <birth>
+                  <date>1849-7-29</date>
+                  <place>Pest</place>
+               </birth>
+               <death>
+                  <date>1923-1-22</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Arzt</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_18472</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12365</idno></person>
+            <person xml:id="fk__p_38657">
+               <persName>Bacher, Eduard</persName>
+               <birth>
+                  <date>1846-03-07</date>
+                  <place>Postelberg/Böhmen</place>
+               </birth>
+               <death>
+                  <date>1908-01-16</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <note type="comment">Ögg: 177/8 als indirekt gekennzeichnet</note>
+               <note type="comment">Daten stimmen mit Grabstein überein</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10809</idno></person>
+            </listPerson></back></text>
+</TEI>

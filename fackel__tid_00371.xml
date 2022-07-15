@@ -1,0 +1,42 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00371.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00370.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00372.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Traum des Schmocks), in: Fackel Heft 01, Nr. 015, 1899, S. 30-30</title>
+            <title type="iso-date">1899-08-01</title>
+            <title type="id">tid_00371</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">015</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-015_n0030.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/015,030</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Traum des Schmocks)</head>
+            <p ana="pr3426">
+<space/><seg type="sidehead"><seg type="insult"><seg type="spc"><inciptit>Traum</inciptit> des Schmocks</seg></seg>:</seg> Das in Rennes verlesene Attest, in<lb/>
+welchem zwei Aerzte bestätigen, dass <rs type="pers" ana="n_2464" ref="#fk__p_42123">Du Paty de Clam</rs> nicht transportabel<lb/>
+ sei, ist — — — eine Fälschung.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_42123">
+               <persName>Mercier du Paty de Clam, Armand Auguste Charles Ferdinand</persName>
+               <birth>
+                  <date>1853-2-21</date>
+                  <place>Paris</place>
+               </birth>
+               <death>
+                  <date>1916-9-3</date>
+                  <place>Versailles</place>
+               </death>
+               <occupation>Offizier</occupation>
+               <occupation>Graphologe</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

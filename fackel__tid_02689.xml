@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02689.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02688.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02690.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Eine Agnoscierung, in: Fackel Heft 04, Nr. 117, 1902, S. 26-26</title>
+            <title type="iso-date">1902-10-7</title>
+            <title type="id">tid_02689</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">04</title><title type="heft">117</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-04-117_n0026.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/117,026</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Eine Agnoscierung</head>
+            <p ana="pr26253">
+<space/><inciptit>Zu</inciptit> der Agnoscierung der Leiche des Defraudanten <rs type="pers" ana="n_22637" ref="#fk__p_42293">Jellinek</rs><lb/>
+hat jedes Wiener Blatt einen Reporter nach Altenwörth entsendet,<lb/>
+und jeder berichtete <seg type="insult">je nach dem Standpunkt und Sensationsdrang<lb/>
+seines Journals</seg> über <seg type="insult">das Ereignis »jenes düsteren Sonntags«</seg>. Aber<lb/>
+neben der <seg type="insult">Aufdringlichkeit colportagehafter Stimmungsschilderei</seg>,<lb/>
+deren Ton fast alle trafen, berührte die Meldung, die <seg type="insult">der Abgesandte<lb/>
+des Herrn <rs type="pers" ana="n_22638" ref="#fk__p_42861">Vergani</rs></seg> erstattete und die am <seg ana="30. September im&#10;‚Deutschen Volksblatt‘"/> erschien, durch <seg type="insult">ihre fachmännische Schlichtheit<lb/>
+ und Sachlichkeit</seg> doppelt wohlthuend. Sie lautet:<lb/>
+</p>
+            <p ana="pr26255">
+<space/>»<QUOTE rn="1" sourceID="FK-04-117_n0026_a"><seg type="spc">Bei der Agnoscierung wurde festgestellt</seg>, <seg type="spc">daß<lb/>
+es thatsächlich die Leiche eines <seg type="insult">Juden</seg> ist</seg>.</QUOTE>«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_42861">
+               <persName>Vergani, Ernst</persName>
+               <birth>
+                  <date>1848-3-15</date>
+                  <place>Solec/Galizien</place>
+               </birth>
+               <death>
+                  <date>1915-2-19</date>
+                  <place>Emmersdorf</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <occupation>Publizist</occupation>
+               <note type="comment">1888 Obmann des Ausschusses der Bewegung Schönerers</note>
+               <note type="comment">Gründung des Deutschen Volksblatts 1888</note>
+            </person>
+            <person xml:id="fk__p_42293">
+               <persName>Jellinek, Edmund</persName>
+               <birth>
+                  <date>1868-1-17</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1902-9-19</date>
+                  <place>Altenwörth</place>
+               </death>
+               <occupation>Bankdirektor</occupation>
+               <note type="comment">3., Mathäusgasse 5; 9., Porzellangasse 22A</note>
+               <note type="comment">Photo vom Grabstein: mail Wolf-Erich Eckstein 22.12.08, 11.59 Uhr</note>
+               <note type="comment">hoher Beamter der Länderbank</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

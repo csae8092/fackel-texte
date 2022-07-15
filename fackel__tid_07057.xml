@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07057.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07056.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07058.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Das ist eine!, in: Fackel Heft 18, Nr. 418, 1916, S. 26-27</title>
+            <title type="iso-date">1916-04-01</title>
+            <title type="id">tid_07057</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">18</title><title type="heft">418</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-18-418_n0026.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/418,026</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Das ist eine!</head>
+            <p ana="pr95702">
+<space/>Einen höchst interessanten Versuch unternahm gestern Frau<lb/>
+<rs type="pers" ana="n_64230" ref="#fk__p_45523">Hansi Niese</rs> <seg type="symbol" subtype="4dots"/> indem sie es einmal mit dem trotzigen <rs type="pers">Käthchen</rs> in<lb/>
+<rs type="pers" ana="n_64231" ref="#fk__p_55589">Shakespeares</rs> Lustspiel »<rs type="title">Der Widerspenstigen Zähmung</rs>« versuchte.<lb/>
+<seg type="spc">Natürlich kann es nicht die Sache der Frau <rs type="pers" ana="n_64232" ref="#fk__p_45523">Niese</rs> sein, auf<lb/>
+das vornehme Hingleiten des Verses zu achten</seg>, wie es <seg type="spc">ja<lb/>
+auch nicht Sache der widerspenstigen <rs type="pers">Katharina</rs> ist</seg>. Ihr mutwilliges<lb/>
+ Temperament <seg type="spc">schlägt ohne viel Umstände die steifen<lb/>
+und feierlichen Jamben entzwei</seg>, läßt hochgestellte Worte Purzelbäume<lb/>
+ schlagen. <seg type="spc">Man sieht schon</seg>, wie sich die Künstlerin ihre Rolle zu<lb/>
+eigen macht. <rs type="pers" ana="n_64233" ref="#fk__p_45523">Hansi Niese</rs> spielt immer gern die Einfachheit, die <seg type="spc">über<lb/>
+<seg type="insult">Prunkhaftes und Prahlerisches</seg> triumphiert</seg>. Ihr Humor ist am<lb/>
+</p>
+            <p ana="pr95702">
+wirksamsten, wenn er die <seg type="insult"><seg type="spc">Geziertheit und Humorlosigkeit anderer</seg></seg><lb/>
+verspottet. So <seg type="spc">stolpert</seg> <rs type="pers" ana="n_64234" ref="#fk__p_45523">Hansi Niese</rs> manchmal <seg type="spc">absichtlich</seg> über<lb/>
+einen Vers, wie sonst wohl über eine Schleppe <seg type="spc">und hat die Lacher<lb/>
+auf ihrer Seite</seg>. Dieses böse »<rs type="pers">Käthchen</rs>« ist ein von Grund auf gutes<lb/>
+»<rs type="pers">Katherl</rs>«, und es bedeutet <seg type="spc">einen Reiz mehr</seg>, daß bei ihr im<lb/>
+Affekt die <seg type="spc">Wiener Mundart</seg> zuweilen <seg type="spc">ganz leicht anklingt</seg>. <rs type="pers" ana="n_64235" ref="#fk__p_45523">Hansi<lb/>
+Niese</rs> führt die Rolle <seg type="spc">auf das rein Menschliche</seg> zurück, nicht um<lb/>
+die präzise, <seg type="spc">rein äußerliche</seg> Kontur ist es ihr zu tun, <seg type="spc">sondern<lb/>
+um das seelische Moment</seg> <seg type="symbol" subtype="4dots"/><lb/>
+</p>
+            <p ana="pr95704">
+<space/><seg type="insult">Ja, die <rs type="pers" ana="n_64236" ref="#fk__p_45523">Niese</rs>!</seg> Die haut den <rs type="pers" ana="n_64237" ref="#fk__p_55589">Shakespeare</rs> <foreign xml:lang="de-loc">z’samm</foreign> und reißt<lb/>
+jedem Vers <foreign xml:lang="de-loc">a Haxen</foreign> aus!<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_55589">
+               <persName>Shakespeare, William</persName>
+               <birth>
+                  <date>1564-4-23?</date>
+                  <place>Stratford-upon-Avon</place>
+               </birth>
+               <death>
+                  <date>1616-4-23</date>
+                  <place>Stratford-upon-Avon</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2412</idno></person>
+            <person xml:id="fk__p_45523">
+               <persName>Niese, Hansi</persName>
+               <birth>
+                  <date>1875-1-30</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1934-4-4</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schauspielerin</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/21952</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_11929.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11928.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11930.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Durch den Äther, in: Fackel Heft 33, Nr. 857, 1931, S. 117-117</title>
+            <title type="iso-date">1931-08-01</title>
+            <title type="id">tid_11929</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">33</title><title type="heft">857</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-33-857_n0117.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/857,117</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Durch den Äther</head>
+            <p ana="pr172666">
+der <rs type="inst">Ravag</rs>:<lb/>
+</p>
+            <p ana="pr172668">
+<seg type="spc">Bunter Abend</seg>. Konzertorchester <rs type="pers" ana="n_103107" ref="#fk__p_47094">Josef Holzer</rs>. Mitwirkend: <rs type="pers" ana="n_103108" key="#fk__p_52225">Ridi Grün</rs><lb/>
+(humoristische Vortragskünstlerin). <rs type="pers" ana="n_103109" key="#fk__p_51021">Ottokar Weiner</rs> (Solo auf der singenden<lb/>
+ Säge). Die <foreign xml:lang="de-loc"><seg type="spc">zwoa steirischen Holzknechtbuam</seg></foreign> <rs type="pers" ana="n_103110" key="#fk__p_45525">Hansi<lb/>
+Retschitzegger</rs> und <rs type="pers" ana="n_103111" key="#fk__p_49090">Loisl Tuppinger</rs>. Das Wiener Lieder-Duo: <rs type="pers" ana="n_103112" ref="#fk__p_39969">Christl<lb/>
+Weymerth</rs> und <rs type="pers" ana="n_103113" key="#fk__p_47504">Karl Dolesch</rs>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_47094">
+               <persName>Holzer, Josef</persName>
+               <birth>
+                  <date>1881-9-20</date>
+                  <place>Budapest</place>
+               </birth>
+               <death>
+                  <date>1946</date>
+                  <place>Hilversum/Niederlande</place>
+               </death>
+               <occupation>Kapellmeister</occupation>
+               <occupation>Komponist</occupation>
+               <note type="comment">Konzertorchester (RAVAG)</note>
+            </person>
+            <person xml:id="fk__p_39969">
+               <persName>Weymerth, Christine</persName>
+               <birth>
+                  <date>1893-12-25</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1952-8-16</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Sängerin</occupation>
+               <note type="comment">Wienerlied-Duo Christl Weymerth und Karl Dolesch 1931; Friedhof Ottakring</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

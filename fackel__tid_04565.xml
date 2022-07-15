@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_04565.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04564.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04566.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Die „dreifache“ Wurzel des zureichenden Grundes), in: Fackel Heft 09, Nr. 236, 1907, S. 21-21</title>
+            <title type="iso-date">1907-11-18</title>
+            <title type="id">tid_04565</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">09</title><title type="heft">236</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-09-236_n0021.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/236,021</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Die „dreifache“ Wurzel des zureichenden Grundes)</head>
+            <p ana="pr50742">
+<space/><rs type="pers" ana="n_40533" ref="#fk__p_38501">Schopenhauer</rs> hat <rs type="title">über die »vierfache Wurzel<lb/>
+des Satzes vom zureichenden Grunde«</rs> geschrieben.<lb/>
+Somit hat <seg type="insult">Herr <rs type="pers" ana="n_40534" ref="#fk__p_50373">Moriz Benedikt</rs></seg> ganz recht, wenn er<lb/>
+über den Wechsel im <rs type="inst">Handelsministerium</rs> schreibt,<lb/>
+»selbst <rs type="pers" ana="n_40535" ref="#fk__p_38501">Schopenhauer</rs> würde hier die dreifache<lb/>
+Wurzel des zureichenden Grundes <seg type="spc">nicht</seg> finden<lb/>
+können«. Freilich, so glücklich wie damals, als <seg type="insult">Herr<lb/>
+<rs type="pers" ana="n_40536" ref="#fk__p_50373">Benedikt</rs></seg> sich auf <seg type="insult">das bekannte Wort <rs type="pers" ana="n_40537" ref="#fk__p_44583">Gottfrieds von<lb/>
+Bouillon</rs></seg> berief, daß der Zinsfuß mit uns sei, zitiert<lb/>
+er heute nicht mehr.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_44583">
+               <persName>Gottfried von Bouillon</persName>
+               <birth>
+                  <date>1060</date>
+               </birth>
+               <death>
+                  <date>1100-7-18</date>
+                  <place>Jerusalem</place>
+               </death>
+               <occupation>Kreuzfahrer</occupation>
+            </person>
+            <person xml:id="fk__p_50373">
+               <persName>Benedikt, Moriz</persName>
+               <birth>
+                  <date>1849-5-27</date>
+                  <place>Kwatschitz/Mähren</place>
+               </birth>
+               <death>
+                  <date>1920-3-18</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <note type="comment">Geburtsort Kwatschitz bei Ungarisch Hradisch/Mähren, nicht Kwassitz bei Kremsier</note>
+               <note type="comment">1. Tor, 20/1/1a</note>
+               <note type="comment">Hrsg. der NFP (seit 1908 alleiniger Leiter)</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10875</idno></person>
+            <person xml:id="fk__p_38501">
+               <persName>Schopenhauer, Arthur</persName>
+               <birth>
+                  <date>1788-2-22</date>
+                  <place>Danzig</place>
+               </birth>
+               <death>
+                  <date>1860-9-21</date>
+                  <place>Frankfurt am Main</place>
+               </death>
+               <occupation>Philosoph</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/5787</idno></person>
+            </listPerson></back></text>
+</TEI>

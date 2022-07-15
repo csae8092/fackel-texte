@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_10621.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10620.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10622.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Damit es die Leser verstehn, in: Fackel Heft 28, Nr. 735, 1926, S. 113-113</title>
+            <title type="iso-date">1926-10-01</title>
+            <title type="id">tid_10621</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">28</title><title type="heft">735</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-28-735_n0113.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/735,113</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Damit es die Leser verstehn</head>
+            <p ana="pr148036">
+<space/>Um <rs type="pers" ana="n_89122" ref="#fk__p_52016">Aslans</rs> <RS pers="Friedrich von Schiller"><rs type="pers" ana="name_204052" ref="#fk__p_43876">Posa</rs></RS> fließt reines Menschenlicht; sein inneres<lb/>
+Feuer ist von wertvollen Substanzen genährt, es lodert hell,<lb/>
+<seg type="spc">gebändigt durch Tam</seg>, und Gottes Engel sind um ihn, wenn<lb/>
+er vom König Gedankenfreiheit heischt, so ganz aus einer Seele<lb/>
+heraus, die keines irdischen Fürsten Diener sein kann.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_52016">
+               <persName>Aslan, Raoul</persName>
+               <birth>
+                  <date>1886-10-16</date>
+                  <place>Saloniki</place>
+               </birth>
+               <death>
+                  <date>1958-6-17</date>
+                  <place>Litzlberg/Seewalchen a. Attersee</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <occupation>Theaterleiter</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10780</idno></person>
+            <person xml:id="fk__p_43876">
+               <persName>Schiller, Friedrich von</persName>
+               <birth>
+                  <date>1759-11-10</date>
+                  <place>Marbach am Neckar</place>
+               </birth>
+               <death>
+                  <date>1805-5-9</date>
+                  <place>Weimar</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Mortimer 363/9, 679/69, 912/7 und 912/58 ist von Ögg Shakespeare zugeordnet</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12654</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_09333.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09332.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09334.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Mittlerer Konzerthaussaal, 26. November, 3 Uhr:, in: Fackel Heft 24, Nr. 608, 1922, S. 50-50</title>
+            <title type="iso-date">1922-12-01</title>
+            <title type="id">tid_09333</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">24</title><title type="heft">608</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-24-608_n0050.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/608,050</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Mittlerer Konzerthaussaal, 26. November, 3 Uhr:</head>
+            <p ana="pr124156">
+<space/><rs type="inst">Mittlerer Konzerthaussaal</rs>, <date>26. November</date>, 3 Uhr:<lb/>
+</p>
+            <p ana="pr124157">
+<space/>I. <rs type="title">Das Wort, sie sollen es lassen <foreign xml:lang="de-loc">stahn</foreign></rs> [Mit Vorbemerkung]. —<lb/>
+<rs type="title">In eigenster Sache</rs>.<lb/>
+</p>
+            <p ana="pr124158">
+<space/>II. Aus: <rs type="title"><seg type="insult"><rs type="pers" ana="n2_6982" ref="#fk__p_52206">Kralikstag</rs></seg></rs> (Einleitung). — Szenen: <rs type="title"><seg type="insult">Die Cherusker in<lb/>
+Krems</seg></rs> / <rs type="title"><rs type="pers">Elfriede Ritter</rs> und die <rs type="pers">Reporter</rs></rs>. — <rs type="title"><seg type="insult">Die vornehmsten Gäste<lb/>
+aus der Kulturstadt Wien</seg></rs> / <rs type="title"><seg type="insult"><rs type="pers" ana="n2_6983" ref="#fk__p_53581">Großmann</rs> daheim</seg></rs>. — <rs type="title"><seg type="insult">Reklamefahrten<lb/>
+zur Hölle</seg></rs>. — <rs type="title">Im Untergang</rs>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_52206">
+               <persName>Kralik-Mayerswalden, Richard von</persName>
+               <birth>
+                  <date>1852-10-1</date>
+                  <place>Eleonorenhain, Böhmen</place>
+               </birth>
+               <death>
+                  <date>1934-2-4</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Ögg ordnet ihm 157/8 zu, vermutlich wegen "Im Zeichen des Kreuzes"</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17081</idno></person>
+            <person xml:id="fk__p_53581">
+               <persName>Großmann, Stefan</persName>
+               <birth>
+                  <date>1875-05-18</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1935-01-03</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11527</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03397.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03396.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03398.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Politiker. (Eine Verletzung der Parität), in: Fackel Heft 05, Nr. 150, 1903, S. 31-31</title>
+            <title type="iso-date">1903-12-23</title>
+            <title type="id">tid_03397</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">05</title><title type="heft">150</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-05-150_n0031.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/150,031</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Politiker. (Eine Verletzung der Parität)</head>
+            <p ana="pr33710">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="n_29108" ref="#fk__p_51590">Politiker</rs>.</seg></seg></seg> Schon wieder eine <seg type="insult">Verletzung der Parität</seg>! <abbr>FML.</abbr> <rs type="pers" ana="n_29109" ref="#fk__p_54678"><abbr>v.</abbr><lb/>
+Pitreich</rs> hat sich bei der ungarischen Delegation entschuldigt, daß er<lb/>
+nicht ungarisch kann. Aber <rs type="pers" ana="n_29110" ref="#fk__p_44673">Graf Goluchowski</rs> hat sich bei der österreichischen<lb/>
+ Delegation <seg type="spc">nicht</seg> entschuldigt, daß er nicht deutsch kann.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_51590">
+               <persName>Politiker</persName>
+            </person>
+            <person xml:id="fk__p_54678">
+               <persName>Pitreich, Heinrich Freiherr von</persName>
+               <birth>
+                  <date>1841-11-10</date>
+                  <place>Laibach</place>
+               </birth>
+               <death>
+                  <date>1920-1-13</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Feldzeugmeister</occupation>
+               <occupation>Politiker</occupation>
+            </person>
+            <person xml:id="fk__p_44673">
+               <persName>Goluchowski, Agenor Graf</persName>
+               <birth>
+                  <date>1849-03-25</date>
+                  <place>Lemberg</place>
+               </birth>
+               <death>
+                  <date>1921-03-28</date>
+                  <place>Lemberg</place>
+               </death>
+               <occupation>Diplomat</occupation>
+               <occupation>Politiker</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

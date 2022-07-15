@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00709.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00708.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00710.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Herrn Dóczi, Mitarbeiter des ‚Neuen Pester Journal‘. (Herrn Dóczi), in: Fackel Heft 01, Nr. 029, 1900, S. 30-30</title>
+            <title type="iso-date">1900-01-01</title>
+            <title type="id">tid_00709</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">029</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-029_n0030.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/029,030</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Herrn Dóczi, Mitarbeiter des ‚Neuen Pester Journal‘. (Herrn Dóczi)</head>
+            <p ana="pr6711">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i">Herrn <rs type="pers" ana="n_5137" ref="#fk__p_40507">Dóczi</rs>, Mitarbeiter des ‚<rs type="" ana="werk_1802">Neuen Pester Journal</rs>‘.</seg></seg></seg> Da Sie<lb/>
+<seg type="insult">nebenbei auch Sectionschef im <rs type="inst">Ministerium des Aeußern</rs></seg> sind, haben<lb/>
+Sie sich kürzlich veranlasst gefühlt, aufgeregt zum <rs type="pers" ana="n_5138" ref="#fk__p_44673">Grafen Goluchowski<lb/>
+</rs> zu kommen und ihm meine der Beleuchtung <seg type="insult">seiner Balkanpolitik<lb/>
+ und seiner Stilblüten</seg> gewidmeten Artikel vorzulesen. Ich<lb/>
+kann Ihnen verrathen, dass Ihre Vorlesung auf ihn nicht den mindesten<lb/>
+ Eindruck gemacht hat. Nichts vermag <seg type="insult">den behäbigen Mann</seg><lb/>
+aus seiner Fassung zu bringen, und was die Grobheiten Russlands<lb/>
+nicht vermochten, wird einem Zeitungsartikel nicht gelingen. Das<lb/>
+hätten Sie sich füglich denken können. Also ersparen Sie sich<lb/>
+wenigstens für die Folge <seg type="insult">alles unnöthige Echauffement</seg>!<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_40507">
+               <persName>Dóczi-Nemet, Ludwig Freiherr von </persName>
+               <birth>
+                  <date>1845-11-27</date>
+                  <place>Deutschkreuz</place>
+               </birth>
+               <death>
+                  <date>1919-8-29</date>
+                  <place>Budapest</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <occupation>Publizist</occupation>
+            </person>
+            <person xml:id="fk__p_44673">
+               <persName>Goluchowski, Agenor Graf</persName>
+               <birth>
+                  <date>1849-03-25</date>
+                  <place>Lemberg</place>
+               </birth>
+               <death>
+                  <date>1921-03-28</date>
+                  <place>Lemberg</place>
+               </death>
+               <occupation>Diplomat</occupation>
+               <occupation>Politiker</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

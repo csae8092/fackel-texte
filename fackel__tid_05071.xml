@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_05071.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05070.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05072.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lied. Von Arnold Schönberg, in: Fackel Heft 11, Nr. 300, 1910, S. 9-10</title>
+            <title type="iso-date">1910-04-9</title>
+            <title type="id">tid_05071</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">11</title><title type="heft">300</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-11-300_n0009.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/300,009</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Lied. Von Arnold Schönberg</head>
+            <p ana="pr64302">
+Aus „<rs type="title">Das Buch der hängenden Gärten</rs>“ von <rs type="pers" ana="n_47363" ref="#fk__p_53580">Stefan George</rs><lb/>
+</p>
+            <p ana="pr64303">
+Sprich nicht immer von dem laub, <SPAN cont="windes">win=...des</SPAN><lb/>
+raub, vom <SPAN cont="zerschellen">zer=schel=len</SPAN> reifer quitten, von den tritten der <SPAN cont="vernichter">ver=nich=ter</SPAN> spät im<lb/>
+jahr, von dem zittern der <SPAN cont="libellen">li=bellen</SPAN> im <SPAN cont="gewittern">ge=wit=tern</SPAN> und der lichter<lb/>
+ deren flimmer <SPAN cont="wandelbar">wan=del=bar</SPAN><lb/>
+</p>
+            <p ana="pr64304">
+<rs type="pers" ana="n_47364" ref="#fk__p_38451">Arnold Schönberg</rs><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_53580">
+               <persName>George, Stefan</persName>
+               <birth>
+                  <date>1868-7-12</date>
+                  <place>Büdesheim bei Bingen</place>
+               </birth>
+               <death>
+                  <date>1933-12-4</date>
+                  <place>Locarno</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Übersetzer</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2437</idno></person>
+            <person xml:id="fk__p_38451">
+               <persName>Schönberg, Arnold</persName>
+               <birth>
+                  <date>1874-9-13</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1951-7-13</date>
+                  <place>Los Angeles</place>
+               </death>
+               <occupation>Komponist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12743</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,125 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_05502.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05501.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05503.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Albert Lortzing, in: Fackel Heft 13, Nr. 334, 1911, S. 51-51</title>
+            <title type="iso-date">1911-10-31</title>
+            <title type="id">tid_05502</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">13</title><title type="heft">334</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-13-334_n0051.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/334,051</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Albert Lortzing</head>
+            <p ana="pr72190">
+<rs type="pers" ana="n_52229" ref="#fk__p_37929"><seg type="spc">Albert Lortzing</seg></rs><lb/>
+</p>
+            <p ana="pr72191">
+<rs type="title">Briefe</rs>, bei <rs type="inst"><rs type="pers" ana="n2_4600" ref="#fk__p_58945">Seemann</rs></rs>, Leipzig:<lb/>
+</p>
+            <p ana="pr72193">
+<seg type="symbol" subtype="4dotsEditor"/>Ich habe überhaupt die traurige Erfahrung<lb/>
+gemacht, daß Wien, Österreich im allgemeinen, für<lb/>
+mich (als Opernkomponisten) kein Terrain ist. Das<lb/>
+Volk kann nicht <seg type="spc">reden</seg> und nicht <seg type="spc">spielen</seg>. Es ist<lb/>
+ein wahrer Jammer. Überhaupt ist der musikalische<lb/>
+Geschmack hier der verdorbenste <seg type="symbol" subtype="4dotsEditor"/>Nur <seg type="insult">Dudeldei</seg><lb/>
+und immer <seg type="insult">Dudeldei, Trillerei</seg>! und das in einer<lb/>
+Stadt, wo <rs type="pers" ana="n_52230" ref="#fk__p_55699">Mozart</rs>, <rs type="pers" ana="n_52231" ref="#fk__p_49349">Beethoven</rs>, <rs type="pers" ana="n_52232" ref="#fk__p_44499">Gluck</rs> und andere gelebt<lb/>
+und gewirkt haben <seg type="symbol" subtype="4dotsEditor"/>Mit der Komödie ist es ebenso<lb/>
+traurig, das <rs type="inst">Burgtheater</rs> abgerechnet, wo allerdings<lb/>
+dann und wann mit Wasser gekocht wird, davon<lb/>
+aber abgesehen, kann man es immer ein Kunstinstitut<lb/>
+ nennen, nur schade, daß die Besten alle<lb/>
+schon in vorgerückten Jahren sind <seg type="symbol" subtype="4dotsEditor"/><lb/>
+</p>
+            <p ana="pr72194">
+<seg type="symbol" subtype="4dotsEditor"/>Hier in Wien hat nämlich jeder, der mit<lb/>
+irgend etwas vor die Öffentlichkeit tritt, einen <seg type="insult">Kerl</seg><lb/>
+an der Hand, der für ihn schreibt, den er dafür<lb/>
+bezahlt, traktiert, kleidet <abbr>u. s. w.</abbr> Unter <seg type="insult">allen diesen<lb/>
+bezahlten oder sich honorieren lassenden Lumpenhunden<lb/>
+</seg> steht <seg type="insult">Herr <rs type="pers" ana="n_52233" ref="#fk__p_49444">Saphir</rs></seg> obenan <seg type="symbol" subtype="4dotsEditor"/>Da ich nun<lb/>
+mit Recensenten nie kommerschiert, sie nie honoriert,<lb/>
+auch ihre Blätter nie gehalten habe, so ist es natürlich,<lb/>
+daß ich — hier wenigstens — ganz unbeachtet bleibe,<lb/>
+denn — ehrlich gesprochen — hier ist das Terrain<lb/>
+nicht, mich hervorzutun, ich müßte denn mein ganzes<lb/>
+Naturell umkehren <seg type="symbol" subtype="4dotsEditor"/><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_44499">
+               <persName>Gluck, Christoph Willibald Ritter von</persName>
+               <birth>
+                  <date>1714-7-2</date>
+                  <place>Erasbach bei Berching (Oberpfalz)</place>
+               </birth>
+               <death>
+                  <date>1787-11-15</date>
+                  <place>Wien</place>
+               </death>
+               <occupation/>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15476</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11450</idno></person>
+            <person xml:id="fk__p_49444">
+               <persName>Saphir, Moritz Gottlieb</persName>
+               <birth>
+                  <date>1795-2-8</date>
+                  <place>Lovasbéreny bei Székesfehérvar/Ungarn</place>
+               </birth>
+               <death>
+                  <date>1858-9-5</date>
+                  <place>Baden bei Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Journalist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/64882</idno></person>
+            <person xml:id="fk__p_37929">
+               <persName>Lortzing, Gustav Albert</persName>
+               <birth>
+                  <date>1801-10-23</date>
+                  <place>Berlin</place>
+               </birth>
+               <death>
+                  <date>1851-1-21</date>
+                  <place>Berlin</place>
+               </death>
+               <occupation>Komponist</occupation>
+            </person>
+            <person xml:id="fk__p_58945">
+               <persName>Seemann (Hermann Seemann’s Nachfolger, Verlag)</persName>
+               <note type="comment">Leipzig</note>
+            </person>
+            <person xml:id="fk__p_55699">
+               <persName>Mozart, Wolfgang Amadeus</persName>
+               <birth>
+                  <date>1756-1-27</date>
+                  <place>Salzburg</place>
+               </birth>
+               <death>
+                  <date>1791-12-5</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Komponist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12303</idno></person>
+            <person xml:id="fk__p_49349">
+               <persName>Beethoven, Ludwig van</persName>
+               <birth>
+                  <date>1770-12-17</date>
+                  <place>Bonn</place>
+               </birth>
+               <death>
+                  <date>1827-3-26</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Komponist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10866</idno></person>
+            </listPerson></back></text>
+</TEI>

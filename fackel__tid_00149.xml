@@ -1,0 +1,44 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00149.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00148.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00150.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">M. H. S., Floridsdorf, L. Etinsaur (?), R., J. St.....r, Wien XVI., Renée, Graf G. in Brixen, Alois M. in Steyr, „Eine müde Seele“, Sigbert E. z. Zt. Baden., in: Fackel Heft 01, Nr. 007, 1899, S. 20-20</title>
+            <title type="iso-date">1899-06-01</title>
+            <title type="id">tid_00149</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">007</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-007_n0020.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/007,020</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>M. H. S., Floridsdorf, L. Etinsaur (?), R., J. St.....r, Wien XVI., Renée, Graf G. in Brixen, Alois M. in Steyr, „Eine müde Seele“, Sigbert E. z. Zt. Baden.</head>
+            <p ana="pr1527">
+<space/><seg type="i"><seg type="sidehead"><rs type="pers" ana="n_1110" ref="#fk__p_49449"><abbr>M. H. S.</abbr></rs>, Floridsdorf</seg>, <seg type="sidehead"><rs type="pers" ana="n_1111" key="#fk__p_48449"><abbr>L.</abbr> Etinsaur (?)</rs></seg>, <seg type="sidehead"><rs type="pers" ana="n_1112" ref="#fk__p_51911"><abbr>R.</abbr></rs></seg>, <seg type="sidehead"><rs type="pers" ana="n_1113" key="#fk__p_46624"><abbr>J. <SPAN sug="(undefined)">St.....r</SPAN></abbr></rs>,<lb/>
+Wien XVI.</seg>, <seg type="sidehead"><rs type="pers" ana="n_1114" key="#fk__p_52122">Renée</rs></seg></seg> (ich glaube Sie zu kennen), <seg type="i"><seg type="sidehead"><rs type="pers" ana="n_1115" key="#fk__p_44669">Graf <abbr>G.</abbr></rs> in Brixen</seg>,<lb/>
+<seg type="sidehead"><rs type="pers" ana="n_1116" ref="#fk__p_38139">Alois <abbr>M.</abbr></rs> in Steyr</seg>, <seg type="sidehead">„<rs type="pers" ana="n_1117" key="#fk__p_42452">Eine müde Seele</rs>“</seg>, <seg type="sidehead"><rs type="pers" ana="n_1118" ref="#fk__p_53279">Sigbert <abbr>E.</abbr></rs> <abbr>z. Zt.</abbr> Baden</seg>.</seg> Dank<lb/>
+und Gruß!<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_38139">
+               <persName>M., Alois</persName>
+               <note type="comment">in Steyr</note>
+            </person>
+            <person xml:id="fk__p_53279">
+               <persName>E., Sigbert</persName>
+            </person>
+            <person xml:id="fk__p_49449">
+               <persName>S., M. H.</persName>
+               <note type="comment">Floridsdorf</note>
+            </person>
+            <person xml:id="fk__p_51911">
+               <persName>R.</persName>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/22959</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_04498.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04497.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04499.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Höfling. (Eine Hofnachricht), in: Fackel Heft 09, Nr. 229, 1907, S. 23-23</title>
+            <title type="iso-date">1907-07-2</title>
+            <title type="id">tid_04498</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">09</title><title type="heft">229</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-09-229_n0023.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/229,023</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Höfling. (Eine Hofnachricht)</head>
+            <p ana="pr49892">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="name_203700" ref="#fk__p_46184">Höfling</rs>.</seg></seg></seg> Ein <rs type="inst">zionistisches Blatt</rs>, die <seg ana="‚Neue Nationalzeitung‘"/>,<lb/>
+bringt <seg type="insult">die folgende Hofnachricht</seg>: »<QUOTE rn="1" sourceID="FK-09-229_n0023_a">London, den <date>10. Juni</date> (<abbr>Orig.-Korr.</abbr>).<lb/>
+Wie ich erfahre, ist vor kurzer Zeit an dem 13jährigen Sohne des<lb/>
+verstorbenen <rs type="pers" ana="n_39802" ref="#fk__p_41891"><abbr>Dr.</abbr> Herzl</rs>, <rs type="pers" ana="n_39803" ref="#fk__p_45428">Hans Herzl</rs>, der in einem hiesigen Institut<lb/>
+erzogen wird, anläßlich seiner Bar-Mizvah die durch die jüdische Religion<lb/>
+vorgeschriebene <seg type="spc">Beschneidung</seg> vorgenommen worden</QUOTE>«.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_45428">
+               <persName>Herzl, Hans</persName>
+               <birth>
+                  <date>1891-6-10</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1930-9-15</date>
+                  <place>Bordeaux</place>
+               </death>
+               <occupation/>
+               <note type="comment">NFP 20.09.1930, Seite 10</note>
+               <note type="comment">Eltern Theodor Tivadar/Julianna Naschauer, Matrikel Reihenzahl 1103</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/18230</idno></person>
+            <person xml:id="fk__p_46184">
+               <persName>Höfling</persName>
+            </person>
+            <person xml:id="fk__p_41891">
+               <persName>Herzl, Theodor</persName>
+               <birth>
+                  <date>1860-5-2</date>
+                  <place>Pest</place>
+               </birth>
+               <death>
+                  <date>1904-7-3</date>
+                  <place>Edlach, Niederösterreich</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11673</idno></person>
+            </listPerson></back></text>
+</TEI>

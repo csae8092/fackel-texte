@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_11209.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11208.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11210.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Kerr-Zitat), in: Fackel Heft 31, Nr. 820, 1929, S. 74-74</title>
+            <title type="iso-date">1929-10-01</title>
+            <title type="id">tid_11209</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">31</title><title type="heft">820</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-31-820_n0074.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/820,074</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Kerr-Zitat)</head>
+            <p ana="pr162489">
+<space/>»<rs type="pers" ana="n_97392" ref="#fk__p_47579">Liebknecht</rs> (<seg type="insult">dieser Edel-beschränkte Hauptstörer einer sozialistischen<lb/>
+ Realentwicklung</seg>, der ihr zehn Millionen Stimmen und die<lb/>
+Alleinmacht geraubt hat <seg type="symbol" subtype="8dots"/> und bei rührend gutem Willen<lb/>
+der <seg type="insult">intellektloseste Schädling</seg> war) ist bestimmt kein <seg type="insult">»gemeiner Verbrecher<lb/>
+«</seg>. Er starb auch nicht den Tod eines <seg type="insult">gemeinen Verbrechers</seg>.<lb/>
+Sondern den irregulär gewaltsamen Tod, den er so manches Mal vom<lb/>
+<seg type="insult">Vorwärtshaus</seg> gesandt ins Tal.«<lb/>
+</p>
+            <p ana="pr162491">
+<rs type="pers" ana="n_97393" ref="#fk__p_38072"><seg type="spc">Alfred Kerr</seg></rs>, <seg ana="Februar 1919&#10;im ‚Vorwärts‘"/><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_38072">
+               <persName>Kerr, Alfred</persName>
+               <birth>
+                  <date>1867-12-25</date>
+                  <place>Breslau</place>
+               </birth>
+               <death>
+                  <date>1948-10-12</date>
+                  <place>Hamburg</place>
+               </death>
+               <occupation>Kritiker</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11910</idno></person>
+            <person xml:id="fk__p_47579">
+               <persName>Liebknecht, Karl</persName>
+               <birth>
+                  <date>1871-8-13</date>
+                  <place>Leipzig</place>
+               </birth>
+               <death>
+                  <date>1919-1-15</date>
+                  <place>Berlin-Charlottenburg</place>
+               </death>
+               <occupation>Politiker</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/8625</idno></person>
+            </listPerson></back></text>
+</TEI>

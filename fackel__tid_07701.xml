@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07701.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07700.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07702.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ein Plan und seine Ausführung oder Tartaruga, der Ehrenfreund, in: Fackel Heft 18, Nr. 445, 1234, S. 156-157</title>
+            <title type="iso-date">1234-01-01</title>
+            <title type="id">tid_07701</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">18</title><title type="heft">445</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-18-445_n0156.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/445,156</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ein Plan und seine Ausführung oder Tartaruga, der Ehrenfreund</head>
+            <p ana="pr103353">
+<space/>»Die Ödenburger <rs type="inst">Verlagsfirma <rs type="pers" ana="n2_5880" key="#fk__p_58054">Gustav Röttig</rs> und Sohn</rs> hat mit<lb/>
+der Herausgabe einer Serie von Kriminalromanen aus der Feder <rs type="pers" ana="n_66716" ref="#fk__p_53948"><abbr>U.</abbr><lb/>
+<seg type="spc">Tartarugas</seg></rs> begonnen — — In den Prospekten heißt es, daß mit diesem<lb/>
+Sammelwerk nicht nur beabsichtigt werde, die <seg type="insult"><SPAN cont="Schundliteratur"><seg type="spc">Schundl</seg>iteratur</SPAN></seg> zu<lb/>
+<seg type="spc">verdrängen</seg>, sondern auch die vielen Nachforschungen des <rs type="pers" ana="n_66717" ref="#fk__p_40062">Connan<lb/>
+Doyleschen Meisterdetektivs</rs> <rs type="pers">Sherlock Holmes</rs>. Die ersten beiden Bände,<lb/>
+betitelt »<rs type="title">Der unsichtbare Feind</rs>« und »<rs type="title">Das verwunschene Schloß</rs>«, zeigen<lb/>
+denn auch — — Er ist nicht <seg type="insult">die mit Morphium, Musik und Tabak<lb/>
+geölte Denkmaschine des englischen Schriftstellers</seg>, sondern <seg type="spc">bloß ein<lb/>
+tüchtiges Organ der Berufspolizei</seg>, den uns der geschickte<lb/>
+Autor inmitten <seg type="spc">interessanter Fälle in ernster Arbeit</seg><lb/>
+vor Augen führt — — Spannung — —«<lb/>
+</p>
+            <p ana="pr103356">
+<space/>»Am Abend des <date>8. Oktober</date> wurde das <rs type="inst">Hotel <rs type="pers" ana="n2_5881" ref="#fk__p_58984">Stalehner</rs></rs> in Hernals<lb/>
+von der Polizei <seg type="spc">durchforscht</seg>. Polizeikommissär <rs type="pers" ana="n_66718" ref="#fk__p_40906"><abbr>Dr.</abbr> <seg type="spc">Ehrenfreund<lb/>
+</seg></rs> ließ, <seg type="spc">um Aufsehen zu vermeiden</seg>, seine uniformierten<lb/>
+</p>
+            <p ana="pr103356">
+ <seg type="spc">Helfer</seg> in der Nähe des Hotels warten und ging in Zivilkleidern<lb/>
+ mit einem Polizeiagenten in die Portierloge — — Der<lb/>
+Kommissär <seg type="spc">glaubte nicht</seg>, daß das Hotel <seg type="spc">an einem Sonntag</seg><lb/>
+so schwach besetzt sei, und er wollte ein Zimmer öffnen. <seg type="spc">Es war versperrt<lb/>
+</seg>. Der Beamte klopfte an, worauf aus dem Zimmer <seg type="spc">zwei<lb/>
+Stimmen</seg> hörbar wurden — — Nun ließ <rs type="pers" ana="n_66719" ref="#fk__p_40906"><abbr>Dr.</abbr> Ehrenfreund</rs> seine<lb/>
+<seg type="spc">Helfer</seg> in das Hotel <seg type="spc">einmarschieren</seg>. Es <seg type="spc">ergab sich</seg>, daß<lb/>
+<seg type="spc">nahezu alle</seg> Zimmer mit Paaren besetzt waren und daß <seg type="spc">niemand</seg><lb/>
+einen <seg type="spc">Meldezettel</seg> ausgefüllt hatte — —«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_58984">
+               <persName>Stalehner (Gaststätte, Vergnügungsetablissement)</persName>
+            </person>
+            <person xml:id="fk__p_40062">
+               <persName>Doyle, Sir Arthur Conan</persName>
+               <birth>
+                  <date>1859-5-22</date>
+                  <place>Edinburgh</place>
+               </birth>
+               <death>
+                  <date>1930-7-7</date>
+                  <place>Crowborough (Sussex)</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            </person>
+            <person xml:id="fk__p_40906">
+               <persName>Ehrenfreund, Edmund Otto</persName>
+               <birth>
+                  <date>1875-2-12</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1941-11-21</date>
+               </death>
+               <occupation>Polizeibeamter</occupation>
+               <note type="comment">18., Gentzgasse 132</note>
+               <note type="comment">1928 Namensänderung in: Ubald Edmund Otto TARTARUGA</note>
+               <note type="comment">Polizeikommissär</note>
+            </person>
+            <person xml:id="fk__p_53948">
+               <persName>Tartaruga, Ubald</persName>
+               <birth>
+                  <date>1875-2-12</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1941-11-21</date>
+                  <place>Konzentrationslager Dachau</place>
+               </death>
+               <occupation>Polizist</occupation>
+               <occupation>Schriftsteller</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

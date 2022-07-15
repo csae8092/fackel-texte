@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_12159.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_12158.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_12160.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Mehr Licht!, in: Fackel Heft 34, Nr. 876, 1932, S. 106-106</title>
+            <title type="iso-date">1932-10-01</title>
+            <title type="id">tid_12159</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">34</title><title type="heft">876</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-34-876_n0106.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/876,106</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Mehr Licht!</head>
+            <p ana="pr177079">
+<space/><rs type="pers" ana="n_105567" ref="#fk__p_55406">Werner Krauß</rs>, Deutschlands erster Schauspieler, schätzte in der<lb/>
+Nacht zum <rs type="event">100. Todestage <rs type="pers" ana="n_105568" ref="#fk__p_46960">Goethes</rs></rs> die Zahl der im <rs type="inst">Resi-Casino</rs><lb/>
+brennenden Lampen auf 37.456.<lb/>
+</p>
+            <p ana="pr177081">
+Dazu hatte <rs type="pers" ana="n_105569" ref="#fk__p_45693">Anschütz</rs> noch nicht die Möglichkeit. Sonst hätte auch<lb/>
+<rs type="pers" ana="n_105570" ref="#fk__p_46960">Goethe</rs> an seinem ersten Todestag nicht jenen Wunsch zu äußern<lb/>
+gebraucht, den ihm die Legende zuschreibt. <rs type="pers" ana="n_105571" ref="#fk__p_55589">Shakespeare</rs> aber,<lb/>
+in das <rs type="inst"><seg type="insult">Resi-Zeitalter</seg></rs> verschlagen, fände: »Wie dunkel ist es hier!«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_45693">
+               <persName>Anschütz, Heinrich Eduard</persName>
+               <birth>
+                  <date>1785-02-08</date>
+                  <place>Luckau/Nieder-Lausitz</place>
+               </birth>
+               <death>
+                  <date>1865-12-29</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+            </person>
+            <person xml:id="fk__p_46960">
+               <persName>Goethe, Johann Wolfgang von</persName>
+               <birth>
+                  <date>1749-8-28</date>
+                  <place>Frankfurt am Main</place>
+               </birth>
+               <death>
+                  <date>1832-3-22</date>
+                  <place>Weimar</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">890/142f.</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11461</idno></person>
+            <person xml:id="fk__p_55406">
+               <persName>Krauß, Werner</persName>
+               <birth>
+                  <date>1884-6-23</date>
+                  <place>Gestungshausen, Bayern</place>
+               </birth>
+               <death>
+                  <date>1959-10-20</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+            </person>
+            <person xml:id="fk__p_55589">
+               <persName>Shakespeare, William</persName>
+               <birth>
+                  <date>1564-4-23?</date>
+                  <place>Stratford-upon-Avon</place>
+               </birth>
+               <death>
+                  <date>1616-4-23</date>
+                  <place>Stratford-upon-Avon</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2412</idno></person>
+            </listPerson></back></text>
+</TEI>

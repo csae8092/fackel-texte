@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01769.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01768.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01770.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Literat., in: Fackel Heft 03, Nr. 074, 1901, S. 27-28</title>
+            <title type="iso-date">1901-04-01</title>
+            <title type="id">tid_01769</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">03</title><title type="heft">074</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-03-074_n0027.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/074,027</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Literat.</head>
+            <p ana="pr17504">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="n_14742" ref="#fk__p_49045">Literat</rs>.</seg></seg></seg> <seg type="insult">Herr <rs type="pers" ana="n_14743" ref="#fk__p_49912">Max Burckhard</rs></seg>, meinen Sie, verursache den<lb/>
+Behörden unaufhörlich die ärgsten Scherereien. Er selbst habe im Morgenblatt<lb/>
+ der ‚<rs type="paper" ana="werk_5577">Neuen Freien Presse</rs>‘ vom <date>16. April</date> mitgetheilt, dass in einem<lb/>
+österreichischen Kronland »der Herr <rs type="inst">Ober-Landesgerichts-Präsident</rs><lb/>
+sich <seg type="spc">höchst eigenhändig</seg> zum Herrn Landeschef bemühen« musste,<lb/>
+um das Verbot der Aufführung der »<rs type="title">Bürgermeisterwahl</rs>« zu erwirken.<lb/>
+Aber der <rs type="inst">Ober-Landesgerichts-Präsident</rs> hat doch wenigstens erreicht,<lb/>
+</p>
+            <p ana="pr17504">
+was er wollte, während andere Leute in Oesterreich sich hundertmal<lb/>
+<seg type="spc">auf den Kopf stellen</seg> können und doch die einfachsten Dinge<lb/>
+nicht durchzusetzen vermögen.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_49045">
+               <persName>Literat</persName>
+            </person>
+            <person xml:id="fk__p_49912">
+               <persName>Burckhard, Max Eugen</persName>
+               <birth>
+                  <date>1854-7-14</date>
+                  <place>Korneuburg</place>
+               </birth>
+               <death>
+                  <date>1912-3-16</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Jurist</occupation>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Theaterleiter</occupation>
+               <note type="comment">Namenskorrektur!</note>
+               <note type="comment">12. 5. 1890 bis 25. 1. 1898 Burgth.</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11036</idno></person>
+            </listPerson></back></text>
+</TEI>

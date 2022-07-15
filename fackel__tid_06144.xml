@@ -1,0 +1,43 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06144.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06143.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06145.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Wunder der Technik, in: Fackel Heft 14, Nr. 370, 1913, S. 38-38</title>
+            <title type="iso-date">1913-03-01</title>
+            <title type="id">tid_06144</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">14</title><title type="heft">370</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-14-370_n0038.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/370,038</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Wunder der Technik</head>
+            <p ana="pr82892">
+<space/>»77 Jahre alt, vergrämt, verbittert <seg type="symbol" subtype="4dots"/> ist heute <rs type="pers" ana="n_57976" ref="#fk__p_55526">Wilhelm Kreß</rs><lb/>
+gestorben. Der Mann, an dessen Namen sich in Österreich <seg type="spc">die wunderbarste<lb/>
+ technische Erfindung</seg>, <seg type="spc">der Vogelflug</seg>, knüpft.«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_55526">
+               <persName>Kreß, Wilhelm</persName>
+               <birth>
+                  <date>1836-07-29</date>
+                  <place>St. Petersburg</place>
+               </birth>
+               <death>
+                  <date>1913-02-24</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Klaviermacher</occupation>
+               <occupation>Flugtechniker</occupation>
+               <note type="comment">RP 13.2.13, Seite 12 berichtet von bevorstehendem Beleidigungsprozeß gegen Kreß</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

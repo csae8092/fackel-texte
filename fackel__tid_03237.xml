@@ -1,0 +1,43 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03237.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03236.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03238.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Misstrauischer Leser. (Ein Schreibfehler?), in: Fackel Heft 05, Nr. 142, 1903, S. 21-21</title>
+            <title type="iso-date">1903-07-3</title>
+            <title type="id">tid_03237</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">05</title><title type="heft">142</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-05-142_n0021.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/142,021</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Misstrauischer Leser. (Ein Schreibfehler?)</head>
+            <p ana="pr31836">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_27463" key="#fk__p_50244">Misstrauischer Leser</rs>.</seg></seg> Sie lasen in einem <seg type="insult">Schmockberichte</seg> des<lb/>
+‚<rs type="paper" ana="werk_11940">Neuen Wiener Journal</rs>‘ über die Belgrader Fahrt des <rs type="pers" ana="n_27464" ref="#fk__p_51391">Peter Karageorgiewitsch<lb/>
+</rs>: »<seg type="insult"><seg type="spc">Tosende</seg> Zivios</seg> durchzittern die Luft«, und fragen, ob<lb/>
+der Verfasser, der so natürlich schreibt, wie er spricht, nicht »<seg type="spc">Tausende</seg><lb/>
+Zivios« sagen wollte <seg type="symbol" subtype="3dots"/> Weiß man’s denn?<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_51391">
+               <persName>Peter I. Karageorgevic, König von Serbien</persName>
+               <birth>
+                  <date>1844-7-1</date>
+                  <place>Belgrad</place>
+               </birth>
+               <death>
+                  <date>1921-8-16</date>
+                  <place>Belgrad</place>
+               </death>
+               <occupation>König</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

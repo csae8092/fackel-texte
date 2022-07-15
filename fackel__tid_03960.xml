@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03960.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03959.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03961.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Chronist. (Berichterstattung), in: Fackel Heft 07, Nr. 186, 1905, S. 26-26</title>
+            <title type="iso-date">1905-10-26</title>
+            <title type="id">tid_03960</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">07</title><title type="heft">186</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-07-186_n0026.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/186,026</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Chronist. (Berichterstattung)</head>
+            <p ana="pr40671">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="name_201460" ref="#fk__p_39979">Chronist</rs>.</seg></seg></seg> »Infolge eines heute früh bei der Station Ripanj<lb/>
+erfolgten Zusammenstoßes eines Lastzuges mit einem gemischten Zuge,<lb/>
+wobei ein Bremser getötet wurde, mußte der Orient-Expreßzug<lb/>
+nach Konstantinopel in Belgrad verbleiben. Im Orient-Expreßzuge<lb/>
+befinden sich auch die beiden <RS pers="Nadejda Klementine von Bulgarien" globID="name_201459"><RS pers="Eudoxia Auguste Philippine von Bulgarien" globID="name_201458">Töchter</RS></RS> des <rs type="pers" ana="n_33923" ref="#fk__p_48012">Fürsten von Bulgarien</rs>, welche<lb/>
+die Zeit bis zur Abfahrt im Zuge verbringen werden. <rs type="pers" ana="n_33924" ref="#fk__p_51391">König Peter</rs><lb/>
+stattete den jungen Prinzessinnen einen Besuch ab.« So interessiert’s die<lb/>
+Leser. Die Berichterstattung für die Hinterbliebenen des getöteten<lb/>
+Bremsers, der in einem schmucklosen Nebensatz bestattet wurde, müßte<lb/>
+anders verfahren: Bei einem Zusammenstoß zweier Züge, der eine Verspätung<lb/>
+ jenes Orient-Expreßzuges <seg type="symbol" subtype="3dots"/>, in welchem sich die beiden<lb/>
+Töchter des <rs type="pers" ana="n_33925" ref="#fk__p_48012">Fürsten von Bulgarien</rs> <seg type="symbol" subtype="3dots"/>, denen <rs type="pers" ana="n_33926" ref="#fk__p_51391">König Peter</rs> <seg type="symbol" subtype="3dots"/>, <seg type="spc">wurde<lb/>
+ein Bremser getötet</seg>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_48012">
+               <persName>Ferdinand I., König von Bulgarien, Prinz von Sachsen-Coburg-Gotha</persName>
+               <birth>
+                  <date>1861-2-26</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1948-9-10</date>
+                  <place>Coburg</place>
+               </death>
+               <occupation>König</occupation>
+               <note type="comment">Zar von Bulgarien 1896 bis zur Abdankung 1918</note>
+            </person>
+            <person xml:id="fk__p_39979">
+               <persName>Chronist</persName>
+            </person>
+            <person xml:id="fk__p_51391">
+               <persName>Peter I. Karageorgevic, König von Serbien</persName>
+               <birth>
+                  <date>1844-7-1</date>
+                  <place>Belgrad</place>
+               </birth>
+               <death>
+                  <date>1921-8-16</date>
+                  <place>Belgrad</place>
+               </death>
+               <occupation>König</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

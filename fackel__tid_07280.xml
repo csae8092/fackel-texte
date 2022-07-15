@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07280.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07279.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07281.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Es bleibt alles beim Alten, in: Fackel Heft 18, Nr. 431, 1916, S. 31-32</title>
+            <title type="iso-date">1916-08-01</title>
+            <title type="id">tid_07280</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">18</title><title type="heft">431</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-18-431_n0031.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/431,031</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Es bleibt alles beim Alten</head>
+            <p ana="pr98465">
+<space/>Den Herren <rs type="pers" ana="n_65199" key="#fk__p_56388">Karl</rs>, <rs type="pers" ana="n_65200" key="#fk__p_56391">Emil</rs> und <rs type="pers" ana="n_65201" key="#fk__p_37823">Adolf Kohn</rs>, Söhnen des verstorbenen<lb/>
+ Herrn <rs type="pers" ana="n_65202" key="#fk__p_50498"><abbr>N. J.</abbr> Kohn</rs>, Kaufmannes in Prag, Obstgasse 7, wurde<lb/>
+von der <rs type="inst">Statthalterei</rs> die Annahme des Familiennamens »<rs type="pers" ana="name_200252" key="#fk__p_37823"><rs type="pers" ana="name_200251" key="#fk__p_56391"><rs type="pers" ana="n_65203" key="#fk__p_56388">Kienzl</rs></rs></rs>« bewilligt.<lb/>
+</p>
+            <p ana="pr98467">
+<space/><seg type="insult">Der Familie <rs type="pers" ana="name_200253" ref="#fk__p_56395"><rs type="pers" ana="n_65204" ref="#fk__p_55523">Kienzl</rs></rs></seg>, die in Literatur und Musik <seg type="insult">das deutsch-österreichische<lb/>
+ Wesen</seg> verkörpert und daher <seg type="insult">eine natürliche Inklination<lb/>
+zum Namen <rs type="pers" ana="n_65205">Kohn</rs></seg> hat, wird die <rs type="inst">Statthalterei</rs> wohl auch keine<lb/>
+Schwierigkeiten in den Weg legen.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_55523">
+               <persName>Kienzl, Wilhelm</persName>
+               <birth>
+                  <date>1857-1-17</date>
+                  <place>Waizenkirchen, Oberösterreich</place>
+               </birth>
+               <death>
+                  <date>1941-10-3</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Komponist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/8194</idno></person>
+            <person xml:id="fk__p_56395">
+               <persName>Kienzl, Hermann</persName>
+               <birth>
+                  <date>1865-6-22</date>
+                  <place>Graz</place>
+               </birth>
+               <death>
+                  <date>1928-5-13</date>
+                  <place>Berlin</place>
+               </death>
+               <occupation>Kritiker</occupation>
+               <occupation>Dramaturg</occupation>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Sohn Florian Kienzl Theaterkritiker Berlin, u. a. für Dresdner Anzeiger</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11924</idno></person>
+            </listPerson></back></text>
+</TEI>

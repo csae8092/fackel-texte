@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_11592.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11591.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11593.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Die Maschine, in: Fackel Heft 32, Nr. 847, 1931, S. 9-9</title>
+            <title type="iso-date">1931-03-01</title>
+            <title type="id">tid_11592</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">32</title><title type="heft">847</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-32-847_n0009.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/847,009</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Die Maschine</head>
+            <p ana="pr168447">
+macht zum Glück allen <seg type="insult">Fortschritt</seg> wieder wett. Da die Öffentlichkeit<lb/>
+, schon völlig gottergeben, nach <rs type="event">Weltkrieg</rs> und Revolution<lb/>
+es erträgt, daß sich ihre <seg type="insult">Regierenden und Würdenträger</seg> untereinander<lb/>
+ tagtäglich die <seg type="insult">Redensarten</seg> anbieten, die kein <seg type="insult">Sektionsrat<lb/>
+der <DATERANGE>Achtzigerjahre</DATERANGE></seg> in den Mund genommen hätte ohne Brechreiz<lb/>
+ zu verspüren, so reißt dem <foreign xml:lang="la">deus ex machina</foreign> manchmal die<lb/>
+Geduld und er macht es dann so:<lb/>
+</p>
+            <p ana="pr168449">
+<space/><rs type="pers" ana="n_100825" ref="#fk__p_51717">Prinz Karl von Schweden</rs> hat an Vizekanzler und Außenminister<lb/>
+<rs type="pers" ana="n_100826" ref="#fk__p_46939"><abbr>Dr.</abbr> Schober</rs> folgendes Telegramm gerichtet: Für Ihr liebenswürdiges<lb/>
+Telegramm, das Sie aus Anlaß meines Geburtstages an mich richteten<lb/>
+ und das mir große Genugtuung bereitete, sage ich Ihnen<lb/>
+meinen besten Dank. Zu gleicher Zeit knüpfe ich daran die Versicherung<lb/>
+, daß die Dienste, die ich Ihrem Lande erweisen konnte, mir<lb/>
+<seg type="spc">um zahlreiches Erscheinen gebeten</seg>.<lb/>
+</p>
+            <p ana="pr168451">
+Irgendwie gehts mit dem <seg type="insult">Grüßertum</seg> überein, kein Leser merkt<lb/>
+was und alles ist in Ordnung.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_51717">
+               <persName>Karl Wilhelm, Prinz von Schweden</persName>
+               <birth>
+                  <date>1884-6-17</date>
+               </birth>
+               <death>
+                  <date>1965-6-5</date>
+               </death>
+            </person>
+            <person xml:id="fk__p_46939">
+               <persName>Schober, Johannes</persName>
+               <birth>
+                  <date>1874-11-14</date>
+                  <place>Perg, Oberösterreich</place>
+               </birth>
+               <death>
+                  <date>1932-8-19</date>
+                  <place>Baden bei Wien</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <note type="comment">Pfarramt Perg: Taufregister: Johannes, Grabstein: Johannes Schober, nicht Johann</note>
+               <note type="comment">Vornamensschreibweise ebenso Czeike, ÖBL</note>
+               <note type="comment">Lebenslauf: NFP 26.9.1929, Seite 4</note>
+               <note type="comment">seit 21.06.1921 Bundeskanzler bis 26.01.1922, von 27.01.1922 bis 24.05.1922, von 26.09.1929 bis 25.09.1930</note>
+               <note type="comment">Polizeipräsident; 1921/22, 1929/30 Bundeskanzler und Außenminister</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/24444</idno></person>
+            </listPerson></back></text>
+</TEI>

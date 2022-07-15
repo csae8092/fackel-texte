@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_11400.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11399.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11401.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ein Kenner, in: Fackel Heft 32, Nr. 838, 1930, S. 52-52</title>
+            <title type="iso-date">1930-09-01</title>
+            <title type="id">tid_11400</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">32</title><title type="heft">838</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-32-838_n0052.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/838,052</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ein Kenner</head>
+            <p ana="pr166065">
+ist <rs type="pers" ana="n_99681" ref="#fk__p_54916">Hirschfeld</rs>, der in <rs type="pers" ana="n_99682" ref="#fk__p_48672">Lecocq</rs><lb/>
+</p>
+            <p ana="pr166067">
+französisches Biedermeier, mit einem Vorklang der <seg type="spc">kommenden<lb/>
+<seg type="ELIDASH">Cancanzeiten</seg> und Jazzeiten</seg><lb/>
+</p>
+            <p ana="pr166069">
+erkennt und daß er<lb/>
+</p>
+            <p ana="pr166071">
+der begabteste und artigste Schüler <rs type="pers" ana="n_99683" ref="#fk__p_46664">Offenbachs</rs> war.<lb/>
+</p>
+            <p ana="pr166073">
+Also eigentlich eher <seg type="insult">ein Lehrer <rs type="pers" ana="n_99684" ref="#fk__p_46664">Offenbachs</rs> für den Cancan und<lb/>
+<rs type="pers" ana="n_99685" ref="#fk__p_47437">Kalmans</rs> für den Jazz</seg>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_47437">
+               <persName>Kálmán, Emmerich</persName>
+               <birth>
+                  <date>1882-10-24</date>
+                  <place>Siófok am Plattensee</place>
+               </birth>
+               <death>
+                  <date>1953-10-30</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Komponist</occupation>
+               <note type="comment">mehrere Nennungen durch Titel: 418/102; 431/42; 445/64; 454/58</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12015</idno></person>
+            <person xml:id="fk__p_54916">
+               <persName>Léon, Victor</persName>
+               <birth>
+                  <date>1858-1-2/4</date>
+                  <place>Senica/Ungarn</place>
+               </birth>
+               <death>
+                  <date>1940-2-23</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Dramaturg</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2337</idno></person>
+            <person xml:id="fk__p_46664">
+               <persName>Offenbach, Jacques</persName>
+               <birth>
+                  <date>1819-06-21</date>
+                  <place>Köln</place>
+               </birth>
+               <death>
+                  <date>1880-10-05</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Komponist</occupation>
+               <note type="comment">Ögg teilt Fortunato F 876/34 Shakespeare zu</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/9131</idno></person>
+            <person xml:id="fk__p_48672">
+               <persName>Lecocq, Alexandre Charles</persName>
+               <birth>
+                  <date>1832-6-3</date>
+                  <place>Paris</place>
+               </birth>
+               <death>
+                  <date>1918-10-24</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Komponist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/20212</idno></person>
+            </listPerson></back></text>
+</TEI>

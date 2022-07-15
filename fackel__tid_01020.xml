@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01020.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01019.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01021.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Der Stilgalopin.), in: Fackel Heft 02, Nr. 043, 1900, S. 7-8</title>
+            <title type="iso-date">1900-06-01</title>
+            <title type="id">tid_01020</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">043</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-043_n0007.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/043,007</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Der Stilgalopin.)</head>
+            <p ana="pr9787">
+<space/><inciptit>Die</inciptit> gleiche Empfindung des Ekels auf allen Gebieten. Auswärtiges<lb/>
+, nationale Kämpfe, Wahlen: man merkt deutlich, dass<lb/>
+überall <seg type="insult">der salbungsvolle <rs type="inst">Börsenredacteur</rs> und Stilgalopin</seg> die Führung<lb/>
+übernommen hat. Die Leitartikel der ‚<rs type="paper" ana="werk_2787">Neuen Freien Presse</rs>‘ nach<lb/>
+dem Wahlergebnisse mahnen freilich mehr an <seg type="insult">jene typischen Fälle von<lb/>
+Wuthausbrüchen bei verurtheilten Dieben und Betrügern</seg>, die den<lb/>
+Richtern und Geschworenen alles, was ihnen in die Hände fällt, an<lb/>
+die Köpfe feuern. Aber dann preist <seg type="insult">Herr <rs type="pers" ana="n_7900" ref="#fk__p_50373">Benedikt</rs></seg> resignierend <seg type="insult">die<lb/>
+Heldengröße des im Wahlkampfe unterlegenen <rs type="pers" ana="n_7901" ref="#fk__p_41477"><abbr>Dr.</abbr> Vogler</rs></seg>. Dabei<lb/>
+hat er einen sonderbaren Wunsch: »Wer einen <seg type="spc">Querschnitt</seg> durch<lb/>
+sein innerstes Wesen«, schreibt er, »führen könnte, würde überall<lb/>
+dieselben Elemente finden«, nämlich lauter gute Eigenschaften, vor<lb/>
+allem auch die, dass Herr <rs type="pers" ana="n_7902" ref="#fk__p_41477"><abbr>Dr.</abbr> Vogler</rs> »Interesse für jeden Pflasterstein<lb/>
+hat, der in einer Straße zu legen ist, und für die Breite der Gassen.«<lb/>
+Aber — »<rs type="pers" ana="n_7903" ref="#fk__p_41477">Vogler</rs> durfte kein Mandat bekommen, <seg type="spc">um</seg> die fortschrittliche<lb/>
+ Partei auf’s Haupt zu treffen«. Kann <seg type="insult">Herr <rs type="pers" ana="n_7904" ref="#fk__p_50373">Benedikt</rs></seg> bloß nicht<lb/>
+deutsch oder kennt er <seg type="insult">seinen Liberalen</seg>? Sie treffen alle, wenn sie<lb/>
+ein Mandat annehmen, die fortschrittliche Partei auf’s Haupt <seg type="symbol" subtype="4dots"/><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_50373">
+               <persName>Benedikt, Moriz</persName>
+               <birth>
+                  <date>1849-5-27</date>
+                  <place>Kwatschitz/Mähren</place>
+               </birth>
+               <death>
+                  <date>1920-3-18</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <note type="comment">Geburtsort Kwatschitz bei Ungarisch Hradisch/Mähren, nicht Kwassitz bei Kremsier</note>
+               <note type="comment">1. Tor, 20/1/1a</note>
+               <note type="comment">Hrsg. der NFP (seit 1908 alleiniger Leiter)</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10875</idno></person>
+            <person xml:id="fk__p_41477">
+               <persName>Vogler, Ludwig</persName>
+               <birth>
+                  <date>1849-6-14</date>
+                  <place>Hinterbrühl</place>
+               </birth>
+               <death>
+                  <date>1922-12-20</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Rechtsanwalt</occupation>
+               <occupation>Politiker</occupation>
+               <note type="comment">Reichsratsabgeordneter 1901-07</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

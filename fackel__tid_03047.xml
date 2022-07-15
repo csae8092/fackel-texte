@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03047.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03046.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03048.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Balletonkel. (Die russische Tänzerin), in: Fackel Heft 04, Nr. 134, 1903, S. 31-31</title>
+            <title type="iso-date">1903-04-6</title>
+            <title type="id">tid_03047</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">04</title><title type="heft">134</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-04-134_n0031.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/134,031</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Balletonkel. (Die russische Tänzerin)</head>
+            <p ana="pr30025">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="n_26002" key="#fk__p_38685">Balletonkel</rs>.</seg></seg></seg> Ob die <rs type="pers" ana="n_26003" ref="#fk__p_49852">Kschesinska</rs> recht hat oder die <rs type="pers" ana="n_26004" ref="#fk__p_53371">Sironi</rs>? Oder<lb/>
+die <rs type="pers" ana="n_26005" ref="#fk__p_46510">Duncan</rs>? Immer die, welche zuletzt die <seg type="insult">Wiener Pressleute</seg> zu einem <foreign xml:lang="en">»Five<lb/>
+o’ clock tea«</foreign> geladen hat. Nach dem Geständnis <seg type="insult">eines der Herren</seg> hat die<lb/>
+Russin <seg type="insult">ihren Wiener Bekannten</seg> <seg type="insult">»goldene und andere Kleinigkeiten«</seg> in Aussicht<lb/>
+ gestellt. Mit <seg type="insult">unverblümter Erwartungsfreudigkeit</seg> werden Beziehungen<lb/>
+zu einem höchsten russischen Herrn angedeutet und schmunzelnd die<lb/>
+Mär verbreitet, <abbr>Frl.</abbr> <rs type="pers" ana="n_26006" ref="#fk__p_49852">Kschesinska</rs> habe täglich 3600 Kronen zu verzehren.<lb/>
+Ja, <seg type="insult">unsere Presse</seg> erfüllt ihren Zweck, <seg type="insult">Wissen und Aufklärung</seg> zu verbreiten<lb/>
+. Es waren stürmische Tage. Zwischen <rs type="inst">Hôtel Bristol</rs> und <rs type="inst">Hôtel<lb/>
+Imperial</rs>, zwischen <rs type="pers" ana="n_26007" ref="#fk__p_46510">Duncan</rs> und <rs type="pers" ana="n_26008" ref="#fk__p_49852">Kschesinska</rs> immer treppauf, treppab.<lb/>
+<seg type="insult">Wiens Publicistik</seg> hat sich überessen. Und Wiens Publicum verspürt<lb/>
+einen Brechreiz.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_49852">
+               <persName>Kschessinska, Mathilde</persName>
+               <birth>
+                  <date>1872-8-31</date>
+                  <place>Ligovo bei Peterhof</place>
+               </birth>
+               <death>
+                  <date>1971-12-6</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Tänzerin</occupation>
+               <note type="comment">Namenskorrektur!</note>
+               <note type="comment">Matylda Krzesinska</note>
+            </person>
+            <person xml:id="fk__p_46510">
+               <persName>Duncan, Isadora</persName>
+               <birth>
+                  <date>1878-5-27</date>
+                  <place>San Francisco</place>
+               </birth>
+               <death>
+                  <date>1927-9-14</date>
+                  <place>Nizza</place>
+               </death>
+               <occupation>Tänzerin</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/3467</idno></person>
+            <person xml:id="fk__p_53371">
+               <persName>Sironi, Irene</persName>
+               <birth>
+                  <date>1877-12-7</date>
+                  <place>Mailand</place>
+               </birth>
+               <death>
+                  <date>1961</date>
+                  <place>Como</place>
+               </death>
+               <occupation>Tänzerin</occupation>
+               <note type="comment">Solo-Tänzerin der Wiener Hofoper; 4., Hauptstr. 15 (=Wiedner Hptstr.?)</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

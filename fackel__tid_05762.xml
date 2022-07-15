@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_05762.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05761.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05763.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Meine Zeitgenossen, in: Fackel Heft 14, Nr. 347, 1912, S. 54-54</title>
+            <title type="iso-date">1912-01-01</title>
+            <title type="id">tid_05762</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">14</title><title type="heft">347</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-14-347_n0054.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/347,054</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Meine Zeitgenossen</head>
+            <p ana="pr76068">
+<space/>» <seg type="symbol" subtype="3dots"/> Die vorgestrige Preiskonkurrenz brachte Fräulein <rs type="pers" ana="n_54502" ref="#fk__p_49199">Louise<lb/>
+Kemtner</rs>, der Schwester der bekannten Hernalser Gastwirtin <rs type="pers" ana="n_54503" ref="#fk__p_47988">Koncel</rs>,<lb/>
+mit dem kleinsten Fuß (19½) und Herrn <rs type="pers" ana="n_54504" ref="#fk__p_56631">Moritz Mayer</rs> mit der größten<lb/>
+Glatze den ersten Preis. Heute werden die engste Damentaille und die<lb/>
+größte Nase prämiiert.«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_56631">
+               <persName>Mayer, Moritz </persName>
+               <note type="comment">bei Wettbewerb der Herr mit der größten Glatze</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/34855</idno></person>
+            <person xml:id="fk__p_47988">
+               <persName>Koncel, Elisabeth</persName>
+               <birth>
+                  <date>1882-11-19</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>leer</date>
+               </death>
+               <occupation>Gastwirtin</occupation>
+               <note type="comment">17., Teichgasse 1</note>
+               <note type="comment">Frl. Louise Kemtner, Schwester der bekannten Hernalser Gastwirtin Koncel</note>
+            </person>
+            <person xml:id="fk__p_49199">
+               <persName>Kemtner, Louise</persName>
+               <note type="comment">Schwester der bekannten Hernalser Gastwirtin Koncel</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

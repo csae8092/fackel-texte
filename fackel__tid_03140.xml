@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03140.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03139.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03141.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lupus und Reclamesucht, in: Fackel Heft 05, Nr. 138, 1903, S. 13-14</title>
+            <title type="iso-date">1903-05-20</title>
+            <title type="id">tid_03140</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">05</title><title type="heft">138</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-05-138_n0013.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/138,013</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Lupus und Reclamesucht</head>
+            <p ana="pr30843">
+<space/><inciptit>Wer</inciptit> die großen <seg type="insult">Reclameartikel</seg> über den Besuch des Unterrichtsministers<lb/>
+ im »<rs type="inst">Institut für Radiotherapie</rs>« <seg type="insult">des Herrn Professors<lb/>
+<rs type="pers" ana="n_26747" ref="#fk__p_40895">Schiff</rs></seg> in die Zeitungen gegeben hat: <seg type="insult">Herr <rs type="pers" ana="n_26748" ref="#fk__p_55511"><abbr>v.</abbr> Hartel</rs> oder Herr<lb/>
+<rs type="pers" ana="n_26749" ref="#fk__p_40895">Schiff</rs></seg>? Ja, wer das wissen könnte! Wenn man diese Berichte<lb/>
+liest, kommt man erst zur Ueberzeugung, welch harmlose Krankheit<lb/>
+der Lupus neben der <seg type="insult">Reclamesucht</seg> ist. »Jeder Patient hielt eine<lb/>
+Photographie in der Hand, die sein Aussehen vor der Behandlung<lb/>
+zeigte«. Der Besuch des Ministers kam für <seg type="insult">Herrn <rs type="pers" ana="n_26750" ref="#fk__p_40895"><abbr>Dr.</abbr> Schiff</rs></seg> also<lb/>
+überraschend. Die Worte, die er in seiner Ansprache gebrauchte:<lb/>
+</p>
+            <p ana="pr30843">
+»Ihr Besuch liefert mir den Beweis, daß <seg type="spc">mein Bemühen</seg> nicht<lb/>
+ganz vergebens gewesen ist«, sollten sich natürlich auf die Heilung<lb/>
+der Kranken beziehen.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_55511">
+               <persName>Hartel, Wilhelm Ritter von</persName>
+               <birth>
+                  <date>1839-05-28</date>
+                  <place>Hof/Mähren</place>
+               </birth>
+               <death>
+                  <date>1907-01-14</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Altphilologe</occupation>
+               <occupation>Politiker</occupation>
+               <note type="comment">Friedhof Penzing (=Kontrahentenfriedhof) Tel. 985 64 07</note>
+               <note type="comment">Unterrichtsminister 1900-05</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15937</idno></person>
+            <person xml:id="fk__p_40895">
+               <persName>Schiff, Eduard</persName>
+               <birth>
+                  <date>1849-03-04</date>
+                  <place>Triest</place>
+               </birth>
+               <death>
+                  <date>1913-03-05</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Dermatologe</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_19682</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/24163</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,43 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06381.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06380.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06382.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">In Ehrerbietung, in: Fackel Heft 15, Nr. 378, 1913, S. 53-54</title>
+            <title type="iso-date">1913-07-01</title>
+            <title type="id">tid_06381</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">15</title><title type="heft">378</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-15-378_n0053.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/378,053</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>In Ehrerbietung</head>
+            <p ana="pr86032">
+hat <rs type="pers" ana="n_59350" ref="#fk__p_43433">Frank Wedekind</rs> der Wiener Presse gedankt. Das macht<lb/>
+nichts, ihm schadt’s nicht und ihr nutzt’s nicht. Sollte aber doch<lb/>
+etwas <seg type="insult">Ehre</seg> haften geblieben sein, weil <foreign xml:lang="la">semper aliquid haeret</foreign> —<lb/>
+so bin ich ja doch auch da, und ich werd’s schon wieder<lb/>
+wegbringen.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_43433">
+               <persName>Wedekind, Frank</persName>
+               <birth>
+                  <date>1864-7-24</date>
+                  <place>Hannover</place>
+               </birth>
+               <death>
+                  <date>1918-3-9</date>
+                  <place>München</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/13068</idno></person>
+            </listPerson></back></text>
+</TEI>

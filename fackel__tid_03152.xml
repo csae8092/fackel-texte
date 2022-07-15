@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03152.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03151.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03153.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">‚Zeit‘-Genosse. (Der taktlose Mensch), in: Fackel Heft 05, Nr. 138, 1903, S. 22-22</title>
+            <title type="iso-date">1903-05-20</title>
+            <title type="id">tid_03152</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">05</title><title type="heft">138</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-05-138_n0022.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/138,022</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>‚Zeit‘-Genosse. (Der taktlose Mensch)</head>
+            <p ana="pr30899">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="name_203350" ref="#fk__p_60621"><SPAN cont="Zeit-Genosse">‚<rs type="paper" ana="werk_11596">Zeit</rs>‘-Genosse</SPAN></rs>.</seg></seg></seg> In der ‚<rs type="paperRef" ana="werk_41187">Sonntags-Zeit</rs>‘ vom <date>17. Mai</date> ist eine<lb/>
+Studie von <rs type="pers" ana="n_26814" ref="#fk__p_43547">Franz Molnar</rs>, betitelt <seg type="insult">»<rs type="title">Der taktlose Mensch</rs>«</seg> abgedruckt.<lb/>
+Der Verfasser lässt den taktlosen Menschen eine Namensverwechslung<lb/>
+mit den Worten entschuldigen: »Das ist alleseins. <rs type="pers" ana="n_26815" key="#fk__p_57170">Fritz</rs> oder <rs type="pers" ana="n_26816" ref="#fk__p_56584">Ludwig</rs>,<lb/>
+darum habe ich ihn doch ebenso gern. <seg type="spc">Es thut nichts</seg>, <seg type="spc">wenn er<lb/>
+auch <rs type="pers" ana="n_26817" ref="#fk__p_46524">Isidor</rs> hieße</seg>«. Nun, taktvoll ist es wirklich nicht, in <seg type="insult">Herrn<lb/>
+<rs type="pers" ana="n_26818" ref="#fk__p_46524">Singers</rs> Hause</seg> von derlei peinlichen Dingen zu sprechen; aber Herr<lb/>
+<rs type="pers" ana="n_26819" ref="#fk__p_43547">Molnar</rs> hat recht, und auch ich habe mich ja neulich gegen die Zumuthung<lb/>
+ verwahrt, daß ich mich über den Namen »<rs type="pers" ana="n_26820" ref="#fk__p_46524">Isidor</rs>« lustig<lb/>
+machen wollte <seg type="symbol" subtype="4dots"/><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_60621">
+               <persName>‚Zeit‘-Genosse</persName>
+               <note type="comment"/>
+            </person>
+            <person xml:id="fk__p_43547">
+               <persName>Molnár, Franz</persName>
+               <birth>
+                  <date>1878-1-12</date>
+                  <place>Budapest</place>
+               </birth>
+               <death>
+                  <date>1952-4-1</date>
+                  <place>New York</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            </person>
+            <person xml:id="fk__p_46524">
+               <persName>Singer, Isidor</persName>
+               <birth>
+                  <date>1857-01-16</date>
+                  <place>Pest</place>
+               </birth>
+               <death>
+                  <date>1927-12-08</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Nationalökonom</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12790</idno></person>
+            <person xml:id="fk__p_56584">
+               <persName>Ludwig</persName>
+               <note type="comment">Namensbeispiel: Fritz oder Ludwig, das ist alles eins</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/28076</idno></person>
+            </listPerson></back></text>
+</TEI>

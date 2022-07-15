@@ -1,0 +1,42 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_08510.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08509.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08511.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Originaltelegramm, in: Fackel Heft 20, Nr. 484, 1918, S. 199-199</title>
+            <title type="iso-date">1918-10-01</title>
+            <title type="id">tid_08510</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">20</title><title type="heft">484</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-20-484_n0199.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/484,199</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Originaltelegramm</head>
+            <p ana="pr111706">
+<space/>Die <rs type="inst">ottomanische Universität</rs> hat für den <rs type="pers" ana="n_69544" ref="#fk__p_50689">Friedens-Nobel-Preis</rs><lb/>
+den deutschen Kaiser vorgeschlagen.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_50689">
+               <persName>Nobel, Alfred</persName>
+               <birth>
+                  <date>1833-10-21</date>
+                  <place>Stockholm</place>
+               </birth>
+               <death>
+                  <date>1896-12-10</date>
+                  <place>San Remo</place>
+               </death>
+               <occupation>Chemiker</occupation>
+               <occupation>Ingenieur</occupation>
+               <occupation>Industrieller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/3810</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07249.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07248.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07250.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Name und Beruf des Vaters, in: Fackel Heft 18, Nr. 426, 1916, S. 80-80</title>
+            <title type="iso-date">1916-06-01</title>
+            <title type="id">tid_07249</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">18</title><title type="heft">426</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-18-426_n0080.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/426,080</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Name und Beruf des Vaters</head>
+            <p ana="pr98047">
+<space/><seg type="sidehead">(<rs type="pers" ana="n_65065" ref="#fk__p_44768">Graf Tolstoi</rs>,)</seg> ein Sohn des verstorbenen russischen <seg type="spc">Schriftstellers<lb/>
+<rs type="pers" ana="n_65066" ref="#fk__p_48747">Leopold Tolstoi</rs></seg> war als russischer Kadett in Gefangenschaft geraten<lb/>
+und in Millwitz in Böhmen interniert worden. Nachdem er dort einige<lb/>
+mißlungene Fluchtversuche unternommen hatte, wurde er Ende der vorigen<lb/>
+Woche in das Kriegsgefangenenlager nach Braunau übergeführt.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_44768">
+               <persName>Tolstoi, André Lwowitsch? Graf</persName>
+               <birth>
+                  <date>1877</date>
+               </birth>
+               <note type="comment">F 426 Juni 1916: Sohn Tolstois als russ. Kadett in Gefangenschaft geraten, interniert in Millwitz/Böhmen, transferiert nach Braunau</note>
+               <note type="comment">Leo Tolstoi, Tagebuch</note>
+            </person>
+            <person xml:id="fk__p_48747">
+               <persName>Tolstoi, Leo Nikolajewitsch</persName>
+               <birth>
+                  <date>1828-9-9</date>
+                  <place>Jasnaja Poljana (Gouv. Tula)</place>
+               </birth>
+               <death>
+                  <date>1910-11-20</date>
+                  <place>Astapowo (Gouv. Tambow)</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_20772</idno></person>
+            </listPerson></back></text>
+</TEI>

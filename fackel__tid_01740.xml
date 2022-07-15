@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01740.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01739.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01741.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Advocat. (Geschwornen-Zwischenrufe), in: Fackel Heft 03, Nr. 073, 1901, S. 29-29</title>
+            <title type="iso-date">1901-04-01</title>
+            <title type="id">tid_01740</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">03</title><title type="heft">073</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-03-073_n0029.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/073,029</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Advocat. (Geschwornen-Zwischenrufe)</head>
+            <p ana="pr17284">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="n_14575" ref="#fk__p_37858">Advocat</rs>.</seg></seg></seg> Dem Urtheil, das in der »<rs type="magazineRef" ana="werk_5488">Wochenschau</rs>« der<lb/>
+‚<rs type="magazine" ana="werk_5489">Juristischen Blätter</rs>‘ (<abbr>Nr.</abbr> 13) über die Geschwornen-Zwischenrufe<lb/>
+gefällt wird, stimme ich in allen Punkten bei und freue mich, das<lb/>
+Verhalten <seg type="insult">des Herrn <rs type="pers" ana="n_14576" ref="#fk__p_41553"><abbr>Dr.</abbr> Morgenstern</rs> und der übrigen <foreign xml:lang="">Barreau-Leute<lb/>
+</foreign></seg> so treffend charakterisiert zu finden. Der Verfasser der »<rs type="magazineRef" ana="werk_5491">Wochenschau<lb/>
+</rs>« misst dem Vertheidiger seinen Theil Schuld an <seg type="insult">der jüngsten<lb/>
+Ausschreitung eines Geschwornen</seg> zu und erklärt: »Gelingt es ihm<lb/>
+(dem Anwalt) nicht, sich in das Empfindungsleben der zwölf Männer<lb/>
+hineinzuversetzen, so kann er noch immer <seg type="spc">unter Verzicht auf<lb/>
+Witz und Humor</seg>, <seg type="spc">die nur bei Gleichgestimmten anklingen<lb/>
+</seg>, die Sache einfach sachlich behandeln.« Das Unglück <seg type="insult">des<lb/>
+Herrn <rs type="pers" ana="n_14577" ref="#fk__p_41553"><abbr>Dr.</abbr> Morgenstern</rs></seg> und ein Glück für Wien ist es eben, dass<lb/>
+sich hier keine mit den <seg type="insult"><foreign xml:lang=""><SPAN cont="Barreau-Männern">‚<rs type="magazine" ana="werk_5492">Barreau</rs>‘-Männern</SPAN></foreign></seg> gleichgestimmte Jury<lb/>
+zusammenstellen lässt, bei der der Vergleich mit der <seg type="insult">Firma <rs type="inst"><rs type="pers" ana="n2_1170" ref="#fk__p_58889">Schenker</rs><lb/>
+&amp; <abbr>Co.</abbr></rs></seg> Anklang fände.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_58889">
+               <persName>Schenker (Schenker &amp; Comp., Speditionsfirma)</persName>
+            </person>
+            <person xml:id="fk__p_41553">
+               <persName>Morgenstern, Gustav Christian</persName>
+               <birth>
+                  <date>1857-2-21</date>
+                  <place>Budapest</place>
+               </birth>
+               <death>
+                  <date>1922-4-14</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Rechtsanwalt</occupation>
+               <occupation>Publizist</occupation>
+               <note type="comment">Hrsg. "Das Forum"</note>
+            </person>
+            <person xml:id="fk__p_37858">
+               <persName>Advocat</persName>
+            </person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_10035.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10034.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10036.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Kleiner Musikvereinssaal, 8. Dezember, 7 Uhr:, in: Fackel Heft 26, Nr. 676, 1925, S. 42-42</title>
+            <title type="iso-date">1925-01-01</title>
+            <title type="id">tid_10035</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">26</title><title type="heft">676</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-26-676_n0042.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/676,042</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Kleiner Musikvereinssaal, 8. Dezember, 7 Uhr:</head>
+            <p ana="pr136423">
+<space/><rs type="inst">Kleiner Musikvereinssaal</rs>, <date>8. Dezember</date>, 7 Uhr:<lb/>
+</p>
+            <p ana="pr136424">
+<space/><rs type="pers" ana="n_83825" ref="#fk__p_44354"><seg type="spc">Gerhart Hauptmann</seg></rs>: <rs type="title"><seg type="spc">Die Weber</seg></rs>.<lb/>
+</p>
+            <p ana="pr136425">
+<space/>Der volle Ertrag (<abbr>inkl.</abbr> Programmerlös): K 6,044.800 für<lb/>
+die Weihnachtsaktion <date>1924</date> der Kriegsopfer im <rs type="inst"><rs type="pers" ana="n2_7429" ref="#fk__p_42919">Rainer-Spital</rs></rs>, Wien, XIII.,<lb/>
+und für Unterstützungsbedürftige.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_42919">
+               <persName>Rainer, Erzherzog</persName>
+               <birth>
+                  <date>1827-01-11</date>
+                  <place>Mailand</place>
+               </birth>
+               <death>
+                  <date>1913-01-27</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <occupation>Wissenschaftsförderer</occupation>
+            </person>
+            <person xml:id="fk__p_44354">
+               <persName>Hauptmann, Gerhart</persName>
+               <birth>
+                  <date>1862-11-15</date>
+                  <place>Salzbrunn, Schlesien</place>
+               </birth>
+               <death>
+                  <date>1946-6-6</date>
+                  <place>Agnetendorf</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Ögg teilt die indirekte Stelle 521/64 zu, irrtümlich</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11617</idno></person>
+            </listPerson></back></text>
+</TEI>

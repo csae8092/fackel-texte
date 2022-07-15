@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_09055.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09054.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09056.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Festsaal des Niederösterreichischen Gewerbevereines, 30. November, in: Fackel Heft 23, Nr. 583, 1921, S. 33-33</title>
+            <title type="iso-date">1921-12-01</title>
+            <title type="id">tid_09055</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">23</title><title type="heft">583</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-23-583_n0033.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/583,033</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Festsaal des Niederösterreichischen Gewerbevereines, 30. November</head>
+            <p ana="pr120837">
+<space/><rs type="inst">Festsaal des Niederösterreichischen Gewerbevereines</rs>, <date>30. November<lb/>
+</date>, 7 Uhr:<lb/>
+</p>
+            <p ana="pr120838">
+<space/><rs type="pers" ana="n_74121" ref="#fk__p_46919"><seg type="spc">Johann Nestroy</seg></rs>: <rs type="title"><seg type="spc">Der Zerrissene</seg></rs>, Posse mit<lb/>
+Gesang in drei Akten.<lb/>
+</p>
+            <p ana="pr120839">
+<space/>Zugabe: »<rs type="title">Dieses <foreign xml:lang="de-loc">G’fühl</foreign> <seg type="symbol" subtype="3dots"/> ja da glaubt man, man sinkt in<lb/>
+die <foreign xml:lang="de-loc">Erd’</foreign></rs>« und zwei Zusatzstrophen.<lb/>
+</p>
+            <p ana="pr120840">
+<space/>[Die Handlung ist dem Französischen (<rs type="title"><foreign xml:lang="fr">L’ homme blasé</foreign></rs>) nachgebildet<lb/>
+.]<lb/>
+</p>
+            <p ana="pr120841">
+<space/>Der volle Ertrag — wie <date>15. November</date> und mit Ermäßigung der<lb/>
+Programmkosten —: K 40.953 für die »<rs type="inst">Gesellschaft der Freunde</rs>« (I. Singerstraße<lb/>
+ 16), den I. <rs type="inst"><abbr>österr.</abbr> Blindenverein</rs> (VIII. Florianigasse 41, <abbr>Konto-Nr.<lb/>
+</abbr> 108.689), den <rs type="inst">Arbeiterverein »Kinderfreunde«</rs> (<rs type="inst">Erholungsstättenfonds<lb/>
+</rs>, XIII/2, Schönbrunn, Haupttrakt) und für notleidende Familien.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46919">
+               <persName>Nestroy, Johann Nepomuk</persName>
+               <birth>
+                  <date>1801-12-7</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1862-5-25</date>
+                  <place>Graz</place>
+               </death>
+               <occupation>Sänger</occupation>
+               <occupation>Schauspieler</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12338</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_04434.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04433.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04435.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Frauenkenner. (Ein Frauenkenner), in: Fackel Heft 08, Nr. 222, 1907, S. 14-15</title>
+            <title type="iso-date">1907-03-27</title>
+            <title type="id">tid_04434</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">08</title><title type="heft">222</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-08-222_n0014.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/222,014</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Frauenkenner. (Ein Frauenkenner)</head>
+            <p ana="pr48500">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="name_203560" key="#fk__p_60689">Frauenkenner</rs>.</seg></seg></seg> Der Kritiker der ‚<rs type="" ana="werk_15357">Deutschen Zeitung</rs>‘ hat eine Entdeckung<lb/>
+ gemacht, die ihm den <rs type="pers" ana="n_39104" ref="#fk__p_50689">Nobelpreis</rs> eintragen dürfte. Man wird dann<lb/>
+erst begreifen, warum <rs type="pers" ana="n_39105" ref="#fk__p_38582">Strindberg</rs> diese Institution so sehr mißbilligt. <seg type="insult">Herr<lb/>
+<rs type="pers" ana="n_39106" ref="#fk__p_48707">Leitich</rs></seg> schreibt: »Es wäre traurig, wenn die Unterordnung des Weibes unter<lb/>
+den Mann in der Erwürgung ihrer ethischen Lebenskräfte bestände. Das<lb/>
+Umgekehrte muß der Dichter — und wahre Dichter haben es jederzeit<lb/>
+und überall getan — zum Weltgesetz erheben: daß <seg type="insult">der <seg type="spc">von Natur<lb/>
+aus zügellosere</seg>, <seg type="spc">leichtsinnigere und in erotischen Fragen<lb/>
+gewissensschwächere Mann</seg></seg> durch die dem guten <seg type="spc">Weibe innewohnende</seg><lb/>
+</p>
+            <p ana="pr48500">
+<seg type="spc"> <seg type="insult">höhere sittliche Würde</seg></seg> gebessert oder zum mindesten<lb/>
+ in Schranken der Scham gehalten werde.« <seg type="insult">Goldene Worte!</seg> Man<lb/>
+glaubt zu träumen, wenn man <seg type="insult">dergleichen</seg> heutzutage liest. Aber das<lb/>
+wahre Verhältnis der Geschlechter wird eben erst offenbar, wenn <seg type="insult">ein<lb/>
+Mitglied des <rs type="inst">Christlichen Frauenbundes</rs></seg> einen <seg type="insult">»Simandl«</seg> bändigt.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_38582">
+               <persName>Strindberg, August</persName>
+               <birth>
+                  <date>1849-1-22</date>
+                  <place>Stockholm</place>
+               </birth>
+               <death>
+                  <date>1912-5-14</date>
+                  <place>Stockholm</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12877</idno></person>
+            <person xml:id="fk__p_50689">
+               <persName>Nobel, Alfred</persName>
+               <birth>
+                  <date>1833-10-21</date>
+                  <place>Stockholm</place>
+               </birth>
+               <death>
+                  <date>1896-12-10</date>
+                  <place>San Remo</place>
+               </death>
+               <occupation>Chemiker</occupation>
+               <occupation>Ingenieur</occupation>
+               <occupation>Industrieller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/3810</idno></person>
+            <person xml:id="fk__p_48707">
+               <persName>Leitich, Albert</persName>
+               <birth>
+                  <date>1869-10-5</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1908-6-27</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Kritiker</occupation>
+               <note type="comment">Red. der Deutschen Zeitung"</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2962</idno></person>
+            </listPerson></back></text>
+</TEI>

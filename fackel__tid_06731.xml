@@ -1,0 +1,101 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06731.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06730.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06732.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Qualitäten, in: Fackel Heft 16, Nr. 398, 1914, S. 12-13</title>
+            <title type="iso-date">1914-04-01</title>
+            <title type="id">tid_06731</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">16</title><title type="heft">398</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-16-398_n0012.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/398,012</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Qualitäten</head>
+            <p ana="pr90785">
+<space/><seg type="insult">Herr <rs type="pers" ana="n_61813" ref="#fk__p_51242">Schlenther</rs></seg> empfiehlt seinen Nachfolger <rs type="pers" ana="n_61814" ref="#fk__p_46351">Thimig</rs>:<lb/>
+</p>
+            <p ana="pr90787">
+<space/><seg type="spc">Dabei reichte sein Blick</seg> immer über die Bretterzäune<lb/>
+der Bühnenwelt <seg type="spc">hinaus in alle Wirklichkeit</seg>. Wie sein Vorgänger<lb/>
+<rs type="pers" ana="n_61815" ref="#fk__p_48628"><seg type="spc">Laube</seg></rs> ist er ein leidenschaftlicher <seg type="spc">Gemsjäger</seg>, wie der große<lb/>
+Schauspieler <rs type="pers" ana="n_61816" ref="#fk__p_53047"><seg type="spc">Schröder</seg></rs> baut er auf eigenen Gütern seinen <seg type="spc">Spargel</seg><lb/>
+</p>
+            <p ana="pr90787">
+und seinen <seg type="spc">Kohl</seg>; wie jeder bessere Wiener Schauspieler verkehrt er<lb/>
+mit Erzherzogen, Fürsten und Grafen; kein Bauernkind und keine<lb/>
+Märchenprinzessin ist vor dem satirischen Humor seines <seg type="spc">photographischen<lb/>
+ Kunstapparats</seg> sicher.<lb/>
+</p>
+            <p ana="pr90789">
+<space/>Aber wenn er noch dazu wie sein Vorgänger <rs type="pers" ana="n_61817" ref="#fk__p_51242">Schlenther</rs><lb/>
+im <rs type="inst">Löwenbräu</rs> sitzen wird, so kanns dem <rs type="inst">Burgtheater</rs> in nichts<lb/>
+mehr fehlen.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46351">
+               <persName>Thimig, Hugo</persName>
+               <birth>
+                  <date>1854-6-16</date>
+                  <place>Dresden</place>
+               </birth>
+               <death>
+                  <date>1944-9-24</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <occupation>Theaterleiter</occupation>
+               <note type="comment">1874-1917 Burgtheater</note>
+               <note type="comment">Burgth. Dir. 1. 9. 1912 bis 17. 3. 1917</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12948</idno></person>
+            <person xml:id="fk__p_53047">
+               <persName>Schröder, Friedrich Ludwig</persName>
+               <birth>
+                  <date>1744-11-03</date>
+                  <place>Schwerin</place>
+               </birth>
+               <death>
+                  <date>1816-09-03</date>
+                  <place>Gut Rellingen/Holstein</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+            </person>
+            <person xml:id="fk__p_48628">
+               <persName>Laube, Heinrich</persName>
+               <birth>
+                  <date>1806-09-18</date>
+                  <place>Sprottau/Schles.</place>
+               </birth>
+               <death>
+                  <date>1884-08-01</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Theaterleiter</occupation>
+               <occupation>Übersetzer</occupation>
+               <note type="comment">Burgtheaterdirektor 1850-67</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2702</idno></person>
+            <person xml:id="fk__p_51242">
+               <persName>Schlenther, Paul</persName>
+               <birth>
+                  <date>1854-8-20</date>
+                  <place>Insterburg, Ostpreußen</place>
+               </birth>
+               <death>
+                  <date>1916-4-30</date>
+                  <place>Berlin</place>
+               </death>
+               <occupation>Literarhistoriker</occupation>
+               <occupation>Kritiker</occupation>
+               <occupation>Theaterleiter</occupation>
+               <note type="comment">26. 1. 1898 - 28. 2. 1910 Burgtheater</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12671</idno></person>
+            </listPerson></back></text>
+</TEI>

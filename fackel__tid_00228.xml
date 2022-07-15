@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00228.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00227.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00229.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Frau E. L., Schriftstellerin., in: Fackel Heft 01, Nr. 010, 1899, S. 32-32</title>
+            <title type="iso-date">1899-07-01</title>
+            <title type="id">tid_00228</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">010</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-010_n0032.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/010,032</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Frau E. L., Schriftstellerin.</head>
+            <p ana="pr2232">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i">Frau <rs type="pers" ana="n_1634" ref="#fk__p_49218"><abbr>E. L.</abbr></rs>, Schriftstellerin.</seg></seg></seg> Ich nehme mit Vergnügen zur<lb/>
+Kenntnis, dass Sie nicht erst anlässlich der <seg type="insult">Bekränzung des Herrn<lb/>
+<rs type="pers" ana="n_1635" ref="#fk__p_50712">Noske</rs></seg> in die Oeffentlichkeit getreten sind, sondern schon früher<lb/>
+<seg type="insult">»für <seg type="ELIDASH">inländische</seg> und ausländische Zeitungen mehr oder weniger gut bezahlte<lb/>
+Artikeln«</seg> geschrieben haben.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_50712">
+               <persName>Noske, Constantin</persName>
+               <birth>
+                  <date>1848-10-28</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1920-3-10</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Versicherungsbeamter</occupation>
+               <occupation>Journalist</occupation>
+               <occupation>Politiker</occupation>
+               <note type="comment">Gen. Sekretär des Fabriken-Rückversicherungsverbandes, 1., Börsegasse 10</note>
+               <note type="comment">Le Figaro 25.07.1901, Seite 2 schreibt Constantin Doske</note>
+            </person>
+            <person xml:id="fk__p_49218">
+               <persName>Löwenberg, Emilie, geb. Weissberger</persName>
+               <birth>
+                  <date>1859-6-23</date>
+                  <place>Kolin/Böhmen</place>
+               </birth>
+               <death>
+                  <date>1935-8-23</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schriftstellerin</occupation>
+               <note type="comment">verh. mit Josef Carl Löwenberg, Gen.Dir. der Lebensvers. "New York" (1852?-23.03.1934)</note>
+               <note type="comment">9., Frankgasse 4/8</note>
+               <note type="comment">Wiener Tagblatt 23.06.1899 (Nr. 170, Abendblatt), Seite 2</note>
+               <note type="comment">Bruder Arnold Weissberger 08.01.1913 Pernitz</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

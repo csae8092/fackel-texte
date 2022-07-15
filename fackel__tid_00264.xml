@@ -1,0 +1,45 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00264.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00263.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00265.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Albert J., in: Fackel Heft 01, Nr. 011, 1899, S. 31-31</title>
+            <title type="iso-date">1899-07-01</title>
+            <title type="id">tid_00264</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">011</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-011_n0031.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/011,031</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Albert J.</head>
+            <p ana="pr2498">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_1823" ref="#fk__p_37923">Albert <abbr>J.</abbr></rs></seg></seg> Gewiss erinnere ich mich. Dank und Gruß! Ihre<lb/>
+Verbesserung des falschen <rs type="pers" ana="n_1824" ref="#fk__p_43876">Schiller’schen Citats</rs> jedoch ist auch nicht<lb/>
+einwandfrei; es heißt richtig »sie«, — die Natur.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_37923">
+               <persName>J., Albert</persName>
+            </person>
+            <person xml:id="fk__p_43876">
+               <persName>Schiller, Friedrich von</persName>
+               <birth>
+                  <date>1759-11-10</date>
+                  <place>Marbach am Neckar</place>
+               </birth>
+               <death>
+                  <date>1805-5-9</date>
+                  <place>Weimar</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Mortimer 363/9, 679/69, 912/7 und 912/58 ist von Ögg Shakespeare zugeordnet</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12654</idno></person>
+            </listPerson></back></text>
+</TEI>

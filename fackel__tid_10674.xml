@@ -1,0 +1,111 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_10674.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10673.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10675.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Wien 1927, in: Fackel Heft 28, Nr. 743, 1926, S. 19-19</title>
+            <title type="iso-date">1926-12-01</title>
+            <title type="id">tid_10674</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">28</title><title type="heft">743</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-28-743_n0019.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/743,019</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Wien 1927</head>
+            <p ana="pr148780">
+<space/>Wir erhalten folgende Zuschrift: »Die gefertigten Geschäftsleute<lb/>
+der Sonnenfelsgasse im 1. Bezirk ersuchen die <abbr>löbl.</abbr> Schriftleitung um<lb/>
+die Veröffentlichung eines Artikels in Ihrem geschätzten <rs type="perRef" ana="werk_24289">Blatte</rs>,<lb/>
+betreffend die Prostitution in obgenannter Gasse. Mit <date>1. November 1926</date><lb/>
+wurden endlich die letzten Prostituierten dieser Gasse polizeilich<lb/>
+gestrichen, <seg type="spc">mithin von <seg type="insult">einem lästigen Übel</seg> befreit</seg>.<lb/>
+Da die Gasse seit <rs type="pers" ana="n_89372" ref="#fk__p_47097">Kaiser Josefs</rs> Zeiten verrufen war, bedeutete dies<lb/>
+auch einen großen Schaden für <seg type="spc">die umliegenden Geschäftsleute<lb/>
+</seg>.<lb/>
+</p>
+            <p ana="pr148781">
+Hochachtungsvoll<lb/>
+</p>
+            <p ana="pr148782">
+<rs type="pers" ana="n_89373" ref="#fk__p_43603">Franz Woinar</rs>, Cafetier; <rs type="pers" ana="n_89374" ref="#fk__p_46328">Hugo Franz</rs>, Friseur;<lb/>
+<rs type="pers" ana="n_89375" ref="#fk__p_53892"><abbr>Th.</abbr> Schöften</rs>, Wirt; <rs type="pers" ana="n_89376" ref="#fk__p_47139">Josef Rappusch</rs>, Installateur.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_43603">
+               <persName>Woinar, Franz</persName>
+               <birth>
+                  <date>1879-5-15</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1965-1-9</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Cafetier</occupation>
+               <note type="comment">Café: 1., Sonnenfelsgasse 9; Wohnung: 6., Stumpergasse 53</note>
+            </person>
+            <person xml:id="fk__p_46328">
+               <persName>Franz, Hugo</persName>
+               <birth>
+                  <date>1886-8-5</date>
+                  <place>Heinzendorf/Mähren</place>
+               </birth>
+               <death>
+                  <date>1944-12-28</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Friseur</occupation>
+               <note type="comment">1., Sonnenfelsgasse 3; Whg.: 9., Nußdorfer Str. 40</note>
+            </person>
+            <person xml:id="fk__p_47139">
+               <persName>Rappusch, Josef</persName>
+               <birth>
+                  <date>1884-11-22</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1937-1-14</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Installateur</occupation>
+               <note type="comment">ZF 18.01.1937, 87B/35/22 (bis 13.01.2008)</note>
+               <note type="comment">3., Erdbergstr. 127, 1., Sonnenfelsgasse 15</note>
+            </person>
+            <person xml:id="fk__p_47097">
+               <persName>Josef II.</persName>
+               <birth>
+                  <date>1741-03-13</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1790-02-20</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Kaiser</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/3084</idno></person>
+            <person xml:id="fk__p_53892">
+               <persName>Schöfbeck, Stefan </persName>
+               <birth>
+                  <date>1891-9-11</date>
+                  <place>Eibestal</place>
+               </birth>
+               <death>
+                  <date>1977-5</date>
+               </death>
+               <occupation>Gastwirt</occupation>
+               <note type="comment">Gast-Wirt 1927 in der Sonnenfelsgasse, Lugeck-Keller </note>
+               <note type="comment">1938: Spezialweinkellerei, 3., Radetzkystr. 6</note>
+               <note type="comment">Namenskorrektur!</note>
+               <note type="comment">Stefan Schöfbeck Sonnenfelsgasse 5; Wohnung 14., Goldschlagstrasse 45</note>
+               <note type="comment">Geschäftsleute Sonnenfelsgasse</note>
+               <note type="comment">SW-Friedhof 34/3/4 (bis 10. 03. 2013)</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

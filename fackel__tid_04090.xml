@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_04090.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04089.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04091.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Politiker. (Deutscher Sieg), in: Fackel Heft 07, Nr. 196, 1906, S. 22-22</title>
+            <title type="iso-date">1906-02-19</title>
+            <title type="id">tid_04090</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">07</title><title type="heft">196</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-07-196_n0022.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/196,022</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Politiker. (Deutscher Sieg)</head>
+            <p ana="pr42712">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="name_203261" ref="#fk__p_51590">Politiker</rs>.</seg></seg></seg> Nun wird’s für die Deutschen bald Tag werden!<lb/>
+<seg type="insult">Eine bedeutsame Wendung in der Sprachenfrage</seg>: Der tschechische<lb/>
+Direktor der Staatsbahndirektion in Pilsen, <seg type="insult">Herr <rs type="pers" ana="n_35232" ref="#fk__p_54304">Tuček</rs></seg>, ist durch<lb/>
+<seg type="insult">den Deutschen Herrn <rs type="pers" ana="n_35233" ref="#fk__p_53760">Strzizek</rs></seg> ersetzt worden.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_54304">
+               <persName>Tuček, Jaromir</persName>
+               <birth>
+                  <date>1846-12-15</date>
+                  <place>Prödlitz</place>
+               </birth>
+               <death>
+                  <date>leer</date>
+               </death>
+               <occupation>Bahnbeamter</occupation>
+            </person>
+            <person xml:id="fk__p_53760">
+               <persName>Střzizek, Franz</persName>
+               <birth>
+                  <date>1852?</date>
+               </birth>
+               <death>
+                  <date>1928-1-19</date>
+                  <place>Prag</place>
+               </death>
+               <occupation>Staatsbahndirektor</occupation>
+            </person>
+            <person xml:id="fk__p_51590">
+               <persName>Politiker</persName>
+            </person>
+            </listPerson></back></text>
+</TEI>

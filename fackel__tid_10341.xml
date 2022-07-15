@@ -1,0 +1,106 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_10341.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10340.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10342.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Auf der Durchreise, in: Fackel Heft 27, Nr. 697, 1925, S. 126-127</title>
+            <title type="iso-date">1925-10-01</title>
+            <title type="id">tid_10341</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">27</title><title type="heft">697</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-27-697_n0126.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/697,126</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Auf der Durchreise</head>
+            <p ana="pr140615">
+schreibt mir ein Schweizer:<lb/>
+</p>
+            <p ana="pr140617">
+Wien, <date>10. IV. 1925</date>.<lb/>
+</p>
+            <p ana="pr140618">
+<space/>Auf meiner Reise von der Schweiz nach dem Balkan mußte<lb/>
+ich mich einige Tage in Wien aufhalten und habe einen freien Abend<lb/>
+</p>
+            <p ana="pr140618">
+dazu benützt, um die Vorlesung von <rs type="pers" ana="n_85996" ref="#fk__p_44279">Georg Brandes</rs> zu besuchen. Der<lb/>
+greise Kulturpolitiker widmete einen nicht unbeträchtlichen Teil seiner<lb/>
+Ausführungen einer vernichtenden Polemik gegen die Presse. Er<lb/>
+bemerkte <abbr>u. a.</abbr>, daß die Presse stets <seg type="ELIDASH">literaturfeindlich</seg> und kulturfeindlich<lb/>
+gewesen sei, daß sie nur dazu diene, das Mittelmäßige zu fördern,<lb/>
+das Bedeutende aber zu verkleinern oder überhaupt totzuschweigen.<lb/>
+Zur Illustrierung dieser Ausführungen zitierte <rs type="pers" ana="n_85997" ref="#fk__p_44279">Brandes</rs> Aussprüche von<lb/>
+<rs type="pers" ana="n_85998" ref="#fk__p_46960">Goethe</rs>, <rs type="pers" ana="n_85999" ref="#fk__p_38501">Schopenhauer</rs> und <rs type="pers" ana="n_86000" ref="#fk__p_39266">Bismarck</rs>. Namentlich <seg type="insult">der vergiftenden<lb/>
+Tätigkeit der Presse</seg> vor dem Kriege und während des Krieges<lb/>
+wurde mit Eindringlichkeit gedacht. <rs type="pers" ana="n_86001" ref="#fk__p_44279">Brandes</rs> schwächte seine Ausführungen<lb/>
+ allerdings — wohl um die anwesenden Journalisten nicht zu<lb/>
+ärgern — zu Gunsten der österreichischen Presse ein wenig ab; diese<lb/>
+Abschwächung enthielt jedoch genug Sarkasmen. Tags darauf brachten<lb/>
+einige Wiener Zeitungen ziemlich vergrillte Auszüge aus diesem<lb/>
+Vortrag; die vehementen Angriffe gegen die Presse wurden natürlich<lb/>
+unterdrückt.<lb/>
+</p>
+            <p ana="pr140620">
+<space/>Das sind nur Eindrücke von der Durchreise. Auf dem<lb/>
+Balkan angelangt, dürfte der Schweizer wieder mehr europäische<lb/>
+Preßverhältnisse angetroffen haben.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_39266">
+               <persName>Bismarck, Otto Eduard Leopold Fürst</persName>
+               <birth>
+                  <date>1815-04-01</date>
+                  <place>Schönhausen</place>
+               </birth>
+               <death>
+                  <date>1898-07-30</date>
+                  <place>Friedrichsruh</place>
+               </death>
+               <occupation>Politiker</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13749</idno></person>
+            <person xml:id="fk__p_46960">
+               <persName>Goethe, Johann Wolfgang von</persName>
+               <birth>
+                  <date>1749-8-28</date>
+                  <place>Frankfurt am Main</place>
+               </birth>
+               <death>
+                  <date>1832-3-22</date>
+                  <place>Weimar</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">890/142f.</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11461</idno></person>
+            <person xml:id="fk__p_44279">
+               <persName>Brandes, Georg</persName>
+               <birth>
+                  <date>1842-2-4</date>
+                  <place>Kopenhagen</place>
+               </birth>
+               <death>
+                  <date>1927-2-19</date>
+                  <place>Kopenhagen</place>
+               </death>
+               <occupation>Literarhistoriker</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10992</idno></person>
+            <person xml:id="fk__p_38501">
+               <persName>Schopenhauer, Arthur</persName>
+               <birth>
+                  <date>1788-2-22</date>
+                  <place>Danzig</place>
+               </birth>
+               <death>
+                  <date>1860-9-21</date>
+                  <place>Frankfurt am Main</place>
+               </death>
+               <occupation>Philosoph</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/5787</idno></person>
+            </listPerson></back></text>
+</TEI>

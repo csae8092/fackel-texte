@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06346.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06345.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06347.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Im Zeitalter des Telegraphen, in: Fackel Heft 15, Nr. 378, 1913, S. 17-17</title>
+            <title type="iso-date">1913-07-01</title>
+            <title type="id">tid_06346</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">15</title><title type="heft">378</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-15-378_n0017.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/378,017</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Im Zeitalter des Telegraphen</head>
+            <p ana="pr85626">
+<space/><seg type="symbol" subtype="4dots"/> und wandte sich hierauf an den Bürgermeister von Ischl<lb/>
+kaiserlichen Rat <rs type="pers" ana="n_59090" ref="#fk__p_48708">Leithner</rs> mit der Frage: »Wie geht es Ihnen?« —<lb/>
+»<seg type="spc">Danke</seg>, <seg type="spc">Majestät, ich befinde mich wohl</seg>«, <seg type="spc">erwiderte der<lb/>
+Bürgermeister</seg>.<lb/>
+</p>
+            <p ana="pr85627">
+<space/><seg type="symbol" subtype="4dots"/> Dann wandte sich der <RS pers="Franz Joseph I." globID="name_201555">Kaiser</RS> an den Ischler Pfarrer, geistlichen<lb/>
+ Rat <rs type="pers" ana="n_59091" ref="#fk__p_56994">Stadler</rs>, mit den Worten: »Wie geht es Ihnen?« — »<seg type="spc">Danke<lb/>
+ergebenst</seg>,« <seg type="spc">lautete die Antwort</seg>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_56994">
+               <persName>Stadler, Franz Xaver</persName>
+               <birth>
+                  <date>1868-9-25</date>
+                  <place>Gilgenberg/Oberösterreich</place>
+               </birth>
+               <death>
+                  <date>1936-2-2</date>
+                  <place>Wels</place>
+               </death>
+               <occupation>Pfarrer</occupation>
+               <note type="comment">Ögg: Stadtler</note>
+               <note type="comment">in Bad Ischl 1911-36</note>
+            </person>
+            <person xml:id="fk__p_48708">
+               <persName>Leithner, Franz</persName>
+               <birth>
+                  <date>1849-08-17</date>
+                  <place>Bad Ischl</place>
+               </birth>
+               <death>
+                  <date>1930-05-27</date>
+                  <place>Bad Ischl</place>
+               </death>
+               <occupation>Büchsenmacher</occupation>
+               <occupation>Politiker</occupation>
+               <note type="comment">Bürgermeister 1905-19</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

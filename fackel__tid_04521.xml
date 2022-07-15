@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_04521.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04520.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04522.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Was den Theaterdirktoren heute erspart bleibt), in: Fackel Heft 09, Nr. 232, 1907, S. 8-9</title>
+            <title type="iso-date">1907-10-16</title>
+            <title type="id">tid_04521</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">09</title><title type="heft">232</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-09-232_n0008.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/232,008</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Was den Theaterdirktoren heute erspart bleibt)</head>
+            <p ana="pr50284">
+<space/>Ein <seg type="insult">Theaterplauderer</seg> erzählt, daß nach der<lb/>
+Première von »<rs type="title"><rs type="pers">Angot</rs></rs>« der Direktor <rs type="pers" ana="n_40044" ref="#fk__p_43509">Jauner</rs> eine aufgeregte<lb/>
+ Nacht verbracht hat. Der Erfolg schien ihm<lb/>
+unsicher und »er sah auch mit Bangen den Urteilen<lb/>
+der maßgebenden Kritiker entgegen. Während des<lb/>
+Nachtessens in einem Hotel steigerte sich <rs type="pers" ana="n_40045" ref="#fk__p_43509">Jauners</rs><lb/>
+Nervosität derart, daß die Mitglieder der Tafelrunde<lb/>
+beschlossen, an seiner Seite zu bleiben.« <rs type="pers" ana="n_40046" ref="#fk__p_43509">Jauner</rs> wartete<lb/>
+ in einem Kaffeehause die Ankunft der Morgenblätter<lb/>
+ ab. »Er spielte sechs Stunden Billard, wie ein<lb/>
+Besessener — die anderen Partner mußten wegen<lb/>
+Erschöpfung wechseln.« Als sein Bruder in einem<lb/>
+Fiaker mit den noch druckfeuchten Zeitungen dahergerast<lb/>
+ kam und <rs type="pers" ana="n_40047" ref="#fk__p_43509">Jauner</rs> sah, daß die Kritiken den<lb/>
+Erfolg der »<rs type="title"><rs type="pers">Angot</rs></rs>« zugaben, begann er »vor Aufregung<lb/>
+ zu schluchzen«<seg type="symbol" subtype="3dots"/> Auch darin hat sich seit den<lb/>
+dreißig Jahren von <rs type="pers" ana="n_40048" ref="#fk__p_48672">Lecocq</rs> bis <rs type="pers" ana="n_40049" ref="#fk__p_43530">Lehár</rs> eine Wandlung<lb/>
+zum Bessern vollzogen. Freuen wir uns, daß <seg type="insult">unserm<lb/>
+<rs type="pers" ana="n_40050" ref="#fk__p_55522">Karczag</rs></seg> solche Aufregungen erspart bleiben.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_43509">
+               <persName>Jauner, Franz Ritter von</persName>
+               <birth>
+                  <date>1831-11-14</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1900-2-23</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <occupation>Theaterleiter</occupation>
+            </person>
+            <person xml:id="fk__p_55522">
+               <persName>Karczág, Wilhelm</persName>
+               <birth>
+                  <date>1857-8-28</date>
+                  <place>Karczag, Ungarn</place>
+               </birth>
+               <death>
+                  <date>1923-10-11</date>
+                  <place>Baden bei Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Theaterleiter</occupation>
+               <occupation>Musikverleger</occupation>
+               <note type="comment">Hietzing</note>
+            </person>
+            <person xml:id="fk__p_43530">
+               <persName>Lehár, Franz</persName>
+               <birth>
+                  <date>1870-4-30</date>
+                  <place>Komorn, Ungarn</place>
+               </birth>
+               <death>
+                  <date>1948-10-24</date>
+                  <place>Bad Ischl</place>
+               </death>
+               <occupation>Komponist</occupation>
+               <note type="comment">irrt. von Ögg zugeteilte Stellen: 400/63, 418/25, 568/25, 588/38, 917/56, 61</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/8552</idno></person>
+            <person xml:id="fk__p_48672">
+               <persName>Lecocq, Alexandre Charles</persName>
+               <birth>
+                  <date>1832-6-3</date>
+                  <place>Paris</place>
+               </birth>
+               <death>
+                  <date>1918-10-24</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Komponist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/20212</idno></person>
+            </listPerson></back></text>
+</TEI>

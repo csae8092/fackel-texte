@@ -1,0 +1,48 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07837.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07836.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07838.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Austauschphrasen, in: Fackel Heft 19, Nr. 457, 1234, S. 35-35</title>
+            <title type="iso-date">1234-01-01</title>
+            <title type="id">tid_07837</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">19</title><title type="heft">457</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-19-457_n0035.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/457,035</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Austauschphrasen</head>
+            <p ana="pr104906">
+<space/>Der Präsident des <rs type="inst">österreichischen Abgeordnetenhauses</rs><lb/>
+<rs type="pers" ana="n_67156" ref="#fk__p_41877"><abbr>Dr.</abbr> Sylvester</rs> erwiderte in längerer, <seg type="spc">teils ernster</seg>, <seg type="spc">teils<lb/>
+launiger</seg> Rede, sprach <seg type="spc">vom goldenen Herzen der<lb/>
+Stadt Berlin</seg>, das die Besucher aus der Art des Empfanges so<lb/>
+lebhaft gefühlt hätten, und leerte —<lb/>
+</p>
+            <p ana="pr104908">
+<space/>Ja, seit <seg type="insult">die Berliner</seg> <seg type="insult">unser goldenes Herz</seg> haben, gehen<lb/>
+<seg type="insult">die Wiener</seg> immer feste drauf.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_41877">
+               <persName>Sylvester, Julius</persName>
+               <birth>
+                  <date>1854-6-30</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1944-7-13</date>
+                  <place>Zell am Wallersee</place>
+               </death>
+               <occupation>Jurist</occupation>
+               <occupation>Politiker</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/4911</idno></person>
+            </listPerson></back></text>
+</TEI>

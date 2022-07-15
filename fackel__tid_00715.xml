@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00715.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00714.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00716.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Herrn Edgar v. Spiegl, Effectenbörse, Wien. (Herrn v. Spiegl), in: Fackel Heft 01, Nr. 029, 1900, S. 32-32</title>
+            <title type="iso-date">1900-01-01</title>
+            <title type="id">tid_00715</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">029</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-029_n0032.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/029,032</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Herrn Edgar v. Spiegl, Effectenbörse, Wien. (Herrn v. Spiegl)</head>
+            <p ana="pr6729">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i">Herrn <rs type="pers" ana="n_5160" ref="#fk__p_42271">Edgar <abbr>v.</abbr> Spiegl</rs>, <rs type="inst">Effectenbörse</rs>, Wien.</seg></seg></seg> Sie wollen mit<lb/>
+<seg type="insult">Herrn <seg type="spc"><rs type="pers" ana="n_5161" ref="#fk__p_46698">Lippowitz</rs></seg> vom ‚<rs type="paper" ana="werk_1814">Neuen Wiener Journal</rs>‘</seg> ein neues Tagblatt<lb/>
+herausgeben und fragen an, ob Sie als Chefredacteur noch möglich<lb/>
+sind? Bleiben Sie ruhig weiter auf Ihrem Posten als <seg type="insult"><rs type="inst">Concordia-Präsident<lb/>
+</rs></seg>, der Ihnen ja sicher ist, so lange ihn kein anderer haben<lb/>
+will. Gelegenheit zu geschäftlichen Transactionen finden Sie ja auch<lb/>
+in Ihrer jetzigen Stellung.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_42271">
+               <persName>Spiegl-Thurnsee, Edgar von</persName>
+               <birth>
+                  <date>1839-5-1</date>
+                  <place>Steingrub, Niederösterreich</place>
+               </birth>
+               <death>
+                  <date>1908-6-29</date>
+                  <place>Steingrub, Niederösterreich</place>
+               </death>
+               <occupation>Zeitungsverleger</occupation>
+               <occupation>Präsident der „Concordia“</occupation>
+               <note type="comment">Namenskorrektur!</note>
+               <note type="comment">Hrsg. "Ill. Wr. Extrablatt"</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/25196</idno></person>
+            <person xml:id="fk__p_46698">
+               <persName>Lippowitz, Jakob (Siegmund)</persName>
+               <birth>
+                  <date>1865-10-9</date>
+                  <place>Leipzig</place>
+               </birth>
+               <death>
+                  <date>1934-7-4</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17583</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/4054</idno></person>
+            </listPerson></back></text>
+</TEI>

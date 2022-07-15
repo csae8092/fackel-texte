@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01137.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01136.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01138.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Einem andern Geldmann. (Einem andern Geldmann), in: Fackel Heft 02, Nr. 048, 1900, S. 26-26</title>
+            <title type="iso-date">1900-07-01</title>
+            <title type="id">tid_01137</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">048</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-048_n0026.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/048,026</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Einem andern Geldmann. (Einem andern Geldmann)</head>
+            <p ana="pr10894">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i">Einem andern Geldmann.</seg></seg></seg> Ob Sie jenem <rs type="pers" ana="n_8923" ref="#fk__p_47266"><seg type="spc">Laurencic</seg></rs>, der als<lb/>
+<seg type="insult"><choice><sic>«</sic><corr>»</corr></choice>Director« des famosen ‚<rs type="paper" ana="werk_3271">Wiener Lokalanzeiger</rs>‘</seg> seit etlichen Monaten<lb/>
+sein Unwesen in Wien treibt, Geld geben sollen? <seg type="spc">Gewiss nicht</seg>.<lb/>
+Auch vor ihm — <seg type="insult">der arischen Ausgabe des Herrn <rs type="pers" ana="n_8924" ref="#fk__p_46428">Schnitzer</rs></seg> — sei hier<lb/>
+eindringlich gewarnt. Drucker, Papierhändler, Journalisten, Redactionsdiener<lb/>
+setzen <seg type="insult">dem wackern Manne</seg> hart zu, und er sieht sich genöthigt, öfter auf<lb/>
+Reisen zu gehen und zu <seg type="insult">irgendeinem Gimpel in Tirol</seg> zu fahren, dem er einen<lb/>
+<seg type="insult">»Antheilschein«</seg> einhändigt. Erst war Herr <rs type="pers" ana="n_8925" ref="#fk__p_47266">Laurencic</rs> liberal, jetzt versucht<lb/>
+ er’s ein Weilchen mit christlichsocialer Haltung. Auch er ist <seg type="insult">ein<lb/>
+großer Oesterreicher</seg>. Sollte er eines Tages mit Zurücklassung <seg type="insult">zahlreicher<lb/>
+ patriotischer Aufrufe</seg> aus Wien verschwinden, mich wird’s nicht<lb/>
+wundern.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_47266">
+               <persName>Laurencic, Julius</persName>
+               <birth>
+                  <date>1867?</date>
+                  <place>Gottschach/Steiermark</place>
+               </birth>
+               <occupation>Publizist</occupation>
+               <note type="comment">1., Schulerstraße 14 ('01), Antonie, Beamtenwwe., Schulerstr. 18</note>
+               <note type="comment">"Erster Wiener Localanzeiger"</note>
+            </person>
+            <person xml:id="fk__p_46428">
+               <persName>Schnitzer, Ignaz</persName>
+               <birth>
+                  <date>1839-12-4</date>
+                  <place>Ratzersdorf/Ungarn</place>
+               </birth>
+               <death>
+                  <date>1921-6-18</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/24403</idno></person>
+            </listPerson></back></text>
+</TEI>

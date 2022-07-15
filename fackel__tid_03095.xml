@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03095.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03094.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03096.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Der fehlende Thiername, in: Fackel Heft 05, Nr. 136, 1903, S. 14-14</title>
+            <title type="iso-date">1903-04-30</title>
+            <title type="id">tid_03095</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">05</title><title type="heft">136</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-05-136_n0014.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/136,014</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Der fehlende Thiername</head>
+            <p ana="pr30467">
+<space/>In der ‚<rs type="" ana="werk_11305">Ostdeutschen Rundschau</rs>‘ vom <seg type="insult"><date>17. April</date> (<date>Ostermond</date>)</seg><lb/>
+war eine <seg type="insult">mühevolle und werthvolle statistische Zusammenstellung</seg><lb/>
+von <seg type="insult">»Judennamen«</seg> enthalten. Wie aber alles Menschenwerk unvollkommen<lb/>
+ ist, so war’s auch diese Statistik. Das Register <seg type="insult">»Wilde<lb/>
+Juden«</seg>, in welchem <seg type="insult"><rs type="pers" ana="name_201144" key="#fk__p_60269">Bär</rs>, <rs type="pers" ana="name_201145" ref="#fk__p_60270">Löw</rs>, <rs type="pers" ana="name_201146" ref="#fk__p_60271">Hirsch</rs> und <rs type="pers" ana="name_201147" key="#fk__p_60272">Fuchs</rs></seg> verzeichnet<lb/>
+sind, hat ein Loch: es fehlt der — <seg type="insult"><seg type="spc"><rs type="pers" ana="name_201148" ref="#fk__p_47331">Wolf</rs></seg></seg>!<lb/>
+</p>
+            <p ana="pr30468">
+<seg type="insult"><rs type="pers" ana="n2_2023" key="#fk__p_57807"><AUCTOR>Ein Pedant</AUCTOR></rs>.</seg><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_60270">
+               <persName>Löw</persName>
+               <note type="comment">als jüdisches Namens-Beispiel</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/20747</idno></person>
+            <person xml:id="fk__p_47331">
+               <persName>Wolf, Karl Hermann</persName>
+               <birth>
+                  <date>1862-1-27</date>
+                  <place>Eger</place>
+               </birth>
+               <death>
+                  <date>1941-6-11</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Publizist</occupation>
+               <occupation>Politiker</occupation>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Trafikant</occupation>
+               <note type="comment">Dr. Stepischnegg sein Schwiegervater F 17/2</note>
+               <note type="comment">ZF 32C/19, Elfriede Wolf, 23.6.1972, 87 J. alt, *1885? (2. Ehefrau)</note>
+               <note type="comment">7., Bandgasse 32</note>
+               <note type="comment">1. Ehe: Ilda Wolf, geb. Stepischnegg, geschieden 1903; 2. Elfriede Frenzel, *Hohenelbe 05.01.1885</note>
+               <note type="comment">Ostdeutsche Rundschau</note>
+               <note type="comment">Reichsratsabg. 1897-1918</note>
+            </person>
+            <person xml:id="fk__p_60271">
+               <persName>Hirsch</persName>
+               <note type="comment">als jüdisches Namens-Beispiel</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/18289</idno></person>
+            </listPerson></back></text>
+</TEI>

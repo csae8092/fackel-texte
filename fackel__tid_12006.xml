@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_12006.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_12005.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_12007.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Berlin, in: Fackel Heft 33, Nr. 868, 1932, S. 33-33</title>
+            <title type="iso-date">1932-03-01</title>
+            <title type="id">tid_12006</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">33</title><title type="heft">868</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-33-868_n0033.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/868,033</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Berlin</head>
+            <p ana="pr173946">
+<space/><seg type="spc">Berlin</seg><lb/>
+</p>
+            <p ana="pr173947">
+<space/><rs type="inst"><rs type="pers" ana="n2_9324" ref="#fk__p_52370">Robert Schumann-Saal</rs></rs>, <date>8. Januar</date>, ½8 Uhr:<lb/>
+</p>
+            <p ana="pr173948">
+<space/>(<seg type="spc">100</seg>. <seg type="spc">Berliner Vorlesung</seg>)<lb/>
+</p>
+            <p ana="pr173949">
+<space/><rs type="title">Vorwort</rs>. — <rs type="title"><foreign xml:lang="fr"><seg type="spc">Vert-Vert</seg></foreign></rs>.<lb/>
+</p>
+            <p ana="pr173950">
+<space/>Auf dem Programm:<lb/>
+</p>
+            <p ana="pr173951">
+<space/>An 38 Abenden wurden eigene Schriften, an 23 Abenden<lb/>
+teils eigene, teils fremde, an 39 Abenden ausschließlich fremde<lb/>
+Schriften gelesen. — —<lb/>
+</p>
+            <p ana="pr173952">
+<space/>(Es folgte eine Statistik, in der irrtümlich auch Szenen aus<lb/>
+»<RS pers="William Shakespeare"><rs type="title" ana="name_202974" ref="#fk__p_55589"><rs type="pers">Julius Cäsar</rs></rs></RS>« angeführt waren.)<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_55589">
+               <persName>Shakespeare, William</persName>
+               <birth>
+                  <date>1564-4-23?</date>
+                  <place>Stratford-upon-Avon</place>
+               </birth>
+               <death>
+                  <date>1616-4-23</date>
+                  <place>Stratford-upon-Avon</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2412</idno></person>
+            <person xml:id="fk__p_52370">
+               <persName>Schumann, Robert</persName>
+               <birth>
+                  <date>1810-6-8</date>
+                  <place>Zwickau</place>
+               </birth>
+               <death>
+                  <date>1856-7-29</date>
+                  <place>Endenich bei Bonn</place>
+               </death>
+               <occupation>Komponist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12733</idno></person>
+            </listPerson></back></text>
+</TEI>

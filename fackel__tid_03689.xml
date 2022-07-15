@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03689.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03688.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03690.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lebemann. (Wie man dem Mädchenhandel beikommt), in: Fackel Heft 06, Nr. 167, 1904, S. 23-23</title>
+            <title type="iso-date">1904-10-26</title>
+            <title type="id">tid_03689</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">06</title><title type="heft">167</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-06-167_n0023.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/167,023</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Lebemann. (Wie man dem Mädchenhandel beikommt)</head>
+            <p ana="pr36769">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="name_203389" ref="#fk__p_48668">Lebemann</rs>.</seg></seg></seg> In Zürich tagte eine <seg type="insult">»<rs type="event">internationale Konferenz gegen<lb/>
+den Mädchenhandel</rs>«</seg>. Wurden da etwa Strafverschärfungen gegen Menschenraub<lb/>
+ beschlossen, die Rechtsgüter des freien Willens und der Unmündigkeit<lb/>
+ klarer umgrenzt? Nicht doch. <seg type="insult">Der Ehrenvorsitzende<lb/>
+Herr Professor <rs type="pers" ana="n_31555" ref="#fk__p_46108">Hilty</rs></seg> erklärte: »Soll das menschliche Leben überhaupt<lb/>
+einen Zweck haben, so muß <seg type="insult">alles Tierische oder Tierähnliche</seg>, mit dem<lb/>
+der Mensch ins Leben tritt, abgestreift werden.« Und das <seg type="insult">Tierische</seg>, <seg type="spc">wodurch<lb/>
+</seg> der Mensch ins Leben tritt? Wie ist denn <abbr>z. B.</abbr> <seg type="insult">der Herr Professor<lb/>
+<rs type="pers" ana="n_31556" ref="#fk__p_46108">Hilty</rs></seg> entstanden? »Ein deutscher Pastor, Herr <rs type="pers" ana="n_31557" ref="#fk__p_56006">Burckhardt</rs>«, so meldet der<lb/>
+Kongreßbericht trocken, »begehrte die Abschaffung der Chambres séparées«.<lb/>
+Aber da wäre doch die Abschaffung der Betten viel radikaler!<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46108">
+               <persName>Hilty, Karl</persName>
+               <birth>
+                  <date>1833-02-28</date>
+                  <place>Grabs</place>
+               </birth>
+               <death>
+                  <date>1909-10-12</date>
+                  <place>Clarens</place>
+               </death>
+               <occupation>Staatsrechtler</occupation>
+               <occupation>Schriftsteller</occupation>
+            </person>
+            <person xml:id="fk__p_48668">
+               <persName>Lebemann</persName>
+            </person>
+            <person xml:id="fk__p_56006">
+               <persName>Burckhardt, Johannes</persName>
+               <birth>
+                  <date>1853-10-20</date>
+                  <place>Altena/Westfalen</place>
+               </birth>
+               <death>
+                  <date>1914-1-27</date>
+                  <place>Berlin</place>
+               </death>
+               <occupation>Pastor</occupation>
+               <note type="comment">Wortmeldung auf der intern. Konferenz gegen den Mädchenhandel, 1904 in Zürich</note>
+               <note type="comment">15., 16. Sept. 1904</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

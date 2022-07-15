@@ -1,0 +1,45 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07150.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07149.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07151.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Druckfehlerverzeichnis), in: Fackel Heft 18, Nr. 423, 1916, S. 17-17</title>
+            <title type="iso-date">1916-05-01</title>
+            <title type="id">tid_07150</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">18</title><title type="heft">423</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-18-423_n0017.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/423,017</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Druckfehlerverzeichnis)</head>
+            <p ana="pr96863">
+<space/><FCORR id="fcorr_212" ferrID="ferr_212" href="FK-18-418_n0032.xml">In <rs type="selfRef" ana="werk_20568"><abbr>Nr.</abbr> 418—422</rs> ist zu lesen: <abbr>S.</abbr> 32, im <rs type="pers" ana="n_64586" ref="#fk__p_55589">Shakespeare-Zitat</rs>, 4. Zeile,<lb/>
+statt: „Mal!“ <seg type="i"><EM id="em_212" ferrID="ferr_212" href="FK-18-418_n0032.xml">Mal?</EM></seg></FCORR>; <FCORR id="fcorr_213" ferrID="ferr_213" href="FK-18-418_n0090.xml"><abbr>S.</abbr> 90, 9. Zeile, statt: „<seg type="spc">nur</seg> eine <foreign xml:lang="de-loc">Fürschtin</foreign> gibt“<lb/>
+<seg type="i"><EM id="em_213" ferrID="ferr_213" href="FK-18-418_n0090.xml">nur <seg type="spc">eine</seg> <foreign xml:lang="de-loc">Fürschtin</foreign> gibt</EM></seg></FCORR>; <FCORR id="fcorr_214" ferrID="ferr_214" href="FK-18-418_n0090.xml">ebenda, 13. Zeile, statt: „bekannt, nichts“<lb/>
+<seg type="i"><EM id="em_214" ferrID="ferr_214" href="FK-18-418_n0090.xml">bekannt: nichts</EM></seg></FCORR>; <FCORR id="fcorr_215" ferrID="ferr_215" href="FK-18-418_n0091.xml"><abbr>S.</abbr> 91, 13. Zeile von unten, statt: „Lebensgüter zu<lb/>
+verteidigen“ <seg type="i"><EM id="em_215" ferrID="ferr_215" href="FK-18-418_n0091.xml">Lebensgüter, zu verteidigen</EM></seg></FCORR>; <FCORR id="fcorr_216" ferrID="ferr_216" href="FK-18-418_n0093.xml"><abbr>S.</abbr> 93, 7. Zeile, statt: „Völker,<lb/>
+aber“ <seg type="i"><EM id="em_216" ferrID="ferr_216" href="FK-18-418_n0093.xml">Völker; aber</EM></seg></FCORR>; <FCORR id="fcorr_217" ferrID="ferr_217" href="FK-18-418_n0093.xml">ebenda, im 3. Zitat ist unter den Worten: „<seg type="spc">gibt es<lb/>
+fast gar nicht</seg>“ nur das <EM id="em_217" ferrID="ferr_217" href="FK-18-418_n0093.xml">Wort <seg type="i"><seg type="spc">fast</seg></seg> als gesperrt zu lesen</EM>.</FCORR><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_55589">
+               <persName>Shakespeare, William</persName>
+               <birth>
+                  <date>1564-4-23?</date>
+                  <place>Stratford-upon-Avon</place>
+               </birth>
+               <death>
+                  <date>1616-4-23</date>
+                  <place>Stratford-upon-Avon</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2412</idno></person>
+            </listPerson></back></text>
+</TEI>

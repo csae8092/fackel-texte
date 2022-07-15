@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06787.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06786.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06788.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Eine Dame und ihr männlicher Begleiter, in: Fackel Heft 16, Nr. 399, 1914, S. 28-29</title>
+            <title type="iso-date">1914-05-01</title>
+            <title type="id">tid_06787</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">16</title><title type="heft">399</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-16-399_n0028.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/399,028</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Eine Dame und ihr männlicher Begleiter</head>
+            <p ana="pr91387">
+<space/><rs type="pers" ana="n_62200" key="#fk__p_49825">Mary Wood</rs>, eine ältliche, grauhaarige Suffragette, hat heute<lb/>
+nachmittag in der Ausstellung der <rs type="inst"><foreign xml:lang="en">Royal Academy</foreign></rs> ein <rs type="pers" ana="n2_5494" ref="#fk__p_58873">Sargent-Porträt</rs>,<lb/>
+darstellend den berühmten amerikanischen Novellisten <rs type="pers" ana="n_62202" ref="#fk__p_45864">Henry James</rs>,<lb/>
+durch Hiebe mit einem scharfen Schlägel arg beschädigt. Sie war mit<lb/>
+einem <seg type="spc">männlichen</seg> Begleiter durch die Säle gewandert, blieb vor<lb/>
+dem Porträt stehen, zog aus ihrem Muff den Schlägel hervor und führte<lb/>
+mehrere Hiebe gegen das Porträt. Auf das Geräusch des zerbrechenden<lb/>
+Glases stürzten sich mehrere Personen, auch Frauen, auf die Attentäterin,<lb/>
+die gefaßt und verhaftet wurde. Bei dem Versuch, für sie zu intervenieren<lb/>
+, wurde ihr Begleiter geprügelt, seine Brille zerbrach im Handgemenge<lb/>
+ und er <seg type="spc">forderte</seg> später von der Ausstellungsleitung <seg type="spc">Schadenersatz<lb/>
+</seg>, der ihm verweigert wurde.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_45864">
+               <persName>James, Henry</persName>
+               <birth>
+                  <date>1843-04-15</date>
+                  <place>New York</place>
+               </birth>
+               <death>
+                  <date>1916-02-28</date>
+                  <place>London</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/65035</idno></person>
+            <person xml:id="fk__p_58873">
+               <persName>Sargent, John Singer</persName>
+               <birth>
+                  <date>1856-1-12</date>
+                  <place>Florenz</place>
+               </birth>
+               <death>
+                  <date>1925-4-15</date>
+                  <place>London</place>
+               </death>
+               <occupation>Maler</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

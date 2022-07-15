@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_09652.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09651.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09653.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Aus dem Plutarch, in: Fackel Heft 25, Nr. 640, 1924, S. 15-15</title>
+            <title type="iso-date">1924-01-01</title>
+            <title type="id">tid_09652</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">25</title><title type="heft">640</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-25-640_n0015.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/640,015</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Aus dem Plutarch</head>
+            <p ana="pr129708">
+<seg type="symbol" subtype="3dots"/> Den Festzug zur <rs type="event">Tausendjahrfeier der Stadt Mödling</rs> inszeniert er<lb/>
+ebenso wie jenen zu Carnuntum. Dazwischen macht er mit <rs type="inst"><rs type="pers" ana="n2_7139" ref="#fk__p_37752">Marc Henrys</rs><lb/>
+Gesellschaft</rs> wieder eine Schweizer Tournee. <seg type="spc">Mit <rs type="pers" ana="n_79500" ref="#fk__p_37752">Henry</rs> ist er dauernd<lb/>
+befreundet</seg>. In Zürich gehen <seg type="spc">eines Abends</seg> <rs type="pers" ana="n_79501" ref="#fk__p_37752">Henry</rs> und die<lb/>
+<rs type="pers" ana="n_79502" ref="#fk__p_49827">Delvard</rs> früher aus der Gesellschaft heim. Am nächsten Tage ruft<lb/>
+<rs type="pers" ana="n_79503" ref="#fk__p_37752">Henry</rs> <rs type="pers" ana="n_79504" ref="#fk__p_47544">Hollitzer</rs> an und macht ihm bittere Vorwürfe, daß er über ihn<lb/>
+und die <rs type="pers" ana="n_79505" ref="#fk__p_49827">Delvard</rs> in großer Gesellschaft <seg type="spc">so abfällig geurteilt</seg>.<lb/>
+<seg type="spc">Verlegen stammelt</seg> <rs type="pers" ana="n_79506" ref="#fk__p_47544">Hollitzer</rs> ein paar Worte, da unterbricht ihn<lb/>
+<rs type="pers" ana="n_79507" ref="#fk__p_37752">Henry</rs>: »Ich war ja im Unrecht! <seg type="spc">Weshalb bin ich denn auch<lb/>
+fortgegangen</seg>?« Bei Kriegsausbruch wird <rs type="pers" ana="n_79508" ref="#fk__p_47544">Hollitzer</rs> als erster<lb/>
+Maler ins <rs type="inst">Kriegspressequartier</rs> berufen und zur Teilnahme an den Entwürfen<lb/>
+ für die Neu-Uniformierung der Armee eingeladen. <seg type="spc">Auf den<lb/>
+russischen und serbischen Kriegsschauplatz erstreckt<lb/>
+sich seine Haupttätigkeit</seg><seg type="symbol" subtype="4dots"/> Dann kehrt er nach Wien<lb/>
+zurück. Und ob die Zeiten sich geändert, er ist der Alte geblieben.<lb/>
+<seg type="spc">Noch immer ist er bereit</seg>, in einem Kabarett zu wirken. <seg type="spc">Und<lb/>
+bringt seine Abende in der Bar in der Inneren Stadt<lb/>
+zu</seg>, wo er in einem Kreise Gleichgesinnter <seg type="spc">die Tradition fortpflanzt<lb/>
+</seg>, ob sich auch die Reihen jener gelichtet haben, die einst<lb/>
+seine Freunde, seine Genossen waren. <seg type="spc">Er aber steht aufrecht</seg> <seg type="symbol" subtype="3dots"/><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_37752">
+               <persName>Vaucheret d’Ailly, Achille Georges</persName>
+               <birth>
+                  <date>1873-4-1</date>
+                  <place>Paris</place>
+               </birth>
+               <death>
+                  <date>1943-12-24</date>
+                  <place>Saint-Raphael/Dept. Var</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Kabarettist</occupation>
+               <occupation>Kabarettleiter</occupation>
+            </person>
+            <person xml:id="fk__p_49827">
+               <persName>Delvard, Marya</persName>
+               <birth>
+                  <date>1874-9-11</date>
+                  <place>Rechicourt-le-Chateau</place>
+               </birth>
+               <death>
+                  <date>1965-9-25</date>
+                  <place>Pullach bei München</place>
+               </death>
+               <occupation>Schauspielerin</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/3531</idno></person>
+            <person xml:id="fk__p_47544">
+               <persName>Hollitzer, Carl Leopold</persName>
+               <birth>
+                  <date>1874-03-11</date>
+                  <place>Bad Deutsch-Altenburg/NÖ</place>
+               </birth>
+               <death>
+                  <date>1942-12-01</date>
+                  <place>Rekawinkel/NÖ</place>
+               </death>
+               <occupation>Maler</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/18478</idno></person>
+            </listPerson></back></text>
+</TEI>

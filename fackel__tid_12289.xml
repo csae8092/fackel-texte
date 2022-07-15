@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_12289.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_12288.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_12290.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Prag, Mozarteum, in: Fackel Heft 37, Nr. 909, 1935, S. 3-3</title>
+            <title type="iso-date">1935-05-01</title>
+            <title type="id">tid_12289</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">37</title><title type="heft">909</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-37-909_n0003.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/909,003</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Prag, Mozarteum</head>
+            <p ana="pr181729">
+<space/><seg type="spc">Prag</seg>, <rs type="inst"><rs type="pers" ana="n2_9649" ref="#fk__p_55699">Mozarteum</rs></rs>, <date>31. März</date>:<lb/>
+</p>
+            <p ana="pr181730">
+<space/>I. Vorwort wie oben. — <RS pers="Gerhart Hauptmann"><rs type="title" ana="name_203907" ref="#fk__p_44354"><seg type="spc"><rs type="pers">Hannele Matterns</rs> Himmelfahrt</seg></rs></RS><lb/>
+</p>
+            <p ana="pr181731">
+<space/>II. Aus eigenen Schriften<lb/>
+</p>
+            <p ana="pr181732">
+<space/><date>3. April</date>:<lb/>
+</p>
+            <p ana="pr181733">
+<space/><rs type="title"><rs type="pers"><seg type="spc">Macbeth</seg></rs></rs><lb/>
+</p>
+            <p ana="pr181734">
+<space/><date>4. April</date>:<lb/>
+</p>
+            <p ana="pr181735">
+<space/><rs type="title"><rs type="pers"><seg type="spc">Hamlet</seg></rs></rs><lb/>
+</p>
+            <p ana="pr181736">
+<space/>Begleitung am <date>7. Februar</date>, <date>29.</date>, <date>30.</date>, <date>31. März</date>, <date>3. April</date>: <rs type="pers" ana="n_107400" ref="#fk__p_43546">Franz Mittler</rs><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_55699">
+               <persName>Mozart, Wolfgang Amadeus</persName>
+               <birth>
+                  <date>1756-1-27</date>
+                  <place>Salzburg</place>
+               </birth>
+               <death>
+                  <date>1791-12-5</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Komponist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12303</idno></person>
+            <person xml:id="fk__p_43546">
+               <persName>Mittler, Franz</persName>
+               <birth>
+                  <date>1893-4-14</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1970-12-28</date>
+                  <place>München</place>
+               </death>
+               <occupation>Pianist</occupation>
+               <note type="comment">auch Klavierbegleiter von Karl Kraus</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/8955</idno></person>
+            <person xml:id="fk__p_44354">
+               <persName>Hauptmann, Gerhart</persName>
+               <birth>
+                  <date>1862-11-15</date>
+                  <place>Salzbrunn, Schlesien</place>
+               </birth>
+               <death>
+                  <date>1946-6-6</date>
+                  <place>Agnetendorf</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Ögg teilt die indirekte Stelle 521/64 zu, irrtümlich</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11617</idno></person>
+            </listPerson></back></text>
+</TEI>

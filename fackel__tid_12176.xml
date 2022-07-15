@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_12176.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_12175.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_12177.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Nicht der ganze Napoleon?, in: Fackel Heft 34, Nr. 876, 1932, S. 112-112</title>
+            <title type="iso-date">1932-10-01</title>
+            <title type="id">tid_12176</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">34</title><title type="heft">876</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-34-876_n0112.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/876,112</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Nicht der ganze Napoleon?</head>
+            <p ana="pr177206">
+<space/>— — Dann aber auch, weil <rs type="pers" ana="n_105615" ref="#fk__p_43922">Fritz <seg type="spc">Grünbaum</seg></rs> den <rs type="pers">Napoleon</rs><lb/>
+spielt. Zunächst ist man befremdet. <seg type="spc">Weder die Gestalt</seg> noch<lb/>
+<seg type="spc">die Sprache</seg> noch der Ausdruck <seg type="spc">erinnern an den großen<lb/>
+Franzosenkaiser</seg>.<lb/>
+</p>
+            <p ana="pr177208">
+Schreibt <rs type="pers" ana="n_105616" ref="#fk__p_51173"><seg type="insult">Amadeus</seg></rs>, der immerhin etwas an <rs type="pers" ana="n_105617" ref="#fk__p_55699">Mozart</rs> erinnert.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_51173">
+               <persName>Pisk, Paul Amadeus</persName>
+               <birth>
+                  <date>1893-5-16</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1990-1-12</date>
+                  <place>Los Angeles</place>
+               </death>
+               <occupation>Kapellmeister</occupation>
+               <occupation>Musikschriftsteller</occupation>
+               <occupation>Komponist</occupation>
+               <occupation>Musikkritiker</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/39325</idno></person>
+            <person xml:id="fk__p_43922">
+               <persName>Grünbaum, Fritz</persName>
+               <birth>
+                  <date>1880-4-7</date>
+                  <place>Brünn</place>
+               </birth>
+               <death>
+                  <date>1941-1-14</date>
+                  <place>Konzentrationslager Dachau</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <occupation>Kabarettist</occupation>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Kriegstrauung 14.10.1916 mit Sängerin Frl. Dreßl</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/7574</idno></person>
+            <person xml:id="fk__p_55699">
+               <persName>Mozart, Wolfgang Amadeus</persName>
+               <birth>
+                  <date>1756-1-27</date>
+                  <place>Salzburg</place>
+               </birth>
+               <death>
+                  <date>1791-12-5</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Komponist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12303</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01375.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01374.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01376.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Hofrath Uhl. (Hofrath Uhl), in: Fackel Heft 02, Nr. 058, 1900, S. 25-26</title>
+            <title type="iso-date">1900-11-01</title>
+            <title type="id">tid_01375</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">058</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-058_n0025.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/058,025</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Hofrath Uhl. (Hofrath Uhl)</head>
+            <p ana="pr13130">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i">Hofrath <rs type="pers" ana="n_10908" ref="#fk__p_43872">Uhl</rs>.</seg></seg></seg> <seg type="insult">Alter <foreign xml:lang="de-loc">Frozzler</foreign>!</seg> Weil ich <choice><sic>lezthin</sic><corr>letzthin</corr></choice> meinte, dass<lb/>
+schon <seg type="insult">die stereotypen drei Punkte</seg>, die Sie mitten im Satz anwenden,<lb/>
+Ihre Autorschaft als <seg type="insult">neuester Sonntagshumorist der ‚<rs type="paper" ana="werk_4247">Neuen Freien<lb/>
+Presse</rs>‘</seg> verrathen müssen, haben Sie gleich am Tage nach der Enthüllung<lb/>
+ sich zu <seg type="insult"><seg type="spc">vier</seg> Punkten</seg> entschlossen, ja, in Ihrem letzten<lb/>
+<seg type="insult">»<rs type="pers" ana="n_10909" ref="#fk__p_43872">Staberl</rs>«</seg> die Punkte überhaupt weggelassen. Das wird Ihnen recht<lb/>
+schwer geworden sein, da Sie doch seit mehr als vierzig Jahren an<lb/>
+die Punkte gewöhnt waren. Wenn man aber vom Liebsten, was man<lb/>
+hat, muss scheiden, so sollte man doch wenigstens etwas dabei<lb/>
+profitieren. Wenn Sie indes der Meinung waren, dass man Sie jetzt<lb/>
+nicht mehr der Autorschaft an den Werken <seg type="insult">der Herren <rs type="pers" ana="n_10910" ref="#fk__p_43872">Staberl</rs> und<lb/>
+<rs type="pers" ana="n_10911" ref="#fk__p_43872"><foreign xml:lang="la">Junius redivivus</foreign></rs></seg> beschuldigen wird, so irrten Sie. Das Signalement, das<lb/>
+ich Ihrer neuen Thätigkeit mitgegeben, ist reichhaltig. Es bleiben noch<lb/>
+<seg type="insult">Stumpfsinn</seg> und <seg type="insult">geschwätzige Langweile</seg> als sichere Erkennungszeichen.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_43872">
+               <persName>Uhl, Friedrich</persName>
+               <birth>
+                  <date>1825-5-14</date>
+                  <place>Teschen</place>
+               </birth>
+               <death>
+                  <date>1906-1-20</date>
+                  <place>Mondsee</place>
+               </death>
+               <occupation>Journalist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12987</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_12091.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_12090.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_12092.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Phrase wird Leben, in: Fackel Heft 34, Nr. 876, 1932, S. 59-59</title>
+            <title type="iso-date">1932-10-01</title>
+            <title type="id">tid_12091</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">34</title><title type="heft">876</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-34-876_n0059.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/876,059</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Phrase wird Leben</head>
+            <p ana="pr176332">
+<space/>— — der <SPAN cont="Reichspräsident"><seg type="spc">Reichsp</seg>räsident</SPAN> hat ein <rs type="inst"><SPAN cont="Reichskuratorium"><seg type="spc">Reichsk</seg>uratorium</SPAN> für<lb/>
+Jugendertüchtigung</rs> einberufen und den <SPAN cont="Reichsinnenminister"><seg type="spc">Reichsi</seg>nnenminister</SPAN> zu<lb/>
+<seg type="spc">seinem</seg> Vorsitzenden und den nichtaktiven General der <rs type="inst">Infanterie</rs> <rs type="pers" ana="n_105182" ref="#fk__p_42344">Edwin<lb/>
+von Stülpnagel</rs> zum geschäftsführenden Präsidenten bestellt. Durch das<lb/>
+<rs type="inst"><SPAN cont="Reichskuratorium"><seg type="spc">Reichsk</seg>uratorium</SPAN></rs> sollen allgemeine Leibesübungen gepflegt werden,<lb/>
+vor allem aber der Geländesport. Es ist eine sportliche Betätigung,<lb/>
+<seg type="spc">die den jungen Mann hinausführt in das freie Gelände<lb/>
+</seg>, wo er in Wanderungen und in <seg type="spc">Ordnungsübungen</seg><lb/>
+seinen Körper <seg type="spc">stählen</seg> und <seg type="spc">wo seine Liebe</seg> zum <seg type="spc">gemeinsamen<lb/>
+ Vaterland</seg> und zum <seg type="spc">Boden</seg> der Heimat <seg type="spc">gestärkt</seg><lb/>
+werden soll. — —<lb/>
+</p>
+            <p ana="pr176334">
+(Aber man weiß schon, was sie wollen.)<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_42344">
+               <persName>Stülpnagel, Edwin von</persName>
+               <birth>
+                  <date>1876-11-24</date>
+                  <place>Berlin</place>
+               </birth>
+               <death>
+                  <date>1933-3-6</date>
+                  <place>Berlin-Dahlem</place>
+               </death>
+               <occupation>General</occupation>
+               <note type="comment">pour le merite am 4.8.1918</note>
+               <note type="comment">fehlt bei Ögg</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

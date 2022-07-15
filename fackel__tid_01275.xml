@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01275.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01274.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01276.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Jurist. (Es ist erreicht!), in: Fackel Heft 02, Nr. 054, 1900, S. 27-27</title>
+            <title type="iso-date">1900-09-01</title>
+            <title type="id">tid_01275</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">054</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-054_n0027.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/054,027</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Jurist. (Es ist erreicht!)</head>
+            <p ana="pr12246">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_10061" ref="#fk__p_47308">Jurist</rs>.</seg></seg> <seg type="insult">Herr <rs type="pers" ana="n_10062" ref="#fk__p_52612">Sieghart</rs></seg>, meinen Sie, fühlt sich schwer gekränkt?<lb/>
+O nein! <seg type="insult">Herr <rs type="pers" ana="n_10063" ref="#fk__p_52612">Sieghart</rs></seg>, wird mir mitgetheilt, las die ‚<rs type="self" ana="werk_3832">Fackel</rs>‘, strich<lb/>
+sich schmunzelnd den Schnurrbart, der ihm eine <seg type="insult">auffallende Aehnlichkeit<lb/>
+ mit <rs type="pers" ana="n_10064" ref="#fk__p_55493">Wilhelm II.</rs></seg> verleiht, und sprach zufrieden: »Es ist erreicht!«<lb/>
+Und man wusste nicht, meinte er <seg type="insult">den wohlverdienten Angriff in der<lb/>
+‚<rs type="self" ana="werk_3833">Fackel</rs>‘ oder den freilich minderverdienten Sectionsrathstitel oder —<lb/>
+den Schnurrbart</seg>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_47308">
+               <persName>Jurist</persName>
+            </person>
+            <person xml:id="fk__p_52612">
+               <persName>Sieghart, Rudolf</persName>
+               <birth>
+                  <date>1866-3-18</date>
+                  <place>Troppau</place>
+               </birth>
+               <death>
+                  <date>1934-8-4</date>
+                  <place>Luzern</place>
+               </death>
+               <occupation>Bankier</occupation>
+               <occupation>Politiker</occupation>
+               <note type="comment">urspr. Singer? </note>
+               <note type="comment">Präs. d. Allg. oesterr. Bodencreditanstalt</note>
+               <note type="comment">Herrenhausmitglied 1912-18</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12775</idno></person>
+            <person xml:id="fk__p_55493">
+               <persName>Wilhelm II., Kaiser</persName>
+               <birth>
+                  <date>1859-1-27</date>
+                  <place>Berlin</place>
+               </birth>
+               <death>
+                  <date>1941-6-4</date>
+                  <place>Doorn/Niederlande</place>
+               </death>
+               <occupation>Kaiser</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_21338</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02001.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02000.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02002.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Auf viele Anfragen. (Eine Enttäuschung), in: Fackel Heft 03, Nr. 084, 1901, S. 32-32</title>
+            <title type="iso-date">1901-11-5</title>
+            <title type="id">tid_02001</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">03</title><title type="heft">084</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-03-084_n0032.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/084,032</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Auf viele Anfragen. (Eine Enttäuschung)</head>
+            <p ana="pr19513">
+<space/><seg type="sidehead"><seg type="i">Auf viele Anfragen.</seg></seg> Nein: <seg type="insult">»<rs type="title">Abrechnung mit <rs type="pers" ana="n2_1292" ref="#fk__p_47565">Karl Kraus</rs></rs>«</seg> ist<lb/>
+der Titel eines Artikels in der vorletzten Nummer des ‚<rs type="magazine" ana="werk_6483">Feuerschein</rs>‘, in<lb/>
+dem <seg type="insult">Herr <rs type="pers" ana="n_16618" ref="#fk__p_47315"><seg type="spc">Justinian</seg> Frisch</rs></seg> stammelnd <seg type="insult">irgend eine theoretische<lb/>
+Abrechnung</seg> mit mir vornimmt. Die längst ersehnte <seg type="spc">wirkliche</seg> Abrechnung<lb/>
+, nämlich die von <rs type="pers" ana="n_16619" ref="#fk__p_50376"><seg type="spc">Moriz</seg> Frisch</rs> verlangte, wird erst im<lb/>
+Civilprocesswege zu erreichen sein. So freudig meine Erwartung war,<lb/>
+als ich die Ankündigung auf den Placaten las, so bitter war meine<lb/>
+Enttäuschung.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_47565">
+               <persName>Kraus, Karl</persName>
+               <birth>
+                  <date>1874-4-28</date>
+                  <place>Jicin, Böhmen</place>
+               </birth>
+               <death>
+                  <date>1936-6-12</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Publizist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11988</idno></person>
+            <person xml:id="fk__p_47315">
+               <persName>Frisch, Justinian</persName>
+               <birth>
+                  <date>1879-7-19</date>
+                  <place>Pritzendorf/NÖ.</place>
+               </birth>
+               <death>
+                  <date>1949-4-2</date>
+                  <place>Cambridge</place>
+               </death>
+               <occupation>Jurist</occupation>
+               <occupation>Journalist</occupation>
+               <note type="comment">verh. mit einer Schwester Lise Meitners; Verlagsleiter des Bermann-Fischer-Verlags Stockholm</note>
+            </person>
+            <person xml:id="fk__p_50376">
+               <persName>Frisch, Moriz</persName>
+               <birth>
+                  <date>1849-2-28</date>
+                  <place>Tisnienica/Galizien</place>
+               </birth>
+               <death>
+                  <date>1913-10-31</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Drucker</occupation>
+               <note type="comment">ZF 1. Tor 52/48/35</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

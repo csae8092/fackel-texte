@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_08717.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08716.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08718.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Mittlerer Konzerthaussaal, 15. Februar, halb 3 Uhr:, in: Fackel Heft 22, Nr. 544, 1920, S. 11-11</title>
+            <title type="iso-date">1920-06-01</title>
+            <title type="id">tid_08717</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">22</title><title type="heft">544</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-22-544_n0011.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/544,011</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Mittlerer Konzerthaussaal, 15. Februar, halb 3 Uhr:</head>
+            <p ana="pr115780">
+<space/><rs type="inst">Mittlerer Konzerthaussaal</rs>, <date>15. Februar</date>, halb 3 Uhr:<lb/>
+</p>
+            <p ana="pr115781">
+<space/>I. <rs type="title"><seg type="insult"><seg type="spc">Originalbericht aus Innsbruck</seg></seg></rs><FOOTNOTE0_START/>*) / <rs type="title">Worte in<lb/>
+Versen</rs>: <rs type="title">Abenteuer der Arbeit</rs>; <rs type="title">Der Reim</rs>; <rs type="title">Verlöbnis</rs>; <rs type="title">Ich habe<lb/>
+einen Blick gesehn</rs>; <rs type="title">Unter dem Wasserfall</rs> / <rs type="pers" ana="n_71605" ref="#fk__p_43227"><seg type="spc">Raimund</seg></rs>: <rs type="title">Das Mädchen<lb/>
+aus der Feenwelt oder Der Bauer als Millionär</rs>, II., 4 bis 8 (teilweise),<lb/>
+<rs type="title">Aschenlied</rs> (III, aus 8); Lied des <rs type="pers">Valentin</rs> (aus dem »<rs type="title">Verschwender</rs>«, III, 10).<lb/>
+</p>
+            <p ana="pr115782">
+<space/>II. <rs type="title"><foreign xml:lang="de-loc">Mir san ja eh <seg type="insult">die reinen Lamperln</seg></foreign></rs> / <rs type="title"><seg type="insult"><rs type="pers" ana="n2_6510" ref="#fk__p_45448">Hans Müller</rs> in<lb/>
+Schönbrunn</seg></rs> / Aus: <rs type="title">Die letzten Tage der Menschheit</rs>: II, 11 (<rs type="pers"><seg type="insult">Grüßer</seg></rs>);<lb/>
+V, 45 (<rs type="title"><seg type="insult">Die <rs type="pers">Generalstäbler</rs></seg>)</rs> / <rs type="title"><seg type="insult">Tod und Tango</seg></rs>.<lb/>
+</p>
+            <p ana="pr115783">
+<space/>Die Erhöhung der ersten Preiskategorien zugunsten des <rs type="inst">Zentralverbandes<lb/>
+ der deutschösterreichischen Kriegsbeschädigten</rs>. Ein Teil<lb/>
+des Ertrags für einen hungernden Lehrer.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_45448">
+               <persName>Müller, Hans</persName>
+               <birth>
+                  <date>1882-10-25</date>
+                  <place>Brünn</place>
+               </birth>
+               <death>
+                  <date>1950-3-8</date>
+                  <place>Einigen/Thunersee</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12327</idno></person>
+            <person xml:id="fk__p_43227">
+               <persName>Raimund, Ferdinand</persName>
+               <birth>
+                  <date>1790-6-1</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1836-9-5</date>
+                  <place>Pottenstein, Niederösterreich</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Ögg teilt die Valentin-Stelle 254/4 Nestroy zu</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12468</idno></person>
+            </listPerson></back></text>
+</TEI>

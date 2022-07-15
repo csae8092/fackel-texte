@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01344.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01343.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01345.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Der gutinformierte Pariser ‚Figaro‘.), in: Fackel Heft 02, Nr. 057, 1900, S. 27-28</title>
+            <title type="iso-date">1900-10-01</title>
+            <title type="id">tid_01344</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">057</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-057_n0027.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/057,027</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Der gutinformierte Pariser ‚Figaro‘.)</head>
+            <p ana="pr12860">
+<space/>(<seg type="spc">Gut informiert</seg>.) Der Pariser <seg ana="‚Figaro‘"/> bringt in der Nummer<lb/>
+vom <date>17. October</date>, Seite 2, die folgende Nachricht: <QUOTE rn="1" sourceID="FK-02-057_n0027_a"><OMED>—</OMED> <foreign xml:lang="fr"><seg type="i">Arrivés à<lb/>
+Paris: <abbr>M.</abbr> <rs type="pers" ana="n_10666" ref="#fk__p_37915">Albert Gottlieb</rs>, conseiller impérial et membre de la<lb/>
+Chambre de commerce de la Basse-Autriche, et <abbr>S. Exc.</abbr> le <rs type="pers" ana="n_10667" ref="#fk__p_46888">baron<lb/>
+Chlumecky</rs>, ancien président du Conseil des ministres d’Autriche, deux<lb/>
+des hommes d’Etat les plus considérés de l’empire austro-hongrois.</seg></foreign></QUOTE><lb/>
+</p>
+            <p ana="pr12861">
+<space/><seg type="insult">Herr <rs type="pers" ana="n_10668" ref="#fk__p_37915">Gottlieb</rs></seg> ist kaiserlicher Rath und Mitglied der <rs type="inst">niederösterreichischen<lb/>
+ Handelskammer</rs>. Aber die Franzosen sind fest überzeugt<lb/>
+, dass er <seg type="insult">ein österreichischer Staatsmann, und zwar einer der<lb/>
+geachtetsten</seg>, sei und öfter in die Lage komme, dem <RS pers="Franz Joseph" globID="rs_168">Kaiser</RS> wirklich<lb/>
+einen Rath zu ertheilen. Inwieweit <seg type="insult">Herr <rs type="pers" ana="n_10669" ref="#fk__p_37915">Gottlieb</rs></seg> zur Verbreitung<lb/>
+dieses Glaubens selbst beigetragen hat, können wir in Wien nicht<lb/>
+beurtheilen, und ich vermag nichts weiter zu thun, als die Redaction<lb/>
+des <foreign xml:lang="fr">‚<rs type="paper" ana="werk_4146">Figaro</rs>‘</foreign> durch Zusendung dieser Nummer der ‚<rs type="self" ana="werk_4147">Fackel</rs>‘ aufzuklären<lb/>
+ und vor unliebsamen Verwechslungen in künftigen Fällen<lb/>
+zu bewahren. Laut »<rs type="title"><rs type="pers" ana="n2_823" ref="#fk__p_58439">Lehmann</rs></rs>« ist <seg type="insult">Herr <rs type="pers" ana="n_10670" ref="#fk__p_37915">Gottlieb</rs></seg> <seg type="insult">nicht so sehr<lb/>
+österreichischer Staatsmann als Repräsentant einer ausländischen<lb/>
+Feuerversicherungsgesellschaft</seg>. Was <seg type="insult">Herrn <rs type="pers" ana="n_10671" ref="#fk__p_46888">Chlumecky</rs></seg> anlangt, so<lb/>
+habe ich bloß richtigzustellen, dass er niemals Vorsitzender des<lb/>
+Ministerrathes, sondern nur <rs type="inst">Parlamentspräsident</rs> war. Dass er aus<lb/>
+jener Zeit und aus <seg type="insult">seinem sonstigen Vorleben</seg> einen Anspruch auf<lb/>
+unsere besondere Achtung herleiten darf, könnte dem <foreign xml:lang="fr">‚<rs type="paper" ana="werk_4148">Figaro</rs>‘</foreign> ernstlich<lb/>
+bestritten werden. Wäre der <foreign xml:lang="fr">‚<rs type="paper" ana="werk_4149">Figaro</rs>‘</foreign> ein Wiener Blatt, so hätte<lb/>
+jeder österreichische Staatsbürger das Recht, ihm eine Berichtigung<lb/>
+auf Grund des <rs type="title">§ 19</rs> zuzusenden.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46888">
+               <persName>Chlumecký, Johann Freiherr von</persName>
+               <birth>
+                  <date>1834-3-23</date>
+                  <place>Zara</place>
+               </birth>
+               <death>
+                  <date>1924-12-11</date>
+                  <place>Bad Aussee</place>
+               </death>
+               <occupation>Beamter</occupation>
+               <note type="comment">in der Statthalterei, Zensurkompetenz</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_14201</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/14956</idno></person>
+            <person xml:id="fk__p_37915">
+               <persName>Gottlieb, Albert</persName>
+               <birth>
+                  <date>1845-8-5</date>
+                  <place>Budapest</place>
+               </birth>
+               <death>
+                  <date>1904-5-31</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Industrieller</occupation>
+               <note type="comment">kais. Rat, Laien-Richter, Handelskammer-Rat, 1., Giselastr. 7 Lehmann 1902</note>
+               <note type="comment"/>
+            </person>
+            <person xml:id="fk__p_58439">
+               <persName>Lehmann (Wiener Adreßbuch)</persName>
+            </person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,46 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00352.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00351.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00353.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Albert J., in: Fackel Heft 01, Nr. 014, 1899, S. 24-24</title>
+            <title type="iso-date">1899-08-01</title>
+            <title type="id">tid_00352</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">014</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-014_n0024.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/014,024</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Albert J.</head>
+            <p ana="pr3216">
+<space/><seg type="sidehead"><rs type="pers" ana="n_2283" ref="#fk__p_37923"><seg type="i">Albert <abbr>J.</abbr></seg></rs></seg> Ich kenne einen Herrn <rs type="pers" ana="n_2284" ref="#fk__p_50962">Fuchs</rs>, Mitarbeiter der ‚<rs type="paper" ana="werk_839">Oesterreichischen<lb/>
+ Volkszeitung</rs>‘, nicht. Wenn er behauptet, in der ‚<rs type="self" ana="werk_840">Fackel</rs>‘<lb/>
+einen Artikel über Schulwesen verfasst zu haben, so — irrt er sich.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_37923">
+               <persName>J., Albert</persName>
+            </person>
+            <person xml:id="fk__p_50962">
+               <persName>Fuchs-Talab, Otto</persName>
+               <birth>
+                  <date>1852-2-11</date>
+                  <place>Horitz/Böhmen</place>
+               </birth>
+               <death>
+                  <date>1930-2-3</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Sekretär des „Österreichischen Lloyd“</occupation>
+               <occupation>Journalist</occupation>
+               <note type="comment">1887-91 Österr. Volksztg.</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02625.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02624.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02626.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Leser in Ischl. (Der Kaiser im Ischler Theater), in: Fackel Heft 04, Nr. 113, 1902, S. 26-26</title>
+            <title type="iso-date">1902-08-26</title>
+            <title type="id">tid_02625</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">04</title><title type="heft">113</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-04-113_n0026.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/113,026</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Leser in Ischl. (Der Kaiser im Ischler Theater)</head>
+            <p ana="pr25527">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_22091" ref="#fk__p_48884">Leser in Ischl</rs>.</seg></seg> Am <date>7. August</date> brachten Wiener Blätter das folgende<lb/>
+ Telegramm: »Im Theater in Ischl wohnte heute der <RS pers="Franz Joseph" globID="rs_371">Kaiser</RS> mit<lb/>
+<rs type="pers" ana="n_22092" ref="#fk__p_56146">Prinzessin Gisela von Bayern</rs> zum zweitenmale einer Aufführung des<lb/>
+‚<rs type="title">Süßen Mädel</rs>‘ bei. Der <RS pers="Franz Joseph" globID="rs_372">Kaiser</RS> blieb bis zum Schlusse der Vorstellung<lb/>
+und sprach sich über die Aufführung äußerst lobend aus.« Somit war<lb/>
+die in <rs type="selfRef" ana="werk_8894"><abbr>Nr.</abbr> 109</rs> der ‚<rs type="self" ana="werk_8895">Fackel</rs>‘ an die Ischler Nachricht, daß der <RS pers="Franz Joseph" globID="rs_373">Kaiser</RS> bei<lb/>
+einer früheren Vorstellung des »<rs type="title">Süßen <foreign xml:lang="de-loc">Mädel</foreign></rs>« nach dem ersten Act aufgebrochen<lb/>
+ sei, geknüpfte Vermuthung, der <RS pers="Franz Joseph" globID="rs_374">Kaiser</RS> habe damit ein abfälliges<lb/>
+ Urtheil über die Operette fällen wollen, offenbar irrig. — Was<lb/>
+die telegraphisch gemeldete Anwesenheit des Hofes bei einer Aufführung<lb/>
+von <rs type="pers" ana="n_22093" ref="#fk__p_39122">Buchbinder’s</rs> »<rs type="title">Er und seine Schwester</rs>« betrifft, so ist sie nur insofern<lb/>
+überraschend, als man bisher angenommen hatte, ein Zusammenhang <seg type="insult">des<lb/>
+Herrn <rs type="pers" ana="n_22094" ref="#fk__p_39122">Buchbinder</rs></seg> mit Seiner Majestät dem <RS pers="Franz Joseph" globID="rs_375">Kaiser</RS> sei lediglich durch die<lb/>
+Thatsache gegeben, daß die gerichtlichen Urtheile im Namen Seiner Majestät<lb/>
+des <RS pers="Franz Joseph" globID="rs_376">Kaisers</RS> gefällt werden. Trotzdem wird kein Mensch aus dem zufälligen<lb/>
+Besuch folgern können, daß <seg type="insult">»<rs type="title">Er und seine Schwester</rs>«, Posse in drei<lb/>
+Strafacten, verschärft mit Gesang</seg>, auf allerhöchsten Befehl aufgeführt wurde.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_39122">
+               <persName>Buchbinder, Bernhard</persName>
+               <birth>
+                  <date>1849-7-7</date>
+                  <place>Budapest</place>
+               </birth>
+               <death>
+                  <date>1922-6-24</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/6487</idno></person>
+            <person xml:id="fk__p_48884">
+               <persName>Leser in Ischl</persName>
+            </person>
+            <person xml:id="fk__p_56146">
+               <persName>Gisela Luise Marie, Prinzessin von Bayern, geb. Erzherzogin von Österreich</persName>
+               <birth>
+                  <date>1856-7-12</date>
+                  <place>Laxenburg</place>
+               </birth>
+               <death>
+                  <date>1932-7-27</date>
+                  <place>München</place>
+               </death>
+               <note type="comment">seit 20.04.1873 verh. mit Leopold von Bayern (1846-1930)</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15448</idno></person>
+            </listPerson></back></text>
+</TEI>

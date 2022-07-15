@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02211.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02210.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02212.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Musikschriftsteller. (Münz und Verdi), in: Fackel Heft 03, Nr. 093, 1902, S. 31-32</title>
+            <title type="iso-date">1902-02-4</title>
+            <title type="id">tid_02211</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">03</title><title type="heft">093</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-03-093_n0031.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/093,031</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Musikschriftsteller. (Münz und Verdi)</head>
+            <p ana="pr21503">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_18770" key="#fk__p_50473">Musikschriftsteller</rs>.</seg></seg> Sie stellen recht unbescheidene Anforderungen.<lb/>
+Wenn jemand in einer grossen Tageszeitung über Briefe eines italienischen<lb/>
+</p>
+            <p ana="pr21503">
+Musikers schreibt, so müsse er 1. deutsch, 2. italienisch und 3. etwas<lb/>
+von Musik verstehen. In dem am <date>3. Jänner</date> in der ‚<rs type="paper" ana="werk_7116">Neuen Freien Presse</rs>‘<lb/>
+erschienenen Feuilleton »<rs type="title">Briefe <rs type="pers" ana="n2_1441" ref="#fk__p_54842">Verdis</rs></rs>« heisst es nun zu Ihrem Erstaunen<lb/>
+, <rs type="pers" ana="n_18771" ref="#fk__p_54842">Verdi</rs> habe, wie der <seg type="insult">Feuilletonist</seg> einem seiner Briefe entnimmt,<lb/>
+»bei einem Concert die <rs type="title"><rs type="pers"><seg type="spc">Tannhäuser-Symphonie</seg></rs></rs> gehört <seg type="symbol" subtype="3dots"/>«<lb/>
+1. habe, versichern Sie, <rs type="pers" ana="n_18772" ref="#fk__p_54842">Verdi</rs> das Stück nicht <seg type="spc">bei</seg>, sondern in einem<lb/>
+Concert gehört: der Verfasser des Feuilletons verstehe also nicht deutsch.<lb/>
+2. wisse dieser nicht, dass die Italiener mit Sinfonia jedes Instrumentalstück<lb/>
+, zumal die (deutsche) <seg type="spc">Ouverture</seg> bezeichnen, verstehe also nicht<lb/>
+italienisch und 3. wisse er nicht, dass <rs type="pers" ana="n_18773" ref="#fk__p_52212">Wagner</rs> niemals eine <rs type="title"><rs type="pers">Tannhäuser-Symphonie<lb/>
+</rs></rs>, wohl aber eine <rs type="title"><rs type="pers">Tannhäuser-Ouverture</rs></rs> geschrieben hat, verstehe<lb/>
+ also auch nichts von Musik <seg type="symbol" subtype="3dots"/> Dies alles sind gewiss zutreffende<lb/>
+Folgerungen; aber ein mildernder Umstand ist es doch immerhin, dass<lb/>
+der Verfasser <seg type="insult"><rs type="pers" ana="n_18774" ref="#fk__p_41828">Sigmund Münz</rs></seg> heisst. Und der braucht, wie selbst Sie<lb/>
+zugeben werden, bloss eines zu verstehen: mit berühmten Männern umzugehen<lb/>
+ und nach ihrem Tode ihre <seg type="insult">»Briefe«</seg> zu öffnen.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_54842">
+               <persName>Verdi, Giuseppe</persName>
+               <birth>
+                  <date>1813-10-10</date>
+                  <place>Roncole bei Busseto (Parma)</place>
+               </birth>
+               <death>
+                  <date>1901-1-27</date>
+                  <place>Mailand</place>
+               </death>
+               <occupation>Komponist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/13007</idno></person>
+            <person xml:id="fk__p_41828">
+               <persName>Münz, Sigmund</persName>
+               <birth>
+                  <date>1859-5-7</date>
+                  <place>Leipnik, Mähren</place>
+               </birth>
+               <death>
+                  <date>1934-9-7</date>
+                  <place>Budapest</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Kürschner 1901: Münz, Sigm.</note>
+            </person>
+            <person xml:id="fk__p_52212">
+               <persName>Wagner, Richard</persName>
+               <birth>
+                  <date>1813-5-22</date>
+                  <place>Leipzig</place>
+               </birth>
+               <death>
+                  <date>1883-2-13</date>
+                  <place>Venedig</place>
+               </death>
+               <occupation>Komponist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/13024</idno></person>
+            </listPerson></back></text>
+</TEI>

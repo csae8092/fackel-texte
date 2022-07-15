@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_11017.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11016.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11018.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Prag, in: Fackel Heft 30, Nr. 800, 1929, S. 48-48</title>
+            <title type="iso-date">1929-02-01</title>
+            <title type="id">tid_11017</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">30</title><title type="heft">800</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-30-800_n0048.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/800,048</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Prag</head>
+            <p ana="pr158225">
+<space/><seg type="spc">Prag</seg><lb/>
+</p>
+            <p ana="pr158226">
+<space/><rs type="inst"><rs type="pers" ana="n2_8372" ref="#fk__p_55699">Mozarteum</rs></rs>, <date>25. Mai</date>, ½8 Uhr:<lb/>
+</p>
+            <p ana="pr158227">
+<space/><rs type="title"><seg type="insult"><seg type="spc">Die Unüberwindlichen</seg></seg></rs>.<lb/>
+</p>
+            <p ana="pr158228">
+<space/>(Wie in Wien, <date>7. Mai</date>; das Couplet <RS pers="Johannes Schober"><rs type="pers" ana="name_202786" ref="#fk__p_46939"><seg type="insult">Wackers</seg></rs></RS> wiederholt.)<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_55699">
+               <persName>Mozart, Wolfgang Amadeus</persName>
+               <birth>
+                  <date>1756-1-27</date>
+                  <place>Salzburg</place>
+               </birth>
+               <death>
+                  <date>1791-12-5</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Komponist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12303</idno></person>
+            <person xml:id="fk__p_46939">
+               <persName>Schober, Johannes</persName>
+               <birth>
+                  <date>1874-11-14</date>
+                  <place>Perg, Oberösterreich</place>
+               </birth>
+               <death>
+                  <date>1932-8-19</date>
+                  <place>Baden bei Wien</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <note type="comment">Pfarramt Perg: Taufregister: Johannes, Grabstein: Johannes Schober, nicht Johann</note>
+               <note type="comment">Vornamensschreibweise ebenso Czeike, ÖBL</note>
+               <note type="comment">Lebenslauf: NFP 26.9.1929, Seite 4</note>
+               <note type="comment">seit 21.06.1921 Bundeskanzler bis 26.01.1922, von 27.01.1922 bis 24.05.1922, von 26.09.1929 bis 25.09.1930</note>
+               <note type="comment">Polizeipräsident; 1921/22, 1929/30 Bundeskanzler und Außenminister</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/24444</idno></person>
+            </listPerson></back></text>
+</TEI>

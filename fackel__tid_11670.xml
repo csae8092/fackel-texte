@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_11670.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11669.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11671.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tempo, in: Fackel Heft 32, Nr. 847, 1931, S. 89-89</title>
+            <title type="iso-date">1931-03-01</title>
+            <title type="id">tid_11670</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">32</title><title type="heft">847</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-32-847_n0089.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/847,089</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Tempo</head>
+            <p ana="pr169445">
+<space/>Unter einem Bild:<lb/>
+</p>
+            <p ana="pr169447">
+Sie gab die tödlichen Schüsse in <abbr>St.</abbr> Moritz ab<lb/>
+</p>
+            <p ana="pr169448">
+<space/><abbr>Mrs.</abbr> <rs type="pers" ana="n_101423" key="#fk__p_39434">Boulter</rs>, die englische Freundin des Dichters <rs type="pers" ana="n_101424" ref="#fk__p_40164">Cuno Hofer</rs>,<lb/>
+<seg type="spc">den</seg> sie in einem bekannten Hotel in <abbr>St.</abbr> Moritz erschoß, <seg type="spc">und sich<lb/>
+selbst dann</seg> schwer, aber nicht lebensgefährlich, verletzte.<lb/>
+</p>
+            <p ana="pr169450">
+Ich sag’s ja, <seg type="insult">pure Analphabeten</seg>! Sie haben halt <seg type="insult">Tempo</seg> und<lb/>
+keine Zeit.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_40164">
+               <persName>Hofer, Cuno</persName>
+               <birth>
+                  <date>1886-6-9</date>
+                  <place>Genua</place>
+               </birth>
+               <death>
+                  <date>1931-1-9</date>
+                  <place>St. Moritz</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Jurist</occupation>
+               <note type="comment">Mörderin Mrs. Boulter</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06093.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06092.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06094.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Die Welt der Woche, in: Fackel Heft 14, Nr. 368, 1913, S. 18-18</title>
+            <title type="iso-date">1913-02-01</title>
+            <title type="id">tid_06093</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">14</title><title type="heft">368</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-14-368_n0018.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/368,018</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Die Welt der Woche</head>
+            <p ana="pr82153">
+ist noch trüber als die Welt, ein australischer Handelskommissär<lb/>
+sieht also auch nicht anders aus als ein <seg type="insult">Berliner Budiker</seg>, das<lb/>
+neue <rs type="inst">portugiesische Ministerium</rs> besteht aus <seg type="insult">acht Zahlkellnern</seg>, die<lb/>
+deutsche Kronprinzessin hat zwei Buben, das Gefolge geht<lb/>
+spazieren, wobei ein Fuß vor den andern gesetzt wird, ein<lb/>
+bekannter Bildhauer wurde 70 Jahre, der Bischof von Birmingham<lb/>
+treibt Wintersport, zwei Schauspielerinnen sind nicht schön und<lb/>
+wurden deshalb zur Beratung des Theatergesetzes herangezogen,<lb/>
+der <rs type="pers" ana="n_57557" ref="#fk__p_38041">König von Spanien</rs> ist auf einem Pferd angebracht, der Maler<lb/>
+<rs type="pers" ana="n_57558" ref="#fk__p_50130">Meyerheim</rs> auf einer Plakette, <seg type="insult">vierzehn deutsche Polizeipräsidenten</seg><lb/>
+sind so, wie man sich sie vorgestellt hat, der von Stuttgart steigt<lb/>
+gerade ins Auto und ist schneidig, die andern studieren die Aktenlage<lb/>
+, es gibt Botschafterkonferenzen und polare Katastrophen, es<lb/>
+ist alles da, stark wie die Mark, breit wie der <seg type="insult">Quark</seg>, und so sieht<lb/>
+derselbe Herr nach Wiedererlangung eines gesunden kräftigen<lb/>
+Haarwuchses aus.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_50130">
+               <persName>Meyerheim, Paul</persName>
+               <birth>
+                  <date>1842-7-13</date>
+                  <place>Berlin</place>
+               </birth>
+               <death>
+                  <date>1915-9-14</date>
+                  <place>Berlin</place>
+               </death>
+               <occupation>Maler</occupation>
+            </person>
+            <person xml:id="fk__p_38041">
+               <persName>Alfons XIII., König von Spanien</persName>
+               <birth>
+                  <date>1886-5-17</date>
+                  <place>Madrid</place>
+               </birth>
+               <death>
+                  <date>1941-2-28</date>
+                  <place>Rom</place>
+               </death>
+               <occupation>König</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/89420</idno></person>
+            </listPerson></back></text>
+</TEI>

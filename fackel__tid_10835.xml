@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_10835.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10834.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10836.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Bibliographisches), in: Fackel Heft 28, Nr. 751, 1927, S. 86-86</title>
+            <title type="iso-date">1927-02-01</title>
+            <title type="id">tid_10835</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">28</title><title type="heft">751</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-28-751_n0086.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/751,086</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Bibliographisches)</head>
+            <p ana="pr150950">
+<space/>‚<rs type="magazine" ana="werk_24570">Deutsche Republik</rs>‘ (Frankfurt <abbr>a. M.</abbr> I. 8. <date>17. Dezember</date>, Herausgeber<lb/>
+ Reichskanzler <abbr>a. D.</abbr> <rs type="pers" ana="n_90417" ref="#fk__p_41273"><abbr>Dr.</abbr> Josef Wirth</rs>): <rs type="title">Krieger oder Schlächter?</rs><lb/>
+Von <rs type="pers" ana="n_90418" ref="#fk__p_41347">Karl Thieme</rs>. — <seg type="ELIDASH">Buchrevue</seg> und Kunstrevue der ‚<rs type="" ana="werk_24571">Wirtschaftskorrespondenz<lb/>
+ für Polen</rs>‘ (Katowice, <date>6. Oktober</date>): »<rs type="self" ana="werk_24572">Die Fackel</rs>«. —<foreign xml:lang="fr">‚<rs type="magazine" ana="werk_24573">La<lb/>
+Nouvelle Revue Socialiste</rs>‘</foreign>: <foreign xml:lang="fr">Revue de Revues</foreign>, S. 638 (Datum unbestimmbar<lb/>
+). — ‚<rs type="" ana="werk_24575">Die Wahrheit</rs>‘ (Prag, <date>20. Dezember</date>, V. 24): <rs type="title">Um den<lb/>
+Friedenspreis</rs>. Antworten von <rs type="pers" ana="n_90419" ref="#fk__p_48395">Kurt Hiller</rs> und <rs type="pers" ana="n_90420" ref="#fk__p_54037">Theodor Lessing</rs>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_41273">
+               <persName>Wirth, Josef Carl</persName>
+               <birth>
+                  <date>1884-11-22</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1959-3-28</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Musikschriftsteller</occupation>
+               <occupation>Beamter</occupation>
+               <note type="comment">6., Theobaldgasse 17</note>
+               <note type="comment">lt. Schwarzer auch Sektionschef in der Präsidentschaftskanzlei</note>
+               <note type="comment">Sektionschef in der Präs.schaftskanzlei</note>
+            </person>
+            <person xml:id="fk__p_48395">
+               <persName>Hiller, Kurt</persName>
+               <birth>
+                  <date>1885-8-17</date>
+                  <place>Berlin</place>
+               </birth>
+               <death>
+                  <date>1972-10-1</date>
+                  <place>Hamburg</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Publizist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11694</idno></person>
+            <person xml:id="fk__p_41347">
+               <persName>Thieme, Karl</persName>
+               <birth>
+                  <date>1862-7-20</date>
+                  <place>Spremberg</place>
+               </birth>
+               <death>
+                  <date>1932-11-13</date>
+                  <place>Frankfurt</place>
+               </death>
+               <occupation>Theologe</occupation>
+            </person>
+            <person xml:id="fk__p_54037">
+               <persName>Lessing, Theodor</persName>
+               <birth>
+                  <date>1872-2-8</date>
+                  <place>Hannover</place>
+               </birth>
+               <death>
+                  <date>1933-8-31</date>
+                  <place>Marienbad</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Philosoph</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/20351</idno></person>
+            </listPerson></back></text>
+</TEI>

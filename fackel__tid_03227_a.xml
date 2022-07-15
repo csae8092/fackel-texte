@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03227_a.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03227.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03228.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Die Brünner Filiale, in: Fackel Heft 05, Nr. 142, 1903, S. 13-14</title>
+            <title type="iso-date">1903-07-3</title>
+            <title type="id">tid_03227_a</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">05</title><title type="heft">142</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-05-142_n0013.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/142,013</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Die Brünner Filiale</head>
+            <p ana="pr31755">
+<space/><inciptit>Ein</inciptit> Brünner Leser schreibt mir:<lb/>
+</p>
+            <p ana="pr31757">
+<space/>In <seg type="insult">dem »kleinen Tuchmacherstädtchen«</seg> gibt es für <seg type="insult">das<lb/>
+»<rs type="paperRef" ana="werk_11924">große Blatt</rs>«</seg> nichts mehr zu holen; das mußte <seg type="insult">Herr <rs type="pers" ana="n_27417" ref="#fk__p_46524">Singer</rs></seg>,<lb/>
+nachdem nicht einmal die <seg type="insult">Selbstdemüthigung</seg> durch die Anheftung<lb/>
+eines gelben Zettels geholfen hatte, seufzend bekennen. Die Brünner<lb/>
+Filiale am Großen Platz, im Centrum des Geschäftsverkehrs, die<lb/>
+</p>
+            <p ana="pr31757">
+das knapp gewordene Budget der ‚<rs type="paper" ana="werk_11925">Zeit</rs>‘ unnütz belastete, wurde<lb/>
+am <date>1. Juni</date> aufgelassen. Die Hauptvertretung der ‚<rs type="paper" ana="werk_11926">Zeit</rs>‘ in Brünn<lb/>
+wurde der Zeitungsexpedition des Herrn <rs type="pers" ana="n_27418" ref="#fk__p_43843">Friedrich Irrgang</rs> übertragen<lb/>
+, welcher der Eigenthümer des ‚<rs type="paper" ana="werk_11927">Tagesboten aus Mähren und<lb/>
+Schlesien</rs>‘ ist; <seg type="insult">das <rs type="paperRef" ana="werk_11928">große Blatt</rs></seg> hat sich unter den Schutz des<lb/>
+kleinen begeben.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_43843">
+               <persName>Irrgang, Friedrich</persName>
+               <birth>
+                  <date>1817-8-12</date>
+                  <place>Weimar</place>
+               </birth>
+               <occupation>Buchhändler</occupation>
+               <occupation>Verleger</occupation>
+               <occupation>Zeitungsherausgeber</occupation>
+               <note type="comment">Brünn; Zeitungsgründung 1851 "Tagesbote aus Mähren und Schlesien"</note>
+               <note type="comment">Anderthalb Jahrhunderte Rudolf M. Rohrer, 1786-1936</note>
+               <note type="comment">Rudolf Rohrer kaufte Okt. 1897 den Verlag, in dem der Tagesbote erschien</note>
+               <note type="comment">gest. zwischen Nov. 1897 und Juni 1901</note>
+               <note type="comment">Tagesbote aus Mähren und Schlesien</note>
+            </person>
+            <person xml:id="fk__p_46524">
+               <persName>Singer, Isidor</persName>
+               <birth>
+                  <date>1857-01-16</date>
+                  <place>Pest</place>
+               </birth>
+               <death>
+                  <date>1927-12-08</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Nationalökonom</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12790</idno></person>
+            </listPerson></back></text>
+</TEI>

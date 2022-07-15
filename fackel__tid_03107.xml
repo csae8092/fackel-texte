@@ -1,0 +1,46 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03107.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03106.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03108.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Leser. (Feigheit und Hass), in: Fackel Heft 05, Nr. 136, 1903, S. 24-24</title>
+            <title type="iso-date">1903-04-30</title>
+            <title type="id">tid_03107</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">05</title><title type="heft">136</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-05-136_n0024.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/136,024</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Leser. (Feigheit und Hass)</head>
+            <p ana="pr30512">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_26447" ref="#fk__p_48877">Leser</rs>.</seg></seg> <rs type="pers" ana="n_26448" ref="#fk__p_47149">Schöffel</rs> hat seine Erklärung an alle Tagesblätter versendet<lb/>
+. Einige haben sie aus <seg type="insult">Feigheit</seg>, andere aus Hass gegen<lb/>
+die ‚<rs type="self" ana="werk_11388">Fackel</rs>‘ nicht gebracht, und das ‚<rs type="paper" ana="werk_11389">Neue Wiener Tagblatt</rs>‘ half sich<lb/>
+mit der Unterschlagung des Passus, der sich auf <rs type="pers" ana="n_26449" ref="#fk__p_47149">Schöffel’s</rs> Publicationen<lb/>
+in der ‚<rs type="self" ana="werk_11390">Fackel</rs>‘ bezog.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_47149">
+               <persName>Schöffel, Joseph</persName>
+               <birth>
+                  <date>1832-07-29</date>
+                  <place>Brünn</place>
+               </birth>
+               <death>
+                  <date>1910-02-07</date>
+                  <place>Mödling/NÖ</place>
+               </death>
+               <occupation>Landespolitiker</occupation>
+            </person>
+            <person xml:id="fk__p_48877">
+               <persName>Leser</persName>
+            </person>
+            </listPerson></back></text>
+</TEI>

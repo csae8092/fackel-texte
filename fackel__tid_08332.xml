@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_08332.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08331.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08333.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Der nüchterne Burian, in: Fackel Heft 20, Nr. 484, 1918, S. 23-23</title>
+            <title type="iso-date">1918-10-01</title>
+            <title type="id">tid_08332</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">20</title><title type="heft">484</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-20-484_n0023.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/484,023</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Der nüchterne Burian</head>
+            <p ana="pr110011">
+<space/>Beim <seg type="insult">Personenwechsel im <rs type="inst">Ministerium des Äußern</rs></seg>, zu<lb/>
+dessen Feier sich bekanntlich <seg type="insult">der böhmische Tenor <rs type="pers" ana="n_68890" ref="#fk__p_56039">Burian</rs></seg> einen<lb/>
+Rausch angetrunken hat, konnte nicht oft genug festgestellt<lb/>
+werden, daß <seg type="insult">der Nachfolger des <rs type="pers" ana="n_68891" ref="#fk__p_44656">Grafen Czernin</rs></seg> ein anderer sei.<lb/>
+</p>
+            <p ana="pr110013">
+Wien, <date>17. April</date>.<lb/>
+</p>
+            <p ana="pr110014">
+<space/><rs type="pers" ana="n_68892" ref="#fk__p_44646">Baron Burian</rs> hat auch über sich selbst ein nüchternes Urteil.<lb/>
+Er sieht die eigene Person, wie sie von der Wirklichkeit sich<lb/>
+abhebt <seg type="symbol" subtype="4dots"/> Er hat die Neigung zur Gegenständlichkeit im Denken<lb/>
+und wird diese Stimmungen ohne Rücksicht auf das eigene Selbstgefühl<lb/>
+ mit derselben Pflichtmäßigkeit und Erfahrung prüfen wie —<lb/>
+</p>
+            <p ana="pr110016">
+<space/>Mit einem Wort, wie es jener andere in dem Zustand<lb/>
+gewiß nicht vermöchte.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_44646">
+               <persName>Burián-Rajecz, Stefan Graf</persName>
+               <birth>
+                  <date>1851-1-16</date>
+                  <place>Stampfen/Preßburg</place>
+               </birth>
+               <death>
+                  <date>1922-10-20</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Diplomat</occupation>
+               <occupation>Politiker</occupation>
+            </person>
+            <person xml:id="fk__p_44656">
+               <persName>Czernin-Chudenitz, Ottokar Theobald Graf </persName>
+               <birth>
+                  <date>1872-09-26</date>
+                  <place>Dimokur/Böhmen</place>
+               </birth>
+               <death>
+                  <date>1932-04-04</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <occupation>Diplomat</occupation>
+               <note type="comment"/>
+               <note type="comment">Sohn Theobald Peter Ottokar (Winař 29.4.1898 - Wien 14.5.1974)</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_14331</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/15184</idno></person>
+            <person xml:id="fk__p_56039">
+               <persName>Burian, Karl</persName>
+               <birth>
+                  <date>1870-01-12</date>
+                  <place>Rousinov bei Rabovnik</place>
+               </birth>
+               <death>
+                  <date>1924-9-25</date>
+                  <place>Senomaty/Böhm.</place>
+               </death>
+               <occupation>Tenor</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

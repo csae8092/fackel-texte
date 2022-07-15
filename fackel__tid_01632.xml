@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01632.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01631.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01633.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Leser in der Provinz. (Galgen und Ghetto), in: Fackel Heft 02, Nr. 068, 1901, S. 27-27</title>
+            <title type="iso-date">1901-02-01</title>
+            <title type="id">tid_01632</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">068</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-068_n0027.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/068,027</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Leser in der Provinz. (Galgen und Ghetto)</head>
+            <p ana="pr16001">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_13361" key="#fk__p_48883">Leser in der Provinz</rs>.</seg></seg> Nein. <seg type="insult">Herr <rs type="pers" ana="n_13362" ref="#fk__p_41553"><abbr>Dr.</abbr> Morgenstern</rs></seg>, der im<lb/>
+Mordprocess <rs type="pers" ana="n_13363" ref="#fk__p_50924"><rs type="pers" ana="name_200647" ref="#fk__p_59457">Ott</rs></rs> den Witz mit der <seg type="insult">Firma <rs type="inst"><rs type="pers" ana="n2_1084" ref="#fk__p_58889">Schenker</rs> &amp; <abbr>Comp.</abbr></rs></seg> gemacht<lb/>
+hat, ist <seg type="insult">noch immer Advocat</seg>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_50924">
+               <persName>Ott, Joseph</persName>
+               <birth>
+                  <date>1869?</date>
+               </birth>
+               <occupation>Zeitungsausträger</occupation>
+               <note type="comment">Prozeß Ott 1901; Mordanklage gegen die Eheleute Ott, die ihren Sohn getötet haben sollen</note>
+               <note type="comment">31.01.01 zum Tod verurteilt</note>
+            </person>
+            <person xml:id="fk__p_58889">
+               <persName>Schenker (Schenker &amp; Comp., Speditionsfirma)</persName>
+            </person>
+            <person xml:id="fk__p_59457">
+               <persName>Ott, Caroline, geb. Maß</persName>
+               <birth>
+                  <date>1874?</date>
+               </birth>
+               <note type="comment">31.01.01 zu zwölf Jahren schweren Kerkers verurteilt</note>
+               <note type="comment">Sohn Joseph (*24.04.1895) ermordet</note>
+            </person>
+            <person xml:id="fk__p_41553">
+               <persName>Morgenstern, Gustav Christian</persName>
+               <birth>
+                  <date>1857-2-21</date>
+                  <place>Budapest</place>
+               </birth>
+               <death>
+                  <date>1922-4-14</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Rechtsanwalt</occupation>
+               <occupation>Publizist</occupation>
+               <note type="comment">Hrsg. "Das Forum"</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

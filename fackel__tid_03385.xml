@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03385.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03384.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03386.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Dame. (Eine Familienangelegenheit), in: Fackel Heft 05, Nr. 149, 1903, S. 27-27</title>
+            <title type="iso-date">1903-12-12</title>
+            <title type="id">tid_03385</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">05</title><title type="heft">149</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-05-149_n0027.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/149,027</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Dame. (Eine Familienangelegenheit)</head>
+            <p ana="pr33433">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="n_28913" key="#fk__p_40231">Dame</rs>.</seg></seg></seg> Das Ganze ist bloß eine <seg type="insult">Familienangelegenheit</seg>. Daß eine<lb/>
+Dame ein Verfahren für Perlenhäkelei erfunden hat und daß es ihr<lb/>
+patentiert wurde, davon hätte außer dem <rs type="magazine" ana="werk_12498">Patentblatt</rs> schwerlich jemand<lb/>
+Kenntnis genommen und darüber hätte sicherlich <seg type="insult">Frau <rs type="pers" ana="n_28914" ref="#fk__p_39160">Berta Zuckerkandl</rs></seg><lb/>
+nicht <seg type="insult">einen spaltenlangen kulturhistorischen Artikel in der ‚<rs type="paper" ana="werk_12499">Neuen Freien<lb/>
+Presse</rs>‘</seg> geschrieben, wenn die Erfinderin nicht <rs type="pers" ana="n_28915" ref="#fk__p_56157">Goldscheider</rs> hieße, einem<lb/>
+<seg type="insult">Redakteursgeschlecht</seg> entstammte und <seg type="insult">eine Cousine der Frau <rs type="pers" ana="n_28916" ref="#fk__p_39160">Berta<lb/>
+Zuckerkandl</rs></seg> wäre.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_56157">
+               <persName>Goldscheider, Maria?, geb. Inlender</persName>
+               <birth>
+                  <date>1886-2-17</date>
+                  <place>Lemberg</place>
+               </birth>
+               <note type="comment">12.12.1903; Verfahren für Perlenhäkelei patentiert</note>
+               <note type="comment">Cousine von Berta Zuckerkandl?</note>
+               <note type="comment">verh. Eduard G., Red. der WAZ, Buhaczowce 6.3.1872, Wien 22.5.1935</note>
+               <note type="comment">Stanislawa G., geb. ca. 1880, verh. mit Max Otto G. (Buhaczowce 30.01.1869), Red. des WT</note>
+            </person>
+            <person xml:id="fk__p_39160">
+               <persName>Zuckerkandl, Berta, geb. Szeps</persName>
+               <birth>
+                  <date>1864-4-12</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1945-10-16</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Journalistin</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2312</idno></person>
+            </listPerson></back></text>
+</TEI>

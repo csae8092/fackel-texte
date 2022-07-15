@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06762.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06761.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06763.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Diagnose, in: Fackel Heft 16, Nr. 399, 1914, S. 8-9</title>
+            <title type="iso-date">1914-05-01</title>
+            <title type="id">tid_06762</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">16</title><title type="heft">399</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-16-399_n0008.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/399,008</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Diagnose</head>
+            <p ana="pr91113">
+<space/>»<seg type="spc"><rs type="pers" ana="n_61998" ref="#fk__p_40254">Gabriele d’Annunzio</rs> schwer erkrankt</seg>. Der <foreign xml:lang="fr">‚<rs type="paper" ana="werk_20193">Intransigeant</rs>‘</foreign><lb/>
+meldet nach einem Telegramm unseres Pariser Korrespondenten gestern<lb/>
+abend, daß <rs type="pers" ana="n_61999" ref="#fk__p_40254">Gabriele d’Annunzio</rs>, der augenblicklich in Paris weilt,<lb/>
+seit einigen Tagen schwer erkrankt ist. In seiner Umgebung glaubt<lb/>
+man, ohne direkt beunruhigt zu sein, daß seine Genesung größere Zeit<lb/>
+in Anspruch nehmen dürfte. Es wird kein Bulletin über den Zustand<lb/>
+des Kranken veröffentlicht. Der kranke Schriftsteller verweigert jede<lb/>
+Nahrungsaufnahme und ist infolgedessen in einem Zustande außerordentlicher<lb/>
+ Schwäche. — <rs type="pers" ana="n_62000" ref="#fk__p_40254">D’Annunzio</rs> steht im fünfzigsten Lebensjahre<lb/>
+: er ist <date>1864</date> an Bord eines Adriaschiffes geboren. <seg type="spc">Bei der<lb/>
+feurigen Lebenskraft</seg>, die aus allen Werken des italienischen<lb/>
+Dichters spricht, <seg type="spc">ist wohl anzunehmen</seg>, daß es sich <seg type="spc">nur um den<lb/>
+akuten Anfall einer Krankheit</seg> handelt.«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_40254">
+               <persName>d’Annunzio, Gabriele</persName>
+               <birth>
+                  <date>1863-3-12</date>
+                  <place>Pescara</place>
+               </birth>
+               <death>
+                  <date>1938-3-1</date>
+                  <place>Cargnacco bei Gardone</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2142</idno></person>
+            </listPerson></back></text>
+</TEI>

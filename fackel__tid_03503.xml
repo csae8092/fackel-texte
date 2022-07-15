@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03503.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03502.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03504.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Sammler. (Aus meiner Sammlung), in: Fackel Heft 05, Nr. 155, 1904, S. 22-22</title>
+            <title type="iso-date">1904-02-24</title>
+            <title type="id">tid_03503</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">05</title><title type="heft">155</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-05-155_n0022.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/155,022</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Sammler. (Aus meiner Sammlung)</head>
+            <p ana="pr34763">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_29819" ref="#fk__p_52736">Sammler</rs>.</seg></seg> Was gibt’s denn Neues? <seg type="insult">Der hochgebildete <rs type="paperRef" ana="werk_40782"><rs type="inst">Börsenwöchner<lb/>
+</rs></rs></seg> schrieb das Wort: <foreign xml:lang="la">»Nihil est in intellectu, quod non fuerit<lb/>
+in sensu«</foreign> dem <rs type="pers" ana="n_29820" ref="#fk__p_40385"><seg type="spc">Descartes</seg></rs>, dessen System es stracks zuwiderläuft, anstatt<lb/>
+dem <rs type="pers" ana="n_29821" ref="#fk__p_49092">Locke</rs> zu. <seg type="insult">Sein Kollege im Leitartikel</seg> versicherte, Japan »<seg type="spc">entfalte<lb/>
+das Banner der offenen Tür</seg>«. Daneben hat sich <seg type="insult">»<seg type="spc">eine hervorragende<lb/>
+ japanische Seite</seg>«</seg> geäußert. Der hundertste Todestag<lb/>
+<rs type="pers" ana="n_29822" ref="#fk__p_46454">Kant’s</rs> wurde als <seg type="insult"><rs type="pers" ana="n_29823" ref="#fk__p_46454"><seg type="spc">Kant-Jubiläum</seg></rs></seg> — nicht zu verwechseln mit dem<lb/>
+<seg type="insult"><rs type="pers" ana="n_29824" ref="#fk__p_42812">Hartmann-Jubiläum</rs></seg> — gefeiert. Und so weiter. Und so weiter.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_52736">
+               <persName>Sammler</persName>
+            </person>
+            <person xml:id="fk__p_49092">
+               <persName>Locke, John</persName>
+               <birth>
+                  <date>1632-8-29</date>
+                  <place>Wrington, Somerset</place>
+               </birth>
+               <death>
+                  <date>1704-10-28</date>
+                  <place>Oates/County Essex</place>
+               </death>
+               <occupation>Philosoph</occupation>
+            </person>
+            <person xml:id="fk__p_42812">
+               <persName>Hartmann, Ernst</persName>
+               <birth>
+                  <date>1844-1-8</date>
+                  <place>Hamburg</place>
+               </birth>
+               <death>
+                  <date>1911-10-10</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <note type="comment">ab 1864 Burgtheater</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11610</idno></person>
+            <person xml:id="fk__p_46454">
+               <persName>Kant, Immanuel</persName>
+               <birth>
+                  <date>1724-4-22</date>
+                  <place>Königsberg</place>
+               </birth>
+               <death>
+                  <date>1804-2-12</date>
+                  <place>Königsberg</place>
+               </death>
+               <occupation>Philosoph</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11871</idno></person>
+            <person xml:id="fk__p_40385">
+               <persName>Descartes, René</persName>
+               <birth>
+                  <date>1596-3-31</date>
+                  <place>La Haye en Touraine, Indre-et-Loire</place>
+               </birth>
+               <death>
+                  <date>1650-2-11</date>
+                  <place>Stockholm</place>
+               </death>
+               <occupation>Philosoph</occupation>
+               <occupation>Mathematiker</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/4103</idno></person>
+            </listPerson></back></text>
+</TEI>

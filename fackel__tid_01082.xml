@@ -1,0 +1,44 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01082.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01081.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01083.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Achtung!, in: Fackel Heft 02, Nr. 045, 1900, S. 27-27</title>
+            <title type="iso-date">1900-06-01</title>
+            <title type="id">tid_01082</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">045</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-045_n0027.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/045,027</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Achtung!</head>
+            <p ana="pr10295">
+<space/><seg type="insult">Erfolgdepeschen</seg> über <rs type="pers" ana="n_8426" ref="#fk__p_45908">Hermann <seg type="spc">Bahrs</seg></rs> »<rs type="title"><seg type="spc">Star</seg></rs>« in <seg type="spc">Breslau</seg><lb/>
+gefälscht. Nicht hereinfallen! Misserfolg so ausgesprochen, dass Truppe,<lb/>
+die »<rs type="title">Star</rs>« aufführte, nach der zweiten Vorstellung Gastspiel abbrechen<lb/>
+ musste.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_45908">
+               <persName>Bahr, Hermann</persName>
+               <birth>
+                  <date>1863-7-19</date>
+                  <place>Linz</place>
+               </birth>
+               <death>
+                  <date>1934-1-15</date>
+                  <place>München</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Kritiker</occupation>
+               <note type="comment">Ögg teilt auch 307/52, 445/49, 800/67 (Rotte Korah) Bahr zu</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10815</idno></person>
+            </listPerson></back></text>
+</TEI>

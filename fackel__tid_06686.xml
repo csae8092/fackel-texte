@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06686.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06685.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06687.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Verwechslung der Schöpfer, in: Fackel Heft 15, Nr. 395, 1914, S. 54-54</title>
+            <title type="iso-date">1914-01-01</title>
+            <title type="id">tid_06686</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">15</title><title type="heft">395</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-15-395_n0054.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/395,054</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Verwechslung der Schöpfer</head>
+            <p ana="pr90260">
+<space/>»Bei <rs type="pers" ana="n_61647" ref="#fk__p_50671">Nikolaus <seg type="spc">Schattensteins</seg></rs> ‚<rs type="title">Porträt der Frau <rs type="pers" ana="n2_5420" ref="#fk__p_51988"><abbr>R.</abbr></rs></rs>‘ erkundigte<lb/>
+ sich der <RS pers="Franz Joseph I." globID="name_201561">Kaiser</RS>, wer die abgebildete Dame sei, worauf ihm<lb/>
+der Künstler das ehemalige Mitglied des <rs type="inst">Deutschen Volkstheaters</rs> Frau<lb/>
+<rs type="pers" ana="n_61648" ref="#fk__p_51988">Rainau</rs> als die Porträtierte bezeichnete.«<lb/>
+</p>
+            <p ana="pr90263">
+<space/>»Der <seg type="spc">Schöpfer</seg> des Porträts der Frau <rs type="pers" ana="n_61649" ref="#fk__p_51988">Rainau-Adler</rs>,<lb/>
+das dem <RS pers="Franz Joseph I." globID="name_201562">Kaiser</RS> besonders auffiel, ist Maler <rs type="pers" ana="n_61650">Heinrich <seg type="spc">Rauchinger</seg></rs>.«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_50671">
+               <persName>Schattenstein, Nikol</persName>
+               <birth>
+                  <date>1877-8-10</date>
+                  <place>Ponjemon/Kowno</place>
+               </birth>
+               <death>
+                  <date>1954-9-6</date>
+                  <place>Port Chester/New York</place>
+               </death>
+               <occupation>Maler</occupation>
+            </person>
+            <person xml:id="fk__p_51988">
+               <persName>Reinau-Adler, Hedwig, geb. Quandt</persName>
+               <birth>
+                  <date>1894-8-9</date>
+               </birth>
+               <occupation>Schauspielerin</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

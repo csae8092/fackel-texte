@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02742.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02741.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02743.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Arzt. (Zwei Seuchen), in: Fackel Heft 04, Nr. 120, 1902, S. 32-32</title>
+            <title type="iso-date">1902-11-8</title>
+            <title type="id">tid_02742</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">04</title><title type="heft">120</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-04-120_n0032.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/120,032</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Arzt. (Zwei Seuchen)</head>
+            <p ana="pr26877">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_23183" ref="#fk__p_38520">Arzt</rs>.</seg></seg> In einem Nachruf, den die ‚<rs type="paper" ana="werk_9444">Neue Freie Presse</rs>‘ dem kürzlich<lb/>
+ verstorbenen Primarius <rs type="pers" ana="n_23184" ref="#fk__p_41188"><abbr>Dr.</abbr> Hermann</rs> am <date>13. October</date> widmete,<lb/>
+heißt es: »Einige originelle Anschauungen, insbesonders seine Streitschriften<lb/>
+ gegen <seg type="insult"><seg type="spc">ein Medicament</seg></seg>, welches zu den heilkräftigsten des<lb/>
+Arzneischatzes gehört, haben ihm zahlreiche wissenschaftliche Gegner<lb/>
+gebracht.« Ja, was ist denn das für ein Medicament? Und gegen welche<lb/>
+Krankheit wird es denn angewendet? Daß doch <seg type="insult">die alte Corruptionsvettel<lb/>
+</seg> noch immer schämig thut, wenn es gilt, das Wort »Syphilis« oder<lb/>
+auch nur das Wort »Quecksilber« auszusprechen! Aber gleich darauf<lb/>
+erzählt sie frisch von der Leber weg, der verstorbene Arzt habe einmal<lb/>
+geschrieben, es berühre ihn schmerzlich, daß er »ein Erwachen des<lb/>
+mittelalterlichen Rassenkampfes habe erleben müssen, <seg type="insult">diese <seg type="spc">schwarze<lb/>
+Pest</seg></seg>, welche alle menschlichen Gefühle ertödte, das Rechtsbewusstsein<lb/>
+im Volke vernichte <seg type="symbol" subtype="3dots"/>« Nein, von <seg type="insult">der »schwarzen Pest«</seg> zu sprechen,<lb/>
+schämt sich die ‚<rs type="paper" ana="werk_9445">Neue Freie Presse</rs>‘ noch immer nicht. Aber sie mag<lb/>
+es nur glauben: Die Syphilis ist gefährlicher als der Antisemitismus,<lb/>
+und wenn man <seg type="insult">jene Seuche</seg> durch Verschweigen, diese durch <seg type="insult">fortwährendes<lb/>
+ »Besprechen«</seg> zu heilen sucht, so greifen beide nur desto<lb/>
+mehr um sich.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_41188">
+               <persName>Hermann, Josef</persName>
+               <birth>
+                  <date>1817?</date>
+               </birth>
+               <death>
+                  <date>1902-10-12</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Arzt</occupation>
+               <note type="comment">Primarius, Nachruf in der NFP 13. Oktober 1902</note>
+               <note type="comment">Chefarzt der Wienerberger Ziegelfabriks- und Baugesellschaft</note>
+            </person>
+            <person xml:id="fk__p_38520">
+               <persName>Arzt</persName>
+            </person>
+            </listPerson></back></text>
+</TEI>

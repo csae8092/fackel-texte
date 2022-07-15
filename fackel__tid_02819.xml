@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02819.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02818.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02820.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Der anticorruptionistische Druckfehlerteufel, in: Fackel Heft 04, Nr. 124, 1902, S. 19-19</title>
+            <title type="iso-date">1902-12-20</title>
+            <title type="id">tid_02819</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">04</title><title type="heft">124</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-04-124_n0019.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/124,019</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Der anticorruptionistische Druckfehlerteufel</head>
+            <p ana="pr27683">
+<space/>In der <rs type="selfRef" ana="werk_9896">vorletzten Nummer</rs> der ‚<rs type="self" ana="werk_9897">Fackel</rs>‘ wäre, hätte ich ihn<lb/>
+nicht rechtzeitig bemerkt, ein curioser Druckfehler stehen geblieben<lb/>
+. <FCORR href="FK-04-122_n0011.xml" ferrID="fk_04_ferr_27265092" id="fk_04_fcorr_27265092">Auf der 11. Zeile der 11. Seite hatte ich die in <rs type="pers" ana="n_23920" ref="#fk__p_50949">Otto Ernst’s</rs><lb/>
+»<rs type="title">Gerechtigkeit</rs>« geschilderten <seg type="insult">Manöver der »<EM href="FK-04-122_n0011.xml" ferrID="fk_04_ferr_27265092" id="fk_04_em_27265096"><seg type="spc">stückeschreibenden<lb/>
+</seg> Recensenten</EM>«</seg> erwähnt. Der Setzer aber setzte kühn <seg type="insult">»<seg type="spc">stückbeschreibenden<lb/>
+</seg> Recensenten«</seg>.</FCORR> Daß es die Pflicht der Theaterkritiker<lb/>
+sei, Stücke zu beschreiben, sah er ein. Die Existenz von <seg type="insult">selbst stückeschreibenden<lb/>
+ Kritikern</seg> schien ihm trotz längerer Beschäftigung mit<lb/>
+den Manuscripten der ‚<rs type="self" ana="werk_9898">Fackel</rs>‘ so ungeheuerlich, daß er unbedingt<lb/>
+annahm, mir sei in der Hast des Arbeitens ein Schreibfehler<lb/>
+unterlaufen, den er corrigieren zu müssen glaubte. Diesen werthvollen<lb/>
+ Ausdruck einer naiven Ueberzeugung hätte ich, wenn ich<lb/>
+ihm vor dem Process <SPAN cont="Bahr-Bukovics"><rs type="pers" ana="n_23921" ref="#fk__p_45908">Bahr</rs>-<rs type="pers" ana="n_23922" ref="#fk__p_42599">Bukovics</rs></SPAN> begegnet wäre, unbedingt<lb/>
+den damals veröffentlichten Gutachten über die Incompatibilität<lb/>
+des Kritikeramtes mit dem <seg type="insult">Beruf des Stückeschreibers</seg> angereiht.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_50949">
+               <persName>Ernst, Otto</persName>
+               <birth>
+                  <date>1862-10-7</date>
+                  <place>Ottensen bei Hamburg</place>
+               </birth>
+               <death>
+                  <date>1926-3-5</date>
+                  <place>Groß-Flottbek bei Hamburg</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Die Liebe höret nimmer auf, Tragikomödie 1911</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11260</idno></person>
+            <person xml:id="fk__p_45908">
+               <persName>Bahr, Hermann</persName>
+               <birth>
+                  <date>1863-7-19</date>
+                  <place>Linz</place>
+               </birth>
+               <death>
+                  <date>1934-1-15</date>
+                  <place>München</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Kritiker</occupation>
+               <note type="comment">Ögg teilt auch 307/52, 445/49, 800/67 (Rotte Korah) Bahr zu</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10815</idno></person>
+            <person xml:id="fk__p_42599">
+               <persName>Bukovics-Kis-Alacska, Emerich von</persName>
+               <birth>
+                  <date>1844-2-28</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1905-7-4</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Theaterleiter</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

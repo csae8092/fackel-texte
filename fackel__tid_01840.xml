@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01840.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01839.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01841.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Jurist. (Ein Gemüthsmensch), in: Fackel Heft 03, Nr. 077, 1901, S. 23-23</title>
+            <title type="iso-date">1901-05-01</title>
+            <title type="id">tid_01840</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">03</title><title type="heft">077</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-03-077_n0023.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/077,023</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Jurist. (Ein Gemüthsmensch)</head>
+            <p ana="pr18087">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_15280" ref="#fk__p_47308">Jurist</rs>.</seg></seg> Sie theilen mir den folgenden Dialog zwischen Ihnen<lb/>
+und einem <seg type="insult">Gemüthsmenschen</seg> mit: »Waren Sie auch bei der Hinrichtung<lb/>
+ des <rs type="pers" ana="n_15281" ref="#fk__p_55258">Wanyek</rs>?« <foreign xml:lang="de-loc">»Oh nein! So was schau ich mir nicht an!</foreign><lb/>
+(Nach einer Pause:) <foreign xml:lang="de-loc">Aber lesen thu’ ich’s riesig gern.</foreign> (Nach einer<lb/>
+weiteren Pause, sentimental:) <foreign xml:lang="de-loc">Ja früher, wie ich noch ein Bub war,<lb/>
+da bin ich immer zur Spinnerin am Kreuz hinaus und hab’ jedesmal<lb/>
+zug’schaut, wie’s einem das G’nack umdraht <choice><sic>haben</sic><corr>haben.</corr></choice> Na, jetzt hat man<lb/>
+ja die Zeitungen zu so was! <seg type="symbol" subtype="3dots"/>«</foreign><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_47308">
+               <persName>Jurist</persName>
+            </person>
+            <person xml:id="fk__p_55258">
+               <persName>Wanyek, Stephan</persName>
+               <birth>
+                  <date>1877?</date>
+               </birth>
+               <death>
+                  <date>1901-5-22</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Mörder</occupation>
+               <note type="comment">die Tat erfolgte am 08.01.1901</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

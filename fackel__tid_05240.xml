@@ -1,0 +1,43 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_05240.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05239.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05241.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Eine ältere Firma, in: Fackel Heft 12, Nr. 315, 1911, S. 9-9</title>
+            <title type="iso-date">1911-01-26</title>
+            <title type="id">tid_05240</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">12</title><title type="heft">315</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-12-315_n0009.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/315,009</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Eine ältere Firma</head>
+            <p ana="pr67942">
+<space/>»Auch die Moderne war im Programm reich und gut vertreten.<lb/>
+Das ‚<rs type="title">Schlaflied für <rs type="pers">Miriam</rs></rs>‘ von <seg type="insult"><seg type="spc"><rs type="pers" ana="n_49238" ref="#fk__p_52172">Beer</rs> und <rs type="pers" ana="n_49239" ref="#fk__p_52172">Hoffmann</rs></seg> <seg type="symbol" subtype="3dots"/></seg><choice><sic>»</sic><corr>«</corr></choice><lb/>
+</p>
+            <p ana="pr67944">
+<space/>Aber das trägt man doch wirklich nicht mehr!<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_52172">
+               <persName>Beer-Hofmann, Richard</persName>
+               <birth>
+                  <date>1866-7-11</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1945-9-26</date>
+                  <place>New York</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10863</idno></person>
+            </listPerson></back></text>
+</TEI>

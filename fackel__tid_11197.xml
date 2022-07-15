@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_11197.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11196.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11198.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Der ganze Offenbach!, in: Fackel Heft 31, Nr. 820, 1929, S. 53-53</title>
+            <title type="iso-date">1929-10-01</title>
+            <title type="id">tid_11197</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">31</title><title type="heft">820</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-31-820_n0053.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/820,053</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Der ganze Offenbach!</head>
+            <p ana="pr162241">
+<space/><seg type="sidehead">(<seg type="spc"><rs type="pers" ana="n_97303" ref="#fk__p_46777">Jean Gilbert</rs> in Wien</seg>.)</seg> — —. »— — Dann bin ich<lb/>
+auf ein Jahr nach Amerika gegangen, um einen Teil dieses Geldes<lb/>
+wieder zu verdienen, <seg type="spc">genau so wie <rs type="pers" ana="n_97304" ref="#fk__p_46664">Offenbach</rs></seg>, der auch<lb/>
+seinerzeit als Theaterdirektor in Paris zusammengebrochen ist und sich<lb/>
+jenseits des Ozeans sanieren konnte. — —«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46664">
+               <persName>Offenbach, Jacques</persName>
+               <birth>
+                  <date>1819-06-21</date>
+                  <place>Köln</place>
+               </birth>
+               <death>
+                  <date>1880-10-05</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Komponist</occupation>
+               <note type="comment">Ögg teilt Fortunato F 876/34 Shakespeare zu</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/9131</idno></person>
+            <person xml:id="fk__p_46777">
+               <persName>Gilbert, Jean</persName>
+               <birth>
+                  <date>1979-2-11</date>
+                  <place>Hamburg</place>
+               </birth>
+               <death>
+                  <date>1942-12-20</date>
+                  <place>Buenos Aires</place>
+               </death>
+               <occupation>Komponist</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15428</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/7411</idno></person>
+            </listPerson></back></text>
+</TEI>

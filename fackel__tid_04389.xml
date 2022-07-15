@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_04389.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04388.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04390.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Philolog. (Hartels Tod), in: Fackel Heft 08, Nr. 218, 1907, S. 26-27</title>
+            <title type="iso-date">1907-02-5</title>
+            <title type="id">tid_04389</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">08</title><title type="heft">218</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-08-218_n0026.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/218,026</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Philolog. (Hartels Tod)</head>
+            <p ana="pr47835">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="name_203574" ref="#fk__p_60691">Philolog</rs>.</seg></seg></seg> Nun ist <seg type="insult">der allseitig tolerante Herr <rs type="pers" ana="n_38700" ref="#fk__p_55511"><abbr>v.</abbr> Hartel</rs></seg> tot. Er<lb/>
+duldete die <seg type="insult">Übergriffe des Klerikalismus</seg> und ertrug die <seg type="insult">Vorwürfe des<lb/>
+Liberalismus</seg>. Die <seg type="insult">‚<rs type="paper" ana="werk_15214">Neue Freie Presse</rs>‘</seg> aber, die sonst an frischen Leichen<lb/>
+jenes Mütchen kühlt, das sie gegen die Lebenden nicht aufbringt, ist<lb/>
+von dem Liberalismus des toten <rs type="pers" ana="n_38701" ref="#fk__p_55511">Hartel</rs> begeistert, nachdem sie den<lb/>
+lebenden <rs type="pers" ana="n_38702" ref="#fk__p_55511">Hartel</rs> so oft zu den <seg type="insult">Klerikalen</seg> geworfen hat. Daß er <seg type="insult">der<lb/>
+Größten einer</seg> war, wird uns von <seg type="insult">jener Parteikritik</seg> erzählt, die sich<lb/>
+erst dann besitzstolz gebärdet, wenn ihr <seg type="insult">ein teures Haupt</seg> fehlt. Immerhin<lb/>
+ist die ‚<rs type="paper" ana="werk_15215">Neue Freie Presse</rs>‘ nicht so ungeschickt wie das ‚<rs type="paper" ana="werk_15216">Neue Wiener<lb/>
+Tagblatt</rs>‘, das am Tage nach <rs type="pers" ana="n_38703" ref="#fk__p_55511">Hartels</rs> Tod dessen <rs type="pers" ana="n_38704" ref="#fk__p_43482">Grillparzer-Essay</rs> abdruckt<lb/>
+ und <seg type="insult">einer pietätlosen Welt</seg> zu bedenken gibt, daß ein Minister<lb/>
+für Kultus und Unterricht <seg type="insult">den folgenden Satz</seg> niedergeschrieben hat:<lb/>
+»Um die Rache vorzubereiten, die alle, <rs type="pers">Kreon</rs>, seine Tochter, die Kinder<lb/>
+und <rs type="pers">Jason</rs> treffen soll, weiß <rs type="pers">Medea</rs> den König zu betören, daß sie,<lb/>
+nachdem über sie und ihre Kinder die Verbannung von Korinth durch<lb/>
+die Amphiktyonen verhängt ist, er noch einen Tag bleiben dürfe, dann<lb/>
+<rs type="pers">Jason</rs>, den sie, wie mit ihrem Schicksale versöhnt, bittet, die Kinder<lb/>
+bei sich zu behalten, und schafft sich die Möglichkeit, diese mit den<lb/>
+<choice><sic>totbringenden</sic><corr>todbringenden</corr></choice> Geschenken in den Palast zu senden«.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_55511">
+               <persName>Hartel, Wilhelm Ritter von</persName>
+               <birth>
+                  <date>1839-05-28</date>
+                  <place>Hof/Mähren</place>
+               </birth>
+               <death>
+                  <date>1907-01-14</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Altphilologe</occupation>
+               <occupation>Politiker</occupation>
+               <note type="comment">Friedhof Penzing (=Kontrahentenfriedhof) Tel. 985 64 07</note>
+               <note type="comment">Unterrichtsminister 1900-05</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15937</idno></person>
+            <person xml:id="fk__p_60691">
+               <persName>Philolog</persName>
+               <note type="comment"/>
+            </person>
+            <person xml:id="fk__p_43482">
+               <persName>Grillparzer, Franz</persName>
+               <birth>
+                  <date>1791-1-15</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1872-1-21</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Beamter</occupation>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Ögg teilt 912/23 Traum ein Leben Calderon zu</note>
+               <note type="comment">Ögg teilt irrt. 229/2, 305/50 zu</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11518</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01479.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01478.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01480.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Zuschrift des »Idioten unbekannter Herkunft«.), in: Fackel Heft 02, Nr. 062, 1900, S. 31-32</title>
+            <title type="iso-date">1900-12-01</title>
+            <title type="id">tid_01479</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">062</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-062_n0031.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/062,031</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Zuschrift des »Idioten unbekannter Herkunft«.)</head>
+            <p ana="pr14370">
+<space/>»Es wird Sie gewiss interessieren, dass mich <seg type="insult">Herr <rs type="pers" ana="n_11925" ref="#fk__p_50373">Benedikt</rs></seg><lb/>
+aufgefordert hat, für die Sonntagsausgabe seines <rs type="paperRef" ana="werk_4587">Blattes</rs> <seg type="insult">eine humoristische<lb/>
+ Plauderei</seg> zu schreiben, dass ich aber mit Rücksicht auf die<lb/>
+Umgebung, in der ich dort placiert würde, abgelehnt habe.<lb/>
+</p>
+            <p ana="pr14371">
+Hochachtungsvoll<lb/>
+</p>
+            <p ana="pr14372">
+<rs type="pers" ana="n_11926" ref="#fk__p_55881"><AUCTOR>Zip</AUCTOR></rs>,<lb/>
+</p>
+            <p ana="pr14373">
+<seg type="insult">Idiot unbekannter Herkunft</seg>, <rs type="inst">Rotunde</rs>, bei <rs type="inst"><rs type="pers" ana="n2_960" ref="#fk__p_57539">Barnum</rs> &amp; <rs type="pers" ana="n2_961" ref="#fk__p_57530">Bailey</rs></rs>.«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_57530">
+               <persName>Bailey (Barnum &amp; Bailey, Zirkus)</persName>
+            </person>
+            <person xml:id="fk__p_50373">
+               <persName>Benedikt, Moriz</persName>
+               <birth>
+                  <date>1849-5-27</date>
+                  <place>Kwatschitz/Mähren</place>
+               </birth>
+               <death>
+                  <date>1920-3-18</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <note type="comment">Geburtsort Kwatschitz bei Ungarisch Hradisch/Mähren, nicht Kwassitz bei Kremsier</note>
+               <note type="comment">1. Tor, 20/1/1a</note>
+               <note type="comment">Hrsg. der NFP (seit 1908 alleiniger Leiter)</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10875</idno></person>
+            <person xml:id="fk__p_55881">
+               <persName>Zip, d. i. William Henry Johnson</persName>
+               <birth>
+                  <date>1842/43</date>
+                  <place>Liberty Corner/N. J.</place>
+               </birth>
+               <death>
+                  <date>1926-4-9</date>
+                  <place>New York</place>
+               </death>
+               <occupation>Artist</occupation>
+               <note type="comment">"Idiot unbekannter Herkunft, Rotunde, bei Barnum &amp; Bailey"</note>
+               <note type="comment">"Freak"</note>
+            </person>
+            <person xml:id="fk__p_57539">
+               <persName>Barnum (Barnum &amp; Bailey, Zirkus)</persName>
+            </person>
+            </listPerson></back></text>
+</TEI>

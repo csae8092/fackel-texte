@@ -1,0 +1,103 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00558_a.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00558.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00559.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Szepanowski, Ofenheim und die ‚Neue Freie Presse‘.), in: Fackel Heft 01, Nr. 023, 1899, S. 4-5</title>
+            <title type="iso-date">1899-11-01</title>
+            <title type="id">tid_00558_a</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">023</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-023_n0004.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/023,004</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Szepanowski, Ofenheim und die ‚Neue Freie Presse‘.)</head>
+            <p ana="pr5196">
+<seg type="insult"><seg type="spc">Die</seg> ‚<seg ana="Neue Freie Presse"/>‘ <seg type="spc">über<lb/>
+den Process <rs type="pers" ana="n_3906" ref="#fk__p_53864">Szepanowski</rs></seg></seg>:<lb/>
+</p>
+            <p ana="pr5198">
+<space/>»<QUOTE part="initial" rn="1" sourceID="FK-01-023_n0004_a">Bei uns, in den westlichen<lb/>
+Kronländern und wohl auch in<lb/>
+dem übrigen Mitteleuropa pflegt<lb/>
+die Volksstimme nichts strenger<lb/>
+zu beurtheilen, als Malversationen<lb/>
+in den großen Finanzinstituten, die<lb/>
+fremdes Vermögen zu verwalten<lb/>
+haben <seg type="symbol" subtype="5dotsEditor"/> Wenn etwas noch bedenklicher<lb/>
+ ist, als die <seg type="insult">unglaubliche</seg></QUOTE><lb/>
+</p>
+            <p ana="pr5200">
+<seg type="insult"><seg type="spc">Die</seg> ‚<rs type="paper" ana="werk_1340"><seg type="spc">Neue Freie Presse</seg></rs>‘ <seg type="spc">über<lb/>
+den Process <rs type="pers" ana="n_3907" ref="#fk__p_60226">Ofenheim</rs></seg></seg>:<lb/>
+</p>
+            <p ana="pr5202">
+<space/>»<QUOTE part="initial" rn="2" sourceID="FK-01-023_n0004_a">Die Geschworenen haben<lb/>
+durch ihren Spruch Oesterreich<lb/>
+davor bewahrt, dass es zurückgeschleudert<lb/>
+ werde aus den im<lb/>
+großen Stil mit Muth, Energie und<lb/>
+geistiger Kraft geführten schöpferischen<lb/>
+ Unternehmungen in die<lb/>
+<seg type="insult">Epoche muthloser, stumpfer Resignation<lb/>
+</seg>, sie haben dem Gewissen</QUOTE><lb/>
+</p>
+            <p ana="pr5198">
+<QUOTE part="final" rn="1" sourceID="FK-01-023_n0004_a"><seg type="insult">Misswirtschaft</seg> in der <rs type="inst">Galizischen<lb/>
+Sparcasse</rs>, die durch das gerichtliche<lb/>
+ Verfahren aufgedeckt wurde,<lb/>
+so ist es <seg type="insult">diese Verdorbenheit der<lb/>
+öffentlichen Meinung</seg>, welche daran<lb/>
+nichts Strafbares findet <seg type="symbol" subtype="6dotsEditor"/> ein<lb/>
+erschreckendes Symptom für den<lb/>
+öffentlichen Rechtszustand in Galizien<lb/>
+.</QUOTE>«<lb/>
+</p>
+            <p ana="pr5202">
+<QUOTE part="final" rn="2" sourceID="FK-01-023_n0004_a">, der Wahrheit, der Rechtssicherheit<lb/>
+ eine breite Gasse eröffnet<lb/>
+, und dadurch für die Ethik,<lb/>
+für die Gerechtigkeit und den<lb/>
+Rechtsstaat das Höchste geleistet.</QUOTE>«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_53864">
+               <persName>Szczepanowski, Stanislaw</persName>
+               <birth>
+                  <date>1846-12-12</date>
+                  <place>Koscianie/Polen</place>
+               </birth>
+               <death>
+                  <date>1900-10-31</date>
+                  <place>Bad Nauheim</place>
+               </death>
+               <occupation>Publizist</occupation>
+               <occupation>Politiker</occupation>
+               <occupation>Unternehmer</occupation>
+               <note type="comment">Das Elend Galiziens in Zahlen, und ein Programm der energischen Entwicklung der Wirtschaft des Landes, 1888</note>
+               <note type="comment">Reichsratsabgeordneter 1886-97</note>
+               <note type="comment">Grubenbesitzer in Lemberg</note>
+            </person>
+            <person xml:id="fk__p_60226">
+               <persName>Ofenheim-Ponteuxin, Victor Ritter von</persName>
+               <birth>
+                  <date>1820-11-18</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1886-10-11</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Eisenbahnfachmann</occupation>
+               <occupation>Finanzmann</occupation>
+               <note type="comment"/>
+            </person>
+            </listPerson></back></text>
+</TEI>

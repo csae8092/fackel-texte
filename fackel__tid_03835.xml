@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03835.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03834.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03836.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Kluger August. (Dem klugen August), in: Fackel Heft 06, Nr. 176, 1905, S. 24-24</title>
+            <title type="iso-date">1905-02-28</title>
+            <title type="id">tid_03835</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">06</title><title type="heft">176</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-06-176_n0024.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/176,024</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Kluger August. (Dem klugen August)</head>
+            <p ana="pr38474">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="n_32860" ref="#fk__p_48059">Kluger August</rs>.</seg></seg></seg> Der Justizrat <rs type="pers" ana="n_32861" ref="#fk__p_56367">Körner</rs> ist also doch nicht in<lb/>
+Ungnade gefallen? Das habe ich mir gleich gedacht. Und die einzige<lb/>
+Nachricht, die den <seg type="insult">Lärm beleidigter Sittlichkeit</seg> übertönt, die einzige,<lb/>
+die ich in dem <seg type="insult">Gedränge von Lügen</seg> für wahr halte, ist die, daß <seg type="insult">der<lb/>
+gekränkte Gatte</seg> sich entschlossen habe, die Apanage einzustellen. <RS persTitle="Heine" title="Die beiden Grenadiere">Was<lb/>
+schert ihn <RS pers="Luise von Sachsen" globID="name_202285">Weib</RS>, was schert ihn Kind, er trägt <seg type="spc">weit besseres Verlangen<lb/>
+</seg>; laß sie betteln gehn, wenn sie hungrig sind</RS> <seg type="symbol" subtype="3dots"/> Aber warum<lb/>
+hat er das nicht gleich gesagt?<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_56367">
+               <persName>Körner, August? </persName>
+               <occupation>Rechtsanwalt</occupation>
+               <note type="comment">Luise von Sachsen-Affaire, wird Februar 1905 nach Florenz geschickt, um der Mutter die Tochter wegzunehmen</note>
+               <note type="comment">war schon im Scheidungsprozeß Anwalt des Gatten König Friedrich August III. (11.02.1903)</note>
+               <note type="comment">Justizrat</note>
+            </person>
+            <person xml:id="fk__p_48059">
+               <persName>Friedrich August III., König von Sachsen</persName>
+               <birth>
+                  <date>1865-5-25</date>
+                  <place>Dresden</place>
+               </birth>
+               <death>
+                  <date>1932-2-18</date>
+                  <place>Sibyllenort</place>
+               </death>
+               <occupation>König</occupation>
+               <note type="comment">letzter König von Sachsen (1904-1918)</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

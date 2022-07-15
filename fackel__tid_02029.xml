@@ -1,0 +1,48 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02029.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02028.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02030.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Techniker. (Von der Technik), in: Fackel Heft 03, Nr. 085, 1901, S. 28-28</title>
+            <title type="iso-date">1901-11-16</title>
+            <title type="id">tid_02029</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">03</title><title type="heft">085</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-03-085_n0028.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/085,028</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Techniker. (Von der Technik)</head>
+            <p ana="pr19761">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_16888" ref="#fk__p_53987">Techniker</rs>.</seg></seg> <seg type="insult">Herr Hofrath <rs type="pers" ana="n_16889" ref="#fk__p_46340"><seg type="spc">Perger</seg></rs>, zur Zeit Decan</seg>, zu einem nach<lb/>
+Croatien zuständigen Studenten: »<choice><sic>lch</sic><corr>Ich</corr></choice> merke Sie vor, kann Ihnen aber<lb/>
+die Aufnahme nicht zusichern, da zunächst die Oesterreicher, dann die<lb/>
+Ungarn den Vorzug haben, <seg type="spc">Sie aber weder nach <seg type="ELIDASH">Cisleithanien</seg> noch nach<lb/>
+Transleithanien</seg> gehören!« Sie fragen nun, ob denn das Heimatsland<lb/>
+ jenes Hörers ein Farbstoff sei, dass <seg type="insult">Herr <rs type="pers" ana="n_16890" ref="#fk__p_46340"><abbr>v.</abbr> Perger</rs></seg> es nicht<lb/>
+finden konnte.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_53987">
+               <persName>Techniker</persName>
+            </person>
+            <person xml:id="fk__p_46340">
+               <persName>Perger, Hugo Ritter von</persName>
+               <birth>
+                  <date>1844-02-12</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1901-12-28</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Techniker</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

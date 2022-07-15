@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03500.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03499.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03501.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Vater. (Königtum Sonndorfer), in: Fackel Heft 05, Nr. 155, 1904, S. 21-21</title>
+            <title type="iso-date">1904-02-24</title>
+            <title type="id">tid_03500</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">05</title><title type="heft">155</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-05-155_n0021.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/155,021</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Vater. (Königtum Sonndorfer)</head>
+            <p ana="pr34746">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_29813" ref="#fk__p_54819">Vater</rs>.</seg></seg> Ich kann doch nicht von jedem Todesfall an der<lb/>
+<rs type="inst">Wiener Handelsakademie</rs> Notiz nehmen? Was hier vor langer Zeit über<lb/>
+das <seg type="insult">Königtum <rs type="pers" ana="n_29814" ref="#fk__p_41773">Sonndorfer</rs></seg> geschrieben wurde, gilt leider auch heute<lb/>
+noch. <seg type="insult">Der Herr Regierungsrat</seg> wirkt in <seg type="insult">unverminderter Rüstigkeit</seg>, und<lb/>
+<seg type="insult">sein <rs type="pers" ana="n_29815" ref="#fk__p_50490">Dolinski</rs>, der vormalige Offizier</seg>, hat noch immer die gewissen<lb/>
+Rückfälle, denen seine Schüler <seg type="insult">eine mehr rekrutenmäßige als pädagogisch<lb/>
+sachgemäße Behandlung</seg> verdanken.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_41773">
+               <persName>Sonndorfer, Rudolf</persName>
+               <birth>
+                  <date>1839-4-14</date>
+                  <place>Böhmischkrut</place>
+               </birth>
+               <death>
+                  <date>1910-12-04</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Lehrer an d. Wiener Handelsakademie</occupation>
+            </person>
+            <person xml:id="fk__p_54819">
+               <persName>Vater</persName>
+            </person>
+            <person xml:id="fk__p_50490">
+               <persName>Dolinski, Myron</persName>
+               <birth>
+                  <date>1856-6-19</date>
+               </birth>
+               <death>
+                  <date>1921-1-14</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Lehrer</occupation>
+               <note type="comment">4., Schleifmühlgasse 19</note>
+               <note type="comment">Prof. an der Wiener Handelsakademie</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

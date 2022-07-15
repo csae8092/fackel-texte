@@ -1,0 +1,93 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03383.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03382.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03384.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Philosoph. (Ein Nekrolog für Herbert Spencer), in: Fackel Heft 05, Nr. 149, 1903, S. 27-27</title>
+            <title type="iso-date">1903-12-12</title>
+            <title type="id">tid_03383</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">05</title><title type="heft">149</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-05-149_n0027.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/149,027</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Philosoph. (Ein Nekrolog für Herbert Spencer)</head>
+            <p ana="pr33427">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="n_28895" ref="#fk__p_43309">Philosoph</rs>.</seg></seg></seg> <rs type="pers" ana="n_28896" ref="#fk__p_53477">Herbert Spencer</rs> ist tot; aber als er noch lebte,<lb/>
+schrieb <seg type="insult">Herr <rs type="pers" ana="n_28897" ref="#fk__p_49333">Ludwig Stein</rs></seg> einen Artikel über ihn, der, da er in der<lb/>
+‚<rs type="paper" ana="werk_12495">Neuen Freien Presse</rs>‘ erscheinen sollte, flugs zum Nekrolog umgekrempelt<lb/>
+werden mußte. Leider geschah dies allzu hastig. Der Schluß des Artikels<lb/>
+»<rs type="title">Der Philosoph des Liberalismus</rs>« (<date>9. Dezember</date>) lautet jetzt: »Einen<lb/>
+Weltherrscher im Universalreich der Geisteswissenschaften, <rs type="pers" ana="n_28898" ref="#fk__p_54040">Theodor<lb/>
+Mommsen</rs>, haben wir vor einigen Wochen bereits von unserem spärlichen<lb/>
+ Bestand an königlichen Geistern hergeben müssen. <rs type="pers" ana="n_28899" ref="#fk__p_42339">Eduard Zeller</rs><lb/>
+nähert sich den Neunzigern. Und so <seg type="spc">haben</seg> wir Söhne des <DATERANGE>zwanzigsten<lb/>
+Jahrhunderts</DATERANGE> einen solchen <foreign xml:lang="en">‚Representative man‘</foreign> wie <rs type="pers" ana="n_28900" ref="#fk__p_53477">Herbert Spencer</rs><lb/>
+in dieses Jahrhundert hineinragen <seg type="spc">gesehen</seg>. <seg type="spc">Und so richtet</seg> denn<lb/>
+die gesamte gebildete Welt einen <seg type="spc">ängstlichen Blick auf das<lb/>
+Krankenbett</seg> in Brighton, wo <rs type="pers" ana="n_28901" ref="#fk__p_53477">Spencer</rs>, der ‚Philosoph des Lebens‘<lb/>
+<foreign xml:lang="fr">par excellence</foreign>, sein Leben <seg type="spc">beendigt hat</seg>.«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_53477">
+               <persName>Spencer, Herbert</persName>
+               <birth>
+                  <date>1820-4-27</date>
+                  <place>Derby</place>
+               </birth>
+               <death>
+                  <date>1903-12-8</date>
+                  <place>Brighton</place>
+               </death>
+               <occupation>Philosoph</occupation>
+               <occupation>Soziologe</occupation>
+            </person>
+            <person xml:id="fk__p_54040">
+               <persName>Mommsen, Theodor</persName>
+               <birth>
+                  <date>1817-11-30</date>
+                  <place>Garding/Schleswig</place>
+               </birth>
+               <death>
+                  <date>1903-11-01</date>
+                  <place>Berlin-Charlottenburg</place>
+               </death>
+               <occupation>Historiker</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12283</idno></person>
+            <person xml:id="fk__p_43309">
+               <persName>Philosoph</persName>
+            </person>
+            <person xml:id="fk__p_49333">
+               <persName>Stein, Ludwig</persName>
+               <birth>
+                  <date>1859-11-12</date>
+                  <place>Erdö-Bénye/Tokay</place>
+               </birth>
+               <death>
+                  <date>1930-07-13</date>
+                  <place>Salzburg</place>
+               </death>
+               <occupation>Philosoph</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12829</idno></person>
+            <person xml:id="fk__p_42339">
+               <persName>Zeller, Eduard</persName>
+               <birth>
+                  <date>1814-01-22</date>
+                  <place>Kleinbottwar/Württ.</place>
+               </birth>
+               <death>
+                  <date>1908-03-19</date>
+                  <place>Stuttgart</place>
+               </death>
+               <occupation>Philosoph</occupation>
+               <occupation>Theologe</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

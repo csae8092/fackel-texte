@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_04489.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04488.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04490.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Optimist. (Der Fall Ritter), in: Fackel Heft 09, Nr. 227, 1907, S. 40-40</title>
+            <title type="iso-date">1907-06-10</title>
+            <title type="id">tid_04489</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">09</title><title type="heft">227</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-09-227_n0040.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/227,040</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Optimist. (Der Fall Ritter)</head>
+            <p ana="pr49424">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="name_203705" key="#fk__p_60741">Optimist</rs>.</seg></seg></seg> Aus Salzburg wird dem ‚<rs type="paper" ana="werk_15547">Deutschen Volksblatt</rs>‘ geschrieben<lb/>
+: »Als intimer Freund des erkrankten Künstlers ersuche ich<lb/>
+folgende Berichtigung, die direkt aus dem Kreise <rs type="pers" ana="n_39730" ref="#fk__p_52267">Ritters</rs> stammt, in Ihr<lb/>
+geschätztes <rs type="paperRef" ana="werk_15548">Blatt</rs> aufzunehmen: ‚<rs type="pers" ana="n_39731" ref="#fk__p_52267">Ritter</rs> ist <seg type="spc">nicht irrsinnig</seg> geworden;<lb/>
+er weiß es selbst, daß er in einer Nervenanstalt bei Salzburg weilt.<lb/>
+Er hat auch keinen Geistlichen bei der Gurgel gepackt, auch wurde er<lb/>
+nicht mit Gewalt in den Wagen gebracht. Die Demission <rs type="pers" ana="n_39732" ref="#fk__p_45200">Mahlers</rs> hat<lb/>
+ihn so aufgebracht, weil er sich von ihm zurückgesetzt glaubte. <seg type="spc"><rs type="pers" ana="n_39733" ref="#fk__p_52267">Ritter</rs><lb/>
+wollte auf gütlichem Wege die Verbesserung der Menschen<lb/>
+und ihres Vaterlandes erreichen</seg>, <seg type="spc">deshalb wollte er sich<lb/>
+den Segen Gottes erbitten</seg>. Sein ganzes Auftreten zeigte, daß er<lb/>
+verwirrt, aber <seg type="spc">viele lichte Augenblicke</seg> hatte. Die Ärzte hoffen<lb/>
+auf Besserung.‘«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_52267">
+               <persName>Ritter, William</persName>
+               <birth>
+                  <date>1867-5-31</date>
+                  <place>Neuchâtel</place>
+               </birth>
+               <death>
+                  <date>1955-3-19</date>
+                  <place>Melide</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Musikkritiker</occupation>
+               <note type="comment">in einer Nervenheilanstalt bei Salzburg; dementiert, etwas mit der Demission Mahlers zu tun zu haben</note>
+               <note type="comment">Musiker? Juni 1907</note>
+               <note type="comment">ein Schweizer Dilettant und früher Bewunderer Mahlers</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/61258</idno></person>
+            <person xml:id="fk__p_45200">
+               <persName>Mahler, Gustav</persName>
+               <birth>
+                  <date>1860-7-7</date>
+                  <place>Kalischt, Böhmen</place>
+               </birth>
+               <death>
+                  <date>1911-5-18</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Komponist</occupation>
+               <occupation>Dirigent</occupation>
+               <occupation>Theaterleiter</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12163</idno></person>
+            </listPerson></back></text>
+</TEI>

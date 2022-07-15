@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03197.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03196.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03198.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ein Raubmord?, in: Fackel Heft 05, Nr. 141, 1903, S. 1-2</title>
+            <title type="iso-date">1903-06-20</title>
+            <title type="id">tid_03197</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">05</title><title type="heft">141</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-05-141_n0001.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/141,001</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ein Raubmord?</head>
+            <p ana="pr31443">
+<space/>»<seg type="spc">Belgrad</seg>, <date>16. Juni</date>. Wie aus bester Quelle<lb/>
+verlautet, haben in der Nacht vom <date>10. Juni</date> die<lb/>
+Soldaten, die in den Konak gedrungen waren, nicht<lb/>
+verabsäumt, kleine Andenken und Erinnerungen an<lb/>
+die historische Blutthat mitzunehmen, und sollen<lb/>
+darunter recht werthvolle Gegenstände gewesen sein;<lb/>
+auch das Geschmeide der <rs type="pers" ana="n_27203" ref="#fk__p_42081">Königin Draga</rs> soll nicht<lb/>
+vollständig erhalten geblieben sein <seg type="symbol" subtype="3dots"/> Bei Aufnahme<lb/>
+des Inventars, die soeben stattfindet, zeigt es sich,<lb/>
+daß der Schmuck des Königs, darunter ein kostbares<lb/>
+ Geschenk des Sultans, gestohlen wurde.«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_42081">
+               <persName>Draga Maschin, geb. Lunjevic, Königin von Serbien</persName>
+               <birth>
+                  <date>1867-09-23</date>
+                  <place>Gornji Milanovac</place>
+               </birth>
+               <death>
+                  <date>1903-06-11</date>
+                  <place>Belgrad</place>
+               </death>
+               <occupation>Königin</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07725.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07724.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07726.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Erinnerungen, in: Fackel Heft 18, Nr. 445, 1234, S. 165-165</title>
+            <title type="iso-date">1234-01-01</title>
+            <title type="id">tid_07725</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">18</title><title type="heft">445</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-18-445_n0165.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/445,165</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Erinnerungen</head>
+            <p ana="pr103515">
+<space/><seg type="insult">Der <rs type="pers" ana="n_66738" ref="#fk__p_52576">Rudolf Holzer</rs></seg>, der sich als Zeuge im <rs type="pers" ana="n_66739" ref="#fk__p_45908">Bahr-Prozeß</rs> <date>1901</date><lb/>
+durch schlechtes Gedächtnis einen Namen gemacht hat — meines ist<lb/>
+gut —, verwendet es jetzt dazu, um sich an die Ischler Kindheit<lb/>
+des <rs type="pers" ana="n_66740" ref="#fk__p_43514">Kaisers Franz Josef</rs> zu erinnern. Er schließt:<lb/>
+</p>
+            <p ana="pr103517">
+<space/><seg type="symbol" subtype="3dots"/> Wenn <rs type="pers" ana="n_66741" ref="#fk__p_43514">Franz Josef</rs>, zumeist ohne jede Begleitung, durch dieses<lb/>
+grüne, schöne Alpenland fuhr, hoben Greise ihre Enkel empor, um ihnen<lb/>
+die eigene Jugend zu zeigen und um <seg type="spc">sich</seg> das Bild des Kaisers für<lb/>
+die Zukunft einzuprägen.<lb/>
+</p>
+            <p ana="pr103519">
+<space/>Gemeint ist natürlich, daß die Greise nicht sich, sondern<lb/>
+den Enkeln das Bild einprägen wollten. Und das wird gelingen.<lb/>
+Wenn man <seg type="insult">einen dieser ausnahmsweise emporgehobenen, nicht auf<lb/>
+dem Schoß der Großväter belassenen Enkel</seg> dereinst bei einer<lb/>
+Schwurgerichtsverhandlung fragen sollte, ob er sich an den Kaiser<lb/>
+erinnern könne, wird er gewiß nicht sagen: Ich kann mich nicht<lb/>
+erinnern.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_52576">
+               <persName>Holzer, Rudolf</persName>
+               <birth>
+                  <date>1875-7-28</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1965-7-17</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Journalist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11771</idno></person>
+            <person xml:id="fk__p_43514">
+               <persName>Franz Joseph I., Kaiser</persName>
+               <birth>
+                  <date>1830-8-18</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1916-11-21</date>
+                  <place>Wien</place>
+               </death>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15150</idno></person>
+            <person xml:id="fk__p_45908">
+               <persName>Bahr, Hermann</persName>
+               <birth>
+                  <date>1863-7-19</date>
+                  <place>Linz</place>
+               </birth>
+               <death>
+                  <date>1934-1-15</date>
+                  <place>München</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Kritiker</occupation>
+               <note type="comment">Ögg teilt auch 307/52, 445/49, 800/67 (Rotte Korah) Bahr zu</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10815</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,103 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_10987.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10986.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10988.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ebenda, 25. Februar, 10 Uhr:, in: Fackel Heft 30, Nr. 781, 1928, S. 58-58</title>
+            <title type="iso-date">1928-06-01</title>
+            <title type="id">tid_10987</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">30</title><title type="heft">781</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-30-781_n0058.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/781,058</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ebenda, 25. Februar, 10 Uhr:</head>
+            <p ana="pr155386">
+<space/>Ebenda, <date>25. Februar</date>, 10 Uhr:<lb/>
+</p>
+            <p ana="pr155387">
+<space/>Zum 8. Mal<lb/>
+</p>
+            <p ana="pr155388">
+<space/><rs type="pers" ana="n_92808" ref="#fk__p_46919"><seg type="spc">Nestroy</seg></rs>: <rs type="title"><seg type="spc">Der böse Geist <rs type="pers">Lumpazivagabundus</rs></seg></rs>.<lb/>
+Musik von <rs type="pers" ana="n_92809" ref="#fk__p_37834">Adolph Müller <abbr>sen.</abbr></rs><lb/>
+</p>
+            <p ana="pr155389">
+<space/>Mit dem Entree des <rs type="pers">Leim</rs> (Text von <rs type="pers" ana="n_92810" ref="#fk__p_46919">Nestroy</rs>, Musik von<lb/>
+<rs type="pers" ana="n_92811" ref="#fk__p_43594">Suppé</rs>, <date>1856</date>). Es wurde nicht, wie einem Druckversehen zufolge auf dem<lb/>
+Programm mitgeteilt war, an diesem Abend (sondern am <date>1. März 1926</date>)<lb/>
+»zum ersten Mal« vorgetragen.<lb/>
+</p>
+            <p ana="pr155390">
+<space/>Als letzte Strophe des <rs type="pers">Knieriem-Couplets</rs> die <rs type="pers" ana="n_92812" ref="#fk__p_46939">Schober-Strophe<lb/>
+</rs> (<abbr>S.</abbr> 121). Nach Schluß Ansprache (<rs type="selfRef" ana="werk_28250"><abbr>Nr.</abbr> 778—780</rs>, <abbr>S.</abbr> 7, 8).<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_37834">
+               <persName>Müller, Adolf sen.</persName>
+               <birth>
+                  <date>1807-10-7</date>
+                  <place>Tolna/Ungarn</place>
+               </birth>
+               <death>
+                  <date>1886-7-29</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <occupation>Kapellmeister</occupation>
+               <occupation>Komponist</occupation>
+               <note type="comment">Ögg erteilt ihm die Lebensdaten von Adolph Müller jun.</note>
+            </person>
+            <person xml:id="fk__p_46919">
+               <persName>Nestroy, Johann Nepomuk</persName>
+               <birth>
+                  <date>1801-12-7</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1862-5-25</date>
+                  <place>Graz</place>
+               </death>
+               <occupation>Sänger</occupation>
+               <occupation>Schauspieler</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12338</idno></person>
+            <person xml:id="fk__p_46939">
+               <persName>Schober, Johannes</persName>
+               <birth>
+                  <date>1874-11-14</date>
+                  <place>Perg, Oberösterreich</place>
+               </birth>
+               <death>
+                  <date>1932-8-19</date>
+                  <place>Baden bei Wien</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <note type="comment">Pfarramt Perg: Taufregister: Johannes, Grabstein: Johannes Schober, nicht Johann</note>
+               <note type="comment">Vornamensschreibweise ebenso Czeike, ÖBL</note>
+               <note type="comment">Lebenslauf: NFP 26.9.1929, Seite 4</note>
+               <note type="comment">seit 21.06.1921 Bundeskanzler bis 26.01.1922, von 27.01.1922 bis 24.05.1922, von 26.09.1929 bis 25.09.1930</note>
+               <note type="comment">Polizeipräsident; 1921/22, 1929/30 Bundeskanzler und Außenminister</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/24444</idno></person>
+            <person xml:id="fk__p_43594">
+               <persName>Suppé, Franz von</persName>
+               <birth>
+                  <date>1819-4-18</date>
+                  <place>Spalato, Dalmatien</place>
+               </birth>
+               <death>
+                  <date>1895-5-21</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Komponist</occupation>
+               <note type="comment">Neffe von Donizetti</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/25744</idno></person>
+            </listPerson></back></text>
+</TEI>

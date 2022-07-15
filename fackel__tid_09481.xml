@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_09481.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09480.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09482.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Stadtratssitzungssaal, 1. Mai, 6 Uhr (Veranstaltung der Kunststelle, in: Fackel Heft 25, Nr. 622, 1923, S. 113-113</title>
+            <title type="iso-date">1923-06-01</title>
+            <title type="id">tid_09481</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">25</title><title type="heft">622</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-25-622_n0113.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/622,113</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Stadtratssitzungssaal, 1. Mai, 6 Uhr (Veranstaltung der Kunststelle</head>
+            <p ana="pr126747">
+<space/><rs type="inst">Stadtratssitzungssaal</rs>, <date>1. Mai</date>, 6 Uhr (Veranstaltung der <rs type="inst">Kunststelle<lb/>
+</rs>):<lb/>
+</p>
+            <p ana="pr126748">
+<space/><rs type="title"><seg type="spc">Der böse Geist <rs type="pers">Lumpazivagabundus</rs> oder Das<lb/>
+liederliche Kleeblatt</seg></rs>, Zauberposse mit Gesang in drei Akten<lb/>
+von <rs type="pers" ana="n_78121" ref="#fk__p_46919"><seg type="spc">Johann Nestroy</seg></rs>. Musik von <rs type="pers" ana="n_78122" ref="#fk__p_37834">Adolph Müller <abbr>sen.</abbr></rs> (Mit den<lb/>
+Zusatzstrophen zum <rs type="title">Kometenlied</rs>.)<lb/>
+</p>
+            <p ana="pr126749">
+<space/>Programm-Notiz: Schlußbemerkung vom <date>5. November</date>.<lb/>
+</p>
+            <p ana="pr126750">
+<space/>Der volle Ertrag: K 1,500.000 für den <rs type="inst">Arbeiterverein<lb/>
+»Kinderfreunde«</rs> und die »<rs type="inst">Bereitschaft</rs>«.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_37834">
+               <persName>Müller, Adolf sen.</persName>
+               <birth>
+                  <date>1807-10-7</date>
+                  <place>Tolna/Ungarn</place>
+               </birth>
+               <death>
+                  <date>1886-7-29</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <occupation>Kapellmeister</occupation>
+               <occupation>Komponist</occupation>
+               <note type="comment">Ögg erteilt ihm die Lebensdaten von Adolph Müller jun.</note>
+            </person>
+            <person xml:id="fk__p_46919">
+               <persName>Nestroy, Johann Nepomuk</persName>
+               <birth>
+                  <date>1801-12-7</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1862-5-25</date>
+                  <place>Graz</place>
+               </death>
+               <occupation>Sänger</occupation>
+               <occupation>Schauspieler</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12338</idno></person>
+            </listPerson></back></text>
+</TEI>

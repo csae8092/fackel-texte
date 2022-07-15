@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_05581.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05580.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05582.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Es wird fortgelächelt -, in: Fackel Heft 13, Nr. 339, 1911, S. 12-13</title>
+            <title type="iso-date">1911-12-01</title>
+            <title type="id">tid_05581</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">13</title><title type="heft">339</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-13-339_n0012.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/339,012</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Es wird fortgelächelt -</head>
+            <p ana="pr73334">
+<space/>»Aus Paris wird uns geschrieben: Die Wandfläche des großen<lb/>
+Salons, welche früher durch das Bild der <rs type="title"><foreign xml:lang="it">Gioconda</foreign></rs> geschmückt wurde,<lb/>
+war seit vier Monaten leer. Es scheint, daß die erste Trauer über den<lb/>
+Verlust dieses Kunstwerkes vorüber ist. <RS pers="Leonardo da Vinci"><rs type="title" ana="name_202210" ref="#fk__p_48776"><rs type="pers">Mona Lisa</rs></rs></RS> hat einen Ersatz<lb/>
+gefunden. Seit einigen Tagen nimmt das schöne Porträt des <rs type="title"><rs type="pers" ana="n2_4658" ref="#fk__p_57533">Balthasar<lb/>
+Castiglione</rs></rs> von <rs type="pers" ana="n_52765" ref="#fk__p_51977">Rafael</rs>, welches früher in der Nachbarschaft der <rs type="title"><rs type="pers">Mona<lb/>
+Lisa</rs></rs> hing, diesen Platz ein und an Stelle des <rs type="title"><rs type="pers" ana="n2_4659" ref="#fk__p_57533">Castiglione</rs></rs> hat man den<lb/>
+<rs type="title"><rs type="pers">heiligen Johann</rs> den Täufer</rs> placiert. Dieser ähnelt der <rs type="title"><foreign xml:lang="it">Gioconda</foreign></rs> wie<lb/>
+ein Bruder, er hat fast dasselbe Lächeln.«<lb/>
+</p>
+            <p ana="pr73336">
+<space/>Und wieder einmal ruft <seg type="insult">eine glückstrahlende Behörde</seg> an der<lb/>
+Unglücksstätte: Alles gerettet! Denn in der Kunst kommt es nicht<lb/>
+auf den Stoff an, und wenn man von einem gestohlenen Pelz den<lb/>
+Pelz wieder hat, so kann man auf das Tuch verzichten.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_51977">
+               <persName>Raffael, d. i. Raffaello Santi</persName>
+               <birth>
+                  <date>1483-4-6?</date>
+                  <place>Urbino</place>
+               </birth>
+               <death>
+                  <date>1520-4-6</date>
+                  <place>Rom</place>
+               </death>
+               <occupation>Maler</occupation>
+            </person>
+            <person xml:id="fk__p_48776">
+               <persName>Leonardo da Vinci</persName>
+               <birth>
+                  <date>1452-4-15</date>
+                  <place>Vinci bei Empoli</place>
+               </birth>
+               <death>
+                  <date>1519-5-2</date>
+                  <place>Schloß Cloux bei Amboise</place>
+               </death>
+               <occupation>Maler</occupation>
+               <occupation>Bildhauer</occupation>
+               <occupation>Erfinder</occupation>
+               <occupation>Naturforscher</occupation>
+               <occupation>Techniker</occupation>
+            </person>
+            <person xml:id="fk__p_57533">
+               <persName>Castiglione, Balthasar </persName>
+               <birth>
+                  <date>1478-12-6</date>
+                  <place>Casatico bei Mantua</place>
+               </birth>
+               <death>
+                  <date>1529-2-2</date>
+                  <place>Toleti/Spanien</place>
+               </death>
+               <occupation>Diplomat</occupation>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">von Raffael porträtiert</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

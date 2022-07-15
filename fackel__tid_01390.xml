@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01390.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01389.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01391.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Vor und hinter den Coulissen.), in: Fackel Heft 02, Nr. 059, 1900, S. 5-6</title>
+            <title type="iso-date">1900-11-01</title>
+            <title type="id">tid_01390</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">059</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-059_n0005.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/059,005</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Vor und hinter den Coulissen.)</head>
+            <p ana="pr13271">
+<space/>»Der Präsident des <rs type="inst">Prager Oberlandesgerichtes</rs>,<lb/>
+<rs type="pers" ana="n_10985" ref="#fk__p_43508">Franz <seg type="spc">Jansa</seg></rs>, hat infolge des Druckes, der unaufhörlich<lb/>
+gegen ihn vom Justizminister <rs type="pers" ana="n_10986" ref="#fk__p_38842">Baron Spens</rs> geübt wird,<lb/>
+das Gesuch um seine Pensionierung eingereicht. Sein<lb/>
+Nachfolger soll ein entschieden deutscher Parteimann<lb/>
+werden, welcher dem deutschen Elemente in der Judicatur<lb/>
+ Böhmens jene Stellung verschaffen soll, nach<lb/>
+welcher die Parteien der Linken seit jeher streben. In<lb/>
+Prag wird die <seg type="insult">Persecution alles Tschechischen</seg> eintreten«.<lb/>
+— Jubel im deutschen, Wuthgeheul im tschechischen<lb/>
+Lager. <seg type="insult">Ehre der Nation, Unabhängigkeit des Richterstandes<lb/>
+ <abbr>etc. etc.</abbr></seg><lb/>
+</p>
+            <p ana="pr13275">
+<space/>Herr <rs type="pers" ana="n_10987" ref="#fk__p_43508">Franz Jansa</rs> wollte vor zwei Jahren durchaus<lb/>
+Präsident des <rs type="inst">Prager Oberlandesgerichtes</rs> werden. Herr<lb/>
+<rs type="pers" ana="n_10988" ref="#fk__p_52529">Ruber</rs>, der damalige Justizminister, erklärte sich nach<lb/>
+längerem Zögern bereit, die Ernennung mit dem Vorbehalt<lb/>
+</p>
+            <p ana="pr13275">
+ zu vollziehen, dass Herr <rs type="pers" ana="n_10989" ref="#fk__p_43508">Jansa</rs> sich nach zwei<lb/>
+Jahren pensionieren lasse. Herr <rs type="pers" ana="n_10990" ref="#fk__p_43508">Jansa</rs> ließ sich auf<lb/>
+zwei <choice><sic>Jahren</sic><corr>Jahre</corr></choice> engagieren und schrieb, ohne dass es<lb/>
+Jemand von ihm verlangt hätte, in der Freude ob der<lb/>
+sicheren Erfüllung seines Wunsches einen <seg type="spc">Brief</seg> an<lb/>
+Herrn <rs type="pers" ana="n_10991" ref="#fk__p_52529">Ruber</rs>, worin er in der coulantesten Weise seinen<lb/>
+Rücktritt bis zu dem ausgemachten Termin ankündigte.<lb/>
+Herr <rs type="pers" ana="n_10992" ref="#fk__p_52529">Ruber</rs> gieng, der Brief blieb. Herr <rs type="pers" ana="n_10993" ref="#fk__p_38842">Baron Spens</rs><lb/>
+langweilte sich neulich und studierte Akten. Er fand<lb/>
+jenes Schreiben, worin Herr <rs type="pers" ana="n_10994" ref="#fk__p_43508">Jansa</rs> der ihm gestellten<lb/>
+Galgenfrist zustimmte. Herr <rs type="pers" ana="n_10995" ref="#fk__p_38842">Baron Spens</rs> sah nach<lb/>
+dem Datum des Briefes und beschloss, Herrn <rs type="pers" ana="n_10996" ref="#fk__p_43508">Jansa</rs><lb/>
+vor den Gewissensqualen eines Contractbruches zu<lb/>
+bewahren.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_43508">
+               <persName>Jansa, Franz</persName>
+               <occupation>Richter</occupation>
+               <note type="comment">in Prag; OberLGPräsident</note>
+            </person>
+            <person xml:id="fk__p_52529">
+               <persName>Ruber, Ignaz Freiherr von</persName>
+               <birth>
+                  <date>1845-05-05</date>
+                  <place>Brünn</place>
+               </birth>
+               <death>
+                  <date>1933-11-07</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Jurist</occupation>
+               <occupation>Politiker</occupation>
+            </person>
+            <person xml:id="fk__p_38842">
+               <persName>Spens-Boden, Alois Freiherr von</persName>
+               <birth>
+                  <date>1835-07-07</date>
+                  <place>Teschen</place>
+               </birth>
+               <death>
+                  <date>1919-04-02</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Jurist</occupation>
+               <occupation>Politiker</occupation>
+               <note type="comment">Justizminister</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

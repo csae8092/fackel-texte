@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02920.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02919.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02921.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Südbahn-Actionär. (Südbahn-Genealogie), in: Fackel Heft 04, Nr. 129, 1903, S. 25-26</title>
+            <title type="iso-date">1903-02-11</title>
+            <title type="id">tid_02920</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">04</title><title type="heft">129</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-04-129_n0025.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/129,025</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Südbahn-Actionär. (Südbahn-Genealogie)</head>
+            <p ana="pr28847">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_24881" key="#fk__p_53785">Südbahn-Actionär</rs>.</seg></seg> Daß die alten Lieferanten der Südbahn bei<lb/>
+<seg type="insult">den vielfachen Nebengeschäften dieses Unternehmens</seg> (Hôtelbauten <abbr>u. dgl.</abbr><lb/>
+</p>
+            <p ana="pr28847">
+nicht mehr berücksichtigt werden, hat seinen Grund nicht etwa darin,<lb/>
+daß die Direction mit ihren Leistungen oder ihren Preisen unzufrieden<lb/>
+war. Jetzt zahlt <seg type="insult">das — Sie wissen doch — blühende Bahnunternehmen</seg><lb/>
+viel mehr als früher. Aber es kommt eben darauf an, <seg type="spc">wem</seg> gezahlt<lb/>
+wird. Herr <rs type="pers" ana="n_24882" ref="#fk__p_52373">Robert von <seg type="spc">Morpurgo</seg></rs>, Mitinhaber der Baukanzlei <rs type="inst"><rs type="pers" ana="n2_1926" key="#fk__p_59135">Wildhack</rs><lb/>
+&amp; <rs type="pers" ana="n2_1927" ref="#fk__p_52373">Morpurgo</rs></rs>, ist jetzt der alleinige Contrahent der Südbahn. Er baut<lb/>
+und richtet alles ein und beschäftigt auf Kosten der Südbahn ein Bureau<lb/>
+von 29 Beamten. Zufällig ist er auch <seg type="insult">ein Schwiegersohn des Herrn<lb/>
+<rs type="pers" ana="n_24883" ref="#fk__p_41280"><seg type="spc">Kaizl</seg></rs>, Directors der Südbahn</seg>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_52373">
+               <persName>Morpurgo, Robert Guido Elio von</persName>
+               <birth>
+                  <date>1872-12-9</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1941-2-15</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Architekt</occupation>
+               <note type="comment">Mitinhaber der Baukanzlei Wildhack &amp; Morpurgo</note>
+               <note type="comment">1., Kolowratring 3</note>
+               <note type="comment">evtl. Döbling 20.2.1941, Gruppe 36/1/29</note>
+            </person>
+            <person xml:id="fk__p_41280">
+               <persName>Kaizl, Josef</persName>
+               <birth>
+                  <date>1854-06-10</date>
+                  <place>Wolin</place>
+               </birth>
+               <death>
+                  <date>1901-08-19</date>
+                  <place>Myskowitz</place>
+               </death>
+               <occupation>Nationalökonom</occupation>
+               <occupation>Politiker</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

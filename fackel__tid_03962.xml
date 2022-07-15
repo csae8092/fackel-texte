@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03962.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03961.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03963.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Sammler. (Aus meiner Sammlung), in: Fackel Heft 07, Nr. 186, 1905, S. 26-27</title>
+            <title type="iso-date">1905-10-26</title>
+            <title type="id">tid_03962</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">07</title><title type="heft">186</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-07-186_n0026.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/186,026</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Sammler. (Aus meiner Sammlung)</head>
+            <p ana="pr40677">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="name_201462" ref="#fk__p_52736">Sammler</rs>.</seg></seg> »<rs type="pers" ana="n_33932" ref="#fk__p_48594">Lansdowne</rs> wird den Fleck, den er seinem französischen<lb/>
+Freunde und Komplizen <rs type="pers" ana="n_33933" ref="#fk__p_40349">Delcassé</rs> zu danken hat, so wenig mehr von<lb/>
+seinem Gewande abstreifen können wie <rs type="pers">Macbeth</rs>«. Glaubt <seg type="insult">der Leitartikler<lb/>
+der ‚<rs type="paper" ana="werk_14055">Neuen Freien Presse</rs>‘</seg> (<date>18. Oktober</date>). Die <seg type="insult">Fleckputzmittel-Inserenten</seg><lb/>
+werden schöne Augen gemacht haben! Vor allem jene, die <RS pers="William Shakespeare"><rs type="title" ana="name_202849" ref="#fk__p_55589"><rs type="pers">Macbeth</rs></rs></RS><lb/>
+kennen und wissen, daß dort nicht vom Gewand des Lord, sondern<lb/>
+von der Hand der Lady die Rede ist.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_48594">
+               <persName>Lansdowne, Henry Charles Keith Petty-Fitzmaurice, Marquis of</persName>
+               <birth>
+                  <date>1845-01-14</date>
+                  <place>London</place>
+               </birth>
+               <death>
+                  <date>1927-06-3</date>
+                  <place>Newton Anmer</place>
+               </death>
+               <occupation>Politiker</occupation>
+            </person>
+            <person xml:id="fk__p_40349">
+               <persName>Delcassé, Théophile</persName>
+               <birth>
+                  <date>1852-03-01</date>
+                  <place>Pamiers</place>
+               </birth>
+               <death>
+                  <date>1923-02-22</date>
+                  <place>Nizza</place>
+               </death>
+               <occupation>Politiker</occupation>
+            </person>
+            <person xml:id="fk__p_52736">
+               <persName>Sammler</persName>
+            </person>
+            <person xml:id="fk__p_55589">
+               <persName>Shakespeare, William</persName>
+               <birth>
+                  <date>1564-4-23?</date>
+                  <place>Stratford-upon-Avon</place>
+               </birth>
+               <death>
+                  <date>1616-4-23</date>
+                  <place>Stratford-upon-Avon</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2412</idno></person>
+            </listPerson></back></text>
+</TEI>

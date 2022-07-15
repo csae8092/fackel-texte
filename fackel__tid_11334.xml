@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_11334.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11333.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11335.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Hamburg, Curiohaus, 19. März, 8 Uhr, in: Fackel Heft 32, Nr. 834, 1930, S. 28-28</title>
+            <title type="iso-date">1930-05-01</title>
+            <title type="id">tid_11334</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">32</title><title type="heft">834</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-32-834_n0028.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/834,028</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Hamburg, Curiohaus, 19. März, 8 Uhr</head>
+            <p ana="pr165051">
+<space/><seg type="spc">Hamburg</seg>, <rs type="inst"><rs type="pers" ana="n2_8827" ref="#fk__p_58258">Curiohaus</rs></rs>, <date>19. März</date>, 8 Uhr (veranstaltet von der<lb/>
+<rs type="inst">Hamburger Bühne</rs>):<lb/>
+</p>
+            <p ana="pr165052">
+<space/><FERR href="FK-32-838_n0132.xml" fcorrID="fk_04_fcorr_30011079" id="fk_04_ferr_30011079" emID="fk_04_em_30011081"><RS pers="Nikolai Wassiljewitsch Gogol"><rs type="title" ana="name_201736" ref="#fk__p_50661"><seg type="spc">Der Revisor</seg></rs></RS></FERR><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_50661">
+               <persName>Gogol, Nikolai Wassiljewitsch</persName>
+               <birth>
+                  <date>1809-3-31</date>
+                  <place>Sorotschinzy/Poltawa</place>
+               </birth>
+               <death>
+                  <date>1852-3-4</date>
+                  <place>Moskau</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15510</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/17144</idno></person>
+            <person xml:id="fk__p_58258">
+               <persName>Curio, Johann Carl Daniel </persName>
+               <birth>
+                  <date>1754-11-5</date>
+                  <place>Helmstädt</place>
+               </birth>
+               <death>
+                  <date>1815-1-30</date>
+                  <place>Hamburg</place>
+               </death>
+               <occupation>Lehrer</occupation>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">gründete 1805 den ersten Lehrerverein der Welt in Hamburg</note>
+               <note type="comment">Hamburger Schriftsteller-Lexikon, Bd. 1, S. 615ff.</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,46 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_12039.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_12038.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_12040.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Wissen Sie schon, in: Fackel Heft 33, Nr. 868, 1932, S. 86-87</title>
+            <title type="iso-date">1932-03-01</title>
+            <title type="id">tid_12039</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">33</title><title type="heft">868</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-33-868_n0086.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/868,086</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Wissen Sie schon</head>
+            <p ana="pr174672">
+wie die Telegrammadresse des Herrn <rs type="pers" ana="n_104470" ref="#fk__p_47801">Grafen Keyserling</rs>, Inhabers<lb/>
+der »<rs type="inst">Schule der Weisheit</rs>«, lautet?<lb/>
+</p>
+            <p ana="pr174674">
+<space/><rs type="pers" ana="n_104471" ref="#fk__p_47801"><seg type="insult"><SPAN norm="Weisheit"><SPAN cont="Keyserling"><seg type="spc">Weisheitling</seg></SPAN></SPAN></seg></rs> Darmstadt<lb/>
+</p>
+            <p ana="pr174676">
+Tatsache!<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_47801">
+               <persName>Keyserling, Hermann Graf</persName>
+               <birth>
+                  <date>1880-7-20</date>
+                  <place>Könno, Livland</place>
+               </birth>
+               <death>
+                  <date>1946-4-26</date>
+                  <place>Innsbruck</place>
+               </death>
+               <occupation>Philosoph</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16831</idno></person>
+            </listPerson></back></text>
+</TEI>

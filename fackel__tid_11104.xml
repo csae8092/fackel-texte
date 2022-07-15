@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_11104.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11103.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11105.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Mittlerer Konzerthaussaal, 14. Juni, ½8 Uhr:, in: Fackel Heft 31, Nr. 811, 1929, S. 43-44</title>
+            <title type="iso-date">1929-08-01</title>
+            <title type="id">tid_11104</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">31</title><title type="heft">811</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-31-811_n0043.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/811,043</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Mittlerer Konzerthaussaal, 14. Juni, ½8 Uhr:</head>
+            <p ana="pr160325">
+<space/><rs type="inst">Mittlerer Konzerthaussaal</rs>, <date>14. Juni</date>, ½8 Uhr:<lb/>
+</p>
+            <p ana="pr160326">
+<space/>I. <rs type="title"><seg type="insult">Vom <rs type="pers" ana="n2_8579" ref="#fk__p_47658">Zörgiebel</rs></seg> oder: <seg type="insult">Der gute Geschmack</seg></rs>.<lb/>
+</p>
+            <p ana="pr160327">
+<space/>II. <rs type="title">Demokratisierung und Isolierung</rs>.<lb/>
+</p>
+            <p ana="pr160328">
+<space/>Auf dem Programm die <rs type="inst"><rs type="pers" ana="n2_8580" ref="#fk__p_47263">Krupnik-Annoncen</rs></rs> vom <date>11. November 1928</date>,<lb/>
+<date>1. Mai 1929</date>, die Gegenüberstellung <rs type="pers" ana="n_96183" ref="#fk__p_43221">Lassalle</rs> und <rs type="pers" ana="n_96184" ref="#fk__p_47263">Krupnik</rs> vom <date>31. März</date><lb/>
+und das Zusammentreffen von »Schmähung« und Annonce am <date>9. Juni</date>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_47658">
+               <persName>Zörgiebel, Karl Friedrich</persName>
+               <birth>
+                  <date>1878-09-30</date>
+                  <place>Mainz</place>
+               </birth>
+               <death>
+                  <date>1961-3-14</date>
+                  <place>Mainz</place>
+               </death>
+               <occupation>Politiker</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37810</idno></person>
+            <person xml:id="fk__p_43221">
+               <persName>Lassalle, Ferdinand</persName>
+               <birth>
+                  <date>1825-4-11</date>
+                  <place>Breslau</place>
+               </birth>
+               <death>
+                  <date>1864-8-31</date>
+                  <place>Genf</place>
+               </death>
+               <occupation>Publizist</occupation>
+               <occupation>Politiker</occupation>
+               <note type="comment">Ögg weist ihm fälschlich 99"0 zu (korrekt ist Labori)</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/3471</idno></person>
+            <person xml:id="fk__p_47263">
+               <persName>Krupnik, Julius</persName>
+               <birth>
+                  <date>1877-11-5</date>
+                  <place>Trzowitz/Polen</place>
+               </birth>
+               <occupation>Kaufhausbesitzer</occupation>
+               <note type="comment">7., Kaiserstr. 111-115</note>
+               <note type="comment">verh. 1909 mit Olga Tausend</note>
+               <note type="comment">Emigration 1938 New York, 1947 Palästina</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

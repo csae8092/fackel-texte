@@ -1,0 +1,47 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07049.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07048.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07050.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Die Direktionskrise im Deutschen Volkstheater, in: Fackel Heft 18, Nr. 418, 1916, S. 23-23</title>
+            <title type="iso-date">1916-04-01</title>
+            <title type="id">tid_07049</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">18</title><title type="heft">418</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-18-418_n0023.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/418,023</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Die Direktionskrise im Deutschen Volkstheater</head>
+            <p ana="pr95644">
+— nun die ist aber doch schon überstanden? <seg type="insult">Die Vertragsbedingungen<lb/>
+ des <rs type="inst">Vierverbands</rs></seg>, was red ich, <seg type="insult">die Friedensbedingungen<lb/>
+ des <rs type="inst">Fünferkomitees</rs></seg> sind doch abgelehnt, was red ich,<lb/>
+angenommen? Wenn aber nicht, und wenn <seg type="insult">vom Herrn <rs type="pers" ana="n_64213" ref="#fk__p_37848">Weiße</rs></seg><lb/>
+noch einmal während des <rs type="event">Weltkriegs</rs> die Rede wäre, dann müßte<lb/>
+ich doch glauben, daß <seg type="insult">der Herr <rs type="pers" ana="n_64214" ref="#fk__p_37848">Weiße</rs></seg> den <rs type="event">Weltkrieg</rs> inszeniert<lb/>
+hat, weil der ja so gar nicht wirksam ist!<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_37848">
+               <persName>Weisse, Adolf</persName>
+               <birth>
+                  <date>1855-4-4</date>
+                  <place>Tanez, Ungarn</place>
+               </birth>
+               <death>
+                  <date>1933-7-17</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <occupation>Theaterleiter</occupation>
+               <note type="comment">seit 1906 Dir. Dt. Volksth.</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/26880</idno></person>
+            </listPerson></back></text>
+</TEI>

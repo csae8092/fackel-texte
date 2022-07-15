@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_05317.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05316.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05318.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Das Burgtheater ist noch immer, in: Fackel Heft 13, Nr. 321, 1911, S. 9-10</title>
+            <title type="iso-date">1911-04-29</title>
+            <title type="id">tid_05317</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">13</title><title type="heft">321</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-13-321_n0009.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/321,009</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Das Burgtheater ist noch immer</head>
+            <p ana="pr69183">
+man weiß schon. »Zwei interessante Nachrichten, die aus der<lb/>
+Direktionskanzlei kommen«, zeigen, wie dort jede Scharte sogleich<lb/>
+ausgewetzt wird:<lb/>
+</p>
+            <p ana="pr69185">
+<space/>Am nächsten Donnerstag spielt Herr <rs type="pers" ana="n_50253" ref="#fk__p_49914">Devrient</rs> zum ersten Mal<lb/>
+den <RS pers="Friedrich von Schiller"><rs type="pers" ana="name_204080" ref="#fk__p_43876">Wallenstein</rs></RS>.<lb/>
+</p>
+            <p ana="pr69186">
+<space/><rs type="pers" ana="n_50254" ref="#fk__p_52080">Reimers</rs> hat seinen kontraktlichen Urlaub angetreten.<lb/>
+</p>
+            <p ana="pr69188">
+<space/>Ohne Zweifel, dieses Theater verfügt über <seg type="insult">starke Ressourcen</seg>.<lb/>
+Eine kluge Direktion sollte durchaus bestrebt sein, die Lücken, die der<lb/>
+Tod zurückgelassen hat, durch Urlaube auszufüllen. Der Tod ist<lb/>
+schließlich unvermeidlich und etabliert in jedem Ensemble seine<lb/>
+<seg type="insult">Starwirtschaft</seg>. Auch dieser muß ein Ende gemacht werden, und<lb/>
+das gelingt am besten durch Beurlaubung der <seg type="insult">Überlebenden</seg>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_43876">
+               <persName>Schiller, Friedrich von</persName>
+               <birth>
+                  <date>1759-11-10</date>
+                  <place>Marbach am Neckar</place>
+               </birth>
+               <death>
+                  <date>1805-5-9</date>
+                  <place>Weimar</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Mortimer 363/9, 679/69, 912/7 und 912/58 ist von Ögg Shakespeare zugeordnet</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12654</idno></person>
+            <person xml:id="fk__p_52080">
+               <persName>Reimers, Georg</persName>
+               <birth>
+                  <date>1860-4-4</date>
+                  <place>Altona</place>
+               </birth>
+               <death>
+                  <date>1936-4-15</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <note type="comment">ab 1885 am Burgtheater, 1922 EM</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12498</idno></person>
+            <person xml:id="fk__p_49914">
+               <persName>Devrient, Max</persName>
+               <birth>
+                  <date>1858-12-12</date>
+                  <place>Hannover</place>
+               </birth>
+               <death>
+                  <date>1929-6-13</date>
+                  <place>Chur</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <occupation>Regisseur</occupation>
+               <note type="comment">1882-1929 Burgth., Ehrenmitglied</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2446</idno></person>
+            </listPerson></back></text>
+</TEI>

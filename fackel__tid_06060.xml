@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06060.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06059.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06061.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">So eine Weihnachtsnummer, in: Fackel Heft 14, Nr. 366, 1913, S. 24-25</title>
+            <title type="iso-date">1913-01-01</title>
+            <title type="id">tid_06060</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">14</title><title type="heft">366</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-14-366_n0024.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/366,024</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>So eine Weihnachtsnummer</head>
+            <p ana="pr81800">
+ist doch ein Vergnügen. Oben plaudert ein ehemaliger <RS pers="Franz Freiherr von Schönaich" globID="rs_711">Kriegsminister<lb/>
+</RS> über den Frieden. Unten vollzieht <seg type="insult">der Dichter <rs type="pers" ana="n_57235" ref="#fk__p_48721">Lengyel</rs></seg><lb/>
+die Annäherung zwischen einer Gräfin und <seg type="insult">einem Pester Kommis</seg>,<lb/>
+von dem er selbst nicht viel hält, indem er ihn zwar einen<lb/>
+Dichter, aber einen <seg type="insult">Pseudojournalisten</seg> nennt. Oben Perolin<lb/>
+und Fichtolin; unten flöten <seg type="insult">die eingesperrten Nachtigallen,<lb/>
+die Lyriker</seg>. Dazwischen eine <seg type="insult">Botschaft aus dem Grab</seg>: <seg type="insult"><rs type="pers" ana="n_57236" ref="#fk__p_38058">Berger</rs>,<lb/>
+noch im Jenseits Mitarbeiter sämtlicher Weihnachtsnummern</seg>,<lb/>
+beruhigt die <seg type="insult">genielose Welt</seg> mit dem Trost, daß <rs type="pers" ana="n_57237" ref="#fk__p_55589">Shakespeare</rs> auch<lb/>
+ein <seg type="insult">guter Verdiener</seg> war.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_38058">
+               <persName>Berger, Alfred Freiherr von</persName>
+               <birth>
+                  <date>1853-4-30</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1912-8-24</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Theaterleiter</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13624</idno></person>
+            <person xml:id="fk__p_48721">
+               <persName>Lengyel, Menyhért (Melchior)</persName>
+               <birth>
+                  <date>1880-1-12</date>
+                  <place>Balmazújváros</place>
+               </birth>
+               <death>
+                  <date>1974-10-26</date>
+                  <place>Budapest</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">"Antonia", Lustspiel in drei Akten, 1925</note>
+            </person>
+            <person xml:id="fk__p_55589">
+               <persName>Shakespeare, William</persName>
+               <birth>
+                  <date>1564-4-23?</date>
+                  <place>Stratford-upon-Avon</place>
+               </birth>
+               <death>
+                  <date>1616-4-23</date>
+                  <place>Stratford-upon-Avon</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2412</idno></person>
+            </listPerson></back></text>
+</TEI>

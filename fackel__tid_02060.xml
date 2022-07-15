@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02060.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02059.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02061.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Der Gesetzentwurf über den Terminhandel, in: Fackel Heft 03, Nr. 087, 1901, S. 15-16</title>
+            <title type="iso-date">1901-12-7</title>
+            <title type="id">tid_02060</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">03</title><title type="heft">087</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-03-087_n0015.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/087,015</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Der Gesetzentwurf über den Terminhandel</head>
+            <p ana="pr20143">
+<space/><inciptit>Der</inciptit> Regierungsentwurf eines Gesetzes über den<lb/>
+Getreide-Terminhandel ist rasch begraben worden.<lb/>
+Unter <seg type="insult">den sieben <rs type="inst">parlamentarischen Leidtragenden</rs></seg><lb/>
+befand sich ein socialdemokratischer Abgeordneter.<lb/>
+Aber man weiss, dass die Trauer bei <seg type="insult">Begräbnissen</seg><lb/>
+nicht immer echt ist. <seg type="insult">Herr <rs type="pers" ana="n_17235" ref="#fk__p_42035"><abbr>Dr.</abbr> Ellenbogen</rs></seg> wollte<lb/>
+offenbar nur »<abbr>u. a.</abbr>« gesehen werden. Der Abgeordnete<lb/>
+der inneren Stadt und Leopoldstadt durfte bei einem<lb/>
+<seg type="insult">Traueranlasse</seg> nicht fehlen, bei dem <seg type="insult">alle Getreuen<lb/>
+der <rs type="inst">Börsen</rs> am Schottenring und in der Taborstrasse</seg><lb/>
+vereinigt waren <seg type="symbol" subtype="3dots"/> Wie sich in Wahrheit die Socialdemokratie<lb/>
+ in einem stark agrarischen Lande zum<lb/>
+Terminhandel, der doch innig mit dem Getreideimport<lb/>
+zusammenhängt, zu stellen hat, zeigt der Antrag des<lb/>
+Abgeordneten <rs type="pers" ana="n_17236" ref="#fk__p_46782">Jaurès</rs> in der französischen <rs type="inst">Kammer</rs><lb/>
+(<date>17. Februar 1894</date>): Der Staat solle allein berechtigt<lb/>
+sein, Getreide einzuführen, und dieses zu einem jährlich<lb/>
+ durch Gesetz zu fixierenden Preise verkaufen.<lb/>
+</p>
+            <p ana="pr20146">
+<space/>»Das Getreide kann und soll auch angesehen werden als<lb/>
+das erste und nothwendigste Bedürfnis im Leben der Gesellschaft;<lb/>
+unter diesem Gesichtspunkt gehört es in die Politik und die Staatsklugheit<lb/>
+</p>
+            <p ana="pr20146">
+« <seg type="symbol" subtype="3dots"/> »Im Grossen und Ganzen muss man dem Handel so<lb/>
+viel Freiheit wie möglich lassen, aber den Absatz, auf dem die<lb/>
+tägliche Versorgung einer Menge ruht, muss man sorgfältig überwachen<lb/>
+; denn man kann nicht schlafen gehen, bevor man zu Nacht<lb/>
+gegessen hat.«<lb/>
+</p>
+            <p ana="pr20147">
+<space/>»Sie sagten, dass man sich vor <seg type="insult">Leuten</seg> hüten muss, die nur<lb/>
+kaufen, um zu verkaufen, und nur verkaufen, um zu kaufen, und<lb/>
+die ein <seg type="insult">Complot</seg> unter sich haben, um immer so billig wie möglich<lb/>
+zu kaufen und so theuer wie möglich zu verkaufen.«<lb/>
+</p>
+            <p ana="pr20148">
+<rs type="pers" ana="n_17237" ref="#fk__p_37721"><AUCTOR>Abbé <seg type="spc">Galiani</seg></AUCTOR></rs>, <seg/><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46782">
+               <persName>Jaurès, Jean</persName>
+               <birth>
+                  <date>1859-9-3</date>
+                  <place>Castres (Dép. Tarn)</place>
+               </birth>
+               <death>
+                  <date>1914-7-31</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Philosoph</occupation>
+               <occupation>Politiker</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/18819</idno></person>
+            <person xml:id="fk__p_42035">
+               <persName>Ellenbogen, Wilhelm</persName>
+               <birth>
+                  <date>1863-7-9</date>
+                  <place>Lundenburg</place>
+               </birth>
+               <death>
+                  <date>1951-2-25</date>
+                  <place>New York</place>
+               </death>
+               <occupation>Arzt</occupation>
+               <occupation>Politiker</occupation>
+               <note type="comment">Reichsratsabgeordneter 1901-18</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/52796</idno></person>
+            <person xml:id="fk__p_37721">
+               <persName>Galiani, Ferdinando</persName>
+               <birth>
+                  <date>1728-12-02</date>
+                  <place>Chieti</place>
+               </birth>
+               <death>
+                  <date>1787-10-30</date>
+                  <place>Neapel</place>
+               </death>
+               <occupation>Nationalökonom</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

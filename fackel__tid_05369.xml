@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_05369.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05368.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05370.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ein Shakespeare 60 HP, in: Fackel Heft 13, Nr. 324, 1911, S. 21-21</title>
+            <title type="iso-date">1911-06-2</title>
+            <title type="id">tid_05369</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">13</title><title type="heft">324</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-13-324_n0021.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/324,021</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ein Shakespeare 60 HP</head>
+            <p ana="pr70014">
+<space/>In der Fülle der Ereignisse, die <seg type="insult">der Winter dieses Mißvergnügens<lb/>
+</seg> gebracht hat, ist zwar die von <seg type="insult">Herrn <rs type="pers" ana="n_50757" ref="#fk__p_43200">Ferdinand Bonn</rs></seg><lb/>
+veranstaltete <rs type="title"><rs type="pers">Richard III.-Vorstellung</rs></rs>, aber nicht seine Ansprache<lb/>
+an das Publikum beachtet worden. Sie enthielt den Satz:<lb/>
+</p>
+            <p ana="pr70016">
+<space/><seg type="symbol" subtype="4dots"/> Zum ersten Male standen Künstler der Bühne und des<lb/>
+Zirkus Hand in Hand, um dieses männliche Werk <rs type="pers" ana="n_50758" ref="#fk__p_55589">Shakespeares</rs> in dem<lb/>
+ritterlichen <seg type="spc">Geist</seg>, <seg type="spc">in dem es gedacht ist</seg>, in <seg type="insult">der vollen <seg type="spc">Kraft der<lb/>
+Pferde</seg></seg> und der eisenrasselnden Ritter so zu verwirklichen, wie es die<lb/>
+Bühne allein nimmermehr imstande ist <seg type="symbol" subtype="4dots"/><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_55589">
+               <persName>Shakespeare, William</persName>
+               <birth>
+                  <date>1564-4-23?</date>
+                  <place>Stratford-upon-Avon</place>
+               </birth>
+               <death>
+                  <date>1616-4-23</date>
+                  <place>Stratford-upon-Avon</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2412</idno></person>
+            <person xml:id="fk__p_43200">
+               <persName>Bonn, Ferdinand</persName>
+               <birth>
+                  <date>1861-12-20</date>
+                  <place>Donauwörth</place>
+               </birth>
+               <death>
+                  <date>1933-9-24</date>
+                  <place>Bernau</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10980</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_10770.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10769.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10771.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ein neuer Spötter, in: Fackel Heft 28, Nr. 743, 1926, S. 118-118</title>
+            <title type="iso-date">1926-12-01</title>
+            <title type="id">tid_10770</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">28</title><title type="heft">743</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-28-743_n0118.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/743,118</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ein neuer Spötter</head>
+            <p ana="pr149851">
+ist in den <seg ana="‚Wiener Stimmen‘"/> erstanden, der <seg type="insult">den »<rs type="pers" ana="n_89968" ref="#fk__p_50799">Oha</rs>«</seg> glatt an<lb/>
+die Wand drückt. Er zeichnet <seg type="insult">»<rs type="pers" ana="n_89969" key="#fk__p_44240">Gdy</rs>« (kein Druckfehler)</seg> und hat<lb/>
+einen ungeheuren Anlauf genommen, indem er unter dem Titel<lb/>
+»<rs type="title">Es gibt <seg type="symbol" subtype="4dots"/></rs>« Erkenntnisse über allerlei, was es gibt, zusammenfaßt<lb/>
+. Es gibt zum Beispiel das Folgende:<lb/>
+</p>
+            <p ana="pr149853">
+<space/>Es gibt Pflanzschulen, in denen Tugenden in die Herzen der<lb/>
+Kleinen, und <seg type="insult">Pflanzschulen</seg>, mit welchen die Großen — gepflanzt<lb/>
+werden sollen.<lb/>
+</p>
+            <p ana="pr149854">
+<space/>Es gibt eine Potentielle, eine Kinetische und eine<lb/>
+<seg type="insult"><rs type="pers" ana="n_89970" ref="#fk__p_51641"><SPAN cont="Potemkinetische"><seg type="spc">Potemkine</seg>tische</SPAN> Energie</rs></seg>.<lb/>
+</p>
+            <p ana="pr149855">
+<space/>Es gibt Leute, die <rs type="pers" ana="n_89971" key="#fk__p_48245">Kren</rs> heißen und mit ihrer vermeintlichen<lb/>
+Weisheit »Kren reißen«. Bei einem bestimmten <rs type="pers" ana="n_89972" key="#fk__p_60281">Kren</rs> sind aber die<lb/>
+anderen die <seg type="insult">Wurzen</seg>.<lb/>
+</p>
+            <p ana="pr149857">
+Zu sonderbar, was <seg type="insult">einem Christen</seg> alles einfällt.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_51641">
+               <persName>Potemkin, Grigorij Alexandrowitsch</persName>
+               <birth>
+                  <date>1739-09-13</date>
+                  <place>Tschischewo/Gouv. Smolensk</place>
+               </birth>
+               <death>
+                  <date>1791-10-05</date>
+                  <place>auf der Reise zwischen Nikolajew u. Jassy</place>
+               </death>
+               <occupation>Feldmarschall</occupation>
+            </person>
+            <person xml:id="fk__p_50799">
+               <persName>Oha, Karl Otto</persName>
+               <birth>
+                  <date>1882-05-19</date>
+                  <place>Zeitz</place>
+               </birth>
+               <death>
+                  <date>1956-01-22</date>
+                  <place>Braunschweig</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">"Satiriker" in "Wiener Stimmen", "Muskete"</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07609.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07608.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07610.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Die Verlustliste, in: Fackel Heft 18, Nr. 445, 1234, S. 57-57</title>
+            <title type="iso-date">1234-01-01</title>
+            <title type="id">tid_07609</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">18</title><title type="heft">445</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-18-445_n0057.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/445,057</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Die Verlustliste</head>
+            <p ana="pr102375">
+<space/><seg type="symbol" subtype="3dots"/> Das Kabinett ist noch zu bilden, die Personen sind zu wählen<lb/>
+und das Unbekannte wird erst bestimmbar sein, wenn die Liste der<lb/>
+Minister zeigt, wohin die Straße führt. Herr <rs type="pers" ana="n_66221" ref="#fk__p_53503"><abbr>v.</abbr> Spitzmüller</rs> ist vor kaum<lb/>
+sechs Wochen als Handelsminister aus dem Kabinette geschieden. Er<lb/>
+kehrt als Ministerpräsident zurück. <seg type="spc">Im <date>Oktober</date> gefallen</seg>, im<lb/>
+<date>Dezember</date> an der ersten Stelle in der Regierung, das ist wieder ein Beweis,<lb/>
+daß die Erlebnisse der Menschen zuweilen <seg type="spc">eine Romanze</seg> sind.<lb/>
+</p>
+            <p ana="pr102377">
+<space/>Ich würde manchem, der im <date>Oktober</date> gefallen ist, lieber diese<lb/>
+Auferstehung wünschen, und ich muß sagen, daß ich schon schönere<lb/>
+Romanzen gelesen habe.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_53503">
+               <persName>Spitzmüller-Harmersbach, Alexander von</persName>
+               <birth>
+                  <date>1862-06-12</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1953-09-05</date>
+                  <place>Velden</place>
+               </death>
+               <occupation>Finanzmann</occupation>
+               <occupation>Politiker</occupation>
+               <note type="comment">1915/16 Handelsminister, 1916/17 Finanzminister, Sept./Nov. 1918 Finanzmin. Doppelmonarchie</note>
+               <note type="comment">1915/16 Handelsminister, 1916/17 Finanzminister</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

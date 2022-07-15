@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06680.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06679.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06681.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Kunstnachricht, in: Fackel Heft 15, Nr. 395, 1914, S. 51-52</title>
+            <title type="iso-date">1914-01-01</title>
+            <title type="id">tid_06680</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">15</title><title type="heft">395</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-15-395_n0051.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/395,051</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Kunstnachricht</head>
+            <p ana="pr90208">
+<seg type="spc">Krida <rs type="pers" ana="n_61628" ref="#fk__p_48732">Leo Birinskis</rs></seg>.<lb/>
+</p>
+            <p ana="pr90209">
+<space/><seg type="sidehead">München, <date>30. <abbr>Jan.</abbr></date> (<abbr>Priv.</abbr>)</seg> Gegen den Bühnenschriftsteller <rs type="pers" ana="n_61630" ref="#fk__p_48732">Birinski</rs><lb/>
+ist von Wien eine Anzeige wegen Krida und Exekutionsvereitelung<lb/>
+</p>
+            <p ana="pr90209">
+erstattet worden. <rs type="pers" ana="n_61631" ref="#fk__p_48732">Birinski</rs> weilt zur Zeit in München, um an den Proben<lb/>
+seiner Bearbeitung einer <rs type="pers" ana="n_61632" ref="#fk__p_46919">Nestroyposse</rs>, die morgen im <rs type="inst">Königlichen<lb/>
+Residenztheater</rs> zur Aufführung kommt, teilnehmen zu können. Die<lb/>
+Anzeige ist deshalb an die <rs type="inst">Münchner Polizei</rs> gelangt.<lb/>
+</p>
+            <p ana="pr90211">
+<space/>Das Zitat aus <rs type="pers" ana="n_61633" ref="#fk__p_46919">Nestroys</rs> »<rs type="title"><rs type="pers">Lumpazivagabundus</rs></rs>«:<lb/>
+</p>
+            <lg>
+<l>Der Zauberer Luxus schaut blendend hervur,</l>
+<l><seg type="insult">Die böse Fee Krida</seg> sperrt nacher <foreign xml:lang="de-loc">’s Gwölb</foreign> zur</l>
+</lg>
+            <p ana="pr90215">
+ist erwiesenermaßen das einzige, das in der Bearbeitung von<lb/>
+»<rs type="title">Nur Ruhe</rs>« nicht vorkommt.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46919">
+               <persName>Nestroy, Johann Nepomuk</persName>
+               <birth>
+                  <date>1801-12-7</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1862-5-25</date>
+                  <place>Graz</place>
+               </death>
+               <occupation>Sänger</occupation>
+               <occupation>Schauspieler</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12338</idno></person>
+            <person xml:id="fk__p_48732">
+               <persName>Birinski, Leo</persName>
+               <birth>
+                  <date>1893-7-16</date>
+                  <place>Tysmenica/Bukowina</place>
+               </birth>
+               <death>
+                  <date>1920-3-17</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">IKG Wien, gest. 17.3.1920, 26 Jahre alt, bestätigt mail 25.7.2007</note>
+               <note type="comment">Hdb. jüd. Aut.: viele Jahre lang in einer Wr. Buchhandlung tätig (Antiqu. Löwit, Rotenturmstraße)</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/14233</idno></person>
+            </listPerson></back></text>
+</TEI>

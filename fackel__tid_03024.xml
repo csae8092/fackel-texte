@@ -1,0 +1,123 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03024.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03023.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03025.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Scharfrichter. (Zwei Versionen), in: Fackel Heft 04, Nr. 133, 1903, S. 27-27</title>
+            <title type="iso-date">1903-03-26</title>
+            <title type="id">tid_03024</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">04</title><title type="heft">133</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-04-133_n0027.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/133,027</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Scharfrichter. (Zwei Versionen)</head>
+            <p ana="pr29767">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="n_25798" ref="#fk__p_52838">Scharfrichter</rs>.</seg></seg></seg> Also wer hat Recht?<lb/>
+</p>
+            <p ana="pr29769">
+<seg ana="‚Neue Freie Presse‘, Abendblatt&#10;10. März"/>:<lb/>
+</p>
+            <p ana="pr29771">
+<space/>Olmütz, <date>10. März</date>. (Hinrichtung<lb/>
+.) Der Mörder des Webers<lb/>
+<rs type="pers" ana="n_25799" ref="#fk__p_48334">Kudarek</rs>, der Taglöhner <rs type="pers" ana="n_25800" ref="#fk__p_43579">Franz Sentencik<lb/>
+</rs>, wurde heute Früh durch<lb/>
+den Wiener Scharfrichter justificiert<lb/>
+ <seg type="symbol" subtype="3dotsEditor"/> Um ¾7 Uhr Früh erschien<lb/>
+ der Scharfrichter <rs type="pers" ana="n_25801" ref="#fk__p_56563">Lang</rs> mit<lb/>
+seinen Gehilfen. Als der Delinquent<lb/>
+den Galgen erblickte, schien es<lb/>
+einen Moment, als ob er fliehen<lb/>
+wollte, und die Polizisten traten<lb/>
+näher an ihn heran. <rs type="pers" ana="n_25802" ref="#fk__p_43579">Sentencik</rs><lb/>
+senkte die Augen zu Boden, er<lb/>
+wurde leichenfahl; die letzten<lb/>
+Schritte legte er mit wankenden<lb/>
+Knieen zurück. Der Justificierungsact<lb/>
+ gieng rasch vor sich; nach<lb/>
+14 Secunden wurde der Tod des<lb/>
+Delinquenten constatiert.«<lb/>
+</p>
+            <p ana="pr29773">
+<seg ana="‚Wiener Allgemeine Zeitung‘,&#10;31. März"/>:<lb/>
+</p>
+            <p ana="pr29775">
+<space/>Heute Früh hat der 23jährige<lb/>
+Webergehilfe <rs type="pers" ana="n_25803" ref="#fk__p_43579">Franz Sentencik</rs> seine<lb/>
+Mordthat mit dem Tode gesühnt <seg type="symbol" subtype="3dots"/><lb/>
+Schlag 7 Uhr fand im Hof der<lb/>
+neuen Frohnfeste die Hinrichtung<lb/>
+statt. <rs type="pers" ana="n_25804" ref="#fk__p_43579">Sentencik</rs> gieng aufrecht,<lb/>
+festen Schrittes zum Richtpflock,<lb/>
+wo ihn der Vicepräsident <rs type="pers" ana="n_25805" ref="#fk__p_40236">Dandler</rs><lb/>
+dem Scharfrichter <rs type="pers" ana="n_25806" ref="#fk__p_56563">Lang</rs> zur Justificierung<lb/>
+ übergab. Die Hinrichtung<lb/>
+selbst gieng glatt vor sich; nach<lb/>
+52 Secunden meldete der Scharfrichter<lb/>
+, daß er seine traurige Pflicht<lb/>
+erfüllt habe.«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_52838">
+               <persName>Scharfrichter</persName>
+            </person>
+            <person xml:id="fk__p_43579">
+               <persName>Sentenčik, František</persName>
+               <birth>
+                  <date>1879-2-18</date>
+                  <place>Detva?/Slowakei</place>
+               </birth>
+               <death>
+                  <date>1903-3-10</date>
+                  <place>Olmütz</place>
+               </death>
+               <occupation>Taglöhner</occupation>
+               <occupation>Mörder</occupation>
+               <note type="comment">Mörder des Webers Chudarek</note>
+            </person>
+            <person xml:id="fk__p_48334">
+               <persName>Chudarek</persName>
+               <death>
+                  <date>1902</date>
+               </death>
+               <occupation>Weber</occupation>
+               <note type="comment">Mordopfer des Olmützer Taglöhners Franz Sentencik</note>
+               <note type="comment">Namenskorrektur!!</note>
+            </person>
+            <person xml:id="fk__p_56563">
+               <persName>Lang, Josef</persName>
+               <birth>
+                  <date>1855-3-11</date>
+                  <place>Simmering</place>
+               </birth>
+               <death>
+                  <date>1925-2-21</date>
+                  <place>Wien-Simmering</place>
+               </death>
+               <occupation>Kaffeehausbesitzer </occupation>
+               <occupation>Scharfrichter</occupation>
+               <occupation>Hausmeister</occupation>
+               <note type="comment">501/53 vermutl. ebenfalls (s. KK Liste Stockhammer 2.8.07)</note>
+               <note type="comment">Dekret vom 27.02.1900</note>
+            </person>
+            <person xml:id="fk__p_40236">
+               <persName>Kandler, Wilhelm</persName>
+               <birth>
+                  <date>1849-4-20</date>
+                  <place>Holleschau/Mähren</place>
+               </birth>
+               <occupation>Richter</occupation>
+               <note type="comment">Namenskorrektur!</note>
+               <note type="comment">Mai 1898 bis April 1903 Olmütz, 2.5.03 abg. nach Brünn</note>
+               <note type="comment">Vicepräsident, Olmütz</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

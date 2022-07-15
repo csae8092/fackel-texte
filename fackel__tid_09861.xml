@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_09861.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09860.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09862.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Anzeige von Nachts (3. und 4. Tausend) und Druckfehlerverzeichnis zur ersten Auflage), in: Fackel Heft 26, Nr. 657, 1924, S. 95-96</title>
+            <title type="iso-date">1924-08-01</title>
+            <title type="id">tid_09861</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">26</title><title type="heft">657</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-26-657_n0095.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/657,095</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Anzeige von Nachts (3. und 4. Tausend) und Druckfehlerverzeichnis zur ersten Auflage)</head>
+            <p ana="pr133900">
+<space/><rs type="title"><seg type="spc">Nachts</seg></rs> (3. und 4. Tausend) ist am <date>24. Juli</date> erschienen.<lb/>
+</p>
+            <p ana="pr133901">
+<space/>In der <seg type="spc">ersten</seg> Auflage, <abbr>S.</abbr> 20, <abbr>Z.</abbr> 4 <abbr>v. u.</abbr> nach »nicht«<lb/>
+das Komma zu streichen; <abbr>S.</abbr> 26, <abbr>Z.</abbr> 13 statt »solange«: <seg type="i">so lange</seg>;<lb/>
+<abbr>S.</abbr> 125, <abbr>Z.</abbr> 14 statt »an«: <seg type="i">ans</seg>; <abbr>S.</abbr> 127, <abbr>Z.</abbr> 3 <abbr>v. u.</abbr> statt »Feldherren<lb/>
+«: <SPAN cont="Feldherrn">Feld<seg type="i">herrn</seg></SPAN>; <abbr>S.</abbr> 134, <abbr>Z.</abbr> 10 statt »Tayllerand«: <rs type="pers" ana="n_81823" ref="#fk__p_53929"><seg type="i">Talleyrand</seg></rs>;<lb/>
+<abbr>S.</abbr> 139, <abbr>Z.</abbr> 6 <abbr>v. u.</abbr> statt »allen«: <seg type="i">allem</seg>; <abbr>S.</abbr> 141, <abbr>Z.</abbr> 13 <abbr>v. u.</abbr> nach<lb/>
+»weiß« das Komma zu streichen; <abbr>S.</abbr> 148, <abbr>Z.</abbr> 8 statt »Charitas«:<lb/>
+<rs type="inst"><seg type="i">Caritas</seg></rs>; <abbr>S.</abbr> 152, <abbr>Z.</abbr> 9 statt »Jokeykappe«: <SPAN cont="Jockeykappe"><seg type="i">Jockey</seg>kappe</SPAN>; <abbr>S.</abbr> 153,<lb/>
+<abbr>Z.</abbr> 3 <abbr>v. u.</abbr> statt »Künster«: <seg type="i">Künstler</seg>; <abbr>S.</abbr> 184, <abbr>Z.</abbr> 4 statt »Langeweile<lb/>
+«: <seg type="i">Langweile</seg>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_53929">
+               <persName>Talleyrand, Charles Maurice de</persName>
+               <birth>
+                  <date>1754-2-2</date>
+                  <place>Paris</place>
+               </birth>
+               <death>
+                  <date>1838-5-17</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Bischof</occupation>
+               <occupation>Politiker</occupation>
+               <note type="comment">1797-1807 Außenminister</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/25845</idno></person>
+            </listPerson></back></text>
+</TEI>

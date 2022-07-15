@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01251.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01250.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01252.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Leser. (Die sprachliche Uncultur), in: Fackel Heft 02, Nr. 053, 1900, S. 29-30</title>
+            <title type="iso-date">1900-09-01</title>
+            <title type="id">tid_01251</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">053</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-053_n0029.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/053,029</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Leser. (Die sprachliche Uncultur)</head>
+            <p ana="pr11991">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_9871" ref="#fk__p_48877">Leser</rs>.</seg></seg> Sie finden in der ‚<rs type="paper" ana="werk_3732">Neuen Freien Presse</rs>‘ eine Danksagung<lb/>
+, die also construiert ist: »<seg type="spc">Unmöglich</seg>, auf die zahlreichen<lb/>
+mir vom <seg type="ELIDASH">Inlande</seg> und Auslande aus Anlass <seg type="symbol" subtype="6dots"/> <seg type="spc">antworten zu<lb/>
+können</seg>, <seg type="spc">bringe ich</seg> all den verehrten und lieben Freunden <seg type="symbol" subtype="4dots"/>«<lb/>
+Unterzeichnet ist diese Erklärung von <seg type="insult">einem <seg type="spc">Professor</seg> <rs type="pers" ana="n_9872" ref="#fk__p_41650"><abbr>Dr.</abbr> Peschka</rs></seg>.<lb/>
+Darüber dürfen Sie sich nicht wundern. Die <seg type="insult">Sprachverpöbelung</seg>, die<lb/>
+die Entwicklung <seg type="insult">des modernen Zeitungswesens</seg> mit sich bringt, ist<lb/>
+eben bereits eine so allgemeine, dass sie auch vor den Schranken der<lb/>
+akademischen Bildung nicht mehr Halt macht. Wie könnte übrigens<lb/>
+eine Danksagung in einem <rs type="paperRef" ana="werk_3733">Blatte</rs> anders stilisiert sein, dessen Theaterreferent<lb/>
+ (ich glaube, <seg type="insult">der gefürchtete <rs type="pers" ana="n_9873" ref="#fk__p_47222"><SPAN sug="Sternberg">st—g</SPAN></rs></seg>) von einem Theaterzettel<lb/>
+</p>
+            <p ana="pr11991">
+ spricht, der »<seg type="spc">sich</seg> mit einer älteren Idee prahlt«? Und an<lb/>
+anderer Stelle hieß es dort kürzlich: »Eine Hundert-Guldennote in Zehn-Guldennoten<lb/>
+ umzuwechseln, bot geradezu unabsehbare Schwierigkeiten,<lb/>
+<seg type="spc">es sei denn</seg>, dass der Besitzer geneigt gewesen wäre, seine Taschen<lb/>
+mit hundert Silbergulden zu füllen.« Dann also gieng’s nothdürftig <seg type="symbol" subtype="3dots"/><lb/>
+<seg type="insult">Die albernen Schmöcke</seg>, die es »kleinlich« finden, wenn ich hie und<lb/>
+da der ‚<rs type="paper" ana="werk_3734">Neuen Freien Presse</rs>‘ <seg type="insult">Stilblüthen</seg> entnehme, verstehen nicht, dass<lb/>
+es sich immer wieder darum handelt, die Schuld der <seg type="insult">Journalistik</seg><lb/>
+an der <seg type="insult">sprachlichen Uncultur</seg>, die über uns hereingebrochen ist,<lb/>
+nachzuweisen. Könnte man dies in einem <seg type="insult">Lande</seg>, dessen ganzes<lb/>
+Geistesleben von der Tagespresse besorgt wird, besser als durch<lb/>
+Citate aus <seg type="insult">dem <rs type="paperRef" ana="werk_3735">führenden Blatt</rs></seg> thun, dessen ethische wie formale Haltung<lb/>
+dem Publicum noch immer <seg type="insult">eine Art Offenbarungsglauben</seg> einflößt?<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_41650">
+               <persName>Peschka, Gustav Adolf</persName>
+               <birth>
+                  <date>1830-08-30</date>
+                  <place>Joachimsthal</place>
+               </birth>
+               <death>
+                  <date>1903-08-29</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Mathematiker</occupation>
+            </person>
+            <person xml:id="fk__p_48877">
+               <persName>Leser</persName>
+            </person>
+            <person xml:id="fk__p_47222">
+               <persName>Sternberg, Julian</persName>
+               <birth>
+                  <date>1868-11-8</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1945-6-28</date>
+                  <place>Havanna/Kuba</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <note type="comment">Red. der NFP</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_20423</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/3021</idno></person>
+            </listPerson></back></text>
+</TEI>

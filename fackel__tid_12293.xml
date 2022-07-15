@@ -1,0 +1,47 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_12293.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_12292.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_12294.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Architektenvereinssaal, 27. März:, in: Fackel Heft 37, Nr. 909, 1935, S. 4-5</title>
+            <title type="iso-date">1935-05-01</title>
+            <title type="id">tid_12293</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">37</title><title type="heft">909</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-37-909_n0004.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/909,004</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Architektenvereinssaal, 27. März:</head>
+            <p ana="pr181783">
+<space/><rs type="inst">Architektenvereinssaal</rs>, <date>27. März</date>:<lb/>
+</p>
+            <p ana="pr181784">
+<space/>I. <rs type="title"><seg type="spc">Tritschtratsch</seg></rs> (Mit allen Gesängen; statt des Quodlibets,<lb/>
+mit textlicher Überleitung, das Couplet: <foreign xml:lang="de-loc">»<rs type="title">Dieses G’fühl <seg type="symbol" subtype="3dots"/></rs>«</foreign>. Musik<lb/>
+von <rs type="pers" ana="n_107418" ref="#fk__p_50021">Mechtilde Lichnowsky</rs> und nach Angabe des Vortragenden.)<lb/>
+</p>
+            <p ana="pr181785">
+<space/>II. <rs type="title"><seg type="spc">Die Schwätzerin von Saragossa</seg></rs><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_50021">
+               <persName>Lichnowsky, Mechtilde Fürstin, geb. Gräfin von und zu Arco-Zinneberg</persName>
+               <birth>
+                  <date>1879-3-8</date>
+                  <place>Schloß Schönburg</place>
+               </birth>
+               <death>
+                  <date>1958-6-4</date>
+                  <place>London</place>
+               </death>
+               <occupation>Schriftstellerin</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38988</idno></person>
+            </listPerson></back></text>
+</TEI>

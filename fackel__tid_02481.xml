@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02481.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02480.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02482.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Leser. (Ein Faust-Citat), in: Fackel Heft 04, Nr. 106, 1902, S. 23-24</title>
+            <title type="iso-date">1902-06-16</title>
+            <title type="id">tid_02481</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">04</title><title type="heft">106</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-04-106_n0023.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/106,023</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Leser. (Ein Faust-Citat)</head>
+            <p ana="pr24072">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_20988" ref="#fk__p_48877">Leser</rs>.</seg></seg> Am <date>8. Juni</date> enthielt der Leitartikel des ‚<rs type="paper" ana="werk_8207">Neuen Wiener<lb/>
+Tagblatt</rs>‘ ein Gespräch, das ein <seg type="insult">»Kritiker conservativer Kunstrichtung«</seg><lb/>
+mit <seg type="insult">Herrn <rs type="pers" ana="n_20989" ref="#fk__p_55511"><abbr>v.</abbr> Hartel</rs></seg> geführt hatte. Der Kritiker hatte den Minister gefragt<lb/>
+, wie er »über die moderne Kunst urtheile«. Der Minister aber sagte:<lb/>
+»Die Frage muthet mich an, wie die an <rs type="pers"><abbr>Dr.</abbr> Faustus</rs> gestellte: ‚<seg type="spc">was<lb/>
+er von der Religion halte</seg>‘.« — <rs type="pers" ana="n_20990" ref="#fk__p_46960">Goethe-Forscher</rs> dürfte <seg type="insult">diese neue</seg><lb/>
+</p>
+            <p ana="pr24072">
+<seg type="insult">Lesart einer Stelle des »<rs type="title"><rs type="pers">Faust</rs></rs>«</seg> mächtig interessieren, aber den Betrachter<lb/>
+<seg type="insult">modernen Geisteslebens</seg> wird vor allem die Untersuchung reizen, ob wir<lb/>
+sie <seg type="insult">dem österreichischen Unterrichtsminister oder dem Kunstkritiker eines<lb/>
+der grössten Tagesblätter</seg> zu verdanken haben. Ein glücklicher Zufall<lb/>
+wollte es, dass sich ein Feuilletonist in derselben Nummer des ‚<rs type="paper" ana="werk_8208">Neuen<lb/>
+Wiener Tagblatt</rs>‘ zu der alten Lesart jener <SPAN cont="Faust-Stelle"><rs type="title"><rs type="pers">»Faust«-Stelle</rs></rs></SPAN>, von der <seg type="insult">ein<lb/>
+»conservativer« Kritiker</seg> nie hätte abweichen sollen, bekannte. So<lb/>
+fragt denn auf Seite 1 <rs type="pers">Gretchen</rs> den <rs type="pers"><abbr>Dr.</abbr> Faustus</rs>, <seg type="spc">was er von</seg> der<lb/>
+Religion halte. Aber auf Seite 3 plaudert eine junge Frau über ihr Eheleben<lb/>
+ und betheuert, ein dutzendmal habe ihr »die variierte <rs type="pers">Gretchenfrage<lb/>
+</rs>« auf den Lippen geschwebt: »<seg type="spc">Wie</seg> hältst Du’s <seg type="spc">mit</seg> der <rs type="inst">Secession</rs>?«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_48877">
+               <persName>Leser</persName>
+            </person>
+            <person xml:id="fk__p_46960">
+               <persName>Goethe, Johann Wolfgang von</persName>
+               <birth>
+                  <date>1749-8-28</date>
+                  <place>Frankfurt am Main</place>
+               </birth>
+               <death>
+                  <date>1832-3-22</date>
+                  <place>Weimar</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">890/142f.</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11461</idno></person>
+            <person xml:id="fk__p_55511">
+               <persName>Hartel, Wilhelm Ritter von</persName>
+               <birth>
+                  <date>1839-05-28</date>
+                  <place>Hof/Mähren</place>
+               </birth>
+               <death>
+                  <date>1907-01-14</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Altphilologe</occupation>
+               <occupation>Politiker</occupation>
+               <note type="comment">Friedhof Penzing (=Kontrahentenfriedhof) Tel. 985 64 07</note>
+               <note type="comment">Unterrichtsminister 1900-05</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15937</idno></person>
+            </listPerson></back></text>
+</TEI>

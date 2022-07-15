@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_05628.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05627.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05629.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Das Dilemma, in: Fackel Heft 13, Nr. 341, 1912, S. 16-16</title>
+            <title type="iso-date">1912-01-27</title>
+            <title type="id">tid_05628</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">13</title><title type="heft">341</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-13-341_n0016.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/341,016</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Das Dilemma</head>
+            <p ana="pr74086">
+ist etwas, in das man leicht kommt. <seg type="insult">Ein moderner Kopf</seg> beginnt:<lb/>
+</p>
+            <p ana="pr74088">
+<space/>Unser Lebenstempo ist um ein bedeutendes schneller geworden,<lb/>
+seit wir Eisenbahnen, Telegraph, Auto und Aeroplan und nicht zuletzt<lb/>
+den Kientop (Kinema) haben. Mit der vielbelobten »Behaglichkeit« von<lb/>
+anno Wind und <rs type="pers" ana="n_53099" ref="#fk__p_39058">Benedix</rs> ist es ein für allemal aus. Wir verstehen sie<lb/>
+gar nicht mehr und wenn wir ihr irgendwo begegnen, so macht sie<lb/>
+uns einfach grauenhaft nervös — um wieviel mehr im Theater! <seg type="symbol" subtype="3dots"/> Man<lb/>
+spannt heute nicht mehr ein Theaterpublikum wie zu <rs type="pers" ana="n_53100" ref="#fk__p_39058">Benedix’</rs> Zeiten,<lb/>
+wo man mit <seg type="symbol" subtype="3dots"/> dem klassischen »Ha! ich habe mein Plänchen«, ein<lb/>
+spannendes, vielbelobtes Lustspiel machte<seg type="symbol" subtype="3dots"/> Das Publikum von heute,<lb/>
+wir alle sind ungeduldig! <seg type="symbol" subtype="3dots"/><lb/>
+</p>
+            <p ana="pr74090">
+<space/>Und setzt fort:<lb/>
+</p>
+            <p ana="pr74092">
+<space/>In diesem Dilemma gibt es nur eine Lösung. Nein, <seg type="insult"><rs type="pers"><seg type="spc">Herr<lb/>
+Ahnungslos</seg></rs></seg>, nicht die zweite, die Sie für möglich halten<seg type="symbol" subtype="3dots"/> Seltsame<lb/>
+Kaprizen hat <seg type="insult"><rs type="pers"><seg type="spc">Dame Zensur</seg></rs></seg> ja gewiß <seg type="symbol" subtype="3dots"/><lb/>
+</p>
+            <p ana="pr74094">
+<space/>Das kommt davon, wenn ein <seg type="insult"><RS pers="Karl Michael Freiherr von Levetzow" globID="name_201605">Literat</RS></seg>, der direkt von der<lb/>
+<rs type="pers" ana="n_53101" ref="#fk__p_54384">Ulrike <abbr>v.</abbr> Levetzow</rs> abstammt, sich in <seg type="insult">den modernen Betrieb</seg><lb/>
+einläßt. Das rächt sich immer. <seg type="insult"><rs type="pers" ana="n_53102" ref="#fk__p_43876">Schillers</rs> <RS pers="Karl Alexander Freiherr von Gleichen-Rußwurm">Urenkel</RS></seg> weiß ein Lied<lb/>
+davon zu singen.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_39058">
+               <persName>Benedix, Julius Roderich</persName>
+               <birth>
+                  <date>1811-1-21</date>
+                  <place>Leipzig</place>
+               </birth>
+               <death>
+                  <date>1873-9-26</date>
+                  <place>Leipzig</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/13999</idno></person>
+            <person xml:id="fk__p_54384">
+               <persName>Levetzow, Ulrike von</persName>
+               <birth>
+                  <date>1804-2-4</date>
+                  <place>Leipzig</place>
+               </birth>
+               <death>
+                  <date>1899-11-13</date>
+                  <place>Triblitz, Böhmen</place>
+               </death>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/8604</idno></person>
+            <person xml:id="fk__p_43876">
+               <persName>Schiller, Friedrich von</persName>
+               <birth>
+                  <date>1759-11-10</date>
+                  <place>Marbach am Neckar</place>
+               </birth>
+               <death>
+                  <date>1805-5-9</date>
+                  <place>Weimar</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Mortimer 363/9, 679/69, 912/7 und 912/58 ist von Ögg Shakespeare zugeordnet</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12654</idno></person>
+            </listPerson></back></text>
+</TEI>

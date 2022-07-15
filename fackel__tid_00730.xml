@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00730.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00729.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00731.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">J. Schnitzer, Patriot. (J. Schnitzer, Patriot), in: Fackel Heft 01, Nr. 030, 1900, S. 30-31</title>
+            <title type="iso-date">1900-01-01</title>
+            <title type="id">tid_00730</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">030</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-030_n0030.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/030,030</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>J. Schnitzer, Patriot. (J. Schnitzer, Patriot)</head>
+            <p ana="pr6958">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="n_5373" ref="#fk__p_46428"><abbr>J.</abbr> Schnitzer</rs>, Patriot.</seg></seg></seg> Herzliche Gratulation zu den 1000 <abbr>fl.</abbr>,<lb/>
+die Ihnen der <RS pers="Franz Joseph" globID="rs_57">Kaiser</RS> für die zwei Bände des von Ihnen herausgegebenen<lb/>
+ <seg type="insult">Jubiläumswerkes</seg> übersenden ließ. Da es sonst nur 500 <abbr>fl.</abbr><lb/>
+kostet und eigentlich gar nichts wert ist, dürfen Sie mit der kaiserlichen<lb/>
+ Spende ganz zufrieden sein. Freilich, der <rs type="pers" ana="n_5374" ref="#fk__p_43514">Franz Josefs-Orden</rs><lb/>
+wäre Ihnen lieber gewesen, und als an seiner Stelle die Ueberzahlung<lb/>
+ kam, machten Sie alle Anstrengungen bei <seg type="insult">den Ihnen<lb/>
+befreundeten Blättern</seg>, damit die herbe Enttäuschung, die Ihnen<lb/>
+widerfuhr, nicht ruchbar werde. Ich begreife das. Wem wie Ihnen<lb/>
+das Jubeljahr ein Arbeitsjahr gewesen, wer so unermüdlich gestrebt<lb/>
+hat, <seg type="insult">patriotische Rundgemälde</seg> und <seg type="insult">dynastische Prachtwerke</seg> zusammenzustellen<lb/>
+</p>
+            <p ana="pr6958">
+, wer bei den Bauhandwerkern und Mitarbeitern den<lb/>
+gleichen Opfermuth und <seg type="insult">die gleiche Loyalität</seg>, die sich von selbst<lb/>
+bezahlt macht, vorausgesetzt hat, dem ist wahrlich jede Verbitterung<lb/>
+zugute zu halten. Erst kamen die Arbeiter, die den Rundbau aufgeführt<lb/>
+hatten, und verlangten ohneweiters Bezahlung; und jetzt wollen gar<lb/>
+die Schriftsteller — <rs type="pers" ana="n_5375" ref="#fk__p_46993">Johannes Ziegler</rs> <abbr>z. B.</abbr> — ihre Honorarforderungen<lb/>
+gerichtlich durchsetzen. Dabei noch nicht ein Schimmer vom <rs type="pers" ana="n_5376" ref="#fk__p_43514">Franz<lb/>
+Josefs-Orden</rs>! Nun, der 1000 <abbr>fl.</abbr> müssen Sie sich nicht schämen;<lb/>
+<seg type="insult">solch kleinere Verdienste</seg>, die Sie sich um das Vaterland erwerben,<lb/>
+vermögen die Anerkennung <seg type="insult">der reinen Sache</seg>, der Sie dienen, nicht<lb/>
+zu trüben.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46993">
+               <persName>Ziegler, Johannes</persName>
+               <birth>
+                  <date>1837-02-08</date>
+                  <place>Hamburg</place>
+               </birth>
+               <death>
+                  <date>1905-04-25</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            </person>
+            <person xml:id="fk__p_43514">
+               <persName>Franz Joseph I., Kaiser</persName>
+               <birth>
+                  <date>1830-8-18</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1916-11-21</date>
+                  <place>Wien</place>
+               </death>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15150</idno></person>
+            <person xml:id="fk__p_46428">
+               <persName>Schnitzer, Ignaz</persName>
+               <birth>
+                  <date>1839-12-4</date>
+                  <place>Ratzersdorf/Ungarn</place>
+               </birth>
+               <death>
+                  <date>1921-6-18</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/24403</idno></person>
+            </listPerson></back></text>
+</TEI>

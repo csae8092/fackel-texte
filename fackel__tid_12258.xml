@@ -1,0 +1,44 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_12258.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_12257.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_12259.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">München, Steinicke-Saal, in: Fackel Heft 34, Nr. 885, 1932, S. 18-18</title>
+            <title type="iso-date">1932-12-01</title>
+            <title type="id">tid_12258</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">34</title><title type="heft">885</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-34-885_n0018.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/885,018</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>München, Steinicke-Saal</head>
+            <p ana="pr178703">
+<space/><seg type="spc">München</seg>, <rs type="inst"><rs type="pers" ana="n2_9536" ref="#fk__p_58992">Steinicke-Saal</rs></rs><lb/>
+</p>
+            <p ana="pr178704">
+<space/><date>29. November</date>:<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_58992">
+               <persName>Steinicke, Georg Carl</persName>
+               <birth>
+                  <date>1877</date>
+                  <place>Berlin</place>
+               </birth>
+               <death>
+                  <date>1939</date>
+                  <place>München</place>
+               </death>
+               <occupation>Buchhändler</occupation>
+               <occupation>Kunsthändler</occupation>
+               <note type="comment">München, Steinicke-Saal</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

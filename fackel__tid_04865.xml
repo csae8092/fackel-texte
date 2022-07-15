@@ -1,0 +1,109 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_04865.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04864.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04866.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Hofrat Minor), in: Fackel Heft 11, Nr. 279, 1909, S. 33-34</title>
+            <title type="iso-date">1909-05-13</title>
+            <title type="id">tid_04865</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">11</title><title type="heft">279</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-11-279_n0033.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/279,033</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Hofrat Minor)</head>
+            <p ana="pr60378">
+<space/><seg type="insult">Herr Hofrat <rs type="pers" ana="n_44772" ref="#fk__p_46699">Minor</rs>, der Mann</seg>, der die <seg type="insult">Literaturgeschichte</seg><lb/>
+macht und dessen Vorlesungen ich eine Abneigung gegen<lb/>
+den <seg type="insult"><foreign xml:lang="de-loc">»<rs type="pers" ana="n_44773" ref="#fk__p_43876"><SPAN norm="Schiller">Schüller</SPAN></rs>«</foreign></seg> und den <rs type="pers" ana="n_44774" ref="#fk__p_46960">Goethe</rs> verdanke, die diese wahrscheinlich<lb/>
+gar nicht verdienen, mit einem Worte ein <seg type="insult">Germanist</seg>, schreibt in<lb/>
+der <seg ana="‚Österreichischen Rundschau‘"/> den folgenden Satz:<lb/>
+</p>
+            <p ana="pr60380">
+<space/>»<QUOTE rn="1" sourceID="FK-11-279_n0033_a">Ungewarnt und unvorbereitet, ein Blitz aus heiterem Himmel,<lb/>
+so ist uns heute, im Augenblick, wo diese Blätter in den Druck gehen<lb/>
+sollen, die Nachricht von dem Tode <rs type="pers" ana="n_44775" ref="#fk__p_37842">Sonnenthals</rs> gekommen, der<lb/>
+während eines Gastspieles in Prag einem Schlaganfall erlegen ist. Jäher,<lb/>
+als man bei seiner zähen, schier unverwüstlichen Lebenskraft hätte vermuten<lb/>
+ dürfen, ist der Tod an ihn herangetreten <seg type="symbol" subtype="3dotsEditor"/> </QUOTE><choice><sic>»</sic><corr>«</corr></choice><lb/>
+</p>
+            <p ana="pr60382">
+<space/>Man hätte die Blätter in den Druck gehen lassen sollen;<lb/>
+denn wenn sie auch niemand liest, so ungewarnt und unvorbereitet<lb/>
+darf kein <seg type="insult">Germanist</seg> einen Aufsatz in deutscher Sprache veröffentlichen<lb/>
+. Es ist klar, daß er sagen will, die Nachricht vom<lb/>
+</p>
+            <p ana="pr60382">
+Tode <rs type="pers" ana="n_44776" ref="#fk__p_37842">Sonnenthals</rs> sei unvorbereitet und der Blitz ungewarnt<lb/>
+gewesen. Unverständlich ist aber, wie der Tod jäher, als man bei<lb/>
+seiner zähen und schier unverwüstlichen Lebenskraft vermuten<lb/>
+durfte, an einen Menschen herantreten kann. Warum zerstört <seg type="insult">Herr<lb/>
+<rs type="pers" ana="n_44777" ref="#fk__p_46699">Minor</rs></seg> den feinen Gedanken, den er offenbar gestalten will: daß<lb/>
+der Tod eine unverwüstliche Lebenskraft hat? Aber so sind die<lb/>
+<seg type="insult">Germanisten</seg>. Es ist das erstemal, daß einer einen Gedanken hat,<lb/>
+und da läßt er ihn nicht aufkommen.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_37842">
+               <persName>Sonnenthal, Adolf Ritter von</persName>
+               <birth>
+                  <date>1834-12-21</date>
+                  <place>Pest</place>
+               </birth>
+               <death>
+                  <date>1909-4-4</date>
+                  <place>in der Eisenbahn von Prag nach Wien</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <note type="comment">Schwester: Emma Wertheimer, gest. Wien 04.09.1929, im 86. Lj.</note>
+               <note type="comment">Schwester: Laura Lemberger, gest. Wien 23.04.1907, im 71. Lj.</note>
+               <note type="comment">seit 1856 am Burgtheater</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_20204</idno></person>
+            <person xml:id="fk__p_46960">
+               <persName>Goethe, Johann Wolfgang von</persName>
+               <birth>
+                  <date>1749-8-28</date>
+                  <place>Frankfurt am Main</place>
+               </birth>
+               <death>
+                  <date>1832-3-22</date>
+                  <place>Weimar</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">890/142f.</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11461</idno></person>
+            <person xml:id="fk__p_46699">
+               <persName>Minor, Jakob</persName>
+               <birth>
+                  <date>1855-4-15</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1912-10-7</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Literarhistoriker</occupation>
+               <note type="comment">seit 1888 Prof- Univ. Wien</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12258</idno></person>
+            <person xml:id="fk__p_43876">
+               <persName>Schiller, Friedrich von</persName>
+               <birth>
+                  <date>1759-11-10</date>
+                  <place>Marbach am Neckar</place>
+               </birth>
+               <death>
+                  <date>1805-5-9</date>
+                  <place>Weimar</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Mortimer 363/9, 679/69, 912/7 und 912/58 ist von Ögg Shakespeare zugeordnet</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12654</idno></person>
+            </listPerson></back></text>
+</TEI>

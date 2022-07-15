@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07475.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07474.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07476.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Wahrung berechtigter Interessen, in: Fackel Heft 18, Nr. 437, 1916, S. 77-78</title>
+            <title type="iso-date">1916-11-01</title>
+            <title type="id">tid_07475</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">18</title><title type="heft">437</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-18-437_n0077.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/437,077</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Wahrung berechtigter Interessen</head>
+            <p ana="pr100349">
+<space/>»Leutnant <rs type="pers" ana="n_65802" ref="#fk__p_55503">Wilhelm Frankl</rs>, der in Anerkennung seiner hervorragenden<lb/>
+ Leistungen als Fliegeroffizier nach seiner Beteiligung an den<lb/>
+erfolgreichen Luftkämpfen südlich von Bapaume am <date>9. August</date> vom<lb/>
+<rs type="pers" ana="n_65803" ref="#fk__p_55493">Kaiser Wilhelm</rs> mit dem Orden <foreign xml:lang="fr">Pour le mérite</foreign> ausgezeichnet wurde, ist,<lb/>
+wie bereits gemeldet wurde, ein Hamburger und steht im 22. Lebensjahre <seg type="symbol" subtype="3dots"/><lb/>
+<seg type="spc">Sein Bruder ist der Chef des an der Ecke der<lb/>
+Kärntnerstraße und der Schwangasse befindlichen<lb/>
+ Geschäftshauses</seg>, <seg type="spc">der mit persischen und</seg><lb/>
+</p>
+            <p ana="pr100349">
+<seg type="spc">antiken Teppichen Handel treibt</seg>. Auch <rs type="pers" ana="n_65804" ref="#fk__p_45917">Hermann Frankl</rs><lb/>
+war zu Beginn des Krieges eingerückt, wurde aber dann aus dem<lb/>
+Kriegsdienste entlassen. <seg type="spc">Er und seine Umgebung verfolgen<lb/>
+mit begreiflichem Interesse die Tätigkeit des<lb/>
+jüngeren Bruders als Flieger</seg>.«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_55503">
+               <persName>Frankl, Wilhelm</persName>
+               <birth>
+                  <date>1893-12-20</date>
+                  <place>Hamburg</place>
+               </birth>
+               <death>
+                  <date>1917-4-8</date>
+                  <place>Frankreich</place>
+               </death>
+               <occupation>Offizier</occupation>
+               <note type="comment">erfolgreichster jüdischer Luftwaffenpilot</note>
+               <note type="comment">Leutnant</note>
+            </person>
+            <person xml:id="fk__p_45917">
+               <persName>Frankl, Hermann</persName>
+               <birth>
+                  <date>1884-4-18</date>
+                  <place>Hamburg</place>
+               </birth>
+               <occupation>Kaufmann</occupation>
+               <note type="comment">Teppichgeschäft Ecke Kärntnerstraße Schwangasse 1916</note>
+               <note type="comment">Whg.: 8., Schlösselgasse 13, Geschäft: 1., Schwangasse 1</note>
+            </person>
+            <person xml:id="fk__p_55493">
+               <persName>Wilhelm II., Kaiser</persName>
+               <birth>
+                  <date>1859-1-27</date>
+                  <place>Berlin</place>
+               </birth>
+               <death>
+                  <date>1941-6-4</date>
+                  <place>Doorn/Niederlande</place>
+               </death>
+               <occupation>Kaiser</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_21338</idno></person>
+            </listPerson></back></text>
+</TEI>

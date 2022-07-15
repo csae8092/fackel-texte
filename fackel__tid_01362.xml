@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01362.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01361.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01363.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Herr Kestranek.), in: Fackel Heft 02, Nr. 058, 1900, S. 11-12</title>
+            <title type="iso-date">1900-11-01</title>
+            <title type="id">tid_01362</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">058</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-058_n0011.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/058,011</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Herr Kestranek.)</head>
+            <p ana="pr13056">
+<space/>Der Centraldirector <rs type="pers" ana="n_10782" ref="#fk__p_55143"><seg type="spc">Kestranek</seg></rs> hat in der Generalversammlung<lb/>
+ der <rs type="inst">Prager Eisenindustrie-Gesellschaft</rs><lb/>
+die Publicisten, die seine und seiner Freunde Thätigkeit<lb/>
+kritisieren, nicht blos derb beschimpft, sondern auch<lb/>
+durch ein treffendes Argument widerlegt. Aber die<lb/>
+<seg type="insult">Zeitungsberichterstatter</seg> haben gerade den entscheidenden<lb/>
+Satz seiner Rede mißverstanden. Sie ließen ihn sagen,<lb/>
+die gegnerischen Journale »recrutierten sich ja doch<lb/>
+nur aus Feinden des Unternehmens.« In Wahrheit<lb/>
+hatte Herr <rs type="pers" ana="n_10783" ref="#fk__p_55143">Kestranek</rs> erklärt — nur die ‚<rs type="paper" ana="werk_4206">Wiener Allgemeine</rs><lb/>
+</p>
+            <p ana="pr13056">
+<rs type="paper" ana="werk_4207"> Zeitung</rs>‘ hat den Wortlaut seiner Aeußerung<lb/>
+gemeldet —, seine Gegner seien <seg type="insult">»Feinde der Gesellschaft<lb/>
+.«</seg> Und damit meinte er nicht etwa die <seg type="insult"><rs type="inst">Prager<lb/>
+Eisenindustrie-Gesellschaft</rs></seg>, sondern die menschliche.<lb/>
+<seg type="insult">Herr <rs type="pers" ana="n_10784" ref="#fk__p_55143">Kestranek</rs></seg> ist eben <seg type="insult">ein Gesinnungsgenosse des<lb/>
+‚<rs type="paper" ana="werk_4208">Wiener Tagblatt</rs>‘</seg>, das neulich (siehe <rs type="selfRef" ana="werk_4209"><abbr>Nr.</abbr> 57</rs> der ‚<rs type="self" ana="werk_4210">Fackel</rs>‘<lb/>
+<foreign xml:lang="la"><abbr>pag.</abbr></foreign> 7) erklärt hat, der Versuch, den <seg type="insult">Jobbern</seg> entgegenzutreten<lb/>
+, sei »ein <seg type="insult">wildes Unterfangen</seg>, den gesammten<lb/>
+ Staat und die Gesellschaft aus den Angeln<lb/>
+zu heben.«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_55143">
+               <persName>Kestranek, Wilhelm</persName>
+               <birth>
+                  <date>1863-5-22</date>
+                  <place>Brünn</place>
+               </birth>
+               <death>
+                  <date>1925-5-19</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Industrieller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/19291</idno></person>
+            </listPerson></back></text>
+</TEI>

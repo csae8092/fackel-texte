@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01631.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01630.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01632.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Musikalienhändler Gutmann. (Musikalienhändler Gutmann), in: Fackel Heft 02, Nr. 068, 1901, S. 27-27</title>
+            <title type="iso-date">1901-02-01</title>
+            <title type="id">tid_01631</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">068</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-068_n0027.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/068,027</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Musikalienhändler Gutmann. (Musikalienhändler Gutmann)</head>
+            <p ana="pr15998">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i">Musikalienhändler <rs type="pers" ana="n_13359" ref="#fk__p_37924">Gutmann</rs>.</seg></seg></seg> Ob Sie Ihr Gewissen durch einen<lb/>
+<seg type="insult">Handkuss bei einem Cardinal</seg> oder durch endliche Auszahlung eines<lb/>
+Honorars an die Erben <rs type="pers" ana="n_13360" ref="#fk__p_38335">Anton Bruckners</rs> beruhigen sollen? Ich bin<lb/>
+entschieden für das zweite.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_37924">
+               <persName>Gutmann, Albert Ignaz</persName>
+               <birth>
+                  <date>1851-6-20</date>
+                  <place>Fürth/Nürnberg</place>
+               </birth>
+               <death>
+                  <date>1915-3-7</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Konzertagent</occupation>
+               <occupation>Musikalienhändler</occupation>
+               <note type="comment">1., Elisabethstr. 6 (= Opernring 5)</note>
+               <note type="comment">verh. mit Bertha Sigmann, geb. 1864? oder 1858?</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2185</idno></person>
+            <person xml:id="fk__p_38335">
+               <persName>Bruckner, Anton</persName>
+               <birth>
+                  <date>1824-9-4</date>
+                  <place>Ansfelden, Oberöst.</place>
+               </birth>
+               <death>
+                  <date>1896-10-11</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Komponist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11024</idno></person>
+            </listPerson></back></text>
+</TEI>

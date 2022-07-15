@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_10916.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10915.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10917.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Druckfehlerberichtigung), in: Fackel Heft 29, Nr. 759, 1927, S. 41-41</title>
+            <title type="iso-date">1927-06-01</title>
+            <title type="id">tid_10916</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">29</title><title type="heft">759</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-29-759_n0041.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/759,041</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Druckfehlerberichtigung)</head>
+            <p ana="pr152470">
+<space/><FCORR id="fcorr_150" ferrID="ferr_150" href="FK-23-572_n0042.xml">In <rs type="selfRef" ana="werk_27768"><abbr>Nr.</abbr> 572—576</rs> (Zur »<rs type="title">Sprachlehre</rs>«), <abbr>S.</abbr> 42, <abbr>Z.</abbr> 1 <abbr>v. u.</abbr> statt<lb/>
+»daß«: <seg type="i"><EM id="em_150" ferrID="ferr_150" href="FK-23-572_n0042.xml">das</EM></seg>.</FCORR><lb/>
+</p>
+            <p ana="pr152471">
+<space/><FCORR id="fcorr_151" ferrID="ferr_151" href="FK-27-691_n0080.xml">In <rs type="selfRef" ana="werk_27769"><abbr>Nr.</abbr> 691—696</rs>, <abbr>S.</abbr> 80, <abbr>Z.</abbr> 13 statt »diesem«: <seg type="i"><EM id="em_151" ferrID="ferr_151" href="FK-27-691_n0080.xml">dieser</EM></seg>.</FCORR><lb/>
+</p>
+            <p ana="pr152472">
+<space/><FCORR id="fcorr_152" ferrID="ferr_152" href="FK-28-751_n0014.xml">In <rs type="selfRef" ana="werk_27770"><abbr>Nr.</abbr> 751—756</rs>, <abbr>S.</abbr> 14, <abbr>Z.</abbr> 4 <abbr>v. u.</abbr> statt <foreign xml:lang="en">»fifth avenue«</foreign>:<lb/>
+<foreign xml:lang="en"><seg type="i"><EM id="em_152" ferrID="ferr_152" href="FK-28-751_n0014.xml">Fifth Avenue</EM></seg></foreign></FCORR>; <FCORR id="fcorr_153" ferrID="ferr_153" href="FK-28-751_n0034.xml"><abbr>S.</abbr> 34, <abbr>Z.</abbr> 12, statt »Faszistenmarsch«: <EM id="em_153" ferrID="ferr_153" href="FK-28-751_n0034.xml"><SPAN cont="Fascistenmarsch"><seg type="i">Fascisten</seg>marsch</SPAN></EM></FCORR>;<lb/>
+<FCORR id="fcorr_184" ferrID="ferr_184" href="FK-28-751_n0061.xml">auf S. 61 gehört der Absatz 10. bis 8. Zeile v. u. »Eine Ahnung<lb/>
+— — — (<date>1896</date>):«, der durch ein Versehen in den Lettern des Textes<lb/>
+gesetzt wurde, zum kleingedruckten Zitat aus der <rs type="pers" ana="n_90976" ref="#fk__p_42309">Engel’schen Literaturgeschichte<lb/>
+</rs>.</FCORR><lb/>
+</p>
+            <p ana="pr152473">
+<space/><FCORR href="FK-29-757_n0019.xml" ferrID="fk_04_ferr_29759519" id="fk_04_fcorr_29759519">In <rs type="selfRef" ana="werk_27771"><abbr>Nr.</abbr> 757—758</rs>, <abbr>S.</abbr> 19, <abbr>Z.</abbr> 15 <abbr>v. u.</abbr> statt »is’«: <EM href="FK-29-757_n0019.xml" ferrID="fk_04_ferr_29759519" id="fk_04_em_29759522"><seg type="i">is’s</seg></EM>.</FCORR><lb/>
+</p>
+            <p ana="pr152474">
+<space/>Im Vorabdruck <seg type="insult">»<rs type="title"><rs type="pers" ana="n2_8037" ref="#fk__p_46664">Offenbach-Renaissance</rs></rs>«</seg>, <abbr>S.</abbr> 7, <abbr>Z.</abbr> 14, statt<lb/>
+»<rs type="pers" ana="n2_8038" ref="#fk__p_48672"><SPAN norm="Lecocq">Lecoque</SPAN></rs>«: <rs type="pers" ana="n_90977" ref="#fk__p_48672"><seg type="i">Lecocq</seg></rs>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46664">
+               <persName>Offenbach, Jacques</persName>
+               <birth>
+                  <date>1819-06-21</date>
+                  <place>Köln</place>
+               </birth>
+               <death>
+                  <date>1880-10-05</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Komponist</occupation>
+               <note type="comment">Ögg teilt Fortunato F 876/34 Shakespeare zu</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/9131</idno></person>
+            <person xml:id="fk__p_42309">
+               <persName>Engel, Eduard</persName>
+               <birth>
+                  <date>1851-11-12</date>
+                  <place>Stolp</place>
+               </birth>
+               <death>
+                  <date>1938-11-23</date>
+                  <place>Bornim/Potsdam</place>
+               </death>
+               <occupation>Literarhistoriker</occupation>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">"Deutsche Stilkunst", Wien 1911</note>
+            </person>
+            <person xml:id="fk__p_48672">
+               <persName>Lecocq, Alexandre Charles</persName>
+               <birth>
+                  <date>1832-6-3</date>
+                  <place>Paris</place>
+               </birth>
+               <death>
+                  <date>1918-10-24</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Komponist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/20212</idno></person>
+            </listPerson></back></text>
+</TEI>

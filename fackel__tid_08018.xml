@@ -1,0 +1,44 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_08018.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08017.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08019.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ein Nachruf, in: Fackel Heft 19, Nr. 462, 1917, S. 130-131</title>
+            <title type="iso-date">1917-10-01</title>
+            <title type="id">tid_08018</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">19</title><title type="heft">462</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-19-462_n0130.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/462,130</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ein Nachruf</head>
+            <p ana="pr107009">
+<space/><seg type="sidehead">Wien, <date>31. Juli</date>. (<rs type="inst">Wiener <abbr>Korr.-Bureau</abbr></rs>.)</seg> Gestern ist in einem<lb/>
+hiesigen Sanatorium der Inspektor der gesamten bulgarischen Kavallerie,<lb/>
+General <rs type="pers" ana="n_67997" ref="#fk__p_46549">Iwan Kowel</rs>, <seg type="spc">einer der glänzendsten Verehrer<lb/>
+der kampferprobten österreichisch-ungarischen<lb/>
+Kavallerie</seg>, an einem Herzleiden gestorben, das er sich im <rs type="event">Weltkriege<lb/>
+</rs> zugezogen hatte.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46549">
+               <persName>Kolew, Iwan</persName>
+               <birth>
+                  <date>1863</date>
+               </birth>
+               <death>
+                  <date>1917-7-30</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>General</occupation>
+               <note type="comment">Namenskorrektur!</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_12139.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_12138.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_12140.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">12. Mai, in: Fackel Heft 34, Nr. 876, 1932, S. 93-93</title>
+            <title type="iso-date">1932-10-01</title>
+            <title type="id">tid_12139</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">34</title><title type="heft">876</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-34-876_n0093.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/876,093</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>12. Mai</head>
+            <p ana="pr176899">
+<space/><date>12. Mai</date><lb/>
+</p>
+            <p ana="pr176900">
+<space/><rs type="title">Ansprache</rs> (aus dem Wiener Text).<lb/>
+</p>
+            <p ana="pr176901">
+<space/><rs type="title"><seg type="spc">Vert-Vert</seg></rs>.<lb/>
+</p>
+            <p ana="pr176902">
+<space/>Programmnotiz der Wiener Vorlesung mit »<rs type="title">Erneuerung <rs type="pers" ana="n2_9475" ref="#fk__p_46664">Offenbachs<lb/>
+</rs> <abbr>usw.</abbr></rs>« und »<rs type="title">Ansprache</rs>«.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46664">
+               <persName>Offenbach, Jacques</persName>
+               <birth>
+                  <date>1819-06-21</date>
+                  <place>Köln</place>
+               </birth>
+               <death>
+                  <date>1880-10-05</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Komponist</occupation>
+               <note type="comment">Ögg teilt Fortunato F 876/34 Shakespeare zu</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/9131</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_12157.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_12156.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_12158.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Wenn sie sich erinnern, in: Fackel Heft 34, Nr. 876, 1932, S. 104-104</title>
+            <title type="iso-date">1932-10-01</title>
+            <title type="id">tid_12157</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">34</title><title type="heft">876</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-34-876_n0104.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/876,104</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Wenn sie sich erinnern</head>
+            <p ana="pr177046">
+ist es bestimmt nicht wahr.<lb/>
+</p>
+            <p ana="pr177048">
+Mehr als fünfzig Jahre sind seit der Erstaufführung im <rs type="inst">Burgtheater</rs><lb/>
+verstrichen, in der <rs type="pers" ana="n_105541" ref="#fk__p_37842">Adolf Sonnenthal</rs> den <rs type="pers">Doktor Stockmann</rs> darstellte.<lb/>
+</p>
+            <p ana="pr177050">
+Schreibt einer, der noch nicht dabei sein konnte, wiewohl es<lb/>
+bloß mehr als vierzig sind. Einer wieder, der dabei war, hat es<lb/>
+vergessen und schreibt:<lb/>
+</p>
+            <p ana="pr177052">
+Er (<rs type="pers" ana="n_105542" ref="#fk__p_37905">Bassermann</rs>) war der erste deutsche <rs type="pers">Stockmann</rs>. Lang ist’s her,<lb/>
+über dreißig Jahre <seg type="symbol" subtype="4dots"/><lb/>
+</p>
+            <p ana="pr177054">
+Also genau zehn nach dem ersten deutschen <rs type="pers">Stockmann</rs>. Wenn<lb/>
+zwei sich erinnern, liegt die Wahrheit in der Mitte.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_37842">
+               <persName>Sonnenthal, Adolf Ritter von</persName>
+               <birth>
+                  <date>1834-12-21</date>
+                  <place>Pest</place>
+               </birth>
+               <death>
+                  <date>1909-4-4</date>
+                  <place>in der Eisenbahn von Prag nach Wien</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <note type="comment">Schwester: Emma Wertheimer, gest. Wien 04.09.1929, im 86. Lj.</note>
+               <note type="comment">Schwester: Laura Lemberger, gest. Wien 23.04.1907, im 71. Lj.</note>
+               <note type="comment">seit 1856 am Burgtheater</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_20204</idno></person>
+            <person xml:id="fk__p_37905">
+               <persName>Bassermann, Albert</persName>
+               <birth>
+                  <date>1867-9-7</date>
+                  <place>Mannheim</place>
+               </birth>
+               <death>
+                  <date>1952-5-15</date>
+                  <place>Zürich</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10844</idno></person>
+            </listPerson></back></text>
+</TEI>

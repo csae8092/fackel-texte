@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_09778.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09777.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09779.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">3. März:, in: Fackel Heft 26, Nr. 649, 1924, S. 75-75</title>
+            <title type="iso-date">1924-06-01</title>
+            <title type="id">tid_09778</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">26</title><title type="heft">649</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-26-649_n0075.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/649,075</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>3. März:</head>
+            <p ana="pr132491">
+<space/><date>3. März</date>:<lb/>
+</p>
+            <p ana="pr132492">
+<space/>I. <rs type="pers" ana="n_80972" ref="#fk__p_54177">Carlyle</rs>: <rs type="title">Revolution</rs>. — <rs type="title"><seg type="insult">Metaphysik der Haifische</seg></rs>.<lb/>
+</p>
+            <p ana="pr132493">
+<space/>II. <rs type="title"><seg type="insult">Tod und Tango</seg></rs> / <rs type="title"><rs type="pers">Eros</rs> und der Dichter</rs> / <rs type="title">Hypnagogische<lb/>
+Gestalten</rs> / <rs type="title">Leben ohne Eitelkeit</rs> / <rs type="title">Vor einem Springbrunnen</rs> / <rs type="title">Der<lb/>
+sterbende Mensch</rs> / <rs type="title">Unter dem Wasserfall</rs>.<lb/>
+</p>
+            <p ana="pr132494">
+<space/>III. <rs type="pers" ana="n_80973" ref="#fk__p_46960"><seg type="spc">Goethe</seg></rs>: <rs type="title"><rs type="pers"><seg type="spc">Helena</seg></rs></rs> (mit Musik).<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46960">
+               <persName>Goethe, Johann Wolfgang von</persName>
+               <birth>
+                  <date>1749-8-28</date>
+                  <place>Frankfurt am Main</place>
+               </birth>
+               <death>
+                  <date>1832-3-22</date>
+                  <place>Weimar</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">890/142f.</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11461</idno></person>
+            <person xml:id="fk__p_54177">
+               <persName>Carlyle, Thomas</persName>
+               <birth>
+                  <date>1795-12-4</date>
+                  <place>Ecclefechan, Dumfries and Galloway</place>
+               </birth>
+               <death>
+                  <date>1881-2-5</date>
+                  <place>London</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11074</idno></person>
+            </listPerson></back></text>
+</TEI>

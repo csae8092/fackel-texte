@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03703.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03702.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03704.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Eine Klarstellung, in: Fackel Heft 06, Nr. 169, 1904, S. 14-15</title>
+            <title type="iso-date">1904-11-23</title>
+            <title type="id">tid_03703</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">06</title><title type="heft">169</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-06-169_n0014.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/169,014</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Eine Klarstellung</head>
+            <p ana="pr37018">
+<space/><inciptit>Die</inciptit> in <rs type="selfRef" ana="werk_13424"><abbr>Nr.</abbr> 139</rs> der ‚<rs type="self" ana="werk_13425">Fackel</rs>‘ vom <date>30. Mai 1903</date><lb/>
+veröffentlichte Zuschrift, die sich auf die Tätigkeit<lb/>
+<seg type="insult">des Herrn Regierungsrates <rs type="pers" ana="n_31790" ref="#fk__p_47088"><abbr>Dr.</abbr> Josef Hinterstoisser</rs></seg><lb/>
+als <seg type="insult">Gerichtspsychiaters</seg> bezog, hat die Auffassung<lb/>
+gefunden, daß in ihr eine persönliche Beleidigung<lb/>
+<seg type="insult">dieses Herrn</seg> beabsichtigt gewesen wäre. Ich bedaure<lb/>
+dies und kann versichern, daß mir die Absicht einer<lb/>
+Beleidigung ferne gelegen ist, zumal ich keinerlei<lb/>
+Grund habe, in die Ehrenhaftigkeit und Gewissenhaftigkeit<lb/>
+</p>
+            <p ana="pr37018">
+ der Pflichterfüllung <seg type="insult">des genannten Herrn</seg><lb/>
+Zweifel zu setzen. Der Artikel, welcher mir von<lb/>
+anderer Seite zugekommen ist, sollte lediglich eine<lb/>
+Kritik der wissenschaftlichen Tätigkeit <seg type="insult">des Herrn<lb/>
+Gerichtspsychiaters <rs type="pers" ana="n_31791" ref="#fk__p_47088"><abbr>Dr.</abbr> Hinterstoisser</rs></seg> enthalten; insoferne<lb/>
+ diese Zuschrift einer anderen Auffassung Raum<lb/>
+gegeben hat, ist dies durch obige Darlegung nunmehr<lb/>
+richtiggestellt.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_47088">
+               <persName>Hinterstoisser, Josef</persName>
+               <birth>
+                  <date>1844-01-26</date>
+                  <place>Salzburg</place>
+               </birth>
+               <death>
+                  <date>1921-11-23</date>
+                  <place>Salzburg</place>
+               </death>
+               <occupation>Psychiater</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

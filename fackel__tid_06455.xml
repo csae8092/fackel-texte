@@ -1,0 +1,47 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06455.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06454.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06456.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Die Naturforscher, in: Fackel Heft 15, Nr. 384, 1913, S. 12-12</title>
+            <title type="iso-date">1913-10-01</title>
+            <title type="id">tid_06455</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">15</title><title type="heft">384</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-15-384_n0012.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/384,012</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Die Naturforscher</head>
+            <p ana="pr87168">
+<space/><seg type="symbol" subtype="4dots"/> weihevoller Augenblick <seg type="symbol" subtype="4dots"/> großartigste Manifestation<lb/>
+deutscher Wissenschaft <seg type="symbol" subtype="4dots"/> Stammesbrüder <seg type="symbol" subtype="4dots"/> Presse <seg type="symbol" subtype="4dots"/><lb/>
+Kulturfortschritt <seg type="symbol" subtype="4dots"/><lb/>
+</p>
+            <p ana="pr87169">
+<space/>Direktor <rs type="pers" ana="n_59977" ref="#fk__p_41070"><abbr>Dr.</abbr> Gehrke</rs> begann mit anerkennenden Worten für den<lb/>
+Wiener Apfelstrudel und erhob unter lebhaftem Beifall sein Glas auf<lb/>
+das Wohl der Dame Wien und der Wiener Damen.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_41070">
+               <persName>Gehrcke, Ernst Johann</persName>
+               <birth>
+                  <date>1878-7-1</date>
+                  <place>Berlin</place>
+               </birth>
+               <death>
+                  <date>1960-1-25</date>
+                  <place>Birkenwerder bei Berlin</place>
+               </death>
+               <occupation>Physiker</occupation>
+               <note type="comment">Namenskorrektur!</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

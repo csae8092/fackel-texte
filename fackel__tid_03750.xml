@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03750.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03749.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03751.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Leser. (Herr Müller), in: Fackel Heft 06, Nr. 171, 1904, S. 24-24</title>
+            <title type="iso-date">1904-12-17</title>
+            <title type="id">tid_03750</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">06</title><title type="heft">171</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-06-171_n0024.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/171,024</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Leser. (Herr Müller)</head>
+            <p ana="pr37464">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="name_203423" ref="#fk__p_48877">Leser</rs>.</seg></seg> »Sicher wäre er kein so großer Dichter, wenn er nicht<lb/>
+<rs type="pers" ana="n_32091" ref="#fk__p_46218">Holger Drachmann</rs>, sondern etwa <rs type="pers" ana="n_32092" ref="#fk__p_56603">Heinrich Müller</rs> hieße.« So stand’s<lb/>
+in der <rs type="selfRef" ana="werk_13490">letzten Nummer</rs>. Und nun meldet sich wirklich <seg type="insult">ein Herr <rs type="pers" ana="n_32093" ref="#fk__p_56603">Heinrich<lb/>
+Müller</rs></seg> und schreibt: »Die ‚<rs type="self" ana="werk_13491">Fackel</rs>‘ <rs type="selfRef" ana="werk_13492"><abbr>Nr.</abbr> 170</rs> erhielt ich in 6 Exemplaren<lb/>
+zugeschickt. Überall war der Passus auf Seite 15 unterstrichen. Man<lb/>
+fragte mich, <seg type="spc">was Sie gegen mich haben</seg>, obwohl die Mehrzahl aus der<lb/>
+<rs type="pers" ana="n_32094" ref="#fk__p_46218">Holger Drachmann-Notiz</rs> <seg type="spc">nicht klar ersah</seg>, ob Sie <seg type="spc">für</seg> oder <seg type="spc">gegen</seg><lb/>
+mich sind.« Ich nehme keinen Anstand zu erklären, daß ich dies zuerst<lb/>
+selbst nicht wußte, daß ich aber nach wiederholter Lektüre der Notiz<lb/>
+zu der klaren Erkenntnis kam: ich bin <seg type="spc">weder</seg> für <seg type="spc">noch</seg> gegen <seg type="insult">Herrn<lb/>
+<rs type="pers" ana="n_32095" ref="#fk__p_56603">Heinrich Müller</rs></seg>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_56603">
+               <persName>Müller, Heinrich</persName>
+               <birth>
+                  <date>1870-4-13</date>
+                  <place>Brünn</place>
+               </birth>
+               <occupation>Journalist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/4922</idno></person>
+            <person xml:id="fk__p_48877">
+               <persName>Leser</persName>
+            </person>
+            <person xml:id="fk__p_46218">
+               <persName>Drachmann, Holger</persName>
+               <birth>
+                  <date>1846-10-9</date>
+                  <place>Kopenhagen</place>
+               </birth>
+               <death>
+                  <date>1908-1-14</date>
+                  <place>Hornbaek (Seeland)</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/6855</idno></person>
+            </listPerson></back></text>
+</TEI>

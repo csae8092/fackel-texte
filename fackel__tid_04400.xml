@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_04400.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04399.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04401.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Historiker. (Die bulgarische Fürstenkrone), in: Fackel Heft 08, Nr. 219, 1907, S. 36-37</title>
+            <title type="iso-date">1907-02-22</title>
+            <title type="id">tid_04400</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">08</title><title type="heft">219</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-08-219_n0036.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/219,036</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Historiker. (Die bulgarische Fürstenkrone)</head>
+            <p ana="pr48047">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="name_202706" ref="#fk__p_46138">Historiker</rs>.</seg></seg></seg> <seg ana="‚Neue Freie Presse‘, 16. Februar, Abendblatt, S. 4."/><lb/>
+</p>
+            <p ana="pr48049">
+2. Spalte:<lb/>
+</p>
+            <p ana="pr48051">
+»<QUOTE rn="1" sourceID="FK-08-219_n0036_a"><seg type="symbol" subtype="2dotsEditor"/> Als ein Familienrat in Koburg<lb/>
+zusammentrat, um zu entscheiden,<lb/>
+ob <rs type="pers" ana="n_38786" ref="#fk__p_48012">Prinz Ferdinand</rs> den Thron<lb/>
+von Bulgarien annehmen sollte,<lb/>
+riet <rs type="pers" ana="n_38787" ref="#fk__p_59848">Prinzessin Klementine</rs> von der<lb/>
+Annahme ab</QUOTE>«.<lb/>
+</p>
+            <p ana="pr48053">
+3. Spalte:<lb/>
+</p>
+            <p ana="pr48055">
+»<QUOTE rn="2" sourceID="FK-08-219_n0036_a"><seg type="symbol" subtype="2dotsEditor"/> Auf ihren Einfluß war es<lb/>
+zurückzuführen, daß sich <rs type="pers" ana="n_38788" ref="#fk__p_48012">Prinz<lb/>
+Ferdinand</rs> im <date>Juli 1887</date> nach<lb/>
+langem Zögern für die Annahme<lb/>
+der bulgarischen Fürstenkrone entschied<lb/>
+</QUOTE>«.
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_48012">
+               <persName>Ferdinand I., König von Bulgarien, Prinz von Sachsen-Coburg-Gotha</persName>
+               <birth>
+                  <date>1861-2-26</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1948-9-10</date>
+                  <place>Coburg</place>
+               </death>
+               <occupation>König</occupation>
+               <note type="comment">Zar von Bulgarien 1896 bis zur Abdankung 1918</note>
+            </person>
+            <person xml:id="fk__p_46138">
+               <persName>Historiker</persName>
+            </person>
+            <person xml:id="fk__p_59848">
+               <persName>Sachsen-Coburg-Gotha, Clementine Prinzessin von, geb. Bourbon-Orléans</persName>
+               <birth>
+                  <date>1817-6-3</date>
+                  <place>Neuilly-sur-Seine</place>
+               </birth>
+               <death>
+                  <date>1907-2-16</date>
+                  <place>Coburg</place>
+               </death>
+               <note type="comment">bei Ögg unter Klementine ausgewiesen</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

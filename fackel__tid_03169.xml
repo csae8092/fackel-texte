@@ -1,0 +1,42 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03169.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03168.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03170.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Telegraphendirection. (Ein merkwürdiges Telegramm), in: Fackel Heft 05, Nr. 139, 1903, S. 22-22</title>
+            <title type="iso-date">1903-05-30</title>
+            <title type="id">tid_03169</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">05</title><title type="heft">139</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-05-139_n0022.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/139,022</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Telegraphendirection. (Ein merkwürdiges Telegramm)</head>
+            <p ana="pr31111">
+<space/><seg type="sidehead"><seg type="i"><rs type="inst">Telegraphendirection</rs>.</seg></seg> Am <date>22. Mai</date> stand in der ‚<rs type="paper" ana="werk_11687">Neuen Freien<lb/>
+Presse</rs>‘ ein Telegramm unter der Aufschrift: <seg type="insult">»Fürsterzbischof <rs type="pers" ana="n_26984" ref="#fk__p_54035"><abbr>Dr.</abbr> Kohn</rs><lb/>
+und die päpstliche Curie«</seg>. Datiert ist es in Rom, aufgegeben in Wien<lb/>
+und bezahlt in Olmütz. Wie kommt das?<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_54035">
+               <persName>Kohn, Theodor</persName>
+               <birth>
+                  <date>1845-03-22</date>
+                  <place>Březnitz/Mähren</place>
+               </birth>
+               <death>
+                  <date>1915-12-03</date>
+                  <place>Schloß Ehrenhausen/Leibnitz</place>
+               </death>
+               <occupation>Bischof</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

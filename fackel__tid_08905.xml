@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_08905.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08904.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08906.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Zu Pfingsten, in: Fackel Heft 22, Nr. 561, 1921, S. 50-50</title>
+            <title type="iso-date">1921-03-01</title>
+            <title type="id">tid_08905</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">22</title><title type="heft">561</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-22-561_n0050.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/561,050</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Zu Pfingsten</head>
+            <p ana="pr118530">
+<space/>Im Briefkasten der <seg ana="‚Staatswehr‘"/> findet sich neben einer<lb/>
+Hoffnung:<lb/>
+</p>
+            <p ana="pr118532">
+<space/><seg type="spc"><rs type="pers" ana="n_73015" ref="#fk__p_49416">Lynch</rs></seg>, <seg type="spc">Graz</seg>. Gewiß wird es so weit kommen müssen;<lb/>
+anders ist unsere Menschheit nicht zu retten.<lb/>
+</p>
+            <p ana="pr118534">
+eine Gewißheit:<lb/>
+</p>
+            <p ana="pr118536">
+<space/><rs type="pers" ana="n_73016" key="#fk__p_38887"><seg type="spc">Baronin</seg> <abbr>L. N.</abbr></rs>, <seg type="spc">Salzburg</seg>. Da Ostern heuer sehr früh fällt,<lb/>
+dürfte der von uns bereits angekündigte Einzug <rs type="pers" ana="n_73017" ref="#fk__p_47385">Kaiser Karl I.</rs> in<lb/>
+Österreich erst zu Pfingsten <abbr>d. J.</abbr> stattfinden.<lb/>
+</p>
+            <p ana="pr118538">
+<space/>Das wird ja <seg type="insult">ein liebliches Fest</seg> werden! Wenn sichs nicht<lb/>
+doch wieder auf Weihnachten hinauszieht. Kein Wunder, daß die<lb/>
+Abonnenten ungeduldig werden, denen die ‚<rs type="magazine" ana="werk_22689">Staatswehr</rs>‘ die<lb/>
+<seg type="insult">Nachlieferung der Dynastie</seg> versprochen hat. Aber wir, die<lb/>
+keinen Richter nicht brauchen, werden auch noch lernen, auf den<lb/>
+Richter <rs type="pers" ana="n_73018" ref="#fk__p_49416">Lynch</rs> zu warten.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_49416">
+               <persName>Lynch, Charles</persName>
+               <birth>
+                  <date>1736</date>
+               </birth>
+               <death>
+                  <date>1796-10-29</date>
+               </death>
+               <occupation>Farmer</occupation>
+               <occupation>Friedensrichter</occupation>
+            </person>
+            <person xml:id="fk__p_47385">
+               <persName>Karl I., Kaiser</persName>
+               <birth>
+                  <date>1887-08-17</date>
+                  <place>Persenbeug/NÖ</place>
+               </birth>
+               <death>
+                  <date>1922-04-01</date>
+                  <place>Quinta do Monte/Madeira</place>
+               </death>
+               <occupation>Kaiser</occupation>
+               <note type="comment">Ögg teilt irrt. 561/21 zu, da ist Franz Joseph I. gemeint</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

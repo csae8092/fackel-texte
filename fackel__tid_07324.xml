@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07324.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07323.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07325.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Bibliographisches), in: Fackel Heft 18, Nr. 431, 1916, S. 66-66</title>
+            <title type="iso-date">1916-08-01</title>
+            <title type="id">tid_07324</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">18</title><title type="heft">431</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-18-431_n0066.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/431,066</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Bibliographisches)</head>
+            <p ana="pr98892">
+<space/><seg type="spc">Bibliographisches</seg>. <foreign xml:lang="hu">‚<rs type="title">Vilag</rs>‘</foreign> (Budapest, <date>25. Juni</date>): eine Nachdichtung<lb/>
+ »<rs type="title"><foreign xml:lang="hu">Öreg tanáromhoz</foreign></rs> (<rs type="pers" ana="n_65354" ref="#fk__p_45847">Henricus Stephanus Sedlmayer</rs>) von<lb/>
+<rs type="pers" ana="n_65355" ref="#fk__p_40388">Kosztolányi Dezső</rs>. — »<rs type="title">Gott, Mensch und Menschheit</rs>«, Aphorismen<lb/>
+von <rs type="pers" ana="n_65356" ref="#fk__p_38136">Alois Essigmann</rs>, <rs type="inst"><rs type="pers" ana="n2_5745" ref="#fk__p_57522">Axel Juncker</rs> Verlag</rs> Berlin <date>1916</date> (25. Band der<lb/>
+Orplidbücher), <abbr>S.</abbr> 16 und 26.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_57522">
+               <persName>Juncker, Axel (Verlag)</persName>
+               <note type="comment">Berlin</note>
+            </person>
+            <person xml:id="fk__p_38136">
+               <persName>Essigmann, Alois</persName>
+               <birth>
+                  <date>1878-05-04</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1937-03-03</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            </person>
+            <person xml:id="fk__p_45847">
+               <persName>Sedlmayer, Heinrich Stephan</persName>
+               <birth>
+                  <date>1855-12-26</date>
+                  <place>Brünn, Mähren</place>
+               </birth>
+               <death>
+                  <date>1928-7-15</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Altphilologe</occupation>
+               <occupation>Gymnasiallehrer</occupation>
+               <note type="comment">F 423/39 Ode an ihn</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/57453</idno></person>
+            <person xml:id="fk__p_40388">
+               <persName>Kosztolanyi, Desider (Dezső)</persName>
+               <birth>
+                  <date>1885-3-29</date>
+                  <place>Szabadka</place>
+               </birth>
+               <death>
+                  <date>1936-11-3</date>
+                  <place>Budapest</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

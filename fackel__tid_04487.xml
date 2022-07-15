@@ -1,0 +1,45 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_04487.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04486.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04488.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Arzt. (Geschäftsreisende Ärzte), in: Fackel Heft 09, Nr. 227, 1907, S. 39-39</title>
+            <title type="iso-date">1907-06-10</title>
+            <title type="id">tid_04487</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">09</title><title type="heft">227</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-09-227_n0039.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/227,039</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Arzt. (Geschäftsreisende Ärzte)</head>
+            <p ana="pr49418">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="name_203708" ref="#fk__p_38520">Arzt</rs>.</seg></seg></seg> In der ‚<rs type="magazine" ana="werk_15542">Münchener Medizinischen Wochenschrift</rs>‘, aus der<lb/>
+ich im <rs type="selfRef" ana="werk_15543">letzten Heft</rs> die Zuschrift über <seg type="insult">die geschäftsreisenden Ärzte</seg> zitiert<lb/>
+habe, war der volle Namen des Badearztes <rs type="pers" ana="n_39726" ref="#fk__p_41226"><abbr>Dr.</abbr> <choice><sic>Hngo</sic><corr>Hugo</corr></choice> Schlesinger</rs> genannt.<lb/>
+Dies ersucht mich ein Marienbader Kollege des Herrn festzustellen,<lb/>
+der gleichfalls <rs type="pers" ana="n_39727" ref="#fk__p_41226"><abbr>Dr.</abbr> Hugo <abbr>Sch.</abbr></rs> heißt und dem die Deutung dieser Chiffre<lb/>
+als Abkürzung <seg type="spc">seines</seg> Namens peinlich wäre.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_41226">
+               <persName>Schlesinger, Hugo</persName>
+               <birth>
+                  <date>1867-9-29</date>
+                  <place>Virovitica/Slavonien</place>
+               </birth>
+               <occupation>Zahnarzt</occupation>
+               <note type="comment">Promotion zum Dr. med. 23. 12. 1901</note>
+               <note type="comment">in Marienbad 1907</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/88248</idno></person>
+            <person xml:id="fk__p_38520">
+               <persName>Arzt</persName>
+            </person>
+            </listPerson></back></text>
+</TEI>

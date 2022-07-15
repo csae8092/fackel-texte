@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02074.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02073.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02075.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Liberaler. (Gerichtssaal und Kirche), in: Fackel Heft 03, Nr. 087, 1901, S. 31-31</title>
+            <title type="iso-date">1901-12-7</title>
+            <title type="id">tid_02074</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">03</title><title type="heft">087</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-03-087_n0031.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/087,031</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Liberaler. (Gerichtssaal und Kirche)</head>
+            <p ana="pr20267">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="n_17377" ref="#fk__p_48937">Liberaler</rs>.</seg></seg></seg> Herr <rs type="pers" ana="n_17378" ref="#fk__p_40746"><abbr>Dr.</abbr> <seg type="spc">Nechansky</seg></rs> hat jüngst im <rs type="inst">Gemeinderath</rs><lb/>
+versichert: »Vor das Gericht tritt man wie in eine Kirche.« Sollte das<lb/>
+die <seg type="insult">Gerichtssaalscheu gewisser Parteifreunde</seg> erklären? <seg type="insult">Weihrauchdünste<lb/>
+und Gerichtssaalluft</seg>: beides verträgt gleich schlecht, wer an <seg type="insult">den<lb/>
+gewissen »freieren Zug«</seg>, der manchmal Anschluss an Amerikadampfer<lb/>
+hat, gewöhnt ist.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_48937">
+               <persName>Liberaler</persName>
+            </person>
+            <person xml:id="fk__p_40746">
+               <persName>Nechansky, August</persName>
+               <birth>
+                  <date>1851-7-17</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1912-7-23</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Rechtsanwalt</occupation>
+               <occupation>Politiker</occupation>
+               <note type="comment">1., Stoß im Himmel 3</note>
+               <note type="comment"/>
+               <note type="comment"> in Wien</note>
+               <note type="comment">Gemeinderat</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

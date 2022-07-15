@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00085.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00084.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00086.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Lapidares aus der ‚N. Fr. Pr.‘.), in: Fackel Heft 01, Nr. 005, 1899, S. 22-22</title>
+            <title type="iso-date">1899-05-01</title>
+            <title type="id">tid_00085</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">005</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-005_n0022.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/005,022</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Lapidares aus der ‚N. Fr. Pr.‘.)</head>
+            <p ana="pr1044">
+<space/><seg type="sidehead"><seg type="insult"><seg type="spc">Lapidarsätze der</seg> »<seg type="spc"><rs type="paper" ana="werk_320">Neuen Freien Presse</rs></seg>«</seg>.</seg> Leitartikel<lb/>
+vom <date>20. Mai</date>: »Ein gütiges Geschick hat den <rs type="pers" ana="n_821" ref="#fk__p_56495">Erzherzog Albrecht</rs><lb/>
+davor bewahrt, <date>1859</date> in Italien und <date>1866</date> in Böhmen an dem Kriege<lb/>
+theilzunehmen.« — Feuilleton von <rs type="pers" ana="n_822" ref="#fk__p_46357">Hugo Wittmann</rs> in der Pfingstbeilage<lb/>
+: »Am <date>18. Mai 1799</date> <seg type="spc">starb</seg> in Paris <rs type="pers" ana="n_823" ref="#fk__p_39789">Caron de Beaumarchais</rs><lb/>
+— zwei Tage später, am <date>20. Mai 1799</date>, wurde in Tours <rs type="pers" ana="n_824" ref="#fk__p_46252">Honoré<lb/>
+de Balzac</rs> geboren <seg type="symbol" subtype="4dots"/> Frankreich konnte also dieser Tage ein<lb/>
+stolzes Doppeljubiläum feiern.«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46357">
+               <persName>Wittmann, Hugo</persName>
+               <birth>
+                  <date>1839-10-16</date>
+                  <place>Ulm</place>
+               </birth>
+               <death>
+                  <date>1923-2-6</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">ZF Gruppe 32C, Nr. 3</note>
+               <note type="comment">Red. der NFP</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2739</idno></person>
+            <person xml:id="fk__p_39789">
+               <persName>Beaumarchais, Pierre Augustin Caron de</persName>
+               <birth>
+                  <date>1732-1-24</date>
+                  <place>Paris</place>
+               </birth>
+               <death>
+                  <date>1799-5-18</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10857</idno></person>
+            <person xml:id="fk__p_56495">
+               <persName>Albrecht, Friedrich Rudolf Erzherzog</persName>
+               <birth>
+                  <date>1817-8-3</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1895-2-18</date>
+                  <place>Schloß Arco, Italien</place>
+               </death>
+               <occupation>Feldherr</occupation>
+               <occupation>Großindustrieller</occupation>
+            </person>
+            <person xml:id="fk__p_46252">
+               <persName>Balzac, Honoré de</persName>
+               <birth>
+                  <date>1799-5-20</date>
+                  <place>Tours</place>
+               </birth>
+               <death>
+                  <date>1850-8-18</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10825</idno></person>
+            </listPerson></back></text>
+</TEI>

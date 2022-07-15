@@ -1,0 +1,100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_04327.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04326.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04328.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Genosse. (Geschäftsgeist und volkstümliche Bestrebungen), in: Fackel Heft 08, Nr. 214, 1906, S. 45-46</title>
+            <title type="iso-date">1906-12-22</title>
+            <title type="id">tid_04327</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">08</title><title type="heft">214</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-08-214_n0045.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/214,045</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Genosse. (Geschäftsgeist und volkstümliche Bestrebungen)</head>
+            <p ana="pr47220">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="name_203608" ref="#fk__p_44267">Genosse</rs>.</seg></seg></seg> »Der Redner wendet sich dann gegen die ‚<seg type="insult">Scheelsucht</seg><lb/>
+und den <seg type="insult">niedrigen Geschäftsgeist</seg>‘, die den künstlerischen Bestrebungen<lb/>
+der <rs type="inst">Freien Volksbühne</rs> Steine in den Weg zu legen beflissen sind.<lb/>
+Diese Worte — die offenbar dem Direktor des <rs type="inst">Deutschen Volkstheaters</rs>,<lb/>
+Herrn <rs type="pers" ana="n_38123" ref="#fk__p_37848">Weisse</rs>, galten — fanden stürmische Zustimmung.« <seg type="insult">Herr <rs type="pers" ana="n_38124" ref="#fk__p_37848">Weisse</rs>,<lb/>
+der gewiß nicht sympathische Direktor des <rs type="inst">Deutschen Volkstheaters</rs></seg>, hat<lb/>
+dem Regisseur <rs type="pers" ana="n_38125" ref="#fk__p_52209">Vallentin</rs> die Mitwirkung an dem Unternehmen, durch<lb/>
+das sich <seg type="insult">Herr <rs type="pers" ana="n_38126" ref="#fk__p_53581">Großmann</rs></seg> zu <seg type="insult">einem nützlichen Mitglied der bürgerlichen<lb/>
+Gesellschaft der Sozialdemokratie</seg> entwickeln will, untersagt. Mit Recht.<lb/>
+Herr <rs type="pers" ana="n_38127" ref="#fk__p_52209">Vallentin</rs>, Regisseur des <rs type="inst">Deutschen Volkstheaters</rs>, sollte nämlich die<lb/>
+Vorstellungen der <rs type="inst">Freien Volksbühne</rs> inszenieren, die <seg type="insult">Herr <rs type="pers" ana="n_38128" ref="#fk__p_47098">Jarno</rs></seg> später<lb/>
+in das Repertoire des <rs type="inst">Josefstädter Theaters</rs> aufnimmt. <seg type="insult">Herr <rs type="pers" ana="n_38129" ref="#fk__p_47098">Jarno</rs></seg> ist<lb/>
+also ein <seg type="insult">Förderer volkstümlicher Bestrebungen</seg>, und <seg type="insult">Herr <rs type="pers" ana="n_38130" ref="#fk__p_37848">Weisse</rs></seg> ist ein<lb/>
+<seg type="insult">Geschäftsmann</seg>. <seg type="insult">Herr <rs type="pers" ana="n_38131" ref="#fk__p_53581">Großmann</rs></seg> aber ist <seg type="insult">der unabhängige Theaterkritiker<lb/>
+ der ‚<rs type="paper" ana="werk_15004">Arbeiterzeitung</rs>‘</seg>, der seine Gunst von dem Maße der Gunst<lb/>
+abhängig macht, die ein Theaterdirektor <seg type="insult">seinen und des Herrn <rs type="pers" ana="n_38132" ref="#fk__p_47098">Jarno</rs><lb/>
+volkstümlichen Bestrebungen</seg> zuwendet.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_53581">
+               <persName>Großmann, Stefan</persName>
+               <birth>
+                  <date>1875-05-18</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1935-01-03</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11527</idno></person>
+            <person xml:id="fk__p_47098">
+               <persName>Jarno, Josef</persName>
+               <birth>
+                  <date>1865-8-25</date>
+                  <place>Budapest</place>
+               </birth>
+               <death>
+                  <date>1932-1-11</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <occupation>Theaterleiter</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2601</idno></person>
+            <person xml:id="fk__p_37848">
+               <persName>Weisse, Adolf</persName>
+               <birth>
+                  <date>1855-4-4</date>
+                  <place>Tanez, Ungarn</place>
+               </birth>
+               <death>
+                  <date>1933-7-17</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <occupation>Theaterleiter</occupation>
+               <note type="comment">seit 1906 Dir. Dt. Volksth.</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/26880</idno></person>
+            <person xml:id="fk__p_52209">
+               <persName>Vallentin, Richard</persName>
+               <birth>
+                  <date>1874-2-3</date>
+                  <place>Luzern</place>
+               </birth>
+               <death>
+                  <date>1908-1-14</date>
+                  <place>Berlin</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <occupation>Regisseur</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2235</idno></person>
+            <person xml:id="fk__p_44267">
+               <persName>Genosse</persName>
+            </person>
+            </listPerson></back></text>
+</TEI>

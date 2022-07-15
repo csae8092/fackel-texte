@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00086.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00085.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00087.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Personalnachrichten.), in: Fackel Heft 01, Nr. 005, 1899, S. 22-23</title>
+            <title type="iso-date">1899-05-01</title>
+            <title type="id">tid_00086</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">005</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-005_n0022.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/005,022</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Personalnachrichten.)</head>
+            <p ana="pr1047">
+<space/><seg type="sidehead">[<seg type="insult"><seg type="spc">Personalnachrichten</seg></seg>.]</seg> Die »<rs type="paper" ana="werk_321">Neue Freie Presse</rs>« vom<lb/>
+<date>19. <abbr>d. M.</abbr></date> meldet in einer eigenen Notiz, dass beim <rs type="event">Gartenfest im<lb/>
+Volksgarten</rs> »auch Frau <rs type="pers" ana="n_825" ref="#fk__p_49687"><seg type="spc">Auspitz</seg></rs> Champagner verkaufen wird«.<lb/>
+Das ist erfreulich, wird manchen Leser, welcher der Entwicklung der<lb/>
+Dinge nur mit Besorgnis entgegensah, beruhigen, und schließlich<lb/>
+beweist es auch, dass die ‚<rs type="paper" ana="werk_322">Neue Freie Presse</rs><choice><sic>’</sic><corr>‘</corr></choice> <seg type="insult">»doch noch« das<lb/>
+bestinformierte <rs type="paperRef" ana="werk_323">Blatt</rs></seg> ist. — <rs type="pers" ana="n_826" ref="#fk__p_49745"><seg type="spc">Mark Twain</seg></rs> ist von Wien abgereist.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_49745">
+               <persName>Twain, Mark</persName>
+               <birth>
+                  <date>1835-11-30</date>
+                  <place>Florida, Mo.</place>
+               </birth>
+               <death>
+                  <date>1910-4-21</date>
+                  <place>Reading, Conn.</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            </person>
+            <person xml:id="fk__p_49687">
+               <persName>Auspitz, Marie, geb. Heidenhain</persName>
+               <birth>
+                  <date>1842-2-25</date>
+               </birth>
+               <death>
+                  <date>1919-12-22</date>
+               </death>
+               <occupation/>
+               <note type="comment">Präsidentin der "Lucina", 19., Hohe Warte 11</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

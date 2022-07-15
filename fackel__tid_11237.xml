@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_11237.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11236.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11238.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Nachdenkliche Folgerung und rasche Wirkung, in: Fackel Heft 31, Nr. 820, 1929, S. 117-118</title>
+            <title type="iso-date">1929-10-01</title>
+            <title type="id">tid_11237</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">31</title><title type="heft">820</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-31-820_n0117.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/820,117</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Nachdenkliche Folgerung und rasche Wirkung</head>
+            <p ana="pr162956">
+<space/>Per Telephon:<lb/>
+</p>
+            <p ana="pr162958">
+<space/><seg type="spc">In meinem Schweizer Waldhaus</seg>, von wo ich <seg type="spc">diese<lb/>
+flüchtigen Worte</seg> nach Berlin spreche, blieb er vor ein paar Jahren<lb/>
+<seg type="spc">vor <rs type="pers" ana="n_97639" ref="#fk__p_46960">Goethes</rs> Bildnis lange stehen</seg>; dann <seg type="spc">schwieg er</seg>,<lb/>
+<seg type="spc">wie es sich gehört</seg>, und führte <seg type="spc">erst später</seg> das Gespräch<lb/>
+darauf zurück. <seg type="spc">An solchen kleinen Zügen erkennt man</seg><lb/>
+den Menschen, der <seg type="spc">weniger auf rasche Wirkung</seg> als auf<lb/>
+<seg type="spc">nachdenkliche Folgerung</seg> bedacht ist. — — <rs type="pers" ana="n_97640" ref="#fk__p_53740">Stresemann</rs> war ein<lb/>
+<seg type="spc">sehr</seg> deutscher Charakter. <rs type="pers" ana="n_97641" ref="#fk__p_42631"><AUCTOR>Emil Ludwig</AUCTOR></rs>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46960">
+               <persName>Goethe, Johann Wolfgang von</persName>
+               <birth>
+                  <date>1749-8-28</date>
+                  <place>Frankfurt am Main</place>
+               </birth>
+               <death>
+                  <date>1832-3-22</date>
+                  <place>Weimar</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">890/142f.</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11461</idno></person>
+            <person xml:id="fk__p_42631">
+               <persName>Ludwig, Emil</persName>
+               <birth>
+                  <date>1881-1-25</date>
+                  <place>Breslau</place>
+               </birth>
+               <death>
+                  <date>1948-9-17/18</date>
+                  <place>Moscio, Schweiz</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Journalist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12126</idno></person>
+            <person xml:id="fk__p_53740">
+               <persName>Stresemann, Gustav</persName>
+               <birth>
+                  <date>1878-5-10</date>
+                  <place>Berlin</place>
+               </birth>
+               <death>
+                  <date>1929-10-3</date>
+                  <place>Berlin</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <note type="comment">Reichskanzler, Außenminister</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10103</idno></person>
+            </listPerson></back></text>
+</TEI>

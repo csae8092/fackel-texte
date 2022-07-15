@@ -1,0 +1,40 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_09246.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09245.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09247.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Wieder einer, in: Fackel Heft 24, Nr. 601, 1922, S. 21-21</title>
+            <title type="iso-date">1922-11-01</title>
+            <title type="id">tid_09246</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">24</title><title type="heft">601</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-24-601_n0021.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/601,021</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Wieder einer</head>
+            <p ana="pr122900">
+<rs type="pers" ana="n_75351" ref="#fk__p_50949">Otto Ernst</rs> vollendet heute sein sechzigstes Lebensjahr.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_50949">
+               <persName>Ernst, Otto</persName>
+               <birth>
+                  <date>1862-10-7</date>
+                  <place>Ottensen bei Hamburg</place>
+               </birth>
+               <death>
+                  <date>1926-3-5</date>
+                  <place>Groß-Flottbek bei Hamburg</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Die Liebe höret nimmer auf, Tragikomödie 1911</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11260</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_10723.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10722.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10724.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Druckfehlerberichtigung), in: Fackel Heft 28, Nr. 743, 1926, S. 64-64</title>
+            <title type="iso-date">1926-12-01</title>
+            <title type="id">tid_10723</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">28</title><title type="heft">743</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-28-743_n0064.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/743,064</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Druckfehlerberichtigung)</head>
+            <p ana="pr149268">
+<space/><FCORR id="fcorr_144" ferrID="ferr_144" href="FK-27-697_n0108.xml">In <rs type="selfRef" ana="werk_24320"><abbr>Nr.</abbr> 697—705</rs>, <abbr>S.</abbr> 108, <abbr>Z.</abbr> 5 <abbr>v. u.</abbr> statt »Hoffnng«: <seg type="i"><EM id="em_144" ferrID="ferr_144" href="FK-27-697_n0108.xml">Hoffnung</EM></seg>.</FCORR><lb/>
+</p>
+            <p ana="pr149269">
+<space/><FCORR id="fcorr_145" ferrID="ferr_145" href="FK-27-706_n0012.xml">In <rs type="selfRef" ana="werk_24321"><abbr>Nr.</abbr> 706—711</rs>, <abbr>S.</abbr> 12, <abbr>Z.</abbr> 13 statt »Positon«: <seg type="i"><EM id="em_145" ferrID="ferr_145" href="FK-27-706_n0012.xml">Position</EM></seg>.</FCORR><lb/>
+</p>
+            <p ana="pr149270">
+<space/><FCORR id="fcorr_146" ferrID="ferr_146" href="FK-27-712_n0021.xml">In <rs type="selfRef" ana="werk_24322"><abbr>Nr.</abbr> 712—716</rs>, <abbr>S.</abbr> 21, <abbr>Z.</abbr> 17 statt »enttäucht«: <seg type="i"><EM id="em_146" ferrID="ferr_146" href="FK-27-712_n0021.xml">enttäuscht</EM></seg>.</FCORR><lb/>
+</p>
+            <p ana="pr149271">
+<space/><FCORR id="fcorr_147" ferrID="ferr_147" href="FK-27-717_n0011.xml">In <rs type="selfRef" ana="werk_24323"><abbr>Nr.</abbr> 717—723</rs>, <abbr>S.</abbr> 11, <abbr>Z.</abbr> 5 <abbr>v. u.</abbr> <EM id="em_147" ferrID="ferr_147" href="FK-27-717_n0011.xml">fehlt nach »Elisab« der<lb/>
+Punkt</EM></FCORR>; <FCORR id="fcorr_148" ferrID="ferr_148" href="FK-27-717_n0078.xml"><abbr>S.</abbr> 78, <abbr>Z.</abbr> 1 <abbr>v. u.</abbr> statt »könneu«: <seg type="i"><EM id="em_148" ferrID="ferr_148" href="FK-27-717_n0078.xml">können</EM></seg></FCORR>; <FCORR id="fcorr_149" ferrID="ferr_149" href="FK-27-717_n0092.xml"><abbr>S.</abbr> 92, <abbr>Z.</abbr> 17 statt<lb/>
+»<rs type="pers" ana="n2_7930" ref="#fk__p_49912"><SPAN norm="Burckhard">Burckhardt</SPAN></rs>«: <rs type="pers" ana="n_89618" ref="#fk__p_49912"><seg type="i"><EM id="em_149" ferrID="ferr_149" href="FK-27-717_n0092.xml">Burckhard</EM></seg></rs>.</FCORR><lb/>
+</p>
+            <p ana="pr149272">
+<space/><FCORR href="FK-28-726_n0074.xml" ferrID="fk_04_ferr_29753303" id="fk_04_fcorr_29753303">In <rs type="selfRef" ana="werk_24324"><abbr>Nr.</abbr> 726—729</rs>, <abbr>S.</abbr> 74, <abbr>Z.</abbr> 4 statt »<rs type="pers" ana="n2_7931" ref="#fk__p_43221"><SPAN norm="Lassalles">Lassales</SPAN></rs>«: <EM href="FK-28-726_n0074.xml" ferrID="fk_04_ferr_29753303" id="fk_04_em_29753306"><rs type="pers" ana="n_89619" ref="#fk__p_43221"><seg type="i">Lassalles</seg></rs></EM>;</FCORR><lb/>
+<FCORR href="FK-28-726_n0074.xml" ferrID="fk_04_ferr_29753310" id="fk_04_fcorr_29753310"><abbr>Z.</abbr> 20 <EM href="FK-28-726_n0074.xml" ferrID="fk_04_ferr_29753310" id="fk_04_em_29753312">fehlt nach »Presse« der Punkt</EM>.</FCORR><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_49912">
+               <persName>Burckhard, Max Eugen</persName>
+               <birth>
+                  <date>1854-7-14</date>
+                  <place>Korneuburg</place>
+               </birth>
+               <death>
+                  <date>1912-3-16</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Jurist</occupation>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Theaterleiter</occupation>
+               <note type="comment">Namenskorrektur!</note>
+               <note type="comment">12. 5. 1890 bis 25. 1. 1898 Burgth.</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11036</idno></person>
+            <person xml:id="fk__p_43221">
+               <persName>Lassalle, Ferdinand</persName>
+               <birth>
+                  <date>1825-4-11</date>
+                  <place>Breslau</place>
+               </birth>
+               <death>
+                  <date>1864-8-31</date>
+                  <place>Genf</place>
+               </death>
+               <occupation>Publizist</occupation>
+               <occupation>Politiker</occupation>
+               <note type="comment">Ögg weist ihm fälschlich 99"0 zu (korrekt ist Labori)</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/3471</idno></person>
+            </listPerson></back></text>
+</TEI>

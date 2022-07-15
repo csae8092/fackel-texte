@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02695.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02694.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02696.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Detectiv. (Neue Freie Geographie), in: Fackel Heft 04, Nr. 117, 1902, S. 30-30</title>
+            <title type="iso-date">1902-10-7</title>
+            <title type="id">tid_02695</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">04</title><title type="heft">117</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-04-117_n0030.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/117,030</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Detectiv. (Neue Freie Geographie)</head>
+            <p ana="pr26274">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_22689" ref="#fk__p_40398">Detectiv</rs>.</seg></seg> Bei der Suche nach dem Defraudanten <rs type="pers" ana="n_22690" ref="#fk__p_42293">Jellinek</rs> hat<lb/>
+man sich — leider ohne Erfolg — auch <seg type="insult">der <rs type="paperRef" ana="werk_9132">Neuen Freien Geographie</rs></seg><lb/>
+bedient. Am <date>27. September</date> meldete <seg type="insult">unser <rs type="paperRef" ana="werk_9133">Blatt</rs></seg> aus <abbr>St.</abbr> Pölten: »Hier<lb/>
+circulierte das Gerücht, daß man die Leiche <rs type="pers" ana="n_22691" ref="#fk__p_42293">Jellinek’s</rs> aus der Donau<lb/>
+gezogen habe. Bei der Hebung eines <seg type="spc">Donau-Lastschiffes</seg>, das<lb/>
+<seg type="spc">zwischen Traismauer und </seg><abbr><seg type="spc">St</seg>.</abbr> <seg type="spc">Pölten</seg> untergieng, war die Leiche<lb/>
+eines Mannes in steierischer Tracht gefunden worden«.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_42293">
+               <persName>Jellinek, Edmund</persName>
+               <birth>
+                  <date>1868-1-17</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1902-9-19</date>
+                  <place>Altenwörth</place>
+               </death>
+               <occupation>Bankdirektor</occupation>
+               <note type="comment">3., Mathäusgasse 5; 9., Porzellangasse 22A</note>
+               <note type="comment">Photo vom Grabstein: mail Wolf-Erich Eckstein 22.12.08, 11.59 Uhr</note>
+               <note type="comment">hoher Beamter der Länderbank</note>
+            </person>
+            <person xml:id="fk__p_40398">
+               <persName>Detectiv</persName>
+            </person>
+            </listPerson></back></text>
+</TEI>

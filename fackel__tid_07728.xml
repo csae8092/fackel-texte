@@ -1,0 +1,47 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07728.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07727.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07729.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Schulter an Schulter, in: Fackel Heft 18, Nr. 445, 1234, S. 167-167</title>
+            <title type="iso-date">1234-01-01</title>
+            <title type="id">tid_07728</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">18</title><title type="heft">445</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-18-445_n0167.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/445,167</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Schulter an Schulter</head>
+            <p ana="pr103546">
+Deutsche Verlagsgesellschaft wünscht sofort<lb/>
+mit kapitalskräftigem, seriösem ungarischen<lb/>
+Unternehmen als selbständige Schwestergesellschaft<lb/>
+ für Ungarn in Verbindung zu<lb/>
+treten. <B>Hochpatriotische, konkurrenzlose,<lb/>
+mit höchstem Gewinn arbeitende Sache.</B><lb/>
+Gefällige Adressenangabe erbeten unter<lb/>
+»<abbr>Ff. H.</abbr> 3019« an <rs type="pers" ana="n_66750" ref="#fk__p_52596">Rudolf Mosse</rs>, Berlin,<lb/>
+Leipzigerstraße 103.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_52596">
+               <persName>Mosse, Rudolf</persName>
+               <birth>
+                  <date>1843-5-8</date>
+                  <place>Graetz/Posen</place>
+               </birth>
+               <death>
+                  <date>1920-9-8</date>
+                  <place>Schenkendorf bei Berlin</place>
+               </death>
+               <occupation>Zeitungsverleger</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/39183</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_04425.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04424.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04426.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Untertan. (Der Zar von Ottakring), in: Fackel Heft 08, Nr. 221, 1907, S. 19-19</title>
+            <title type="iso-date">1907-03-9</title>
+            <title type="id">tid_04425</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">08</title><title type="heft">221</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-08-221_n0019.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/221,019</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Untertan. (Der Zar von Ottakring)</head>
+            <p ana="pr48314">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="name_203564" ref="#fk__p_54410">Untertan</rs>.</seg></seg></seg> In einer Gerichtsverhandlung, in der es sich um die<lb/>
+Beschwerde <seg type="insult">eines sogenannten »Exzedenten«</seg> über <seg type="insult">einen der neuestens so<lb/>
+beliebten »polizeilichen Übergriffe«</seg> handelte, wurde so nebenbei die folgende<lb/>
+ Äußerung, die der amtierende Polizeikommissär getan haben soll,<lb/>
+erwähnt: »Nur Eisen anlegen, wenn er keck ist! Ich bin Herr im Bezirke<lb/>
+ und herrsche über 200.000 Menschen«. <seg type="insult">Der Zar von Ottakring</seg> heißt<lb/>
+<rs type="pers" ana="n_39017" ref="#fk__p_46908">Johann Kubachka</rs>. <seg type="insult"><rs type="pers" ana="n_39018" ref="#fk__p_46908">Johann Kubachka</rs> der Erste.</seg> Es ist sehr erfreulich, daß<lb/>
+in den meisten anderen Bezirken Wiens schon die Konstitution eingeführt<lb/>
+ist. Ich bin Untertan des Kommissariats Wieden, dessen Bevölkerung<lb/>
+<seg type="insult">ihrem Herrscher</seg> eine <seg type="insult">Reihe freiheitlicher Errungenschaften</seg> dankt. Als<lb/>
+ich zum Beispiel einst wiederholten Vorladungen wegen des Meldzettels<lb/>
+keine Folge leistete, wurde mir, dessen <seg type="insult">hochverräterische Gesinnung</seg> klar<lb/>
+zu Tage lag, stillschweigend Amnestie gewährt. Auf dem Alsergrund<lb/>
+freilich konnte man eine zeitlang glauben, daß die Polizei an der <seg type="insult">Erhaltung<lb/>
+ der Leibeigenschaft</seg> interessiert sei. Bis endlich das befreiende<lb/>
+Wort: <foreign xml:lang="de-loc">»Madeln verführts mir <seg type="insult">den dicken Kommissär</seg>!«</foreign> fiel und uns<lb/>
+darüber aufklärte, daß die Behörde zu <seg type="insult">den bekannten »Opfern der <rs type="pers" ana="n_39019" ref="#fk__p_52058">Regine<lb/>
+Riehl</rs>«</seg> gehört.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_52058">
+               <persName>Riehl, Regine</persName>
+               <birth>
+                  <date>1860-9-6</date>
+                  <place>Ungarisch-Hradisch</place>
+               </birth>
+               <death>
+                  <date>1922-4-5</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Bordellinhaberin</occupation>
+               <note type="comment">Bordellbetreiberin; Prozeß 03.11.1906ff.</note>
+               <note type="comment">Grünethorgasse 24</note>
+               <note type="comment">lt. Erhebung vom 14.11.1922 am 5.4.22 Bez. Ger. I</note>
+               <note type="comment">Urteil NFP 08.11.1906, Seite 11</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/23400</idno></person>
+            <person xml:id="fk__p_54410">
+               <persName>Untertan</persName>
+            </person>
+            <person xml:id="fk__p_46908">
+               <persName>Kubaczka, Johann</persName>
+               <birth>
+                  <date>1873-4-30</date>
+                  <place>Skotschau/Bielitz</place>
+               </birth>
+               <death>
+                  <date>1943-2-25</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Polizeibeamter</occupation>
+               <note type="comment">7., Burggasse 51</note>
+               <note type="comment">ZF 3.3.1943, 36/3/18 Friedhofsdauer</note>
+               <note type="comment">Kommissar Ottakring</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

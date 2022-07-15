@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02122.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02121.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02123.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ein Publicist, in: Fackel Heft 03, Nr. 089, 1901, S. 27-28</title>
+            <title type="iso-date">1901-12-24</title>
+            <title type="id">tid_02122</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">03</title><title type="heft">089</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-03-089_n0027.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/089,027</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ein Publicist</head>
+            <p ana="pr20750">
+<space/>Aus einer <seg type="insult">Coulissenplauderei des Herrn <rs type="pers" ana="n_17891" ref="#fk__p_39122">Bernhard <seg type="spc">Buchbinder<lb/>
+</seg></rs></seg>:<lb/>
+</p>
+            <p ana="pr20752">
+<space/>»Seit vierzehn Tagen macht Frau <rs type="pers" ana="n_17892" ref="#fk__p_51086">Palmay</rs> in einem Budapester<lb/>
+ Sanatorium die <seg type="spc">Mastcur</seg> durch. In einem Privatbriefe schildert<lb/>
+</p>
+            <p ana="pr20752">
+ sie verführerisch schön das Schlaraffenleben, welches sie jetzt<lb/>
+führt. Den ganzen Tag liegt sie zu Bette, isst fabelhaft viel,<lb/>
+empfängt von Früh bis Abend die Besuche ihrer Colleginnen,<lb/>
+welche ihr Süssigkeiten zuschleppen, und hat bereits — ich sag’s<lb/>
+gar nicht, wieviel — Kilo zugenommen, weil man diese vielen<lb/>
+Kilo für Renommage halten würde. — Die Mastcur soll jetzt unter<lb/>
+den Theaterdamen <foreign xml:lang="fr">en vogue</foreign> sein. Natürlich diejenigen ausgenommen,<lb/>
+welche es vorziehen, <seg type="spc">verschwiegene Entfettungscuren</seg> durchzumachen<lb/>
+. Im Allgemeinen ist das Magersein beim Theater nicht<lb/>
+mehr modern, und das Mieder gelangt wieder zur Herrschaft.«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_39122">
+               <persName>Buchbinder, Bernhard</persName>
+               <birth>
+                  <date>1849-7-7</date>
+                  <place>Budapest</place>
+               </birth>
+               <death>
+                  <date>1922-6-24</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/6487</idno></person>
+            <person xml:id="fk__p_51086">
+               <persName>Palmay, Ilka von</persName>
+               <birth>
+                  <date>1859-9-21</date>
+                  <place>Kaschau</place>
+               </birth>
+               <death>
+                  <date>1945-2-17</date>
+                  <place>Budapest</place>
+               </death>
+               <occupation>Schauspielerin</occupation>
+               <occupation>Sängerin</occupation>
+               <occupation>Schriftstellerin</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

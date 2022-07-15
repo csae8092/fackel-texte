@@ -1,0 +1,99 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_10065.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10064.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10066.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Festsaal des Ingenieur-und Architekten-Vereines, 7. Februar, 7 Uhr:, in: Fackel Heft 26, Nr. 679, 1925, S. 49-50</title>
+            <title type="iso-date">1925-03-01</title>
+            <title type="id">tid_10065</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">26</title><title type="heft">679</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-26-679_n0049.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/679,049</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Festsaal des Ingenieur-und Architekten-Vereines, 7. Februar, 7 Uhr:</head>
+            <p ana="pr137033">
+<space/><rs type="inst">Festsaal des Ingenieur-und Architekten-Vereines</rs>, <date>7. Februar</date>, 7 Uhr:<lb/>
+</p>
+            <p ana="pr137034">
+<space/><rs type="pers" ana="n_84101" ref="#fk__p_46919">Nestroy-Zyklus</rs> II. <rs type="title"><seg type="spc">Weder Lorbeerbaum noch Bettelstab<lb/>
+</seg></rs>, Parodierende Posse mit Gesang in drei Abteilungen von<lb/>
+<rs type="pers" ana="n_84102" ref="#fk__p_46919"><seg type="spc">Johann Nestroy</seg></rs>. Musik von <rs type="pers" ana="n_84103" ref="#fk__p_50021">Mechtilde Lichnowsky</rs>.<lb/>
+</p>
+            <p ana="pr137035">
+<space/>Begleitung: <rs type="pers" ana="n_84104" ref="#fk__p_54913"><abbr>Dr.</abbr> Viktor Junk</rs>.<lb/>
+</p>
+            <p ana="pr137036">
+<space/>Der volle Ertrag (<abbr>inkl.</abbr> Programmerlös): K 5,214.900 für das<lb/>
+<rs type="inst"><rs type="pers" ana="n2_7446" ref="#fk__p_42522">Elisabeth-Heim</rs> für Kriegswaisen, Lehrmädchen und Arbeiterinnen</rs><lb/>
+</p>
+            <p ana="pr137036">
+(II. Leopoldsgasse 15), die <rs type="inst">Jüdische Jugendfürsorge</rs> (I. Seitenstettengasse<lb/>
+ 2) und für Unterstützungsbedürftige.<lb/>
+</p>
+            <p ana="pr137038">
+<space/>Auf dem Programm die erste der Notizen vom<lb/>
+<date>4. Dezember 1922</date> und als Nachtrag:<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_50021">
+               <persName>Lichnowsky, Mechtilde Fürstin, geb. Gräfin von und zu Arco-Zinneberg</persName>
+               <birth>
+                  <date>1879-3-8</date>
+                  <place>Schloß Schönburg</place>
+               </birth>
+               <death>
+                  <date>1958-6-4</date>
+                  <place>London</place>
+               </death>
+               <occupation>Schriftstellerin</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38988</idno></person>
+            <person xml:id="fk__p_54913">
+               <persName>Junk, Viktor</persName>
+               <birth>
+                  <date>1875-4-18</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1948-4-5</date>
+                  <place>Frohnleiten/Steiermark</place>
+               </death>
+               <occupation>Germanist</occupation>
+               <occupation>Musikwissenschaftler</occupation>
+            </person>
+            <person xml:id="fk__p_46919">
+               <persName>Nestroy, Johann Nepomuk</persName>
+               <birth>
+                  <date>1801-12-7</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1862-5-25</date>
+                  <place>Graz</place>
+               </death>
+               <occupation>Sänger</occupation>
+               <occupation>Schauspieler</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12338</idno></person>
+            <person xml:id="fk__p_42522">
+               <persName>Elisabeth von Österreich, geb. Prinzessin von Bayern</persName>
+               <birth>
+                  <date>1837-12-24</date>
+                  <place>München</place>
+               </birth>
+               <death>
+                  <date>1898-9-10</date>
+                  <place>Genf</place>
+               </death>
+               <occupation>Kaiserin</occupation>
+               <occupation>Königin</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

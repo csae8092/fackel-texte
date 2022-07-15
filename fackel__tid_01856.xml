@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01856.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01855.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01857.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Das Hilsner-Spiel.), in: Fackel Heft 03, Nr. 078, 1901, S. 17-17</title>
+            <title type="iso-date">1901-05-01</title>
+            <title type="id">tid_01856</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">03</title><title type="heft">078</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-03-078_n0017.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/078,017</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Das Hilsner-Spiel.)</head>
+            <p ana="pr18237">
+<seg ana="‚Bohemia‘, 26. Mai"/>.
+</p>
+            <p ana="pr18239">
+<space/>(<rs type="pers" ana="n_15367" ref="#fk__p_48811">Hilsner</rs> begnadigt.) Wie die<lb/>
+‚<rs type="paper" ana="werk_5860"><seg type="spc">Neue Freie Presse</seg></rs>‘ meldet,<lb/>
+wird die Todesstrafe <rs type="pers" ana="n_15368" ref="#fk__p_48811">Hilsners</rs> in<lb/>
+lebenslänglichen schweren Kerker<lb/>
+umgewandelt werden.<lb/>
+</p>
+            <p ana="pr18241">
+<seg ana="‚Neue Freie Presse‘, 26. Mai"/>.<lb/>
+</p>
+            <p ana="pr18243">
+<space/>(Begnadigung <rs type="pers" ana="n_15369" ref="#fk__p_48811">Hilsners</rs>.) Wie<lb/>
+uns aus Prag berichtet wird,<lb/>
+meldet die ‚<rs type="paper" ana="werk_5862"><seg type="spc">Bohemia</seg></rs>‘, dass<lb/>
+<rs type="pers" ana="n_15370" ref="#fk__p_48811">Hilsner</rs> mittelst kaiserlichen<lb/>
+Gnadenactes die Todesstrafe nachgesehen<lb/>
+ erhalten habe. Hier verlautet<lb/>
+, dass ihm vom <rs type="inst">Obersten<lb/>
+Gerichtshof</rs> lebenslanger schwerer<lb/>
+Kerker zuerkannt worden sei.<lb/>
+</p>
+            <p ana="pr18245">
+<space/>Nicht minder anmuthig als <seg type="insult">dieses Begnadigungsspiel der<lb/>
+liberalen Presse</seg> ist aber das Stöhnen der antisemitischen: »Wann<lb/>
+wird <rs type="pers" ana="n_15371" ref="#fk__p_48811">Hilsner</rs> gehenkt?« <RS persTitle="Schiller" title="Wallenstein-Prolog">Von <seg type="insult">der Parteien Hass und Gunst</seg> verwirrt,<lb/>
+schwankt sein Charakterbild in der Geschichte</RS> <seg type="symbol" subtype="3dots"/><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_48811">
+               <persName>Hilsner, Leopold</persName>
+               <birth>
+                  <date>1876</date>
+               </birth>
+               <death>
+                  <date>1928-1-8</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schuhmacher</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

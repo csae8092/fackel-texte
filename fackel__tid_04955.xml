@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_04955.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04954.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04956.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Neue Freie Medizin), in: Fackel Heft 11, Nr. 288, 1909, S. 21-21</title>
+            <title type="iso-date">1909-10-11</title>
+            <title type="id">tid_04955</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">11</title><title type="heft">288</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-11-288_n0021.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/288,021</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Neue Freie Medizin)</head>
+            <p ana="pr61923">
+<space/>»Seit 13 Jahren zum Doktor der gesamten Heilkunde promoviert<lb/>
+, sehe ich mich wieder <foreign xml:lang="fr">vis-à-vis de rien</foreign>« — so klagt mir<lb/>
+einer. Ein Pumpbrief? Nein, der Schmerzensschrei eines Mannes,<lb/>
+der den Ehrgeiz hat, mit den wissenschaftlichen Neuerungen<lb/>
+Schritt zu halten, aber einsehen muß, daß jeder neue Tag seine<lb/>
+Schulweisheit beschämt. Was ist denn nur wieder geschehen?<lb/>
+Herr <rs type="pers" ana="n_45645" ref="#fk__p_54455"><abbr>v.</abbr> Bethmann-Hollweg</rs> war in Wien, und <seg type="insult">der Vertreter der<lb/>
+‚<rs type="paper" ana="werk_17004">Neuen Freien Presse</rs>‘</seg> hat ihn im <rs type="inst">Hotel Imperial</rs> besucht. Auf<lb/>
+dreimaliges Läuten ist dort pünktlich <seg type="insult">der »Schatten <rs type="pers" ana="n_45646" ref="#fk__p_39266">Bismarcks</rs>«</seg><lb/>
+erschienen. Nachdem dies geschehen war, sprach der neue Reichskanzler<lb/>
+ <seg type="insult">»von der großen Vervollkommnung der Presse«</seg>. Und mit<lb/>
+vollem Recht. Denn <seg type="insult">der Vertreter der ‚<rs type="paper" ana="werk_17005">Neuen Freien Presse</rs>‘</seg> hat<lb/>
+eine wissenschaftliche Entdeckung gemacht. »Die <seg type="spc">Netzhaut</seg> der<lb/>
+in einem sanften Bogen zugeschnittenen Augen«, schrieb er am<lb/>
+nächsten Tag, »ist von der Anstrengung beim Lampenlicht bis tief<lb/>
+in die Nacht hinein gerötet.« <seg type="insult">Einem unserer Mitarbeiter</seg> ist es also<lb/>
+gelungen, die Netzhaut des Reichskanzlers ohne Augenspiegel zu<lb/>
+untersuchen, und die Wissenschaft erfährt wieder einmal aus der<lb/>
+Tagespresse, was sie zu wissen hat.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_39266">
+               <persName>Bismarck, Otto Eduard Leopold Fürst</persName>
+               <birth>
+                  <date>1815-04-01</date>
+                  <place>Schönhausen</place>
+               </birth>
+               <death>
+                  <date>1898-07-30</date>
+                  <place>Friedrichsruh</place>
+               </death>
+               <occupation>Politiker</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13749</idno></person>
+            <person xml:id="fk__p_54455">
+               <persName>Bethmann-Hollweg, Theobald Theodor von</persName>
+               <birth>
+                  <date>1856-11-29</date>
+                  <place>Hohenfinow, Brandenburg</place>
+               </birth>
+               <death>
+                  <date>1921-1-1</date>
+                  <place>Hohenfinow, Brandenburg</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <note type="comment">dt. Reichskanzler 7. 7. 1909 bis 13. 7. 1917</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10908</idno></person>
+            </listPerson></back></text>
+</TEI>

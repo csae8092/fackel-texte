@@ -1,0 +1,31 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07089.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07088.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07090.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Druckfehlerberichtigung), in: Fackel Heft 18, Nr. 418, 1916, S. 54-54</title>
+            <title type="iso-date">1916-04-01</title>
+            <title type="id">tid_07089</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">18</title><title type="heft">418</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-18-418_n0054.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/418,054</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Druckfehlerberichtigung)</head>
+            <p ana="pr96037">
+<space/><FCORR id="fcorr_209" ferrID="ferr_209" href="FK-17-413_n0008.xml">In <rs type="selfRef" ana="werk_20541"><abbr>Nr.</abbr> 413—417</rs> ist zu lesen: <abbr>S.</abbr> 8, 13. Zeile von unten, statt:<lb/>
+<seg type="insult">vom <rs type="perRef" ana="werk_20542">Tagblad</rs>! Extraausgabää —!</seg><choice><sic>«</sic><corr>»</corr></choice> <seg type="insult"><seg type="i">vom <rs type="perRef" ana="werk_20543">Tagblad</rs>!</seg></seg>« <EM id="em_209" ferrID="ferr_209" href="FK-17-413_n0008.xml"><seg type="insult">»<seg type="i"><rs type="perRef" ana="werk_20544">Weltblad</rs>! Extraausgabää<lb/>
+ —!</seg>«</seg></EM></FCORR>; <FCORR id="fcorr_210" ferrID="ferr_210" href="FK-17-413_n0043.xml"><abbr>S.</abbr> 43, 1. Zeile nach dem Zitat, statt: Wenn <seg type="insult">die Herren</seg>,<lb/>
+die <seg type="insult">die große Zeit</seg> <seg type="i"><EM id="em_210" ferrID="ferr_210" href="FK-17-413_n0043.xml">Wenn <seg type="insult">die Herren</seg> <seg type="insult">die große Zeit</seg></EM></seg></FCORR><seg type="i">;</seg> <FCORR id="fcorr_211" ferrID="ferr_211" href="FK-17-413_n0104.xml"><abbr>S.</abbr> 104, 5. Zeile<lb/>
+von unten, statt: und dem die <seg type="i"><EM id="em_211" ferrID="ferr_211" href="FK-17-413_n0104.xml">und der die</EM></seg>.</FCORR><lb/>
+</p>
+         </div>
+      </body>
+  <back/></text>
+</TEI>

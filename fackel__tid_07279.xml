@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07279.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07278.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07280.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Feudales, in: Fackel Heft 18, Nr. 431, 1916, S. 31-31</title>
+            <title type="iso-date">1916-08-01</title>
+            <title type="id">tid_07279</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">18</title><title type="heft">431</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-18-431_n0031.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/431,031</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Feudales</head>
+            <p ana="pr98459">
+<space/><seg type="symbol" subtype="3dots"/> die Vermählung des <abbr>k. u. k.</abbr> Kämmerers und <rs type="inst">Herrenhausmitgliedes<lb/>
+</rs> <rs type="pers" ana="n_65193" ref="#fk__p_47529">Karl Grafen von <seg type="spc">Abensperg</seg> und <seg type="spc">Traun</seg></rs> mit <rs type="pers" ana="n_65194" ref="#fk__p_47682">Karoline<lb/>
+Gräfin <seg type="spc">Nostitz-Rieneck</seg></rs> statt <seg type="symbol" subtype="4dots"/> Als Trauzeugen fungierten die<lb/>
+Geheimen Räte <rs type="pers" ana="n_65195" ref="#fk__p_52566">Rudolf Graf von <seg type="spc">Abensperg</seg> und <seg type="spc">Traun</seg></rs> und <rs type="pers" ana="n_65196" ref="#fk__p_38345">Anton<lb/>
+Graf <seg type="spc">Ludwigstorff</seg></rs>, Feldmarschalleutnant <rs type="pers" ana="n_65197" ref="#fk__p_44624">Graf Albert <seg type="spc">Nostitz</seg></rs> und<lb/>
+Geheimer Justizrat Regierungsrat <rs type="pers" ana="n_65198" ref="#fk__p_38658"><abbr>Dr.</abbr> Adolf <seg type="spc">Edler </seg><abbr>v.</abbr> <seg type="spc">Bachrach</seg></rs>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_52566">
+               <persName>Abensberg und Traun, Rudolf Otto Graf </persName>
+               <birth>
+                  <date>1872-9-21</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1954-10-27</date>
+                  <place>Wien</place>
+               </death>
+            </person>
+            <person xml:id="fk__p_47682">
+               <persName>Nostitz-Rieneck, Karoline (Caroline) Gräfin</persName>
+               <birth>
+                  <date>1871-01-29</date>
+                  <place>Prag</place>
+               </birth>
+               <death>
+                  <date>1950-01-06</date>
+                  <place>Petronell</place>
+               </death>
+            </person>
+            <person xml:id="fk__p_47529">
+               <persName>Abensberg und Traun, Karl Maria Ferdinand Graf </persName>
+               <birth>
+                  <date>1877-2-11</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1965-9-25</date>
+                  <place>Petronell</place>
+               </death>
+               <occupation>Diplomat</occupation>
+            </person>
+            <person xml:id="fk__p_38345">
+               <persName>Ludwigstorff, Anton Graf</persName>
+               <birth>
+                  <date>1845-1-16</date>
+                  <place>Guntersdorf/Niederösterreich</place>
+               </birth>
+               <death>
+                  <date>1929-2-27</date>
+               </death>
+               <occupation>Offizier</occupation>
+            </person>
+            <person xml:id="fk__p_38658">
+               <persName>Bachrach, Adolf Edler von</persName>
+               <birth>
+                  <date>1853-12-27</date>
+                  <place>Sternberg/Mähren</place>
+               </birth>
+               <death>
+                  <date>1932-4-18</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Rechtsanwalt</occupation>
+               <note type="comment">1., Rosenbursenstr. 8</note>
+               <note type="comment">Stockhammer, mailing list 19. 1. 2008</note>
+               <note type="comment">ZF 1. Tor, 20/16/57</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/3618</idno></person>
+            <person xml:id="fk__p_44624">
+               <persName>Nostitz-Rieneck, Albert Karl Werner Ferdinand Graf</persName>
+               <birth>
+                  <date>1843-04-19</date>
+                  <place>Prag</place>
+               </birth>
+               <death>
+                  <date>1929-02-03</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Feldmarschalleutnant</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_05665.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05664.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05666.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Vision, in: Fackel Heft 13, Nr. 343, 1912, S. 12-12</title>
+            <title type="iso-date">1912-03-01</title>
+            <title type="id">tid_05665</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">13</title><title type="heft">343</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-13-343_n0012.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/343,012</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Vision</head>
+            <p ana="pr74576">
+<space/>»Weitere Gruppen waren <seg type="symbol" subtype="3dots"/> <seg type="insult">zwei <foreign xml:lang="de-loc">Strandgigerlpaare</foreign> in Schwarz<lb/>
+und Weiß</seg> mit der Devise: <foreign xml:lang="de-loc">‚Nur ka Wasser net!‘</foreign>, auf der Rückseite<lb/>
+der auf der Brust getragenen Tafeln: <foreign xml:lang="de-loc">‚Dös mög’n mir net!‘</foreign> (<rs type="pers" ana="n_53504" ref="#fk__p_42079"><abbr>Dr.</abbr> Zwintz</rs><lb/>
+und Landesgerichtsrat <rs type="pers" ana="n_53505" ref="#fk__p_40689"><abbr>Dr.</abbr> Aichinger</rs> samt Frauen.) <seg type="symbol" subtype="3dots"/>«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_40689">
+               <persName>Aichinger, Friedrich</persName>
+               <birth>
+                  <date>1867-12-2</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1933-8-10</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Richter</occupation>
+               <note type="comment">4., Favoritenstr. 17</note>
+               <note type="comment">Landesgerichtsrat, zuletzt LGPräsident</note>
+            </person>
+            <person xml:id="fk__p_42079">
+               <persName>Zwintz, Julius</persName>
+               <birth>
+                  <date>1868-6-10</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1919-12-29</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Arzt</occupation>
+               <note type="comment">6., Linke Wienzeile 162</note>
+               <note type="comment">ZF 02.01.1920, 42F/10/13 (FD)</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

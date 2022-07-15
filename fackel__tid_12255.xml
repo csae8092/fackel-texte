@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_12255.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_12254.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_12256.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">17. November:, in: Fackel Heft 34, Nr. 885, 1932, S. 15-16</title>
+            <title type="iso-date">1932-12-01</title>
+            <title type="id">tid_12255</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">34</title><title type="heft">885</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-34-885_n0015.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/885,015</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>17. November:</head>
+            <p ana="pr178664">
+<space/><date>17. November</date>:<lb/>
+</p>
+            <p ana="pr178665">
+<space/><rs type="pers" ana="n_106026" ref="#fk__p_46919"><seg type="spc">Nestroy</seg></rs>: <rs type="title"><seg type="spc">Der Talisman</seg></rs>.<lb/>
+</p>
+            <p ana="pr178666">
+<space/>Begleitung an den drei Abenden: <rs type="pers" ana="n_106027" ref="#fk__p_43546">Franz Mittler</rs>.<lb/>
+</p>
+            <p ana="pr178667">
+<space/>Die Presse (nicht die der <rs type="inst"><seg type="insult">Firma <rs type="pers" ana="n2_9532" ref="#fk__p_52596">Mosse</rs></seg></rs>) ließ sich hinreißen.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_52596">
+               <persName>Mosse, Rudolf</persName>
+               <birth>
+                  <date>1843-5-8</date>
+                  <place>Graetz/Posen</place>
+               </birth>
+               <death>
+                  <date>1920-9-8</date>
+                  <place>Schenkendorf bei Berlin</place>
+               </death>
+               <occupation>Zeitungsverleger</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/39183</idno></person>
+            <person xml:id="fk__p_46919">
+               <persName>Nestroy, Johann Nepomuk</persName>
+               <birth>
+                  <date>1801-12-7</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1862-5-25</date>
+                  <place>Graz</place>
+               </death>
+               <occupation>Sänger</occupation>
+               <occupation>Schauspieler</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12338</idno></person>
+            <person xml:id="fk__p_43546">
+               <persName>Mittler, Franz</persName>
+               <birth>
+                  <date>1893-4-14</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1970-12-28</date>
+                  <place>München</place>
+               </death>
+               <occupation>Pianist</occupation>
+               <note type="comment">auch Klavierbegleiter von Karl Kraus</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/8955</idno></person>
+            </listPerson></back></text>
+</TEI>

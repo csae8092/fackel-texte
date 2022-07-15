@@ -1,0 +1,43 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_12124.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_12123.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_12125.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ein gelegentlicher Mitarbeiter, in: Fackel Heft 34, Nr. 876, 1932, S. 79-79</title>
+            <title type="iso-date">1932-10-01</title>
+            <title type="id">tid_12124</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">34</title><title type="heft">876</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-34-876_n0079.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/876,079</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ein gelegentlicher Mitarbeiter</head>
+            <p ana="pr176722">
+hatte Gelegenheit, <rs type="pers" ana="n_105274" ref="#fk__p_39929">Chevalier</rs> im Zug zu beobachten:<lb/>
+</p>
+            <p ana="pr176724">
+<space/>— — zum Waschen benützt er <seg type="spc">einen Schwamm</seg>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_39929">
+               <persName>Chevalier, Maurice</persName>
+               <birth>
+                  <date>1888-9-12</date>
+                  <place>Ménilmontant</place>
+               </birth>
+               <death>
+                  <date>1972-1-1</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Sänger</occupation>
+               <occupation>Schauspieler</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/6630</idno></person>
+            </listPerson></back></text>
+</TEI>

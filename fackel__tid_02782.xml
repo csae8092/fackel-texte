@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02782.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02781.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02783.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Herrn Professor Philippovich. (Herrn Prof. Philippovich), in: Fackel Heft 04, Nr. 122, 1902, S. 22-22</title>
+            <title type="iso-date">1902-11-29</title>
+            <title type="id">tid_02782</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">04</title><title type="heft">122</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-04-122_n0022.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/122,022</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Herrn Professor Philippovich. (Herrn Prof. Philippovich)</head>
+            <p ana="pr27295">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i">Herrn Professor <rs type="pers" ana="n_23526" ref="#fk__p_42989">Philippovich</rs>.</seg></seg></seg> Sie waren darüber sehr gereizt,<lb/>
+daß <seg type="insult"><seg type="spc">Ihr Organ</seg></seg>, die ‚<rs type="paper" ana="werk_9654">Zeit</rs>‘, am Tage der <rs type="inst">Landtagswahl</rs> vergessen hatte,<lb/>
+Sie als Candidaten zu empfehlen. Doch sollten Sie dies als <seg type="insult">die erste<lb/>
+Aeußerung von Bescheidenheit der Herren <rs type="pers" ana="n_23527" ref="#fk__p_46524">Singer</rs> und <rs type="pers" ana="n_23528" ref="#fk__p_47448">Kanner</rs></seg> eher begrüßen<lb/>
+ als verurtheilen. <seg type="insult">Das <rs type="paperRef" ana="werk_9655">Blatt</rs></seg> ist so hypnotisiert von den Wirren in<lb/>
+Macedonien, daß es den <seg type="insult">Wiener Wirren</seg> nicht mehr die volle Aufmerksamkeit<lb/>
+ schenken kann.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_47448">
+               <persName>Kanner, Heinrich</persName>
+               <birth>
+                  <date>1864-11-9</date>
+                  <place>Galatz, Rumänien</place>
+               </birth>
+               <death>
+                  <date>1930-2-15</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Publizist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11867</idno></person>
+            <person xml:id="fk__p_42989">
+               <persName>Philippovich-Philippsberg, Eugen Freiherr von</persName>
+               <birth>
+                  <date>1858-3-15</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1917-6-4</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Nationalökonom</occupation>
+               <occupation>Politiker</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_18756</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/22513</idno></person>
+            <person xml:id="fk__p_46524">
+               <persName>Singer, Isidor</persName>
+               <birth>
+                  <date>1857-01-16</date>
+                  <place>Pest</place>
+               </birth>
+               <death>
+                  <date>1927-12-08</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Nationalökonom</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12790</idno></person>
+            </listPerson></back></text>
+</TEI>

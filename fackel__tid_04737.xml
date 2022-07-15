@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_04737.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04736.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04738.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(„Kaiser Wilhelm und der Wiener“), in: Fackel Heft 10, Nr. 264, 1908, S. 44-45</title>
+            <title type="iso-date">1908-11-18</title>
+            <title type="id">tid_04737</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">10</title><title type="heft">264</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-10-264_n0044.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/264,044</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(„Kaiser Wilhelm und der Wiener“)</head>
+            <p ana="pr57207">
+<space/>Das Abenteuer des deutschen Kaisers bringt jene Sommerepisode<lb/>
+ in Erinnerung, die zwar keine politische Sensation war,<lb/>
+aber doch allenthalben peinlich berührte, und über welche unter<lb/>
+der Spitzmarke <seg type="insult">»<rs type="title"><rs type="pers" ana="n2_3659" ref="#fk__p_55493">Kaiser Wilhelm</rs> und der Wiener</rs>«</seg> in <seg type="insult"><rs type="perRef" ana="werk_41269">der dem<lb/>
+Wiener nahestehenden Presse</rs></seg> berichtet wurde. Der Kaiser lernte<lb/>
+auf seiner Sommerreise irrtümlich den <seg type="insult">Wiener</seg> kennen, er hatte<lb/>
+ihn für den Sohn eines Generalkonsuls gehalten und sagte: »Nachdem<lb/>
+ ich dem Herrn schon einmal die Hand geschüttelt habe,<lb/>
+müssen Sie mir ihn auch vorstellen«. Später war der Kaiser ausnahmsweise<lb/>
+ »äußerst gesprächig«. In welcher Sprache er mit dem<lb/>
+<seg type="insult">Wiener</seg> sprach, wissen wir nicht. Die <seg type="insult">Wiener</seg>, die über die ganze<lb/>
+</p>
+            <p ana="pr57207">
+Welt zerstreut sind, sprechen alle Sprachen. Aber wenn man dem<lb/>
+<seg type="insult">Wiener</seg> glauben darf, war es die Sprache des <seg type="insult">Wieners</seg>. Denn der<lb/>
+Kaiser fragte ihn, wie sich <rs type="pers" ana="n_43485" ref="#fk__p_43180">Weingartner</rs> in der <rs type="inst">Hofoper</rs> eingeführt<lb/>
+habe und wie er »sich dort mache«. Sonst war der Bericht so<lb/>
+geschickt abgefaßt, daß er zugleich der <seg type="insult">Individualität des Wieners</seg><lb/>
+und der des Kaisers Rechnung trug. Da der Kaiser nämlich die<lb/>
+Besichtigung seiner Jacht den Passagieren des Vergnügungsdampfers<lb/>
+freigestellt hatte, so machte die ganze Gesellschaft »selbstredend«<lb/>
+von dieser Erlaubnis Gebrauch. Nachdem er aber speziell den<lb/>
+Wunsch geäußert hatte, den <seg type="insult">Wiener</seg> kennen zu lernen, so geschah<lb/>
+dies »selbstredend« sofort. Später dinierte der <seg type="insult">Wiener</seg> an der Seite<lb/>
+des Kaisers. Es war ein großes Glück, wie es noch keinem <seg type="insult">Wiener</seg><lb/>
+passiert ist und in der Erinnerung der <seg type="insult">Wiener Jours</seg> noch lange<lb/>
+fortleben wird. Der <seg type="insult">Wiener</seg> hätte selbstredend beim Diner nicht<lb/>
+zu sprechen gewagt, aber selbst redend half ihm der Kaiser über<lb/>
+die Verlegenheit hinweg.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_43180">
+               <persName>Weingartner-Münzberg, Felix Edler von </persName>
+               <birth>
+                  <date>1863-6-2</date>
+                  <place>Zara, Dalmatien</place>
+               </birth>
+               <death>
+                  <date>1942-5-7</date>
+                  <place>Winterthur</place>
+               </death>
+               <occupation>Dirigent</occupation>
+               <occupation>Komponist</occupation>
+            </person>
+            <person xml:id="fk__p_55493">
+               <persName>Wilhelm II., Kaiser</persName>
+               <birth>
+                  <date>1859-1-27</date>
+                  <place>Berlin</place>
+               </birth>
+               <death>
+                  <date>1941-6-4</date>
+                  <place>Doorn/Niederlande</place>
+               </death>
+               <occupation>Kaiser</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_21338</idno></person>
+            </listPerson></back></text>
+</TEI>

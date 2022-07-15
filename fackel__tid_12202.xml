@@ -1,0 +1,97 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_12202.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_12201.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_12203.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Derselbe, in: Fackel Heft 34, Nr. 876, 1932, S. 131-132</title>
+            <title type="iso-date">1932-10-01</title>
+            <title type="id">tid_12202</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">34</title><title type="heft">876</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-34-876_n0131.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/876,131</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Derselbe</head>
+            <p ana="pr177492">
+kann wieder nicht anders:<lb/>
+</p>
+            <p ana="pr177494">
+<space/><seg type="spc">Eines Abends sagte <rs type="pers" ana="n_105757" ref="#fk__p_46919">Nestroy</rs></seg> zu <rs type="pers" ana="n_105758" ref="#fk__p_55383">Scholz</rs> im Kaffeehaus:<lb/>
+<foreign xml:lang="de-loc">»Spektakel über Spektakel. Mir wird ganz <seg type="spc">entrisch</seg>, weil i <seg type="spc">akrat</seg> für<lb/>
+mein Benefiz <seg type="spc">gach</seg> (?) <seg type="spc">ka banfeste Komödie find’</seg>.«</foreign> Und <rs type="pers" ana="n_105759" ref="#fk__p_55383">Scholz</rs><lb/>
+erwiderte; <foreign xml:lang="de-loc">»<seg type="spc">Dö</seg> halbierte Bühne damals in der ebenen Erd’ hat<lb/>
+g’fall’n?«</foreign> Und <rs type="pers" ana="n_105760" ref="#fk__p_46919">Nestroy</rs> antwortete: <foreign xml:lang="de-loc">»Kurios! G’rad’ hab’ ich denselben<lb/>
+ Gedanken g’habt. Da gibt’s a Stuck von ein Engländer, in dem<lb/>
+sein vier Zimmer nebeneinand und übereinand. <seg type="spc">Was Händ’ und<lb/>
+Füß’ g’habt hat</seg>, is nein g’rennt. Weißt was? Mir vierteln die<lb/>
+Bühne, vier Zimmer mit vier Mariagen <seg type="symbol" subtype="3dots"/>!«</foreign><lb/>
+</p>
+            <p ana="pr177495">
+<space/><seg type="spc">Anders kann ich mir die Entstehung</seg> der Gesangposse<lb/>
+ »<rs type="title">Das Haus der Temperamente</rs>« <seg type="spc">beim besten Willen<lb/>
+nicht vorstellen</seg>.<lb/>
+</p>
+            <p ana="pr177497">
+überhaupt:<lb/>
+</p>
+            <p ana="pr177499">
+<space/><rs type="pers" ana="n_105761" ref="#fk__p_46919">Nestroys</rs> dramatisches Genie <seg type="spc">wuchs aus dem Extempore</seg>.<lb/>
+</p>
+            <p ana="pr177501">
+(So verhielt es sich und <foreign xml:lang="de-loc">akrat</foreign> so hat der Advokatensohn <rs type="pers" ana="n_105762" ref="#fk__p_46919">Nestroy</rs><lb/>
+gesprochen.) Trotzdem:<lb/>
+</p>
+            <p ana="pr177503">
+Für <rs type="pers" ana="n_105763" ref="#fk__p_46919">Nestroy</rs>, den Dichter, gibt es wahrscheinlich doch <seg type="spc">nur eine<lb/>
+Bühne</seg>: <seg type="spc">den Vorlesetisch</seg>.<lb/>
+</p>
+            <p ana="pr177505">
+Das ist richtig, aber solange sich nicht <rs type="pers" ana="n_105764" ref="#fk__p_42845">Reinhold</rs> entschließt —<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46919">
+               <persName>Nestroy, Johann Nepomuk</persName>
+               <birth>
+                  <date>1801-12-7</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1862-5-25</date>
+                  <place>Graz</place>
+               </death>
+               <occupation>Sänger</occupation>
+               <occupation>Schauspieler</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12338</idno></person>
+            <person xml:id="fk__p_42845">
+               <persName>Reinhold, Ernst</persName>
+               <birth>
+                  <date>1886-9-26</date>
+                  <place>Wien</place>
+               </birth>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Rezitator</occupation>
+               <note type="comment">17.1.31 Nachm. im Burgth. "King Lear", 20.6.31 ebd. "King Richard II."</note>
+               <note type="comment">19., Zehenthofgasse 11</note>
+            </person>
+            <person xml:id="fk__p_55383">
+               <persName>Scholz, Wenzel</persName>
+               <birth>
+                  <date>1787-03-28</date>
+                  <place>Brixen/Südtir.</place>
+               </birth>
+               <death>
+                  <date>1857-10-05</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02159.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02158.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02160.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Secessionist. (Zum Artikel über Herrn v. Scala und die Secession), in: Fackel Heft 03, Nr. 090, 1902, S. 32-32</title>
+            <title type="iso-date">1902-01-4</title>
+            <title type="id">tid_02159</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">03</title><title type="heft">090</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-03-090_n0032.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/090,032</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Secessionist. (Zum Artikel über Herrn v. Scala und die Secession)</head>
+            <p ana="pr21001">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n2_1396" ref="#fk__p_53148"><rs type="inst">Secessionist</rs></rs>.</seg></seg> Wiewohl’s erst nicht der ausdrücklichen Feststellung<lb/>
+ bedarf, erkläre ich auf Ihre Anfrage, dass der in dem neulich<lb/>
+veröffentlichten Aufsatz über Herrn <rs type="pers" ana="n_18156" ref="#fk__p_37703"><abbr>v.</abbr> Scala</rs> und die <rs type="inst">Secession</rs> mit Anerkennung<lb/>
+ erwähnte Architekt <rs type="pers" ana="n_18157" ref="#fk__p_37830">Adolf <seg type="spc">Loos</seg></rs> der Autorschaft des Artikels<lb/>
+<seg type="spc">ferne steht</seg>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_37830">
+               <persName>Loos, Adolf</persName>
+               <birth>
+                  <date>1870-12-10</date>
+                  <place>Brünn</place>
+               </birth>
+               <death>
+                  <date>1933-8-23</date>
+                  <place>Kalksburg, Niederösterreich</place>
+               </death>
+               <occupation>Architekt</occupation>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Liste "Theater der Dichtung"</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/3612</idno></person>
+            <person xml:id="fk__p_37703">
+               <persName>Scala, Arthur von</persName>
+               <birth>
+                  <date>1845-12-14</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1909-09-30</date>
+                  <place>Lana/Meran</place>
+               </death>
+               <occupation>Kunsthistoriker</occupation>
+               <occupation>Museumsfachmann</occupation>
+               <occupation>Nationalökonom</occupation>
+            </person>
+            <person xml:id="fk__p_53148">
+               <persName>Secession</persName>
+            </person>
+            </listPerson></back></text>
+</TEI>

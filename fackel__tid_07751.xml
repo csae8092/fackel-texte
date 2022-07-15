@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07751.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07750.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07752.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Aus großer Zeit, in: Fackel Heft 19, Nr. 454, 1234, S. 19-19</title>
+            <title type="iso-date">1234-01-01</title>
+            <title type="id">tid_07751</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">19</title><title type="heft">454</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-19-454_n0019.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/454,019</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Aus großer Zeit</head>
+            <p ana="pr103865">
+<space/><seg type="sidehead">(Personalnachricht.)</seg> Die Gemahlin des <rs type="inst">Hofschauspielers</rs> und<lb/>
+Regisseurs <rs type="pers" ana="n_66868" ref="#fk__p_51003">Otto Tressler</rs>, <rs type="pers" ana="n_66869" ref="#fk__p_42498">Eleonore geborne Keil von Bündten</rs>, wurde<lb/>
+gestern von einem gesunden kräftigen Knaben (<rs type="pers" ana="n_66870" ref="#fk__p_45526">Hans-Jürg</rs>) entbunden.<lb/>
+Er ist der zweite Sohn der im Jahre <date>1914</date> geschlossenen Ehe.<lb/>
+Der erste, <rs type="pers" ana="n_66871" ref="#fk__p_55693">Wolf-Dieter</rs>, wurde am <date>13. Juli 1915</date> geboren.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_42498">
+               <persName>Keil-Bündten, Eleonore von</persName>
+               <birth>
+                  <date>1892-2-25</date>
+                  <place>Graz</place>
+               </birth>
+               <death>
+                  <date>1952-12-11</date>
+                  <place>Salzburg</place>
+               </death>
+            </person>
+            <person xml:id="fk__p_55693">
+               <persName>Tressler, Wolf-Dieter</persName>
+               <birth>
+                  <date>1915-7-13</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1992-8-10</date>
+                  <place>Pötschen/Bad Goisern</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <note type="comment">19., Peter Jordan-Str. 68</note>
+               <note type="comment"/>
+            </person>
+            <person xml:id="fk__p_45526">
+               <persName>Tressler, Johann Georg (Hans-Jürg)</persName>
+               <birth>
+                  <date>1917-1-25</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>2007-1-6</date>
+                  <place>Belgern, Sachsen</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <occupation>Regisseur</occupation>
+            </person>
+            <person xml:id="fk__p_51003">
+               <persName>Tressler, Otto</persName>
+               <birth>
+                  <date>1871-4-13</date>
+                  <place>Stuttgart</place>
+               </birth>
+               <death>
+                  <date>1965-4-27</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <occupation>Bildhauer</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12971</idno></person>
+            </listPerson></back></text>
+</TEI>

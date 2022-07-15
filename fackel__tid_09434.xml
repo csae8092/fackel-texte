@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_09434.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09433.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09435.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Mein Ostergruß an das »Neue Wiener Journal«, in: Fackel Heft 25, Nr. 622, 1923, S. 33-33</title>
+            <title type="iso-date">1923-06-01</title>
+            <title type="id">tid_09434</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">25</title><title type="heft">622</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-25-622_n0033.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/622,033</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Mein Ostergruß an das »Neue Wiener Journal«</head>
+            <p ana="pr126028">
+soll der <rs type="event">Wiener Messe</rs> gelten. Beginnt, grad auf der Rückseite,<lb/>
+<seg type="insult">Herr <rs type="pers" ana="n_77609" ref="#fk__p_40583">Zimmermann</rs></seg>, der <seg type="insult">die hiesige Plantage</seg> zu beaufsichtigen<lb/>
+hat, also <seg type="insult">einer</seg>, der noch über <seg type="insult">alle unsere Würdenträger</seg> gesetzt<lb/>
+ist. Daß ich als österreichischer Staatsbürger geboren bin, kann<lb/>
+ich nicht mehr ändern. Wenn man nur wüßte, wie man es<lb/>
+ohne Zeitverlust und Formalitäten anstellte, als solcher nicht<lb/>
+zu sterben. Vielleicht meldet sich ein Staat mit hübscher Landschaft<lb/>
+ und einer Sprache, die ich nicht spreche. Auf Hochquellwasser<lb/>
+ wird verzichtet.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_40583">
+               <persName>Zimmermann, Alfred Rudolf</persName>
+               <birth>
+                  <date>1869-1-19</date>
+                  <place>Amsterdam</place>
+               </birth>
+               <death>
+                  <date>1939-7-2</date>
+                  <place>Velp</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <occupation>Jurist</occupation>
+               <note type="comment">Bürgermeister von Rotterdam</note>
+               <note type="comment">1923-26 Generalkommissar des Völkerbunds in Österreich</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/27504</idno></person>
+            </listPerson></back></text>
+</TEI>

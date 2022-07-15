@@ -1,0 +1,44 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01461.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01460.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01462.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Kaiserlicher Rath. (Kaiserliche Räthe), in: Fackel Heft 02, Nr. 061, 1900, S. 26-26</title>
+            <title type="iso-date">1900-12-01</title>
+            <title type="id">tid_01461</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">061</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-061_n0026.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/061,026</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Kaiserlicher Rath. (Kaiserliche Räthe)</head>
+            <p ana="pr13830">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="n_11725" key="#fk__p_47420">Kaiserlicher Rath</rs>.</seg></seg></seg> Seien Sie unbesorgt! Mit dem Niederlegen<lb/>
+des Titels hat’s noch Zeit. <seg type="insult">Herr <rs type="pers" ana="n_11726" ref="#fk__p_41120"><seg type="spc">Weiß </seg><abbr>v.</abbr> <seg type="spc">Wellenstein</seg></rs></seg> soll zwar<lb/>
+kürzlich erzählt haben, ihm werde für die Angriffe in der ‚<rs type="self" ana="werk_4518">Fackel</rs>‘<lb/>
+<seg type="insult">eine glänzende Genugthuung</seg> bereitet werden, da man höherenorts die<lb/>
+Absicht habe, ihn zum Laienrichter und kaiserlichen Rath zu ernennen.<lb/>
+Aber ich glaube, dass man höherenorts gerade <seg type="spc">die</seg> Absicht <seg type="spc">nicht</seg> hat.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_41120">
+               <persName>Weiß-Wellenstein, Gustav Ritter von</persName>
+               <birth>
+                  <date>1858-7-29</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1939-2-8</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Industrieller</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

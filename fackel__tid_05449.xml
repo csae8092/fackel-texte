@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_05449.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05448.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05450.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Dem Herrn Shaw, in: Fackel Heft 13, Nr. 331, 1911, S. 42-42</title>
+            <title type="iso-date">1911-11-30</title>
+            <title type="id">tid_05449</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">13</title><title type="heft">331</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-13-331_n0042.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/331,042</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Dem Herrn Shaw</head>
+            <p ana="pr71332">
+wird man — wenn außer ihm nicht alles trügt — bald dahinter<lb/>
+gekommen sein. Er ist nicht mehr nur <seg type="insult">der Geist des glücklichen<lb/>
+englischen Ungeistes</seg>, sondern drauf und dran, <seg type="insult">eine kontinentale<lb/>
+Landplage</seg> zu werden. Wenn er erledigt ist und anatomiert wird,<lb/>
+dürfte man <seg type="insult">einen Abszeß namens <rs type="pers" ana="n_51802" ref="#fk__p_54249">Trebitsch</rs></seg> finden. Kürzlich hat er<lb/>
+sich mit einer Beschwerde über die Wiener Zensur direkt an <seg type="insult">die<lb/>
+<rs type="paper" ana="werk_18382">Neue Freie</rs></seg> gewandt. In zwanzig Zeilen ward wohl nie zuvor mehr<lb/>
+<seg type="insult">überspitzte Humorlosigkeit</seg> geleistet. Fesselnd an der Sache war<lb/>
+nur, ob auch dieser Brief von <seg type="insult">Herrn <rs type="pers" ana="n_51803" ref="#fk__p_54249">Trebitsch</rs></seg> übersetzt wurde; es<lb/>
+kam nämlich der Satz vor: »Unter allen Umständen kann ich die<lb/>
+österreichische Zensur versichern <seg type="symbol" subtype="2dots"/>« Man kann aber getrost<lb/>
+annehmen, daß es nicht der Fall ist, sondern daß <seg type="insult">Herr <rs type="pers" ana="n_51804" ref="#fk__p_39112">Shaw</rs></seg> in<lb/>
+all der Zeit, seit der ihn <seg type="insult">Herr <rs type="pers" ana="n_51805" ref="#fk__p_54249">Trebitsch</rs></seg> übersetzt, auch nicht<lb/>
+faul war und von ihm deutsch gelernt hat.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_39112">
+               <persName>Shaw, George Bernard</persName>
+               <birth>
+                  <date>1856-7-26</date>
+                  <place>Dublin</place>
+               </birth>
+               <death>
+                  <date>1950-11-2</date>
+                  <place>Ayot St. Lawrence</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">226/21: Tanner, Katechismus des Umstürzlers, zu "Mensch und Übermensch"</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2381</idno></person>
+            <person xml:id="fk__p_54249">
+               <persName>Trebitsch, Siegfried</persName>
+               <birth>
+                  <date>1868-12-22</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1956-6-3</date>
+                  <place>Zürich</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Übersetzer</occupation>
+               <note type="comment">Eltern: Leopold Trebitsch (gest. 12.12.1906) und Malvine, geb. Singer (gest. 8.4.1918)</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_20796</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12968</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_12364.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_12363.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_12365.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Unterhaltungskonzert, in: Fackel Heft 37, Nr. 917, 1936, S. 48-48</title>
+            <title type="iso-date">1936-02-01</title>
+            <title type="id">tid_12364</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">37</title><title type="heft">917</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-37-917_n0048.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/917,048</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Unterhaltungskonzert</head>
+            <p ana="pr183624">
+bietet immer Abwechslung:<lb/>
+</p>
+            <p ana="pr183626">
+<space/>— <rs type="pers" ana="n_108931" ref="#fk__p_46664">Jacques Offenbach</rs>: Ouvertüre zur Operette »<rs type="title">Die Prinzessin<lb/>
+von Trapezunt</rs>« — — <rs type="pers" ana="n_108932" ref="#fk__p_52432">Roman Domanig-Roll</rs>; <rs type="title"><foreign xml:lang="de-loc">Alt wer’n ma sein, aber<lb/>
+drahn wer’n ma no!</foreign></rs><lb/>
+</p>
+            <p ana="pr183628">
+Übrigens wird dort ja auch gedreht, wenngleich nur der Teller.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46664">
+               <persName>Offenbach, Jacques</persName>
+               <birth>
+                  <date>1819-06-21</date>
+                  <place>Köln</place>
+               </birth>
+               <death>
+                  <date>1880-10-05</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Komponist</occupation>
+               <note type="comment">Ögg teilt Fortunato F 876/34 Shakespeare zu</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/9131</idno></person>
+            <person xml:id="fk__p_52432">
+               <persName>Domanig-Roll, Roman Cornelius</persName>
+               <birth>
+                  <date>1882-05-09</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1938-03-16</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

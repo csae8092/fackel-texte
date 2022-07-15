@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01869.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01868.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01870.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Zeitgenosse. (Eine beruhigende Aufklärung), in: Fackel Heft 03, Nr. 078, 1901, S. 26-27</title>
+            <title type="iso-date">1901-05-01</title>
+            <title type="id">tid_01869</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">03</title><title type="heft">078</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-03-078_n0026.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/078,026</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Zeitgenosse. (Eine beruhigende Aufklärung)</head>
+            <p ana="pr18309">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="n_15432" ref="#fk__p_55841">Zeitgenosse</rs>.</seg></seg></seg> Es war nur blinder Lärm. Die Frau <rs type="pers" ana="n_15433" ref="#fk__p_40290"><abbr>v.</abbr> Gutmann</rs>,<lb/>
+die unter <seg type="insult">den Patronessen des clericalen »<rs type="event">Zuckerlfestes</rs>«</seg> aufgezählt<lb/>
+war, steht zu <seg type="insult">der <seg type="spc">bekannten</seg> Familie</seg> in keinerlei verwandtschaftlichem<lb/>
+</p>
+            <p ana="pr18309">
+ Verhältnisse. <seg type="insult">Diese beruhigende Aufklärung</seg> ist aber natürlich<lb/>
+weder von der Familie <rs type="pers" ana="n_15434" ref="#fk__p_40290">Gutmann</rs> noch seltsamerweise von den adeligen<lb/>
+Patronessen ertheilt worden, sondern von <seg type="insult">dem Rabbi <rs type="pers" ana="n_15435" ref="#fk__p_47053">Bloch</rs></seg>, der auf<lb/>
+<seg type="insult">der <seg type="spc">bekannten</seg> Familie <rs type="pers" ana="n_15436" ref="#fk__p_40290">Gutmann</rs></seg> keinen Makel duldet, in der<lb/>
+‚<rs type="magazine" ana="werk_5872">Oesterreichischen Wochenschrift</rs>‘, dem <seg type="insult">»Centralorgan für die gesammten<lb/>
+ Interessen des Judenthums«</seg>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_47053">
+               <persName>Bloch, Joseph Samuel</persName>
+               <birth>
+                  <date>1850-11-20</date>
+                  <place>Buckla/Galizien</place>
+               </birth>
+               <death>
+                  <date>1923-10-1</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Rabbiner</occupation>
+            </person>
+            <person xml:id="fk__p_55841">
+               <persName>Zeitgenosse</persName>
+            </person>
+            <person xml:id="fk__p_40290">
+               <persName>Gutmann, David Ritter von</persName>
+               <birth>
+                  <date>1834-12-2</date>
+                  <place>Leipnik, Mähren</place>
+               </birth>
+               <death>
+                  <date>1912-5-14</date>
+                  <place>Baden bei Wien</place>
+               </death>
+               <occupation>Industrieller</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

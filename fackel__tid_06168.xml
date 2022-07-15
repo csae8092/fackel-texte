@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06168.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06167.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06169.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Schnitzler ist kühn, in: Fackel Heft 15, Nr. 372, 1913, S. 13-13</title>
+            <title type="iso-date">1913-04-01</title>
+            <title type="id">tid_06168</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">15</title><title type="heft">372</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-15-372_n0013.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/372,013</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Schnitzler ist kühn</head>
+            <p ana="pr83291">
+und die <seg ana="Arbeiter-Zeitung"/> beweist es:<lb/>
+</p>
+            <p ana="pr83293">
+<space/>Er kann nichts dafür, daß die Menschen und die Zustände so<lb/>
+sind. Und zu <seg type="spc">besonderem Ruhme</seg> muß ihm angerechnet werden,<lb/>
+daß er so nebenher, aber <seg type="spc">recht deutlich</seg> auch an Zustände rührt,<lb/>
+die für einen Schriftsteller <seg type="spc">sehr heikel</seg> sind. Er kann es sich erlauben,<lb/>
+an ihn traut sich niemand heran, er braucht auch nicht zu fürchten,<lb/>
+totgeschwiegen zu werden. Einem Anfänger möchte es übel bekommen,<lb/>
+wenn er <seg type="spc">so beißend</seg> über gewisse Wiener Zeitungen reden möchte,<lb/>
+wie es <rs type="pers" ana="n_58141" ref="#fk__p_38500">Schnitzler</rs> im »<rs type="title"><rs type="pers">Bernhardi</rs></rs>« getan hat. <seg type="insult">Der <rs type="pers">Schmock</rs> <rs type="pers">Kulka</rs></seg> vertritt<lb/>
+im Stück nur eine Zeitung, er verhöhnt aber in Wirklichkeit <seg type="spc">gleich<lb/>
+zwei</seg> Wiener Tagesblätter. Ich brauche sie nicht zu nennen, ich brauche<lb/>
+bloß zwei Sätze zu zitieren, die <rs type="pers">Kulka</rs> zu <rs type="pers">Bernhardi</rs> sagt: »Mein Chef<lb/>
+würde sich eine besondere Ehre machen, Ihnen die Spalten unseres<lb/>
+<rs type="perRef" ana="werk_19358">Blattes</rs> zur Verfügung zu stellen!« und: »Es ist Ihnen gewiß nicht<lb/>
+unbekannt, daß unser <rs type="perRef" ana="werk_19359">Blatt</rs> <seg type="symbol" subtype="3dotsEditor"/> sich neuerdings genötigt sah, gegen<lb/>
+gewisse überraschend fortschrittsfeindliche, ja geradezu reaktionäre<lb/>
+Maßnahmen des Ministers in energischer Weise Front zu machen,<lb/>
+wobei stets jene maßvolle Form gewahrt wurde, die uns seit jeher als<lb/>
+die Vorbedingung eines gedeihlichen Wirkens auch auf politischem Gebiet<lb/>
+erschienen ist.« <rs type="pers" ana="n_58144" ref="#fk__p_42701"><AUCTOR><abbr>E.</abbr> Pernerstorfer</AUCTOR></rs>.<lb/>
+</p>
+            <p ana="pr83295">
+<space/>Nun ja, da muß sogar ich. <seg type="insult">Besonders die Kühnheit<lb/>
+gegen das eine <rs type="perRef" ana="werk_19360">Blatt</rs>!</seg> Und besonders, wenn der <seg type="insult">Kämpfer</seg> die Ehre,<lb/>
+die sich der Chefredakteur macht: ihm die Spalten seines <rs type="perRef" ana="werk_19361">Blattes</rs> zur<lb/>
+Verfügung zu stellen, öfter selbst sich zur Ehre macht. Er braucht<lb/>
+nicht zu fürchten, totgeschwiegen zu werden, er arbeitet gleich<lb/>
+selber mit. Und der <seg type="insult">Kritiker</seg> braucht die Blätter nicht zu nennen:<lb/>
+der <seg type="insult">Kämpfer</seg> hat sie auch nicht genannt.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_38500">
+               <persName>Schnitzler, Arthur</persName>
+               <birth>
+                  <date>1862-5-15</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1931-10-21</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Arzt</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2121</idno></person>
+            <person xml:id="fk__p_42701">
+               <persName>Pernerstorfer, Engelbert</persName>
+               <birth>
+                  <date>1850-4-27</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1918-1-6</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Politiker</occupation>
+               <note type="comment">Red. der Arbeiter-Zeitung</note>
+               <note type="comment">Abgeordneter</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12408</idno></person>
+            </listPerson></back></text>
+</TEI>

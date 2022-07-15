@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_10887.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10886.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10888.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Denn er war unser, in: Fackel Heft 29, Nr. 759, 1927, S. 6-7</title>
+            <title type="iso-date">1927-06-01</title>
+            <title type="id">tid_10887</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">29</title><title type="heft">759</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-29-759_n0006.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/759,006</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Denn er war unser</head>
+            <p ana="pr151954">
+wiewohl ich nach all dem, nach <seg type="insult">der Sensation des abgehackten<lb/>
+Beines</seg>, die dem <seg type="insult">Wiener Gemüt</seg> doch weit näher gegangen ist,<lb/>
+und trotz dem in <seg type="insult">tausend Kramladen und Preßbutiken</seg> ausgestellten<lb/>
+ Antlitz <rs type="pers" ana="n_90775" ref="#fk__p_49349">Beethovens</rs> mich nicht zu täuschen glaube,<lb/>
+wenn ich <seg type="insult">die Züge unserer Kultur</seg> eher in diesem erkenne:<lb/>
+</p>
+            <p ana="pr151956">
+<B>Mein Gerstl!</B><lb/>
+</p>
+            <p ana="pr151957">
+<BL>Herr</BL> <rs type="pers" ana="n_90777" ref="#fk__p_60359">GERSTL</rs>, <BL>trage ich wieder zu<lb/>
+Ihnen, weil ich zufrieden war</BL><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_60359">
+               <persName>Gerstl, Julius?</persName>
+               <birth>
+                  <date>1865-3-1</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1933-4-16</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Kaufmann</occupation>
+               <note type="comment">Komm.Rat, Konsul der Vereinigten Staaten von Brasilien; 7., Mariahilferstr. 74B</note>
+            </person>
+            <person xml:id="fk__p_49349">
+               <persName>Beethoven, Ludwig van</persName>
+               <birth>
+                  <date>1770-12-17</date>
+                  <place>Bonn</place>
+               </birth>
+               <death>
+                  <date>1827-3-26</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Komponist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10866</idno></person>
+            </listPerson></back></text>
+</TEI>

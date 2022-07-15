@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_11053.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11052.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11054.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Hagen, Aula des Gymnasiums, 19. Januar, 8 Uhr:, in: Fackel Heft 31, Nr. 806, 1929, S. 11-11</title>
+            <title type="iso-date">1929-05-01</title>
+            <title type="id">tid_11053</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">31</title><title type="heft">806</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-31-806_n0011.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/806,011</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Hagen, Aula des Gymnasiums, 19. Januar, 8 Uhr:</head>
+            <p ana="pr159010">
+<space/><seg type="spc">Hagen</seg>, Aula des <rs type="inst">Gymnasiums</rs>, <date>19. Januar</date>, 8 Uhr:<lb/>
+</p>
+            <p ana="pr159011">
+<space/>(Veranstaltung der <rs type="inst">Stadtbücherei</rs>)<lb/>
+</p>
+            <p ana="pr159012">
+<space/>I. <rs type="title"><rs type="pers"><seg type="spc">König Lear</seg></rs></rs> 1. und 2. Akt.<lb/>
+</p>
+            <p ana="pr159013">
+<space/>II. <rs type="title">Zum ewigen Frieden</rs> / <rs type="title">Der Bauer, der Hund und der Soldat</rs> /<lb/>
+<rs type="title">Der Reim</rs> / <rs type="title">Das Kind</rs> / <rs type="title">Schnellzug</rs> / Epigramme: <rs type="title"><seg type="insult"><rs type="pers" ana="n2_8481" ref="#fk__p_46960">Goethe</rs> und <rs type="pers" ana="n2_8482" ref="#fk__p_46353">Hofmannsthal</rs></seg></rs>;<lb/>
+<rs type="title"><seg type="insult">Im Zeichen des Kreuzes</seg></rs>; <rs type="title">Zum Geburtstag der Republik</rs> / <rs type="title">Definitionen</rs>. —<lb/>
+<rs type="title">Der kleine <rs type="pers" ana="n2_8483" ref="#fk__p_57616">Brockhaus</rs></rs>. — <rs type="title">Die Raben</rs>. — <rs type="title"><seg type="insult">Reklamefahrten zur Hölle</seg></rs>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46960">
+               <persName>Goethe, Johann Wolfgang von</persName>
+               <birth>
+                  <date>1749-8-28</date>
+                  <place>Frankfurt am Main</place>
+               </birth>
+               <death>
+                  <date>1832-3-22</date>
+                  <place>Weimar</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">890/142f.</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11461</idno></person>
+            <person xml:id="fk__p_46353">
+               <persName>Hofmannsthal, Hugo Edler von</persName>
+               <birth>
+                  <date>1874-2-1</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1929-7-15</date>
+                  <place>Rodaun bei Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16293</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11740</idno></person>
+            <person xml:id="fk__p_57616">
+               <persName>Brockhaus, F. A. (Verlag)</persName>
+               <note type="comment">in Leipzig</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

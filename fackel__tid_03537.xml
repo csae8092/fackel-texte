@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03537.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03536.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03538.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Diebsanzeiger, in: Fackel Heft 05, Nr. 158, 1904, S. 16-17</title>
+            <title type="iso-date">1904-03-30</title>
+            <title type="id">tid_03537</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">05</title><title type="heft">158</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-05-158_n0016.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/158,016</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Diebsanzeiger</head>
+            <p ana="pr35200">
+<space/>Das ‚<rs type="paper" ana="werk_12978">Neue Wiener Journal</rs>‘ vom <date>27. März</date> bringt unter der<lb/>
+Rubrik »Pariser Leben. Von unserem Korrespondenten«, natürlich<lb/>
+ohne Quellenangabe, die in <foreign xml:lang="fr">‚<rs type="" ana="werk_12979">le Journal</rs>‘</foreign> vom <date>23. März</date> von <rs type="pers" ana="n_30379" ref="#fk__p_50160">Michel<lb/>
+Provins</rs> veröffentlichte Novellette: <rs type="title"><foreign xml:lang="fr">»le troisième sexe«</foreign></rs>. Das <seg type="insult">Plagiat</seg><lb/>
+dürfte, wie mir ein mit Pariser journalistischen Kreisen in Verbindung<lb/>
+ stehender Leser mitteilt, Anlaß zur Klage gegen <seg type="insult">das <rs type="paperRef" ana="werk_12980">unverschämte<lb/>
+ Diebsblatt</rs></seg> geben. Unter der Bezeichnung <seg type="insult"><foreign xml:lang="fr">»<rs type="title"><seg type="spc">Les parasites<lb/>
+ du journalisme</seg></rs>«</foreign></seg> sei in Paris einmal das <seg type="insult"><rs type="paperRef" ana="werk_12981"><rs type="pers" ana="n_30380" ref="#fk__p_46698">Lippowitzblatt</rs></rs></seg><lb/>
+als <seg type="insult"><foreign xml:lang="fr">»<seg type="spc">le refuge des cambrioleurs de la presse</seg>«</foreign></seg> an den<lb/>
+Pranger gestellt worden. — <seg type="insult">Wahrlich, ein internationaler Dieb!</seg> Die<lb/>
+</p>
+            <p ana="pr35200">
+Erlassung eines Steckbriefs empfiehlt sich nicht, da ihn das ‚<rs type="paper" ana="werk_12982">Neue<lb/>
+Wiener Journal</rs>‘ sicher ohne Quellenangabe nachdrucken würde.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_50160">
+               <persName>Provins, Michel</persName>
+               <birth>
+                  <date>1861-5-22</date>
+                  <place>Aube/Nogent-sur-Seine</place>
+               </birth>
+               <death>
+                  <date>1928</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/22901</idno></person>
+            <person xml:id="fk__p_46698">
+               <persName>Lippowitz, Jakob (Siegmund)</persName>
+               <birth>
+                  <date>1865-10-9</date>
+                  <place>Leipzig</place>
+               </birth>
+               <death>
+                  <date>1934-7-4</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17583</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/4054</idno></person>
+            </listPerson></back></text>
+</TEI>

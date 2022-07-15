@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_09769.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09768.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09770.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Saal des Verbandsheimes Mariahilf, 29. Januar, 7 Uhr:, in: Fackel Heft 26, Nr. 649, 1924, S. 73-74</title>
+            <title type="iso-date">1924-06-01</title>
+            <title type="id">tid_09769</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">26</title><title type="heft">649</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-26-649_n0073.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/649,073</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Saal des Verbandsheimes Mariahilf, 29. Januar, 7 Uhr:</head>
+            <p ana="pr132458">
+<space/>Saal des <rs type="inst">Verbandsheimes Mariahilf</rs>, <date>29. Januar</date>, 7 Uhr:<lb/>
+</p>
+            <p ana="pr132459">
+<space/>(Veranstaltung der <rs type="inst">Kunststelle der Deutschösterreichischen Sozialdemokratie<lb/>
+</rs>.)<lb/>
+</p>
+            <p ana="pr132460">
+<space/><rs type="pers" ana="n_80956" ref="#fk__p_44354"><seg type="spc">Gerhart Hauptmann</seg></rs>: <rs type="title"><seg type="spc">Die Weber</seg></rs>.<lb/>
+</p>
+            <p ana="pr132461">
+<space/>Der volle Ertrag (<abbr>inkl.</abbr> Programmerlös): K 4,320.600 für die<lb/>
+»<rs type="inst">Societas</rs>« und den <rs type="inst">Republikanischen Schutzbund</rs>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_44354">
+               <persName>Hauptmann, Gerhart</persName>
+               <birth>
+                  <date>1862-11-15</date>
+                  <place>Salzbrunn, Schlesien</place>
+               </birth>
+               <death>
+                  <date>1946-6-6</date>
+                  <place>Agnetendorf</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Ögg teilt die indirekte Stelle 521/64 zu, irrtümlich</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11617</idno></person>
+            </listPerson></back></text>
+</TEI>

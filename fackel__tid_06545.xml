@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06545.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06544.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06546.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Dresden, im kleinen Saal des Künstlerhauses, 25. November:, in: Fackel Heft 15, Nr. 389, 1913, S. 21-21</title>
+            <title type="iso-date">1913-12-01</title>
+            <title type="id">tid_06545</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">15</title><title type="heft">389</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-15-389_n0021.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/389,021</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Dresden, im kleinen Saal des Künstlerhauses, 25. November:</head>
+            <p ana="pr88444">
+<space/>Dresden, im <rs type="inst">kleinen Saal des Künstlerhauses</rs>, <date>25. November</date>:<lb/>
+</p>
+            <p ana="pr88446">
+<space/>I. <rs type="title">Der Traum ein <seg type="insult">Wiener Leben</seg></rs> / <rs type="title"><seg type="insult">Die Welt der Plakate</seg></rs><lb/>
+II. <rs type="title">Ostende, erster Morgen</rs>; <rs type="title"><seg type="insult">Die Welt der Woche</seg></rs>; <rs type="title">Der kleine <rs type="pers" ana="n2_5351" ref="#fk__p_57616">Brockhaus</rs></rs>;<lb/>
+<rs type="title">Wir haben es besser</rs>; <rs type="title"><seg type="insult">Schlichte Worte</seg></rs>; <rs type="title">Wenn <seg type="insult">Herr <rs type="pers" ana="n2_5352" ref="#fk__p_49994">Harden</rs></seg> glaubt</rs>; <rs type="title"><seg type="insult">Die<lb/>
+Sprache der Konzertagentur</seg></rs>; <rs type="title"><seg type="insult">Den im Grunewald</seg></rs>; <rs type="title">Der Deutlichkeit<lb/>
+halber</rs>; <rs type="title"><foreign xml:lang="de-loc">Was ham S’ gsagt</foreign></rs>; <rs type="title"><seg type="insult">Von den Dummköpfen</seg></rs>; <rs type="title">Gefährlich</rs>; <rs type="title"><seg type="insult">Ein<lb/>
+Satz</seg></rs>; <rs type="title">Pfleget den <seg type="insult">Fremdenverkehr</seg></rs>; <rs type="title">Nicht auszudenken</rs> / <rs type="title"><seg type="insult">Der Neger</seg></rs>. —<lb/>
+<rs type="title"><seg type="insult">Tod und Tango</seg></rs>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_57616">
+               <persName>Brockhaus, F. A. (Verlag)</persName>
+               <note type="comment">in Leipzig</note>
+            </person>
+            <person xml:id="fk__p_49994">
+               <persName>Harden, Maximilian</persName>
+               <birth>
+                  <date>1861-10-20</date>
+                  <place>Berlin</place>
+               </birth>
+               <death>
+                  <date>1927-10-30</date>
+                  <place>Montana-Vermala, Schweiz</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Publizist</occupation>
+               <note type="comment">166/18 Johannes</note>
+               <note type="comment">Hrsg. der "Zukunft"</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11581</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07819.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07818.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07820.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Die kopfschüttelnden Soldaten, in: Fackel Heft 19, Nr. 457, 1234, S. 20-20</title>
+            <title type="iso-date">1234-01-01</title>
+            <title type="id">tid_07819</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">19</title><title type="heft">457</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-19-457_n0020.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/457,020</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Die kopfschüttelnden Soldaten</head>
+            <p ana="pr104703">
+<space/>»In der ‚<rs type="magazine" ana="werk_21120">Münchener <abbr>Med.</abbr> Wochenschrift</rs>‘ publiziert <rs type="pers" ana="n_67092" ref="#fk__p_40673"><abbr>Dr.</abbr> <abbr>A.</abbr> Schanz</rs><lb/>
+(Dresden) ganz neue Ansichten über das Wesen der verschiedenen<lb/>
+Schüttelneurosen <seg type="symbol" subtype="4dots"/>: <seg type="symbol" subtype="3dots"/> Ich habe keinen Schüttler untersucht,<lb/>
+bei dem ich nicht an der Wirbelsäule den typischen Befund der<lb/>
+statischen Insuffizienzerkrankung erhalten hätte <seg type="symbol" subtype="4dots"/> Eine Krankenschwester<lb/>
+, Diakonissin, suchte meine Behandlung, weil sie mit dem<lb/>
+Kopf ebenso schüttelte wie <seg type="spc">unsere kopfschüttelnden<lb/>
+Soldaten</seg> und weil sie erfahren hatte, daß ich dieses Schütteln<lb/>
+heile <seg type="symbol" subtype="4dots"/>«<lb/>
+</p>
+            <p ana="pr104705">
+<space/>Immer, wenn ich solch einen Armen auf der Straße<lb/>
+sehe, denke ich mir: Nein, das kann ja nicht von der Technik<lb/>
+kommen, das ist keine Krankheit; das ist ein Staunen, der Ärmste<lb/>
+hat recht.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_40673">
+               <persName>Schanz, Alfred</persName>
+               <birth>
+                  <date>1868-11-22</date>
+                  <place>Ölsnitz</place>
+               </birth>
+               <death>
+                  <date>1931-11-17</date>
+               </death>
+               <occupation>Orthopäde</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

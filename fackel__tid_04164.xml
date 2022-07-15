@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_04164.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04163.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04165.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Sammler. (Aus meiner Sammlung), in: Fackel Heft 08, Nr. 201, 1906, S. 25-26</title>
+            <title type="iso-date">1906-04-19</title>
+            <title type="id">tid_04164</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">08</title><title type="heft">201</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-08-201_n0025.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/201,025</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Sammler. (Aus meiner Sammlung)</head>
+            <p ana="pr43857">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="name_202868" ref="#fk__p_52736">Sammler</rs>.</seg></seg> <seg type="insult">Herr <rs type="pers" ana="n_35926" ref="#fk__p_47262">Korngold</rs></seg>: <foreign xml:lang="fr">‚La charmante fille! Toujours riante,<lb/>
+verdissante, pleine de gaité, d’esprit, d’amour et délices!‘</foreign> — so schwärmt<lb/>
+bei <rs type="pers" ana="n_35927" ref="#fk__p_39789">Beaumarchais</rs> <rs type="pers">Figaro</rs>, der Bräutigam, von seinem <rs type="pers">Susannchen</rs>, nicht<lb/>
+ohne ein bedauerndes <foreign xml:lang="fr">‚<seg type="spc">Mais sage</seg>!‘</foreign> folgen zu lassen. Dieses ‚<seg type="spc">Aber<lb/>
+gescheit</seg>!‘ <seg type="spc">möchten auch wir in gewissem Sinne hinzufügen<lb/>
+</seg>, wenn wir die <rs type="pers">Susanne</rs> der Frau <rs type="pers" ana="n_35928" ref="#fk__p_45225">Gutheil-Schoder</rs> mit den<lb/>
+</p>
+            <p ana="pr43857">
+Worten <rs type="pers">Figaros</rs> rühmen. Sieht man von diesem <seg type="insult"><seg type="spc">Beischmack von Absichtlichkeit<lb/>
+</seg></seg> ab, so bleibt eine der besten Gestalten, die die Künstlerin<lb/>
+geboten.« Der Leser: <foreign xml:lang="fr">Une fille sage</foreign> heißt: <seg type="insult">ein tugendhaftes Mädchen<lb/>
+(in Wien etwa: solid)</seg>. Natürlich ist nicht zu leugnen, daß die Tugend eines<lb/>
+Mädchens oft einen <seg type="insult">Beischmack von Absichtlichkeit</seg> haben kann.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_45225">
+               <persName>Gutheil-Schoder, Marie</persName>
+               <birth>
+                  <date>1874-2-10</date>
+                  <place>Weimar</place>
+               </birth>
+               <death>
+                  <date>1935-10-4</date>
+                  <place>Ilmenau</place>
+               </death>
+               <occupation>Sängerin</occupation>
+               <note type="comment">seit 1920 mit Franz Xaver Setzer verheiratet</note>
+               <note type="comment">Sopran</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2349</idno></person>
+            <person xml:id="fk__p_39789">
+               <persName>Beaumarchais, Pierre Augustin Caron de</persName>
+               <birth>
+                  <date>1732-1-24</date>
+                  <place>Paris</place>
+               </birth>
+               <death>
+                  <date>1799-5-18</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10857</idno></person>
+            <person xml:id="fk__p_52736">
+               <persName>Sammler</persName>
+            </person>
+            <person xml:id="fk__p_47262">
+               <persName>Korngold, Julius Leopold</persName>
+               <birth>
+                  <date>1860-12-24</date>
+                  <place>Brünn</place>
+               </birth>
+               <death>
+                  <date>1945-9-25</date>
+                  <place>Hollywood</place>
+               </death>
+               <occupation>Musikkritiker</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17059</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11972</idno></person>
+            </listPerson></back></text>
+</TEI>

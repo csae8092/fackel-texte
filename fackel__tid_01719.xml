@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01719.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01718.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01720.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Parlamentarier. (Parlamentarier), in: Fackel Heft 02, Nr. 072, 1901, S. 29-29</title>
+            <title type="iso-date">1901-03-01</title>
+            <title type="id">tid_01719</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">072</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-072_n0029.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/072,029</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Parlamentarier. (Parlamentarier)</head>
+            <p ana="pr17119">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="n_14318" ref="#fk__p_51132">Parlamentarier</rs>.</seg></seg></seg> <seg type="insult">Herr <rs type="pers" ana="n_14319" ref="#fk__p_41609"><abbr>Dr.</abbr> Otto <seg type="spc">Lecher</seg></rs></seg> schreibt im Morgenblatt<lb/>
+ der ‚<rs type="paper" ana="werk_5431">Bohemia</rs>‘ vom <date>21. März</date>: »Das Geldbedürfnis der Regierenden<lb/>
+ist von jeher der Urgrund alles <rs type="inst">Parlamentarismus</rs> gewesen. Dieser<lb/>
+<seg type="spc">Verismus</seg> bestätigt sich in unseren Tagen aufs neue.« <seg type="insult">Herr <rs type="pers" ana="n_14320" ref="#fk__p_41609"><abbr>Dr.</abbr> Lecher</rs>,<lb/>
+der ehemalige Socialpolitiker</seg>, wird seit zwei Jahren immer besser<lb/>
+national gesinnt und dürfte wohl bald unter die <seg type="insult">Sprachreiniger</seg> gehen.<lb/>
+Einstweilen verwendet er zwar noch Fremdwörter; aber er wendet<lb/>
+sie bereits falsch an. <seg type="insult">»Verismus« für »Wahrheit«</seg>: Kind, sagte ein<lb/>
+sorgsamer Vater zu seinem Sohn, gebrauche kein Fremdwort! Denn<lb/>
+man kann nie wissen, was es bedeutet.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_41609">
+               <persName>Lecher, Otto</persName>
+               <birth>
+                  <date>1860-01-06</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1939-01-20</date>
+                  <place>Brünn</place>
+               </death>
+               <occupation>Jurist</occupation>
+               <occupation>Politiker</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/4900</idno></person>
+            <person xml:id="fk__p_51132">
+               <persName>Parlamentarier</persName>
+            </person>
+            </listPerson></back></text>
+</TEI>

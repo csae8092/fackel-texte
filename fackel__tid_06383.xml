@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06383.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06382.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06384.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Der bekannte Erotiker, in: Fackel Heft 15, Nr. 378, 1913, S. 54-54</title>
+            <title type="iso-date">1913-07-01</title>
+            <title type="id">tid_06383</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">15</title><title type="heft">378</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-15-378_n0054.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/378,054</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Der bekannte Erotiker</head>
+            <p ana="pr86044">
+<space/><seg type="symbol" subtype="4dots"/> und Herr <rs type="pers" ana="n_59357" ref="#fk__p_43457">Blei</rs>. Der zuletzt Genannte ist kein zünftiger<lb/>
+Schauspieler, sondern der bekannte, in Damenkreisen sehr geschätzte<lb/>
+Schriftsteller, der den Frauen gerne sagt, was sie gerne hören wollen.<lb/>
+</p>
+            <p ana="pr86046">
+<space/>Gemeint ist <seg type="insult">jener <rs type="pers" ana="n_59358" ref="#fk__p_43457">Blei</rs></seg>, der in <seg type="insult">Herrn <rs type="pers" ana="n_59359" ref="#fk__p_39761">Sternheims</rs> Hose</seg><lb/>
+die Hauptrolle spielt. <seg type="insult">Herr <rs type="pers" ana="n_59360" ref="#fk__p_43457">Blei</rs></seg> gibt selbstredend einen <seg type="insult">erotischen<lb/>
+Denker</seg>, sein Partner ist ein Friseur. In <seg type="insult">Damenkreisen</seg> sehr geschätzt<lb/>
+sein —: ob das so bald einem Friseur gelingt wie einem <seg type="insult">Denker</seg>?<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_43457">
+               <persName>Blei, Franz</persName>
+               <birth>
+                  <date>1871-1-18</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1942-7-10</date>
+                  <place>Westbury, NY</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Verwandtschaft zu Culmbacher-Dörmann</note>
+               <note type="comment">Anna, Fanni, Karoline</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10955</idno></person>
+            <person xml:id="fk__p_39761">
+               <persName>Sternheim, Carl</persName>
+               <birth>
+                  <date>1878-4-1</date>
+                  <place>Leipzig</place>
+               </birth>
+               <death>
+                  <date>1942-11-3</date>
+                  <place>Brüssel</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12848</idno></person>
+            </listPerson></back></text>
+</TEI>

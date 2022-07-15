@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06104.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06103.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06105.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Vorlesung in Graz), in: Fackel Heft 14, Nr. 368, 1913, S. 26-26</title>
+            <title type="iso-date">1913-02-01</title>
+            <title type="id">tid_06104</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">14</title><title type="heft">368</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-14-368_n0026.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/368,026</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Vorlesung in Graz)</head>
+            <p ana="pr82237">
+<space/>Aber nicht nur in den Sudetenländern, auch in den Alpenländern<lb/>
+ liegen sie schlecht, wenn sie auf Druckerschwärze liegen.<lb/>
+</p>
+            <p ana="pr82238">
+<space/>Graz, im <rs type="inst">Landschaftlichen Rittersaal</rs>, am <date>12. Januar</date>:<lb/>
+</p>
+            <p ana="pr82240">
+<space/>I. <rs type="pers" ana="n_57635" ref="#fk__p_46919">Nestroy</rs>: Szenen aus »<rs type="title">Die beiden Nachtwandler oder: Das<lb/>
+Notwendige und das Überflüssige</rs>« (mit Vorwort). II. <rs type="title">Untergang der Welt<lb/>
+durch <seg type="insult">schwarze Magie</seg></rs> (aus <abbr>S.</abbr> 6—11, 18—23) / Aus der Aphorismenreihe<lb/>
+ »<rs type="title">Nachts</rs>« / <rs type="title">Auf der Suche nach Fremden</rs>; <rs type="title">Ich pfeife auf den<lb/>
+Text</rs>; <rs type="title"><seg type="insult"><foreign xml:lang="fr">Petite <choice><sic>chrouique</sic><corr>chronique</corr></choice> scandaleuse</foreign></seg></rs>; <rs type="title"><seg type="insult">Durch <rs type="pers" ana="n2_5061" ref="#fk__p_45908">Bahr</rs> zur Suffragette<lb/>
+geworden</seg></rs>; <rs type="title">Bitte, das ist mein Recht</rs>; <rs type="title">Man muß die Leute ausreden<lb/>
+lassen</rs> / <rs type="title">Die neue Art des Schimpfens</rs> (mit einigen einführenden Worten<lb/>
+über <rs type="pers" ana="n_57636" ref="#fk__p_52189"><abbr>R. M.</abbr> Meyer</rs>). — Zugaben: <rs type="title">Ich rufe die Rettungsgesellschaft</rs>;<lb/>
+<rs type="title"><seg type="insult">Interview mit einem sterbenden Kind</seg></rs>; <rs type="title"><seg type="insult">Das Ehrenkreuz</seg></rs>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_52189">
+               <persName>Meyer, Richard Moritz</persName>
+               <birth>
+                  <date>1860-7-5</date>
+                  <place>Berlin</place>
+               </birth>
+               <death>
+                  <date>1914-10-8</date>
+                  <place>Berlin</place>
+               </death>
+               <occupation>Literarhistoriker</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_18122</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12237</idno></person>
+            <person xml:id="fk__p_46919">
+               <persName>Nestroy, Johann Nepomuk</persName>
+               <birth>
+                  <date>1801-12-7</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1862-5-25</date>
+                  <place>Graz</place>
+               </death>
+               <occupation>Sänger</occupation>
+               <occupation>Schauspieler</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12338</idno></person>
+            <person xml:id="fk__p_45908">
+               <persName>Bahr, Hermann</persName>
+               <birth>
+                  <date>1863-7-19</date>
+                  <place>Linz</place>
+               </birth>
+               <death>
+                  <date>1934-1-15</date>
+                  <place>München</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Kritiker</occupation>
+               <note type="comment">Ögg teilt auch 307/52, 445/49, 800/67 (Rotte Korah) Bahr zu</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10815</idno></person>
+            </listPerson></back></text>
+</TEI>

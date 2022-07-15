@@ -1,0 +1,119 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_12287.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_12286.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_12288.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Mährisch Ostrau, Lidový dum, 29. März:, in: Fackel Heft 37, Nr. 909, 1935, S. 2-3</title>
+            <title type="iso-date">1935-05-01</title>
+            <title type="id">tid_12287</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">37</title><title type="heft">909</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-37-909_n0002.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/909,002</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Mährisch Ostrau, Lidový dum, 29. März:</head>
+            <p ana="pr181722">
+<space/><seg type="spc">Mährisch Ostrau</seg>, <rs type="inst"><foreign xml:lang="cs">Lidový dum</foreign></rs>, <date>29. März</date>:<lb/>
+</p>
+            <p ana="pr181723">
+<space/>I. Aus: <RS pers="Ferdinand Raimund"><rs type="title" ana="name_201922" ref="#fk__p_43227"><seg type="spc">Der Alpenkönig und der Menschenfeind</seg></rs></RS><lb/>
+</p>
+            <p ana="pr181724">
+<space/>II. <rs type="pers" ana="n_107394" ref="#fk__p_43227"><seg type="spc">Raimund</seg></rs>: <rs type="title">Das Hobellied</rs>; <rs type="pers" ana="n_107395" ref="#fk__p_49871"><seg type="spc">Claudius</seg></rs>: <rs type="title">Abendlied</rs>, <rs type="title">Bei<lb/>
+ihrem Grabe</rs>, <rs type="title">Kriegslied</rs>; <rs type="pers" ana="n_107396" ref="#fk__p_48805"><seg type="spc">Goeckingk</seg></rs>: <rs type="title">Als der erste Schnee fiel</rs>;<lb/>
+<rs type="pers" ana="n_107397" ref="#fk__p_40404"><seg type="spc">Liliencron</seg></rs>: <rs type="title">Festnacht und Frühgang</rs>, <rs type="title">Die betrunkenen Bauern</rs>,<lb/>
+<rs type="title">Zwei Meilen Trab</rs>; <rs type="pers" ana="n_107398" ref="#fk__p_51379"><seg type="spc">Peter Altenberg</seg></rs>: <rs type="title">Die <foreign xml:lang="de-loc">Seidenfetzerln</foreign></rs>, <rs type="title">Freunde</rs>,<lb/>
+<rs type="title">Landpartie</rs>, <rs type="title">Altern</rs>; <rs type="pers" ana="n_107399" ref="#fk__p_43433"><seg type="spc">Frank Wedekind</seg></rs>: <rs type="title"><seg type="symbol" subtype="3dots"/> Donnerwetter</rs>, <rs type="title">Unterm<lb/>
+Apfelbaum</rs>, <rs type="title">Die Wetterfahne</rs>, <rs type="title">Parodie und Satire</rs>, <rs type="title">Eroberung</rs>, <rs type="title">Chorus<lb/>
+der Elendenkirchweih</rs>, <rs type="title">Diplomaten</rs><lb/>
+</p>
+            <p ana="pr181725">
+<space/>III. Aus eigenen Schriften<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_51379">
+               <persName>Altenberg, Peter</persName>
+               <birth>
+                  <date>1859-3-9</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1919-1-8</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Ögg teilt 531/207 (Nachruf auf Moriz Benedikt) P. A. zu (mit ?)</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2147</idno></person>
+            <person xml:id="fk__p_48805">
+               <persName>Goeckingk, Leopold Friedrich Günther von</persName>
+               <birth>
+                  <date>1748-7-13</date>
+                  <place>Gröningen/Bördekreis</place>
+               </birth>
+               <death>
+                  <date>1828-2-18</date>
+                  <place>Groß Wartenberg</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Beamter</occupation>
+            </person>
+            <person xml:id="fk__p_40404">
+               <persName>Liliencron, Detlev Freiherr von</persName>
+               <birth>
+                  <date>1844-6-3</date>
+                  <place>Kiel</place>
+               </birth>
+               <death>
+                  <date>1909-7-22</date>
+                  <place>Altrahlstedt bei Hamburg</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment"/>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17547</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12071</idno></person>
+            <person xml:id="fk__p_43433">
+               <persName>Wedekind, Frank</persName>
+               <birth>
+                  <date>1864-7-24</date>
+                  <place>Hannover</place>
+               </birth>
+               <death>
+                  <date>1918-3-9</date>
+                  <place>München</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/13068</idno></person>
+            <person xml:id="fk__p_49871">
+               <persName>Claudius, Matthias</persName>
+               <birth>
+                  <date>1740-08-15</date>
+                  <place>Rheinfeld/Holstein</place>
+               </birth>
+               <death>
+                  <date>1815-01-21</date>
+                  <place>Hamburg</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Enkel Hermann Claudius 19.10.1878-8.9.1980, Arbeiterlied "Mit uns zieht die neue Zeit"</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/39422</idno></person>
+            <person xml:id="fk__p_43227">
+               <persName>Raimund, Ferdinand</persName>
+               <birth>
+                  <date>1790-6-1</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1836-9-5</date>
+                  <place>Pottenstein, Niederösterreich</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Ögg teilt die Valentin-Stelle 254/4 Nestroy zu</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12468</idno></person>
+            </listPerson></back></text>
+</TEI>

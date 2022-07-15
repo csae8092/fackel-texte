@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02296.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02295.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02297.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Arbeiter-Zeitung. (Die Rede des Prof. Wahrmund und die ‚Arbeiterzeitung‘), in: Fackel Heft 03, Nr. 097, 1902, S. 20-20</title>
+            <title type="iso-date">1902-03-17</title>
+            <title type="id">tid_02296</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">03</title><title type="heft">097</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-03-097_n0020.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/097,020</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Arbeiter-Zeitung. (Die Rede des Prof. Wahrmund und die ‚Arbeiterzeitung‘)</head>
+            <p ana="pr22399">
+<space/><seg type="sidehead"><seg type="i"><rs type="paper" ana="werk_7414">Arbeiter-Zeitung</rs>.</seg></seg> Zu der Rede, die der Innsbrucker Professor<lb/>
+<rs type="pers" ana="n_19433" ref="#fk__p_51833"><seg type="spc">Wahrmund</seg></rs> über die Strömungen innerhalb der katholischen Kirche<lb/>
+gehalten hat, bemerkten Sie: »Die Rede entwickelt im Wesen Gedanken,<lb/>
+die in dem bekannten Buche von <rs type="pers" ana="n_19434" ref="#fk__p_46293">Chamberlain</rs> ‚<rs type="title">Die Grundlagen des<lb/>
+<DATERANGE>neunzehnten Jahrhunderts</DATERANGE></rs>‘ niedergelegt sind.« Ein kleines Versehen,<lb/>
+erklärlich aus der Abneigung, von einer Publication der ‚<rs type="self" ana="werk_7415">Fackel</rs>‘<lb/>
+Notiz zu nehmen. Denn die Gedanken des Professors <rs type="pers" ana="n_19435" ref="#fk__p_51833">Wahrmund</rs> sind<lb/>
+nicht in <rs type="pers" ana="n_19436" ref="#fk__p_46293">Chamberlains</rs> »<rs type="title">Grundlagen</rs>«, sondern eher in <rs type="pers" ana="n_19437" ref="#fk__p_46293">Chamberlains</rs><lb/>
+Aufsatz über »<rs type="title">katholische Universitäten</rs>« niedergelegt. Warum denn in<lb/>
+die Ferne schweifen, wenn das Gute bloss fünf Nummern der ‚<rs type="self" ana="werk_7416">Fackel</rs>‘<lb/>
+zurückliegt?<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_51833">
+               <persName>Wahrmund, Ludwig</persName>
+               <birth>
+                  <date>1860-8-21</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1932-9-10</date>
+                  <place>Prag</place>
+               </death>
+               <occupation>Jurist</occupation>
+               <note type="comment">Kirchenrechtler</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/3040</idno></person>
+            <person xml:id="fk__p_46293">
+               <persName>Chamberlain, Houston Stewart</persName>
+               <birth>
+                  <date>1855-9-9</date>
+                  <place>Portsmouth</place>
+               </birth>
+               <death>
+                  <date>1927-1-9</date>
+                  <place>Bayreuth</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11086</idno></person>
+            </listPerson></back></text>
+</TEI>

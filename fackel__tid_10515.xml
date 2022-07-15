@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_10515.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10514.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10516.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Eine schöne Erinnerung, in: Fackel Heft 28, Nr. 726, 1926, S. 58-59</title>
+            <title type="iso-date">1926-06-01</title>
+            <title type="id">tid_10515</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">28</title><title type="heft">726</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-28-726_n0058.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/726,058</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Eine schöne Erinnerung</head>
+            <p ana="pr146039">
+auf der <seg type="insult">das deutsche Auge</seg> wohlgefällig ruht, erscheint jetzt in<lb/>
+<seg type="insult">einem deutschen Buch</seg>, von <seg type="insult">einem Geheimen Rat und einem offenen<lb/>
+General der <rs type="inst">Infanterie</rs></seg>, betitelt »<rs type="title">Der deutsche Kronprinz, ein<lb/>
+Stück Weltgeschehen</rs>«, angekündigt als »das Buch des ehrlichen<lb/>
+Historikers und des unbestechlichen Militärs, ein Buch für<lb/>
+Wahrheit und Wahrhaftigkeit«:<lb/>
+</p>
+            <p ana="pr146041">
+Der Kaiser, <rs type="pers" ana="n_88186" ref="#fk__p_44035">Fürst Fürstenberg</rs> und<lb/>
+der <abbr>österr.-ung.</abbr> Militärbevollmächtigte im Manöver<lb/>
+</p>
+            <p ana="pr146042">
+Es dröhnt von der Lachsalve. Links <seg type="insult">das gekrönte Monstrum</seg>, das <seg type="insult">sein<lb/>
+eigener Hofnarr</seg> war; in seiner Stimme wiehert ein <seg type="insult">Schlachtroß</seg>,<lb/>
+heult ein <seg type="insult">Werwolf</seg>. In der Mitte <seg type="insult">der liebe Schneck von Donaueschingen<lb/>
+, von der Quelle des Nibelungenstroms</seg>: <seg type="insult">die beiden<lb/>
+Schultern</seg> verbindend. Rechts <seg type="insult">der <foreign xml:lang="la">eo ipso</foreign> verbindliche Rücken</seg><lb/>
+</p>
+            <p ana="pr146042">
+<seg type="insult">des <abbr>k. k.</abbr> <foreign xml:lang="de-loc">Feschaks</foreign></seg>. Offenbar erzählt er einen <rs type="pers" ana="n_88187" ref="#fk__p_59422"><seg type="insult">Mikosch-Witz</seg></rs>, wie<lb/>
+ihn die <seg type="insult">Majestät</seg> geliebt hat und wofür sie <seg type="insult">zärtliche Fußtritte</seg> zu<lb/>
+verabreichen pflegte. Schon im Manöver war’s also zum Schießen.<lb/>
+Im <rs type="event">Weltkrieg</rs> haben sie sich dann totgelacht.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_44035">
+               <persName>Fürstenberg, Max Egon II. Fürst von</persName>
+               <birth>
+                  <date>1863-10-13</date>
+                  <place>Lana/Böhmen</place>
+               </birth>
+               <death>
+                  <date>1941-08-11</date>
+                  <place>Heiligenberg/Baden</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <note type="comment">mit Fürst Hohenlohe und Fürst Henckel-Donnersmarck im Konsortium, das Hotel Esplanade Berlin finanzierte</note>
+            </person>
+            <person xml:id="fk__p_59422">
+               <persName>Mikosch</persName>
+               <note type="comment">Typus, Witzfigur</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,47 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_04424.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04423.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04425.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Wiener. (Eine Wiener Theaternotiz), in: Fackel Heft 08, Nr. 221, 1907, S. 18-19</title>
+            <title type="iso-date">1907-03-9</title>
+            <title type="id">tid_04424</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">08</title><title type="heft">221</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-08-221_n0018.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/221,018</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Wiener. (Eine Wiener Theaternotiz)</head>
+            <p ana="pr48311">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="name_203568" ref="#fk__p_55452">Wiener</rs>.</seg></seg></seg> <seg type="insult">Eine Theaternotiz</seg>: »Frau <rs type="pers" ana="n_39016" ref="#fk__p_50265">Günther</rs> hat sich bei einer<lb/>
+Hühneraugen-Operation eine Verletzung am Fuße zugezogen. Die pflichteifrige<lb/>
+ Künstlerin ließ sich trotz Schmerzen nicht abhalten, ihre Rolle<lb/>
+in der ‚<rs type="title">Lustigen Witwe</rs>‘ mit gewohntem Charme durchzuführen.« <RS persTitle="Goethe" title="Faust"><seg type="insult">Der<lb/>
+ganze Geistesjammer der Wiener Menschheit</seg> faßt mich an</RS>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_55452">
+               <persName>Wiener</persName>
+            </person>
+            <person xml:id="fk__p_50265">
+               <persName>Günther, Mizzi</persName>
+               <birth>
+                  <date>1879-2-8</date>
+                  <place>Warnsdorf/Böhmen</place>
+               </birth>
+               <death>
+                  <date>1961-3-18</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Sängerin</occupation>
+               <note type="comment">verh. mit 1. A. Fischer, 2. Fred Hennings</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07615.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07614.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07616.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Recht hat der Justizminister, in: Fackel Heft 18, Nr. 445, 1234, S. 59-60</title>
+            <title type="iso-date">1234-01-01</title>
+            <title type="id">tid_07615</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">18</title><title type="heft">445</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-18-445_n0059.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/445,059</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Recht hat der Justizminister</head>
+            <p ana="pr102416">
+<space/>In ein und derselben <rs type="perRef" ana="werk_20920">Zeitungsnummer</rs> steht:<lb/>
+</p>
+            <p ana="pr102418">
+<space/>» <seg type="symbol" subtype="3dots"/> Es wird wahrscheinlich auch weiterhin während des Krieges Fälle<lb/>
+geben, wo ein unverzügliches Erlassen neuer Vorschriften nicht zu umgehen<lb/>
+ ist, und dazu hätte ich schon seit langem Vorschriften gerechnet,<lb/>
+die <seg type="insult">der zunehmenden Verwahrlosung der Jugend</seg> entgegenwirken<lb/>
+könnten <seg type="symbol" subtype="4dots"/>«<lb/>
+</p>
+            <p ana="pr102419">
+<space/>» <seg type="symbol" subtype="3dots"/> <rs type="pers" ana="n_66233" ref="#fk__p_45448">Hans Müller</rs> erwies sich gebundener wie ungebundener Rede<lb/>
+als gleich wirksamer Interpret. In dem stürmischen Beifall, der ihn<lb/>
+nach jeder Vortragsnummer und besonders am Schluß immer wieder aufs<lb/>
+Podium rief, war wohl etwas wie der Gruß der Wiener Jugend an den<lb/>
+Dichter der »<rs type="title">Könige</rs>« zu spüren.«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_45448">
+               <persName>Müller, Hans</persName>
+               <birth>
+                  <date>1882-10-25</date>
+                  <place>Brünn</place>
+               </birth>
+               <death>
+                  <date>1950-3-8</date>
+                  <place>Einigen/Thunersee</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12327</idno></person>
+            </listPerson></back></text>
+</TEI>

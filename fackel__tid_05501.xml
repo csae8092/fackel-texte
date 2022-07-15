@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_05501.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05500.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05502.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Robert Schumann, in: Fackel Heft 13, Nr. 334, 1911, S. 50-51</title>
+            <title type="iso-date">1911-10-31</title>
+            <title type="id">tid_05501</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">13</title><title type="heft">334</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-13-334_n0050.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/334,050</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Robert Schumann</head>
+            <p ana="pr72183">
+<rs type="pers" ana="n_52226" ref="#fk__p_52370"><seg type="spc">Robert Schumann</seg></rs><lb/>
+</p>
+            <p ana="pr72184">
+<rs type="title">Gesammelte Schriften</rs>, Leipzig <date>1871</date>, bei <rs type="inst"><rs type="pers" ana="n2_4599" ref="#fk__p_59130">Wiegand</rs></rs>:<lb/>
+</p>
+            <p ana="pr72186">
+<seg type="sidehead"><date>1839</date>:</seg> <seg type="symbol" subtype="4dotsEditor"/>Der Wiener ist im Allgemeinen äußerst<lb/>
+mißtrauisch gegen ausländische musikalische Größen<lb/>
+(etwa italienische ausgenommen); hat man ihn aber<lb/>
+einmal gepackt, so kann man ihn drehen und wenden,<lb/>
+wohin man will, er weiß sich dann kaum vor Lob<lb/>
+zu <DOUBT sug="fassen">lassen</DOUBT> und umarmt unaufhörlich. Sodann gibt es<lb/>
+hier eine <seg type="insult">Clique</seg>, die Fortsetzung derselben, die<lb/>
+früher den <RS pers="Wolfgang Amadé Mozart"><rs type="title" ana="name_202361" ref="#fk__p_55699"><rs type="pers">Don Juan</rs></rs></RS> und die Ouverture zu <rs type="title"><rs type="pers">Leonore</rs></rs><lb/>
+auspfiff, eine <seg type="insult">Clique</seg>, die meint, <rs type="pers" ana="n_52227" ref="#fk__p_50077">Mendelssohn</rs><lb/>
+componiere nur, damit sie’s nicht verstehen sollen,<lb/>
+die meint, seinen Ruhm aufhalten zu können durch<lb/>
+Stecken und Heugabeln, eine <seg type="insult">Clique</seg> mit einem<lb/>
+Worte so ärmlich, so unwissend, so unfähig in Urteil<lb/>
+</p>
+            <p ana="pr72186">
+und Leistung, wie irgend eine in Flachsenfingen <seg type="symbol" subtype="4dotsEditor"/><lb/>
+(Zur Aufführung von <rs type="pers" ana="n_52228" ref="#fk__p_50077">Mendelssohn</rs> »<rs type="title"><rs type="pers">Paulus</rs></rs>« in Wien.)<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_55699">
+               <persName>Mozart, Wolfgang Amadeus</persName>
+               <birth>
+                  <date>1756-1-27</date>
+                  <place>Salzburg</place>
+               </birth>
+               <death>
+                  <date>1791-12-5</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Komponist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12303</idno></person>
+            <person xml:id="fk__p_59130">
+               <persName>Wigand, Georg (Verlag)</persName>
+               <note type="comment">Leipzig</note>
+            </person>
+            <person xml:id="fk__p_52370">
+               <persName>Schumann, Robert</persName>
+               <birth>
+                  <date>1810-6-8</date>
+                  <place>Zwickau</place>
+               </birth>
+               <death>
+                  <date>1856-7-29</date>
+                  <place>Endenich bei Bonn</place>
+               </death>
+               <occupation>Komponist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12733</idno></person>
+            <person xml:id="fk__p_50077">
+               <persName>Mendelssohn Bartholdy, Felix</persName>
+               <birth>
+                  <date>1809-2-3</date>
+                  <place>Hamburg</place>
+               </birth>
+               <death>
+                  <date>1847-11-4</date>
+                  <place>Leipzig</place>
+               </death>
+               <occupation>Komponist</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_18066</idno></person>
+            </listPerson></back></text>
+</TEI>

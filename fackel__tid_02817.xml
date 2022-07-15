@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02817.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02816.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02818.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Durchlaucht Stockbroker, in: Fackel Heft 04, Nr. 124, 1902, S. 17-17</title>
+            <title type="iso-date">1902-12-20</title>
+            <title type="id">tid_02817</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">04</title><title type="heft">124</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-04-124_n0017.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/124,017</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Durchlaucht Stockbroker</head>
+            <p ana="pr27672">
+<space/><inciptit>Der</inciptit> ‚<rs type="paper" ana="werk_9892">Neuen Freien Presse</rs>‘ ist eine große Freude widerfahren<lb/>
+. Am <date>11. December</date> meldet sie <seg type="insult">mit vor Rührung zitternder<lb/>
+Stimme</seg> aus London, daß »<rs type="pers" ana="n_23895" ref="#fk__p_44020">Fürst Franz von Teck</rs>, der als großbritannischer<lb/>
+ Rittmeister bei den <rs type="inst"><foreign xml:lang="en">Royal Dragoons</foreign></rs> ausgezeichnete<lb/>
+Dienste in Südafrika geleistet hat«, ein Bruder der <rs type="pers" ana="n_23896" ref="#fk__p_48084">Prinzessin<lb/>
+von Wales</rs> und Verwandter des <rs type="pers" ana="n_23897" ref="#fk__p_46021">Herzogs Alexander von Württemberg<lb/>
+</rs>, aus der englischen Armee ausgetreten und dafür in<lb/>
+die Stockbroker-Firma <rs type="inst"><rs type="pers" ana="n2_1853" key="#fk__p_58677">Panmure</rs>, <rs type="pers" ana="n2_1854" key="#fk__p_58011">Gordon</rs>, <rs type="pers" ana="n2_1855" key="#fk__p_58144">Hill</rs> &amp; <abbr>Co.</abbr></rs> eingetreten<lb/>
+ist. »Der Fürst wird actives Mitglied der <rs type="inst">Börse</rs>«. Doch <seg type="insult">der unvermeidliche<lb/>
+ Wermuthstropfen in dem Freudenbecher</seg>: »er dürfte<lb/>
+dieselbe (nämlich die <rs type="inst">Börse</rs>) nach der Meinung englischer Zeitungen<lb/>
+<seg type="spc">nicht besuchen</seg>.« So schieben sich denn immer noch <seg type="insult">Standesvorurtheile<lb/>
+</seg> vor <seg type="insult">die letzte Erfüllung liberaler Wünsche</seg>. Und die<lb/>
+‚<rs type="paper" ana="werk_9893">Neue Freie Presse</rs>‘ selbst kann von <seg type="insult">dem ererbten Respect</seg> nicht<lb/>
+lassen: Anstatt selbstbewusst der Durchlaucht zum <seg type="insult">Prädicat »Stockbroker<lb/>
+«</seg> zu gratulieren, sonnt sie sich in dem Gedanken, daß »der<lb/>
+neue Stockbroker das Prädicat Durchlaucht führen« wird. Immerhin:<lb/>
+Wir sehen <seg type="insult">Bürger</seg> hochsteigen, Adelige sich <seg type="insult"><seg type="spc">ehrlicher Arbeit</seg></seg><lb/>
+widmen. Das goldene Vließ wird vom <seg type="insult">goldenen Kalb</seg> bezogen,<lb/>
+und fürstliche Wappen enthalten, wie neulich ein witziger Heraldiker<lb/>
+ entdeckte, nicht mehr bloß Devisen, nein: <seg type="insult">Devisen und<lb/>
+Valuten</seg>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_44020">
+               <persName>Teck, Franz Fürst von</persName>
+               <birth>
+                  <date>1870-1-9</date>
+                  <place>London</place>
+               </birth>
+               <death>
+                  <date>1910-10-22</date>
+                  <place>London</place>
+               </death>
+               <occupation>Offizier</occupation>
+            </person>
+            <person xml:id="fk__p_46021">
+               <persName>Württemberg, Alexander Herzog von</persName>
+               <birth>
+                  <date>1771-4-24</date>
+                  <place>Mömpelgard</place>
+               </birth>
+               <death>
+                  <date>1833-7-4</date>
+                  <place>Gotha</place>
+               </death>
+               <occupation>Offizier</occupation>
+               <occupation>Politiker</occupation>
+            </person>
+            <person xml:id="fk__p_48084">
+               <persName>Mary, Königin von England</persName>
+               <birth>
+                  <date>1867-5-26</date>
+                  <place>Kensington Palace, London</place>
+               </birth>
+               <death>
+                  <date>1953-3-24</date>
+                  <place>London</place>
+               </death>
+               <note type="comment">verh. mit König Georg V.</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

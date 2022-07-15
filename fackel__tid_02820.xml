@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02820.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02819.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02821.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Wieder eine Reformthat der ‚Zeit‘, in: Fackel Heft 04, Nr. 124, 1902, S. 19-19</title>
+            <title type="iso-date">1902-12-20</title>
+            <title type="id">tid_02820</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">04</title><title type="heft">124</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-04-124_n0019.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/124,019</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Wieder eine Reformthat der ‚Zeit‘</head>
+            <p ana="pr27686">
+<space/><seg type="insult"><inciptit>Wieder</inciptit> eine Reformthat der ‚<rs type="paper" ana="werk_9899">Zeit</rs>‘!</seg> Während andere Blätter<lb/>
+die Geschäftsanzeigen der Wiener Variétés ohne kritische Randbemerkung<lb/>
+ in ihrem Inseratentheil einschalten, hat die ‚<rs type="paper" ana="werk_9900">Zeit</rs>‘, die<lb/>
+bekanntlich für die Reellität jeder von ihr empfohlenen Ware einsteht<lb/>
+, eine <seg type="insult">interessante Neuerung</seg> getroffen: Die Vorstellungen von<lb/>
+<rs type="inst"><rs type="pers" ana="n2_1856" ref="#fk__p_58825">Ronacher</rs></rs>, <rs type="inst">Colosseum</rs>, <rs type="inst"><seg type="spc">Budapester Orpheum</seg></rs>, <rs type="inst">Circus <rs type="pers" ana="n2_1857" ref="#fk__p_58618"><abbr>M.</abbr> Schumann<lb/>
+</rs></rs> und den <rs type="inst"><rs type="pers" ana="n2_1858" ref="#fk__p_57845">Sofiensälen</rs></rs> werden unter der gemeinsamen Ueberschrift<lb/>
+: <seg type="insult">»Vergnügungs-Anzeiger <seg type="spc">vornehmer</seg> Etablissements«</seg> (siehe<lb/>
+die <rs type="paperRef" ana="werk_9901">Nummer</rs> vom <date>30. November</date>) veröffentlicht.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_58618">
+               <persName>Schumann, Max</persName>
+               <birth>
+                  <date>1853</date>
+               </birth>
+               <death>
+                  <date>1933</date>
+               </death>
+               <occupation/>
+               <note type="comment">Circus M. Schumann 1902</note>
+               <note type="comment">Bruder von Albert Schumann (1858-1939), der auf dem Dorotheenst. Friedhof liegt</note>
+               <note type="comment">Max Schumann, der erste Sohn des Zirkusdirektors Gotthold Schumann (1825-1908)</note>
+               <note type="comment">Albert Schumann mit der Schulreiterin Clara Happe (1856-1929) verheiratet</note>
+            </person>
+            <person xml:id="fk__p_57845">
+               <persName>Sophie, Erzherzogin </persName>
+               <birth>
+                  <date>1805-1-27</date>
+                  <place>München</place>
+               </birth>
+               <death>
+                  <date>1872-5-28</date>
+                  <place>Wien</place>
+               </death>
+            </person>
+            <person xml:id="fk__p_58825">
+               <persName>Ronacher (Vergnügungsetablissement)</persName>
+            </person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00573.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00572.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00574.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ein Philister. (Einem Philister), in: Fackel Heft 01, Nr. 023, 1899, S. 29-29</title>
+            <title type="iso-date">1899-11-01</title>
+            <title type="id">tid_00573</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">023</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-023_n0029.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/023,029</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ein Philister. (Einem Philister)</head>
+            <p ana="pr5317">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="n_3982" key="#fk__p_42401">Ein Philister</rs>.</seg></seg></seg> Natürlich, ich »schimpfe« auf alles, »ohne<lb/>
+es selber besser machen zu können«. Aber vielleicht überrasche<lb/>
+ich <seg type="insult">Sie und Ihresgleichen</seg> zum nächsten Quartal und schreibe dann<lb/>
+wenigstens so gute Theaterstücke wie <seg type="insult">Herr <rs type="pers" ana="n_3983" ref="#fk__p_45908">Bahr</rs></seg>, male so gut wie<lb/>
+<seg type="insult">Herr <rs type="pers" ana="n_3984" ref="#fk__p_45195">Klimt</rs></seg>, singe so munter wie <seg type="insult">Frau <rs type="pers" ana="n_3985" ref="#fk__p_56095">Ehrenstein</rs></seg>, verwalte die<lb/>
+<rs type="inst">Länderbank</rs> wie <seg type="insult">Hofrath <rs type="pers" ana="n_3986" ref="#fk__p_52741">Hahn</rs></seg> und leite das <rs type="inst">Unterrichtsministerium</rs><lb/>
+wie <seg type="insult">Herr <rs type="pers" ana="n_3987" ref="#fk__p_55511">Hartel</rs></seg>. Dann werde ich doch mit einiger Aussicht auf Erfolg<lb/>
+mich über <seg type="insult">all diese Leute</seg> lustig machen dürfen?<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_55511">
+               <persName>Hartel, Wilhelm Ritter von</persName>
+               <birth>
+                  <date>1839-05-28</date>
+                  <place>Hof/Mähren</place>
+               </birth>
+               <death>
+                  <date>1907-01-14</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Altphilologe</occupation>
+               <occupation>Politiker</occupation>
+               <note type="comment">Friedhof Penzing (=Kontrahentenfriedhof) Tel. 985 64 07</note>
+               <note type="comment">Unterrichtsminister 1900-05</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15937</idno></person>
+            <person xml:id="fk__p_56095">
+               <persName>Ehrenstein, Louise von</persName>
+               <birth>
+                  <date>1867-3-17</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1944-2-13</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Sängerin</occupation>
+               <note type="comment">Sept. 1889 - Nov. 1899 Hofoper</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/15720</idno></person>
+            <person xml:id="fk__p_45908">
+               <persName>Bahr, Hermann</persName>
+               <birth>
+                  <date>1863-7-19</date>
+                  <place>Linz</place>
+               </birth>
+               <death>
+                  <date>1934-1-15</date>
+                  <place>München</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Kritiker</occupation>
+               <note type="comment">Ögg teilt auch 307/52, 445/49, 800/67 (Rotte Korah) Bahr zu</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10815</idno></person>
+            <person xml:id="fk__p_52741">
+               <persName>Hahn, Samuel Ritter von</persName>
+               <birth>
+                  <date>1837-3-15</date>
+                  <place>Ungarisch-Ostrau</place>
+               </birth>
+               <death>
+                  <date>1915-12-14</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Bankier</occupation>
+               <note type="comment">ZF, 1. Tor Gruppe 7/Reihe 1/ Grab Nr. 20</note>
+               <note type="comment">Gründer der Länderbank</note>
+            </person>
+            <person xml:id="fk__p_45195">
+               <persName>Klimt, Gustav</persName>
+               <birth>
+                  <date>1862-7-14</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1918-2-6</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Maler</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11941</idno></person>
+            </listPerson></back></text>
+</TEI>

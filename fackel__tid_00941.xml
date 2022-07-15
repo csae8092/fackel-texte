@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00941.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00940.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00942.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Uebereifriger Leser. (Bestechende Gastspiele), in: Fackel Heft 02, Nr. 039, 1900, S. 32-32</title>
+            <title type="iso-date">1900-04-01</title>
+            <title type="id">tid_00941</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">039</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-039_n0032.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/039,032</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Uebereifriger Leser. (Bestechende Gastspiele)</head>
+            <p ana="pr9018">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_7245" key="#fk__p_54353">Uebereifriger Leser</rs>.</seg></seg> <seg type="insult">Der Musikkritiker des ‚<rs type="paper" ana="werk_2492">Neuen Wiener<lb/>
+Tagblatt</rs>‘, Herr <rs type="pers" ana="n_7246" ref="#fk__p_55504">Wilhelm Frey</rs></seg>, schrieb nach dem Tode <rs type="pers" ana="n_7247" ref="#fk__p_56339">Jahns</rs> <seg type="insult">die gutdeutschen<lb/>
+ Worte</seg> nieder: »Für fremde Gastspiele hatte er kein<lb/>
+sonderliches Interesse, und wenn sie <seg type="spc">auch noch so bestechend</seg><lb/>
+waren.« Nun stellen Sie an mich die Frage, ob vielleicht Herr<lb/>
+<rs type="pers" ana="n_7248" ref="#fk__p_55504">Wilhelm Frey</rs> für <seg type="insult">bestechende Gastspiele</seg> mehr Interesse gezeigt hat.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_56339">
+               <persName>Jahn, Wilhelm</persName>
+               <birth>
+                  <date>1835-11-24</date>
+                  <place>Hof/Mähren</place>
+               </birth>
+               <death>
+                  <date>1900-04-21</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Sänger</occupation>
+               <occupation>Schauspieler</occupation>
+               <occupation>Dirigent</occupation>
+               <occupation>Theaterleiter</occupation>
+               <note type="comment"/>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/7998</idno></person>
+            <person xml:id="fk__p_55504">
+               <persName>Frey, Wilhelm</persName>
+               <birth>
+                  <date>1833-12-07</date>
+                  <place>Hohenems</place>
+               </birth>
+               <death>
+                  <date>1909-04-16</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Musikschriftsteller</occupation>
+               <occupation>Journalist</occupation>
+               <note type="comment">1., Reichsratstr. 31</note>
+               <note type="comment">Red. des NWT</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10726</idno></person>
+            </listPerson></back></text>
+</TEI>

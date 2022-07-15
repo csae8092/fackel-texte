@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_09623.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09622.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09624.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Und was sich erst in Ägypten tut, in: Fackel Heft 25, Nr. 632, 1923, S. 130-130</title>
+            <title type="iso-date">1923-10-01</title>
+            <title type="id">tid_09623</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">25</title><title type="heft">632</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-25-632_n0130.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/632,130</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Und was sich erst in Ägypten tut</head>
+            <p ana="pr129133">
+<space/>Aus Alexandrien schreibt uns ein Wiener: <seg type="spc">Alexandrien<lb/>
+steht im Zeichen <rs type="pers" ana="n_79199" ref="#fk__p_43530">Lehars</rs> und <rs type="pers" ana="n_79200" ref="#fk__p_47437">Kalmans</rs></seg>, deren prickelnde<lb/>
+Melodien das Repertoire aller Operettentheater beherrschen und jung<lb/>
+und alt entzücken. Allenthalben hört man in den Gassen die Tanzweisen<lb/>
+ der beiden <seg type="insult"><seg type="spc">Operettenkönige</seg></seg> pfeifen, hört sie wieder<lb/>
+in den zahlreichen Konzertlokalen und tanzt nach ihnen in den<lb/>
+fashionablen Hotels und Kasinos. Die ausgezeichnete italienische<lb/>
+Operettentruppe <foreign xml:lang="it">»<rs type="inst">Nuova Select</rs>«</foreign>, die gegenwärtig im neu eröffneten<lb/>
+<rs type="inst">Kursaaltheater</rs> auftritt, verdankt den Werken der beiden Meister ausverkaufte<lb/>
+ Vorstellungen, und <seg type="spc">das europäische und einheimische<lb/>
+ Publikum singt hingerissen jeden<lb/>
+Schlager in endlosen Wiederholungen mit</seg>. Die<lb/>
+Begeisterung für die Wiener Operette <seg type="spc">überragt sogar das<lb/>
+Interesse an den jetzt stattfindenden ersten<lb/>
+<rs type="event">Parlamentswahlen</rs></seg>, durch die das unabhängig gewordene<lb/>
+<seg type="spc">Königreich Ägypten</seg> in die Reihe der konstitutionellen Staaten<lb/>
+tritt. Vor wenigen Tagen hat der gefeierte Nationalist <rs type="pers" ana="n_79201" ref="#fk__p_52665">Saad Zagloul</rs><lb/>
+nach mehr als zweijähriger <choice><sic>Verbannnng</sic><corr>Verbannung</corr></choice> seinen Einzug nach Ägypten<lb/>
+gehalten, <seg type="spc">doch die Araber haben sich diesmal merkwürdig<lb/>
+ still verhalten</seg> und die Musahras (Demonstrationsaufzüge<lb/>
+), die im Jahre <date>1921</date> so verhängnisvolle Folgen hatten, sind<lb/>
+ohne Verbot unterblieben. Nur einzelne Musikkapellen durchzogen mit<lb/>
+ihren <seg type="spc">ohrenbetäubenden</seg> Instrumenten die Stadt, und auch sie<lb/>
+bekundeten ihre <seg type="spc">Vorliebe für Wiener Musik</seg> durch das<lb/>
+Aufspielen des seligen <rs type="title"><seg type="spc">Doppeladlermarsches</seg></rs>.<lb/>
+</p>
+            <p ana="pr129135">
+<space/>Nein, ich reis’ nur nach Fischamend!<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_52665">
+               <persName>Zagloul, Saad</persName>
+               <birth>
+                  <date>1859</date>
+               </birth>
+               <death>
+                  <date>1927-8-23</date>
+                  <place>Kairo</place>
+               </death>
+               <occupation>Politiker</occupation>
+            </person>
+            <person xml:id="fk__p_43530">
+               <persName>Lehár, Franz</persName>
+               <birth>
+                  <date>1870-4-30</date>
+                  <place>Komorn, Ungarn</place>
+               </birth>
+               <death>
+                  <date>1948-10-24</date>
+                  <place>Bad Ischl</place>
+               </death>
+               <occupation>Komponist</occupation>
+               <note type="comment">irrt. von Ögg zugeteilte Stellen: 400/63, 418/25, 568/25, 588/38, 917/56, 61</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/8552</idno></person>
+            <person xml:id="fk__p_47437">
+               <persName>Kálmán, Emmerich</persName>
+               <birth>
+                  <date>1882-10-24</date>
+                  <place>Siófok am Plattensee</place>
+               </birth>
+               <death>
+                  <date>1953-10-30</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Komponist</occupation>
+               <note type="comment">mehrere Nennungen durch Titel: 418/102; 431/42; 445/64; 454/58</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12015</idno></person>
+            </listPerson></back></text>
+</TEI>

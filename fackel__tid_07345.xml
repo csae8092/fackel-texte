@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07345.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07344.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07346.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Die Not schafft seltsame Bettgenossen, in: Fackel Heft 18, Nr. 431, 1916, S. 94-94</title>
+            <title type="iso-date">1916-08-01</title>
+            <title type="id">tid_07345</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">18</title><title type="heft">431</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-18-431_n0094.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/431,094</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Die Not schafft seltsame Bettgenossen</head>
+            <p ana="pr99133">
+<space/><rs type="pers" ana="n_65426" ref="#fk__p_45750">Heinrich <seg type="spc">Rienößl</seg></rs>. »<rs type="title">Wien im Kriege</rs>.« Novellen und Skizzen.<lb/>
+<rs type="inst"><rs type="pers" ana="n2_5754" key="#fk__p_58077">Hans Hübner-Verlag</rs></rs>, Hannover.<lb/>
+</p>
+            <p ana="pr99134">
+<space/><rs type="pers" ana="n_65427" ref="#fk__p_43837">Friedrich <seg type="spc">Hölderlin</seg></rs>. <rs type="title">»<rs type="pers">Hyperion</rs>« oder »Der Eremit in Griechenland<lb/>
+«</rs>. <rs type="inst">Verlag <rs type="pers" ana="n2_5755" ref="#fk__p_58052">Gustav Kiepenheuer</rs></rs>, Weimar, <date>1916</date>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_45750">
+               <persName>Rienößl, Heinrich</persName>
+               <birth>
+                  <date>1877-06-04</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1939-12-18</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            </person>
+            <person xml:id="fk__p_58052">
+               <persName>Kiepenheuer, Gustav (Verlag)</persName>
+               <note type="comment">Berlin</note>
+            </person>
+            <person xml:id="fk__p_43837">
+               <persName>Hölderlin, Friedrich</persName>
+               <birth>
+                  <date>1770-3-20</date>
+                  <place>Lauffen am Neckar</place>
+               </birth>
+               <death>
+                  <date>1843-6-7</date>
+                  <place>Tübingen</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/18654</idno></person>
+            </listPerson></back></text>
+</TEI>

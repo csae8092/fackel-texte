@@ -1,0 +1,106 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_10912.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10911.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10913.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Pariser Leben), in: Fackel Heft 29, Nr. 759, 1927, S. 29-30</title>
+            <title type="iso-date">1927-06-01</title>
+            <title type="id">tid_10912</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">29</title><title type="heft">759</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-29-759_n0029.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/759,029</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Pariser Leben)</head>
+            <p ana="pr152266">
+<space/>Ebenda, <date>27. März</date>:<lb/>
+</p>
+            <p ana="pr152267">
+<space/><rs type="title">Theater der Dichtung</rs><lb/>
+</p>
+            <p ana="pr152268">
+<space/>(Auf dem Plakat unter der Devise: <seg type="insult">»Gegen die Wiener <rs type="pers" ana="n_90950" ref="#fk__p_46664">Offenbach-Schändung<lb/>
+</rs>«</seg>.)<lb/>
+</p>
+            <p ana="pr152269">
+<space/>Zum 3. Male<lb/>
+</p>
+            <p ana="pr152270">
+<space/><rs type="pers" ana="n_90951" ref="#fk__p_46664"><seg type="spc">Offenbach</seg></rs>: <rs type="title"><seg type="spc">Pariser Leben</seg></rs>.<lb/>
+</p>
+            <p ana="pr152271">
+<space/>Begleitung: <rs type="pers" ana="n_90952" ref="#fk__p_50971">Otto Janowitz</rs>.<lb/>
+</p>
+            <p ana="pr152272">
+<space/>Wiederholt: die <rs type="pers" ana="n_90953" ref="#fk__p_46460">Bekessy-Strophe</rs> im Entree <rs type="pers">Gondremark</rs> und<lb/>
+<rs type="pers">Baronin</rs>, die letzte Strophe des Strudel-Couplets, die <rs type="pers" ana="n_90954" ref="#fk__p_49349">Beethoven-Strophe</rs><lb/>
+der <rs type="title">Tirolienne</rs>, die zweite Strophe der <rs type="pers">Obersten-Witwe</rs> und das Duett<lb/>
+<rs type="pers">Brasilianer</rs> und <rs type="pers">Gabriele</rs>.<lb/>
+</p>
+            <p ana="pr152273">
+<space/>Auf dem Programm die »<rs type="title"><seg type="spc">Antwort <rs type="pers" ana="n2_8033" ref="#fk__p_49349">Beethovens</rs> auf<lb/>
+den Versuch</seg>, <seg type="spc">den <seg type="insult">Fremdenverkehr</seg> durch seinen<lb/>
+hundertsten Todestag zu heben</seg></rs>« (Siehe <abbr>S.</abbr> 20).<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_50971">
+               <persName>Janowitz, Otto</persName>
+               <birth>
+                  <date>1888-7-22</date>
+                  <place>Podjebrad/Böhmen</place>
+               </birth>
+               <death>
+                  <date>1965-7</date>
+                  <place>New York</place>
+               </death>
+               <occupation>Pianist</occupation>
+               <note type="comment">Klavierbegleiter von KK</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38543</idno></person>
+            <person xml:id="fk__p_46664">
+               <persName>Offenbach, Jacques</persName>
+               <birth>
+                  <date>1819-06-21</date>
+                  <place>Köln</place>
+               </birth>
+               <death>
+                  <date>1880-10-05</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Komponist</occupation>
+               <note type="comment">Ögg teilt Fortunato F 876/34 Shakespeare zu</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/9131</idno></person>
+            <person xml:id="fk__p_46460">
+               <persName>Békessy, Imre</persName>
+               <birth>
+                  <date>1887-10-13</date>
+                  <place>Deutschkreuz</place>
+               </birth>
+               <death>
+                  <date>1951-3-15</date>
+                  <place>Budapest</place>
+               </death>
+               <occupation>Zeitungsverleger</occupation>
+               <note type="comment">Wikipedia gibt als Todesdatum an: "vor dem 17. März 1951"</note>
+               <note type="comment">Deutschkreuz</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37843</idno></person>
+            <person xml:id="fk__p_49349">
+               <persName>Beethoven, Ludwig van</persName>
+               <birth>
+                  <date>1770-12-17</date>
+                  <place>Bonn</place>
+               </birth>
+               <death>
+                  <date>1827-3-26</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Komponist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10866</idno></person>
+            </listPerson></back></text>
+</TEI>

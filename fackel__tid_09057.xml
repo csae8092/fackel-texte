@@ -1,0 +1,43 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_09057.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09056.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09058.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Der Sender der Abschrift eines Claudius-Briefes, der, in: Fackel Heft 23, Nr. 583, 1921, S. 34-34</title>
+            <title type="iso-date">1921-12-01</title>
+            <title type="id">tid_09057</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">23</title><title type="heft">583</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-23-583_n0034.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/583,034</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Der Sender der Abschrift eines Claudius-Briefes, der</head>
+            <p ana="pr120852">
+<space/>Der Sender der Abschrift eines <rs type="pers" ana="n_74122" ref="#fk__p_49871">Claudius-Briefes</rs>, der<lb/>
+seinen Namen »mit Rücksicht auf seine persönlichen Verhältnisse<lb/>
+ verschweigt«, wird ersucht, seine Adresse dem Verlag der<lb/>
+<rs type="self" ana="werk_23057">Fackel</rs> bekanntzugeben.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_49871">
+               <persName>Claudius, Matthias</persName>
+               <birth>
+                  <date>1740-08-15</date>
+                  <place>Rheinfeld/Holstein</place>
+               </birth>
+               <death>
+                  <date>1815-01-21</date>
+                  <place>Hamburg</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Enkel Hermann Claudius 19.10.1878-8.9.1980, Arbeiterlied "Mit uns zieht die neue Zeit"</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/39422</idno></person>
+            </listPerson></back></text>
+</TEI>

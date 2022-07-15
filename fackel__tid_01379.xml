@@ -1,0 +1,37 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01379.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01378.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01380.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Zeitgenosse. (Zeitgenosse), in: Fackel Heft 02, Nr. 058, 1900, S. 27-27</title>
+            <title type="iso-date">1900-11-01</title>
+            <title type="id">tid_01379</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">058</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-058_n0027.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/058,027</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Zeitgenosse. (Zeitgenosse)</head>
+            <p ana="pr13142">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="n_10921" ref="#fk__p_55841">Zeitgenosse</rs>.</seg></seg></seg> Ueber »<rs type="inst"><rs type="pers" ana="n2_848" ref="#fk__p_57539">Barnum</rs></rs> in Wien« schreiben die Blätter:<lb/>
+»Eine echt amerikanische Idee ist die <seg type="spc">Heizung</seg> des colossalen Baues<lb/>
+<seg type="spc">mit</seg> seinen vielen Glasthüren und Fenstern. Die Fachmänner staunten<lb/>
+über dieses Vorhaben <seg type="symbol" subtype="3dots"/>« Die <seg type="insult"><choice><sic>Fachmännner</sic><corr>Fachmänner</corr></choice></seg> wissen eben nicht, welch<lb/>
+gewaltige Kohlentheuerung jetzt in Wien herrscht.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_55841">
+               <persName>Zeitgenosse</persName>
+            </person>
+            <person xml:id="fk__p_57539">
+               <persName>Barnum (Barnum &amp; Bailey, Zirkus)</persName>
+            </person>
+            </listPerson></back></text>
+</TEI>

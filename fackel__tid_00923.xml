@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00923.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00922.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00924.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Herrn Dr. O. F. Eirich, Advocat und Agent, Verfasser des Stückes »Ein gutes Geschäft oder Profitängsten«. (Herrn Dr. O. F. Eirich), in: Fackel Heft 02, Nr. 038, 1900, S. 32-32</title>
+            <title type="iso-date">1900-04-01</title>
+            <title type="id">tid_00923</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">038</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-038_n0032.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/038,032</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Herrn Dr. O. F. Eirich, Advocat und Agent, Verfasser des Stückes »Ein gutes Geschäft oder Profitängsten«. (Herrn Dr. O. F. Eirich)</head>
+            <p ana="pr8776">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i">Herrn <rs type="pers" ana="n_6953" ref="#fk__p_50747"><abbr>Dr. O. F.</abbr> Eirich</rs>, Advocat und Agent, Verfasser des<lb/>
+Stückes »<rs type="title">Ein gutes Geschäft oder Profitängsten</rs>«.</seg></seg></seg> Nein, das geht<lb/>
+nicht. Von <rs type="pers" ana="n_6954" ref="#fk__p_46664">Offenbachs</rs> Operetten dürfen Sie keine Percente nehmen;<lb/>
+die sind ja doch schon seit <date>1890</date> frei! Theilen Sie das nur,<lb/>
+bitte, beispielsweise der Direction des <rs type="inst"><rs type="pers" ana="n2_519" ref="#fk__p_46751">Jantsch-Theaters</rs></rs> mit, von der<lb/>
+Sie für die Aufführung von <rs type="pers" ana="n_6955" ref="#fk__p_46664">Offenbachs</rs> Werken fünf Percent verlangen<lb/>
+. Ihr Verhältnis zu Autoren und Directoren interessiert mich<lb/>
+sehr. Sie müssen in Hinkunft die Ihnen ausgelieferten Dramatiker<lb/>
+wenigstens immer genau von der <seg type="spc">Zahl</seg> der Aufführungen ihrer<lb/>
+Stücke unterrichten. Dass mir ein solches telephonisches Gespräch<lb/>
+zwischen Ihnen und einem Autor, wie es neulich geführt ward,<lb/>
+nicht wieder vorkommt! <seg type="spc">Autor</seg>, der in einem polnischen Blatte eine<lb/>
+günstige Kritik der Aufführung seines Stückes in Krakau gelesen<lb/>
+hat: »Herr Doctor, ist mein Stück nicht ins Polnische übersetzt?«<lb/>
+<seg type="spc">Sie</seg>: »Nein!« <seg type="spc">Autor</seg>: »Aber es ist doch in Krakau aufgeführt<lb/>
+worden?« <seg type="spc">Sie</seg>: »So?« <seg type="spc">Autor</seg>: »Hat es gefallen?« <seg type="spc">Sie</seg>: »Ja!«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_50747">
+               <persName>Eirich, Oskar Friedrich</persName>
+               <birth>
+                  <date>1845-7-28</date>
+                  <place>Peterwardein</place>
+               </birth>
+               <death>
+                  <date>1921-3-7</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Rechtsanwalt</occupation>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Übersetzer</occupation>
+               <occupation>Verleger</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2874</idno></person>
+            <person xml:id="fk__p_46664">
+               <persName>Offenbach, Jacques</persName>
+               <birth>
+                  <date>1819-06-21</date>
+                  <place>Köln</place>
+               </birth>
+               <death>
+                  <date>1880-10-05</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Komponist</occupation>
+               <note type="comment">Ögg teilt Fortunato F 876/34 Shakespeare zu</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/9131</idno></person>
+            <person xml:id="fk__p_46751">
+               <persName>Jantsch, Heinrich</persName>
+               <birth>
+                  <date>1845-03-07</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1899-02-05</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <occupation>Theaterleiter</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/8013</idno></person>
+            </listPerson></back></text>
+</TEI>

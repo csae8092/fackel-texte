@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_11490.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11489.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11491.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Die Ausnahme, in: Fackel Heft 32, Nr. 838, 1930, S. 97-97</title>
+            <title type="iso-date">1930-09-01</title>
+            <title type="id">tid_11490</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">32</title><title type="heft">838</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-32-838_n0097.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/838,097</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Die Ausnahme</head>
+            <p ana="pr166994">
+<space/>— — der <RS pers="Leopold Lipschütz" globID="name_202252">Präsident</RS> (der »<rs type="inst">Concordia</rs>«) sagte bei diesem Anlasse:<lb/>
+</p>
+            <p ana="pr166995">
+<space/>»Würde <rs type="pers" ana="n_100042" ref="#fk__p_43876">Schiller</rs> in unserer Zeit leben, dann müßte er die Mimen<lb/>
+nicht bedauern, weil ihnen die Nachwelt keine Kränze flicht. Die<lb/>
+Götter haben die Klage der Schauspieler und Sänger erhört, ihr Ruhm<lb/>
+verlischt nicht mehr mit dem letzten Atemzug. — — Grammophon — —<lb/>
+huschen noch <seg type="spc">springlebendig</seg> über die Filmleinwand — — Uns<lb/>
+Journalisten ist das Schicksal nicht so gnädig. Wenn wir sterben, sind<lb/>
+wir endgültig tot. — — Wir kämpfen für Ideen, und wenn das Ziel<lb/>
+erreicht ist, dann erinnert sich niemand mehr an die Kämpfer. — —<lb/>
+<seg type="spc"><rs type="pers" ana="n_100043" ref="#fk__p_50373">Moriz Benedikt</rs> bildet eine Ausnahme</seg>. <seg type="spc">Seine kraftvolle<lb/>
+ Individualität hat den Tod überdauert</seg>, er steht<lb/>
+noch frisch in der Erinnerung der Allgemeinheit. <seg type="spc">Die Ausstrahlungen<lb/>
+ seines feurigen Temperaments wirken fort</seg>.<lb/>
+<seg type="spc">Unvergessen ist sein Stil</seg>, <seg type="spc">der in der ersten Zeile<lb/>
+erkennbar</seg> war — —«<lb/>
+</p>
+            <p ana="pr166997">
+Gewiß, wer würde sich nicht erinnern, daß die Nase der <rs type="pers" ana="n_100044" ref="#fk__p_47879">Kleopatra</rs><lb/>
+eine besondere Schönheit war und die Familie <rs type="pers" ana="n_100045" ref="#fk__p_39519">Brodsky</rs> eine der<lb/>
+reichsten in Kiew?<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_47879">
+               <persName>Kleopatra</persName>
+               <birth>
+                  <date>69? BC</date>
+               </birth>
+               <death>
+                  <date>30-8-12 BC</date>
+                  <place>Alexandria</place>
+               </death>
+               <occupation>Königin</occupation>
+            </person>
+            <person xml:id="fk__p_50373">
+               <persName>Benedikt, Moriz</persName>
+               <birth>
+                  <date>1849-5-27</date>
+                  <place>Kwatschitz/Mähren</place>
+               </birth>
+               <death>
+                  <date>1920-3-18</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <note type="comment">Geburtsort Kwatschitz bei Ungarisch Hradisch/Mähren, nicht Kwassitz bei Kremsier</note>
+               <note type="comment">1. Tor, 20/1/1a</note>
+               <note type="comment">Hrsg. der NFP (seit 1908 alleiniger Leiter)</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10875</idno></person>
+            <person xml:id="fk__p_39519">
+               <persName>Brodsky</persName>
+               <note type="comment">"die Familie Brodsky war eine der reichsten in Kiew" Presse-Stehsatz</note>
+            </person>
+            <person xml:id="fk__p_43876">
+               <persName>Schiller, Friedrich von</persName>
+               <birth>
+                  <date>1759-11-10</date>
+                  <place>Marbach am Neckar</place>
+               </birth>
+               <death>
+                  <date>1805-5-9</date>
+                  <place>Weimar</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Mortimer 363/9, 679/69, 912/7 und 912/58 ist von Ögg Shakespeare zugeordnet</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12654</idno></person>
+            </listPerson></back></text>
+</TEI>

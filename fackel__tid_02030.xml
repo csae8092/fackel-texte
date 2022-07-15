@@ -1,0 +1,44 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02030.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02029.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02031.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Einem Neugierigen. (Ein verdienter Orden), in: Fackel Heft 03, Nr. 085, 1901, S. 28-28</title>
+            <title type="iso-date">1901-11-16</title>
+            <title type="id">tid_02030</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">03</title><title type="heft">085</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-03-085_n0028.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/085,028</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Einem Neugierigen. (Ein verdienter Orden)</head>
+            <p ana="pr19764">
+<space/><seg type="sidehead"><seg type="i">Einem Neugierigen.</seg></seg> <seg type="insult">Dem Verkehrsinspector der Südbahn <abbr>kaiserl.</abbr><lb/>
+Rath <rs type="pers" ana="n_16891" ref="#fk__p_42604"><seg type="spc">Emil Casper</seg></rs></seg> ist, wie die Tagesblätter melden, vom König der<lb/>
+Hellenen das <seg type="insult">Ritterkreuz des <seg type="spc">Erlöserordens</seg></seg> verliehen worden. Ob<lb/>
+dies aus Dankbarkeit für die Erlösung aus den Aengsten geschah, die<lb/>
+der König der Hellenen während einer Fahrt auf der Südbahn ausgestanden<lb/>
+ hat, ist mir leider nicht bekannt.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_42604">
+               <persName>Casper, Emil</persName>
+               <birth>
+                  <date>1853</date>
+                  <place>Elsaß</place>
+               </birth>
+               <death>
+                  <date>1904-09-05</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Direktor der Südbahngesellschaft</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

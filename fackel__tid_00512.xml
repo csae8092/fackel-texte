@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00512.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00511.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00513.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Couloir. (Couloir), in: Fackel Heft 01, Nr. 021, 1899, S. 30-30</title>
+            <title type="iso-date">1899-10-01</title>
+            <title type="id">tid_00512</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">021</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-021_n0030.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/021,030</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Couloir. (Couloir)</head>
+            <p ana="pr4799">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_3650" key="#fk__p_40132">Couloir</rs>.</seg></seg> <seg type="insult">Der <rs type="inst">parlamentarische Berichterstatter</rs> der ‚<rs type="paper" ana="werk_1242">Neuen<lb/>
+Freien Presse</rs>‘</seg> hat eben einen Ausweg gefunden, wie das <rs type="paperRef" ana="werk_1243">Blatt</rs> jedem<lb/>
+Vorwurfe <seg type="insult">falscher Informiertheit oder bewusster Lüge</seg> von vorneherein<lb/>
+ begegnen könne. Wenn man in der gleichen <rs type="paperRef" ana="werk_1244">Nummer</rs> zwei<lb/>
+einander widersprechende Nachrichten bringt, so kann es immerhin<lb/>
+vorkommen, dass wirklich eine davon richtig ist. Eine <seg type="insult">Illustration zu<lb/>
+dieser Taktik</seg> bietet der Bericht über die Eröffnungssitzung des <rs type="inst">Abgeordnetenhauses<lb/>
+</rs> (<rs type="paperRef" ana="werk_1245">Abendblatt</rs> vom <date>18. October</date>). In der Einleitung<lb/>
+heißt es über die Erklärung des <rs type="pers" ana="n_3651" ref="#fk__p_44862">Grafen Clary</rs> wörtlich: »<seg type="spc">Als er</seg><lb/>
+<seg type="spc">schloss, blieb das Haus ruhig, weder Beifall noch Missfallensrufe<lb/>
+ begleiteten den Schluss der Rede</seg>.« Dann<lb/>
+folgt die Rede, und an deren Schluss heißt es wörtlich: — — — —<lb/>
+»(<seg type="spc">Lebhafter Beifall und Händeklatschen</seg>. <seg type="spc">Lärm und Widerspruch<lb/>
+ bei den Jungtschechen</seg>. <seg type="spc">Anhaltende Bewegung</seg>.)«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_44862">
+               <persName>Clary-Aldringen, Manfred Graf</persName>
+               <birth>
+                  <date>1852-05-30</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1928-02-12</date>
+                  <place>Schloß Hernau/Salzburg</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <note type="comment">1898-1918 Statthalter der Steiermark, Ministerpräsident von Cisleithanien, Herrenhausmitglied</note>
+               <note type="comment">2.10.1899 bis 21.12.1899 Min.präs. und Ackerbauminister, sollte die Badenische Sprachenverordnung zurücknehmen</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

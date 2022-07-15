@@ -1,0 +1,43 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03613.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03612.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03614.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Astronom. (Ein Komet), in: Fackel Heft 06, Nr. 162, 1904, S. 32-32</title>
+            <title type="iso-date">1904-05-19</title>
+            <title type="id">tid_03613</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">06</title><title type="heft">162</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-06-162_n0032.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/162,032</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Astronom. (Ein Komet)</head>
+            <p ana="pr35932">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="name_203372" ref="#fk__p_60529">Astronom</rs>.</seg></seg></seg> <seg type="insult">Ein »Freund« der ‚<rs type="paper" ana="werk_13168">Neuen Freien Presse</rs>‘</seg> — es muß<lb/>
+auch <seg type="insult">solche Käuze</seg> geben — hat <seg type="insult">eine wesentliche Modifizierung der<lb/>
+astronomischen Begriffe</seg> vorgenommen. Er schreibt ihr (siehe <rs type="paperRef" ana="werk_13169">Abendblatt</rs><lb/>
+vom <date>11. Mai</date>), er habe »Sonntag abends 7 Uhr 32 Minuten einen<lb/>
+Kometen in Gestalt <seg type="insult">einer grünen <seg type="spc">Kugel</seg> am <seg type="spc">östlichen</seg> Himmel</seg><lb/>
+erblickt«. <seg type="insult">Auch andere Besucher des Restaurants <rs type="inst"><rs type="pers" ana="n2_2417" ref="#fk__p_54206">Tonello</rs></rs></seg> wollen <seg type="insult">diesen<lb/>
+eigenartigen Kometen</seg> gesehen haben. Sicher hatte er vor der ‚<rs type="paper" ana="werk_13170">Neuen<lb/>
+Freien Presse</rs>‘ den Schweif eingezogen.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_60529">
+               <persName>Astronom</persName>
+               <note type="comment"/>
+            </person>
+            <person xml:id="fk__p_54206">
+               <persName>Tonello (Restaurant)</persName>
+               <note type="comment">koscheres Restaurant; Siegmund Tonello, 2. Untere Donaustraße 1</note>
+               <note type="comment">Helmut Schwarzer: Oskar Tonello, Restaurateur (1881-1942)</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

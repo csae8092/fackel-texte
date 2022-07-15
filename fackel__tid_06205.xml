@@ -1,0 +1,40 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06205.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06204.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06206.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Der bessere Fortgang, in: Fackel Heft 15, Nr. 372, 1913, S. 45-45</title>
+            <title type="iso-date">1913-04-01</title>
+            <title type="id">tid_06205</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">15</title><title type="heft">372</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-15-372_n0045.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/372,045</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Der bessere Fortgang</head>
+            <p ana="pr83660">
+<space/>»Der 13jährige Bürgerschüler <rs type="pers" ana="n_58347" ref="#fk__p_45435">Hans <abbr>K.</abbr></rs>, Landstraße, Hauptstraße<lb/>
+ <abbr>Nr.</abbr> 22, hat sich gestern erhängt. Als Ursache des Selbstmordes<lb/>
+wird bezeichnet, daß die Eltern des Knaben von seiner Schulleitung<lb/>
+einen Mahnbrief wegen schlechten Fortganges erhalten hatten.«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_45435">
+               <persName>K., Hans</persName>
+               <birth>
+                  <date>1900?</date>
+               </birth>
+               <death>
+                  <date>1913</date>
+               </death>
+               <occupation>Schüler</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

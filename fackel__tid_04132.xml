@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_04132.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04131.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04133.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Beobachter. (Die sensible Annonce), in: Fackel Heft 07, Nr. 199, 1906, S. 23-24</title>
+            <title type="iso-date">1906-03-23</title>
+            <title type="id">tid_04132</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">07</title><title type="heft">199</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-07-199_n0023.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/199,023</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Beobachter. (Die sensible Annonce)</head>
+            <p ana="pr43388">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="name_203462" ref="#fk__p_39082">Beobachter</rs>.</seg></seg> <seg type="insult">Wandel der Zeiten!</seg> Ehedem hieß es einfach: <seg type="insult">Die<lb/>
+besten Klaviere bei <rs type="inst"><rs type="pers" ana="n2_2882" ref="#fk__p_59311">Kohn</rs></rs>.</seg> Jetzt ist die Annonce sensibel geworden:<lb/>
+»Das Klavier ist das adeligste Instrument <seg type="symbol" subtype="4dots"/> Edle Klaviermusik<lb/>
+ist sozusagen immer: Musik, einige tausend Meter über’m Meeresspiegel<lb/>
+ <seg type="symbol" subtype="4dots"/> Die Klaviere, die man jetzt bei <rs type="inst"><rs type="pers" ana="n2_2883" ref="#fk__p_59311">Kohn</rs></rs> vereinigt sieht, sind<lb/>
+aristokratischste Vertreter ihrer Rassen«. Natürlich gibt’s auch <seg type="insult">»eine<lb/>
+unendliche Fülle latenter Musik«</seg>. Früher war das <seg type="insult">Inseratengeschäft</seg> ein<lb/>
+offenes; jetzt ist es »latent«. Die Feuilletonisten müssen <seg type="insult">ihre schönsten<lb/>
+Bilder, Nuancen und Beobachtungen</seg> daran wenden. Ehedem hieß es<lb/>
+einfach: Preis eines <rs type="inst"><rs type="pers" ana="n2_2884" ref="#fk__p_39419">Bösendorfer-Klaviers</rs></rs> 2000 Gulden. Jetzt: »Zweitausend<lb/>
+Gulden kostet solch ein Instrument, dessen Äußeres, dessen langgestreckter,<lb/>
+aristokratisch-schlanker Leib, dessen ganze <seg type="ELIDASH">Maßenverhältnisse</seg> und Größenverhältnisse<lb/>
+ schon Harmonie atmen. Der Normalbürger wird kaum zweitausend<lb/>
+Gulden für ein Klavier seinem Budget abpressen können. Aber man<lb/>
+geht mit ziemlicher Unlust und Unzufriedenheit an den kleinen ‚überspielten<lb/>
+‘ Stutzflügel, der <seg type="insult">das häusliche <seg type="spc">Musikinstrumentar</seg></seg> repräsentiert,<lb/>
+wenn man einmal aus einem solchen Wunderkasten das Meer von<lb/>
+Wohlklang heraufschwellen hörte, das zwischen seinen schwarzen Holzwänden<lb/>
+</p>
+            <p ana="pr43388">
+ eingefangen ist.« — Das ist wahrscheinlich alles richtig, und<lb/>
+es ist wohl auch in Ordnung, daß Klaviere literarisch gewürdigt werden.<lb/>
+Nur wäre strenge darauf zu achten, daß, wenn sich ein Psycholog von<lb/>
+einem Klavier angeregt fühlt, die <seg type="insult">Anregung der Administration durch<lb/>
+die Firma</seg> unterbleibe.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_39082">
+               <persName>Beobachter</persName>
+            </person>
+            <person xml:id="fk__p_39419">
+               <persName>Bösendorfer, Ludwig</persName>
+               <birth>
+                  <date>1835-04-10</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1919-05-08</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Fabrikant</occupation>
+               <occupation>Klavierbauer</occupation>
+               <note type="comment">Klavierfabrik</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/43768</idno></person>
+            <person xml:id="fk__p_59311">
+               <persName>Kohn, Bernhard (Klavierfabrik)</persName>
+               <note type="comment">1., Himmelpfortgasse 20</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/28326</idno></person>
+            </listPerson></back></text>
+</TEI>

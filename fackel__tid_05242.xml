@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_05242.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05241.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05243.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Zur Beruhigung, in: Fackel Heft 12, Nr. 315, 1911, S. 10-11</title>
+            <title type="iso-date">1911-01-26</title>
+            <title type="id">tid_05242</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">12</title><title type="heft">315</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-12-315_n0010.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/315,010</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Zur Beruhigung</head>
+            <p ana="pr67952">
+vieler, die sich an der Sammlung für die Hinterbliebenen des<lb/>
+<rs type="pers" ana="n_49246" ref="#fk__p_40527"><abbr>Dr.</abbr> Franz</rs> zu beteiligen wünschen, erklärt die <rs type="paper" ana="werk_17947">Neue Freie Presse</rs><lb/>
+ausdrücklich:<lb/>
+</p>
+            <p ana="pr67954">
+<space/>Wir halten die Auffassungen und Anregungen der geehrten Einsender<lb/>
+ der allgemeinen Beachtung wert. Wir werden diese hochherzigen<lb/>
+</p>
+            <p ana="pr67954">
+Spenden, sowie die anderen uns zugekommenen Beträge <seg type="spc">ihrem<lb/>
+Zwecke zuführen</seg>, und die Administration der <rs type="paper" ana="werk_17948">Neuen Freien Presse</rs><lb/>
+ist <seg type="spc">gerne bereit</seg>, Beiträge zur Versorgung der unglücklichen Hinterbliebenen<lb/>
+ des <rs type="pers" ana="n_49247" ref="#fk__p_40527"><abbr>Dr.</abbr> Franz</rs> entgegenzunehmen, auszuweisen und <seg type="spc">gemäß<lb/>
+der Widmung zu verwenden</seg>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_40527">
+               <persName>Franz, Richard</persName>
+               <birth>
+                  <date>1874-10-18</date>
+                  <place>Linz</place>
+               </birth>
+               <death>
+                  <date>1911-1-8</date>
+                  <place>Riedau/Oberösterreich</place>
+               </death>
+               <occupation>Arzt</occupation>
+               <note type="comment">Typhus Fälle in Riedau, Oberösterreich</note>
+               <note type="comment">26.01.1911: die jetzt auf dem Grab des Doktor Franz Leitartikel pflanzen</note>
+               <note type="comment">Beisetzung in Linz am 09.01.1911</note>
+               <note type="comment">seit 1907 Gmd.-Arzt von Riedau</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

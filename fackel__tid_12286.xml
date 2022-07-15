@@ -1,0 +1,105 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_12286.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_12285.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_12287.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Brünn, Deutsches Haus, in: Fackel Heft 37, Nr. 909, 1935, S. 2-2</title>
+            <title type="iso-date">1935-05-01</title>
+            <title type="id">tid_12286</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">37</title><title type="heft">909</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-37-909_n0002.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/909,002</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Brünn, Deutsches Haus</head>
+            <p ana="pr181712">
+<space/><seg type="spc">Brünn</seg>, <rs type="inst">Deutsches Haus</rs>, <date>6. Februar, <seg type="spc">1933</seg></date>:<lb/>
+</p>
+            <p ana="pr181713">
+<space/><RS pers="Gerhart Hauptmann"><rs type="title" ana="name_201918" ref="#fk__p_44354"><seg type="spc">Die Weber</seg></rs></RS><lb/>
+</p>
+            <p ana="pr181714">
+<space/><date>7. Februar</date>:<lb/>
+</p>
+            <p ana="pr181715">
+<space/><RS pers="Jacques Offenbach"><rs type="title" ana="name_201919" ref="#fk__p_46664"><rs type="pers"><seg type="spc">Perichole</seg></rs></rs></RS><lb/>
+</p>
+            <p ana="pr181716">
+<space/><date>27. März</date>:<lb/>
+</p>
+            <p ana="pr181717">
+<space/><RS pers="William Shakespeare"><rs type="title" ana="name_201920" ref="#fk__p_55589"><rs type="pers"><seg type="spc">König Lear</seg></rs></rs></RS><lb/>
+</p>
+            <p ana="pr181718">
+<space/><date>28. März</date>:<lb/>
+</p>
+            <p ana="pr181719">
+<space/><SPAN cont="I.">I<ADD>.</ADD></SPAN> Vorwort über die Abänderung des Programms (statt <rs type="pers" ana="n_107393" ref="#fk__p_46664">Offenbachs</rs>).<lb/>
+</p>
+            <p ana="pr181720">
+— <RS pers="Johann Wolfgang von Goethe"><rs type="title" ana="name_201921" ref="#fk__p_46960"><rs type="pers"><seg type="spc">Pandora</seg></rs></rs></RS><lb/>
+</p>
+            <p ana="pr181721">
+<space/><SPAN cont="II.">II<ADD>.</ADD></SPAN> Aus eigenen Schriften<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_55589">
+               <persName>Shakespeare, William</persName>
+               <birth>
+                  <date>1564-4-23?</date>
+                  <place>Stratford-upon-Avon</place>
+               </birth>
+               <death>
+                  <date>1616-4-23</date>
+                  <place>Stratford-upon-Avon</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2412</idno></person>
+            <person xml:id="fk__p_46960">
+               <persName>Goethe, Johann Wolfgang von</persName>
+               <birth>
+                  <date>1749-8-28</date>
+                  <place>Frankfurt am Main</place>
+               </birth>
+               <death>
+                  <date>1832-3-22</date>
+                  <place>Weimar</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">890/142f.</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11461</idno></person>
+            <person xml:id="fk__p_46664">
+               <persName>Offenbach, Jacques</persName>
+               <birth>
+                  <date>1819-06-21</date>
+                  <place>Köln</place>
+               </birth>
+               <death>
+                  <date>1880-10-05</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Komponist</occupation>
+               <note type="comment">Ögg teilt Fortunato F 876/34 Shakespeare zu</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/9131</idno></person>
+            <person xml:id="fk__p_44354">
+               <persName>Hauptmann, Gerhart</persName>
+               <birth>
+                  <date>1862-11-15</date>
+                  <place>Salzbrunn, Schlesien</place>
+               </birth>
+               <death>
+                  <date>1946-6-6</date>
+                  <place>Agnetendorf</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Ögg teilt die indirekte Stelle 521/64 zu, irrtümlich</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11617</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_08943.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08942.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08944.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ein Brief Masaryks, in: Fackel Heft 23, Nr. 568, 1921, S. 33-34</title>
+            <title type="iso-date">1921-05-01</title>
+            <title type="id">tid_08943</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">23</title><title type="heft">568</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-23-568_n0033.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/568,033</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ein Brief Masaryks</head>
+            <p ana="pr119175">
+Sehr geehrter Herr <rs type="pers" ana="n_73316" ref="#fk__p_47565">Kraus</rs>,<lb/>
+</p>
+            <p ana="pr119176">
+<space/><rs type="selfRef" ana="werk_22792"><abbr>Nr.</abbr> 293</rs> der ‚<rs type="self" ana="werk_22793">Fackel</rs>‘ sagt vieles, was ich denke<lb/>
+und gelegentlich noch öffentlich zu sagen gedenke —<lb/>
+ich fühle mit Ihnen, daß das »kleine« Serbien und<lb/>
+die Kroaten in der Sache um so viel höher gestanden<lb/>
+sind, als <seg type="insult">das »große« Oesterreich</seg>, und ich beurteile<lb/>
+<seg type="insult">dieses offizielle Oesterreich</seg> ganz so wie Sie.<lb/>
+</p>
+            <p ana="pr119177">
+Ihr ergebener<lb/>
+</p>
+            <p ana="pr119178">
+Professor <rs type="pers" ana="n_73317" ref="#fk__p_53883"><AUCTOR><abbr>T. G.</abbr> Masaryk</AUCTOR></rs>,<lb/>
+Prag.<lb/>
+</p>
+            <p ana="pr119179">
+<date>8/1 10</date><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_53883">
+               <persName>Masaryk, Thomas Garrigue</persName>
+               <birth>
+                  <date>1850-03-07</date>
+                  <place>Göding/Mähren</place>
+               </birth>
+               <death>
+                  <date>1937-09-14</date>
+                  <place>Schloß Lana/Prag</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <occupation>Philosoph</occupation>
+            </person>
+            <person xml:id="fk__p_47565">
+               <persName>Kraus, Karl</persName>
+               <birth>
+                  <date>1874-4-28</date>
+                  <place>Jicin, Böhmen</place>
+               </birth>
+               <death>
+                  <date>1936-6-12</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Publizist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11988</idno></person>
+            </listPerson></back></text>
+</TEI>

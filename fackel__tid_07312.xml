@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07312.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07311.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07313.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Der Blick hat sich verändert, in: Fackel Heft 18, Nr. 431, 1916, S. 53-53</title>
+            <title type="iso-date">1916-08-01</title>
+            <title type="id">tid_07312</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">18</title><title type="heft">431</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-18-431_n0053.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/431,053</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Der Blick hat sich verändert</head>
+            <p ana="pr98755">
+<space/><seg type="symbol" subtype="3dots"/> Heute stehen wir zwei Jahre im <rs type="event">Weltkrieg</rs> und die durch ihn<lb/>
+geschaffene Notwendigkeit, die Frauen zu allen Männerberufen heranzuziehen<lb/>
+, läßt uns das Lustspiel <rs type="pers" ana="n_65307" ref="#fk__p_38582"><seg type="spc">Strindbergs</seg></rs> mit anderen Augen<lb/>
+schauen <seg type="symbol" subtype="4dots"/><lb/>
+</p>
+            <p ana="pr98756">
+<space/><seg type="symbol" subtype="3dots"/> Heute wird es uns schwer, den Kampf der Geschlechter,<lb/>
+wie ihn <rs type="pers" ana="n_65308" ref="#fk__p_43433"><seg type="spc">Wedekind</seg></rs> mit dem ihm eigenen Hang zum Absonderlichen<lb/>
+in dramatischem Freskostil ausmalt, neben der tragischen Wucht des<lb/>
+<rs type="event">Weltkrieges</rs> als tragisches Weltbild gelten zu lassen <seg type="symbol" subtype="4dots"/><lb/>
+</p>
+            <p ana="pr98758">
+<space/>So in <seg type="insult">dem <rs type="perRef" ana="werk_20665">Kulissentratschblatt eines tragischen Leo Stein</rs></seg>,<lb/>
+der dem <rs type="event">Weltkrieg</rs> die Libretti liefert.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_38582">
+               <persName>Strindberg, August</persName>
+               <birth>
+                  <date>1849-1-22</date>
+                  <place>Stockholm</place>
+               </birth>
+               <death>
+                  <date>1912-5-14</date>
+                  <place>Stockholm</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12877</idno></person>
+            <person xml:id="fk__p_43433">
+               <persName>Wedekind, Frank</persName>
+               <birth>
+                  <date>1864-7-24</date>
+                  <place>Hannover</place>
+               </birth>
+               <death>
+                  <date>1918-3-9</date>
+                  <place>München</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/13068</idno></person>
+            </listPerson></back></text>
+</TEI>

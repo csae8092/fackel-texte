@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01013.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01012.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01014.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Kunstgewerbe. (Kunstgewerbe), in: Fackel Heft 02, Nr. 042, 1900, S. 32-32</title>
+            <title type="iso-date">1900-05-01</title>
+            <title type="id">tid_01013</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">042</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-042_n0032.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/042,032</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Kunstgewerbe. (Kunstgewerbe)</head>
+            <p ana="pr9690">
+<space/><seg type="sidehead"><seg type="i">Kunstgewerbe.</seg></seg> Der <rs type="inst">Niederösterreichische Gewerbeverein</rs> hat<lb/>
+also schließlich doch die Namen der Stipendisten veröffentlicht. Zehn<lb/>
+haben je 700, zwei je 500 Kronen erhalten. Aus den unklaren<lb/>
+Reden <seg type="insult">der Herren <rs type="pers" ana="n_7871" ref="#fk__p_54554">Harpke</rs> und <rs type="pers" ana="n_7872" ref="#fk__p_52849">Schedewy</rs></seg> in der Generalversammlung<lb/>
+waren nicht einmal diese Zahlen zu entnehmen. Es war also noch<lb/>
+ärger, als ich geglaubt hatte. Man hat die ursprünglichen sechs<lb/>
+Stipendien auf zwölf vermehren müssen, um alle <seg type="insult">Protectionskinder</seg><lb/>
+und nicht ausschließlich <seg type="insult">Protectionskinder</seg> zu betheilen. Dass <seg type="insult">die<lb/>
+Herren im <rs type="inst">Gewerbeverein</rs></seg> bei der jetzigen Veröffentlichung nicht<lb/>
+noch besonders auf die Richtigkeit der Bemerkungen der ‚<rs type="self" ana="werk_2766">Fackel</rs>‘<lb/>
+hinweisen wollten und von der sonst üblichen Veröffentlichung der<lb/>
+Namen der <seg type="spc">Juroren</seg> auch diesmal absahen, ist ihnen schließlich<lb/>
+nicht zu verargen.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_52849">
+               <persName>Schedewy, Alois</persName>
+               <birth>
+                  <date>1848-7-1</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1922-10-30</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Kaufmann</occupation>
+               <note type="comment">Prok. und Teilh. der Fa. Joh. Backhausen &amp; Söhne, 6., Mollardgasse 56</note>
+               <note type="comment">Obmann der Abt. für Kunstgewerbe bei der Pariser Ausstellung</note>
+               <note type="comment">ZF bestätigt Daten</note>
+            </person>
+            <person xml:id="fk__p_54554">
+               <persName>Harpke, Anton Edler von</persName>
+               <birth>
+                  <date>1840</date>
+               </birth>
+               <death>
+                  <date>1903-04-16</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Bankdirektor</occupation>
+               <note type="comment">Präs. des n.ö. Gewerbe-Vereins; 7., Hermanngasse 36</note>
+               <note type="comment">1. Österr. Spar-Casse</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

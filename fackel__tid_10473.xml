@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_10473.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10472.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10474.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">250. Wiener Vorlesung., in: Fackel Heft 27, Nr. 717, 1926, S. 108-108</title>
+            <title type="iso-date">1926-04-01</title>
+            <title type="id">tid_10473</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">27</title><title type="heft">717</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-27-717_n0108.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/717,108</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>250. Wiener Vorlesung.</head>
+            <p ana="pr144168">
+<space/><seg type="spc">250. Wiener Vorlesung</seg>.<lb/>
+</p>
+            <p ana="pr144169">
+<space/><rs type="inst">Mittlerer Konzerthaussaal</rs>, <date>14. März</date>, 7 Uhr:<lb/>
+</p>
+            <p ana="pr144170">
+<space/>I. <rs type="title"><seg type="insult">Die Presse</seg></rs>. Von <rs type="pers" ana="n_87698" ref="#fk__p_55531">Wilhelm Liebknecht</rs> (zum 100. Geburtstag)<lb/>
+[Mit dem Nachwort: »<rs type="title">So <rs type="pers" ana="n2_7778" ref="#fk__p_55531">Wilhelm Liebknecht</rs>, der Führer der deutschen<lb/>
+Sozialdemokratie, ein Mann, der doch gewiß andere Sorgen hatte.</rs>«] —<lb/>
+<rs type="title"><seg type="insult"><rs type="pers" ana="n2_7779" ref="#fk__p_38072">Kerr</rs> in Paris</seg></rs> (gekürzt).<lb/>
+</p>
+            <p ana="pr144171">
+<space/>II. <rs type="title"><seg type="insult">Eine fatale Verwechslung</seg></rs> / <rs type="title">Pfleget den <seg type="insult">Fremdenverkehr</seg></rs>. —<lb/>
+<rs type="title">Der Biberpelz</rs> (<date>Mai 1910</date>).<lb/>
+</p>
+            <p ana="pr144172">
+<space/>III. <rs type="title">Verkürzte Achtung</rs>. — <rs type="title"><seg type="insult">Der Nichtgenannte</seg></rs>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_38072">
+               <persName>Kerr, Alfred</persName>
+               <birth>
+                  <date>1867-12-25</date>
+                  <place>Breslau</place>
+               </birth>
+               <death>
+                  <date>1948-10-12</date>
+                  <place>Hamburg</place>
+               </death>
+               <occupation>Kritiker</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11910</idno></person>
+            <person xml:id="fk__p_55531">
+               <persName>Liebknecht, Wilhelm</persName>
+               <birth>
+                  <date>1826-03-29</date>
+                  <place>Gießen</place>
+               </birth>
+               <death>
+                  <date>1900-08-07</date>
+                  <place>Charlottenburg</place>
+               </death>
+               <occupation>Sozialist</occupation>
+               <occupation>Journalist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/51864</idno></person>
+            </listPerson></back></text>
+</TEI>

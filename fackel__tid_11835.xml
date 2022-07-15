@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_11835.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11834.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11836.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Es liegt am Namen, in: Fackel Heft 33, Nr. 857, 1931, S. 23-23</title>
+            <title type="iso-date">1931-08-01</title>
+            <title type="id">tid_11835</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">33</title><title type="heft">857</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-33-857_n0023.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/857,023</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Es liegt am Namen</head>
+            <p ana="pr171409">
+Von Oberhausmitglied <rs type="pers" ana="n_102368" ref="#fk__p_40774"><abbr>Dr.</abbr> <seg type="spc">Bela Schober</seg></rs>.<lb/>
+Generaldirektor der <rs type="inst">Ungarischen Nationalbank</rs>.<lb/>
+</p>
+            <p ana="pr171411">
+Fiebernd suchte der Blick. Da:<lb/>
+</p>
+            <p ana="pr171413">
+— — hielt es die Regierung für ihre <seg type="spc">Pflicht</seg> — —<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_40774">
+               <persName>Schober, Béla</persName>
+               <birth>
+                  <date>1867-3-1</date>
+                  <place>Pest</place>
+               </birth>
+               <death>
+                  <date>1946-2-14</date>
+                  <place>Budapest</place>
+               </death>
+               <occupation>Bankbeamter</occupation>
+               <occupation>Politiker</occupation>
+               <note type="comment">Gen. Dir. der Ung. Nationalbank</note>
+               <note type="comment">Mitglied des Oberhauses</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

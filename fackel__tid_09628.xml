@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_09628.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09627.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09629.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Pest in Wien, in: Fackel Heft 25, Nr. 632, 1923, S. 132-132</title>
+            <title type="iso-date">1923-10-01</title>
+            <title type="id">tid_09628</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">25</title><title type="heft">632</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-25-632_n0132.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/632,132</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Pest in Wien</head>
+            <p ana="pr129171">
+<space/>In <seg type="insult"><rs type="perRef" ana="werk_25457">einem der Waitzener Boulevard-Blätter</rs></seg>, die jetzt in<lb/>
+Wien erscheinen, war zu lesen:<lb/>
+</p>
+            <p ana="pr129173">
+<space/>Diese Autoren wissen nämlich, daß, wenn auch Bonvivants<lb/>
+und erste Komiker die Säulen ihrer Werke sind, die Anwesenheit<lb/>
+einer schönen, mondänen Frau, die durch <seg type="spc">ihre Charme</seg> alle<lb/>
+Herzen knickt, unerläßlich ist. Sie sind in jedem Stück, <seg type="spc">wie<lb/>
+<rs type="pers" ana="n_79225" ref="#fk__p_48513">Beöthy Lászlo</rs> so richtig sagt</seg>: wie <seg type="spc">die Rose<lb/>
+auf der Torte</seg>!<lb/>
+</p>
+            <p ana="pr129175">
+<seg type="insult"><foreign xml:lang="de-loc"><SPAN norm="Teschek">Tescheek</SPAN>.</foreign></seg><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_48513">
+               <persName>Beöthy, László (Ladislaus)</persName>
+               <birth>
+                  <date>1873-4-13</date>
+                  <place>Buda</place>
+               </birth>
+               <death>
+                  <date>1931-5-7</date>
+                  <place>Budapest</place>
+               </death>
+               <occupation>Theaterleiter</occupation>
+               <occupation>Regisseur</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13609</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/14182</idno></person>
+            </listPerson></back></text>
+</TEI>

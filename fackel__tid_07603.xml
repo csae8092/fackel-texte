@@ -1,0 +1,40 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07603.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07602.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07604.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Erhebungen, in: Fackel Heft 18, Nr. 445, 1234, S. 53-53</title>
+            <title type="iso-date">1234-01-01</title>
+            <title type="id">tid_07603</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">18</title><title type="heft">445</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-18-445_n0053.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/445,053</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Erhebungen</head>
+            <p ana="pr102317">
+<space/>Gestern vormittag wurde im <rs type="inst">Hotel <rs type="pers" ana="n2_5828" ref="#fk__p_58571">Meißl</rs> &amp; <rs type="pers" ana="n2_5829" ref="#fk__p_58876">Schadn</rs></rs> im Speisesaale<lb/>
+, der gestern der Schauplatz der Bluttat war, von einem Beamten<lb/>
+der <rs type="inst">Polizeidirektion</rs> abermals ein Lokalaugenschein vorgenommen. Beim<lb/>
+Fenster hatte man, wie schon erwähnt worden ist, auf dem Boden nächst<lb/>
+der Leiche eine Revolverkugel gefunden. <seg type="spc">Es ist zweifellos</seg>, daß<lb/>
+auch sie von einem Schusse stammt, der gegen den Kopf des Ministerpräsidenten<lb/>
+ gerichtet war <seg type="symbol" subtype="4dots"/><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_58571">
+               <persName>Meißl (Meißl &amp; Schadn, Hotel-Restaurant, Wien)</persName>
+            </person>
+            <person xml:id="fk__p_58876">
+               <persName>Schadn (Meißl &amp; Schadn, Hotel-Restaurant)</persName>
+               <note type="comment">1., Neuer Markt</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

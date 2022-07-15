@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_08302.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08301.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08303.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ausschnitt aus der Wiener Allgemeinen Zeitung, in: Fackel Heft 20, Nr. 474, 1918, S. 148-149</title>
+            <title type="iso-date">1918-05-01</title>
+            <title type="id">tid_08302</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">20</title><title type="heft">474</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-20-474_n0148.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/474,148</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ausschnitt aus der Wiener Allgemeinen Zeitung</head>
+            <p ana="pr109542">
+<OMED>— —</OMED> Für unsere öffentliche Meinung ist die Angelegenheit<lb/>
+mit der hochsinnigen Kundgebung <rs type="pers" ana="n_68694" ref="#fk__p_47385">Kaiser Karls</rs> erledigt. Für die<lb/>
+Frankreichs freilich eröffnet sich jetzt das Feld einer höchst notwendigen<lb/>
+und dabei sehr verantwortungsvollen Tätigkeit. Sie wird sich die<lb/>
+Frage vorlegen müssen, ob <seg type="insult">dieser Mann</seg>, der mit einer Lüge Reiche<lb/>
+zu retten und Schlachten zu gewinnen sucht, geeignet ist, weiter die<lb/>
+Geschicke der ihm anvertrauten Millionen zu lenken.<lb/>
+</p>
+            <p ana="pr109543">
+<rs type="inst"><seg type="spc"><B>KAPELLE <rs type="pers" ana="n2_6168" ref="#fk__p_55606">WILLY KLEINBERG</rs></B></seg></rs><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_47385">
+               <persName>Karl I., Kaiser</persName>
+               <birth>
+                  <date>1887-08-17</date>
+                  <place>Persenbeug/NÖ</place>
+               </birth>
+               <death>
+                  <date>1922-04-01</date>
+                  <place>Quinta do Monte/Madeira</place>
+               </death>
+               <occupation>Kaiser</occupation>
+               <note type="comment">Ögg teilt irrt. 561/21 zu, da ist Franz Joseph I. gemeint</note>
+            </person>
+            <person xml:id="fk__p_55606">
+               <persName>Kleinberg, Wilhelm</persName>
+               <birth>
+                  <date>1873-7-10</date>
+                  <place>Drohobycz/Galizien</place>
+               </birth>
+               <occupation>Kapellmeister</occupation>
+               <note type="comment">1., Singerstr. 13</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00809.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00808.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00810.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Herrn v. Doczi. (Herrn v. Dóczi), in: Fackel Heft 01, Nr. 033, 1900, S. 27-28</title>
+            <title type="iso-date">1900-02-01</title>
+            <title type="id">tid_00809</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">033</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-033_n0027.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/033,027</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Herrn v. Doczi. (Herrn v. Dóczi)</head>
+            <p ana="pr7632">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i">Herrn <rs type="pers" ana="n_5965" ref="#fk__p_40507"><abbr>v.</abbr> Doczi</rs>.</seg></seg></seg> Sie haben am Schlusse der Delegationen<lb/>
+durch <seg type="insult">Herrn <rs type="pers" ana="n_5966" ref="#fk__p_44673">Goluchowski</rs></seg>, der ja <seg type="insult">Ihre rechte Hand</seg> sein soll, die<lb/>
+Versicherung abgeben lassen, dass Sie Ihre journalistische Thätigkeit<lb/>
+schon seit langem eingestellt haben. Ich habe es nie bezweifelt,<lb/>
+dass Ihnen das <seg type="insult">Herr <rs type="pers" ana="n_5967" ref="#fk__p_44673">Goluchowski</rs> oder sonst ein Subalterner im<lb/>
+<rs type="inst">Ministerium des Aeußern</rs></seg> wirklich glaubt. Aber vielleicht können Sie<lb/>
+</p>
+            <p ana="pr7632">
+mir mittheilen, wer <seg type="insult">den merkwürdigen Nachruf</seg> für den eben<lb/>
+pensionierten <seg type="spc">Staatsrath <rs type="pers" ana="n_5968" ref="#fk__p_56071">Braun</rs></seg> geschrieben hat, den die ‚<rs type="paper" ana="werk_2084">Neue<lb/>
+Freie Presse</rs>‘ vor kurzer Zeit veröffentlichte?<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_56071">
+               <persName>Braun, Adolf Aloys Freiherr von</persName>
+               <birth>
+                  <date>1818-6-17</date>
+                  <place>Prag-Bubna</place>
+               </birth>
+               <death>
+                  <date>1904-3-4</date>
+                  <place>Aussee</place>
+               </death>
+               <occupation>Diplomat</occupation>
+               <occupation>Politiker</occupation>
+            </person>
+            <person xml:id="fk__p_40507">
+               <persName>Dóczi-Nemet, Ludwig Freiherr von </persName>
+               <birth>
+                  <date>1845-11-27</date>
+                  <place>Deutschkreuz</place>
+               </birth>
+               <death>
+                  <date>1919-8-29</date>
+                  <place>Budapest</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <occupation>Publizist</occupation>
+            </person>
+            <person xml:id="fk__p_44673">
+               <persName>Goluchowski, Agenor Graf</persName>
+               <birth>
+                  <date>1849-03-25</date>
+                  <place>Lemberg</place>
+               </birth>
+               <death>
+                  <date>1921-03-28</date>
+                  <place>Lemberg</place>
+               </death>
+               <occupation>Diplomat</occupation>
+               <occupation>Politiker</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

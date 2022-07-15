@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03597.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03596.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03598.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Erschreckter Leser. (Ein Pathetiker), in: Fackel Heft 06, Nr. 161, 1904, S. 23-24</title>
+            <title type="iso-date">1904-05-5</title>
+            <title type="id">tid_03597</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">06</title><title type="heft">161</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-06-161_n0023.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/161,023</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Erschreckter Leser. (Ein Pathetiker)</head>
+            <p ana="pr35768">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="name_203363" ref="#fk__p_60512">Erschreckter Leser</rs>.</seg></seg> »Aus der <seg type="insult">Unterwürfigkeit der versauerten<lb/>
+und verknöcherten Gouvernante</seg> lauerte der <seg type="insult">Dämon berechnender Gewinnsucht<lb/>
+, rücksichtslosen Strebertums, tiefgewurzelten Menschenhasses</seg> unheimlich<lb/>
+ hervor, und mit Schaudern glaubte man in ihr das schlechte<lb/>
+Prinzip der Handlung, den bösen Feind des <rs type="pers">Kaiserschen Hauses</rs> zu<lb/>
+erkennen, der an <rs type="pers">Lorchens</rs> reiner Lichtgestalt zuschanden wird.« Von<lb/>
+welcher <seg type="insult">Tragödie</seg> spricht denn <seg type="insult">Herr <rs type="pers" ana="n_30698" ref="#fk__p_49936">Kalbeck</rs></seg>? Doch nicht etwa vom<lb/>
+»<rs type="title"><rs type="pers">Faust</rs></rs>«? Nein, bloß von <seg type="insult">den »<rs type="title">Beiden <rs type="pers">Leonoren</rs></rs>« des Herrn <rs type="pers" ana="n_30699" ref="#fk__p_51225">Paul Lindau</rs></seg>,<lb/>
+</p>
+            <p ana="pr35768">
+die im <rs type="inst">Burgtheater</rs> überflüssigerweise wieder aufgewärmt wurden, und<lb/>
+von der Leistung des Fräuleins <rs type="pers" ana="n_30700" ref="#fk__p_53189">Senders</rs>. Entweder bereitet der <rs type="pers" ana="n_30701" ref="#fk__p_46358">Hugo<lb/>
+Wolf-Prozeß</rs> <seg type="insult">Herrn <rs type="pers" ana="n_30702" ref="#fk__p_49936">Kalbeck</rs></seg> Alpdrücken oder eine Zahngeschwulst quält<lb/>
+ihn. Hoffentlich beruhigt er sich bald!<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46358">
+               <persName>Wolf, Hugo</persName>
+               <birth>
+                  <date>1860-3-13</date>
+                  <place>Windischgraz</place>
+               </birth>
+               <death>
+                  <date>1903-2-22</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Komponist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/13152</idno></person>
+            <person xml:id="fk__p_60512">
+               <persName>Erschreckter Leser</persName>
+               <note type="comment"/>
+            </person>
+            <person xml:id="fk__p_53189">
+               <persName>Senders, Ernestine (Tini)</persName>
+               <birth>
+                  <date>1874-7-23</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1941-6-17</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schauspielerin</occupation>
+               <occupation>Sängerin</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_20059</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/24838</idno></person>
+            <person xml:id="fk__p_49936">
+               <persName>Kalbeck, Max</persName>
+               <birth>
+                  <date>1850-1-4</date>
+                  <place>Breslau</place>
+               </birth>
+               <death>
+                  <date>1921-5-4</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Musikschriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11857</idno></person>
+            <person xml:id="fk__p_51225">
+               <persName>Lindau, Paul</persName>
+               <birth>
+                  <date>1839-6-3</date>
+                  <place>Magdeburg</place>
+               </birth>
+               <death>
+                  <date>1919-1-31</date>
+                  <place>Berlin</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Kritiker</occupation>
+               <occupation>Theaterleiter</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12078</idno></person>
+            </listPerson></back></text>
+</TEI>

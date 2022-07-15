@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01236.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01235.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01237.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Das türkische Deutsch des Grafen Goluchowski.), in: Fackel Heft 02, Nr. 053, 1900, S. 10-11</title>
+            <title type="iso-date">1900-09-01</title>
+            <title type="id">tid_01236</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">053</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-053_n0010.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/053,010</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Das türkische Deutsch des Grafen Goluchowski.)</head>
+            <p ana="pr11895">
+<space/><inciptit>Das</inciptit> ‚<rs type="paper" ana="werk_3661">Fremdenblatt</rs>‘ hat die <seg type="insult">Stilblüthe aus dem<lb/>
+Exposé des <rs type="pers" ana="n_9741" ref="#fk__p_44673">Grafen Goluchowski</rs></seg>, die es dem Sultan<lb/>
+<rs type="pers" ana="n_9742" ref="#fk__p_37729">Abdul Hamid II.</rs> zu seinem fünfundzwanzigjährigen<lb/>
+Jubiläum reichte, wie ich nachträglich bemerke, falsch<lb/>
+citiert. In <rs type="selfRef" ana="werk_3662"><abbr>Nr.</abbr> 25</rs> der ‚<rs type="self" ana="werk_3663">Fackel</rs>‘, in der ich <seg type="insult">einen ganzen<lb/>
+Stilblütenkranz aus jenem <choice><sic>Exposè</sic><corr>Exposé</corr></choice></seg> niedergelegt habe,<lb/>
+kann man den Wortlaut der Aeußerung des Ministers<lb/>
+nachlesen. »Einen besseren und uneigennützigeren<lb/>
+Freund als <seg type="spc">wir</seg> hat die Türkei gewiss nicht«, hat <rs type="pers" ana="n_9743" ref="#fk__p_44673">Graf<lb/>
+Goluchowski</rs> <DATERANGE>anfangs December 1899</DATERANGE> ausdrücklich erklärt<lb/>
+. Freilich war <seg type="insult">dieser Freund</seg> — das scheint das<lb/>
+‚<rs type="paper" ana="werk_3664">Fremdenblatt</rs>‘ neulich vergessen zu haben — mit<lb/>
+der Aufführung der Türkei nicht sonderlich zufrieden.<lb/>
+»Diesem Staate gegenüber«, sagte ich in meiner Besprechung<lb/>
+ des Exposés des <rs type="pers" ana="n_9744" ref="#fk__p_44673">Grafen Goluchowski</rs>,<lb/>
+»macht er sogar von der pädagogischen Regel,<lb/>
+die er sonst beobachtet, eine Ausnahme, der Regel<lb/>
+nämlich, dass der Schulmeister sich um häusliche<lb/>
+Angelegenheiten nicht zu kümmern habe <seg type="symbol" subtype="3dots"/> Er<lb/>
+spricht von tiefeingewurzelten Uebelständen in der<lb/>
+inneren Administration, von <seg type="insult">gewissenlosen, professionsmäßigen<lb/>
+ Hetzern</seg> <abbr>etc.</abbr>« Wie rasch und stark<lb/>
+sind doch die Wirkungen der Worte <seg type="insult">unseres <rs type="pers" ana="n_9745" ref="#fk__p_44673">Goluchowski<lb/>
+</rs></seg>! Kaum drei Vierteljahre sind vergangen, seit<lb/>
+die Türkei seinen herben Tadel erfuhr. Und schon<lb/>
+hat sie die gerügten Misstände beseitigt. Denn sonst<lb/>
+hätte doch wohl das ‚<rs type="paper" ana="werk_3665">Fremdenblatt</rs>‘ in seinem Leitartikel<lb/>
+ über <rs type="pers" ana="n_9746" ref="#fk__p_37729">Abdul Hamid</rs> ihrer Erwähnung thun<lb/>
+müssen?<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_37729">
+               <persName>Abdul Hamid II.</persName>
+               <birth>
+                  <date>1842-9-21</date>
+                  <place>Istanbul</place>
+               </birth>
+               <death>
+                  <date>1918-2-10</date>
+                  <place>Istanbul</place>
+               </death>
+               <occupation>Sultan</occupation>
+               <note type="comment">Ögg identifiziert 285/32 mit Muhammed Reschad-Chan V.</note>
+               <note type="comment">1876-1909</note>
+            </person>
+            <person xml:id="fk__p_44673">
+               <persName>Goluchowski, Agenor Graf</persName>
+               <birth>
+                  <date>1849-03-25</date>
+                  <place>Lemberg</place>
+               </birth>
+               <death>
+                  <date>1921-03-28</date>
+                  <place>Lemberg</place>
+               </death>
+               <occupation>Diplomat</occupation>
+               <occupation>Politiker</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

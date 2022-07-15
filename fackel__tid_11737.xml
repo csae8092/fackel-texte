@@ -1,0 +1,44 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_11737.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11736.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11738.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Zeitstrophen), in: Fackel Heft 33, Nr. 852, 1931, S. 52-52</title>
+            <title type="iso-date">1931-05-01</title>
+            <title type="id">tid_11737</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">33</title><title type="heft">852</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-33-852_n0052.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/852,052</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Zeitstrophen)</head>
+            <p ana="pr170298">
+<space/>Am <date>17. April</date> ist im Verlag der <rs type="self" ana="werk_31963">Fackel</rs> die Sammlung<lb/>
+<rs type="title"><seg type="spc">Zeitstrophen</seg></rs> (mit einer Notenbeilage: 44 Kompositionen aus<lb/>
+23 Werken) erschienen, gewidmet »<rs type="pers" ana="n_101871" ref="#fk__p_37830">Adolf Loos</rs> zum 60. Geburtstag,<lb/>
+dem reinen Gegenbild der hier abgebildeten Welt«.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_37830">
+               <persName>Loos, Adolf</persName>
+               <birth>
+                  <date>1870-12-10</date>
+                  <place>Brünn</place>
+               </birth>
+               <death>
+                  <date>1933-8-23</date>
+                  <place>Kalksburg, Niederösterreich</place>
+               </death>
+               <occupation>Architekt</occupation>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">Liste "Theater der Dichtung"</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/3612</idno></person>
+            </listPerson></back></text>
+</TEI>

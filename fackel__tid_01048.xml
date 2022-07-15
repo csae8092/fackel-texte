@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01048.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01047.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01049.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Die Klärung der Begriffe.), in: Fackel Heft 02, Nr. 044, 1900, S. 18-18</title>
+            <title type="iso-date">1900-06-01</title>
+            <title type="id">tid_01048</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">044</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-044_n0018.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/044,018</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Die Klärung der Begriffe.)</head>
+            <p ana="pr10029">
+<space/><inciptit>Am</inciptit> <date>13. April</date> hat sich die ‚<rs type="paper" ana="werk_2877">Neue Freie Presse</rs>‘ über die Ablehnung<lb/>
+ von Anerkennungen durch die <rs type="inst">Secessionisten</rs> geäußert.<lb/>
+<seg type="insult">Die <rs type="inst">Secession</rs> und Herr <rs type="pers" ana="n_8160" ref="#fk__p_45195">Klimt</rs></seg> verachten Medaillen, »da diese<lb/>
+Auszeichnungen ihren Wert <seg type="symbol" subtype="3dots"/> durch die bei Verleihungen<lb/>
+unausbleiblichen Compromisse mit der Zeit verloren haben.« Daher<lb/>
+<rs type="pers" ana="n_8161" ref="#fk__p_45195">Klimts</rs> <rs type="title">Philosophie</rs> <foreign xml:lang="fr">hors concours</foreign>. — Dann kam die <foreign xml:lang="fr">Medaille d’honneur</foreign>,<lb/>
+errungen mit vieler Mühe bei einem Preisrichtercolleg, in dem zwar<lb/>
+auch <rs type="pers" ana="n_8162" ref="#fk__p_44367">Gerôme</rs> sitzt, aber doch <seg type="insult">Stürmer wie <rs type="pers" ana="n_8163" ref="#fk__p_39188">Besnard</rs>, <rs type="pers" ana="n_8164" ref="#fk__p_39248">Billotte</rs>, <rs type="pers" ana="n_8165" ref="#fk__p_52424">Roll</rs></seg><lb/>
+den Ton angeben. Und da schrieb das <rs type="paperRef" ana="werk_40066">Blatt</rs>, dass »die Verleihung der<lb/>
+Medaille zur Klärung der Begriffe über den Wert des Bildes wesentlich<lb/>
+ beitragen wird«. Zuerst Verachtung jeder Auszeichnung, dann<lb/>
+<seg type="insult">das anmaßende Verlangen</seg>, dass sich denkende Leute um eine<lb/>
+<foreign xml:lang="fr">Medaille d’honneur</foreign> kümmern und darnach schleunigst ihre Begriffe<lb/>
+klären <seg type="symbol" subtype="3dots"/><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_52424">
+               <persName>Roll, Alfred Philippe</persName>
+               <birth>
+                  <date>1846-3-1</date>
+                  <place>Paris</place>
+               </birth>
+               <death>
+                  <date>1919-10-27</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Maler</occupation>
+               <occupation>Bildhauer</occupation>
+               <note type="comment"/>
+            </person>
+            <person xml:id="fk__p_39188">
+               <persName>Besnard, Paul-Albert</persName>
+               <birth>
+                  <date>1849-6-2</date>
+                  <place>Paris</place>
+               </birth>
+               <death>
+                  <date>1934-12-4</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Maler</occupation>
+            </person>
+            <person xml:id="fk__p_44367">
+               <persName>Gérôme, Jean-Léon</persName>
+               <birth>
+                  <date>1824-5-11</date>
+                  <place>Vesoul</place>
+               </birth>
+               <death>
+                  <date>1904-1-10</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Maler</occupation>
+            </person>
+            <person xml:id="fk__p_39248">
+               <persName>Billotte, René</persName>
+               <birth>
+                  <date>1846-6-24</date>
+                  <place>Tarbes/Hautes-Pyrénées</place>
+               </birth>
+               <death>
+                  <date>1914-11-1</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Maler</occupation>
+            </person>
+            <person xml:id="fk__p_45195">
+               <persName>Klimt, Gustav</persName>
+               <birth>
+                  <date>1862-7-14</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1918-2-6</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Maler</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11941</idno></person>
+            </listPerson></back></text>
+</TEI>

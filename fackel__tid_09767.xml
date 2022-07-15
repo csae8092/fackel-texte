@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_09767.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09766.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09768.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Zusatzstrophen), in: Fackel Heft 26, Nr. 649, 1924, S. 72-73</title>
+            <title type="iso-date">1924-06-01</title>
+            <title type="id">tid_09767</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">26</title><title type="heft">649</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-26-649_n0072.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/649,072</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Zusatzstrophen)</head>
+            <lg>
+<l>»Wenn man so den stillen Beobachter macht«:</l>
+</lg>
+            <lg><foreign xml:lang="de-loc">
+<l>Dann komm’ ich zur <rs type="inst">Oper</rs> und ich krieg’ eine Wut,</l>
+<l>Denn da kann ich nur sagen: nein, was sich da tut!</l>
+<l>Schon zu Mittag stehn s’ da, na warum wissen S’ eh:</l>
+<l>Am Abend haben die <seg type="insult">Haifisch’</seg> Theater <choice><sic>parée</sic><corr>paré</corr></choice>.</l>
+<l>Ja sehn S’, wie der Wandel der Zeit sich beweist,</l>
+<l>Da erkennt man so recht <seg type="insult">den republikanischen Geist</seg>:</l>
+<l>Sie warten nicht mehr auf die Hofwag’n, sondern sie stehn</l>
+<l>heut, damit</l>
+<l>Sie sehn <seg type="insult">vom <rs type="pers" ana="n_80952" ref="#fk__p_39716">Castiglioni</rs></seg> den <seg type="insult">elastischen Schritt</seg>.</l>
+<l>Es hat ihn sehr gefreut, es war sehr schön, er hat g’lacht,</l>
+<l>Wie das Volk so den stillen Beobachter macht.</l></foreign>
+</lg>
+            <lg>
+<l><foreign xml:lang="de-loc">Die Welt liebt den Lärm und schon in aller Früh</foreign></l>
+<l><foreign xml:lang="de-loc">Gehts los und ich denk’ mir halt oft:</foreign> <foreign xml:lang="fr">tant de bruit</foreign></l>
+<l><foreign xml:lang="fr">Pour une omelette,</foreign> doch in den meisten Fällen, ich wett’,</l>
+<l><foreign xml:lang="de-loc">Ist am Ende mißraten die ganze Omelett’.</foreign></l>
+<l><foreign xml:lang="de-loc">Man sieht kein Ereignis, aber man hört einen Schall</foreign></l>
+<l><foreign xml:lang="de-loc">Und wenn s’ das <seg type="insult">Gschrei</seg> dann noch drucken, so heißt man’s</foreign></l>
+<l><foreign xml:lang="de-loc"><seg type="insult">Journal</seg>.</foreign></l>
+<l><foreign xml:lang="de-loc">In der Kunstwelt zum Beispiel, da reißen s’ was z’samm’:</foreign></l>
+<l><foreign xml:lang="de-loc">Der am wenigsten kann, hat die meiste Reklam’</foreign>.</l>
+<l><foreign xml:lang="de-loc">Ein andrer — na ich red’ nix, meine Stimm’ is heut schwach:</foreign></l>
+<l><foreign xml:lang="de-loc">Es is besser, wenn ich den stillen Beobachter mach’.</foreign></l>
+</lg>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_39716">
+               <persName>Castiglioni, Camillo</persName>
+               <birth>
+                  <date>1879-10-22</date>
+                  <place>Triest</place>
+               </birth>
+               <death>
+                  <date>1957-12-18</date>
+                  <place>Rom</place>
+               </death>
+               <occupation>Finanzmann</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/6599</idno></person>
+            </listPerson></back></text>
+</TEI>

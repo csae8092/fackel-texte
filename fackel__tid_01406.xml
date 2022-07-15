@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01406.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01405.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01407.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Attentate auf gekrönte Häupter.), in: Fackel Heft 02, Nr. 059, 1900, S. 28-28</title>
+            <title type="iso-date">1900-11-01</title>
+            <title type="id">tid_01406</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">059</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-059_n0028.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/059,028</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Attentate auf gekrönte Häupter.)</head>
+            <p ana="pr13398">
+<space/><inciptit>Anlässlich</inciptit> des »Attentates« der <rs type="pers" ana="n_11139" ref="#fk__p_53184">Selma Schnappke</rs> hat das<lb/>
+‚<rs type="" ana="werk_4320">Extrablatt</rs>‘ zwar — bisher! — die Abbildung des Mordinstrumentes<lb/>
+nicht gebracht, dafür veröffentlichte es aber mit beachtenswerter<lb/>
+Raschheit gleich im <rs type="perRef" ana="werk_4321">Morgenblatt</rs> vom <date>17. <abbr>d. M.</abbr></date> einen äußerst instructiven<lb/>
+ Artikel über »Attentate auf <seg type="spc">gekrönte Häupter</seg>«. Wer sich<lb/>
+etwa darüber wundern sollte, dass man darin als <seg type="insult">»gekrönte Häupter«</seg><lb/>
+nicht nur diverse Präsidenten von Republiken, sondern auch <rs type="pers" ana="n_11140" ref="#fk__p_39266">Bismarck</rs><lb/>
+angeführt findet, dem diene zur Belehrung, dass dieser Artikel in<lb/>
+toto (allerdings bloß unter dem Schlagworte »Attentate«) in <rs type="title"><rs type="pers" ana="n2_865" ref="#fk__p_58581">Meyers</rs><lb/>
+Konversationslexikon</rs>, V. Auflage, II. Band, Seite 108 und 109, enthalten<lb/>
+ ist.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_39266">
+               <persName>Bismarck, Otto Eduard Leopold Fürst</persName>
+               <birth>
+                  <date>1815-04-01</date>
+                  <place>Schönhausen</place>
+               </birth>
+               <death>
+                  <date>1898-07-30</date>
+                  <place>Friedrichsruh</place>
+               </death>
+               <occupation>Politiker</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13749</idno></person>
+            <person xml:id="fk__p_58581">
+               <persName>Meyer (Konversations-Lexikon)</persName>
+            </person>
+            <person xml:id="fk__p_53184">
+               <persName>Schnapka, Selma</persName>
+               <birth>
+                  <date>1859?</date>
+                  <place>Tarnowitz</place>
+               </birth>
+               <occupation>Hausiererin</occupation>
+               <occupation>Attentäterin</occupation>
+               <note type="comment">bewarf 16.11.1900 in Breslau Kaiser Wilhelm mit einem Beil</note>
+               <note type="comment">Namenskorrektur!</note>
+               <note type="comment">Breslau, Gartenstraße 83, Hinterhaus 3. Stock</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

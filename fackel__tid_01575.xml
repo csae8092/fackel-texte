@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01575.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01574.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01576.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Der Präsident), in: Fackel Heft 02, Nr. 067, 1901, S. 8-8</title>
+            <title type="iso-date">1901-02-01</title>
+            <title type="id">tid_01575</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">067</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-067_n0008.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/067,008</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Der Präsident)</head>
+            <p ana="pr15607">
+<space/><seg type="i">Der</seg> Präsident des neuen Hauses, <rs type="pers" ana="n_12982" ref="#fk__p_44869">Graf Vetter von der Lilie</rs>,<lb/>
+steht wirklich <seg type="spc">über den Parteien</seg>. Er hat dies in <seg type="insult">den stürmischen<lb/>
+<rs type="pers" ana="n_12983" ref="#fk__p_38666">Badeni-Tagen</rs></seg>, da Deutsche und Tschechen handgemein wurden,<lb/>
+bewiesen. Damals goss er ein Glas Wasser <seg type="spc">über die Parteien</seg>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_38666">
+               <persName>Badeni, Kasimir Felix Graf von</persName>
+               <birth>
+                  <date>1846-10-14</date>
+                  <place>Surochów/Galizien</place>
+               </birth>
+               <death>
+                  <date>1909-07-09</date>
+                  <place>Krasne/Gal.</place>
+               </death>
+               <occupation>Politiker</occupation>
+            </person>
+            <person xml:id="fk__p_44869">
+               <persName>Vetter von der Lilie, Moritz Joseph Maria Graf </persName>
+               <birth>
+                  <date>1856-8-22</date>
+                  <place>Troppau</place>
+               </birth>
+               <death>
+                  <date>1945-9-20</date>
+                  <place>Retz</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <note type="comment">Herrenhausabgeordenter, Präsident </note>
+            </person>
+            </listPerson></back></text>
+</TEI>

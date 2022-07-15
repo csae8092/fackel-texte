@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06874.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06873.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06875.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ein Ereignis und sein Bericht, in: Fackel Heft 16, Nr. 400, 1914, S. 71-72</title>
+            <title type="iso-date">1914-01-01</title>
+            <title type="id">tid_06874</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">16</title><title type="heft">400</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-16-400_n0071.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/400,071</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ein Ereignis und sein Bericht</head>
+            <p ana="pr92252">
+<space/>Aus Paris, <date>14. <abbr>d.</abbr></date>, wird uns telegraphiert: Vor einem gewählten<lb/>
+Auditorium ging heute <rs type="pers" ana="n_62660" ref="#fk__p_52203">Richard Strauß’</rs> »<rs type="title"><rs type="pers">Josefslegende</rs></rs>« Dichtung von<lb/>
+<rs type="pers" ana="n_62661" ref="#fk__p_45542">Harry Graf <seg type="spc">Keßler</seg></rs> und <rs type="pers" ana="n_62662" ref="#fk__p_46353">Hugo <abbr>v.</abbr> <seg type="spc">Hofmannsthal</seg></rs> zum erstenmal in<lb/>
+Szene. <seg type="spc">Unter den Anwesenden bemerkte man</seg> viele Minister<lb/>
+und hohe Militärs, Künstler und Schriftsteller, darunter <rs type="pers" ana="n_62663" ref="#fk__p_46353">Hugo <abbr>v.</abbr> <seg type="spc">Hofmannsthal<lb/>
+</seg></rs> und <rs type="pers" ana="n_62664" ref="#fk__p_45542">Graf <seg type="spc">Keßler</seg></rs> sowie zahlreiche Engländer. Das Werk<lb/>
+fand eine glänzende Aufnahme. Die Darsteller und der Komponist<lb/>
+wurden zehnmal gerufen. Das Publikum stand ganz im Banne des<lb/>
+</p>
+            <p ana="pr92252">
+Stückes, <seg type="spc">die Frau Musik löste jubelnde Töne aus</seg>, die zum<lb/>
+Herzen gehende Sprache machte <seg type="spc">seligen Eindruck</seg>, ihr außerordentlicher<lb/>
+ Gedankenreichtum übte die beste Wirkung aus.<lb/>
+</p>
+            <p ana="pr92253">
+<space/><rs type="pers" ana="n_62665" ref="#fk__p_52203">Richard Strauß</rs> hat das Offizierskreuz der <rs type="inst">Ehrenlegion</rs> erhalten.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_52203">
+               <persName>Strauss, Richard</persName>
+               <birth>
+                  <date>1864-6-11</date>
+                  <place>München</place>
+               </birth>
+               <death>
+                  <date>1949-9-8</date>
+                  <place>Garmisch-Partenkirchen</place>
+               </death>
+               <occupation>Komponist</occupation>
+               <occupation>Dirigent</occupation>
+               <occupation>Theaterleiter</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12870</idno></person>
+            <person xml:id="fk__p_46353">
+               <persName>Hofmannsthal, Hugo Edler von</persName>
+               <birth>
+                  <date>1874-2-1</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1929-7-15</date>
+                  <place>Rodaun bei Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16293</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11740</idno></person>
+            <person xml:id="fk__p_45542">
+               <persName>Keßler, Harry Graf</persName>
+               <birth>
+                  <date>1868-5-23</date>
+                  <place>Paris</place>
+               </birth>
+               <death>
+                  <date>1937-11-30</date>
+                  <place>Lyon</place>
+               </death>
+               <occupation>Diplomat</occupation>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Verleger</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

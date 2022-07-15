@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01907.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01906.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01908.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Im Heine-Taumel., in: Fackel Heft 03, Nr. 080, 1901, S. 26-27</title>
+            <title type="iso-date">1901-06-01</title>
+            <title type="id">tid_01907</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">03</title><title type="heft">080</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-03-080_n0026.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/080,026</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Im Heine-Taumel.</head>
+            <p ana="pr18689">
+<space/>Die ‚<seg ana="Neue Freie Presse"/>‘ schilderte am <date>16. Juni</date> das Verhältnis<lb/>
+<rs type="pers" ana="n_15744" ref="#fk__p_39266">Bismarcks</rs> zu der deutschen Reichshauptstadt und schrieb wörtlich:<lb/>
+</p>
+            <p ana="pr18691">
+<space/>»<QUOTE rn="1" sourceID="FK-03-080_n0026_a">Es war wie in dem <seg type="spc">Liede von dem Schiffer und der<lb/>
+<rs type="pers">Lorelei</rs></seg> — <RS persTitle="Goethe" title="Der Fischer">halb zog sie ihn, halb sank er hin</RS>.</QUOTE>«<lb/>
+</p>
+            <p ana="pr18693">
+<space/>»Mehr <rs type="pers" ana="n_15745" ref="#fk__p_46960">Goethe</rs>!«, <seg type="insult">meine Herren</seg>, weniger <rs type="pers" ana="n_15746" ref="#fk__p_45715">Heine</rs>!<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_39266">
+               <persName>Bismarck, Otto Eduard Leopold Fürst</persName>
+               <birth>
+                  <date>1815-04-01</date>
+                  <place>Schönhausen</place>
+               </birth>
+               <death>
+                  <date>1898-07-30</date>
+                  <place>Friedrichsruh</place>
+               </death>
+               <occupation>Politiker</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13749</idno></person>
+            <person xml:id="fk__p_46960">
+               <persName>Goethe, Johann Wolfgang von</persName>
+               <birth>
+                  <date>1749-8-28</date>
+                  <place>Frankfurt am Main</place>
+               </birth>
+               <death>
+                  <date>1832-3-22</date>
+                  <place>Weimar</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">890/142f.</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11461</idno></person>
+            <person xml:id="fk__p_45715">
+               <persName>Heine, Heinrich</persName>
+               <birth>
+                  <date>1797-12-13</date>
+                  <place>Düsseldorf</place>
+               </birth>
+               <death>
+                  <date>1856-2-17</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Journalist</occupation>
+               <note type="comment">Ögg separiert F 24/25 </note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11640</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,122 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_12022.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_12021.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_12023.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">6. Februar:, in: Fackel Heft 33, Nr. 868, 1932, S. 65-66</title>
+            <title type="iso-date">1932-03-01</title>
+            <title type="id">tid_12022</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">33</title><title type="heft">868</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-33-868_n0065.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/868,065</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>6. Februar:</head>
+            <p ana="pr174208">
+<space/><date>6. Februar</date>:<lb/>
+</p>
+            <p ana="pr174209">
+<space/>I und II wie in Berlin, <date>11. Januar</date>.<lb/>
+</p>
+            <p ana="pr174210">
+<space/>III <rs type="title">Die Ballade vom Papagei</rs> / <rs type="title">Definitionen</rs> / <rs type="title"><seg type="insult">Optimismus</seg></rs>. —<lb/>
+<rs type="title"><seg type="insult"><rs type="pers">Bureschs</rs> Traum</seg></rs>. — <rs type="title">Eine Umbesetzung</rs>. (Zugabe: <rs type="title"><rs type="pers" ana="n2_9346" ref="#fk__p_46939">Schobers</rs> Neujahrsgruß<lb/>
+</rs>). — »<rs type="title">An der Schwelle des <rs type="pers" ana="n2_9347" ref="#fk__p_46960">Goethe-Jahres</rs></rs>«.<lb/>
+</p>
+            <p ana="pr174211">
+<space/>Begleitung am <date>26.</date>, <date>30. Januar</date>, <date>2.</date> und <date>6. Februar</date>: <rs type="pers" ana="n_104281" ref="#fk__p_43546">Franz Mittler</rs>.<lb/>
+</p>
+            <p ana="pr174212">
+<space/>Auf der Vorderseite des Programms zu einer Anzeige der<lb/>
+<rs type="title"><rs type="pers"><SPAN cont="Timon-Bearbeitung">»Timon«-Bearbeitung</SPAN></rs></rs> (S 1·50):<lb/>
+</p>
+            <p ana="pr174214">
+<space/>Von dieser Bearbeitung und sprachlichen Erneuerung sind<lb/>
+seit dem <date><SPAN cont="20.">20<ADD>.</ADD></SPAN> Oktober 1930</date> 183 Exemplare verkauft worden, von<lb/>
+denen 50 vom <rs type="inst">Berliner Rundfunk</rs> als Aufführungsmaterial erworben<lb/>
+wurden, 10 von einem Liebhaber, der auch anderen zeigen wollte,<lb/>
+wie <rs type="pers" ana="n_104282" ref="#fk__p_55589">Shakespeare</rs> für die heutige Bühne einzurichten ist, und<lb/>
+zirka 15 offenbar der Verwechslung mit <rs type="pers" ana="n_104283" ref="#fk__p_43201">Bruckner</rs> zu verdanken sind.<lb/>
+</p>
+            <p ana="pr174216">
+<space/>Auf der Rückseite:<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46960">
+               <persName>Goethe, Johann Wolfgang von</persName>
+               <birth>
+                  <date>1749-8-28</date>
+                  <place>Frankfurt am Main</place>
+               </birth>
+               <death>
+                  <date>1832-3-22</date>
+                  <place>Weimar</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">890/142f.</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11461</idno></person>
+            <person xml:id="fk__p_43201">
+               <persName>Bruckner, Ferdinand</persName>
+               <birth>
+                  <date>1891-8-26</date>
+                  <place>Sofia/Bulgarien</place>
+               </birth>
+               <death>
+                  <date>1958-12-5</date>
+                  <place>Berlin</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Dramaturg</occupation>
+               <occupation>Theaterleiter</occupation>
+            </person>
+            <person xml:id="fk__p_55589">
+               <persName>Shakespeare, William</persName>
+               <birth>
+                  <date>1564-4-23?</date>
+                  <place>Stratford-upon-Avon</place>
+               </birth>
+               <death>
+                  <date>1616-4-23</date>
+                  <place>Stratford-upon-Avon</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2412</idno></person>
+            <person xml:id="fk__p_43546">
+               <persName>Mittler, Franz</persName>
+               <birth>
+                  <date>1893-4-14</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1970-12-28</date>
+                  <place>München</place>
+               </death>
+               <occupation>Pianist</occupation>
+               <note type="comment">auch Klavierbegleiter von Karl Kraus</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/8955</idno></person>
+            <person xml:id="fk__p_46939">
+               <persName>Schober, Johannes</persName>
+               <birth>
+                  <date>1874-11-14</date>
+                  <place>Perg, Oberösterreich</place>
+               </birth>
+               <death>
+                  <date>1932-8-19</date>
+                  <place>Baden bei Wien</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <note type="comment">Pfarramt Perg: Taufregister: Johannes, Grabstein: Johannes Schober, nicht Johann</note>
+               <note type="comment">Vornamensschreibweise ebenso Czeike, ÖBL</note>
+               <note type="comment">Lebenslauf: NFP 26.9.1929, Seite 4</note>
+               <note type="comment">seit 21.06.1921 Bundeskanzler bis 26.01.1922, von 27.01.1922 bis 24.05.1922, von 26.09.1929 bis 25.09.1930</note>
+               <note type="comment">Polizeipräsident; 1921/22, 1929/30 Bundeskanzler und Außenminister</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/24444</idno></person>
+            </listPerson></back></text>
+</TEI>

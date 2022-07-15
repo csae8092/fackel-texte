@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00815.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00814.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00816.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Herrn A. F. (Vom Sanatorium Löw), in: Fackel Heft 01, Nr. 033, 1900, S. 31-31</title>
+            <title type="iso-date">1900-02-01</title>
+            <title type="id">tid_00815</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">033</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-033_n0031.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/033,031</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Herrn A. F. (Vom Sanatorium Löw)</head>
+            <p ana="pr7650">
+<space/><seg type="sidehead"><seg type="i">Herrn <rs type="pers" ana="n_6004" key="#fk__p_60597"><abbr>A. F.</abbr></rs></seg></seg> Trotz eindringlicher Bitte und trotz Ihrer Versicherung<lb/>
+, dass Blätter, wie <seg type="insult">‚<rs type="paper" ana="werk_2099">Neue Freie</rs>‘</seg>, ‚<rs type="paper" ana="werk_39966">Neues Wiener Tagblatt</rs>‘<lb/>
+und ‚<rs type="paper" ana="werk_2100">Fremdenblatt</rs>‘ ihn zurückgewiesen haben, bin ich nicht in der<lb/>
+Lage, den mir übersandten »<seg type="spc">Aufruf</seg>« abzudrucken. Es geht nicht an,<lb/>
+Männer wie <seg type="spc"><rs type="pers" ana="n_6005" ref="#fk__p_41936">Hochenegg</rs></seg> und <seg type="spc"><rs type="pers" ana="n_6006" ref="#fk__p_52848">Schauta</rs></seg> ohne eingehende Ueberprüfung<lb/>
+ des Sachverhaltes so schwer zu beschuldigen. Auch den<lb/>
+Anklagen gegen das <seg type="spc"><rs type="inst">Sanatorium <rs type="pers" ana="n2_435" ref="#fk__p_57761">Löw</rs></rs></seg> könnte ich eine solche<lb/>
+nicht ersparen. Ob hier wirklich <seg type="insult">jene Misswirtschaft</seg> herrscht, der Sie<lb/>
+den Tod Ihres Kindes zuschreiben, wird ja der Staatsanwalt, der<lb/>
+sich für die Angelegenheit bereits interessiert, bald eruiert haben.<lb/>
+Sollten sich <seg type="spc">dann</seg> <seg type="insult">Vertuschungsgelüste</seg> in der Oeffentlichkeit geltend<lb/>
+machen, so werde ich zur Stelle sein. Bis dahin erspart es mir der<lb/>
+staatliche Ankläger, das complicierte Material zu sichten, das mir<lb/>
+jetzt von Ihnen und vorher schon von vielen Anderen zugetragen<lb/>
+wurde und das doch so schwer controlierbar ist. Ich freue mich<lb/>
+immer, wenn der Staatsanwalt — nicht der confiscierende — mir<lb/>
+einen Theil meiner redactionellen Arbeit abnimmt.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_41936">
+               <persName>Hochenegg, Julius von</persName>
+               <birth>
+                  <date>1859-8-2</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1940-5-11</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Chirurg</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/7882</idno></person>
+            <person xml:id="fk__p_57761">
+               <persName>Loew, Anton</persName>
+               <birth>
+                  <date>1847-10-20</date>
+                  <place>Preßburg</place>
+               </birth>
+               <death>
+                  <date>1907-9-14</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Arzt</occupation>
+               <occupation>Sanatoriumsleiter</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/20565</idno></person>
+            <person xml:id="fk__p_52848">
+               <persName>Schauta, Friedrich</persName>
+               <birth>
+                  <date>1849-7-15</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1919-1-10</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Gynäkologe</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12637</idno></person>
+            </listPerson></back></text>
+</TEI>

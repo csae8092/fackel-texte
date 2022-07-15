@@ -1,0 +1,44 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_10002.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10001.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10003.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ein Dichter, in: Fackel Heft 26, Nr. 668, 1924, S. 116-116</title>
+            <title type="iso-date">1924-12-01</title>
+            <title type="id">tid_10002</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">26</title><title type="heft">668</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-26-668_n0116.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/668,116</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ein Dichter</head>
+            <p ana="pr135800">
+<seg type="spc">Von elf Chinesen und ihrer aufgefressenen Braut</seg><lb/>
+</p>
+            <p ana="pr135801">
+erzählt <rs type="pers" ana="n_83179" ref="#fk__p_45503">Hans Heinz Ewers</rs> in der »<rs type="magazine" ana="werk_26383">Wiener <seg type="ELIDASH">Sonntags-Zeitung</seg> und Montags-Zeitung</rs>«,<lb/>
+der es gelungen ist, den berühmten Dichter als ständigen Mitarbeiter<lb/>
+zu gewinnen. <rs type="pers" ana="n2_7414" key="#fk__p_57418"><AUCTOR notation="symbol"><seg type="symbol" subtype="+"/></AUCTOR></rs><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_45503">
+               <persName>Ewers, Hanns Heinz</persName>
+               <birth>
+                  <date>1871-11-3</date>
+                  <place>Düsseldorf</place>
+               </birth>
+               <death>
+                  <date>1943-6-12</date>
+                  <place>Berlin</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11281</idno></person>
+            </listPerson></back></text>
+</TEI>

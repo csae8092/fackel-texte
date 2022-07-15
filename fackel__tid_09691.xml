@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_09691.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09690.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09692.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Theodor Antropp), in: Fackel Heft 25, Nr. 640, 1924, S. 81-82</title>
+            <title type="iso-date">1924-01-01</title>
+            <title type="id">tid_09691</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">25</title><title type="heft">640</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-25-640_n0081.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/640,081</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Theodor Antropp)</head>
+            <p ana="pr130473">
+<space/>Mit <rs type="pers" ana="n_79837" ref="#fk__p_54022"><seg type="spc">Theodor Antropp</seg></rs> ist — nach <rs type="pers" ana="n_79838" ref="#fk__p_52345">Robert Hirschfeld</rs><lb/>
+und <rs type="pers" ana="n_79839" ref="#fk__p_55480">Sigmund Wilheim</rs> — einer der seltenen sachkundigen und<lb/>
+honorigen Wiener Zeitungsmenschen und Theaterkritiker dahingegangen<lb/>
+. Er war auch — siehe <rs type="selfRef" ana="werk_25536"><abbr>Nr.</abbr> 182</rs> der <rs type="self" ana="werk_25537">Fackel</rs> — einer<lb/>
+der wenigen, die im <date>Mai 1905</date> die Tatsache der von mir<lb/>
+veranstalteten ersten Aufführung der »<rs type="title">Büchse der <rs type="pers">Pandora</rs></rs>« für<lb/>
+erheblicher hielten als den Umstand, daß die Presse keine<lb/>
+</p>
+            <p ana="pr130473">
+Freikarten bekam, und der einzige, der — als der Kritiker <seg type="insult">eines<lb/>
+<rs type="perRef" ana="werk_40400">Blattes für nationale Spießbürger</rs></seg> — in der Betrachtung jenes<lb/>
+Ereignisses Mut und Wohlwollen bewiesen hat.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_52345">
+               <persName>Hirschfeld, Robert</persName>
+               <birth>
+                  <date>1857-9-17</date>
+                  <place>Großmeseritsch, Mähren</place>
+               </birth>
+               <death>
+                  <date>1914-4-2</date>
+                  <place>Salzburg</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Kritiker</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11707</idno></person>
+            <person xml:id="fk__p_54022">
+               <persName>Antropp, Theodor</persName>
+               <birth>
+                  <date>1864-10-29</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1923-11-18</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Kritiker</occupation>
+               <note type="comment">Namenskorrektur!</note>
+               <note type="comment">Ostdeutsche Rundschau, Vaterland</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10769</idno></person>
+            <person xml:id="fk__p_55480">
+               <persName>Wilheim, Sigmund</persName>
+               <birth>
+                  <date>1849-07-13</date>
+                  <place>Alsó-Lendva/Ungarn</place>
+               </birth>
+               <death>
+                  <date>1911-10-30</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Publizist</occupation>
+               <note type="comment">mit Julius Löwy Hrsg. "Wr. Specialitäten"</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

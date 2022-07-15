@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07672.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07671.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07673.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Das ist klar, in: Fackel Heft 18, Nr. 445, 1234, S. 117-118</title>
+            <title type="iso-date">1234-01-01</title>
+            <title type="id">tid_07672</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">18</title><title type="heft">445</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-18-445_n0117.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/445,117</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Das ist klar</head>
+            <p ana="pr103084">
+<space/>Aus <rs type="pers" ana="n_66495" ref="#fk__p_43550">Franz Oppenheimers</rs>: »<rs type="title">Weltwirtschaft und Nationalwirtschaft<lb/>
+</rs>«:<lb/>
+</p>
+            <p ana="pr103086">
+<space/>»<seg type="spc">Man kann deutsches Blut nicht nach Gold<lb/>
+schätzen</seg>, <seg type="spc">wie <seg type="insult">britisches Söldnerblut</seg></seg>: aber <seg type="spc">das ist</seg><lb/>
+</p>
+            <p ana="pr103086">
+<seg type="spc">klar</seg>, daß jeder unserer Braven, die bei Lüttich, Namur und <abbr>St.</abbr> Quentin<lb/>
+ihr Blut verspritzten, <seg type="spc">dem deutschen Vaterlande Hunderttausende<lb/>
+ von Mark gerettet hat</seg>, <seg type="spc">die sonst verloren<lb/>
+ gewesen wären</seg>.«<lb/>
+</p>
+            <p ana="pr103088">
+<space/><seg type="insult">Dieser Durchhalter</seg> war im Frieden Zionist!<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_43550">
+               <persName>Oppenheimer, Franz</persName>
+               <birth>
+                  <date>1864-3-30</date>
+                  <place>Berlin</place>
+               </birth>
+               <death>
+                  <date>1943-9-30</date>
+                  <place>Los Angeles</place>
+               </death>
+               <occupation>Arzt</occupation>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Nationalökonom</occupation>
+               <occupation>Soziologe</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/3975</idno></person>
+            </listPerson></back></text>
+</TEI>

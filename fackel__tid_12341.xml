@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_12341.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_12340.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_12342.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Nachwort (Zitat von G. Chr. Lichtenberg), in: Fackel Heft 37, Nr. 912, 1935, S. 63-64</title>
+            <title type="iso-date">1935-08-01</title>
+            <title type="id">tid_12341</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">37</title><title type="heft">912</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-37-912_n0063.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/912,063</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Nachwort (Zitat von G. Chr. Lichtenberg)</head>
+            <p ana="pr182849">
+<space/>Ich kann nicht leugnen, mein Mißtrauen gegen den Geschmack<lb/>
+unserer Zeit ist bei mir vielleicht zu einer tadelnswürdigen Höhe gestiegen<lb/>
+. Täglich zu sehen, wie Leute zum Namen Genie kommen, wie<lb/>
+die Kellerassel zum Namen Tausendfuß, nicht weil sie so viel Füße<lb/>
+haben, sondern weil die meisten nicht bis auf vierzehn zählen wollen,<lb/>
+hat gemacht, daß ich keinem mehr ohne Prüfung glaube.<lb/>
+</p>
+            <p ana="pr182852">
+<space/>Von dem Ruhme der berühmtesten Menschen gehört immer<lb/>
+etwas der <seg type="insult">Blödsichtigkeit der Bewunderer</seg> zu; und ich bin überzeugt,<lb/>
+daß solchen Menschen das Bewußtsein, daß sie von einigen, die<lb/>
+weniger Ruhm, aber mehr Geist haben, durchgesehen werden, ihren<lb/>
+ganzen Ruhm vergällt. Eigentlich ruhiger Genuß des Lebens kann nur<lb/>
+bei Wahrheit bestehen.<lb/>
+</p>
+            <p ana="pr182853">
+<rs type="pers" ana="n_108356" ref="#fk__p_44128"><AUCTOR><abbr>G. Chr.</abbr> Lichtenberg</AUCTOR></rs><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_44128">
+               <persName>Lichtenberg, Georg Christoph</persName>
+               <birth>
+                  <date>1742-7-1</date>
+                  <place>Oberramstadt bei Darmstadt</place>
+               </birth>
+               <death>
+                  <date>1799-2-24</date>
+                  <place>Göttingen</place>
+               </death>
+               <occupation>Physiker</occupation>
+               <occupation>Philosoph</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12064</idno></person>
+            </listPerson></back></text>
+</TEI>

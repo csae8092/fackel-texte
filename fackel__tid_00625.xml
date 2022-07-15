@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00625.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00624.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00626.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">C. H. II. (Majoritäten), in: Fackel Heft 01, Nr. 025, 1899, S. 31-32</title>
+            <title type="iso-date">1899-12-01</title>
+            <title type="id">tid_00625</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">025</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-025_n0031.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/025,031</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>C. H. II. (Majoritäten)</head>
+            <p ana="pr5803">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_4361" ref="#fk__p_39661"><abbr>C. H.</abbr></rs> II.</seg></seg> Ihre Auslassungen über die Bildung von parlamentarischen<lb/>
+ Mehrheiten sind <SPAN cont="theilweise">thei<ADD>l</ADD>weise</SPAN> recht treffend. <rs type="pers" ana="n_4362" ref="#fk__p_44862">Graf Clary</rs><lb/>
+mag mit Neid auf seine Ministercollegen in Deutschland blicken, die<lb/>
+die eine so imposante Majorität für die Ablehnung des Zuchthausgesetzes<lb/>
+ gefunden haben. Ihr Vorschlag, im Berliner Thiergarten<lb/>
+</p>
+            <p ana="pr5803">
+<seg type="insult">jedem denkwürdigen politischen Bock</seg>, den <rs type="pers" ana="n_4363" ref="#fk__p_55493">Wilhelm II.</rs> geschossen,<lb/>
+(<seg type="insult">lauter Sechzehnender</seg>), ein Monument zu setzen, ist nicht übel.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_44862">
+               <persName>Clary-Aldringen, Manfred Graf</persName>
+               <birth>
+                  <date>1852-05-30</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1928-02-12</date>
+                  <place>Schloß Hernau/Salzburg</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <note type="comment">1898-1918 Statthalter der Steiermark, Ministerpräsident von Cisleithanien, Herrenhausmitglied</note>
+               <note type="comment">2.10.1899 bis 21.12.1899 Min.präs. und Ackerbauminister, sollte die Badenische Sprachenverordnung zurücknehmen</note>
+            </person>
+            <person xml:id="fk__p_39661">
+               <persName>H., C.</persName>
+               <note type="comment"/>
+            </person>
+            <person xml:id="fk__p_55493">
+               <persName>Wilhelm II., Kaiser</persName>
+               <birth>
+                  <date>1859-1-27</date>
+                  <place>Berlin</place>
+               </birth>
+               <death>
+                  <date>1941-6-4</date>
+                  <place>Doorn/Niederlande</place>
+               </death>
+               <occupation>Kaiser</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_21338</idno></person>
+            </listPerson></back></text>
+</TEI>

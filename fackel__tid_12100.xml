@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_12100.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_12099.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_12101.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Die Albers-Hymne, in: Fackel Heft 34, Nr. 876, 1932, S. 65-65</title>
+            <title type="iso-date">1932-10-01</title>
+            <title type="id">tid_12100</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">34</title><title type="heft">876</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-34-876_n0065.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/876,065</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Die Albers-Hymne</head>
+            <p ana="pr176414">
+authentisch, da von ihm selbst einer <rs type="perRef" ana="werk_33230">Zeitung</rs> übergeben:<lb/>
+</p>
+            <lg>
+<l>Ist es <seg type="spc">die Nase</seg> von dir? Dein Auge? Ist es der Mund?</l>
+<l>Ich bin verliebt in dich und weiß nicht mal den Grund.</l>
+<l>Ist es die Frechheit von dir? Der Scharm, der dich umgibt?</l>
+<l>Ich weiß das eine nur: Ich bin in dich verliebt.</l>
+<l>Du bist entzückend, berückend, bestrickend, du bist zum Küssen!</l>
+<l>So unerklärlich, so herrlich-gefährlich! Ich möcht’ nur wissen:</l>
+<l>Ist es <seg type="spc">die Nase</seg> von dir? Dein Auge? Ist es der Mund?</l>
+<l>Ich bin verliebt in dich und weiß nicht mal den Grund!</l>
+</lg>
+            <p ana="pr176418">
+Ich tippe auf die Nase. Die Dame (die ich kennen lernen<lb/>
+möchte) tut nur so, als ob sie’s nicht wüßte. Man darf gespannt<lb/>
+sein, ob der <seg type="insult">neue Kurs</seg> in Deutschland die Schaustellung der<lb/>
+<rs type="pers" ana="n_105208" ref="#fk__p_37902">Albers-Porträts</rs> erlauben wird.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_37902">
+               <persName>Albers, Hans</persName>
+               <birth>
+                  <date>1891-9-22</date>
+                  <place>Hamburg</place>
+               </birth>
+               <death>
+                  <date>1960-7-24</date>
+                  <place>Kempfenhausen/Starnbergersee</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/5952</idno></person>
+            </listPerson></back></text>
+</TEI>

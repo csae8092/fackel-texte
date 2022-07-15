@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_04636.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04635.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04637.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Shaw-Übersetzer), in: Fackel Heft 09, Nr. 249, 1908, S. 15-16</title>
+            <title type="iso-date">1908-04-1</title>
+            <title type="id">tid_04636</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">09</title><title type="heft">249</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-09-249_n0015.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/249,015</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Shaw-Übersetzer)</head>
+            <p ana="pr53055">
+<space/>»Störend war, daß in einemfort von den Leuten <seg type="insult">‚Landprediger‘</seg><lb/>
+gesagt wird. Sie können doch ‚Prediger‘ sagen. <seg type="insult">Landprediger</seg> ist<lb/>
+ein ungeschickter, wörterbuchmäßig erklärender Ausdruck für das englische<lb/>
+ <foreign xml:lang="en">‚minister‘</foreign>. Nun, im letzten <rs type="pers" ana="n_41820" ref="#fk__p_39112">Shawstück</rs> war dieses gar einmal<lb/>
+ohneweiters mit dem deutschen ‚Minister‘ übersetzt. Dagegen ist <seg type="insult">‚Landprediger<lb/>
+‘</seg> immerhin ein Fortschritt.«<lb/>
+</p>
+            <p ana="pr53057">
+<space/>So schreibt <seg type="insult">der Kritiker <rs type="pers" ana="n_41821" ref="#fk__p_49299">Ludwig Hevesi</rs></seg>. Aber<lb/>
+wer ist denn <seg type="insult">der vortreffliche <rs type="pers" ana="n_41822" ref="#fk__p_39112">Shaw-Übersetzer</rs></seg>?<lb/>
+Nach seinen Aufführungen heißt’s immer, er habe<lb/>
+sich <seg type="insult">die größten Verdienste um <rs type="pers" ana="n_41823" ref="#fk__p_39112">Shaw</rs></seg> erworben. Erst<lb/>
+wenn ein anderer auch nicht übersetzen kann, wird<lb/>
+diesem zum Trost <seg type="insult">Meister <rs type="pers" ana="n_41824" ref="#fk__p_54249">Trebitsch</rs></seg> als <seg type="insult">eine Art<lb/>
+Klassiker des speziellen Unvermögens</seg> zitiert.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_49299">
+               <persName>Hevesi, Ludwig</persName>
+               <birth>
+                  <date>1843-12-20</date>
+                  <place>Heves, Ungarn</place>
+               </birth>
+               <death>
+                  <date>1910-2-27</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11687</idno></person>
+            <person xml:id="fk__p_39112">
+               <persName>Shaw, George Bernard</persName>
+               <birth>
+                  <date>1856-7-26</date>
+                  <place>Dublin</place>
+               </birth>
+               <death>
+                  <date>1950-11-2</date>
+                  <place>Ayot St. Lawrence</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">226/21: Tanner, Katechismus des Umstürzlers, zu "Mensch und Übermensch"</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2381</idno></person>
+            <person xml:id="fk__p_54249">
+               <persName>Trebitsch, Siegfried</persName>
+               <birth>
+                  <date>1868-12-22</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1956-6-3</date>
+                  <place>Zürich</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Übersetzer</occupation>
+               <note type="comment">Eltern: Leopold Trebitsch (gest. 12.12.1906) und Malvine, geb. Singer (gest. 8.4.1918)</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_20796</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12968</idno></person>
+            </listPerson></back></text>
+</TEI>

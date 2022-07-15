@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03834.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03833.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03835.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Dummer August. (Dem dummen August), in: Fackel Heft 06, Nr. 176, 1905, S. 24-24</title>
+            <title type="iso-date">1905-02-28</title>
+            <title type="id">tid_03834</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">06</title><title type="heft">176</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-06-176_n0024.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/176,024</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Dummer August. (Dem dummen August)</head>
+            <p ana="pr38471">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="name_200589" ref="#fk__p_56367">Dummer August</rs>.</seg></seg></seg> Als der Justizrat <rs type="pers" ana="n_32856" ref="#fk__p_56367">Körner</rs> von Dresden nach<lb/>
+Florenz fuhr, ahnte er gewiß noch nicht, daß er binnen kürzester Zeit<lb/>
+<seg type="insult">eine der wirksamsten Figuren des humoristischen Deutschland</seg> würde.<lb/>
+Er brauchte nichts weiter zu tun, als den <seg type="insult">Auftrag »seines« Königs</seg> immer<lb/>
+wieder durchführen zu wollen und immer wieder allem Gelächter<lb/>
+zum Trotz sich auf den <seg type="insult">Auftrag seines Königs</seg> zu berufen. Und jetzt<lb/>
+will ihn <seg type="insult">dieser undankbare König</seg> nicht mehr empfangen. Wenn die<lb/>
+Großen eine <seg type="insult">lächerliche Aktion</seg> vorhaben, sind <seg type="insult">ihre Bedienten</seg> immer<lb/>
+zugleich die <seg type="insult">Versuchsobjekte der Lächerlichkeit</seg>. Jetzt tut <seg type="insult">der größere<lb/>
+<RS pers="August" globID="rs_464"><rs type="pers" ana="name_200590" ref="#fk__p_48059">Aujust</rs></RS></seg> »indigniert«. Na, vielleicht hat er die <seg type="insult">Nachtwache des Herrn<lb/>
+<rs type="pers" ana="n_32857" ref="#fk__p_56367">Körner</rs> und seiner Mannen</seg> vor der Villa Papiniano wirklich nicht gewünscht<lb/>
+, oder nicht vorhergesehen, daß die Durchführung seines Auftrags<lb/>
+, die kleine <rs type="pers" ana="n_32859" ref="#fk__p_51800">Giron</rs> zu entführen, zu <seg type="insult">solcher Affenkomödie</seg> führen<lb/>
+mußte. Man stelle sich die Situation vor: <seg type="insult">Der sächsische Justizrat und<lb/>
+andere Sachsen, erwachsene Leute</seg>, streifen — »und koste es das<lb/>
+<seg type="insult">Läben</seg>!« — von einem Tor der Villa zum andern, rufen einander an<lb/>
+bestimmten Punkten <seg type="insult">die Losung »Vade« und die Parole »Mekum«</seg> zu<lb/>
+und tauschen ihre Beobachtungen aus. <seg type="insult">Wodde — Mäkum, Wodde —<lb/>
+Mäkum <seg type="symbol" subtype="2dots"/></seg> klang es durch die italienische Nacht <seg type="symbol" subtype="3dots"/> Das hatten sich die<lb/>
+Cypressen nicht träumen lassen. Staunend schwiegen sie. Aber in den<lb/>
+Witzblättern begann es am andern Tage zu rauschen.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_56367">
+               <persName>Körner, August? </persName>
+               <occupation>Rechtsanwalt</occupation>
+               <note type="comment">Luise von Sachsen-Affaire, wird Februar 1905 nach Florenz geschickt, um der Mutter die Tochter wegzunehmen</note>
+               <note type="comment">war schon im Scheidungsprozeß Anwalt des Gatten König Friedrich August III. (11.02.1903)</note>
+               <note type="comment">Justizrat</note>
+            </person>
+            <person xml:id="fk__p_51800">
+               <persName>Anna Pia Monika, Prinzessin von Sachsen</persName>
+               <birth>
+                  <date>1903-5-4</date>
+                  <place>Landau</place>
+               </birth>
+               <death>
+                  <date>1976-2-8</date>
+                  <place>München</place>
+               </death>
+            </person>
+            <person xml:id="fk__p_48059">
+               <persName>Friedrich August III., König von Sachsen</persName>
+               <birth>
+                  <date>1865-5-25</date>
+                  <place>Dresden</place>
+               </birth>
+               <death>
+                  <date>1932-2-18</date>
+                  <place>Sibyllenort</place>
+               </death>
+               <occupation>König</occupation>
+               <note type="comment">letzter König von Sachsen (1904-1918)</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

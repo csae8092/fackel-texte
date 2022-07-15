@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01037.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01036.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01038.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Genosse. (Herr Adamus), in: Fackel Heft 02, Nr. 043, 1900, S. 31-31</title>
+            <title type="iso-date">1900-06-01</title>
+            <title type="id">tid_01037</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">043</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-043_n0031.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/043,031</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Genosse. (Herr Adamus)</head>
+            <p ana="pr9903">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_8069" ref="#fk__p_44267">Genosse</rs>.</seg></seg> Die ‚<rs type="paper" ana="werk_2836">Arbeiter-Zeitung</rs>‘ mag es freuen, zu vernehmen,<lb/>
+dass <seg type="insult">Herr <rs type="pers" ana="n_8070" ref="#fk__p_43450"><seg type="spc">Adamus</seg></rs></seg> <seg type="insult">in officiellem Solde</seg> nicht mehr ausschließlich gegen<lb/>
+die Socialdemokratie kämpfen wird. <seg type="insult">Der biedere Herr <rs type="pers" ana="n_8071" ref="#fk__p_55511"><abbr>v.</abbr> Hartel</rs></seg> hat ihm<lb/>
+— so erzählen neiderfüllte Dramatiker — nunmehr eine <seg type="insult">Subvention<lb/>
+zur Abfassung eines Theaterstückes gegen die <seg type="spc">Christlichsocialen</seg><lb/>
+und eines gegen die <seg type="spc">Aristokratie</seg></seg> verliehen.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_55511">
+               <persName>Hartel, Wilhelm Ritter von</persName>
+               <birth>
+                  <date>1839-05-28</date>
+                  <place>Hof/Mähren</place>
+               </birth>
+               <death>
+                  <date>1907-01-14</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Altphilologe</occupation>
+               <occupation>Politiker</occupation>
+               <note type="comment">Friedhof Penzing (=Kontrahentenfriedhof) Tel. 985 64 07</note>
+               <note type="comment">Unterrichtsminister 1900-05</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15937</idno></person>
+            <person xml:id="fk__p_43450">
+               <persName>Adamus, Franz</persName>
+               <birth>
+                  <date>1867-10-15</date>
+                  <place>Auschwitz</place>
+               </birth>
+               <death>
+                  <date>1948-6-8</date>
+                  <place>Bad Ischl</place>
+               </death>
+               <occupation>Gymnasiallehrer</occupation>
+               <occupation>Schriftsteller</occupation>
+            </person>
+            <person xml:id="fk__p_44267">
+               <persName>Genosse</persName>
+            </person>
+            </listPerson></back></text>
+</TEI>

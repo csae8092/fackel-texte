@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_10000.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09999.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10001.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Pressestimmen, in: Fackel Heft 26, Nr. 668, 1924, S. 115-115</title>
+            <title type="iso-date">1924-12-01</title>
+            <title type="id">tid_10000</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">26</title><title type="heft">668</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-26-668_n0115.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/668,115</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Pressestimmen</head>
+            <p ana="pr135783">
+über einen Schauspieler in der Fremde pflegten früher von<lb/>
+einer befreundeten oder landsmännischen weitergegeben zu<lb/>
+werden, wenn sie ihm Schwung, Leidenschaft, packende Gestaltung,<lb/>
+hinreißende Wirkung oder derlei Zugkräftiges, Durchschlagendes,<lb/>
+Rauschendes nachzurühmen wußten. Jetzt gehts zwischen Berlin<lb/>
+und Prag noch viel turbulenter zu, und hier hört man dann oder<lb/>
+herich dann solches:<lb/>
+</p>
+            <p ana="pr135785">
+<space/>Ernst Deutsch hat anläßlich der im <rs type="inst">Berliner Theater in der<lb/>
+Königgrätzer Straße</rs> jüngst erfolgten Aufführung von <rs type="pers" ana="n_83173" ref="#fk__p_38582">Strindbergs</rs><lb/>
+»<rs type="title"><rs type="pers">Erich XIV.</rs></rs>« einen außergewöhnlichen Erfolg davongetragen. <rs type="pers" ana="n_83174" ref="#fk__p_51268">Paul<lb/>
+Wiegler</rs> schreibt in der »<rs type="paper" ana="werk_26382"><abbr>B. Z.</abbr> am Mittag</rs>« <abbr>u. a.</abbr>: »<seg type="spc">Im</seg> <FERR href="FK-26-676_n0041.xml" fcorrID="fk_04_fcorr_29417478" id="fk_04_ferr_29417478" emID="fk_04_em_29417480"><ERR fcorr="Purpurmantel">Pupurmantel</ERR></FERR>,<lb/>
+<seg type="spc">auf dem er verzweifelt herumtrampelt</seg>, in der weißen<lb/>
+Seide des Galakostümes, unter dem drückenden Kronreif hat er die<lb/>
+Unrast des halben Wahnsinns und dazu eine weiche, gefährliche Grazie.<lb/>
+Außerordentlich die Beredsamkeit dieser Finger, die sich an den Mund<lb/>
+pressen, <seg type="spc">oder die</seg> zu mörderischem Hieb in die Holzplatte des<lb/>
+Tisches das Messer umklammern. Tigerhaft das <seg type="spc">Murren</seg> und<lb/>
+<seg type="spc">Fauchen</seg> des Hasses, von schmeichelnder Zärtlichkeit abgelöst. Eindringlich<lb/>
+ das <seg type="spc">Schlottern</seg> der Gespensterfurcht.« <seg type="spc">In ähnlichem<lb/>
+Sinne äußern sich</seg> auch die übrigen Berliner Kritiker.<lb/>
+</p>
+            <p ana="pr135787">
+<seg type="insult">Herr <rs type="pers" ana="n_83175" ref="#fk__p_51268">Wiegler</rs></seg>, der den Vorgang beobachtet hat, wird ja wissen,<lb/>
+wie einer das macht, daß er im Purpurmantel auf diesem verzweifelt<lb/>
+ herumtrampelt. Interessant wären aber <seg type="insult">die andern Tatzeugen<lb/>
+</seg>, die in ähnlichem Sinne ausgesagt haben.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_38582">
+               <persName>Strindberg, August</persName>
+               <birth>
+                  <date>1849-1-22</date>
+                  <place>Stockholm</place>
+               </birth>
+               <death>
+                  <date>1912-5-14</date>
+                  <place>Stockholm</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12877</idno></person>
+            <person xml:id="fk__p_51268">
+               <persName>Wiegler, Paul</persName>
+               <birth>
+                  <date>1878-9-15</date>
+                  <place>Frankfurt am Main</place>
+               </birth>
+               <death>
+                  <date>1949-8-23</date>
+                  <place>Berlin</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Verlagslektor</occupation>
+               <note type="comment"/>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/13112</idno></person>
+            </listPerson></back></text>
+</TEI>

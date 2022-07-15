@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_04328.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04327.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04329.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Literat. (Ein Theaterkenner), in: Fackel Heft 08, Nr. 214, 1906, S. 46-46</title>
+            <title type="iso-date">1906-12-22</title>
+            <title type="id">tid_04328</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">08</title><title type="heft">214</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-08-214_n0046.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/214,046</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Literat. (Ein Theaterkenner)</head>
+            <p ana="pr47223">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="name_203606" ref="#fk__p_49045">Literat</rs>.</seg></seg></seg> <seg type="insult">Ein wirklicher Theaterkenner</seg> scheint der Kritiker des<lb/>
+‚<rs type="paper" ana="werk_15005">Vaterlands</rs>‘ zu sein. Er ging in das <rs type="inst">Bürgertheater</rs>, weil er gehört hatte,<lb/>
+daß dort eine Novität gegeben werde, und schrieb: »Der Titel des<lb/>
+Stückes dürfte irreführend gewirkt haben; er lautet nämlich ‚<rs type="title">Der verwunschene<lb/>
+ Prinz</rs>‘. Der Autor desselben nennt sich <rs type="pers" ana="n_38133" ref="#fk__p_46595"><abbr>J. v.</abbr> Plötz</rs> und bezeichnet<lb/>
+ sein dreiaktiges Werk als ‚Schwank‘!« Folgt die Erzählung<lb/>
+des Inhalts und die Feststellung, daß »Beifall gespendet wurde und<lb/>
+auch die gebotenen Witze belacht wurden«, die aber durchwegs höchst<lb/>
+banaler Natur seien <seg type="symbol" subtype="3dots"/> <rs type="pers" ana="n_38134" ref="#fk__p_46595"><abbr>J. J. v.</abbr> Plötz</rs> ist im Jahre <date>1856</date> gestorben. Das<lb/>
+erste Wort, das heute <seg type="insult">ein neugeborenes Theaterkind</seg> sprechen kann, ist<lb/>
+ein Bedauern, daß der »<rs type="title">Verwunschene Prinz</rs>« keine Novität ist.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46595">
+               <persName>Ploetz, Johann J. Edler von</persName>
+               <birth>
+                  <date>1786</date>
+                  <place>München</place>
+               </birth>
+               <death>
+                  <date>1856-6-17</date>
+                  <place>München</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_18834</idno></person>
+            <person xml:id="fk__p_49045">
+               <persName>Literat</persName>
+            </person>
+            </listPerson></back></text>
+</TEI>

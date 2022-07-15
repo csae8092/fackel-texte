@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_08721.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08720.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08722.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Mittlerer Konzerthaussaal, 28. März, halb 3 Uhr:, in: Fackel Heft 22, Nr. 544, 1920, S. 12-12</title>
+            <title type="iso-date">1920-06-01</title>
+            <title type="id">tid_08721</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">22</title><title type="heft">544</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-22-544_n0012.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/544,012</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Mittlerer Konzerthaussaal, 28. März, halb 3 Uhr:</head>
+            <p ana="pr115800">
+<space/><rs type="inst">Mittlerer Konzerthaussaal</rs>, <date>28. März</date>, halb 3 Uhr:<lb/>
+</p>
+            <p ana="pr115801">
+<space/>I. Material zu <seg type="insult">»<rs type="title"><rs type="pers"><rs type="pers" ana="n2_6514" ref="#fk__p_55493">Wilhelm</rs></rs> und die Generale</rs>«</seg> (mit Vorbemerkung)<lb/>
+/ Aus: <rs type="title">Die letzten Tage der Menschheit</rs>: <rs type="title">IV 48: (<rs type="pers">Wahnschaffe-Szene</rs>)</rs> mit<lb/>
+Vorbemerkung; <rs type="title">IV 52: (Militärspital)</rs>; <rs type="title">V 38: (Der Blinde)</rs> / <rs type="title"><seg type="insult">Nibelungentreue</seg></rs>.<lb/>
+</p>
+            <p ana="pr115802">
+<space/>II. <rs type="title">I, 7: (<rs type="pers">Elfriede Ritter</rs>)</rs>; <rs type="title">IV 15: (Kriegsarchiv)</rs>; <rs type="title">IV 8: (<seg type="insult">Die<lb/>
+<rs type="pers"><rs type="pers" ana="n2_6515" ref="#fk__p_38111">Schalek</rs></rs></seg></rs>; mit einem <seg type="insult"><rs type="pers">Chor der Offiziere</rs></seg>: »<rs type="title">Solche Kontraste gibts nur<lb/>
+an der Front!</rs>«); aus: <rs type="title">III 7: (<rs type="pers">Frau Pollatschek</rs> <abbr>etc.</abbr>)</rs> / <rs type="title">Elegie auf den<lb/>
+Tod eines Lautes</rs> (mit Vorbemerkung) / <rs type="title"><rs type="pers" ana="n2_6516" ref="#fk__p_37842">Sonnenthal</rs></rs> (mit Vorbemerkung) /<lb/>
+<rs type="title">Nachruf: an <seg type="insult">alle</seg>, die mich an einem Grabe geschmäht haben</rs> (aus<lb/>
+dem Manuskript).<lb/>
+</p>
+            <p ana="pr115803">
+<space/>Die Erhöhung der ersten Preiskategorien für das <rs type="inst">Meidlinger<lb/>
+Altersfrauenheim</rs>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_37842">
+               <persName>Sonnenthal, Adolf Ritter von</persName>
+               <birth>
+                  <date>1834-12-21</date>
+                  <place>Pest</place>
+               </birth>
+               <death>
+                  <date>1909-4-4</date>
+                  <place>in der Eisenbahn von Prag nach Wien</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <note type="comment">Schwester: Emma Wertheimer, gest. Wien 04.09.1929, im 86. Lj.</note>
+               <note type="comment">Schwester: Laura Lemberger, gest. Wien 23.04.1907, im 71. Lj.</note>
+               <note type="comment">seit 1856 am Burgtheater</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_20204</idno></person>
+            <person xml:id="fk__p_55493">
+               <persName>Wilhelm II., Kaiser</persName>
+               <birth>
+                  <date>1859-1-27</date>
+                  <place>Berlin</place>
+               </birth>
+               <death>
+                  <date>1941-6-4</date>
+                  <place>Doorn/Niederlande</place>
+               </death>
+               <occupation>Kaiser</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_21338</idno></person>
+            <person xml:id="fk__p_38111">
+               <persName>Schalek, Alice</persName>
+               <birth>
+                  <date>1874-8-21</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1956-11-6</date>
+                  <place>New York</place>
+               </death>
+               <occupation>Journalistin</occupation>
+               <occupation>Schriftstellerin</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/9664</idno></person>
+            </listPerson></back></text>
+</TEI>

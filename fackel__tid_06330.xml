@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06330.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06329.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06331.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Dr. Ethel Smyth, in: Fackel Heft 15, Nr. 376, 1913, S. 43-44</title>
+            <title type="iso-date">1913-06-01</title>
+            <title type="id">tid_06330</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">15</title><title type="heft">376</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-15-376_n0043.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/376,043</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Dr. Ethel Smyth</head>
+            <p ana="pr85377">
+ist wieder im Land und versichert in einem Brief an die <seg type="insult">Bordellwirtin<lb/>
+ der Freiheit</seg>:<lb/>
+</p>
+            <p ana="pr85379">
+<space/><seg type="symbol" subtype="4dots"/> Die englischen Zeitungen reden unaufhörlich und wohlbedacht<lb/>
+ von »gefährdeten Menschenleben«. Darf ich abermals betonen,<lb/>
+daß die Suffragettes, die wohl das Eigentum in jeder Form angreifen<lb/>
+(weil dieses bei uns höher gestellt wird als Frau und Kind), auf das<lb/>
+Menschenleben aber bis jetzt <seg type="spc">streng Rücksicht nehmen</seg>. Der Beweis<lb/>
+dafür ist <seg type="spc">schlagend</seg>; bei den Hunderten von Attentaten ist niemandem,<lb/>
+außer den Frauen selber, das geringste geschehen. Man braucht nicht<lb/>
+hinzuzufügen, daß eine derartige Vorsicht die Gefahr, <seg type="spc">der die<lb/>
+Betreffende sich aussetzt</seg>, unermeßlich erhöht. Ihre ergebene<lb/>
+<rs type="pers" ana="n_58987" ref="#fk__p_40958"><abbr>Dr.</abbr> <AUCTOR>Ethel Smyth</AUCTOR></rs>. Baden bei Wien.<lb/>
+</p>
+            <p ana="pr85381">
+<space/><seg type="insult">Die Bordellwirtin der Freiheit</seg> macht <seg type="insult">ein gläubiges Gesicht</seg>.<lb/>
+Nur auf der Rückseite wird sie bedenklich:<lb/>
+</p>
+            <p ana="pr85383">
+<space/><seg type="sidehead">London, <date>10. Mai</date></seg>. Im Wartesaale des Bahnhofes Lime Street in<lb/>
+Liverpool wurde heute eine Bombe mit der Inschrift <foreign xml:lang="en">»Votes for women«</foreign><lb/>
+gefunden. Desgleichen wurde in Reading auf dem Postamte eine mit<lb/>
+einem Uhrwerke versehene Bombe gefunden.<lb/>
+</p>
+            <p ana="pr85385">
+<space/>Mit äußerster Vorsicht hat die Betreffende die Bombe deponiert<lb/>
+ und sich, um das Leben ihrer Mitmenschen, der Reisenden in<lb/>
+Liverpool und der Postbeamten in Reading, zu schonen, persönlich<lb/>
+einer Lebensgefahr ausgesetzt. Bomben dienen zum Schutz gegen<lb/>
+Explosionen. Und die <seg type="insult">Damen</seg>, die die Bomben im Wartesaal und<lb/>
+auf dem Postamt mit strenger Rücksicht auf das Menschenleben<lb/>
+deponieren und vielleicht selber zu Schaden kommen könnten,<lb/>
+die schützt <seg type="insult">der liebe <rs type="pers" ana="n_58988" ref="#fk__p_45908">Bahr</rs></seg>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_40958">
+               <persName>Smyth, Ethel Mary</persName>
+               <birth>
+                  <date>1858-4-23</date>
+                  <place>London</place>
+               </birth>
+               <death>
+                  <date>1944-5-8</date>
+                  <place>Woking/Surrey</place>
+               </death>
+               <occupation>Komponistin</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12804</idno></person>
+            <person xml:id="fk__p_45908">
+               <persName>Bahr, Hermann</persName>
+               <birth>
+                  <date>1863-7-19</date>
+                  <place>Linz</place>
+               </birth>
+               <death>
+                  <date>1934-1-15</date>
+                  <place>München</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Kritiker</occupation>
+               <note type="comment">Ögg teilt auch 307/52, 445/49, 800/67 (Rotte Korah) Bahr zu</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10815</idno></person>
+            </listPerson></back></text>
+</TEI>

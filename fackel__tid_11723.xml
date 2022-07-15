@@ -1,0 +1,44 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_11723.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11722.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_11724.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ein Original, in: Fackel Heft 33, Nr. 852, 1931, S. 20-20</title>
+            <title type="iso-date">1931-05-01</title>
+            <title type="id">tid_11723</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">33</title><title type="heft">852</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-33-852_n0020.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/852,020</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ein Original</head>
+            <p ana="pr170028">
+<space/>»Ich kann keine Musik aus der Hand geben«, sagt <rs type="pers" ana="n_101632" ref="#fk__p_47437">Kalman</rs>, »die<lb/>
+ich nicht vom ersten bis zum letzten Ton selbst geschrieben habe — —«<lb/>
+</p>
+            <p ana="pr170030">
+Nicht jeder <seg type="insult">Meister</seg> hält so rein.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_47437">
+               <persName>Kálmán, Emmerich</persName>
+               <birth>
+                  <date>1882-10-24</date>
+                  <place>Siófok am Plattensee</place>
+               </birth>
+               <death>
+                  <date>1953-10-30</date>
+                  <place>Paris</place>
+               </death>
+               <occupation>Komponist</occupation>
+               <note type="comment">mehrere Nennungen durch Titel: 418/102; 431/42; 445/64; 454/58</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12015</idno></person>
+            </listPerson></back></text>
+</TEI>

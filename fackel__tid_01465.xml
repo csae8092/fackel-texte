@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01465.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01464.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01466.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Gymnasiast. (Gymnasiast), in: Fackel Heft 02, Nr. 061, 1900, S. 27-27</title>
+            <title type="iso-date">1900-12-01</title>
+            <title type="id">tid_01465</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">061</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-061_n0027.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/061,027</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Gymnasiast. (Gymnasiast)</head>
+            <p ana="pr13842">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_11738" ref="#fk__p_45243">Gymnasiast</rs>.</seg></seg> Sie lasen im Leitartikel der ‚<rs type="paper" ana="werk_4534">Neuen Freien Presse</rs>‘<lb/>
+vom <date>29. November</date>: »— — man murmelt das <rs type="pers" ana="n_11739" ref="#fk__p_51028"><seg type="spc">Ovid’sche</seg> <foreign xml:lang="la">‚Forsan et<lb/>
+haec olim meminisse juvabit‘</foreign></rs> in stiller Erleichterung vor sich hin.«<lb/>
+Sie behaupten aber steif und fest, das Citat aus der <rs type="title">Aeneide</rs> <rs type="pers" ana="n_11740" ref="#fk__p_54849"><seg type="spc">Vergils</seg></rs><lb/>
+zu kennen. Der <seg type="insult">Leitartikler</seg> kann sich jetzt sein Schulgeld, aber Sie<lb/>
+können sich nicht Ihren Abonnementsbetrag zurückzahlen lassen.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_45243">
+               <persName>Gymnasiast</persName>
+            </person>
+            <person xml:id="fk__p_51028">
+               <persName>Publius Ovidius Naso</persName>
+               <birth>
+                  <date>43-3-20 BC</date>
+                  <place>Sulmo</place>
+               </birth>
+               <death>
+                  <date>17</date>
+                  <place>Tomi</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            </person>
+            <person xml:id="fk__p_54849">
+               <persName>Vergil</persName>
+               <birth>
+                  <date>70-10-15</date>
+                  <place>Andes (bei Mantua)</place>
+               </birth>
+               <death>
+                  <date>19-9-21</date>
+                  <place>Brundisium (Brindisi)</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

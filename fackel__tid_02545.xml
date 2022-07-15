@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02545.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02544.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02546.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Chroniqueur. (Gegen die Tuberculose), in: Fackel Heft 04, Nr. 109, 1902, S. 28-28</title>
+            <title type="iso-date">1902-07-17</title>
+            <title type="id">tid_02545</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">04</title><title type="heft">109</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-04-109_n0028.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/109,028</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Chroniqueur. (Gegen die Tuberculose)</head>
+            <p ana="pr24731">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_21411" ref="#fk__p_39978">Chroniqueur</rs>.</seg></seg> Ob <seg type="insult">die Herren <rs type="pers" ana="n_21412" ref="#fk__p_57761"><abbr>Dr.</abbr> Anton Löw</rs> Besitzer eines<lb/>
+Heilungsgeschäftes (Sanatoriums) und der bekannte Herr <rs type="pers" ana="n_21413" ref="#fk__p_38087">Alfred <abbr>R.</abbr> von<lb/>
+Lindheim</rs></seg> <seg type="insult">aus purer Menschlichkeit oder aus menschlichem Drang nach<lb/>
+der Baronie</seg> die Tuberculose bekämpfen? Mit <seg type="insult">solchen Angelegenheiten<lb/>
+des Privatstrebens</seg> befasse ich mich nicht. Jedenfalls sind — das haben<lb/>
+alle bisherigen Versuche gezeigt — <seg type="insult">Knopflochschmerzen</seg> leichter heilbar<lb/>
+als Tuberculose.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_39978">
+               <persName>Chroniqueur</persName>
+            </person>
+            <person xml:id="fk__p_38087">
+               <persName>Lindheim, Alfred Ritter von</persName>
+               <birth>
+                  <date>1836-10-11</date>
+                  <place>Ullersdorf bei Glatz/Preuß. Schlesien</place>
+               </birth>
+               <death>
+                  <date>1913-12-25</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Großgrundbesitzer</occupation>
+               <occupation>Kaufmann</occupation>
+               <occupation>Politiker</occupation>
+               <note type="comment">1., Grillparzerstr. 5</note>
+               <note type="comment">bei Ögg im Nachtrag R., Alfred aus Lindheim mit falscher Seitenangabe 109/27</note>
+               <note type="comment">Landtagsabgeordneter</note>
+            </person>
+            <person xml:id="fk__p_57761">
+               <persName>Loew, Anton</persName>
+               <birth>
+                  <date>1847-10-20</date>
+                  <place>Preßburg</place>
+               </birth>
+               <death>
+                  <date>1907-9-14</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Arzt</occupation>
+               <occupation>Sanatoriumsleiter</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/20565</idno></person>
+            </listPerson></back></text>
+</TEI>

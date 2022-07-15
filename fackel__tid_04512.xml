@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_04512.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04511.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04513.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Leser. (Nachträge), in: Fackel Heft 09, Nr. 230, 1907, S. 39-40</title>
+            <title type="iso-date">1907-07-15</title>
+            <title type="id">tid_04512</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">09</title><title type="heft">230</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-09-230_n0039.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/230,039</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Leser. (Nachträge)</head>
+            <p ana="pr50135">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="name_203694" ref="#fk__p_48877">Leser</rs>.</seg></seg> Es wäre zur <rs type="selfRef" ana="werk_15631">letzten Nummer</rs> nachzutragen, daß die Meldung<lb/>
+ <seg type="insult">des <rs type="magazineRef" ana="werk_15632"><rs type="inst">zionistischen Blattes</rs></rs></seg> von <seg type="insult">der in London vorgenommenen Beschneidung<lb/>
+ des Kronprinzen <rs type="pers" ana="n_39970" ref="#fk__p_41891">Herzl</rs></seg> unter <seg type="insult">der stolzen Aufschrift »<rs type="title"><seg type="spc">England</seg></rs>«</seg><lb/>
+erschienen ist. — Und festzustellen wäre, daß bloß ein Druckfehler<lb/>
+</p>
+            <p ana="pr50135">
+auf <FCORR id="fcorr_208" ferrID="ferr_208" href="FK-09-229_n0023.xml"><abbr>S.</abbr> 23 den Posten eines <rs type="inst">Hoftheaterdirektors</rs> zum <seg type="insult">»Geschenk <seg type="spc">des</seg><lb/>
+<rs type="pers">Danaë«</rs></seg> für <seg type="insult">Herrn <rs type="pers" ana="n_39971" ref="#fk__p_45747">Reinhardt</rs></seg> werden ließ. <seg type="insult">Herr <rs type="pers" ana="n_39972" ref="#fk__p_45747">Reinhardt</rs></seg>, der bekanntlich<lb/>
+ für <seg type="insult">einen »gebildeten Musiker«</seg> gelten will, wird sich darin<lb/>
+nicht irre machen lassen, daß es bloß ein »<EM id="em_208" ferrID="ferr_208" href="FK-09-229_n0023.xml">Geschenk <seg type="spc">der</seg> <rs type="pers">Danaë</rs>«</EM> gibt.</FCORR><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_48877">
+               <persName>Leser</persName>
+            </person>
+            <person xml:id="fk__p_45747">
+               <persName>Reinhardt, Heinrich</persName>
+               <birth>
+                  <date>1865-4-13</date>
+                  <place>Pressburg</place>
+               </birth>
+               <death>
+                  <date>1922-1-31</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Komponist</occupation>
+               <occupation>Musikschriftsteller</occupation>
+               <note type="comment">"Das süße Mädel" 118/31</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12501</idno></person>
+            <person xml:id="fk__p_41891">
+               <persName>Herzl, Theodor</persName>
+               <birth>
+                  <date>1860-5-2</date>
+                  <place>Pest</place>
+               </birth>
+               <death>
+                  <date>1904-7-3</date>
+                  <place>Edlach, Niederösterreich</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11673</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03292.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03291.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03293.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Historiker. (Deak und die Wiener Presse), in: Fackel Heft 05, Nr. 145, 1903, S. 30-30</title>
+            <title type="iso-date">1903-10-28</title>
+            <title type="id">tid_03292</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">05</title><title type="heft">145</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-05-145_n0030.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/145,030</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Historiker. (Deak und die Wiener Presse)</head>
+            <p ana="pr32521">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_28080" ref="#fk__p_46138">Historiker</rs>.</seg></seg> Ein Mitarbeiter ausländischer Blätter hatte neulich<lb/>
+mehrere <rs type="pers" ana="n_28081" ref="#fk__p_40320"><SPAN cont="Deak-Artikel"><seg type="spc">Deak</seg>-Artikel</SPAN></rs> zu schreiben und teilt mir ein paar Denkwürdigkeiten<lb/>
+mit, auf die er beim Studium des Materials gestoßen ist. Die aktuellste:<lb/>
+Unter dem Schlagwort <seg type="insult">»<rs type="title">Nur Geschäft</rs>«</seg> brachte der ‚<rs type="paper" ana="werk_12211">Pester Lloyd</rs>‘ am<lb/>
+<date>4. Februar 1876</date>, nach der Bestattung <rs type="pers" ana="n_28082" ref="#fk__p_40320">Deak’s</rs>, die folgende Notiz: »Ein<lb/>
+<rs type="perRef" ana="werk_12212">Wiener Journal</rs> sandte zur heutigen Begräbnisfeier einen Spezialberichterstatter<lb/>
+ nach Budapest, der seine Mission sehr gewissenhaft nahm und<lb/>
+sofort nach der Feier ein Telegramm von mehr als tausend Worten nach<lb/>
+Wien sandte. Gegen Abend erhielt der wackere Mann von seinem Chef<lb/>
+folgende telegraphische Nachricht: ‚Telegraphieren Sie nicht so viel,<lb/>
+dieser <rs type="pers" ana="n_28083" ref="#fk__p_40320">Deak</rs> hat bei uns nie inserieren lassen!‘«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_40320">
+               <persName>Deák, Franz</persName>
+               <birth>
+                  <date>1803-10-17</date>
+                  <place>Söjtör</place>
+               </birth>
+               <death>
+                  <date>1876-01-29</date>
+                  <place>Budapest</place>
+               </death>
+               <occupation>Politiker</occupation>
+            </person>
+            <person xml:id="fk__p_46138">
+               <persName>Historiker</persName>
+            </person>
+            </listPerson></back></text>
+</TEI>

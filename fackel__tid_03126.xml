@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03126.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03125.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03127.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Jurist. (Das Urtheil des Landesgerichts), in: Fackel Heft 05, Nr. 137, 1903, S. 21-21</title>
+            <title type="iso-date">1903-05-11</title>
+            <title type="id">tid_03126</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">05</title><title type="heft">137</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-05-137_n0021.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/137,021</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Jurist. (Das Urtheil des Landesgerichts)</head>
+            <p ana="pr30700">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_26600" ref="#fk__p_47308">Jurist</rs>.</seg></seg> Ein <seg type="insult">Curiosum der österreichischen Pressgerichtsbarkeit</seg>:<lb/>
+Das <rs type="inst">Landesgericht</rs> hat mich durch seinen Freispruch sozusagen von der<lb/>
+Verpflichtung zur Aufnahme der in den <rs type="selfRef" ana="werk_11509"><abbr>Nr.</abbr> 134</rs> und <rs type="selfRef" ana="werk_11510">135</rs> abgedruckten<lb/>
+Berichtigung <seg type="insult">des Herrn <rs type="pers" ana="n_26601" ref="#fk__p_46524">Singer</rs></seg> befreit. Es hat die Berichtigung für ungesetzlich<lb/>
+ erklärt. Und es hat gleichzeitig die Verurtheilung wegen »verstümmelten<lb/>
+« Abdrucks (40 Kronen) in <rs type="selfRef" ana="werk_11511"><abbr>Nr.</abbr> 134</rs> <seg type="spc">bestätigt</seg>! Die Berichtigung<lb/>
+, die also zweimal erscheinen mußte, ohne daß ich dazu verpflichtet<lb/>
+ war, lässt sich nicht mehr ungedruckt machen — das Urtheil<lb/>
+erster Instanz hat nur im Punkte der Geldstrafe aufschiebende Wirkung —,<lb/>
+aber ich bleibe verurtheilt, weil ich vor der Berichtigung, die ich nicht<lb/>
+drucken mußte, die Aufforderung, sie zu drucken, nicht gedruckt hatte.<lb/>
+Interessant ist auch, daß das <rs type="inst">Landesgericht</rs>, welches die Verurtheilung<lb/>
+wegen Nichtaufnahme der Berichtigung aufhob und die Verurtheilung<lb/>
+wegen unvollständigen Abdrucks bestätigte, aus dem Urtheil erster Instanz<lb/>
+ die Verpflichtung zum Wiederabdruck, die es außer der Geldstrafe<lb/>
+ausgesprochen hatte, eliminierte <seg type="symbol" subtype="3dots"/> <seg type="insult">Welch ein Chaos!</seg> Höchste Zeit,<lb/>
+daß daraus die Welt neuen Pressrechts erschaffen wird.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_47308">
+               <persName>Jurist</persName>
+            </person>
+            <person xml:id="fk__p_46524">
+               <persName>Singer, Isidor</persName>
+               <birth>
+                  <date>1857-01-16</date>
+                  <place>Pest</place>
+               </birth>
+               <death>
+                  <date>1927-12-08</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Nationalökonom</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12790</idno></person>
+            </listPerson></back></text>
+</TEI>

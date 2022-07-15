@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_07705.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07704.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_07706.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Theater, Kunst und Literatur, in: Fackel Heft 18, Nr. 445, 1234, S. 158-159</title>
+            <title type="iso-date">1234-01-01</title>
+            <title type="id">tid_07705</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">18</title><title type="heft">445</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-18-445_n0158.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/445,158</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Theater, Kunst und Literatur</head>
+            <p ana="pr103383">
+<space/><rs type="pers" ana="n_66724" ref="#fk__p_38111">Alice <seg type="spc">Schalek</seg></rs> ist von der Direktion der »<rs type="inst">Urania</rs>« eingeladen worden,<lb/>
+ihren <SPAN cont="Lichtbildervortrag"><seg type="spc">Lichtbilderv</seg>ortrag</SPAN> »<rs type="title">Drei Monate an der Isonzofront</rs>« am<lb/>
+<date>7.</date> und <date>9. Dezember</date> dort zu wiederholen. <rs type="pers" ana="n_66725" ref="#fk__p_38111">Alice Schalek</rs> ist inzwischen<lb/>
+von zahlreichen österreichischen, ungarischen und deutschen Städten<lb/>
+zum Vortrag geladen worden und hat bereits in Graz, Laibach, Salzburg,<lb/>
+Linz, Prag, Brünn, <seg type="spc">aber auch</seg> in Reichenberg, Aussig und Karlsbad vor<lb/>
+ausverkauften Sälen und vor den <seg type="spc">Spitzen</seg> der Bevölkerung gesprochen.<lb/>
+In Salzburg wohnten alle Mitglieder des toskanischen Hofes, in den<lb/>
+übrigen Städten <seg type="spc">die Statthalter und Gemahlinnen</seg> sowie die<lb/>
+kommandierenden Offiziere dem Vortrage bei. Da <rs type="pers" ana="n_66726" ref="#fk__p_38111">Alice Schalek</rs> noch<lb/>
+nach Innsbruck, Wels, Teschen, Mährisch-Ostrau und Budapest geht und<lb/>
+den ganzen <date>Januar</date> in Deutschland vortragen wird, sind die beiden<lb/>
+<rs type="inst"><SPAN cont="Urania-Vorträge">»Urania«-Vorträge</SPAN></rs> <seg type="spc">vorläufig</seg> die einzigen in Wien.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_38111">
+               <persName>Schalek, Alice</persName>
+               <birth>
+                  <date>1874-8-21</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1956-11-6</date>
+                  <place>New York</place>
+               </death>
+               <occupation>Journalistin</occupation>
+               <occupation>Schriftstellerin</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/9664</idno></person>
+            </listPerson></back></text>
+</TEI>

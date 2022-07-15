@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_08730.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08729.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08731.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ebenda, 1. Mai, ½7Uhr, für die Arbeiterschaft Wiens:, in: Fackel Heft 22, Nr. 544, 1920, S. 15-16</title>
+            <title type="iso-date">1920-06-01</title>
+            <title type="id">tid_08730</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">22</title><title type="heft">544</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-22-544_n0015.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/544,015</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ebenda, 1. Mai, ½7Uhr, für die Arbeiterschaft Wiens:</head>
+            <p ana="pr115837">
+<space/>Ebenda, <date>1. Mai</date>, ½7Uhr, für die <rs type="inst">Arbeiterschaft Wiens</rs>:<lb/>
+</p>
+            <p ana="pr115838">
+<space/>I. <rs type="title"><seg type="spc">Die Weber</seg></rs>, II. <seg type="spc">Akt</seg>.<lb/>
+</p>
+            <p ana="pr115839">
+<space/>II. <rs type="title"><seg type="spc"><rs type="pers">Hannele Matterns</rs> Himmelfahrt</seg></rs>. (Begleitmusik<lb/>
+: <rs type="pers" ana="n_71624" ref="#fk__p_41334"><abbr>Dr.</abbr> Karl Meyer</rs>.)<lb/>
+</p>
+            <p ana="pr115840">
+<space/>Der volle Ertrag dieser Vorlesung (K 1151.40) wurde dem<lb/>
+<rs type="inst">Fonds für die Befreiung der Kriegsgefangenen</rs> überwiesen.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_41334">
+               <persName>Meyer, Karl</persName>
+               <birth>
+                  <date>1891-12-2</date>
+                  <place>Vöslau</place>
+               </birth>
+               <death>
+                  <date>leer</date>
+               </death>
+               <occupation>Komponist</occupation>
+               <note type="comment">mit Baldur von Schirach ein Werk im Zentralverlag der NSDAP, ca. 1935</note>
+               <note type="comment">Dr. Karl Meyer-Frenner</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

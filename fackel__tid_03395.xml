@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03395.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03394.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03396.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Liebe Fackel!, in: Fackel Heft 05, Nr. 150, 1903, S. 31-31</title>
+            <title type="iso-date">1903-12-23</title>
+            <title type="id">tid_03395</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">05</title><title type="heft">150</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-05-150_n0031.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/150,031</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Liebe Fackel!</head>
+            <p ana="pr33700">
+<space/>Jeder Druckfehlerteufel spricht den Jargon, den er in seiner<lb/>
+Redaktion hört. Was mußte er folgerichtig aus der Meldung machen,<lb/>
+die kürzlich an das ‚<seg ana="Neue Wiener Tagblatt"/>‘ gelangte und von<lb/>
+einem angeblichen Erfolg der Frau <rs type="pers" ana="n_29106" ref="#fk__p_54745"><abbr>v.</abbr> Türk-Rohn</rs> im Münchener<lb/>
+<rs type="inst"><rs type="pers" ana="n2_2239" ref="#fk__p_58297">Kaim-Konzert</rs></rs> sprach? Er wollte nicht dran glauben, hatte offenbar<lb/>
+ die abfälligen Münchener Kritiken gelesen und setzte boshafter<lb/>
+ Weise:<lb/>
+</p>
+            <p ana="pr33702">
+<space/>»<QUOTE rn="1" sourceID="FK-05-150_n0031_a">Wie uns aus München berichtet wird, hatte Frau <rs type="pers" ana="n_29107" ref="#fk__p_54745"><abbr>v.</abbr> Türk-Rohn</rs><lb/>
+vorgestern im <seg type="insult"><rs type="inst"><rs type="pers" ana="n2_2240" ref="#fk__p_58297"><SPAN cont="Chaim-Konzert" norm="Kaim-Konzert"><seg type="spc">Chaim-K</seg>onzert</SPAN></rs></rs></seg> einen großen Erfolg.</QUOTE>«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_54745">
+               <persName>Türk-Rohn, Olga Edle von, geb. Freiin Rohn von Rohnau</persName>
+               <birth>
+                  <date>1876-6-3</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1940</date>
+               </death>
+               <occupation>Sängerin</occupation>
+               <occupation>Gesangspädagogin</occupation>
+               <note type="comment">Lied- und Oratoriensängerin</note>
+            </person>
+            <person xml:id="fk__p_58297">
+               <persName>Kaim, Franz</persName>
+               <birth>
+                  <date>1856-5-13</date>
+                  <place>Kirchheim/Teck</place>
+               </birth>
+               <death>
+                  <date>1935-11-17</date>
+                  <place>Kempten/Allgäu</place>
+               </death>
+               <occupation>Philologe</occupation>
+               <occupation>Musiker</occupation>
+               <occupation>Schriftsteller</occupation>
+               <note type="comment">1893 Gründer der Münchner Philharmoniker; Sohn eines Klavierbauers</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

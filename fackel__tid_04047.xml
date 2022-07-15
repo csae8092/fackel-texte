@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_04047.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04046.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04048.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Höfling. (Das Ende der Affaire Coburg), in: Fackel Heft 07, Nr. 193, 1906, S. 22-22</title>
+            <title type="iso-date">1906-01-19</title>
+            <title type="id">tid_04047</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">07</title><title type="heft">193</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-07-193_n0022.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/193,022</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Höfling. (Das Ende der Affaire Coburg)</head>
+            <p ana="pr42114">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="name_203483" ref="#fk__p_46184">Höfling</rs>.</seg></seg></seg> »Nur so viel darf gesagt werden, daß ein beide<lb/>
+Teile befriedigender, vornehmer Ausgleich zustande gekommen ist.<lb/>
+<rs type="pers" ana="n_34897" ref="#fk__p_49205">Prinzessin Louise</rs> erhält als Unterhaltsbeitrag, unveräußerlich und unbelastbar<lb/>
+ 400.000 Kronen, und überdies monatlich 7000 K <seg type="symbol" subtype="3dots"/> Die<lb/>
+Klageführung in Budapest unterbleibt.« <seg type="symbol" subtype="3dots"/> Ich glaube — sie »weiß<lb/>
+was auf wem«.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_49205">
+               <persName>Sachsen, Luise von, geb. Erzherzogin von Österreich-Toscana</persName>
+               <birth>
+                  <date>1870-9-2</date>
+                  <place>Salzburg</place>
+               </birth>
+               <death>
+                  <date>1947-3-23</date>
+                  <place>Brüssel</place>
+               </death>
+               <note type="comment">Gräfin Montignoso, starb als Blumenfrau</note>
+               <note type="comment">Affaire mit André Giron</note>
+               <note type="comment">Ögg irrt. statt 126/19: 126/29</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_19511</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/23855</idno></person>
+            <person xml:id="fk__p_46184">
+               <persName>Höfling</persName>
+            </person>
+            </listPerson></back></text>
+</TEI>

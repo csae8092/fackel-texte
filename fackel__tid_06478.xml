@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06478.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06477.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06479.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Wie schützt man sich bei den heutigen Zeiten vor Grubenhunden?, in: Fackel Heft 15, Nr. 384, 1913, S. 36-37</title>
+            <title type="iso-date">1913-10-01</title>
+            <title type="id">tid_06478</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">15</title><title type="heft">384</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-15-384_n0036.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/384,036</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Wie schützt man sich bei den heutigen Zeiten vor Grubenhunden?</head>
+            <p ana="pr87420">
+<space/>Wenn nicht am Ende auch der einer ist:<lb/>
+</p>
+            <p ana="pr87422">
+<space/><seg type="sidehead">(<rs type="fictional" ana="werk_19766">Monatsschrift des <rs type="inst"><abbr>österr.-ungar.</abbr> <seg type="ELIDASH">Polizeihund-Vereines</seg> und Kriegshund-Vereines</rs><lb/>
+V.</rs>, <abbr>Nr.</abbr> 52)</seg>: <seg type="spc">Besitzwechsel</seg>. Der <rs type="pers" ana="n_60096" ref="#fk__p_47348"><abbr>K.</abbr> Witzelhuber</rs> hat seinen »<rs type="pers" ana="n_60097" key="#fk__p_38470">Arthos<lb/>
+Schwanthaler</rs>«, einen außerordentlich großen Airedale-Terrier, <seg type="spc">der<lb/>
+besonders</seg> durch Haar, Knochen und <seg type="spc">enorm starken Fang brilliert</seg>,<lb/>
+an Herrn <rs type="pers" ana="n_60098" ref="#fk__p_50373"><abbr>M.</abbr> Benedikt</rs>, den Herausgeber der ‚<rs type="paper" ana="werk_19767">Neuen Freien Presse</rs>‘,<lb/>
+abgegeben.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_50373">
+               <persName>Benedikt, Moriz</persName>
+               <birth>
+                  <date>1849-5-27</date>
+                  <place>Kwatschitz/Mähren</place>
+               </birth>
+               <death>
+                  <date>1920-3-18</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <note type="comment">Geburtsort Kwatschitz bei Ungarisch Hradisch/Mähren, nicht Kwassitz bei Kremsier</note>
+               <note type="comment">1. Tor, 20/1/1a</note>
+               <note type="comment">Hrsg. der NFP (seit 1908 alleiniger Leiter)</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10875</idno></person>
+            <person xml:id="fk__p_47348">
+               <persName>Witzelhuber, Karl</persName>
+               <birth>
+                  <date>1882-1-7</date>
+                  <place>St. Valentin/Niederösterreich</place>
+               </birth>
+               <death>
+                  <date>1940-11-13</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Gymnasiallehrer</occupation>
+               <note type="comment">Polizei- und Kriegshund-Verein, Airdale-Terrier an M. Benedikt verkauft 1913</note>
+               <note type="comment">18., Schindlergasse 48/18</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

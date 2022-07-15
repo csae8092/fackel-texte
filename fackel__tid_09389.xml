@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_09389.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09388.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_09390.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Ein Dokument deutschen Forscherfleißes), in: Fackel Heft 25, Nr. 613, 1923, S. 146-146</title>
+            <title type="iso-date">1923-04-01</title>
+            <title type="id">tid_09389</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">25</title><title type="heft">613</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-25-613_n0146.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/613,146</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Ein Dokument deutschen Forscherfleißes)</head>
+            <p ana="pr125366">
+<space/><seg type="insult">Ein Dokument deutschen Forscherfleißes</seg>:<lb/>
+</p>
+            <p ana="pr125368">
+<rs type="inst"><AUCTOR>Freigewerkschaftlicher<lb/>
+Zentralverband der<lb/>
+deutschen Geistesarbeiter</AUCTOR></rs><lb/>
+</p>
+            <p ana="pr125369">
+Berlin, den <date>6. Februar 1923</date>.<lb/>
+</p>
+            <p ana="pr125370">
+Sehr werter Herr Kollege <rs type="pers" ana="n_77266" ref="#fk__p_47565">Kraus</rs>!<lb/>
+</p>
+            <p ana="pr125371">
+<space/>Wir sind beauftragt, <seg type="spc">Nachforschungen</seg> nach dem Verlage<lb/>
+des Werkes »<rs type="title">Die letzten Tage der Menschheit</rs>« von <rs type="pers" ana="n_77267" ref="#fk__p_47565">Karl Kraus</rs><lb/>
+anzustellen, da die Buchhändler in Berlin den Verlag ohne nähere<lb/>
+Angabe angeblich nicht ermitteln können.<lb/>
+</p>
+            <p ana="pr125372">
+<space/>In der Annahme, daß wir in Ihnen den mutigen Herrn Verfasser<lb/>
+ finden, bitten wir Sie um gefällige Auskunft und fügen zu<lb/>
+Ihrer Bedienung als Rückporto 50.— M in deutschem Scheine bei<seg type="symbol" subtype="4dotsEditor"/><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_47565">
+               <persName>Kraus, Karl</persName>
+               <birth>
+                  <date>1874-4-28</date>
+                  <place>Jicin, Böhmen</place>
+               </birth>
+               <death>
+                  <date>1936-6-12</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Publizist</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11988</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01843.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01842.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01844.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Artifex. (Der Kirschblütenschmock), in: Fackel Heft 03, Nr. 077, 1901, S. 24-24</title>
+            <title type="iso-date">1901-05-01</title>
+            <title type="id">tid_01843</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">03</title><title type="heft">077</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-03-077_n0024.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/077,024</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Artifex. (Der Kirschblütenschmock)</head>
+            <p ana="pr18096">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="n_15290" ref="#fk__p_38469"><foreign xml:lang="la">Artifex</foreign></rs>.</seg></seg></seg> <seg type="insult">Der Kirschblütenschmock der ‚<rs type="paper" ana="werk_5811">Neuen Freien Presse</rs>‘</seg><lb/>
+hat gelegentlich der Beschreibung des Kunstpavillons in der <rs type="inst">Rotunde</rs><lb/>
+mit <seg type="insult">unerschütterlichem Ernst</seg> zu berichten gewusst: »Viel besprochen<lb/>
+wurde eine Skizzenserie der <rs type="pers" ana="n_15291" ref="#fk__p_44931">Gräfin Christiane Thun</rs> zu den Fresken<lb/>
+für das Gymnasium in Kagran. Diese Skizze wurde um 4000 <abbr>fl.</abbr> verkauft<lb/>
+.« Natürlich muss man hiebei nicht erst über die Frage nachdenken<lb/>
+, ob Kagran überhaupt ein Gymnasium besitzt. Es handelt sich<lb/>
+nämlich um eine <rs type="pers" ana="n_15292" ref="#fk__p_45195">Klimt-Parodie</rs>, die den Titel führt: <seg type="insult">»<rs type="title">Skizzen zu den<lb/>
+Fresken für das Staatsgymnasium in Kagran</rs>.«</seg><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_38469">
+               <persName>Artifex</persName>
+            </person>
+            <person xml:id="fk__p_44931">
+               <persName>Thun-Hohenstein-Salm-Reifferscheid, Christiane Gräfin, geb. Gräfin Waldstein</persName>
+               <birth>
+                  <date>1859-6-12</date>
+                  <place>Hirschberg</place>
+               </birth>
+               <death>
+                  <date>1935-8-6</date>
+                  <place>Hirschberg</place>
+               </death>
+            </person>
+            <person xml:id="fk__p_45195">
+               <persName>Klimt, Gustav</persName>
+               <birth>
+                  <date>1862-7-14</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1918-2-6</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Maler</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11941</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01387.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01386.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01388.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Pressfeind. (Pressfeind), in: Fackel Heft 02, Nr. 058, 1900, S. 28-28</title>
+            <title type="iso-date">1900-11-01</title>
+            <title type="id">tid_01387</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">058</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-058_n0028.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/058,028</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Pressfeind. (Pressfeind)</head>
+            <p ana="pr13166">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_10941" ref="#fk__p_51675">Pressfeind</rs>.</seg></seg> Das Wort rührt von <rs type="pers" ana="n_10942" ref="#fk__p_44128">Georg Christoph <seg type="spc">Lichtenberg<lb/>
+</seg></rs> her: »Die <seg type="insult">Zeitungsschreiber</seg> haben sich <seg type="insult">ein hölzernes Kapellchen</seg><lb/>
+erbaut, das sie auch den <seg type="insult">Tempel des Ruhms</seg> nennen, worin sie den<lb/>
+ganzen Tag Portraits anschlagen und abnehmen und ein Gehämmer<lb/>
+machen, dass man sein eigenes Wort nicht hört.« Seit der <DATERANGE>zweiten<lb/>
+Hälfte des 18. Jahrhunderts</DATERANGE> hat sich der <seg type="insult">Lärm</seg> erheblich gesteigert.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_51675">
+               <persName>Pressfeind</persName>
+            </person>
+            <person xml:id="fk__p_44128">
+               <persName>Lichtenberg, Georg Christoph</persName>
+               <birth>
+                  <date>1742-7-1</date>
+                  <place>Oberramstadt bei Darmstadt</place>
+               </birth>
+               <death>
+                  <date>1799-2-24</date>
+                  <place>Göttingen</place>
+               </death>
+               <occupation>Physiker</occupation>
+               <occupation>Philosoph</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12064</idno></person>
+            </listPerson></back></text>
+</TEI>

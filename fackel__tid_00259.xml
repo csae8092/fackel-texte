@@ -1,0 +1,47 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00259.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00258.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00260.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">K. F., in: Fackel Heft 01, Nr. 011, 1899, S. 31-31</title>
+            <title type="iso-date">1899-07-01</title>
+            <title type="id">tid_00259</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">011</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-011_n0031.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/011,031</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>K. F.</head>
+            <p ana="pr2483">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_1817" ref="#fk__p_47327"><abbr>K. F.</abbr></rs></seg></seg> Sonst wird — nach <rs type="pers" ana="n_1818" ref="#fk__p_54875">Adler’s</rs> Wort — der Absolutismus<lb/>
+durch <seg type="insult">Schlamperei</seg> <seg type="spc">gemildert</seg>. — Der gewiss sehr berechtigten<lb/>
+Beschwerde könnte ich nur in einem Complex aller einschlägigen<lb/>
+Chicanen Raum gewähren.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_54875">
+               <persName>Adler, Victor</persName>
+               <birth>
+                  <date>1852-6-24</date>
+                  <place>Prag</place>
+               </birth>
+               <death>
+                  <date>1918-11-11</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Arzt</occupation>
+               <occupation>Politiker</occupation>
+               <note type="comment">wohnte 1882-89 in Wien 9., Berggasse 19 (in der späteren Wohnung Freuds)</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10749</idno></person>
+            <person xml:id="fk__p_47327">
+               <persName>F., K.</persName>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/53010</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_05731.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05730.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_05732.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Der Dank der Justiz und das Verdienst der Polizei, in: Fackel Heft 14, Nr. 347, 1912, S. 8-8</title>
+            <title type="iso-date">1912-01-01</title>
+            <title type="id">tid_05731</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">14</title><title type="heft">347</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-14-347_n0008.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/347,008</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Der Dank der Justiz und das Verdienst der Polizei</head>
+            <p ana="pr75792">
+<space/>»Im Gegensatze zu so vielen Beschuldigten, die durch ihre<lb/>
+Verantwortung die Untersuchung gegen sich zu erschweren wissen,<lb/>
+hat bekanntlich der Kutscher <rs type="pers" ana="n_54291" ref="#fk__p_47102">Josef Kabon</rs> <seg type="spc">die Untersuchung durch<lb/>
+sein Geständnis sehr erleichtert</seg>. Die <seg type="spc">polizeilichen Recherchen<lb/>
+ haben noch ergeben</seg>, daß sich im Besitze <rs type="pers" ana="n_54292" ref="#fk__p_45394">Hammerschmieds</rs>,<lb/>
+der der Untat zum Opfer gefallen ist, 40 K befanden.«<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_47102">
+               <persName>Kabon, Josef</persName>
+               <birth>
+                  <date>1894?</date>
+               </birth>
+               <occupation>Kutscher</occupation>
+            </person>
+            <person xml:id="fk__p_45394">
+               <persName>Hammerschmied, Karl</persName>
+               <birth>
+                  <date>1888</date>
+               </birth>
+               <death>
+                  <date>1912-4-2</date>
+               </death>
+               <occupation>Lehrling</occupation>
+               <note type="comment">Lehrling, getötet durch Hammerschläge</note>
+               <note type="comment">"Schreiber"</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_04687.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04686.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_04688.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Gelegenheit zum Ohrfeigen), in: Fackel Heft 10, Nr. 254, 1908, S. 8-9</title>
+            <title type="iso-date">1908-05-22</title>
+            <title type="id">tid_04687</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">10</title><title type="heft">254</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-10-254_n0008.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/254,008</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Gelegenheit zum Ohrfeigen)</head>
+            <p ana="pr54311">
+<space/>Jetzt könnte Herr <rs type="pers" ana="n_42370" ref="#fk__p_42713">Toselli</rs> seine Daseinsberechtigung<lb/>
+ erweisen. Wann sollte denn die Gelegenheit<lb/>
+zum Ohrfeigen gegeben sein, wenn nicht in diesem<lb/>
+Falle? Die ‚<rs type="paper" ana="werk_16096">Neue Freie Presse</rs>‘ läßt sich aus Florenz<lb/>
+depeschieren, die ehemalige <rs type="pers" ana="n_42371" ref="#fk__p_49205">Gräfin Montignoso</rs> sei<lb/>
+</p>
+            <p ana="pr54311">
+von einem Knaben entbunden worden: »das freudige<lb/>
+Ereignis wird aber noch geheim gehalten«. Und die<lb/>
+‚<rs type="paper" ana="werk_16097">Zeit</rs>‘ setzt zu ihrer Depesche mit <seg type="insult">jener vielsagenden<lb/>
+Ruhe</seg>, die selbst das übliche »Kommentar überflüssig<lb/>
+« verschluckt, hinzu: »Die Hochzeit der <rs type="pers" ana="n_42372" ref="#fk__p_49205">Gräfin<lb/>
+Montignoso</rs> mit dem Pianisten <rs type="pers" ana="n_42373" ref="#fk__p_42713">Enrico Toselli</rs> fand<lb/>
+am <date>27. September 1907</date> in London statt.« Mutter, Kind<lb/>
+und <seg type="insult">Herr <rs type="pers" ana="n_42374" ref="#fk__p_46698">Lippowitz</rs></seg> befinden sich wohl.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_42713">
+               <persName>Toselli, Enrico</persName>
+               <birth>
+                  <date>1883-3-13</date>
+                  <place>Florenz</place>
+               </birth>
+               <death>
+                  <date>1926-1-15</date>
+                  <place>Florenz</place>
+               </death>
+               <occupation>Komponist</occupation>
+               <occupation>Pianist</occupation>
+               <note type="comment">mit Luise von Toscana den Sohn Carlo Emmanuele Filiberto (1908-1969)</note>
+               <note type="comment">in zweiter Ehe verh. mit Pia Santarini Pancerasi</note>
+            </person>
+            <person xml:id="fk__p_49205">
+               <persName>Sachsen, Luise von, geb. Erzherzogin von Österreich-Toscana</persName>
+               <birth>
+                  <date>1870-9-2</date>
+                  <place>Salzburg</place>
+               </birth>
+               <death>
+                  <date>1947-3-23</date>
+                  <place>Brüssel</place>
+               </death>
+               <note type="comment">Gräfin Montignoso, starb als Blumenfrau</note>
+               <note type="comment">Affaire mit André Giron</note>
+               <note type="comment">Ögg irrt. statt 126/19: 126/29</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_19511</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/23855</idno></person>
+            <person xml:id="fk__p_46698">
+               <persName>Lippowitz, Jakob (Siegmund)</persName>
+               <birth>
+                  <date>1865-10-9</date>
+                  <place>Leipzig</place>
+               </birth>
+               <death>
+                  <date>1934-7-4</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17583</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/4054</idno></person>
+            </listPerson></back></text>
+</TEI>

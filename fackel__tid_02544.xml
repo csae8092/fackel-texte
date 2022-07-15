@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02544.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02543.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02545.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Kunstgewerbler. (Eine Selbstanzeige), in: Fackel Heft 04, Nr. 109, 1902, S. 27-28</title>
+            <title type="iso-date">1902-07-17</title>
+            <title type="id">tid_02544</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">04</title><title type="heft">109</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-04-109_n0027.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/109,027</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Kunstgewerbler. (Eine Selbstanzeige)</head>
+            <p ana="pr24728">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="n_21406" ref="#fk__p_48370">Kunstgewerbler</rs>.</seg></seg></seg> <seg type="insult">Herr <rs type="pers" ana="n_21407" ref="#fk__p_52754">Sandor Jaray</rs> — Feuilletonist.</seg> »Das österreichische<lb/>
+ Kunstgewerbe auf der Ausstellung in London« ist ein Feuilleton<lb/>
+ betitelt, mit dem er neulich in der ‚<rs type="magazine" ana="werk_8531"><seg type="ELIDASH">Sonntagszeitung</seg> und Montagszeitung</rs>‘<lb/>
+debutierte. Die Grammatik ließ <seg type="insult">Herr <rs type="pers" ana="n_21408" ref="#fk__p_38006">Scharf</rs></seg> unverändert, aber mit der<lb/>
+</p>
+            <p ana="pr24728">
+Orthographie muß sich der Setzer alle mögliche Mühe gegeben haben.<lb/>
+Welchen Zweck das Feuilleton verfolgte? Nun, im Schlußsatz ward er feierlich<lb/>
+ enthüllt. »Und da wir schon dieser erfreulichen hellen Momente gedenken,<lb/>
+so sei auch erwähnt, daß <choice><sic>die<seg type="spc">elektrische</seg></sic><corr>die elektrische</corr></choice><seg type="spc"> Glühlampenfabrik</seg> »<rs type="inst"><rs type="pers" ana="n2_1676" ref="#fk__p_46721"><seg type="spc">Watt</seg></rs></rs>«,<lb/>
+Wien, in <seg type="spc">munificentester</seg> Weise die elektrische Installation und Beleuchtungsobjecte<lb/>
+ dem Unternehmen widmete, und daß ein Mitchef dieser<lb/>
+Firma persönlich während der ganzen Dauer der Installationsarbeiten in<lb/>
+London weilte, um an Ort und Stelle diese zu leiten und zu überwachen.«<lb/>
+<seg type="insult">Der zweite Mitchef der Firma »<rs type="inst"><rs type="pers" ana="n2_1677" ref="#fk__p_46721">Watt</rs></rs>«</seg> war in Wien geblieben. Er<lb/>
+mußte <seg type="insult">das Feuilleton des Herrn <rs type="pers" ana="n_21409" ref="#fk__p_52754">Jaray</rs></seg> übernehmen und zum Druck<lb/>
+befördern. Er heißt <rs type="pers" ana="n_21410" ref="#fk__p_38006">Alexander Scharf</rs>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_52754">
+               <persName>Járay, Sándor</persName>
+               <birth>
+                  <date>1845-7-5</date>
+                  <place>Temesvár</place>
+               </birth>
+               <death>
+                  <date>1916-7-8</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Möbelfabrikant</occupation>
+            </person>
+            <person xml:id="fk__p_48370">
+               <persName>Kunstgewerbler</persName>
+            </person>
+            <person xml:id="fk__p_46721">
+               <persName>Watt, James</persName>
+               <birth>
+                  <date>1736-1-19</date>
+                  <place>Greenock, Firth of Clyde</place>
+               </birth>
+               <death>
+                  <date>1819-8-19</date>
+                  <place>Heathfield</place>
+               </death>
+               <occupation>Ingenieur</occupation>
+               <occupation>Erfinder</occupation>
+            </person>
+            <person xml:id="fk__p_38006">
+               <persName>Scharf, Alexander</persName>
+               <birth>
+                  <date>1834-05-24</date>
+                  <place>Budapest</place>
+               </birth>
+               <death>
+                  <date>1904-11-04</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Zeitungsverleger</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/9671</idno></person>
+            </listPerson></back></text>
+</TEI>

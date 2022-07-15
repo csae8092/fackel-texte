@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00729.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00728.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00730.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">F. G. (Herr v. Call), in: Fackel Heft 01, Nr. 030, 1900, S. 30-30</title>
+            <title type="iso-date">1900-01-01</title>
+            <title type="id">tid_00729</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">030</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-030_n0030.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/030,030</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>F. G. (Herr v. Call)</head>
+            <p ana="pr6955">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="n_5370" ref="#fk__p_43038"><abbr>F. G.</abbr></rs></seg></seg> Dass die Schwestern des neuesten Handelsministers<lb/>
+Herrn <rs type="pers" ana="n_5371" ref="#fk__p_54486"><abbr>v.</abbr> <seg type="spc">Call</seg></rs> Klosterschwestern wurden, scheinen Sie ihnen höchlich<lb/>
+zu verargen. Sie ziehen offenbar die Mädchen, die nach schweren<lb/>
+Seelenkämpfen zu <seg type="insult">Jours</seg> zu gehen sich entschließen, jenen vor, die<lb/>
+ins Kloster gehen. Herr <rs type="pers" ana="n_5372" ref="#fk__p_54486"><abbr>v.</abbr> Call zu Rosenburg</rs> aber, der jetzt ins<lb/>
+<rs type="inst"><rs type="pers" ana="n2_392" key="#fk__p_57537">Barbarastift</rs></rs> heimgekehrt ist, wird wohl nicht lange Muße haben,<lb/>
+frühere politische Sünden zu bereuen. Heutzutage wird ja einem<lb/>
+<RS pers="Joseph Freiherr von Di Pauli-Treuheim" globID="name_201410">Handelsminister</RS> nicht einmal Zeit gelassen, sich nothdürftig das<lb/>
+Verständnis für Tiroler Weinhandel zu erwerben.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_43038">
+               <persName>G., F.</persName>
+            </person>
+            <person xml:id="fk__p_54486">
+               <persName>Call zu Rosenburg und Kulmbach, Guido Freiherr von</persName>
+               <birth>
+                  <date>1849-09-06</date>
+                  <place>Triest</place>
+               </birth>
+               <death>
+                  <date>1927-05-12</date>
+                  <place>Graz</place>
+               </death>
+               <occupation>Politiker</occupation>
+               <occupation>Diplomat</occupation>
+               <note type="comment">als Diplomat in Konstantinopel, Sofia, Tokio</note>
+               <note type="comment">Handelsminister 1900-1905</note>
+               <note type="comment">Botschafter in Japan</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

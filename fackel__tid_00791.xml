@@ -1,0 +1,46 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00791.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00790.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00792.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Architekten K. und vielen anderen Lesern, in: Fackel Heft 01, Nr. 032, 1900, S. 32-32</title>
+            <title type="iso-date">1900-02-01</title>
+            <title type="id">tid_00791</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">032</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-032_n0032.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/032,032</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Architekten K. und vielen anderen Lesern</head>
+            <p ana="pr7443">
+<space/><seg type="sidehead"><seg type="i">Architekten <rs type="pers" ana="n_5830" ref="#fk__p_59273"><abbr>K.</abbr></rs> und vielen anderen Lesern</seg></seg> Dank für die<lb/>
+freundliche Zustimmung zur <rs type="pers" ana="n_5831" ref="#fk__p_49299">Hevesi-Betrachtung</rs>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_49299">
+               <persName>Hevesi, Ludwig</persName>
+               <birth>
+                  <date>1843-12-20</date>
+                  <place>Heves, Ungarn</place>
+               </birth>
+               <death>
+                  <date>1910-2-27</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Journalist</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11687</idno></person>
+            <person xml:id="fk__p_59273">
+               <persName>K.</persName>
+               <occupation>Architekt</occupation>
+               <note type="comment"/>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/18971</idno></person>
+            </listPerson></back></text>
+</TEI>

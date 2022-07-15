@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_06130.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06129.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_06131.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Sammlung für Else Lasker-Schüler), in: Fackel Heft 14, Nr. 370, 1913, S. 33-33</title>
+            <title type="iso-date">1913-03-01</title>
+            <title type="id">tid_06130</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">14</title><title type="heft">370</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-14-370_n0033.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/370,033</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Sammlung für Else Lasker-Schüler)</head>
+            <p ana="pr82719">
+<space/>Durch die <seg type="insult">Witzpresse</seg> wird kolportiert, daß die von der<lb/>
+<rs type="self" ana="werk_19320">Fackel</rs> angeregte Sammlung für <rs type="pers" ana="n_57943" ref="#fk__p_42561">Else Lasker-Schüler</rs> »11 Kronen<lb/>
+ergeben« habe. Wenn es wahr wäre, gäb’s keinen Grund, witzig<lb/>
+zu sein, und trauriger als um die Dichterin stünde es um das<lb/>
+deutsche Publikum. Der Witz ist durch die <seg type="insult">Geschmacklosigkeit</seg><lb/>
+einer <rs type="perRef" ana="werk_19321">Berliner Zeitung</rs> entstanden, welche die Summe von<lb/>
+elf Mark, die ihr für die Sammlung übermittelt wurde, mit<lb/>
+einigen pompösen Zeilen besonders ausgewiesen hat, statt den<lb/>
+Empfang den Spendern brieflich zu bestätigen. Tatsächlich beträgt<lb/>
+das Ergebnis der Sammlung bis zum <date>ersten März</date> 4660 Kronen.<lb/>
+Eine Summe, die freilich noch immer nicht hoch genug ist,<lb/>
+um das deutsch lesende Publikum von der Verpflichtung<lb/>
+der Scham loszukaufen. Aber die Sammlung ist ja noch nicht<lb/>
+abgeschlossen und wer eine Versäumnis bereuen will, wende sich<lb/>
+getrost an die Sammelstelle: Professor <rs type="pers" ana="n_57944" ref="#fk__p_55231"><abbr>Dr.</abbr> Walter Otto</rs>, Wien,<lb/>
+XIX., Gebhardtgasse 1.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_55231">
+               <persName>Otto, Walter F.</persName>
+               <birth>
+                  <date>1874-06-22</date>
+                  <place>Hechingen</place>
+               </birth>
+               <death>
+                  <date>1958-09-23</date>
+                  <place>Tübingen</place>
+               </death>
+               <occupation>Altphilologe</occupation>
+               <occupation>Religionshistoriker</occupation>
+               <note type="comment">19., Gebhardtgasse 1</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/48844</idno></person>
+            <person xml:id="fk__p_42561">
+               <persName>Lasker-Schüler, Else</persName>
+               <birth>
+                  <date>1869-2-11</date>
+                  <place>Elberfeld</place>
+               </birth>
+               <death>
+                  <date>1945-1-22</date>
+                  <place>Jerusalem</place>
+               </death>
+               <occupation>Schriftstellerin</occupation>
+               <note type="comment">mit Kraus' Schätzung der Dichterin L. nicht einverstanden</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38973</idno></person>
+            </listPerson></back></text>
+</TEI>

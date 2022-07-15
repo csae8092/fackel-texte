@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01923.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01922.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01924.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Herrn Sándor Jaray. (Eine Zuschrift des Herrn Jaray), in: Fackel Heft 03, Nr. 080, 1901, S. 32-32</title>
+            <title type="iso-date">1901-06-01</title>
+            <title type="id">tid_01923</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">03</title><title type="heft">080</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-03-080_n0032.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/080,032</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Herrn Sándor Jaray. (Eine Zuschrift des Herrn Jaray)</head>
+            <p ana="pr18764">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i">Herrn <rs type="pers" ana="n_15786" ref="#fk__p_52754">Sándor Jaray</rs>.</seg></seg></seg> Sie haben die Freundlichkeit, sich in<lb/>
+einem vom <date>19. Juni</date> datierten Schreiben für die <seg type="insult">»Reclame«</seg> in <rs type="selfRef" ana="werk_6077"><abbr>Nr.</abbr> 79</rs><lb/>
+der ‚<rs type="self" ana="werk_6078">Fackel</rs>‘ ironisch zu bedanken. Diese Auffassung überrascht mich<lb/>
+nicht; aber es wäre thöricht, sich von der Zurechtweisung <seg type="insult">aufdringlicher<lb/>
+ Erscheinungen</seg> durch das Bedenken abhalten zu lassen, dass man<lb/>
+ihnen neuerlich <seg type="insult">»Reclame«</seg> macht. Ihren Brief will ich trotzdem nicht<lb/>
+abdrucken. Sie haben ja, wie rechts oben ausdrücklich vermerkt ist, den<lb/>
+<rs type="pers" ana="n_15787" ref="#fk__p_43514">Franz Josefsorden</rs> <seg type="insult">bloß »für hervorragende Leistungen auf dem Gebiete<lb/>
+der Kunstindustrie«</seg> und <seg type="insult">nicht für hervorragende Leistungen auf dem<lb/>
+Gebiete der Orthographie</seg> bekommen. Aber Sie sollten nicht gar so<lb/>
+bescheiden sein! <seg type="insult">Die »<SPAN norm="reizende"><seg type="spc">reitzende</seg></SPAN> Notiz«</seg>, die <seg type="insult">im »<rs type="selfRef" ana="werk_40150">letzten <SPAN norm="Heft"><seg type="spc">Hefft</seg></SPAN></rs>«</seg> der<lb/>
+‚<rs type="self" ana="werk_6079">Fackel</rs>‘ steht, haben Sie vollauf verdient. Der Dank, den Sie mir<lb/>
+»biethen«, ist überflüssig. Wer Sie kennt, weiß, wie Sie <seg type="insult">»zu dieße<lb/>
+Ehre«</seg> gekommen sind.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_52754">
+               <persName>Járay, Sándor</persName>
+               <birth>
+                  <date>1845-7-5</date>
+                  <place>Temesvár</place>
+               </birth>
+               <death>
+                  <date>1916-7-8</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Möbelfabrikant</occupation>
+            </person>
+            <person xml:id="fk__p_43514">
+               <persName>Franz Joseph I., Kaiser</persName>
+               <birth>
+                  <date>1830-8-18</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1916-11-21</date>
+                  <place>Wien</place>
+               </death>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15150</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_02704.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02703.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_02705.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Richtigstellung, in: Fackel Heft 04, Nr. 118, 1902, S. 20-21</title>
+            <title type="iso-date">1902-10-17</title>
+            <title type="id">tid_02704</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">04</title><title type="heft">118</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-04-118_n0020.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/118,020</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Richtigstellung</head>
+            <p ana="pr26415">
+<space/><inciptit>In</inciptit> den <rs type="selfRef" ana="werk_9212">Nummern 105</rs> und <rs type="selfRef" ana="werk_9213">106</rs> der ‚<rs type="self" ana="werk_9214">Fackel</rs>‘ sind<lb/>
+zwei Notizen erschienen, die die Mittheilung enthielten,<lb/>
+daß der akademische Senat den Hofrath <rs type="pers" ana="n_22840" ref="#fk__p_41448"><abbr>Dr.</abbr> Schrötter<lb/>
+von Kristelli</rs> in Disciplinaruntersuchung gezogen habe.<lb/>
+Thatsächlich ist, wie durch die authentische Erklärung<lb/>
+ des Decans der medicinischen Facultät <abbr>Prof.</abbr><lb/>
+</p>
+            <p ana="pr26415">
+<rs type="pers" ana="n_22841" ref="#fk__p_41390"><abbr>Dr.</abbr> Kolisko</rs> festgestellt wurde, eine Disciplinaruntersuchung<lb/>
+ gegen Herrn Hofrath <rs type="pers" ana="n_22842" ref="#fk__p_41448">Schrötter</rs> nicht geführt<lb/>
+worden. Der Verfasser jener beider Notizen schreibt<lb/>
+mir nun, er habe die der amtlichen Erklärung entsprechende<lb/>
+ Richtigstellung in der ‚<rs type="self" ana="werk_9215">Fackel</rs>‘ zu seinem<lb/>
+Bedauern bisher nicht vornehmen können, weil er<lb/>
+den Aufenthaltsort seiner zu jener Zeit nicht in Wien<lb/>
+weilenden Gewährsmänner nicht kannte. Diese hätten<lb/>
+ihm nunmehr bestätigt, daß ihre Angaben auf einem<lb/>
+Irrthum beruhten, und er stehe nicht an, seine Behauptungen<lb/>
+ zu revocieren.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_41390">
+               <persName>Kolisko, Alexander</persName>
+               <birth>
+                  <date>1857-11-06</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1918-02-23</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Anatom</occupation>
+            </person>
+            <person xml:id="fk__p_41448">
+               <persName>Schrötter-Kristelli, Leopold Ritter von</persName>
+               <birth>
+                  <date>1837-02-05</date>
+                  <place>Graz</place>
+               </birth>
+               <death>
+                  <date>1908-01-21</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Laryngologe</occupation>
+            </person>
+            </listPerson></back></text>
+</TEI>

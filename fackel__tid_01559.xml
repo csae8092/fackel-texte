@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01559.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01558.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01560.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Liebe Fackel!, in: Fackel Heft 02, Nr. 066, 1901, S. 26-26</title>
+            <title type="iso-date">1901-01-01</title>
+            <title type="id">tid_01559</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">066</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-066_n0026.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/066,026</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Liebe Fackel!</head>
+            <p ana="pr15463">
+<space/>Herr <rs type="pers" ana="n_12845" ref="#fk__p_51242">Schlenther</rs> hat den Jahrhundertbeginn verschlafen. Am<lb/>
+<date>22. Jänner</date> prangte auf dem Theaterzettel des <rs type="inst">Burgtheaters</rs> die<lb/>
+Versicherung, »<rs type="title"><rs type="pers">Minna von Barnhelm</rs></rs>« spiele in der <DATERANGE>Mitte des vorigen<lb/>
+Jahrhunderts</DATERANGE>. Herr <rs type="pers" ana="n_12846" ref="#fk__p_51242">Schlenther</rs> weiß gewiss, dass der <rs type="event">Hubertusburger<lb/>
+Friede</rs> in das Jahr <date>1763</date> und nicht in das Jahr <date>1863</date> fällt. Wenn<lb/>
+er wach wird und man ihn nach diesem historischen Datum fragt,<lb/>
+so wird er die richtige Auskunft geben. Es ist doch merkwürdig,<lb/>
+wie verschieden die Temperamente der Menschen sind. Der eine<lb/>
+kann den Jahrhundertbeginn gar nicht erwarten und setzt ihn<lb/>
+schon für den <date>1. Jänner 1900</date> fest, und Herr Schlenther möchte wieder,<lb/>
+dass das neue Jahrhundert erst <date>1902</date> beginne. Aber seinetwegen<lb/>
+wird — so lautet doch das jetzt so gerne citierte Wort des Herrn<lb/>
+<rs type="pers" ana="n_12847" ref="#fk__p_49931">Halbe</rs> — »die Welt nicht einen Zoll breit aus ihrem Geleise gehen.«<lb/>
+Wir bleiben definitiv bei <date>1901</date>!<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_49931">
+               <persName>Halbe, Max</persName>
+               <birth>
+                  <date>1865-10-4</date>
+                  <place>Guettland bei Danzig</place>
+               </birth>
+               <death>
+                  <date>1944-10-30</date>
+                  <place>Burg bei Neuötting</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11565</idno></person>
+            <person xml:id="fk__p_51242">
+               <persName>Schlenther, Paul</persName>
+               <birth>
+                  <date>1854-8-20</date>
+                  <place>Insterburg, Ostpreußen</place>
+               </birth>
+               <death>
+                  <date>1916-4-30</date>
+                  <place>Berlin</place>
+               </death>
+               <occupation>Literarhistoriker</occupation>
+               <occupation>Kritiker</occupation>
+               <occupation>Theaterleiter</occupation>
+               <note type="comment">26. 1. 1898 - 28. 2. 1910 Burgtheater</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12671</idno></person>
+            </listPerson></back></text>
+</TEI>

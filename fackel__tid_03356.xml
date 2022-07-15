@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_03356.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03355.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_03357.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Techniker. (Sic transit), in: Fackel Heft 05, Nr. 148, 1903, S. 27-27</title>
+            <title type="iso-date">1903-12-2</title>
+            <title type="id">tid_03356</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">05</title><title type="heft">148</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-05-148_n0027.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/148,027</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Techniker. (Sic transit)</head>
+            <p ana="pr33183">
+<space/><seg type="sidehead"><seg type="insult"><seg type="i"><rs type="pers" ana="n_28693" ref="#fk__p_53987">Techniker</rs>.</seg></seg></seg> Die Reklamen für <rs type="pers" ana="n_28694" ref="#fk__p_46730">Jan Szczepanik</rs> sind aus den<lb/>
+Lokalberichten der Wiener Zeitungen verschwunden. Nur in der ‚<rs type="paper" ana="werk_12427">Wiener<lb/>
+Zeitung</rs>‘ war neulich noch von dem Erfinder zu lesen; ohne daß sein<lb/>
+Name genannt wurde und in der Rubrik »<rs type="paperRef" ana="werk_41191">Lizitationen</rs>«. Am <date>1. Dezember</date><lb/>
+gelangt in der Pragerstraße 8 — wo »<rs type="inst"><rs type="pers" ana="n2_2216" ref="#fk__p_46730">Jan Szczepanik</rs> &amp; <abbr>Co.</abbr></rs>, <foreign xml:lang="fr">Société des<lb/>
+inventions</foreign>« ihren Sitz haben — eine »komplette Fabrikseinrichtung« zur<lb/>
+gerichtlichen Versteigerung. Abgegeben werden: »Drehbänke, Hobelmaschinen<lb/>
+, Bohrmaschinen, Stanzen, <abbr>div.</abbr> Holzbearbeitungsmaschinen,<lb/>
+Schraubstöcke, ferner <seg type="spc">Webstühle</seg>, <seg type="spc">Kartenschlagmaschinen</seg>, <abbr>photogr.</abbr><lb/>
+Apparate«. <seg type="insult">Die berühmten Verbesserungen der Webetechnik</seg> werden als<lb/>
+<seg type="insult">Ramschware</seg> verkauft! Und vom »Fernseher«, der fast der Clou einer<lb/>
+<rs type="event">Weltausstellung</rs> geworden wäre, wenn er fertig geworden wäre, hört<lb/>
+man nichts; die Exekutivbehörde scheint ihn nicht als Gegenstand von<lb/>
+Wert zu betrachten. Aber auch die lobenden Zeitungsartikel, die doch<lb/>
+am meisten Geld gekostet haben, werden nicht mitversteigert. <foreign xml:lang="la">Sic transit <seg type="symbol" subtype="3dots"/></foreign><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46730">
+               <persName>Szczepanik, Jan</persName>
+               <birth>
+                  <date>1872-4-13</date>
+                  <place>Rudniki bei Mostyska/Ukraine</place>
+               </birth>
+               <death>
+                  <date>1926-4-18</date>
+                  <place>Tarnów/Polen</place>
+               </death>
+               <occupation>Erfinder</occupation>
+            </person>
+            <person xml:id="fk__p_53987">
+               <persName>Techniker</persName>
+            </person>
+            </listPerson></back></text>
+</TEI>

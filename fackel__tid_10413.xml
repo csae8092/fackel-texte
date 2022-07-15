@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_10413.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10412.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_10414.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ebenda, 12. Januar, halb 8 Uhr:, in: Fackel Heft 27, Nr. 712, 1926, S. 50-50</title>
+            <title type="iso-date">1926-01-01</title>
+            <title type="id">tid_10413</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">27</title><title type="heft">712</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-27-712_n0050.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/712,050</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Ebenda, 12. Januar, halb 8 Uhr:</head>
+            <p ana="pr142355">
+<space/>Ebenda, <date>12. Januar</date>, halb 8 Uhr:<lb/>
+</p>
+            <p ana="pr142356">
+<space/><rs type="pers" ana="n_86846" ref="#fk__p_46919"><seg type="spc">Nestroy</seg></rs>: <rs type="title"><seg type="spc">Der Talisman</seg></rs> (Mit 4 <abbr>bezw.</abbr> 2 <rs type="pers" ana="n_86847" ref="#fk__p_46919">Nestroy’schen<lb/>
+und 8 <abbr>bezw.</abbr> 10 Zusatzstrophen</rs>.)<lb/>
+</p>
+            <p ana="pr142357">
+<space/>Begleitung: <rs type="pers" ana="n_86848" key="#fk__p_50972">Otto Jordan</rs>.<lb/>
+</p>
+            <p ana="pr142358">
+<space/>Besprechungen im Brünner ‚<rs type="paper" ana="werk_27386">Volksfreund</rs>‘ <date>13.</date> und <date>16. Januar</date>.<lb/>
+</p>
+            <p ana="pr142359">
+<space/>Die Zuwendungen aus den Erträgnissen werden im <rs type="selfRef" ana="werk_27387">nächsten Heft</rs><lb/>
+ausgewiesen werden.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_46919">
+               <persName>Nestroy, Johann Nepomuk</persName>
+               <birth>
+                  <date>1801-12-7</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1862-5-25</date>
+                  <place>Graz</place>
+               </death>
+               <occupation>Sänger</occupation>
+               <occupation>Schauspieler</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12338</idno></person>
+            </listPerson></back></text>
+</TEI>

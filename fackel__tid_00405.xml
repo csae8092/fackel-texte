@@ -1,0 +1,43 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_00405.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00404.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_00406.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Leser., in: Fackel Heft 01, Nr. 016, 1899, S. 27-28</title>
+            <title type="iso-date">1899-09-01</title>
+            <title type="id">tid_00405</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">01</title><title type="heft">016</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-01-016_n0027.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/016,027</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Leser.</head>
+            <p ana="pr3701">
+<space/><seg type="sidehead"><seg type="i"><rs type="pers" ana="name_203293" ref="#fk__p_48877">Leser</rs>.</seg></seg> Sie machen mich darauf aufmerksam, dass die <rs type="inst"><abbr>k. k.</abbr> <abbr>priv.</abbr><lb/>
+Creditanstalt für Handel und Gewerbe</rs> ihre Kundmachung betreffs<lb/>
+des Bezugsrechtes neuer Actien auch in den Inseratentheil des<lb/>
+‚<seg type="spc"><rs type="magazine" ana="werk_963">Kikeriki</rs></seg>‘ hat einrücken lassen. Da kann man jetzt die Anmeldungsstellen<lb/>
+ in gesperrtem Drucke lesen: <rs type="pers" ana="n_2619" ref="#fk__p_37579"><abbr>S.</abbr> <seg type="spc">Bleichröder</seg></rs>, <rs type="pers" ana="n_2620" key="#fk__p_49425"><abbr>M. A. v.</abbr> <seg type="spc">Rothschild<lb/>
+</seg></rs>, <rs type="pers" ana="n_2621" ref="#fk__p_58572"><seg type="spc">Mendelsohn</seg></rs> &amp; <abbr><seg type="spc">Co</seg>.</abbr> <abbr>etc.</abbr><lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_48877">
+               <persName>Leser</persName>
+            </person>
+            <person xml:id="fk__p_37579">
+               <persName>Bleichröder, S. (Bankhaus)</persName>
+               <note type="comment">Samuel Bleichröder (1803-30.12.1855)</note>
+            </person>
+            <person xml:id="fk__p_58572">
+               <persName>Mendelssohn (Mendelssohn &amp; Co., Bankhaus, Berlin)</persName>
+               <note type="comment">Namenskorrektur!</note>
+            </person>
+            </listPerson></back></text>
+</TEI>

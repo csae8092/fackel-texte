@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_08341.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08340.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08342.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Haarsträubendes, in: Fackel Heft 20, Nr. 484, 1918, S. 28-29</title>
+            <title type="iso-date">1918-10-01</title>
+            <title type="id">tid_08341</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">20</title><title type="heft">484</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-20-484_n0028.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/484,028</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Haarsträubendes</head>
+            <p ana="pr110093">
+<space/>Der deutsche Botschafter in London:<lb/>
+</p>
+            <p ana="pr110095">
+<space/>Nachträglich erfuhr ich, daß bei der entscheidenden <seg type="spc">Besprechung<lb/>
+ in Potsdam am</seg> <date>5. <seg type="spc">Juli</seg></date> die Wiener Anträge die unbedingte<lb/>
+Zustimmung aller Persönlichkeiten fanden, und zwar mit dem Zusatze,<lb/>
+<seg type="spc">es werde auch nicht schaden</seg>, <seg type="spc">wenn daraus ein<lb/>
+Krieg mit Rußland entstehen sollte</seg>. So heißt es<lb/>
+wenigstens im österreichischen Protokoll, das <rs type="pers" ana="n_68914" ref="#fk__p_50091">Graf Mensdorff</rs> in<lb/>
+London erhielt.<lb/>
+</p>
+            <p ana="pr110097">
+<space/><seg type="insult">Die <rs type="perRef" ana="werk_21430">Zeitung</rs></seg>:<lb/>
+</p>
+            <p ana="pr110099">
+<space/>Die Geschichte von dem Telegramm an den <rs type="pers" ana="n_68915" ref="#fk__p_50091">Grafen Mensdorff</rs>,<lb/>
+worin angeblich nach dem Kriegsrate in Potsdam, der überhaupt<lb/>
+nicht stattgefunden hat, dem Botschafter von Wien mitgeteilt worden<lb/>
+wäre, ein Krieg mit Rußland würde nicht schaden, ist <seg type="spc">so haarsträubend<lb/>
+</seg>, daß es ganz unverständlich bleibt, wie <rs type="pers" ana="n_68916" ref="#fk__p_47589">Fürst Lichnowsky</rs>,<lb/>
+der <seg type="spc">die Formen des Wiener Ballplatzes</seg> aus eigener<lb/>
+Erfahrung kennt, an solche Märchen auch nur einen Augenblick<lb/>
+glauben konnte.<lb/>
+</p>
+            <p ana="pr110101">
+<space/>Wenn der deutsche Botschafter in London von einem<lb/>
+Protokoll spricht, das der österreichische Botschafter in London<lb/>
+erhalten habe, so muß er es gesehen und nicht bloß davon<lb/>
+gehört haben. Die Feststellung der Wahrheit, deren Wesen <seg type="insult">die<lb/>
+Formen des Wiener Ballplatzes</seg> doch gewiß nicht widerstreben,<lb/>
+wäre durch Befragung des österreichischen Kollegen ermöglicht.<lb/>
+</p>
+            <p ana="pr110101">
+Am haarsträubendsten wäre die Tatsache, daß Deutschland einen<lb/>
+Botschafter in London gehabt hätte, der solche Dinge behauptet,<lb/>
+ohne sie zu wissen.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_50091">
+               <persName>Mensdorff-Pouilly-Dietrichstein, Albert Fürst</persName>
+               <birth>
+                  <date>1861-9-9</date>
+                  <place>Lemberg</place>
+               </birth>
+               <death>
+                  <date>1945-6-15</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Diplomat</occupation>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_18079</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/21327</idno></person>
+            <person xml:id="fk__p_47589">
+               <persName>Lichnowsky, Karl Max Fürst </persName>
+               <birth>
+                  <date>1860-3-8</date>
+                  <place>Kreuzenort, Oberschlesien</place>
+               </birth>
+               <death>
+                  <date>1928-2-27</date>
+                  <place>Kuchelna, Oberschlesien</place>
+               </death>
+               <occupation>Diplomat</occupation>
+               <note type="comment">1912-14 dt. Botschafter in London</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/39994</idno></person>
+            </listPerson></back></text>
+</TEI>

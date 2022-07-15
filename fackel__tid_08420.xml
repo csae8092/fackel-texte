@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_08420.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08419.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08421.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">(Wie Herr Carl Sternheim seine Andacht verrichtet), in: Fackel Heft 20, Nr. 484, 1918, S. 130-130</title>
+            <title type="iso-date">1918-10-01</title>
+            <title type="id">tid_08420</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">20</title><title type="heft">484</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-20-484_n0130.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/484,130</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>(Wie Herr Carl Sternheim seine Andacht verrichtet)</head>
+            <p ana="pr110967">
+<space/>— — Solche Zeitschrift <seg type="spc">in des Juweliers Auslage</seg>. — —<lb/>
+Wie der wahrhaft Fromme <seg type="spc">Andacht</seg> nicht <seg type="spc">mit der Masse</seg> verrichtet<lb/>
+, ist <seg type="spc">mit dem Kunstwerk</seg> der Verständige am liebsten allein.<lb/>
+</p>
+            <p ana="pr110968">
+<rs type="pers" ana="n_69301" ref="#fk__p_39761"><AUCTOR>Carl Sternheim</AUCTOR></rs>.<lb/>
+</p>
+            <p ana="pr110970">
+<space/>Daß <seg type="insult">Herr <rs type="pers" ana="n_69302" ref="#fk__p_39761">Sternheim</rs></seg>, der diese Worte einem <seg type="insult">Berliner<lb/>
+Büttenkleinod</seg> widmet, <seg type="insult">seine Andacht</seg> am liebsten vor einer<lb/>
+Juwelierauslage verrichtet, habe ich, wenn ich mit einem <seg type="insult">Kunstwerk<lb/>
+ seiner Sprache</seg> allein war, eben daraus entnommen.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_39761">
+               <persName>Sternheim, Carl</persName>
+               <birth>
+                  <date>1878-4-1</date>
+                  <place>Leipzig</place>
+               </birth>
+               <death>
+                  <date>1942-11-3</date>
+                  <place>Brüssel</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12848</idno></person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_08407.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08406.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_08408.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Worauf man stolz sein kann, in: Fackel Heft 20, Nr. 484, 1918, S. 85-85</title>
+            <title type="iso-date">1918-10-01</title>
+            <title type="id">tid_08407</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">20</title><title type="heft">484</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-20-484_n0085.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/484,085</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Worauf man stolz sein kann</head>
+            <p ana="pr110708">
+<space/>In der <rs type="inst"><rs type="pers" ana="n2_6196" ref="#fk__p_48763">Leo-Gesellschaft</rs></rs> hat Hofrat <rs type="pers" ana="n_69163" ref="#fk__p_41958"><abbr>v.</abbr> Millenkovich</rs> <seg type="symbol" subtype="2dots"/> eine<lb/>
+Art <seg type="spc">Rechenschaftsbericht</seg> über die fünf Vierteljahre seiner <rs type="inst">Burgtheaterdirektion<lb/>
+</rs> erstattet. — — Er <seg type="spc">rühmte sich</seg>, jüngere, wenig<lb/>
+beachtete Kräfte gefördert, zuerst in tragenden Rollen vor das Publikum<lb/>
+gestellt zu haben <seg type="symbol" subtype="4dots"/> Ferner habe er <seg type="spc"><rs type="pers" ana="n_69164" ref="#fk__p_52080">Reimers</rs> den <RS pers="William Shakespeare"><rs type="pers" ana="name_202898" ref="#fk__p_55589">Lear</rs></RS><lb/>
+spielen lassen</seg> und <seg type="spc">für <rs type="pers" ana="n_69165" ref="#fk__p_45545">Walden</rs></seg> war zu Beginn der diesjährigen<lb/>
+Spielzeit <seg type="spc">der <rs type="pers">Hamlet</rs> bestimmt</seg>.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_52080">
+               <persName>Reimers, Georg</persName>
+               <birth>
+                  <date>1860-4-4</date>
+                  <place>Altona</place>
+               </birth>
+               <death>
+                  <date>1936-4-15</date>
+                  <place>Wien</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+               <note type="comment">ab 1885 am Burgtheater, 1922 EM</note>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12498</idno></person>
+            <person xml:id="fk__p_55589">
+               <persName>Shakespeare, William</persName>
+               <birth>
+                  <date>1564-4-23?</date>
+                  <place>Stratford-upon-Avon</place>
+               </birth>
+               <death>
+                  <date>1616-4-23</date>
+                  <place>Stratford-upon-Avon</place>
+               </death>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2412</idno></person>
+            <person xml:id="fk__p_48763">
+               <persName>Leo XIII., Papst</persName>
+               <birth>
+                  <date>1810-3-2</date>
+                  <place>Carpineto/Anagni</place>
+               </birth>
+               <death>
+                  <date>1903-7-20</date>
+                  <place>Rom</place>
+               </death>
+               <occupation>Papst</occupation>
+               <note type="comment">03.03.1878-20.07.1903</note>
+            <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17445</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/20310</idno></person>
+            <person xml:id="fk__p_45545">
+               <persName>Walden, Harry</persName>
+               <birth>
+                  <date>1875-10-22</date>
+                  <place>Berlin</place>
+               </birth>
+               <death>
+                  <date>1921-6-4</date>
+                  <place>Berlin</place>
+               </death>
+               <occupation>Schauspieler</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/3201</idno></person>
+            <person xml:id="fk__p_41958">
+               <persName>Millenkovich, Max von</persName>
+               <birth>
+                  <date>1866-03-02</date>
+                  <place>Wien</place>
+               </birth>
+               <death>
+                  <date>1945-02-05</date>
+                  <place>Baden/NÖ</place>
+               </death>
+               <occupation>Theaterleiter</occupation>
+               <occupation>Schriftsteller</occupation>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/4048</idno></person>
+            </listPerson></back></text>
+</TEI>

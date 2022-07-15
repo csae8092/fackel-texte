@@ -1,0 +1,45 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fackel__tid_01119.xml" xml:base="https://id.acdh.oeaw.ac.at/fackel-texte" prev="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01118.xml" next="https://id.acdh.oeaw.ac.at/fackel-texte/fackel__tid_01120.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Wiener Warenmarkt., in: Fackel Heft 02, Nr. 047, 1900, S. 30-30</title>
+            <title type="iso-date">1900-07-01</title>
+            <title type="id">tid_01119</title>
+            <title type="sub">Digitale Edition der Fackel-Texte</title>
+         <title type="jahrgang">02</title><title type="heft">047</title></titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl><bibl type="xml">FK-02-047_n0030.xml</bibl><bibl type="url">https://fackel.oeaw.ac.at/F/047,030</bibl></listBibl></sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main_text">
+            <head>Wiener Warenmarkt.</head>
+            <p ana="pr10702">
+<space/>Der französische Minister für Unterricht und schöne Künste<lb/>
+hat, wie die ‚<rs type="paper" ana="werk_3193">Neue Freie Presse</rs>‘ meldet, »dem Wiener Publicisten<lb/>
+und Schriftsteller <rs type="pers" ana="n_8718" ref="#fk__p_48818"><abbr>L. K.</abbr> Nolston</rs> den Titel eines <foreign xml:lang="fr">‚Officier d’ Académie‘</foreign><lb/>
+verliehen«. — <seg type="insult">Der von dem Wiener Publicisten und Schriftsteller <rs type="pers" ana="n_8719" ref="#fk__p_48818"><abbr>L.</abbr><lb/>
+Kohn</rs> herausgegebene Bericht von der <rs type="inst">Warenbörse</rs></seg> verzeichnet freudig:<lb/>
+<seg type="spc">Leder</seg> anhaltend fest, <seg type="spc">Knoppern</seg> gut beachtet.<lb/>
+</p>
+         </div>
+      </body>
+  <back><listPerson><person xml:id="fk__p_48818">
+               <persName>Nolston, Leopold</persName>
+               <birth>
+                  <date>1847-11-14</date>
+                  <place>Nikolsburg/Mähren</place>
+               </birth>
+               <death>
+                  <date>1905-3-4</date>
+                  <place>Wien</place>
+               </death>
+               <note type="comment">Namensänderung bewilligt am 2.12.1904</note>
+               <note type="comment">ZF 1. Tor 51/5/88</note>
+            </person>
+            </listPerson></back></text>
+</TEI>
